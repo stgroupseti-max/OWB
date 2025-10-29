@@ -1,0 +1,75 @@
+﻿l_english:
+  vault_tec_calling_category:0 "Vault-Tec Calling!"
+  vault_tec_calling_category_desc:0 "Now that we are beginning to engage in diplomacy with the lesser denizens of the wasteland, we may want to set our sights on some special missions. As Vault Dwellers (or descendents thereof), we have a distinct connection to Vault-Tec and their many Vaults spread across the old world. There is much we could learn from studying these other Vaults and their distinct conditions.\n\nWe currently have explored [?personal_vault_surveys_completed] Vaults."
+
+  vault_3:0 "Explore Vault 3"
+  vault_3_desc:0 "Despite the slaughter of Vault 3's residents by the Fiends, the Vault itself may hold valuable resources."
+  vault_3_surveyed_global_flag:0 "Vault 3 has already been surveyed."
+
+  vault_6:0 "Clear the Ferals from Vault 6"
+  vault_6_desc:0 "This mysterious vault is guarded by packs of feral ghouls, though the structure may prove useful."
+  vault_6_surveyed_global_flag:0 "Vault 6 has already been surveyed."
+
+  # vault_8:0 ""
+  # vault_8_desc:0 ""
+  vault_8_surveyed_global_flag:0 "Vault 8 has already been surveyed."
+
+  vault_9:0 "Stumble Upon Vault 9"
+  vault_9_desc:0 "Wyoming, the land of barons, miners, and cowboys, but not dwellers. As far as we can tell none of the recorded Vaults in this area have been opened, or even discoverd. Until now, as our scouts have happened upon the still sealed Vault 9."
+  vault_9_surveyed_global_flag:0 "Vault 9 has already been surveyed."
+
+  vault_13:0 "Explore Vault 13"
+  vault_13_desc:0 "The site of many important events, it seems almost sacrilegious to not use it."
+  vault_13_surveyed_global_flag:0 "Vault 13 has already been surveyed."
+
+  vault_15:0 "Explore Vault 15"
+  vault_15_desc:0 "Long since abandoned and in complete ruin, this vault is little more than a dangerous passion project."
+  vault_15_surveyed_global_flag:0 "Vault 15 has already been surveyed."
+
+  vault_19:0 "Explore Vault 19"
+  vault_19_desc:0 "Abandoned due to a sulfur leak, it might be operable."
+  vault_19_surveyed_global_flag:0 "Vault 19 has already been surveyed."
+
+  vault_21:0 "Explore Vault 21"
+  vault_21_desc:0 "The bottom floors of this vault have been collapsed in, though the upper floors can accommodate quite a lot."
+  vault_21_surveyed_global_flag:0 "Vault 21 has already been surveyed."
+
+  vault_22:0 "Clearing Vault 22"
+  vault_22_desc:0 "Our initial survey team lost contact with us, and the surface team has sent word that strage plants have began sprouting out of the entrance of the Vault. Once inside they found the remains of the survey team's camp under layers of roots and other plantmatter. Assuming the worst, they retreated, called in Flamer support and burnt everything they could find. Lucky for us, before the strike team even knew what was waiting for them, humanoid plant mutants burnt in their hiding places without much resistance. Good thing Vault-Tec provided 'How to act in case of Floral Uprising'."
+  vault_22_surveyed_global_flag:0 "Vault 22 has already been surveyed."
+
+  vault_24:0 "Contact Vault 24"
+  vault_24_desc:0 "Vault 24's dwellers, referred to colloquially as the Time Keepers, seemed to have locked themselves away underground-- abandoning the surface. Now that we have finally found the Vault, we may make efforts to contact them through their computer systems, hopefully leading to their emergence and acceptance into our ranks."
+  vault_24_surveyed_global_flag:0 "Vault 24 has already been surveyed."
+
+  vault_29:0 "Explore Vault 29"
+  vault_29_desc:0 "Vault 29 was sending operational signals up until 2253. Given the scraps of information recovered about the nature of the experiment there, it may be worth it to send a team in to investigate."
+  vault_29_surveyed_global_flag:0 "Vault 29 has already been surveyed."
+
+  vault_34:0 "Contact the Boomers"
+  vault_34_desc:0 "The dwellers of this vault seem to have set up quite the arsenal for themselves. We should see if they are willing to help their fellow dwellers out."
+  vault_34_surveyed_global_flag:0 "Vault 34 has already been surveyed."
+
+  vault_37:0 "Explore Vault 37"
+  vault_37_desc:0 "We have located a new Vault that is rumored to be under the control of an AI."
+  vault_37_surveyed_global_flag:0 "Vault 37 has already been surveyed."
+
+  vault_70:0 "Explore Vault 70"
+  vault_70_desc:0 "Abandoned years prior by the Canaanites, little of this vault remain in working order."
+  vault_70_surveyed_global_flag:0 "Vault 70 has already been surveyed."
+
+  vault_redmond:0 "Explore the Mysterious Redmond Vault"
+  vault_redmond_desc:0 "We have discovered an unmarked vault underneath the city of Redmond. Our team's efforts to identify its designation and more importantly their attempts to access it have been unsuccessful. Recently though, after our exploration of the Redmond, we have found codes that may help our efforts to access the mysterious Vault."
+  vault_redmond_surveyed_global_flag:0 "Redmond's Vault has already been surveyed."
+
+  vault_107:0 "Explore "Safehaven"'s Vault 107"
+  vault_107_desc:0 "It seems the dwellers of Vault 107 managed to rebuild the town that surrounded them, even going so far as establishing a semi-functioning nation with the surrounding towns. Luckily for us Vault 107 was easily located and opened, as it layed just beneath the town's center building."
+  vault_107_surveyed_global_flag:0 "Vault 107 has already been surveyed."
+
+  vault_corporate:0 "Discover the 'Vault-Tec Corporate Vault' of Los"
+  vault_corporate_desc:0 "In the territory that once belonged to the ghoul church of Los, scouts have discovered an unmarked Vault-Tec warehouse housing an unmarked Vault. Decrepit and nearly destroyed."
+  vault_corporate_surveyed_global_flag:0 "Los's 'Corporate' Vault has already been surveyed."
+
+  vault_27:0 "Contact Vault 27"
+  vault_27_desc:0 "Remarkably, our reports indicate that Vault 27 is still operational and housing its original inhabitants. Let's see if they want to talk."
+  vault_27_surveyed_global_flag:0 "Vault 27 has already been surveyed."

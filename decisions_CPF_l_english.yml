@@ -1,0 +1,11 @@
+﻿l_english:
+ CPF_seven_front_war:0 "The Burning Leaf"
+ CPF_seven_front_war_desc:0 "§R[STC.GetNamewithFlag]§!, §G[BGR.GetNameWithFlag]§!, §P[LOI.GetNameWithFlag]§!, and §M[COM.GetNameWithFlag]§! §gare still fighting the Great War in some ways. But recent tensions threaten to turn their on again, off again conflicts into a full blown war.§!"
+ CPF_raid_the_border:0 "The People Strike Back!"
+ CPF_raid_the_border_desc:0 "Big Sister has promised Revolutionary Justice against the Splitters in Vermillion for their counterrevolutionary activities. This will begin with a retaliatory strike on the border."
+ CPF_war_breaks_out:0 "The Long March Forward"
+ strath_marches:0 "The Commune Marches"
+ CPF_focus_BGR_front:0 "Focus on the Machines"
+ CPF_focus_COM_front:0 "Focus on the Capitalists"
+ CPF_focus_LOI_front:0 "Focus on the Worshippers"
+ CPF_focus_STC_front:0 "Focus on the Hardliners"

@@ -1,0 +1,35 @@
+﻿l_english:
+##Decision Categories
+SUN_internal_struggles:0 "Internal Struggles"
+SUN_actions_against_lanius:0 "Actions against Lanius"
+SUN_oroboros_aid:0 "Warriors against Lanius"
+SUN_baggers_aid:0 "Aiding Against the Bull"
+
+#Decisions
+sun_accepting_moon_worshipers:0 "Accepting Moon Worshipers"
+sun_accepting_moon_worshipers_desc:0 "Lupa seeks to gain further control on our nation, we should oblige seeing as she is our messiah!"
+sun_embracing_moon_worshipers:0 "Embracing Moon Worshipers"
+sun_embracing_moon_worshipers_desc:0 "Bless the Wolf Queen!"
+sun_reinforcing_golds_authority:0 "Reinforcing Gold-Hounds Authority"
+sun_confronting_lupa:0 "Confronting Lupa"
+sun_confronting_lupa_desc:0 "Lupa's influence has gone on long enough, it's time she pack her bags and leave. We don't need her anymore. Lanius will never be able to defeat us!"
+
+SUN_mercenaries_for_santa:0 "Mercenaries for Sante-Fe"
+SUN_mercenaries_for_mother:0 "Mercenaries for Diana"
+SUN_soldiers_for_summers:0 "Soldiers for Summers"
+
+ORO_warriors_for_scorpions:0 "Warriors for the Scorpions"
+ORO_warriors_for_scorpions_desc:0 "The Legion grows closer, they must be stopped"
+ORO_warriors_for_maxson:0 "Warriors for Maxson"
+ORO_warriors_for_maxson_desc:0 "The Legion grows closer, they must be stopped"
+ORO_warriors_for_hangdog:0 "Warriors for Hangdogs"
+ORO_warriors_for_hangdog_desc:0 "The Legion grows closer, they must be stopped"
+
+BAG_request_the_ncr:0 "Petition the NCR"
+BAG_request_the_ncr_desc:0 "If Lupa's warnings are true, then we must contact California and get forces here immediately!"
+BAG_forces_for_burk:0 "Forces for Burk"
+BAG_forces_for_burk_desc:0 "Sure, Burk and his forces are raiders, but they are led by a follower who could be put on the right path..."
+BAG_forces_for_maxson_chapter:0 "Forces for the Maxson Chapter"
+BAG_forces_for_maxson_chapter_desc:0 "Oh Congress is going to have a field day with this...doesn't matter, they need our support!"
+BAG_forces_for_bares_his_teeth:0 "Forces for Bares-His-Teeth"
+BAG_forces_for_bares_his_teeth_desc:0 "They may have pushed us out of Denver, but they need our assistance against Lanius. They're better then the legion, if not by much."

@@ -1,0 +1,48 @@
+﻿l_english:
+  navy_xp_more_than_5:0 "£navy_experience §H5§!"
+  navy_xp_more_than_5_blocked:0 "£navy_experience §R5§!"
+  navy_xp_more_than_5_tooltip:0 "It costs 5£navy_experience  to select this."
+
+  air_xp_more_than_10:0 "£air_experience §H10§!"
+  air_xp_more_than_10_blocked:0 "£air_experience §R10§!"
+  air_xp_more_than_10_tooltip:0 "It costs 10£air_experience  to select this."
+
+  cmd_pwr_more_than_30:0 "§H30§!£command_power"
+  cmd_pwr_more_than_30_blocked:0 "§R30§!£command_power"
+  cmd_pwr_more_than_30_tooltip:0 "It costs 30£command_power  to select this."
+
+  caps_more_than_75:0 "§H75§! caps"
+  caps_more_than_75_blocked:0 "§R75§! caps"
+  caps_more_than_75_tooltip:0 "It costs 75 caps to select this."
+
+  cmd_pwr_more_than_80:0 "§H80§!£command_power"
+  cmd_pwr_more_than_80_blocked:0 "§R80§!£command_power"
+  cmd_pwr_more_than_80_tooltip:0 "It costs 80£command_power  to select this."
+
+  decision_cost_10AE_10CP_10PP_text:0 "£army_experience  §Y10§! £command_power  §Y10§! £pol_power  §Y10§!"
+  decision_cost_10AE_10CP_10PP_text_blocked:0 "£army_experience  §R10§! £command_power  §R10§! £pol_power  §R10§!"
+  decision_cost_10AE_10CP_10PP_text_tooltip:0 "It costs £army_experience  §Y10§!,  £command_power  §Y10§! and  £pol_power §Y10§! to select this."
+
+  decision_cost_10AE_25CP_10PP_text:0 "£army_experience  §Y10§! £command_power  §Y25§! £pol_power  §Y10§!"
+  decision_cost_10AE_25CP_10PP_text_blocked:0 "£army_experience  §R10§! £command_power  §R25§! £pol_power  §R10§!"
+  decision_cost_10AE_25CP_10PP_text_tooltip:0 "It costs £army_experience  §Y10§!,  £command_power  §Y25§! and  £pol_power §Y10§! to select this."
+
+  decision_cost_25AE_10PP_150MP_text:0 "£army_experience  §Y25§!  £pol_power  §Y10§!  £manpower_texticon  §Y150§!"
+  decision_cost_25AE_10PP_150MP_text_blocked:0 "£army_experience  §R25§!  £pol_power  §R10§!  £manpower_texticon  §R150§!"
+  decision_cost_25AE_10PP_150MP_text_tooltip:0 "It costs £army_experience  §Y25§!,  £pol_power §Y10§!  and £manpower_texticon §Y150§! to select this."
+
+  decision_cost_25AE_10PP_text:0 "£army_experience  §Y25§!  £pol_power  §Y10§!"
+  decision_cost_25AE_10PP_text_blocked:0 "£army_experience  §R25§!  £pol_power  §R10§!"
+  decision_cost_25AE_10PP_text_tooltip:0 "It costs £army_experience  §Y25§!  and  £pol_power §Y10§!  to select this."
+
+  decision_cost_25AE_10PP_10MF_text:0 "£army_experience  §Y25§!  £pol_power  §Y10§!  £GFX_mil_factory  §Y10§!"
+  decision_cost_25AE_10PP_10MF_text_blocked:0 "£army_experience  §R25§!  £pol_power  §R10§!  £GFX_mil_factory  §R10§!"
+  decision_cost_25AE_10PP_10MF_text_tooltip:0 "It costs £army_experience  §Y25§!,  £pol_power §Y10§!  and £GFX_mil_factory §Y10§! to select this."
+
+  decision_cost_25AE_10PP_NO_TRAIT_text:0 "£army_experience  §Y25§!  £pol_power  §Y10§!  £GFX_suppression_texticon  §NO§!"
+  decision_cost_25AE_10PP_NO_TRAIT_text_blocked:0 "£army_experience  §R25§!  £pol_power  §R10§!  £GFX_suppression_texticon  §RNO§!"
+  decision_cost_25AE_10PP_NO_TRAIT_text_tooltip:0 "It costs £army_experience  §Y25§!,  £pol_power  §Y10§!  and Battery £GFX_suppression_texticon §YNOT§!  having §YAdvocate of Harmless Disposition§! trait to select this."
+
+  decision_cost_150IW_150MP_text:0 "£GFX_equipment_capture_texticon  §Y150§!  £manpower_texticon  §Y150§!"
+  decision_cost_150IW_150MP_text_blocked:0 "£GFX_equipment_capture_texticon  §R150§!  £manpower_texticon  §R150§!"
+  decision_cost_150IW_150MP_text_tooltip:0 "It costs £GFX_equipment_capture_texticon  §R150§!  and £manpower_texticon  §R150§! to select this."
