@@ -1,0 +1,101 @@
+﻿l_english:
+  ###Free Speech Events
+  media_events.1.t:0 "A Winded Man In The Pale Moonlight"
+  media_events.1.d:0 "As the clock strikes midnight, an advisor comes barging through the front door, waving a stack of documents in one hand and holding his side with the other. He slumps against the wall as he regains his breath, before quickly composing himself to approach the most powerful figure in the land. He staggers forward, before sliding the crumpled papers across the fine mahogany desk."
+  media_events.1.a:0 "What could possibly have warranted that?"
+
+  media_events.101.t:0 "News Of An Economic Success"
+  media_events.101.d:0 "Making the headlines this economic quarter, the civilian economy has developed into a record breaking boom across our territory. Analytical experts have informed the media that profits, wages, and economic well-being are all on the upward trajectory, and expected to last at least for the next year. Many have attributed this success to [ROOT.GetLeader]."
+  media_events.101.a:0 "The [GetCapType] keep flowing!"
+  media_events.101.b:0 "Invest in trade!"
+
+  media_events.102.t:0 "New Start Up"
+  media_events.102.d:0 "A curious account from one of our settlements today, as a new business start up has attracted local attention in the town of [our_state.GetCapitalVictoryPointName], with stories of it even reaching our capital. With numerous orders flooding their doors, this new enterprise is expanding rapidly. As they hire new workers and line up caravans, it remains to be seen if their current success is a flash in the pan, or if this is the birth of a new economic giant."
+  media_events.102.a:0 "How peculiar..."
+  media_events.102.b:0 "Partake of their services."
+  media_events.102.c:0 "Buy them out before they grow larger!"
+
+  media_events.103.t:0 "Local Town Festival"
+  media_events.103.d:0 "We’ve been receiving reports of folks up and down the nation travelling to one of our smaller settlements to partake in increasingly rumbunctious local festivities. Apparently, during a recent battle, one of our men was able to pillage a set of old world goldies alongside a surprisingly well-maintained record player. After taking the loot back home with him, he figured he’d gather a few friends around the town square to give the thingamajig a go. A few records in, and the display had already drawn in just about anyone within a half mile radius, transforming the whole affair into an impromptu festival. \n\nThat’s the gist of what the article says anyway – chances are things would have died down by now if it weren’t for the press. Instead, as news of the event travels across our nation and beyond, more and more tourists are flocking, bringing in revenue from settlements across the wider region."
+  media_events.103.a:0 "I could use a city-break..."
+  media_events.103.b:0 "Couldn't we all?"
+
+  media_events.104.t:0 "Pro-War Rally"
+  media_events.104.d:0 "It’s come to our attention that one of the nation’s wealthiest benefactors has come into possession of a widely read, fairly hawkish paper. Probably explains the suspicious surge in circulation over the past few weeks.\n\nWhilst our powerful friend will be worth keeping an eye on in the foreseeable, this appears to have turned out quite well for us for the time being, with a routine ceremonial rally featuring prominently on this week’s front page. Few better ways to start the day than a black coffee and a helping of free PR."
+  media_events.104.a:0 "Let’s invite this fella to the next state dinner."
+  media_events.104.b:0 "Push for new volunteers."
+  media_events.104.c:0 "Ask for new donations."
+
+  media_events.105.t:0 "The Press Captures [press_stole_plans.GetAdjective] Plans!"
+  media_events.105.d:0 "Somehow members of the press have captured [press_stole_plans.GetAdjective] plans for a major offensive.  It turns out that the same reporters who criticize our glorious government are also willing to report on our foes' movements. This is a stirring reminder that whatever our differences, we are all [Root.GetNameDef]."
+  media_events.105.a:0 "They can't stop the press. Oh they try, they try."
+  media_events.105.a:0 "See what we can learn from their strategies."
+
+  media_events.106.t:0 "Public Critique Of Foreign Policy"
+  media_events.106.d:0 "Lately, we’ve had some real pointdexters kicking up a storm back in town. Apparently, a gaggle of youths took it upon themselves to be the voice of change and start an independent paper running off community donations. An admirable initiative to be sure – ‘least, that’s our official stance on this.\n\nIn reality, the rag has done nothing but lambast our boys and girls giving it their all on the frontlines since entering circulation. Some pinko fluff about imperialism, self-determination, the rights of man and whatever other old junk they managed to scrounge up in the ruins of the local town library. The public outcry that has resulted from this has not been kind to say the least, and some officials are starting to crack under pressure."
+  media_events.106.a:0 "Where’s a good set of riot armour when you need it."
+  media_events.106.b:0 "Let's try and bury their stories."
+
+  media_events.107.t:0 "Political Rival's Speech"
+  media_events.107.d:0 "The recent shakeup in our administration has been radical to say the least. With that in mind, some amount of political outcry was inevitable – welcome even. After all, our society has always thrived in openness and multilateralism. \n\nBut one can have too much of a good thing. And the head of the opposition is nothing if not damn good, delivering a biting speech in front of a jubilant crowd that managed to take pretty much every single one of our recent policies to task. This wouldn’t be so bad if it weren’t for our (sigh) bustling media scene, meaning that the speech has been talk of the town up and down our nation. We don’t expect this thing to die down any time soon."
+  media_events.107.a:0 "If he was so miffed, he could have written in."
+  media_events.107.b:0 "Respond in kind."
+
+  media_events.108.t:0 "Corruption In [Root.Capital.GetName]"
+  media_events.108.d:0 "A scandal has rocked [Root.Getname] as the press has revealed that some of [Root.GetAdjective]'s leaders are taking bribes in exchange for government favors. Brahmin ranchers, gun runners, and others have been abusing our nation for their own personal gain. Many critics wonder if [Root.GetName] is worth dying for if its leaders will tolerate this sort of misconduct."
+  media_events.108.a:0 "This is how we've always done it!"
+  media_events.108.b:0 "We will root out this injustice!"
+
+  ###Controlled Speech Events
+  media_events.2.t:0 "A Huddle Far From Those Who Pry"
+  media_events.2.d:0 "A dozen or so slender figures sit along an old roundtable illuminated by a buzzing, incandescent light bulb hanging low over the room. A handpicked cabinet of trusted advisors, gather to relay the latest rumours and happenings to the executive. Their narrow slits betray a desire to do whatever it takes to climb the ladder; before someone else in that room gets the chance to pull it up behind them."
+  media_events.2.a:0 "What's on the agenda today?"
+
+  media_events.201.t:0 "A Song From The Front"
+  media_events.201.d:0 "[ROOT.GetAdjective] forces have fought heroically against our enemies, and one of our soldiers has composed a little poem from the front. We could play this throughout the nation to rally the nation to the cause."
+  media_events.201.a:0 "We will make sure everyone listens."
+  media_events.201.b:0 "I'd rather listen to the Inkspots."
+
+  media_events.202.t:0 "Punishing A Criminal"
+  media_events.202.d:0 "Another day, another underground press brought to heel. On this particular occasion, the scruffy kids managing the operation put up quite the fight, killing one of the officers sent to the scene and lightly injuring two more. A regrettable loss for the nation, but at the very least these martyrs have given us a lead on a clearly rampant firearm smuggling ring.\n\nAs for their killers, well – while the punishment for misinformation and propaganda ranges, this one’s a fairly open and shut case. Not only is execution in order, but it will be displayed in our largest settlement for everyone to see, their crimes clearly and explicitly laid out for those who may doubt us in silence. Should give the troublemakers pause for thought, at least for a while."
+  media_events.202.a:0 "These spectacles have a way of riling people up."
+  media_events.202.b:0 "And we can confiscate their stuff."
+  media_events.202.c:0 "In fact, let's make it a training exercise."
+
+  media_events.203.t:0 "Local Town Festival"
+  media_events.203.d:0 "The boys and girls working the comms have really outdone themselves with this one. Of course, “Fallen Heroes Day” has always been a widely celebrated yearly tradition in the land, rife with extensive decorations and fancy dresses purchased from the trusty neighbourhood state-owned businesses. You wouldn’t disrespect a martyr, would you? \n\nIn practice, this should translate into a proper sugar rush for the local economy, though if we intend to keep this puppy going for the next few years, we can’t possibly have folks repurpose their purchases. Maybe a press release pointing the citizenry to some conveniently timed “high-quality alternative cornershops” at some point down the line?"
+  media_events.203.a:0 "Who knew branding could be this hard."
+  media_events.203.b:0 "Well worth the effort though."
+
+  media_events.204.t:0 "Anti-Enemy Broadcast"
+  media_events.204.d:0 "While the streets of the capital city remain relatively quiet, trouble brews in the periphery, with agitators being kicked into a frenzy over the most recent military action. According to some reports, they may even be in close communications with neighbouring enemies. Now that just won’t do.\n\nThese troublemakers will be dealt with in due course, but the nonsense they spout won’t be as easily suppressed. With that in mind, we’ll be moving forward with a counter-messaging campaign to drown the misinformation out, leveraging all channels at our disposal. Come next week, there will never have been another Truth. "
+  media_events.204.a:0 "It is what’s best for them."
+  media_events.204.b:0 "Conflict makes us stronger afer all."
+  media_events.204.c:0 "Perhaps they need to see it firsthand."
+
+  media_events.205.t:0 "Educating New Citizens"
+  media_events.205.d:0 "Our most recent campaign has left both the army and economy crippled, with few obvious ways to plug an increasingly dire hole in our manpower. Well – save for one.\n\nWith land grabs comes new land to administer and resources to exploit yes, but also people to manage. People who, when all is said and done, might not be too keen on bending over backwards for an occupying force. But that’s not what they should be hearing – as far as they should be concerned, we are liberators, willing to put our necks on the line to relieve them of the tyrants that have ruled over them with an iron fist. All we ask for in return is a little gratitude and a smidge of elbow grease."
+  media_events.205.a:0 "Put on your best faces folks."
+  media_events.205.b:0 "If anything, they owe us."
+  media_events.205.c:0 "In time, our ways win out."
+
+  media_events.206.t:0 "Anti-War Rally"
+  media_events.206.d:0 "The rising death toll of our latest conflict has not gone unnoticed by the citizenry. In lieu of independent newspapers, channels or other news sources, tensions have continued to bubble under the surface, with no outlet to disperse them. Thing finally boiled over this morning, as hundreds of our denizens have taken to the streets protesting senseless bloodshed – their words.\n\nA rather myopic view of the matter at hand, and one they will be disciplined for. Still, no amount of-re-education will make up for nearly 24 hours of unmanned factory lines anytime soon."
+  media_events.206.a:0 "Don’t you see this is all for your own good?"
+  media_events.206.b:0 "We'll make them see."
+
+  media_events.207.t:0 "Shutting Down An Illegal Press"
+  media_events.207.d:0 "Alright, what’s all this then?\n\nThe enforcers dropped by late into the night to report of a successful sting operation into a suspected illegal gathering of political radicals. Turns out the rebel rousers had been running an illegal print producing booklets and leaflets featuring outlandish and highly treasonous call to actions against the head of state that had been circulating for a few months now. \n\nThe enforcers gave their assurance that the machines had been smashed to bits right there and then. As for the perpetrators, well… some folks you just can’t always bring back from the brink."
+  media_events.207.a:0 "They knew the risks."
+  media_events.207.b:0 "And so did we."
+
+  media_events.208.t:0 "Enemy Free Speech Entices Our Citizens"
+  media_events.208.d:0 "Reports from the front tell of radio broadcasts travelling behind our lines to strike at the heart of our boys and girls’ composure. New age music, talk shows, interviews with POWs, the auditory equivalent of Old World Sugar Bombs – all flavour and no substance. Will probably lead to an early grave too when all’s said and done.\n\nAs it would happen in fact, more and more of our soldiers were caught climbing over the parapets in attempts to defect! Unbelievable. If they are willing to trade their own countrymen’s lives to jam along to a few Inkspots tracks for an afternoon, maybe we’re better off without them."
+  media_events.208.a:0 "Where’d they even find those records anyway?"
+  media_events.208.b:0 "Cut the lines, jam the airwaves."
+
+
+  government_events.1.t:0 "Profits From The Chem Sales"
+  government_events.1.d:0 "Jet, Buffout, Psycho, Mentats, Daddy-O, Day Tripper and even good old fashion marijuana - whichever chems out nation allows, they're making a killing lately (preferably not literally). Whether by taxing the exchanges, taking a cut from the sellers, or even chem tourism - one way our another our coffers are that much more full today.\n\nWe're able to profit from this lucrative trade and can use those profits to fund our nation."
+  government_events.1.a:0 "Pass me a hit."
+  government_events.1.b:0 "Sensible sales, sensible profits."

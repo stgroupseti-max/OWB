@@ -1,0 +1,16 @@
+﻿l_english:
+  people_drift:0 "Daily People Support"
+  people_acceptance:0 "Acceptance of People Diplomacy"
+
+  intellectuals_drift:0 "Daily Intellectual Support"
+  intellectuals_acceptance:0 "Acceptance of Intellectual Diplomacy"
+
+  elites_drift:0 "Daily Elite Support"
+  elites_acceptance:0 "Acceptance of Elite Diplomacy"
+
+  ruler_drift:0 "Daily Ruler Support"
+  ruler_acceptance:0 "Acceptance of Ruler Diplomacy"
+
+  CivilWarStateMetaKey:0 "[?civil_war_meta_effect_array^i.GetID|0] [GetCivilWarStateListReturnEffect]"
+  CivilWarStateReturnKey:0 "[?civil_war_meta_effect_array^i.GetID|0] [GetCivilWarStateListReturnEffect]"
+  CivilWareSizeKey:0 "size = [?civil_war_size|2]"

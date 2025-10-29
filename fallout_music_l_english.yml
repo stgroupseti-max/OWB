@@ -1,0 +1,271 @@
+﻿l_english:
+  #---------------------#
+  #######################
+  # FALLOUT SOUNDTRACKS #
+  #######################
+  #---------------------#
+
+  #############################################################
+  # Stations
+  #############################################################
+  ambient_TITLE:0 "Old World Blues OST"
+  fallout_1_ost_TITLE:0 "Fallout 1 OST"
+  fallout_2_ost_TITLE:0 "Fallout 2 OST"
+  fallout_3_ost_TITLE:0 "Fallout 3 OST"
+  fallout_nv_ost_TITLE:0 "Fallout New Vegas OST"
+  fallout_4_ost_TITLE:0 "Fallout 4 OST"
+  fallout_tactics_ost_TITLE:0 "Fallout Tactics OST"
+  fallout_bos_ost_TITLE:0 "Fallout: Brotherhood of Steel OST"
+  fallout_3_radio_TITLE:0 "Fallout 3 Radio"
+  fallout_nv_radio_TITLE:0 "Fallout New Vegas Radio"
+  fallout_4_radio_TITLE:0 "Fallout 4 Radio"
+  enclave_radio_TITLE:0 "Enclave Radio"
+  owb_april_fools_music_TITLE:0 "OWB April Fools"
+  #######################
+  #     FALLOUT  1      #
+  #######################
+  # Ambient
+  fallout_1_metallic_monks:0 "Fallout OST - Metallic Monks"
+  fallout_1_desert_wind:0 "Fallout OST - Desert Wind"
+  fallout_1_a_traders_life:0 "Fallout OST - A Trader's Life"
+  fallout_1_the_vault_of_the_future:0 "Fallout OST - The Vault of the Future"
+  fallout_1_industrial_junk:0 "Fallout OST - Industrial Junk"
+  fallout_1_moribund_world:0 "Fallout OST - Moribund World"
+  fallout_1_vats_of_goo:0 "Fallout OST - Vats of Goo"
+  fallout_1_city_of_the_dead:0 "Fallout OST - City of the Dead"
+  fallout_1_second_chance:0 "Fallout OST - Second Chance"
+  fallout_1_underground_troubles:0 "Fallout OST - Underground Troubles"
+  fallout_1_city_of_lost_angels:0 "Fallout OST - City of Lost Angels"
+  fallout_1_followers_credo:0 "Fallout OST - Followers' Credo"
+  fallout_1_radiation_storm:0 "Fallout OST - Radiation Storm"
+  fallout_1_acolytes_of_the_new_god:0 "Fallout OST - Acolytes of the New God"
+  fallout_1_flame_of_the_ancient_world:0 "Fallout OST - Flame of the Ancient World"
+  fallout_1_khans_of_new_california:0 "Fallout OST - Khans of New California"
+
+  #######################
+  #     FALLOUT  2      #
+  #######################
+  # Ambient
+  fallout_2_beyond_the_canyon:0 "Fallout 2 OST - Beyond the Canyon"
+  fallout_2_dream_town:0 "Fallout 2 OST - Dream Town"
+  fallout_2_biggest_little_city_in_the_world:0 "Fallout 2 OST - Biggest Little City in the World"
+  fallout_2_my_chrysalis_highwayman:0 "Fallout 2 OST - My Chrysalis Highwayman"
+  fallout_2_many_contrasts:0 "Fallout 2 OST - Many Contrasts"
+  fallout_2_all_clear_signal:0 "Fallout 2 OST - All Clear Signal"
+  fallout_2_california_revisited:0 "Fallout 2 OST - California Revisited"
+  fallout_2_gold_slouch:0 "Fallout 2 OST - Gold Slouch"
+
+  #######################
+  #     FALLOUT  3      #
+  #######################
+  # Ambient
+  fallout_3_what_remains:0 "Fallout 3 OST - What Remains"
+  fallout_3_behemoth:0 "Fallout 3 OST - Behemoth"
+  fallout_3_think_fast_shoot_faster:0 "Fallout 3 OST - Think Fast, Shoot Faster"
+  fallout_3_chance_to_hit:0 "Fallout 3 OST - Chance To Hit"
+
+  #######################
+  #     FALLOUT  NV     #
+  #######################
+  # Ambient
+  fallout_nv_main_theme:0 "Fallout New Vegas OST - Main Theme"
+  fallout_nv_the_doctor_is_in:0 "Fallout New Vegas OST - The Doctor Is In"
+  fallout_nv_howdy_pardner:0 "Fallout New Vegas OST - Howdy Pardner"
+  fallout_nv_wasteland_justice:0 "Fallout New Vegas OST - Wasteland Justice"
+  fallout_nv_mutant_massacre:0 "Fallout New Vegas OST - Mutant Massacre"
+  fallout_nv_no_rest_for_these_bones:0 "Fallout New Vegas OST - No Rest for These Bones"
+  fallout_nv_industrial_deevolution:0 "Fallout New Vegas OST - Industrial De-evolution"
+  fallout_nv_not_my_vault:0 "Fallout New Vegas OST - Not My Vault"
+  fallout_nv_primm_and_proper:0 "Fallout New Vegas OST - Primm and Proper"
+  fallout_nv_knock_on_my_cazador:0 "Fallout New Vegas OST - Knock on My Cazador"
+  fallout_nv_jacobstown_ladder:0 "Fallout New Vegas OST - Jacobstown Ladder"
+  fallout_nv_ccc_doesnt_work_for_free:0 "Fallout New Vegas OST - CCC Doesn't Work for Free"
+  fallout_nv_marcus_needs_a_favor:0 "Fallout New Vegas OST - Marcus Needs a Favor"
+  fallout_nv_mountaintop_movement:0 "Fallout New Vegas OST - Mountaintop Movement"
+  fallout_nv_beneath_the_streets:0 "Fallout New Vegas OST - Beneath the Streets"
+  fallout_nv_garden_of_evil:0 "Fallout New Vegas OST - Garden of Evil"
+  fallout_nv_the_courier_walks_softly:0 "Fallout New Vegas OST - The Courier Walks Softly"
+  fallout_nv_under_the_stars:0 "Fallout New Vegas OST - Under the Stars"
+  fallout_nv_tcb_in_freeside:0 "Fallout New Vegas OST - TCB in Freeside"
+  fallout_nv_out_of_business:0 "Fallout New Vegas OST - Out of Business"
+  fallout_nv_subterranean_meltdown:0 "Fallout New Vegas OST - Subterranean Meltdown"
+  fallout_nv_rubble_of_the_forgotten:0 "Fallout New Vegas OST - Rubble of the Forgotten"
+  fallout_nv_the_gangs_of_new_vegas:0 "Fallout New Vegas OST - The Gangs of New Vegas"
+  fallout_nv_junkies_in_the_trunk:0 "Fallout New Vegas OST - Junkies in the Trunk"
+  fallout_nv_boys_and_ghouls:0 "Fallout New Vegas OST - Boys and Ghouls"
+  fallout_nv_the_two_headed_bear:0 "Fallout New Vegas OST - The Two Headed Bear"
+  fallout_nv_battle_for_the_city:0 "Fallout New Vegas OST - Battle for the City"
+  fallout_nv_rocket_to_repconn:0 "Fallout New Vegas OST - Rocket to REPCONN"
+  fallout_nv_thorn_in_my_side:0 "Fallout New Vegas OST - Thorn in My Side"
+  fallout_nv_blood_and_the_bull:0 "Fallout New Vegas OST - Blood and the Bull"
+  fallout_nv_hail_caesar:0 "Fallout New Vegas OST - Hail Caesar"
+  fallout_nv_righteous_republic:0 "Fallout New Vegas OST - Righteous Republic"
+  fallout_nv_the_vipers_sting:0 "Fallout New Vegas OST - The Viper's Sting"
+  fallout_nv_monsters_of_the_mojave:0 "Fallout New Vegas OST - Monsters of the Mojave"
+  fallout_nv_dam_nation:0 "Fallout New Vegas OST - Dam Nation"
+  fallout_nv_begin_again:0 "Fallout New Vegas OST - Begin Again"
+  fallout_nv_home_on_the_wastes:0 "Fallout New Vegas OST - Home on the Wastes"
+  fallout_nv_new_vegas_valley:0 "Fallout New Vegas OST - New Vegas Valley"
+  fallout_nv_streets_of_new_reno:0 "Fallout New Vegas OST - Streets of New Reno"
+
+  ############################
+  #     FALLOUT  TACTICS     #
+  ############################
+
+  fallout_tactics_battle_with_critters:0 "Fallout Tactics OST - Battle with Critters"
+  fallout_tactics_battle_with_ghouls:0 "Fallout Tactics OST - Battle with Ghouls"
+  fallout_tactics_battle_with_raiders:0 "Fallout Tactics OST - Battle with Raiders"
+  fallout_tactics_battle_with_reavers:0 "Fallout Tactics OST - Battle with Reavers"
+  fallout_tactics_battle_with_robots:0 "Fallout Tactics OST - Battle with Robots"
+  fallout_tactics_battle_with_super_mutants:0 "Fallout Tactics OST - Battle with Super Mutants"
+  fallout_tactics_brotherhood_ambient_1:0 "Fallout Tactics OST - Brotherhood Ambient 01"
+  fallout_tactics_brotherhood_ambient_2:0 "Fallout Tactics OST - Brotherhood Ambient 02"
+  fallout_tactics_cal_1:0 "Fallout Tactics OST - Cal 1"
+  fallout_tactics_des_1:0 "Fallout Tactics OST - Des 1"
+  fallout_tactics_des_2:0 "Fallout Tactics OST - Des 2"
+  fallout_tactics_fac_1:0 "Fallout Tactics OST - Fac 1"
+  fallout_tactics_fac_2:0 "Fallout Tactics OST - Fac 2"
+  fallout_tactics_urb_1:0 "Fallout Tactics OST - Urb 1"
+  fallout_tactics_urb_2:0 "Fallout Tactics OST - Urb 2"
+  fallout_tactics_mnt_1:0 "Fallout Tactics OST - Mnt 1"
+  fallout_tactics_generic_battle:0 "Fallout Tactics OST - Generic Battle"
+  fallout_tactics_the_final_battle:0 "Fallout Tactics OST - The Final Battle"
+  fallout_tactics_main_menu:0 "Fallout Tactics OST - Main Menu"
+  fallout_tactics_main_menu_2:0 "Fallout Tactics OST - Main Menu 2"
+
+  #########################################
+  #     FALLOUT: BROTHERHOOD OF STEEL     #
+  #########################################
+
+  fallout_bos_carbon_bar:0 "Fallout: Brotherhood of Steel OST - Carbon Bar"
+  fallout_bos_carbon_crater_lower_level:0 "Fallout: Brotherhood of Steel OST - Carbon Crater (Lower Level)"
+  fallout_bos_carbon_crater_upper_level:0 "Fallout: Brotherhood of Steel OST - Carbon Crater (Upper Level)"
+  fallout_bos_carbon_mill_generator:0 "Fallout: Brotherhood of Steel OST - Carbon Mill Generator"
+  fallout_bos_carbon_mill_parking_lot:0 "Fallout: Brotherhood of Steel OST - Carbon Mill Parking Lot"
+  fallout_bos_carbon_town_center:0 "Fallout: Brotherhood of Steel OST - Carbon Town Center"
+  fallout_bos_carbon_town_dusk:0 "Fallout: Brotherhood of Steel OST - Carbon Town Dusk"
+  fallout_bos_carbon_warehouse:0 "Fallout: Brotherhood of Steel OST - Carbon Warehouse"
+  fallout_bos_carbon_warehouse_auxillary_room:0 "Fallout: Brotherhood of Steel OST - Carbon Warehouse Auxillary Room"
+  fallout_bos_game_over:0 "Fallout: Brotherhood of Steel - Game Over"
+  fallout_bos_los_bridge_west:0 "Fallout: Brotherhood of Steel OST - Los Bridge West"
+  fallout_bos_los_docks_shipyard:0 "Fallout: Brotherhood of Steel OST - Los Docks Shipyard"
+  fallout_bos_los_gladiator_pit:0 "Fallout: Brotherhood of Steel OST - Los Gladiator Pit"
+  fallout_bos_secret_vault_facilities_1:0 "Fallout: Brotherhood of Steel OST - Corporate Vault Facilities 1"
+  fallout_bos_secret_vault_facilities_2:0 "Fallout: Brotherhood of Steel OST - Corporate Vault Facilities 2"
+  fallout_bos_secret_vault_lab_1:0 "Fallout: Brotherhood of Steel OST - Corporate Vault Lab 1"
+  fallout_bos_secret_vault_lab_2:0 "Fallout: Brotherhood of Steel OST - Corporate Vault Lab 2"
+  fallout_bos_secret_vault_residence:0 "Fallout: Brotherhood of Steel OST - Corporate Vault Residence"
+  fallout_bos_secret_vault_ruins:0 "Fallout: Brotherhood of Steel OST - Corporate Vault Ruins"
+
+  #######################
+  #     OWB DEV TEAM    #
+  #######################
+  # Tracks from 3.0 - 3.1 - 3.2
+  owb_dev_team_old_world_blues:0 "OWB Dev Skip - Old World Blues" #Skip
+  owb_dev_team_the_badlands:0 "OWB Dev Skip - The Badlands" #Skip
+  owb_dev_team_dust_of_the_old_world:0 "OWB Dev Skip - Dust of the Old World" #Skip
+  owb_dev_team_tribals:0 "OWB Dev Skip - Tribals" #Skip
+  owb_dev_team_the_great_blizzard:0 "OWB Dev Skip - The Great Blizzard" #Skip
+  owb_dev_team_dark_foundries:0 "OWB Dev Skip - Dark Foundries" #Skip
+  owb_dev_team_ancient_appetites:0 "OWB Dev Skip - Ancient Appetites" #Skip
+  owb_dev_team_bad_business:0 "OWB Dev Skip - Bad Business" #Skip
+  owb_dev_team_el_pelea:0 "OWB Dev Skip - El Pelea" #Skip
+  owb_dev_team_et_sic_chao:0 "OWB Dev Skip - Et Sic, Chao" #Skip
+  owb_dev_team_holy_fathers:0 "OWB Dev Skip - Holy Fathers" #Skip
+  owb_dev_team_infernal_calculations:0 "OWB Dev Skip - Infernal Calculations" #Skip
+  owb_dev_team_lawless:0 "OWB Dev Skip - Lawless" #Skip
+  owb_dev_team_mainframe_fractures:0 "OWB Dev Skip - Mainframe Fractures" #Skip
+  owb_dev_team_mictlan:0 "OWB Dev Skip - Mictlan" #Skip
+  owb_dev_team_prodigal_son:0 "OWB Dev Skip - Prodigal Son" #Skip
+  owb_dev_team_syndicates_of_ash:0 "OWB Dev Skip - Syndicates of Ash" #Skip
+  owb_dev_team_tierra_del_apocalipsis:0 "OWB Dev Skip - Tierra del Apocalipsis" #Skip
+  owb_dev_team_tlaloc_s_peace:0 "OWB Dev Skip - Tlaloc's Peace" #Skip
+  owb_dev_team_warbeat_itza:0 "OWB Dev Skip - Warbeat (Itza)" #Skip
+  owb_dev_team_battle_for_mexico:0 "OWB Dev Skip - Battle for Mexico" #Skip
+  owb_dev_team_huangdi_the_emperor:0 "OWB Dev Skip - Huangdi (The Emperor)" #Skip
+
+#tracks from 4.0 - 4.1 - 4.2
+
+  owb_dev_team_a_proper_villain:0 "OWB Dev Skip - A Proper Villain" #Skip
+  owb_dev_team_bayou_blues:0 "OWB Dev Skip - Bayou Blues" #Skip
+  owb_dev_team_bunker_blues:0 "OWB Dev Skip - Bunker Blues" #Skip
+  owb_dev_team_have_brahmin_will_travel:0 "OWB Dev Skip - Have Brahmin, Will Travel" #Skip
+  owb_dev_team_how_the_west_was_lost:0 "OWB Dev Skip - How the West Was Lost" #Skip
+  owb_dev_team_in_pursuit:0 "OWB Dev Skip - In Pursuit" #Skip
+  owb_dev_team_liberty_or_death:0 "OWB Dev Skip - Liberty or Death" #Skip
+  owb_dev_team_mirage:0 "OWB Dev Skip - Mirage" #Skip
+  owb_dev_team_psykers:0 "OWB Dev Skip - Psykers" #Skip
+  owb_dev_team_remember_us:0 "OWB Dev Skip - Remember Us" #Skip
+  owb_dev_team_siesta:0 "OWB Dev Skip - Siesta" #Skip
+  owb_dev_team_sos:0 "OWB Dev Skip - SOS" #Skip
+  owb_dev_team_speedway:0 "OWB Dev Skip - Speedway" #Skip
+  owb_dev_team_the_garden:0 "OWB Dev Skip - The Garden" #Skip
+  owb_dev_team_mr_entertainment_show:0 "OWB Dev Skip - The Mr. Entertainment Show" #Skip
+
+  lusa_chc_ambience:0 "OWB Dev Lusa - Choir's Ambience" #Lusa
+  lusa_chc_momwins:0 "OWB Dev Lusa - Mother's Victory" #Lusa
+
+#tracks from 5.0 - 5.x
+
+  owb_dev_team_head_in_the_clouds:0 "OWB Dev Lusa - Her Head's in the Clouds" #Lusa
+  owb_dev_team_fate_of_the_bunker:0 "OWB Dev Lusa - Fate of the Bunker" #Lusa
+  owb_dev_team_ragnarok:0 "OWB Dev Lusa - Proxima Ragnarok" #Lusa
+  owb_dev_team_montana_sleeps:0 "OWB Dev Lusa - Montana Sleeps" #Lusa
+  owb_dev_team_saskatchewan_skirmish:0 "OWB Dev Lusa - Saskatchewan Skirmish" #Lusa
+  owb_dev_team_wolf_and_mentor:0 "OWB Dev Lusa - Wolf and Mentor" #Lusa
+  owb_dev_team_wyoming_heat:0 "OWB Dev Lusa - Wyoming Heat" #Lusa
+  owb_dev_team_the_montana_expedition:0 "OWB Dev Lusa - The Montana Expedition" #Lusa
+  owb_dev_team_the_ghost_of_dundurn:0 "OWB Dev Lusa - The Ghost of Dundurn" #Lusa
+  owb_dev_team_the_northern_khans:0 "OWB Dev Lusa - The Northern Khans" #Lusa
+  owb_dev_team_elizavetas_love:0 "OWB Dev Lusa - Elizaveta's Love" #Lusa
+  owb_dev_team_bioflies_and_lanterns:0 "OWB Dev Lusa - Bioflies and Lanterns" #Lusa
+  owb_dev_team_better_a_sinner_than_a_saint:0 "OWB Dev Lusa - Better a Sinner than a Saint" #Lusa
+  owb_dev_team_the_stretch:0 "OWB Dev Lusa - The Stretch" #Lusa
+  owb_dev_team_the_scarlet_blizzard:0 "OWB Dev Lusa - The Scarlet Blizzard" #Lusa
+  owb_dev_team_im_your_destiny:0 "OWB Dev Lusa - I'm Your Destiny" #Lusa
+  owb_dev_team_psyker_fever_dream:0 "OWB Dev Lusa - Psyker Fever Dream" #Lusa
+  owb_dev_team_one_hell_of_a_sheriff:0 "OWB Dev Lusa - One Hell of a Sheriff" #Lusa
+  owb_dev_team_glacial_grandeur:0 "OWB Dev Skip - Glacial Grandeur" #Skip
+  owb_dev_team_middlemark_rush_hour:0 "OWB Dev Lusa - Middlemark: Rush Hour" #Lusa
+  owb_dev_team_middlemark_closing_hours:0 "OWB Dev Lusa - Middlemark: Closing Hours" #Lusa
+  owb_dev_team_middlemark_make_your_mark:0 "OWB Dev Lusa - Middlemark: Make Your Mark" #Lusa
+  owb_dev_team_middlemark_lucky_penny:0 "OWB Dev Lusa - Lucky Penny" #Lusa
+  owb_dev_team_middlemark_spend_a_penny_earn_a_dime:0 "OWB Dev Lusa - Spend a Penny, Earn a Dime" #Lusa
+  owb_dev_team_youre_unbecoming_patrocolus:0 "OWB Dev Lusa - You're Unbecoming, Patrocolus" #Lusa
+  owb_dev_team_what_wouldnt_you_do_for_your_motor_family:0 "OWB Dev Lusa - What Wouldn't You Do For Your Motor Family?" #Lusa
+  owb_dev_team_lightly_armed:0 "OWB Dev Lusa - Lightly Armed" #Lusa
+  owb_dev_team_doki_doki_blues:0 "OWB Dev Anoomas - Doki Doki Blues <3" #Anoomas
+  owb_dev_team_goddards_vision:0 "OWB Dev Anoomas - Goddard's Vision" #Anoomas
+
+  owb_dev_team_the_canadian_shield:0 "Harald Allacher - The Canadian Shield" #Harald Allacher - Commissioned from outside the team, but named this way so as to show we still put it in this radio.
+
+  owb_dev_team_the_new_true_north:0 "OWB Dev Hammer - The New True North" #Hammer
+
+  owb_dev_team_knights_robots_and_radroaches:0 "OWB Dev OCTAMAN - At The Gates of Vault 37" #octaman
+  owb_dev_team_they_cant_be_stopped:0 "OWB Dev OCTAMAN - They Can't Be Stopped" #octaman
+  owb_dev_team_sirius_strategy:0 "OWB Dev OCTAMAN - Sirius Strategy" #octaman
+
+  owb_dev_team_yellow_rose_of_texas:0 "Yellow Rose of Texas"
+  cree_traditional_opening_song:0 "Cree Traditional Opening Song"
+
+  #april fools
+
+  warcraft_comradeship:0 "Warcraft III - Comradeship"
+  warcraft_carrion_waves:0 "Warcraft III - Carrion Waves"
+  warcraft_last_days_of_the_alliance:0 "Warcraft III - Last Days of the Alliance"
+  warcraft_remnants_of_the_horde:0 "Warcraft III - Remnants of the Horde"
+
+  # Original
+  brotherhoodwar:0 "Ambush"
+
+  # Music Decisions
+  music_settings_category:0 "Change Music Settings"
+  music_settings_category_desc:0 "Modify the way the radio automatically plays songs, such as disabling ambient music or only playing songs from one Fallout Game."
+  music_settings_decision_1:0 "Music Settings"
+  music_settings_decision_2:0 "Change Music Settings"
+  music_event_idea_2:0 "Change Extra Music Settings"
+
+ # Music
+  music_settings_ideas:0 "Music Settings"
+  music_event_idea:0 "Change Music Settings"
+  settings:0 "Settings"

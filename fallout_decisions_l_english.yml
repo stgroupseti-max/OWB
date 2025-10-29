@@ -1,0 +1,23 @@
+﻿l_english:
+ # backstory
+  audio_holodisk:0 "Audio Holotapes"
+  audio_holodisk_desc:0 "A vault of recordings containing backstory. Please pause music before playing. Also keep in mind playing multiple at one time is a bad idea, and the recordings are unpausable."
+  hide_backstory:0 "Disable Backstory Decisions"
+  FO1_intro:0 "Fallout 1 Intro"
+  FO2_intro:0 "Fallout 2 Intro"
+  FONV_intro:0 "Fallout New Vegas Intro - Occurs after mod start"
+  #System stuff
+  CHARACTER_RENAME:0 "§Y$OLD_NAME$§! is renamed to §Y$NEW_NAME$§!."
+  HAS_COMPLETED_DECISION:0 "£decision_icon_small Has completed decision §Y$DECISION$§!"
+  IF_WE_ARE_ALLIED_TO:0 "If we are allied to §Y[$NATION$.GetNameWithFlag]§!:"
+  ROOT_CHANGE_TRAIT:0 "§Y[ROOT.GetLeader]§! $CHANGE$ §Y$TRAIT$§!."
+  GAIN:0 "gains"
+  LOSES:0 "loses"
+ # formable nations
+ # Deseret
+  form_deseret:0 "Form Deseret"
+  form_deseret_desc:0 "Derived from the name for \"honeybee\" in the Book of Mormon, Deseret was a provisional state in old world America. It was never formally recognised by the government, but now it is time for us to reform the state of Deseret inside Utah and bring a new age of religious prosperity to our lands."
+  form_deseret_req_tt:0 "We, or a puppet, must own every state in Utah"
+ ############
+ # tooltips
+  disable_backstory:0 "The §HAudio Holotapes§! decisions will be §Rirreversibly hidden until the end of the campaign!§!"

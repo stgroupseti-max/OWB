@@ -1,0 +1,132 @@
+﻿l_english:
+ #Decisions
+
+  nf_vault_tec.1.t:0 "Vault 3 Survey"
+  nf_vault_tec.1.d:0 "Vault 3 is partially flooded, and the Fiends' occupation of the vault has not helped its state. Establishing an outpost here would not be impossible, but a much easier prospect would be to repair the water purification systems for export to the rest of our settlements."
+  nf_vault_tec.1.a:0 "Use the water for our existing settlements."
+  nf_vault_tec.1.b:0 "Renovate the Vault and establish a settlement."
+  nf_vault_tec.1.c:0 "Use the water, drugs, and establish an outpost."
+
+  nf_vault_tec.2.t:0 "Vault 6 Survey"
+  nf_vault_tec.2.d:0 "Clearing out the vault of the ghoul infestation that has plagued it for almost two centuries cost us more than a few members of the security team. However, Vault 6 seems to be perfectly intact, and could be used either as a new settlement or as a production center."
+  nf_vault_tec.2.a:0 "Repurpose for production."
+  nf_vault_tec.2.b:0 "Establish a settlement."
+
+  nf_vault_tec.3.t:0 "Vault 13 Survey"
+  nf_vault_tec.3.d:0 "Vault 13 is still riddled with the bodies of the deathclaws and vault dwellers that had marked its forced abandonment. There is, however, a half used G.E.C.K. We could use the G.E.C.K. to turn this vault into a proper settlement, or use it to accelerate out research."
+  nf_vault_tec.3.a:0 "Use the G.E.C.K. for research."
+  nf_vault_tec.3.b:0 "Establish a settlement."
+  nf_vault_tec.3.c:0 "Let the Arroyo tribe return to their ancestral home and keep the G.E.C.K."
+
+  nf_vault_tec.4.t:0 "Vault 15 Survey"
+  nf_vault_tec.4.d:0 "Vault 15 is the origin of Shady Sands and the Great Khans, and has housed raider gangs, vault dwellers, and NCR citizens. The years have not been kind to her, however, and between the NCR's looting and its not so savoury inhabitants prior, its in poor condition. To return Vault 15 to livable standards, we would need to use a good amount of our existing infrastructure to relay foundation and replace the more electronics intensive parts. An alternative, however, would be to make sure the vault is safe to enter, and simply open it as a heritage site for both wastelanders and vault dwellers alike."
+  nf_vault_tec.4.a:0 "Make it a Heritage Site."
+  nf_vault_tec.4.b:0 "Rebuild the Vault and establish a settlement"
+
+  nf_vault_tec.5.t:0 "Vault 19 Survey"
+  nf_vault_tec.5.d:0 "Vault 19 was the site of an experiment in social separation, separating the vault dwellers into two separate groups. The experiment failed, however, due to a huge sulphur deposit that contaminated their air supply."
+  nf_vault_tec.5.a:0 "Use the sulphur deposits for explosives."
+  nf_vault_tec.5.b:0 "Blow the sulphur and establish a settlement."
+
+  nf_vault_tec.6.t:0 "Vault 21 Survey"
+  nf_vault_tec.6.d:0 "The residents of Vault 21 gambled ownership of their Vault away to Mr House. He cruelly expelled them from their home and filled a good part of it in with concrete. However, he allowed a few of the citizens to set up a thriving market industry."
+  nf_vault_tec.6.a:0 "Incorporate the local economy."
+  nf_vault_tec.6.b:0 "Return the Vault to working order."
+  nf_vault_tec.6.c:0 "Use the Vault 19 Explosives to clear the concrete."
+
+  nf_vault_tec.7.t:0 "Removing the Infestation"
+  nf_vault_tec.7.d:0 "The lost contact with the survey team is now the least of our problems. A plant based infection was sealed within Vault 22, and has infected them. We could either set up a quarantine area and try to research the effects of the infection, or we could clear the mess out."
+  nf_vault_tec.7.a:0 "Research the Infection."
+  nf_vault_tec.7.b:0 "Send in a Clearance Team."
+  nf_vault_tec.7.c:0 "Break out the Flamers."
+
+  nf_vault_tec.8.t:0 "Vault 34"
+  nf_vault_tec.8.d:0 "Vault 34 was abandoned by what became the Boomers around 50 years ago, and they have inhabited Nellis Air Force Base ever since. They are severely distrusting of everyone, but with the grace of their leader they have allowed a diplomatic mission to speak to them. Vault 34 itself, however, is suffering from a reactor leak, and is inhabited by ghouls. We could either approach the Boomers and give them control of the surrounding lands, giving us a powerful regional ally we share origins with, or repair the severe reactor leak, kill the ghouls, and secure the vault as an outpost in the area."
+  nf_vault_tec.8.a:0 "Repair the Vault."
+  nf_vault_tec.8.b:0 "Bring the Boomers into the fold."
+
+  nf_vault_tec.9.t:0 "Vault 70 Survey"
+  nf_vault_tec.9.d:0 "Vault 70 was given three GECKs, and used them to great effect creating the Mormon nation of New Canaan. The Vault is rife with valuable social data, between the social experiment the vault was tasked with to the cultural development afterwards. All of this data, sadly, is on an ageing mainframe located in the ruins of the vault itself. we can either renovate the vault, most likely damaging the mainframe in the process, or we turn the old vault into a cultural research center, hoping to rescue as much data as possible from the failing mechanisms."
+  nf_vault_tec.9.a:0 "Rebuild the Vault."
+  nf_vault_tec.9.b:0 "Research the data left in the vault's mainframe."
+
+  nf_vault_tec.10.t:0 "Clearance Team Report"
+  nf_vault_tec.10.d:0 "Clearance of Vault 22 has gone disastrously. While the team has managed to clear all of the plant life and mutants from the vault, they themselves have become infected. An apology, then the sounds of several 10mm pistol shots echo through the radio, followed by silence."
+  nf_vault_tec.10.a:0 "Their sacrifice was noble."
+
+  nf_vault_tec.11.t:0 "Vault 29 Survey"
+  nf_vault_tec.11.d:0 "Not far from the villages of the Twin Mothers tribe, themselves made up of the descendants of vault dwellers, sits a non functioning Vault-Tec facility. A master control console for the ZAX supercomputer this vault was equipped with stands in a low power state. The computer terminal yields two options: Re-establish Satlink or Restore ZAX defaults."
+  nf_vault_tec.11.a:0 "Re-establish Satlink."
+  nf_vault_tec.11.b:0 "Restore Defaults."
+
+  nf_vault_tec.12.t:0 "Fate of the Vault"
+  nf_vault_tec.12.d:0 "With the matter of the supercomputer settled, the choice of what to do with the remaining Twin Mothers and the Vault must be made. We could give them citizenship and establish ourselves an outpost in the vault, or we could give them some autonomy."
+  nf_vault_tec.12.a:0 "Establish a Settlement."
+  nf_vault_tec.12.b:0 "Give them Autonomy."
+   
+  nf_vault_tec.13.t:0 "Rename the State to Vault 13?"
+  nf_vault_tec.13.d:0 "A vault outpost was established, should the state be renamed?"
+  nf_vault_tec.13.a:0 "Yes."
+  nf_vault_tec.13.b:0 "No."
+  
+  nf_vault_tec.14.t:0 "Rename the State to Vault 21?"
+  nf_vault_tec.14.d:0 "A vault outpost was established, should the state be renamed?"
+  nf_vault_tec.14.a:0 "Yes."
+  nf_vault_tec.14.b:0 "No."
+
+  nf_vault_tec.15.t:0 "Vault 107"
+  nf_vault_tec.15.d:0 "Upon entering Vault 107’s “Safehaven” our scouts report being ambushed by a group identifying themselves as ‘Havenites’, dawned in what one of the locals accompanying us recognized as Warden gear– threatening to, as the scouts put it, “blow their goddamn heads off” unless they identified themselves. That is until a woman identifying herself as ‘Showtime’ approached, claiming she recognized our scout's Vault suits, she demanded to be told what our intentions in the town were. \n\nAfter explaining ourselves ‘Showtime’, (a title that seems to have become synonymous with ‘mayor’, ‘overseer’, ‘leader’ or ‘president’) allowed our scouts free reign of exploring the vaults and looking through their town records, on one condition: that they were to be granted a negotiation with the ‘overseer’, me, in exchange for this right. \n\nOur scouts report to have agreed, hoping I wouldn’t be upset. This led to them discovering the nearly gutted vault had been transformed into a headquarters for a ‘Havenite Resistance’. Filled to the brim with equipment, weapons, and all manner of freedom fighting gear, as well as mountains of logs pertaining to the city and its Vault. It’s in these logs that we discovered 107’s experiment was as follows: to study what a society built with ‘corrupt’ individuals would breed in close quarters. An experiment the dwellers of the Vault immediately rejected. \n\nSatisfied, the scouts brought Showtime and her accompanying guards to the nearest transit center. Upon meeting, she asked that her town be given autonomy, and in exchange, her people would join us willingly as teachers of diplomacy and drill sergeants. This would be a great help, as their tenacity and charisma speak for themselves..."
+  nf_vault_tec.15.a:0 "We welcome you as fellow dwellers."
+  nf_vault_tec.15.b:0 "Your Vault will serve us just as well."  
+
+  nf_vault_tec.16.t:0 "The Vault Lost to Time"
+  nf_vault_tec.16.d:0 " According to local legend, the residents of Vault 24 didn't venture out much until they started making plays in recent years to become a regional power. However, all of that came to an end once the White Legs had enough of the vaulters and sent them running back home. Since then the vault had been silent, but we found a way to get them talking.\n\nOne of our techs presented a worm she'd crafted to infiltrate the interior vault systems through the exterior vault door controls. If the worm got through, it'd then have to be picked up by one of the vault's computers and spread across their entire mainframe, seizing it up. If they couldn't figure out how to undo our handiwork within the time their air needed to be recycled, then they'd be forced to open up shop. Once the tech's corrupted pip-boy connected to the door control, all we had to do was wait.\n\nA week and a day went by before the vault door alarm signaled and the door to the vault was thrust from its wall. Out of the vault walked a meager man who shambled his way towards the closest outsider. He appeared distraught with every step, as if his feeble gait was costing him precious seconds. He asked if we were from a vault and if we were the ones to put the strangle on things and we replied positively to both lines of questioning.\n\nAn agreement was formed soon thereafter, in exchange for a share of Vault 24's productivity, we'd leave them to their own devices. However, the lack of any discernable leadership within the vault has raised some eyebrows. All that the residents of Vault 24 have to say about their leader is that he went missing during their retreat from the White Legs.\n\nWhether we should investigate this matter further, or simply let Vault 24 be per our arrangement, has come into question."
+  nf_vault_tec.16.a:0 "They'll be fine without him."
+  nf_vault_tec.16.b:0 "Whatever happened to Overseer Tock?"
+
+  nf_vault_tec.17.t:0 "Whatever happened to Overwatch Tock?"
+  nf_vault_tec.17.d:0 "Vault 24 residents have a certain peculiarness about them. They don't smile or dance, they don't laugh or whistle, they just work. From the limited interactions we've had with the Timekeepers, they seem to have a clear pattern to their lives, they live in routine. This Overwatch Tock we'd been looking for was living out in the wasteland, a foreign place unfamiliar and unforgiving. Overwatch Tock was a tough bastard by many accounts, but was he tougher than the world outside his vault?\n\nWord eventually got to us that an assortment of vault gear marked with 24's was being sold in a market down in Arizona. We dispatched an agent to investigate these reported goods which brought him down a path that eventually led to the ancient Bloomfield Space Center. It was there that our agent walked upon a lone, solemn road that ended with a sun-bleached and decaying wooden cross. Overlooking the calm desert sands were the mummified remains of Overwatch Tock, mounted to the old cross.\n\nHow and why this vaulter from Utah wound up in Arizona is a story lost to time, as was the reasoning behind his fate. Nonetheless, the agent lowered the bony remains down and into a suitable enclosure of cloth, and brought him back to his home. The Timekeepers halted all their tasks for the day and placed belongings they valued inside the casket to rest among the body of the deceased. They surrounded the casket with candles, one for each year the man had lived. As the day neared its end, they extinguished the burning flames and lowered the case into a grave fashioned out of the Utah sand."
+  nf_vault_tec.17.a:0 "..."
+
+  nf_vault_tec.18.t:0 "In Memoriam."
+  nf_vault_tec.18.d:0 "While Vault 24 had been where Tock garnered more power than any Timekeeper before, it was the wasteland where he would climb higher than any Timekeeper ever had, and ever would. Out in the land that had given him both life and death, the remains of Tock would rest under the shimmering moon and shining sun as time kept marching on."
+  nf_vault_tec.18.a:0 "A hero remembered in our time."
+
+  nf_vault_tec.19.t:0 "Fixer-Upper"
+  nf_vault_tec.19.d:0 "Vault 37 is notably unique among other known vaults due to its overseer being a ZAX AI. For two-hundred years Overseer T.H.O.M.A.S. has maintained a harsh control over the vault's population as programmed to do by Vault-Tec. However, unknown to the AI, Vault-Tec programmed the AI to have zero ethical boundaries, allowing the AI to predict the best possible route of 'protection' for its denizens without being tethered down by emotion.\n\nOur science team has raised a point of contention regarding use of the AI. They believe, with thorough work, they could repair and reprogram the AI to serve our needs; notably through the use of its talent at keeping a population docile. Where things get tricky, is understanding the risks of such an endeavour. To underestimate T.H.O.M.A.S. would do it a disservice, and the chance of the AI breaking free from our control is a very real possibility. It would be wise to exercise caution with this project. "
+  nf_vault_tec.19.a:0 "That things gives me the creeps. Shut it down."
+  nf_vault_tec.19.b:0 "I love a good Jailor"
+
+  nf_vault_tec.20.t:0 "The Mysterious Unmarked Vault Under Redmond"
+  nf_vault_tec.20.d:0 "Upon the order being given to open the vault, our technicians were hopeful that fellow dwellers would emerge, or even an obvious answer to what experiment was meant to take place in the unmarked vault would appear. But to our dismay, and mounting confusion, the especially large corridors of the vault were completely barren of anything other than junk.\n\nOr so we thought, as an excited novice technician reported a single wall-mounted terminal on the furthest wall from the entrance. Easily cracked, we discovered it contained magnitudes of information on every vault but itself across the whole of North America and beyond, as well as their locations and specific experiments. Cross-referencing our own vault’s knowledge as we found it on the registry, we confirmed that its information regarding the vaults to be correct. A boon to be sure. \n\nOn the other hand seismic tests to map the outside of the vault revealed a complex miles below the empty halls of this one. Although we have no ability to reach it, it may prove useful to establish an outpost here to study what we can or turn this large area into a storage facility."
+  nf_vault_tec.20.a:0 "Something about this is fishy, establish a post."
+  nf_vault_tec.20.b:0 "Storage will do use well."
+
+  nf_vault_tec.21.t:0 "The Hidden Corporate Vault"
+  nf_vault_tec.21.d:0 "Our scouts have come to us with reports of an unmarked Vault-Tec warehouse, guarded by several now-destroyed turrets. In the many rooms and notes that remained within the terminals, they discovered its purpose: to preserve the upper echelon of Vault-Tec. A fact hidden from the pre-war government.\n\nIt appears that the reason that they hid this vault was due to the research that was done in it. Biological experiments done in an attempt to combat the sterility that came about from exposure to the Forced Evolutionary Virus. The scouts uncovered facilities dedicated to biological, technological, and mechanical research of which we can repurpose. On the other hand, the men also discovered a terminal that allowed for the activation of a plugged-off AI by the name of CALIX. If we should reactivate it, as its asking us to, it will give us total control over the entire Vault.\n\nWe could utilize this AI to have a grip on the vault. Or, we could simply exploit the remaining resources, scrapping whatever blueprints or designs we can."
+  nf_vault_tec.21.a:0 "Calix? Sounds Useful."
+  nf_vault_tec.21.b:0 "What kind of idiot would trust that?"
+
+  nf_vault_tec.22.t:0 "Vault 9"
+  nf_vault_tec.22.d:0 "Many Vaults lay across the wastes, over 122 as far as our records tell us. It is with luck we stumbled across this one on our journeys through the territories of Wyoming. Our partially corrupted logs read as such: \n\n \n§GVAULT-TEC LOGS: VAULT 9§!\n\n§GA HOME FOR THE BEST AMONGST US, THE MOST LOYAL AMONGST US, THE FRIENDLIEST AMONGST US, THE GJOCJOHCOH AMONGST US: VAULT 9. SPECIALLY CONSTRUCTED FOR OUR B!B!SO NESABB! BAJSIBXONOANMNEMNMWN AB! WHO CANNOT JOIN US DUE TO POLICY. THAT IS RIGHT YOUR AHICXX BOWNBWAB CAN GET THEIR VERY OWN SPOT IN THEIR  VERY OWN VAULT! CALL 213-25-VAULT TODAY TO GUARANTEE YOUR ANCICINJWOINOABN A LIFE AFTER BOMBARDMENT! *only qualifying pre-registered Vault-Tec dwellers may take advantage of this offer.§! \n\n \nWhat this Vault houses or what its experiment was we are unsure of. A special breed of man that slipped through the cracks in history? Potential dwellers with gene defects? Who knows.\nWe prepared hackers, demolitionists, and engineers to open the door, luckily before trying anything to crack the gigantic metal hunk blocking our entrance, one of our junior scouts strolled up to the door and gave it a swift knock, opening it. \n\nAs the door rolled open our excitement mounted, as well as our curiosity, new dwellers? Terrible creatures? Horrifying experiments? B- barks..? Are there dogs in this vault? This is a dog vault..."
+  nf_vault_tec.22.a:0 "What even is the experiment?"
+
+  nf_vault_tec.23.t:0 "Vault 27"
+  nf_vault_tec.23.d:0 "Our scouts have returned much quicker than anticipated. It turns out that Vault 27 is much smaller than we had expected, designed with less than a quarter of the space of a regular vault. Already, many of the vault dwellers have begun leaving for one of our less cramped settlements. Establishing an outpost at a vault this size is impractical; however, we could expand it to a normal size, though it may be more practical to just strip it instead."
+  nf_vault_tec.23.a:0 "Strip it."
+  nf_vault_tec.23.b:0 "Expand it."
+
+ #tooltips
+  vault_security:0 "Establishes a Security Team for the new Vault."
+  vault_19_vault_21:0 "Use explosives made from Vault 19 to open up Vault 21 for repair."
+  tock_search_tt:0 "§CVault-Tec Message:§! §GWe will begin a search for Tock, the former Overseer of Vault 24! Perhaps gaining a legend that will heavily improve morale!§!"
+  
+ #advisors
+  vault_sarah:0 "Sarah Weintraub"
+  
+ #flags
+  vault_19_explosives:0 "Vault 19 is being used to create explosives."
+  vault_21_excavated:0 "Vault 21 has been excavated."
+
+  
+

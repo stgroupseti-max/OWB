@@ -1,0 +1,25 @@
+﻿l_english:
+  generic.170.t:0 "[From.GetName] got a Virus"
+  generic.170.d:0 "[From.GetRank] [From.GetName] is suffering from a fork bomb after an error in [From.GetHerHis] programming; [From.GetSheHe] will be unable to start up new combat processes until [From.GetSheHe]'s completed a full reboot. We suspect that due to the bad climate in [From.GetHerHis] operational area, the [From.GetRank]’s circuitry was damaged by condensation, prompting the glitch. Strangely, these errors intensified after an unknown technician named \"Todd\" completed repairs - stating that the robot should now 'just work'."
+  generic.170.a:0 "Have you tried turning it OFF and ON again?"
+
+  generic.180.t:0 "[From.GetName] is Critically Damaged"
+  generic.180.d:0 "After a prolonged bout of combat, [From.GetRank] [From.GetName] returned to the camp suffering heavy damage. Many of [From.GetHerHis] critical components were blown out, and the [From.GetRank]’s structural integrity is incredibly low. [From.GetName] was fortunate to return in a working condition, and will need to undergo extensive repairs before [From.GetSheHe] is capable of full operation once more."
+  generic.180.a:0 "That's a Lotta Damage!"
+
+  helper_events.1.title:0 "[FROM.GetName] Demands Territory!"
+  helper_events.1.desc:0 "The [FROM.GetName] has had the audacity to demand of us territory! How should we proceed? Should we crush their miserable ambitions at once, or delay them by giving in for enough time to annihilate them utterly? §RWe need to take a decision at once, before they take our silence for a sign of disrespect and decide to retaliate on their terms. We cannot allow them to seize the initiative!§!"
+  helper_events.1.a:0 "We will deal with this."
+
+  helper_events.2.title:0 "[FROM.GetName] Cedes Territory!"
+  helper_events.2.desc:0 "Following our ultimatum, [FROM.GetLeader] of [FROM.GetName] has seen wisdom and relayed a message accepting our territorial demands. [FROM.GetAdjective] soldiers have withdrawn from the border, and our own troops have rapidly moved to occupy the contested territory.\n\nWhile the situation remains tense on the border, for now, war between our two countries has been averted."
+  helper_events.2.a:0 "Excellent!"
+
+  helper_events.3.title:0 "[FROM.FROM.GetName] Rejects Ultimatum!"
+  helper_events.3.desc:0 "The fools of [FROM.FROM.GetName] have refused to cede our territorial demands! It appears we will be forced to make good on our ultimatum."
+  helper_events.3.a:0 "War it is, then."
+
+  generic.26.t:0 "[From.GetName] is Addicted"
+  generic.26.d:0 "[From.GetRank] [From.GetName] has been taking chems to win the war for us, but it's starting to tell.  Now [From.GetName] is out of it, having paranoid fantasies and pretending suffering terribly. This is all quite sad, but even worse it will affect their ability to lead our military.  Perhaps this goes to show that [From.GetRank] [From.GetName] should have trusted the fighting spirit of our people. \n\nJust kidding, we'll give them some Fixer and let them deal with the complicated psychological trauma later."
+  generic.26.a:0 "Maybe some jet will help?"
+  generic.26.a_tt:0 "\n§OTo be fair, some winners do do drugs.§!"

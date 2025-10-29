@@ -1,0 +1,26 @@
+﻿l_english:
+  # Social Link Names
+  MENU_WIKI:0 "Check out §YOWB§! §GWiki§!!"
+  MENU_DISCORD_OWB:0 "Join §YOWB§! on §CDiscord§!!"
+  MENU_REDDIT:0 "Check out §YOWB§! on §RReddit§!!"
+  MENU_SURVEY:0 "	 £GFX_survey_tutorial																																										Enable §Y"Use external web browser"§! in your §YHOI4 Game Options§! to open the survey!"
+  #Please comment out 5_1_2025_NEW_CONTENT_LABEL instead of deleting it when this content isn't new anymore.
+  5_1_2025_NEW_CONTENT_LABEL:0 " §RNEW CONTENT§!\n §OBull's Demense§!:\n   $BLC_ruler$\n   - $BCR_ruler$\n   - $YMP_ruler$\n   - $PNT_ruler$\n   $GLW_ruler$\n   $LUM_ruler$\n   $BAG_ruler$\n   $WHD_ruler$\n   Shared Colorado\n   - $TOB_ruler$\n   - $SLE_ruler$\n   - $CIP_ruler$\n   - $IRN_ruler$\n   Shared Vault\n   - $EXE_ruler$\n   Shared Settler\n   - $EDA_ruler$\n   §gOther Changes§!\n   §g- Touchups for $ROB_ruler$§!\n   §g- Touchups for $TTM_ruler$§!\n §OUtah§!:\n   $ORO_intellectuals$\n   §gOther Changes§!\n   §g- Touchups for $EAG_ruler$§!\n   §g- Touchups for $WHT_ruler$§!\n   §g- Touchups for $CLK_ruler$§!\n §ON. Commonwealth§!:\n   $RCK_ruler$\n   §g- Touchups for $VTS_ruler$§!"
+
+  RULE_IMPROVERELATIONS_BLOCKED_TT:0 "§RImprove Relations through Events/Decisions/Focuses§!."
+  RULE_ALLOW_LICENSING_BLOCKED_FOR_AI_TT:0 "§RCan't License from the AI§!."
+  RULE_DISMANTLE_FACTION_BLOCKED_TT:0 "§RDismantle Factions through Events/Decisions/Focuses§!."
+  has_mutually_positive_opinion_with_prev_tt:0 "Has §Gmutually positive§! opinions with §Y[Prev.GetNameDef]§!.\n"
+  is_neighbor_of_prev_tt:0 "Is a neighbor of §Y[Prev.GetNameDef]§!."
+  within_reachable_land_distance_of_prev_tt:0 "Controls a §Ghome-area§! §Ystate§! within [?distance|Y] §Ykm§! of any of §Y[Prev.GetNameDef]'s§! §Ghome-area§! §Ystates§!.\nThe current distance between us is [?closest_distance_to@PREV|Y]"
+  all_of_the_following_must_be_true_tt:0 "All of the following must be true:\n"
+  startup.100.t:0 "§RCountry Missing Initalization§!"
+  startup.100.d:0 "§RPLEASE REPORT TO DEVELOPERS. THIS COUNTRY HAS NOT PROPER INITALIZED!§! \nTAG: [This.GetTag]\nDATE: [This.GetDateText]\nIDEOLOGY: [This.GetRulingIdeology]"
+  FOCUS_FILTER_IDEAS:0 "Ideas"
+  mod_version_label_tt:0 "Old World Blues 5.1.2"
+  add_state_population_tt:0 "§Y[THIS.GetName]'s§! §Ostate population§! changes by [?pop_add|0+=].\n"
+  add_state_population_no_state_name_tt:0 "§OState population§! changes by [?pop_add|0+=].\n"
+  add_random_agency_upgrade_tt:0 "Unlock §Y[?random_agency_upgrade_amount]§! random agency upgrades.\n"
+  wasteland_states_name:0 "Unoccupied Wasteland"
+  tunnel:0 "Tunnel"
+  tunnel_desc:0 "\nHidden deep underground, and immune to airpower or most weather, tunnels facilitate quick movement on a limited access network.	Be aware that getting surrounded in tunnels is an absolute death sentence."

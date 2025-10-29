@@ -1,0 +1,297 @@
+﻿l_english:
+
+  hvr_americas_long_dark_shadow:0 "America's Long Dark Shadow"
+  jck_enemies_of_macarthur:0 "Kicked Us Out!"
+  jck_old_memories_die_hard:0 "Old Memories Die Hard"
+  hvr_allies:0 "Close Pasts"
+  HVR_elites_sisterhood_occupation:0 "Sisterhood Occupation Committee"
+
+  #Characters
+  HVR_JACQUELINE_NAME: "Jacqueline Marro"
+  HVR_JACQUELINE_DESC: "Mayor Jacqueline has a bit of an unusual role. Unlike mayors out west, she inherited the title from her father, who inherited the title from his father before him. But as mayors go, she ain't so bad; she only killed one of her brothers when she took her pa's seat at the table. Now Jacqueline tries to lead her small community, hoping that history will pass them by, as it has for so long. \n\nShe may not be so lucky."
+
+  HVR_LUZ_NAME: "Outsider Luz"
+  HVR_LUZ_DESC: ""
+
+  HVR_RHIANNA_NAME: "Rhianna Robertson"
+  HVR_RHIANNA_DESC: " §Y"Let our voices echo across the wasteland, reaching the ears of the lost and broken. Let them know that America's wings stretch wide, ready to shelter and protect all who seek redemption. In our unity, we shall forge a new era where the world is bathed in the radiant glow of America's grace. Trust in her, my brethren, for she shall deliver us from the depths of darkness into the embrace of hope."§! \n\nThe daughter of a religious woman and a member of Zack’s Company, love, and war go hand in hand for this young woman, spreading the belief of Americana like wildfire. Through her leadership, Liberty has spread across Havre, overthrowing a previously hereditary mayoral government system and replacing it with more chaos. Chaos in which many organizations have found peace in, lending to their great support of the cult and Rhianna’s continued efforts after the death of her mad father, the founder of their cult, based on the misconception and twisting of her mother’s beliefs.\n\nSometimes called Liberty or Libertas Dei, Americana is the belief in life, liberty, and the pursuit of happiness, as well as America, not the state or the continents, but an angel sent by God in order to spread prosperity to the American people, captured and taken away by the darkness that the Great War brought, the cult’s goal is to rid the world of this darkness, and it’s warriors in order to bring back their angel. Through any means necessary..."
+
+  HVR_CARVER_NAME: "Carver"
+
+  HVR_WALLFLOWER_NAME: "Wallflower"
+
+  HVR_LEONA_SMITHEE_NAME:0 "Leona Smithee"
+  HVR_LEONA_SMITHEE_DESC:0 "§L“You see, you can rob a feller, knock him on his ass, and spit in his face; that’s fine; they’ll never fall for it again, though. The real game is robbin’ ‘em without being found out, stealin’ in such a way that ‘ey don’t even know that they’re being ‘ad, sometimes ‘ey’ll even ask you to rob 'em some more if you pull it off!”§! \n\nLeona, amongst the highly acclaimed chief thieves of the Thieves Guild, has been a constant supporter of the Liberty movement, as it provides a wonderful cover to the operations and services the guild provides throughout the greater area and camouflage to the nefarious organizations home base within the former nation of Havre.\n\nSo much so that she has been elected by the guild to become the cult’s personal advisor on all things related to the guild, greatly influencing Rhianna’s view of economics and all things trade, putting to use the tactics taught to Leona in her youth of extortion, and other such things befitting a capitalist society.\nWhether or not she truly believes in America is a point of contention within the guild, many claiming that Ms. Smithee’s closeness with the priestess denotes a deeper calling than just fulfilling her duties, that she believes in her ramblings of angel America, whether this is true or not is left to speculation; but there is one truth to these rumors, Leona is devoted, to her duties or the priestess, is up in the air, but she will stop at nothing to ensure the guild has a place within the cult’s new world, be it in the golden light of America’s return or not..."
+
+  HVR_JASON_FOSTER_NAME:0 "Jason Z. Foster"
+  HVR_JASON_FOSTER_DESC:0 "§C“Well... uh... I would, um, cover this point right here... maybe blow that up? I don’t know, man...”§!\n\nUnsure, lost, and incredibly lucky, Jason, a Zack Company remnant, has stumbled his way into becoming chief of military operations for the Cult of Liberty. Although he has no idea what he is doing when it comes to tactics, he has done wonders for the cult in terms of circumvention of retaliation by the forces of the world that wish to prevent America's return, as you cannot combat the unknown, and there is nothing to know. \n\nThis, ironically, has rallied the cult, attracting all those wishing for true liberty, be it in gorilla warfare or domestically, leading to better means of attack and even more unwarranted acclaim for Foster. Who was “volunteered” by the organized remnants of Zack’s Company, mostly in an attempt to rid themselves of him. Jokes on them, though; Jason thinks so, at least, if he even does at all..."
+
+  #Traits-For use anywhere in the mod as well
+  HVR_smart_thief:0 "Smart Thief"
+  HVR_clueless_genius:0 "Clueless Genius"
+
+  #Events
+
+  nf_hvr.1.t:0 "The Lonely Lands"
+  nf_hvr.1.d:0 "Between the Enclave's dominion in the Rockies and the terrors of the North lay Havre: an unorthodox and distraught series of communites loosely united. To most, Havre was a place of safety, of true freedom: a land where the Enclave could not take from you, a land where the Storm Mongers would not dare tread, a land where those without reason had no reason to be. It was a simple thing. \n\nBut to be on the outskirts of modern societies is not always such a boon. To many, Havre was an attractive prospect: a land far away from the troubles of the world, where those with nowhere else to go could thrive. \n\nBandits, thieves, and other ragamuffins from around Montana found Havre to be a perfect place to enact their misdeeds. It was in this disorder that a newcomer arose from the growing chaos: the Cult of Liberty. \n\nRhianna Robertson has always stood for life, liberty, and the pursuit of happiness-- though you might not expect where she got that from. Her mother passed down to her a set of unusual teachings that she took to heart greatly: tales of the angel America who was sent by God to lead them from darkness, forced from this world due to its nuclear conflict, The Great War."
+  nf_hvr.1.a:0 "The Thieves Guild offered many bounties."
+  nf_hvr.1.b:0 "The Cult of Liberty were armed to the teeth."
+  nf_hvr.1.c:0 "I think Havre had its own treasures to boot!"
+
+  nf_hvr.2.t:0 "The Tale of Rhianna Robertson"
+  nf_hvr.2.d:0 "Rhianna Robertson was born to a Zack Company descendant and a Safehaven tradeswoman, and it was in her fathers delusions that the Cult of Liberty began. Her mother gave way to disease and so all she had been left with was his ramblings, inspired by her mother's religious beliefs-- the same ramblings which grew a flock in Havre and overthrew the last mayor. \n\nShe grew in his footsteps, and with her growing patriotic fanaticism and charming disposition, people listened to her-- and so the Cult grew in power year after year. The benefits to the communities of Montana weren't clear at first, but her light brought a significant amount of change for the better, both for the common people of Havre, and those that wish to hide in the cult's chaos. What stood out most of all was her dealings in..."
+  nf_hvr.2.a:0 "Industry, to bring jobs!"
+  nf_hvr.2.b:0 "Military, to make America proud!"
+  nf_hvr.2.c:0 "Economy, to bless the world with holy capitalism!"
+
+  nf_hvr.3.t:0 "In the Land of the Free"
+  nf_hvr.3.d:0 "Havre, and its surrounding environs, have only survived in past because they were just too far out of the way to mean anything. With the Cult of Liberty's growing strength, however, this has begun to change-- a desire to push out has grown within the cult's most devout, and to outsiders, the desire to silence America's prayers has also begun to rise. \n\nThe future may be uncertain, but it is with heavy hope and a steady, loving rage that Rhianna Robertson hopes to bring the light of America to her enemies."
+  nf_hvr.3.a:0 "Praise America!"
+
+  nf_hvr.4.t:0 "Havre Approaches Us"
+  nf_hvr.4.d:0 "The people of Havre have sent a small envoy from the Cult of Liberty to ask for our assistance in their industrial manuevers. Though it may be costly, they offer quite a payment..."
+  nf_hvr.4.a:0 "We will take the deal!"
+  nf_hvr.4.b:0 "We must tend to our own."
+
+  nf_hvr.5.t:0 "Oldgun's Fight"
+  nf_hvr.5.d:0 "Oldgun is many things to the people of Havre: to some, a hero who stood against the tyranny of Zack Company. To another, he was a murderer, a man who knew no mercy. Whatever belief you subscribe to, the undeniable fact is that the resources that the Niitsitapi Blackfoot sit on are invaluable. For years the merchants of Havre have kept their eyes on their lands-- perhaps we may be able to benefit from engaging them..? \n\nWhile Zack Company isn't the most prominent of those within our borders, their presence is a noticed and appreciated factor of our community. If we are to deal with the Niitsitapi, we must have them acknowledge their failings, so that their relationship may heal."
+  nf_hvr.5.a:0 "We shall see."
+
+  nf_hvr.6.t:0 "Zack Company Offers An Apology"
+  nf_hvr.6.d:0 "Today, something strange. A Zack Company remnant, his armor now winterized like some sort of action figure, emerged from the winter wall. He sought words with Jeremy Oldgun, and so the two spoke in private for many hours. The man detailed the plea of Zack Company: they would offer resources in exchange for peace with us, so long as we too would share the bounties of our land with them. It could be costly, but their aid could prove invaluable..."
+  nf_hvr.6.a:0 "The Niitsitapi shall stand proud and alone."
+  nf_hvr.6.b:0 "We shall let bygones be bygones."
+
+  nf_hvr.7.t:0 "The Thieves Guild of Havre Offers a Bounty"
+  nf_hvr.7.d:0 "The Saints once helped the Thieves Guild depart the Stretch amicably-- now, they offer Rosebud a slight bounty in return for their amicably made assistance."
+  nf_hvr.7.a:0 "Now, how about that?"
+
+  nf_hvr.8.t:0 "Patriotic Prose"
+  nf_hvr.8.d:0 "A dingy wooden platform with a podium covered in stars and stripes stood in the middle of a crowd filled plaza as the sun flew over high on the crowd of gathering Americans. All walks of life had heeded Prophet Robertson's call for a speech, for they listened to her word as if it had come straight of the American Angel itself. Though many skeptics had risen to doubt the return of 'Americana', the majority of the common folk had come to accept her wise teachings. \n\nRobertson proudly waltzed onto the stage and began riling up the crowd and loudly declared: “Ladies and gentlemen! The time has come for a new dawn in America's skies...” She paused, quickly taking a deep breath before continuing to display her dogma “No longer will she be dragged to the earth by false prophets! Her angelic wings will not be clipped by those who claim her as if she was land that could be exploited..." \n\nShe continued, now gaining a more somber tone as she carried on with her speech. “It is quickly becoming apparent that the Enclave's idiotic ideology is threatening our beliefs... They wish to pilfer and plunder through America's lands to try and steal her gifts bestowed upon her faithful!” The crowd quickly began virulently cheering, forcing her to pause... "But alas, they have underestimated the Age of Americana that will soon sweep the faithless lands that surround us! No longer must we worry of devilry infiltrating the veins of our towns, for our faith in her angelic powers has carried us further than any machinery or ideology!" \n\nShe quickly glanced at the crowd, preparing to finish her fiery speech “The so-called 'Patriots' to our west have no place in our perfect world... They are simply selfish devils that taint the minds of our young with their false gospel of a past that never existed who have never witnessed the true beauty of America! They can not stand the gaze of the lightbringer, we will prevail!” Her final words echoed through the plaza as the crowd thunderously roared in applause as they began slowly chanting “America... America... America!""
+  nf_hvr.8.a:0 "Great crowd tonight!"
+
+  nf_hvr.9.t:0 "The Priests of America"
+  nf_hvr.9.d:0 "To the people of Montana, the Cult of Liberty had been a fringe movement... Until the warpriests entered the scheme. Clad in power-armor purchased from the Marshall Republic's stockpiles, they stood as a vanguard in the outskirts against any would-be threats. The Enclave, America's long, dark and twisted shadow knew them only in their worst nightmares-- after all, it is no doubt the sheer strength of the Warpriest caste that has kept the Enclave bound to their mountains. \n\nThey are our protectors, our most faithful, and Robertson's finest. It is by them we secure a future lovingly in America's blessed name, so that her land may be bountiful and lit only by golden mornings when she returns. \n\nThese blessed believers are led by Julia Carver, a daughter of Enclave defectors, orphaned in her youth now leads these Warpriests, and the fire of liberty burns just as brightly as the hate for the power armour clad forces invading Montana."
+  nf_hvr.9.a:0 "May God Bless Their Hearts."
+
+  nf_hvr.10.t:0 "Our Friends in Safehaven"
+  nf_hvr.10.d:0 "Safehaven had long since been an ally to the people of Havre. When one needed guns, they could merely bring with them their largest purse into the desolations above and be greeted by sleek, greased metal, complete with reloaded rounds, all prepared to a wonderful perfection. When one needed protection, the Wardens and the Vultures were ready at a moments notice. What was it, then, that the Cult of Liberty needed from them today?"
+  nf_hvr.10.a:0 "Guns, to protect America's legacy."
+  nf_hvr.10.b:0 "Training, to ensure America's strength."
+
+  nf_hvr.11.t:0 "The Cult of Liberty"
+  nf_hvr.11.d:0 "For years, we have supplied and aided the Cult of Liberty with their little 'religion' in Montana. They have come to us for weapons, training, and all other manner of supply and mind. What, then, did we most value from our trades with them?"
+  nf_hvr.11.a:0 "Caps!"
+  nf_hvr.11.b:0 "The political power."
+  nf_hvr.11.c:0 "The new bar down the road!"
+
+  nf_hvr.12.t:0 "The Nuka-Cola Plant Re-Opens!"
+  nf_hvr.12.d:0 "The Cult of Liberty has invited all Montanans to the Nuka-Cola Foundry to attend the grand re-opening of a Nuka-Cola factory. When pressed for why they opened it, Cult officials stated "The people want comfort and a place to work, and this factory will provide it." \n\nPeople attending the event were quoted as saying "This Nuka-Cola tastes worse than the ones we find outside.""
+  nf_hvr.12.a:0 "Maybe some things are better left in the past."
+
+  #Focus LOC
+
+  HVR_havre:0 "Once Ravaged on American Soil..."
+  HVR_havre_desc:0 "Once ruled by a loosely structured hereditary mayoral system, Havre's laid back governing gave way to something greater... "
+
+  HVR_the_cult_of_liberty:0 "The Essence of Liberty in the Heartland"
+  HVR_the_cult_of_liberty_desc:0 "The deposition of Havre allowed Liberty to rise, and with it Rhianna followed."
+
+  HVR_freedom_rang_silently:0 "Liberty Unleashed a Triumphant Return Awaits!"
+  HVR_freedom_rang_silently_desc:0 "With the spread of Liberty, America will return, and she too will spread her prosperity!"
+
+  HVR_americas_best_friend:0 "America's Best Friends"
+  HVR_americas_best_friend_desc:0 "The texts are quite clear on the matter. And besides, are you gonna tell your congregation that you want to stop a "free puppy" clerical policy?"
+
+  HVR_rhiannas_mission:0 "Echoes of Rhianna's Gospel"
+  HVR_rhiannas_mission_desc:0 "Rhianna's mission to spread America's Gospel has done very well, moving more and more Havrens into our congregation."
+
+  HVR_guns_of_liberty:0 "Unleashing the Power of Liberty"
+  HVR_guns_of_liberty_desc:0 "Although we are all America's children, and we wish all to join our flock, the path to liberty must be paved with the hearts and blood of those willing, as well as their iron."
+
+  HVR_galvanized_masses:0 "The Galvanized Force of the American Masses"
+  HVR_galvanized_masses_desc:0 "Although we lack the steel of the brotherhood, or the training of the Enclave, our soldiers and souls are forever galvanized by America's love, and our duty to ensure she returns."
+
+  HVR_a_weapon_worthy_of_america:0 "Unrivaled Power of America"
+  HVR_a_weapon_worthy_of_america_desc:0 "Through the mighty minds of those that once made up Zack Company's research division, we have procured the ability to build weapons worthy of America's love."
+
+  HVR_american_killin_time:0 "To Kill With Our Heart"
+  HVR_american_killin_time_desc:0 "Her love of firepower in well documented is the holy texts. If these guns aren't worthy of her love, then at least we'll be safe til we find ones even bigger."
+
+  HVR_with_thanks_to_the_ruminators:0 "A Tribute to The Ruminators"
+  HVR_with_thanks_to_the_ruminators_desc:0 "Thanks to "volunteers" from the Ruminators, we have learned the ways of medicine, and how to apply it to America's beloved soldiers and worshippers."
+
+  HVR_holy_tithings:0 "America's Holy Tithings"
+  HVR_holy_tithings_desc:0 "Thanks to the offertory at our congregations and speeches, we have collected a healthy sum, this is bolstered by the voluntary tithe offered to all of Havre's citizens."
+
+  HVR_muster_a_militia:0 "Rallying the America's Militia!"
+  HVR_muster_a_militia_desc:0 "Those of liberty's finest have chosen to join the cause, and Havre has become a center for the spread of liberty, if only America could see us now..."
+
+  HVR_american_faithfuls:0 "The Legacy of American Faithfuls"
+  HVR_american_faithfuls_desc:0 "Those who believe in the faith work twice as hard as those who don't. Luckily for us, our faith spreads like wildfire, especially at home."
+
+  HVR_americas_grace:0 "Grace of the Red, White, and Blue Radiant Spirit!"
+  HVR_americas_grace_desc:0 "We're nearly there... America will return, I will prove my mother right."
+
+  HVR_julia_carver:0 "Julia Carver, Guardian of Liberty"
+  HVR_julia_carver_desc:0 "At the rise of Libertim Dei and Americana, or rather the Cult of Liberty, my father used Zack Company as their protection at rallies, but after his passing at the hand's of an Enclave raid, a need for new warrior's were needed, ones that could assist in spreading our faith."
+
+  HVR_american_vigilants:0 "Stars and Stripes Watchmen"
+  HVR_american_vigilants_desc:0 "Those wishing to utilize the might of steel, the same that the Brotherhood or Enclave utilize, have given us the capability to produce this power, and under the watchful eye of Carver, the Warpriests may have a chance against them. America Bless."
+
+  HVR_against_the_storm:0 "Liberty Stands Against the Mongers"
+  HVR_against_the_storm_desc:0 "Through Americana we are galvanized, yes, but this is not enough, even though America protects our souls... we must push our invulnerable bodies to face the fear that lies behind its iron."
+
+  HVR_showtime:0 "Friends in Safehaven"
+  HVR_showtime_desc:0 "Safehaven- long time friends of Havre, and still friends of liberty have much to offer us, let America bless them."
+
+  HVR_learning_from_wardens:0 "Lessons from Wardens"
+  HVR_learning_from_wardens_desc:0 "Even though they have given us much, the Wardens still find more room in their heart for us! Some of the older vets have chosen to offer their expertise, America's heart swells with love for them!"
+
+  HVR_men_for_the_front:0 "Proof Of Faith"
+  HVR_men_for_the_front_desc:0 "The surest show of faith is to take up arms in the name of the Angel!"
+
+  HVR_infrastructure:0 "Pioneers of Havre"
+  HVR_infrastructure_desc:0 "Havre has always had a wealth of bright minds, the worship of America has encouraged them to put this to use for the betterment of the people."
+
+  HVR_the_nuka_cola_plant:0 "The Nuka-Cola Foundry"
+  HVR_the_nuka_cola_plant_desc:0 "Before the war, Chester became a center for Nuka-Cola production. While the only thing remaining of note is the Foundry all work radiated from, we can repurpose the production lines in our modern age for Havre's betterment and pursuance of Americana."
+
+  HVR_open_the_nuka_cola_plant_for_all:0 "Sip of Freedom, Liberty Style!"
+  HVR_open_the_nuka_cola_plant_for_all_desc:0 "Although we've mostly repurposed the entirety of the old Nuka Cola factories, we still have some reserves, why not spread the prosperity America brings? Nuka Cola for all!"
+
+  HVR_cola_factory_tools:0 "Maintaining The Lines"
+  HVR_cola_factory_tools_desc:0 "To keep the cola flowing, we've had to learn a thing or two about how the lines work least they bind up and the sweet river stops."
+
+  HVR_the_northline:0 "A Journey into the Heartland's Frontier"
+  HVR_the_northline_desc:0 "The Northline once ran through the tippity top of our lands, we can use this once again, still America blesses us!"
+
+  HVR_moving_in_to_malmstrom:0 "Rolling into Malmstrom"
+  HVR_moving_in_to_malmstrom_desc:0 "Malmstrom AFB, one of our reclaimed territories has much to offer us, and America. Our scientific minds have taken much interest in what it holds, and with this the word of Americana has Spread!"
+
+  HVR_scrapping_storm_monger_things:0 "An All-Liberty Effort Against Absurd Kites!"
+  HVR_scrapping_storm_monger_things_desc:0 "I would like to play with them... if they weren't covered in guts, guess they make good scrap too..."
+
+  HVR_storm_mongers_teachings:0 "Wisdom of Stormmongers"
+  HVR_storm_mongers_teachings_desc:0 "Some of the captured stormie fellers have decided to show us the ropes of the kites- minus the bodies. America bless them! This is fun!"
+
+  HVR_last_rides:0 "The Last Ride into Horizon"
+  HVR_last_rides_desc:0 "Such fun those kites were! We should incorporate this into spreading America's word!"
+
+  HVR_landing_pad:0 "The Great Landing"
+  HVR_landing_pad_desc:0 "Combining our knowledge with that of the Stormmongers, we've come to one unescapable truth. Angels fly. Ergo, America will need a place to touch down. Why not pratice building suitable places for her wings to settle?"
+
+  HVR_cut_the_smiles:0 "Liberty's Pursuit of Happiness"
+  HVR_cut_the_smiles_desc:0 "Although they've been helpful, the Ruminators must be brought into our flock, if we must use our might in order"
+
+  HVR_the_priests:0 "Holy Priests of Liberty"
+  HVR_the_priests_desc:0 "A grand stage is set, and Rhianna's speeches are famous for attracting a crowd, America bless!"
+
+  HVR_the_outskirts:0 "Beyond the Borderlands"
+  HVR_the_outskirts_desc:0 "Havre has always been a safe place. With any luck, it will last..."
+
+  HVR_the_last_sibling:0 "The Saga of the Last Sibling"
+  HVR_the_last_sibling_desc:0 "Jacqueline Marro's ascent was fraught with controversy, but few cared to challenge."
+
+  HVR_runoff_from_macarthur:0 "Echoes of MacArthur"
+  HVR_runoff_from_macarthur_desc:0 "MacArthur's stranglehold on the Rocky Mountains has led many to flee east. With the threat of a new Brotherhood and the growing anger of Standing Rock, however, some sought salvation within the outskirts..."
+
+  HVR_niitsitapi:0 "The Spirit of the Niitsitapi"
+  HVR_niitsitapi_desc:0 "The Niitsitapi are friends to travelers, but quick to be suspicious. A friendship with them must be carefully made lest we anger the Old Gun."
+
+  HVR_stay_the_hand:0 "Hand of Liberty"
+  HVR_stay_the_hand_desc:0 "Perhaps we may be able to garner true friendship from this? The people of Havre and the Niitsitapi have much to offer each other, in both experience and in goods."
+
+  HVR_remember_old_dues:0 "Memories of the Old Dues"
+  HVR_remember_old_dues_desc:0 "The men of Zack Company haven't forgotten the old battles. They'll fight until every bone in their body breaks if it means clearing their name."
+
+  HVR_a_friend_indeed:0 "The Odyssey of Oldgun"
+  HVR_a_friend_indeed_desc:0 "Jeremy Oldgun is a reasonable and seasoned man: a genius of the modern wasteland. To have him on our side would be a boon like no other. We will send an offer for an alliance and see what he says!"
+
+  HVR_listening_to_the_thieves:0 "Heeding the Outlaws"
+  HVR_listening_to_the_thieves_desc:0 "The Thieves Guild are full of scrappers-- Wallflower herself being no exception. Her and her men are crafty, elevating the would-bes and could-bes of our society into functioning citizens. Perhaps thieves aren't so bad after all!"
+
+  HVR_swindling_passerby:0 "Frontier Swindle"
+  HVR_swindling_passerby_desc:0 "The people of Montana are stiff, and untrusting. After all, why should you spare a nickel for your fellow man when the Enclave could take everything in just a moment? Thankfully, due necessities are embraced, and so we can take what we need as we need it."
+
+  HVR_friends_round_the_old_block:0 "Friends 'Round The Old Block"
+  HVR_friends_round_the_old_block_desc:0 "Many of the people within Havre are incredibly talented, but we've given them nowhere to use their talents. What say we give 'em something to do?"
+
+  HVR_land_of_opportunity:0 "The Endless Frontier of Opportunity"
+  HVR_land_of_opportunity_desc:0 "Whatever your take on the Cult of Liberty, they were right about one thing: America was onto something calling it the 'land of opportunity.'"
+
+  HVR_approaching_saints:0 "Approaching Saints"
+  HVR_approaching_saints_desc:0 "The Saints back home in The Stretch aren't the greatest of allies, but they've stuck their necks out for us before. What say we repay the favor?"
+
+  HVR_pushing_out_the_thieves:0 "Thwarting Outlaws"
+  HVR_pushing_out_the_thieves_desc:0 "The Thieves Guild are a threat to the sanctity of Havre, and the beautiful grace of America. We must stand united, in her name!"
+
+  HVR_appointing_frostguards:0 "The Rise of Liberty Devotees"
+  HVR_appointing_frostguards_desc:0 "The Cult of Liberty shall watch over us all. America bless!"
+
+  HVR_matching_enclave_production:0 "Matching Enclave Production"
+  HVR_matching_enclave_production_desc:0 "The Enclave are heretics. No doubt they once sought to fulfill the will of America themselves-- but alas, just as they have been led astray, we must lead them to their graves."
+
+  HVR_frostwall_industry:0 "The Land of Enlightenment"
+  HVR_frostwall_industry_desc:0 "It is in America's eyes that our hammers find their craft. It is in America's eyes that we are inspired to pursue our interests. It is her womb that we all came from, and it is her mind and soul that the world was built upon."
+
+  HVR_frostwall_whiteguard:0 "Amidst the Blizzard"
+  HVR_frostwall_whiteguard_desc:0 "The sky will get us closer to America. The Storm Mongers-- in a rare fit of benefit to us-- have shot down many old Enclave vertibirds. With the craftsmen of Havre, we will restore what we can and take to the skies, just as the angels would want us to."
+
+  HVR_pushing_out:0 "Pushing Out of Havre"
+  HVR_pushing_out_desc:0 "The Havre is no home for the future. We must make a stand somewhere we can make a difference."
+
+  HVR_whitewall:0 "The Fortress Society"
+  HVR_whitewall_desc:0 "A Fortress Society will make all the difference. The Angel stands by us always."
+
+  HVR_sit_upon_a_throne:0 "Crowning Glory of Liberty"
+  HVR_sit_upon_a_throne_desc:0 "MacArthur has fallen! Rejoice, people of Havre! Rejoice!"
+
+  HVR_scouring_brotherhood_treasures:0 "Scouring Brotherhood Treasures"
+  HVR_scouring_brotherhood_treasures_desc:0 "The Brotherhood are tech thieves. Why don't we plunder their plunder?"
+
+  HVR_sisterhood_occupation:0 "Under Sisterhood Occupation"
+  HVR_sisterhood_occupation_desc:0 "The Sisterhood moved into Havre silently. Overnight, they became overlords. What will became of the outskirts?"
+
+  HVR_sisterhood_friendship:0 "Friends, Complete With Benefits!"
+  HVR_sisterhood_friendship_desc:0 "Knight Luz, with all her gusto, has taken control of Havre. Her wisdom will lead us to a new future!"
+
+  HVR_respectable_friends:0 "People of A Good Thinking"
+  HVR_respectable_friends_desc:0 "The people of Old Country have the right way of thinking! Perhaps we can go into the future together?"
+
+  HVR_puppet_the_consortium:0 "Refer to the Consortium"
+  HVR_puppet_the_consortium_desc:0 "It doesn't take a genius to know that we don't know the first thing about running a mine. We've got them in a good position, too, where they can serve to help us and the people of Montana, and we can intervene as needed. We'll let them run themselves-- within reason-- and keep the peace as we must."
+
+  HVR_puppet_fort_verity:0 "Tanya's Peace"
+  HVR_puppet_fort_verity_desc:0 "Fort Verity is a quaint little township. Though it was stomped over by the Brotherhood ten times over, we can serve to help Tanya rebuild it."
+
+  HVR_against_the_mongers:0 "Yesterday Shall Become History"
+  HVR_against_the_mongers_desc:0 "The Storm Mongers have been an issue for far too long. The time to strike is either now or never!"
+
+  HVR_claims_tt:0 "We will gain §Mclaims§! on all of §GMontana§!!"
+  HVR_vengeance_tt:0 "§RHavre will gain a wargoal on us!§!"
+
+###
+  #ideas
+
+  hvr_american_faithful:0 "Chapel of America"
+
+  hvr_thieves_outreach:0 "Thief's Outreach"
+
+  hvr_resourcefulness:0 "Livin' On The Fringes"
+
+  hvr_american_idiots:0 "American Idiots"
+
+  hvr_the_deal:0 "The Havre-Niitsitapi Agreements"
+
+  hvr_beast_of_america:0 "The Beast of America"
+  hvr_beast_of_america_desc:0 "Do you not tire of the Enclave's constant prattling about duties to your supposed 'country'? Or what of the newfound Brotherhood of Steel in the east, do you want them to take your possessions? Do the Ruminators and their peace anger you, too? Then the Cult of Liberty offers its hands in full! \n\nAmerica does not wait for the uncertain man to be certain of his faith before she enacts her justice. It is in the holy now that we can make a divine future."
+
+  hvr_americore:0 "Infectous Religion"
+  hvr_americore_desc:0 "§YAmericana: Life, liberty, and the pursuit of happiness.§! \n\nThese core tenants of the religion, or maybe delusions, have led to the conquering of the unconquerable. The Enclave, the Tribals, the Raiders, they all fell before those who bask in America's light. These actions have led to the almost infectious spread of the religion and the ease with which those under Pax Americana's newly hoisted flag accept America's champion's extended hand; one extended in the name of freedom, no matter how crazy it might be."
+
+
+###
+  #tooltips
+  HVR_carpo_tt:0 "§YTwo Infantry divisions§! will join our army."
+

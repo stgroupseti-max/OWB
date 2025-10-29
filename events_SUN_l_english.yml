@@ -1,0 +1,26 @@
+﻿l_english:
+################################## EVENTS ##############################################
+nf_sun_dog.1.t:0 "Lupas' Last Orders"
+nf_sun_dog.1.desc:0 "While the Wolf Queen may have fled north, her followers have done what no other foe has ever done: They've stolen our prize! The men of [SUN.GetNameDef] have slaughtered their own women and children to keep them from us. Our forces have found men screaming and broken from the acts they comitted. Other patrols were wiped out to a man, and large portions of our forces were wiped out just taking down these rouge elements. Caesar will be displeased, but it is up to you to decide how we shall handle the rebels.."
+nf_sun_dog.1.option.a:0 "Finish the Rebels, and Strike the Record"
+nf_sun_dog.1.option.b:0 "Spare only a Quarter of the Men"
+nf_sun_dog.1.option.c:0 "§RSlaughter Everyone§!"
+ 
+ nf_sun_dog.2.t:0 "Confronting the Wolf Queen"
+ nf_sun_dog.2.desc:0 "Gold-Hound and his most loyal soldiers entered Lupa's Tent, an old tattered legion one she and her followers stole on their march up north. She turned towards the direction of the tents entrance and sighs, as she stood up. Gold-Hound noticed a bag she had, it clear she had anticipated this, with her saying only "To where am I being exiled". Gold-hound pondered for a moment, thinking..."
+ nf_sun_dog.2.option.a:0 ""To Hecate's Realm""
+ nf_sun_dog.2.option.b:0 ""To Goddard and his 'Californains'""
+ nf_sun_dog.2.option.c:0 ""To the Dogs of the North""
+ 
+ nf_sun_dog.3.t:0 "The Wolf Queen Arrives"
+ nf_sun_dog.3.desc:0 "A woman claiming to be "The Queen of Wolves" has arrived in our camp. She is intent on assisting us and our people against the Legion."
+ nf_sun_dog.3.option.a:0 "Allow her Entrance...for now."
+ 
+ nf_sun_dog.4.t:0 "Goddards Warning"
+ nf_sun_dog.4.desc:0 "A Courier from Colorado has made his way to Congress, with a messange from Goddard. He claims that a former legion slave has arrived in his camp and has brought news, the Legion is invading Colorado. He is requesting military forces to aid the nations of Colorado against the Legion. Shall we oblidge"
+ nf_sun_dog.4.option.a:0 "We'll accept, at a price"
+ nf_sun_dog.4.option.b:0 "We'll have to decline, see you in a few years hopefully!"
+
+ 
+
+

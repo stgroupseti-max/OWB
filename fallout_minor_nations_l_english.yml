@@ -1,0 +1,19 @@
+﻿l_english:
+  ## Generic
+
+  # Categories
+  national_achievements:0 "National Achievements"
+  national_achievements_desc:0 "Every nation in this world wants to make a name for itself and build a legacy for decades to come. Only few will survive long enough to make it so."
+
+  #Decision
+  decision_tim_washington:0 "Liberate Washington"
+  decision_tim_washington_desc:0 "Washington was controlled by ghoulified remnants of the White Wardens for Decades, oppressing the people in the name of stability. A few years ago they were kicked out by the Brotherhood of Steel, enslaving the people to a worse fate. Now that we have liberate Washington, its people can live in freedom and peace."
+  TIM_WASH_AVAILABLE_tt:0 "Own all of §Ywestern Washington§! and §Yeastern Washington§!"
+  decision_diocese_lascruces:0 "Diocese of Las Cruces"
+  decision_diocese_lascruces_desc:0 "We now controll the area of the Diocese of Las Cruces. The Catholics previously suppresed by the Legion can practise free again."
+  decision_diocese_gallup:0 "Diocese of Gallup"
+  decision_diocese_gallup_desc:0 "We now controll the area of the Diocese of Gallup. The Catholics previously suppresed by the Legion can practise free again."
+  decision_diocese_tucson:0 "Diocese of Tucson"
+  decision_diocese_tucson_desc:0 "We now controll the area of the Diocese of Tucson. The Catholics previously suppresed by the Legion can practise free again."
+  decision_diocese_pheonix:0 "Diocese of Pheonix"
+  decision_diocese_pheonix_desc:0 "We now controll the area of the Diocese of Pheonix. The Catholics previously suppresed by the Legion can practise free again."

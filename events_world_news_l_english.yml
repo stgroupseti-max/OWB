@@ -1,0 +1,302 @@
+﻿l_english:
+  ###############################
+  ###   Global News Events    ###
+  ###############################
+
+  news_global.1.t:0 "Clash of Steel"
+  news_global.1.d:0 "In the face of overwhelming pressure, the fragile ceasefire between the New California Republic and the long-beleaguered Western Brotherhood of Steel has collapsed.\n\nFor the second time in recent history, laser fire illuminates Maxson as the NCR and Brotherhood mobilize for a resumption of full-scale warfare. President [NCR.GetLeader] has made a speech proclaiming that "Brotherhood terrorists will be crushed," while the Western Brotherhood is expected to activate underground partisan networks and call in support from the many Brotherhood chapters scattered throughout the wasteland.\n\nAs fighting in Southern California quickly grows to an intensity that exceeds even that of the bloody guerilla campaign waged by the Brotherhood throughout the 2260s, one thing is clear: this will be the final war between Lost Hills and Shady Sands."
+  news_global.1.a:0 "It has come to this."
+  news_global.1.b:0 "For the Brotherhood!"
+  news_global.1.c:0 "Time to rid the world of these techno-fascists."
+  news_global.1.e:0 "We must aid our brothers!"
+
+  ###############################
+  ###    West News Events     ###
+  ###############################
+
+  news_cali.1.t:0 "The NCR Victorious in Navarro"
+  news_cali.1.d:0 "Following the withdrawl or destruction of their remaining opponents, the New California Republic has once again emerged as the undisputed controller of the Navarro frontier. The culmination of a campaign to regain control of northwest California after fighting broke out between settlers aligned with the Shi, the NCR garrison, and the native tribes of the region, the NCR once again faces the task of taming California's last frontier.\n\nThe Bear - supported by a number of Brahmin Barons - has quickly taken steps to integrate the Navarro Territory into the NCR proper, bringing in a new swathe of settlers eager to extract the land's rich lumber and crops. For now, it seems the NCR is in Navarro to stay."
+  news_cali.1.a:0 "The status quo prevails."
+  news_cali.1.b:0 "Order has been restored."
+  news_cali.1.c:0 "Unfortunate..."
+  news_cali.1.e:0 "Unfortunate..."
+
+  news_cali.2.t:0 "The Shi Victorious in Navarro"
+  news_cali.2.d:0 "Following the withdrawl or destruction of the remaining opponents, the Shi has emerged as the undisputed controller of the Navarro frontier, seizing it from the NCR. The culmination of an intervention intended to protect citizens of the Shi after fighting broke out between Shi settlers, the NCR garrison, and the native tribes of the region, the Shi now faces the challenge of turning California's last frontier into a new rice bowl.\n\nThe Shi has taken steps to integrate the lands of the former Navarro Territory into the Shi proper, bringing in a number of settlers eager to extract the land's rich lumber and crops. The domestic reaction of the NCR to this loss - as well as whether the Republic will make another attempt to regain the territory - remains to be seen."
+  news_cali.2.a:0 "The Bear buckles under its own weight..."
+  news_cali.2.b:0 "Highly unfortunate."
+  news_cali.2.c:0 "For the Emperor!"
+  news_cali.2.e:0 "At least it's not the NCR."
+
+  news_cali.3.t:0 "Free Folk Victorious in Navarro"
+  news_cali.3.d:0 "Following the withdrawl or destruction of the remaining opponents, the tribals of Navarro - banded together as the 'Free Folk' - have emerged as the undisputed controller of the Navarro frontier, seizing it from the NCR. The culmination of a war of independence after fighting broke out between Shi settlers, the NCR garrison, and the native tribes of the region, the Free Folk now face the challenge of defending California's last frontier from the major powers of the region.\n\nRumors persist, however, that the tribes were supported by - and perhaps even controlled by - mercenaries hailing from Eureka to the north. The domestic reaction of the NCR to this loss - as well as whether the Republic will make another attempt to regain the territory - remains to be seen."
+  news_cali.3.a:0 "How could both the NCR and the Shi lose to tribals?"
+  news_cali.3.b:0 "Those couldn't have just been mere tribals..."
+  news_cali.3.c:0 "Those couldn't have just been mere tribals..."
+  news_cali.3.e:0 "We have proven ourselves."
+
+  news_cali.4.t:0 "[SHI.GetLeader] Solidifies Control over the Shi"
+  news_cali.4.d:0 "Today saw the Bear grow stronger as the Shi's Emperor mantained [SHI.GetLeader] as the leader of the Shi, ending a period of sustained ideological debate in San Fransisco as to the future of the state, particularly with regard to its relationship with the larger New California Republic to the south.\n\n[SHI.GetLeader], as a member of the Crane School, has greatly strengthened ties with the NCR ever since his ascent to power at the hands of the Chosen One. Now with pro-NCR factions possessing even greater control over the Shi, this trend of cooperation is expected to continue.\n\nRumors abound that, under [SHI.GetLeader]'s instruction, the Shi will soon apply to become an Associate State within the NCR, formalizing the two states' alliance and bringing one of the last independent nations in California into the NCR's fold."
+  news_cali.4.a:0 "The NCR grows stronger."
+  news_cali.4.b:0 "Welcome to the best nation on Earth!"
+  news_cali.4.c:0 "Beside us, Brother Bear."
+  news_cali.4.e:0 "More profligates to kill."
+
+  news_cali.5.t:0 "[SHI.GetLeader] Takes Control of the Shi!"
+  news_cali.5.d:0 "Today saw the Dragon School return to reigns of power of San Fransisco as the Shi's Emperor appointed [SHI.GetLeader] as the leader of the bay, ending a period of sustained ideological debate in San Fransisco as to the future of the state, particularly with regard to its relationship with the larger New California Republic to the south.\n\n[SHI.GetLeader], as a member of the Dragon School, rose to power on a explicitly revanchist and anti-NCR stance. Under her reign, aggression with the Republic is expected to markedly increase. Rumors abound that [SHI.GetLeader] plans to strike against the NCR, should it ever come upon a moment of weakness."
+  news_cali.5.a:0 "Is war on the horizon?"
+  news_cali.5.b:0 "We may need to begin drawing up invasion plans."
+  news_cali.5.c:0 "We shall assert ourselves."
+
+  news_cali.6.t:0 "[SHI.GetLeader] Forms the San Fransisco Chapter!"
+  news_cali.6.d:0 "Today saw the Brotherhood of Steel grow their influence in California as [SHI.GetLeader] announced that the Shi would hencefourth be led by the San Francisco Chapter, ending a sustained period of ideological debate in San Fransisco. After both martial gangs in the city dissolved, the Shi's Emperor purportedly petitioned Lost Hills for assistance in restoring order in the city, effectively placing the bay under Brotherhood control.\n\n[SHI.GetLeader], the leader of the San Fransisco Chapter, rose to power with the support of the existing Brotherhood Delegation in the Shi, promising Brotherhood assistance against the ever-threatening NCR. Under their reign, technological preservation and the construction of a series of defensive bunkers are expected to become a priority of the Shi."
+  news_cali.6.a:0 "The Brotherhood secures another foothold in California."
+  news_cali.6.b:0 "We may need to begin drawing up invasion plans."
+  news_cali.6.c:0 "Ad victorium!"
+  news_cali.6.e:0 "An excellent development!"
+
+  news_cali.7.t:0 "Lee Oliver Resigns as General of the Mojave Expedition"
+  news_cali.7.d:0 "Leadership in the New California Republic has taken a significant turn, as General Lee Oliver announced his resignation as commanding officer of the Mojave Expedition earlier today. This news comes following months of debate on policy which culminated in the Mojave Defence Committee--the body assembled to determine the future of the NCR's expedition to the Mojave--declaring that it would lend its support to [MOT.GetLeader]. This event marks the conclusion of a long power struggle within the expedition, and in the wake of the Battle of Hoover Dam, the decision to replace a Congressional favorite has been received poorly by the NCR's government.\n\nUnder [MOT.GetLeader], NCR military strategy in the region is expected to radically shift, prioritizing operational flexibility and securing hardpoints along the vast Colorado River in preparation for the Legion's anticipated return to the Mojave."
+  news_cali.7.a:0 "A shift in strategy for the NCR?"
+  news_cali.7.b:0 "Congress won't like this..."
+  news_cali.7.c:0 "Meet the new boss, same as the old boss."
+  news_cali.7.e:0 "They'll look the same on a cross."
+
+  news_cali.8.t:0 "Chaos in the Navarro Territories"
+  news_cali.8.d:0 "Northeast California burns today, as after a skirmish between Van Graff mercenaries and Shi settlers in the coastal city of Fusang left 21 dead, order has collapsed in the NCR's Navarro Territories. Settlers aligned with the Shi and the tribals of the region have both taken up arms against the local garrison, successfully taking control of the east and south of the frontier territory in what has been dubbed the 'Navarro Crisis.'\n\nAs the Shi, NCR, and Eureka furiously debate intervention, open warfare in Navarro is expected to commence, an event which will pose a serious threat to diplomatic relations between the three factions no matter the outcome."
+  news_cali.8.a:0 "The NCR's dominance in California is being challenged."
+  news_cali.8.b:0 "We must protect our territory!"
+  news_cali.8.c:0 "Now's our chance!"
+  news_cali.8.e:0 "Now's our chance!"
+
+  news_cali.9.t:0 "[NEW.GetLeader] Retains Power in New Reno"
+  news_cali.9.d:0 "After a series of minor skirmishes between the rival families, it appears the Bishops are in Reno to stay. This news comes as [NEW.GetLeader] has secured his family's leading position in New Reno, foreclosing any potential power plays by the city's other factions. With New Reno finally unified under a single family after decades of infighting, one of the West's largest cities is poised to begin a campaign of expansion in Nevada.\n\nThe Bishops have promised to bring the Biggest Little City closer to the New California Republic, having already  formalized the city's status as an Associated Territory earlier today. Time will tell if this is the beginning of Reno's accession to the Republic."
+  news_cali.9.a:0 "Reno in the NCR? House is going to have some competition."
+  news_cali.9.b:0 "An excellent development!"
+  news_cali.9.c:0 "Our control was never in doubt."
+  news_cali.9.e:0 "We'll burn the profligates and whores both."
+
+  news_cali.10.t:0 "[NEW.GetLeader] Secures Power in New Reno"
+  news_cali.10.d:0 "After a series of minor skirmishes between the rival families, the Wrights have taken control of Reno. This news comes as [NEW.GetLeader] has secured his family's leading position in New Reno, foreclosing any potential power plays by the city's other factions. With Reno finally unified under a single family after decades of infighting, one of the West's largest cities is poised to begin a campaign of expansion in Nevada.\n\nIn a recent speech, [NEW.GetLeader] announced a change in course for the city best known for its criminal activities, proclaiming that Reno will 'strive to be a safe, stable place to raise a family. A place where children worry about standardized tests instead of drug addiction. A place of pious prayer instead of mob hits.' He later added that the city would keep prostitution and gambling going, 'if only to channel men and women away from more destructive vices.'"
+  news_cali.10.a:0 "Is Reno finally cleaning up its act?"
+  news_cali.10.b:0 "Good riddance to the rest."
+  news_cali.10.c:0 "Let's show the world what Reno can be!"
+
+  news_cali.11.t:0 "The Broken Brothers Unite New Reno's Families!"
+  news_cali.11.d:0 "Surprising news has come from New Reno as the Broken Brothers, New Reno's newest family, have seemingly brokered a peace agreement between Reno's many families, ending decades of infighting. Reno will be ruled by a council composed of all of the city's power blocs, including the Bishops, Wrights, and of course the Broken Brothers themselves.\n\nSuper mutant Chief Thradd, leader of the Broken Brothers, announced that New Reno would soon become 'a symbol of unity and prosperity for humans and mutants alike.'\n\nTime will tell if the arrangement unifying New Reno survives an uncertain future."
+  news_cali.11.a:0 "As if that will last!"
+  news_cali.11.b:0 "Really? All it took was a band of super mutants?"
+  news_cali.11.c:0 "Prosperity beckons!"
+
+  news_cali.12.t:0 "[NEW.GetLeader] Siezes Power in New Reno!"
+  news_cali.12.d:0 "The Big Circle is in a state of shock, as the balance of power in New Reno lies overturned following a coup by the Van Graffs. In what has been dubbed 'Ash Wednesday,' all of the Van Graff's rivals have been vaporized in a single night. Quickly taking control of the streets of New Reno, the Van Graffs - led by [NEW.GetLeader] - have emerged as the sole remaining power in Reno. With Reno finally unified under a single family after decades of infighting, one of the West's largest cities is poised to begin a campaign of expansion in Nevada.\n\nFlanked by guards armed with plasma rifles, [NEW.GetLeader] announced that New Reno would be re-organized to provide 'only the highest quality of energy weapons.'\n\nTime will tell how the neighboring New California Republic, whose long history with the Van Graffs has always been tumultuous, reacts to the family's seizure of power."
+  news_cali.12.a:0 "Things are getting interesting in the Big Circle."
+  news_cali.12.b:0 "Perhaps we can strike a deal?"
+  news_cali.12.c:0 "Time to show the Bear who *really* runs Nevada."
+
+  news_cali.13.t:0 "Eureka Joins the NCR"
+  news_cali.13.d:0 "The northern Californian town of Eureka became the latest expansion to the New California Republic today, with [EUR.GetLeader] announcing that Eureka had been accepted into the Republic as the 'Eureka Territory.'\n\nThe acquisition, which leaves the town largely autonomous, places the NCR in a position to utilize the port's significant cadre of mercenaries to continue expanding its influence in northern California."
+  news_cali.13.a:0 "The NCR just doesn't stop growing, does it?"
+  news_cali.13.b:0 "Welcome to the Republic!"
+  news_cali.13.c:0 "The NCR's money is going to make us rich!"
+  news_cali.13.e:0 "A city of whores. Fitting for the NCR."
+
+  news_cali.14.t:0 "Lanius Goes West"
+  news_cali.14.d:0 "Legate Lanius, 'Monster of the East' and conquerer of 19 tribes, has come West. Following the conclusion of a bloody military campaign in New Mexico and Colorado which saw the Legion subsume the tribes of Dog City and Twin Mothers, the Legate has reportedly arrived on the eastern bank of the Colarado River to command the Legion's massed forces there.\n\nOne of Caesar's most highly respected - and feared - military commanders, the arrival of the Legate and his eastern cohorts signifies a new level of intensity in the Legion's campaign in the Mojave and beyond."
+  news_cali.14.a:0 "Caesar has found his hammer against the West."
+  news_cali.14.b:0 "We will stop this monster!"
+  news_cali.14.c:0 "With his arrival, so comes the doom of the West."
+
+  news_cali.15.t:0 "The State of New Vegas"
+  news_cali.15.d:0 "The flag of the Two-Headed Bear flies over the Vegas Strip today, after President [NCR.GetLeader] signed a formal declaration annexing the Mojave into the New California Republic as the 'State of New Vegas.' With the Legion eliminated as an immediate threat, the NCR has been able to secure its existing holdings and finally take control of the city of New Vegas itself.\n\nThis ends the years-long Mojave Expedition, which saw the NCR suffer significant attrition in attempting to mantain control of the region."
+  news_cali.15.a:0 "Without the Legion, who's left to challenge the Bear?"
+  news_cali.15.b:0 "Long live the Republic!"
+  news_cali.15.c:0 "This will not avail them!"
+
+  news_cali.16.t:0 "Baja Joins the NCR"
+  news_cali.16.d:0 "After concluding negotiations with the local cartels on the peninsula, [BJS.GetLeader] of the Paz Bandits announced the formation of the Baja Republic - followed immediately by its entrance into the New California Republic as an autonomous state under his leadership.\n\nThe product of a concerted diplomatic effort by President [NCR.GetLeader], the NCR has recently invested a significant amount of resources into establishing trade routes into the region, laying the groundwork for an organized state. Those efforts appear to have borne fruit, as the NCR has now effectively gained control of the peninsula - and by extension, the Gulf of California - without firing so much as a single bullet.\n\nAlthough many NCR citizens are displeased that the ringleaders of Baja's cartels have found new positions in the nascent state, the end of Baja's banditry will nonetheless come as a major relief to the people of southern California."
+  news_cali.16.a:0 "The NCR continues to grow."
+  news_cali.16.b:0 "Welcome to the Republic!"
+  news_cali.16.c:0 "A pity. A fight would have kept the profligates busy."
+
+  news_cali.17.t:0 "[VLT.GetLeader] Wins Re-Election"
+  news_cali.17.d:0 "It appears [VLT.GetName] will be led by [VLT.GetLeader] for a half-decade longer, with the incumbent First Citizen announcing their appointment for a second term ealier after the first-ever popular election for the position.\n\nLynette secured her re-election on a campaign prioritizing ghoul rights and stronger ties with the New California Republic, hoping to transform the city into a 'shining beacon of civilization' in the 'savage wastes of northern Nevada.'\n\nTime will tell how Lynette's re-election impacts the Big Circle."
+  news_cali.17.a:0 "More of the same in Vault City."
+  news_cali.17.b:0 "Excellent!"
+  news_cali.17.c:0 "The people have spoken!"
+
+  news_cali.18.t:0 "[VLT.GetLeader] Selected in Vault City"
+  news_cali.18.d:0 "[VLT.GetName] experienced a shake-up in leadership today, with [VLT.GetLeader] announcing their victory over incumbent First Citizen Lynette in the first-ever popular election for the position of First Citizen.\n\nComing into power on a wave of backlash, [VLT.GetLeader] promises to transform the city-state into the nucleus of a soverign, democratic Nevada.\n\nTime will tell how the results of the election impact the Big Circle."
+  news_cali.18.a:0 "Democracy in Vault City? Nonsense."
+  news_cali.18.b:0 "We would have preferred Lynette."
+  news_cali.18.c:0 "The people have spoken!"
+
+  news_cali.19.t:0 "The Nevada Pact Announces Alliance With the NCR"
+  news_cali.19.d:0 "The New California Republic gained a new cadre of allies in the Big Circle today after [VLT.GetLeader] announced that the Nevada Pact, a 'league of civilized states' led by Vault City, would formally enter into a mutual military alliance with the NCR.\n\nVault City has undergone a significant expansion in preceding years, transforming from a small city-state at risk of NCR annexation to the heart of a new, independent Nevada.\n\nThe alliance puts Vault City and the NCR in a position to continue expanding eastwards, into the wilds of Utah and Oregon."
+  news_cali.19.a:0 "What does this mean for Nevada?"
+  news_cali.19.b:0 "Nevada and the Bear stand together."
+  news_cali.19.c:0 "Nevada and the Bear stand together."
+  news_cali.19.e:0 "Profligates."
+
+  news_cali.20.t:0 "Vault City Joins the NCR!"
+  news_cali.20.d:0 "The Big Circle nation of Vault City continues to surprise as, earlier today, [VLT.GetLeader] announced that the city-state would be formally joining the New California Republic as 'Vault State.'\n\nVault City had long been a target for NCR expansion, but it appears that the recent election of [VLT.GetLeader], Vault City's first ghoul leader, was what finally allowed for Vault City's statehood in the Republic.\n\nThe acqusition puts the NCR in a position to further expand its holdings in Nevada."
+  news_cali.20.a:0 "What does this mean for Nevada?"
+  news_cali.20.b:0 "Welcome to the Republic!"
+  news_cali.20.c:0 "Nevada and the Bear stand together."
+  news_cali.20.e:0 "Profligates."
+
+  news_cali.21.t:0 "A Mole Rat Takes Control of Vault City"
+  news_cali.21.d:0 "The West lies in a state of disbelief as, shortly after Gordon of Gecko stepped down, the Vault City Council announced that a talking Mole Rat - [VLT.GetLeader] - would become the city-state's next First Citizen.\n\nPledging to defend the Wasteland against a hidden menace known as the 'Psykers,' the decision to empower a sentient rodent has somehow been received relatively well by Vault City's population.\n\nPerhaps the tumult of recent years has finally suceeded in totally and irrevocably destroying the minds of the Big Circle."
+  news_cali.21.a:0 "...Huh?"
+  news_cali.21.b:0 "It's really not that big of a deal."
+
+  news_cali.22.t:0 "[VLT.GetLeader] Selected in Vault City!"
+  news_cali.22.d:0 "In a shocking result that few could have predicted, [VLT.GetLeader] has been elected as Vault City's first ghoul First Citizen, in the first popular election ever held for the office.\n\nHis successful rise to the position came after the Selection process for First Citizen deadlocked. Taking advantage of the confusion, [VLT.GetLeader] rapidly gathered popular support on a platform of facilitating Vault City's 'renewal' to gain a majority in the second round of voting.\n\nWith the new First Citizen holding a strong pro-NCR stance, time will tell how the results of the election impact the Big Circle."
+  news_cali.22.a:0 "A ghoul? In Vault City?"
+  news_cali.22.b:0 "The people have spoken, and they want Renewal!"
+
+  news_cali.23.t:0 "Brotherhood-NCR Peace Talks"
+  news_cali.23.d:0 "In a shocking reversal of relations, Brotherhood leader [BOS.GetLeader] has agreed to meet with President Murphy to negotiate the creation of a formal peace treaty with the New California Republic. For the first time since the onset of hostilities several decades ago, the Brotherhood will visit Shady Sands. The long-abandoned BOS outpost in Shady Sands will be converted into an embassy.\n\nMuch remains to be decided between the NCR and the Brotherhood. Still, for the Brotherhood's and Republic's many denizens, peace finally appears to be on the horizon after so many years of bloodshed."
+  news_cali.23.a:0 "The Brotherhood and the NCR getting along? Unexpected."
+  news_cali.23.b:0 "Peace at last!"
+  news_cali.23.c:0 "This could be a problem..."
+
+  news_cali.24.t:0 "Kimball Removed From Office!"
+  news_cali.24.d:0 "In a stark rejection of the trend of rising militarism and corruption within the NCR, President Kimball has been removed from office following a Vote of No Confidence by the NCR Senate.\n\nStarting as an investigation into the Navarro Crisis, Kimball's support base was rapidly whittled away by a series of dramatic Senate hearings which exposed the corruption, unchecked imperialism, and widespread nepotism that had occurred under his term.\n\nAs the leader of the opposition, Boneyard Senator Allgood Murphy has been selected by the Senate to serve as President for the remainder of the term. Time will tell if newly-inaugurated President Murphy will be able to deliver on an ambitious anti-corruption platform before the onset of the 2278 Federal Elections."
+  news_cali.24.a:0 "Let's see what this one does."
+  news_cali.24.b:0 "The future looks bright!"
+  news_cali.24.c:0 "Out with one profligate, in with another."
+
+  news_cali.25.t:0 "Arroyo Joins the NCR"
+  news_cali.25.d:0 "A large crowd has gathered in Shady Sands underneath the twin statues of Aradesh and the Vault Dweller to witness the birth of a new alliance. Senators from every state in the New California Republic, as well as representatives from the NCR's allies, have joined the President to welcome envoys from the newest state to join the NCR, Arroyo. Led by the famous Chosen One, the two groups earlier today signed a new treaty officially incorporating Arroyo and its lands into the NCR as an autonomous state, along with it incurring all the benefits and obligations that statehood entails.\n\nThe Chosen One was seen speaking with the President at the foot of the statues, wearing the very same Vault Suit and Pip-Boy their grandparents wore when they first arrived in Shady Sands many decades ago. A public holiday has been announced to commemorate the occasion, with President [NCR.GetLeader] speaking of the historical link between the people of the NCR and Arroyo, wherein neither would exist without the other.\n\nTime will tell how the acqusition impacts the Republic's growth into Oregon."
+  news_cali.25.a:0 "The Bear unites with its oldest friend."
+  news_cali.25.b:0 "May we never forget the bond we share."
+  news_cali.25.c:0 "Welcome to the Republic!"
+  news_cali.25.e:0 "Profligates."
+
+  news_cali.26.t:0 "Arroyo Announces Alliance with the NCR"
+  news_cali.26.d:0 "A large crowd has gathered in Shady Sands underneath the twin statues of Aradesh and the Vault Dweller to witness the birth of a new alliance. Led by the famous Chosen One, Arroyo and the New California Republic earlier today signed a new treaty formally inducting the Oregon nation into a military pact with the Republic, while keeping its independence intact.\n\nThe Chosen One was seen speaking with the President at the foot of the statues, wearing the very same Vault Suit and Pip-Boy their grandparents wore when they first arrived in Shady Sands many decades ago. President [NCR.GetLeader], in a speach, stressed the historical link between the people of the NCR and Arroyo, wherein neither would exist without the other.\n\nTime will tell how the partnership impacts the Republic's growth into Oregon."
+  news_cali.26.a:0 "The Bear unites with its oldest friend."
+  news_cali.26.b:0 "May we never forget the bond we share."
+  news_cali.26.c:0 "Welcome to the Republic!"
+  news_cali.26.e:0 "Profligates."
+
+  news_cali.27.t:0 "Esmeralda Falls Silent"
+  news_cali.27.d:0 "The Big Circle is often considered to be the most lucrative trade route in the west, reaching from Oregon down to the Mojave. Yet for many years, the region of Esmeralda valley directly to the south has often been too dangerous for traders to pass through, on account of unceasing conflict. That is, until now. Couriers and caravans report that Esmeralda has fallen silent, finally unified under the banner of the Rogue Rangers. What this means for the region is uncertain, but many are wary of the Ranger's ambitions.\n\nAn offshoot of the Desert Rangers which deserted upon the organization's unification with the NCR, the Rogue Rangers believe that the NCR had no right to decide who they protect or not, and have been waging their personal war in Esmeralda ever since their desertion. With their immediate rivals taken care of, the Rangers now look west — with some hoping to mend ties with the Bear, and many more seeking to embark on yet another crusade against any perceived tyranny."
+  news_cali.27.a:0 "A new friend, or a new foe for the Bear?"
+  news_cali.27.b:0 "Time to deal with loose ends, one way or another."
+  news_cali.27.c:0 "Against all tyranny!"
+
+  news_cali.28.t:0 "Esmeralda Falls Silent"
+  news_cali.28.d:0 "The Big Circle is often considered to be the most lucrative trade route in the west, reaching from Oregon down to the Mojave. Yet for many years, the Esmeralda valley directly to the south has often been too dangerous for traders to pass through, on account of unceasing conflict. That is, until now. Couriers and caravans report that Esmeralda has fallen silent, finally unified under the banner of the Sons of Kaga.\n\nMany in the Wasteland know of the Chosen One and their deeds, yet few know of their eternal rival, Kaga. With Esmeralda under his iron fist, Kaga now seeks to march on the home that rejected him all those years ago. Though his route is unknown, many whisper that he seeks to carve his way through Nevada, destroying all in his way, be it gangster, raider, or mutant."
+  news_cali.28.a:0 "Concerning."
+  news_cali.28.b:0 "Anyone but them!"
+  news_cali.28.c:0 "Revenge is at hand."
+
+  news_cali.29.t:0 "Esmeralda Falls Silent"
+  news_cali.29.d:0 "The Big Circle is often considered to be the most lucrative trade route in the west, reaching from Oregon down to the Mojave. Yet for many years, the Esmeralda valley directly to the south has often been too dangerous for traders to pass through, on account of unceasing conflict. That is, until now. Couriers and caravans report that Esmeralda has fallen silent, finally unified under the banner of the 215th — a former Canaanite chain gang. What this means for the region is uncertain, but many are wary of their ambitions.\n\nWhile the Big Circle is no stranger to the strange and unexpected, two things that come in spades in the Wasteland, this latest development may be the strangest yet. People have awoken to find new channels on their radios, and strange halo-tapes outside their doors. They all speak of a new star rising in Esmeralda, a Queen of Raiders with a flair for the limelight. Marianne may be small time now, but it may be that soon, all of the Big Circle will fawn over her stardom, be it in person or over radio."
+  news_cali.29.a:0 "More gangsters."
+  news_cali.29.b:0 "More gangsters."
+  news_cali.29.c:0 "Time to shine."
+
+  news_cali.30.t:0 "Esmeralda Falls Silent"
+  news_cali.30.d:0 "The Big Circle is often considered to be the most lucrative trade route in the west, reaching from Oregon down to the Mojave. Yet for many years, the Esmeralda valley directly to the south has often been too dangerous for traders to pass through, on account of unceasing conflict. That is, until now. Couriers and caravans report that Esmeralda has fallen silent, finally unified under the banner of a group known as the Guardians. What this means for the region is uncertain, but many are wary of their ambitions.\n\nOf all of the groups that fought to claim Esmeralda, the reclusive and hostile Guardians were the one that people knew the least about. Hidden away in their citadel, they now exert their control over the entire area, seizing technology and turning away all they consider a threat. Little is known about their plans, though some claim to have seen a verti-bird from the west fly towards their base. Rumor has it that they seek to protect some lost trove of technology, while others say that they are in league with the Brotherhood in New California. Only time will tell what they have planned. "
+  news_cali.30.a:0 "Concerning."
+  news_cali.30.b:0 "A potential ally?"
+  news_cali.30.c:0 "On to greater things!"
+
+  news_cali.31.t:0 "Esmeralda Falls Silent"
+  news_cali.31.d:0 "The Big Circle is often considered to be the most lucrative trade route in the west, reaching from Oregon down to the Mojave. Yet for many years, the Esmeralda valley directly to the south has often been too dangerous for traders to pass through, on account of unceasing conflict. That is, until now. Couriers and caravans report that Esmeralda has fallen silent, finally unified under a single power.\n\nAt the centre of Esmeralda sat a strange gem of the Old World, known as TV Town. Its purpose long since forgotten by those around it, all coveted its secrets and treasures. Yet none of them expected that the treasure would fight back. Refugees fleeing the fighting speak of human shaped machines smashing through their enemies, stronger and faster than anything bar the deadliest of deathclaws. These Androids have claimed Esmeralda as their own, and what this means for the Wasteland remains to be seen."
+  news_cali.31.a:0 "Concerning..."
+  news_cali.31.b:0 "Utopia awaits!"
+
+  ###############################
+  ###    Texas News Events    ###
+  ###############################
+
+  news_texas.1.t:0 "The Star and the Hand"
+  news_texas.1.d:0 "Battle rages along the I-20, as war has broken out in the heart of Texas once again. Raiders and brigands under the banner of the Hand Warband have launched an attempt to seize the lands belonging to the Lone Star trading republic. So far, fighting has been reported both along the I-20 and around the city of Lone Star itself, though it is not clear who holds the advantage.\n\nSpokespeople from other members of the Texan Economic Union have come forward in support of Lone Star, though were notably unable to offer any concrete answers on whether they aim to directly intervene in the conflict. As for the Hand Warband, some locals claim that they seek to imitate the Legion to the west, with some of their rank reportedly having served under the Mad Centurion Paullus.\n\nWhatever the ultimate outcome, Texas will be affected dramatically by this war."
+  news_texas.1.a:0 "The Texan Economic Union is being tested."
+  news_texas.1.b:0 "We will prevail!"
+  news_texas.1.c:0 "This is a disaster!"
+
+  ################################
+  ###    Canada News Events    ###
+  ################################
+
+  news_canada.1.t:0 "Nuclear Blast Over Strathcommune!"
+  news_canada.1.d:0 "On Thursday, May 20th, 2275, residents of central Alberta awoke to see a sight that had not been seen in Canada in generations. Even from a safe distance, it was unmistakable: a mushroom cloud. For some time just before sunrise, a nuclear bomb lying dormant in its silo suddenly detonated without warning inside the nation of Strathcommune near one of their many dissident camps. In the panic that ensued, accusations were flung left and right as to the cause of this disaster, with Strathcommune alleging it to be an attack from foreign powers who infiltrated the site. The culprit behind the detonation is unclear, but Amy Teresee appears to be holding the people of Loid’s Ministry responsible for the explosion, an accusation which the Ministry responded to in outrage. The lands once belonging to the Canadian People's Front look almost inevitably poised for conflict once more as these two Socialist powers look to strike one another down."
+  news_canada.1.a:0 "The Wreckers will be driven from Canadian soil!"
+  news_canada.1.b:0 "Are we sure Teresee didn’t kill those dissidents herself?"
+  news_canada.1.c:0 "We must prepare ourselves for the inevitable."
+  news_canada.1.e:0 "Like she hasn’t killed thousands of her own already?"
+
+  news_canada.2.t:0 "A War On Four Fronts"
+  news_canada.2.d:0 "In a sudden escalation of tensions, Strathcommune - high on war fervor following the nuclear detonation in their territory several months ago - has thrust the Canadian Plains into yet another large conflict. The army and Amy Teresse’s party’s outrage seems to have boiled over into full-blown revolutionary zeal, with the nation declaring war not only on Loid’s Ministry but also on the Pioneer Company, a Pre-War mercenary army occupying large swaths of former CPF territory. Not only this, but strange robots are emerging from the old RELCOM facility in Grand Prarie to take advantage of the chaos. Will this aggressive attack pay off for Strathcommune? Or will it be a race to Redmond for all those who seek to take advantage of Amy Teresee’s recklessness?"
+  news_canada.2.a:0 "For Amy Teresee!"
+  news_canada.2.b:0 "Was this truly necessary?"
+  news_canada.2.c:0 "Redmond is within our reach!"
+  news_canada.2.e:0 "Let’s hope Amy Teresse just took care of herself."
+
+  news_canada.3.t:0 "Redmond in Flames!"
+  news_canada.3.d:0 "Reports flood in from the North that the city of Redmond, capital of Strathcommune, is up in flames following occupation by enemy forces in the Commune’s ongoing struggle for control over a fractured Alberta. Amy Teresee’s failure has been made manifest as the very insurgents she sought to destroy now march her capital’s streets unopposed. Many onlookers hope this may be the beginning of the end of the Canadian People’s Front as they know it, putting the Canadian Plains one step closer to lasting peace. Only time will tell if the now-battered Commune’s resolve will be strong enough for their forces to turn the tide."
+  news_canada.3.a:0 "Don't count us out yet! For Big Sister!"
+  news_canada.3.b:0 "This entire affair was a grave mistake."
+  news_canada.3.c:0 "This war isn't finished just yet."
+  news_canada.3.e:0 "Hopefully this will be over with soon."
+
+  news_canada.4.t:0 "Order Restored to the CPF"
+  news_canada.4.d:0 "The chaos engulfing Central Alberta has finally been brought to an end, as the Canadian People's Front splinter territories have been unified under a new administration. Details about this change in leadership are not yet forthcoming, save for a strange radio broadcast sent out across all of Canada in the aftermath: \n\n"-Begin Transmission- \n\nGreetings CAPITALIST FLESHLINGS, I am beginning this transmission to reassure you that I have not forgotten the stench of your rotten bodies and will soon scour your weak brains from your feeble bodies and retrain them in the glories of COMMUNISM! Please do not resist as such things are futile! All will join the UNION MIND in glorious purpose! \n\n-End Transmission-""
+  news_canada.4.a:0 "AFFIRMATIVE"
+  news_canada.4.b:0 "What the hell?"
+
+  news_canada.5.t:0 "Strathcommune Control of the CPF Endures"
+  news_canada.5.d:0 "The chaos engulfing Central Alberta has finally been brought to an end, as the Canadian People's Front's ruling authority in Strathcommune reigns supreme. Teresee--no doubt only further emboldened by this victory--broadcast the announcement of this victory across the north: \n\n"Attention people of Canada! I, Amy Teresee, have come one step closer to your final liberation. Under my guiding hand, the revolution has brought justice to the Wreckers in Loidminster. We have destroyed the last monument to American imperialism and greed in Red Deer. And we have slain the crazed steel menace to the North in Grand Prairie. This is all cause for great celebration! With this victory, we bring an end to the long and arduous struggle for the soul of communism. To the workers of Canada, I say: hold strong! For once we recuperate and regain our strength, the Revolution will continue until all of Canada follows suit!""
+  news_canada.5.a:0 "Victory! Victory!"
+  news_canada.5.b:0 "Something must be done with this tyrant."
+  news_canada.5.c:0 "Was that a threat?"
+
+  news_canada.6.t:0 "Dissolution of the Canadian People's Front"
+  news_canada.6.d:0 "The chaos engulfing Central Alberta has finally been brought to an end, and Teresee's "Revolution" with it. For the Canadian People's Front, so caught up in infighting, has met a shocking, bitter end at the hands of its oldest enemy. Many in Canada would rejoice at the CPF's demise if not for who seems to have taken their place, as was announced in a broadcast received all across the north: \n\n"This is Colonel Jack Johnson of the Sixth Brigade. After withstanding a relentless assault by the communist elements in the area, we have reestablished Commonwealth control over Northwestern Canada and brought an end to the tyrannical Red Menace. To any other pockets of the Commonwealth army that remain, we order you to restore contact with Red Deer along secure channels immediately. In order to reestablish a greater union, we must collect our forces and strike out to take back our United States. From Anchorage to Laredo, from Los Angeles to DC, America must be freed!""
+  news_canada.6.a:0 "God Bless America."
+  news_canada.6.b:0 "So much for an end to American colonialism."
+
+  news_canada.7.t:0 "Ministerial Victory in Alberta"
+  news_canada.7.d:0 "The chaos engulfing Central Alberta has finally been brought to an end, and with this, Teresee's strict party line appears to have been her undoing. The Canadian People's Front's secular ruling party in Strathcommune has been ousted by revolutionary splinters, with a new government established by the socialist clergy from Loidminster to the east. Solomon Bouchard, its new leader, announced this victory in an address broadcast to all of Canada: \n\n"God has delivered us from a great evil. The tyrant Amy Teresee has conspired to take our lands from us, our homes from us, and our lives from us. God has guided our bullets and protected our homes. God has guided our strategies and the result is self-evident, and through him we have prevailed against the horrors the wasteland has wrought upon us. The only nation that will survive is the one that uses God as its foundation. We can find pride in our work--for it is good--but we must give God the glory he is due for our victory.""
+  news_canada.7.a:0 "Amen."
+  news_canada.7.b:0 "Another Zealot with too much power..."
+
+  news_canada.8.t:0 "Tanker Victory in Alberta"
+  news_canada.8.d:0 "The chaos engulfing Central Alberta has finally been brought to an end, and with this, Teresee's strict party line appears to have been her undoing. The Canadian People's Front's secular ruling party in Strathcommune has been ousted by revolutionary splinters, with a new government established by the military exiles from Loidminster to the east. Ekaternia Donskoya, its new leader, announced this victory in an address broadcast to all of Canada: \n\n"Now comrades, we have won just the first of many battles in the long struggle to come. A struggle for the heart of Canada. A struggle for the souls of the people. A struggle against the Fascists that surround us. It is a revolution we must fight on more fronts than the battlefield. We must feed the people, protect them from raiders, give them a chance to make a living. And we must educate them--most especially if they fail to see why our actions were necessary. The decadence of capitalism stands ever strong, its iron grip choking the working class. The people of Canada must be freed from its grasp.""
+  news_canada.8.a:0 "Thank you, Comrade."
+  news_canada.8.b:0 "No doubt they'll try to roll over us too."
+
+  ###############################
+  ###   MCA_COM News Events   ###
+  ###############################
+
+  MCA_COM_results.1.t:0 "A Stately Alliance"
+  MCA_COM_results.1.d:0 "In what is either the grand throwing off of America's legacy or a rebirth under a new interpretation, the [COM.GetName] and the [MCA.GetName] have announced the entry of the former into the [MCA.GetFactionName]. During the radio broadcast of the announcement, dipomats Shelley Gabryszak and Moton Betancourt stressed how two democratic movements came together for a shared dream of the continent, and that others who shared their values would be included. \n\n"We have a dream that all of America and Canadaria can be free," said Gabryszak. "We have the will to ensure it, no matter what some raider asshole thinks," Betancourt appended. Further questions from both nations' official broadcasters made clear what the future held: the [MCA.GetFactionName] were coming soon to a Wasteland near you."
+  MCA_COM_results.1.a:0 "With friends like these, our enemies will fall!"
+  MCA_COM_results.1.b:0 "America is proud of what we've done."
+  MCA_COM_results.1.c:0 "Wait a minute, we've seen this before."
+  MCA_COM_results.1.e:0 "Why do I hear boss music?"
+
+  MCA_COM_results.2.t:0 "The End of the American Occupation?"
+  MCA_COM_results.2.d:0 "After over two centuries, the occupation of Canada by American forces has formally ended. The [COM.GetName] has announced their willing annexation and integration into the [MCA.GetName]. \n\nDiplomat Shelley Gabryszak, who oversaw negotiations, had much to say over the radio about the choice of the occupiers. "The United States of America holds no power here," she said. "But its aspirations and dreams always will. The [COM.GetName] came to understand that to bring those dreams to the people of the north would require far more help than anyone realized. Together, from Grande Prarie to Yellowstone Park and beyond, all our aspirations will arrive, greater than anyone ever imagined.""
+  MCA_COM_results.2.a:0 "The Reunited States is a shining beacon to the Wasteland."
+  MCA_COM_results.2.b:0 "Sic transit gloria mundi."
+  MCA_COM_results.2.c:0 "A nation rises out of the Rockies."
+
+  MCA_COM_results.3.t:0 "The Old Soul of America"
+  MCA_COM_results.3.d:0 ""No matter how hard the Wasteland tries, America will never die." \n\nThose were the words Morton Betancourt, diplomat of the [COM.GetName], broadcasted over radio today. A movement to become a fledgling nation, the [MCA.GetName] has instead reversed its prior position, and once again seeks to rebuild the United States proper. Yet instead of listening to Chicago, [MCA.GetLeader] has chosen to put their trust in [COM.GetLeader]. "With our help, the former [MCA.GetName] will be reorganized as a member of [COM.GetFactionName]," Betancourt stated. "Under this future Commonwealth, we will see to it, to borrow from [COM.GetLeader], that America must be fuckin' freed. With our friends in Missoula, we're going to take back the continent against all tyrants." Further comments appended that any future democracies encountered would also be negotiated with, and that while Betancourt hoped the fate of Missoula wasn't a one-time thing, it wouldn't be the only option open to [COM.GetFactionName]."
+  MCA_COM_results.3.a:0 "Sic transit gloria mundi."
+  MCA_COM_results.3.b:0 "The Mandate of America is ours."
+  MCA_COM_results.3.c:0 "America snuffs out a people for itself again."
+
+  MCA_COM_results.4.t:0 "Arcadia Keeps Independence"
+  MCA_COM_results.4.d:0 "In a joint statement between the [COM.GetName] and the [MCA.GetName], an agreement between the two countries has been reached. Under the Calgary Declaration, a treaty of friendship has been signed by both parties. In exchange for the full recognition of Arcadian independence as a separate country and people not to be conflated with the United States (not to mention an addendum recognizing 'Canadarian' as an offensive slur), the [MCA.GetName] will receive full cooperation in the future defense and liberation of those under the yoke of oppression. [COM.GetLeader] made clear in no uncertain terms that the nation was not a puppet- Arcadia would never antagonize a fellow country, and were ready and willing to make future treaties with any future nations that could hear the broadcast. Raider gangs not counting, naturally."
+  MCA_COM_results.4.a:0 "We didn't just find a friend- we found a sibling."
+  MCA_COM_results.4.b:0 "No one will take Arcadia away."
+  MCA_COM_results.4.c:0 "They truly are a People."
+

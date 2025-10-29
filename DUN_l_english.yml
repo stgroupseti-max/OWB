@@ -1,0 +1,522 @@
+﻿l_english:
+
+  ##Characters
+
+  DUN_JAKOB_NAME:0 "Jakob Dundurn"
+  DUN_JAKOB_DUNDURN_DESC:0 "Jakob Dundurn, regent of the Dundurn fortune, former Grand Electorate, and magnate of arms. Jakob has a shadow that it seems he cannot escape from, the loss of Stoon to a simpleton wastelander. The Dundurns held onto the title of Governer for 95 of the 145 years of elections and now Jakob and lost it all. What's worse is rumblings from the other Electorals of reform, revolt, and escape, should any of these pieces fall to Jakob's disadvantage the long running power of the Dundurns might finally come crashing down."
+  DUN_GLORIA_NAME:0 "Gloria Chase"
+  DUN_GLORIA_CHASE_DESC:0 ""
+  DUN_CATCHER_NAME:0 "Catcher"
+  DUN_HAWKMOON_NAME:0 "Pariah Hawkmoon"
+  DUN_LONE_NAME:0 "Corina Lone"
+  DUN_GIANT_NAME:0 "The Steel Dame"
+  DUN_LUGNUT_NAME:0 "Lugnut"
+  DUN_NUTSBOLTS_NAME:0 "Nuts 'n Bolts"
+  DUN_VERNON_NAME:0 "Vernon Duquesne"
+  DUN_BILLINGS_NAME:0 "Travis Billings"
+
+  ##Events
+
+  nf_dun.1.t:0 "Chase v. Dundurn: Humanity"
+  nf_dun.1.d:0 "DUNDURN: And what of your metal men, Mrs. Chase? Do you think the people of Dundurn want them to be their successors? I can't name a man who would gladly let a walking skeleton take his place, let alone leave his own flesh and blood to become one! \n\nCHASE: It is not 'succession' that my work provides, Mr. Dundurn. It is transcendence. The human form is subsceptible, unevolved for the horrors of the modern world. For every great mind, ten more meet their end to what lay beyond this stage. The background radiation. The Blizzards. The men of Bank End. These are all common threads, Mr. Dundurn— foes that we can surpass merely through body. \n\nDUNDURN: And why, pray tell, must we forsake our flesh to do so? Can we not force this 'evolution' you speak of? Is it so farfetched to have faith in the body? \n\nCHASE: You would find yourself hard-pressed trying to play God, Mr. Dundurn. Unlike what you propose, my work does not preclude unity: after all, it is your goons that pester Dr. Toboggan's asylums and lurk around the Pleasantdale woods, do they not?"
+  nf_dun.1.a:0 "The Debate Continues"
+
+  nf_dun.100.t:0 "Chase v. Dundurn: Humanity Cont'd"
+  nf_dun.100.d:0 "DUNDURN: In Dundurn, we believe every man to be equal. Super Mutants and Fairies are abominations, undeserving of even a passing glance. Mrs. Chase, I shouldn't have to say that those men do not represent my endeavors, but I will let the record show this: they have certainly served the people of Dundurn more than you. It takes action, not words, to stir the hearts of a people. \n\nCHASE: Your advocacy is as damning as it is amusing. I have found that for any form of civilized philanthropy to have meaning it must be without callousness: unmasked by greed. Your work details a plan to subvert the human error, to create an immortal being beyond fault. Such a thing is not motivated by the common good: it is mere arrogance, the idea that you and those who follow you are deserving of standing above the downtrodden. When I speak of transcendence, I speak with an equal latitude: the future of humanity is not with broken cells and maddened science, but by cautious expansion of the human design. \n\nDUNDURN: Your words circle with irony. A man who chooses to follow a man who has achieved immortality is a man deserving of a future. It takes a visionary to identify a visionary, Mrs. Chase, and unlike you, I believe in the ability of man to discern truth from lie. Why should a man forsake his flesh for some silly prattle when he could merely boost his own? To keep ones soul is to keep ones conscience. This is a basic law of nature."
+  nf_dun.100.a:0 "Jakob's points resonated well with the aristocrats."
+  nf_dun.100.b:0 "Mrs. Chase's ascension ideals prevailed."
+
+  nf_dun.4.t:0 "The Ghost of Dundurn"
+  nf_dun.4.d:0 "Everyone has a Catcher story. \n\nHis namesake serves as a cautionary tale for grown men and women alike; 'watch what you say, or whose shoes you step on, and the Catcher will look the other way.'  Always masked.  Always on the move.  Armed lighter than the average mercenary but thrice as deadly, Catcher rings a heavy price for a guaranteed hit.  But the caps are never wasted on a Catcher hit.  He cleans up good, rendering camps, rooms, and halls dead quiet. \n\nLike the old sign says: 'Dirty Deeds Dundurn Cheap.'"
+  nf_dun.4.a:0 "I sure don't wanna be on his bad side!"
+
+  nf_dun_catcher_tooltip:0 "§RCatcher can be utilized in your decisions to raise compliance and lower resistance in occupied states.§!"
+
+  nf_dun.5.t:0 "Remember The Union"
+  nf_dun.5.d:0 "The year was 2243. Though rails had been built throughout the Electorate— some mere restorations of a shadow of some pre-war network— they were nowhere near how they were today. After a day of dining with the Chase family in Pleasantdale, he waited at the station for four hours before his train came. \n\nThey were the most grueling four hours of his life. Overnight, he made calls to every factory magnate within the Electorate, promising to double their fortunes with his new propositon, and what did they do? They laughed in his face. \n\nSo he said to himself, "I will do it myself." He issued a new notice to every working man and woman in Dundurn: "double your salary, double your pay— sign up with the Union today!" \n\nWithin weeks, he had mobilized the people into a new railway union. Even today, the Electoral Rail Union operates— laying tracks everywhere they can, so that you can get where you need to be when you need to be there!"
+  nf_dun.5.a:0 "Bless our workers!"
+
+  nf_dun.6.t:0 "Like Thieves in the Night"
+  nf_dun.6.d:0 "Strange thugs broke into an asylum transport last night, stealing a considerable amount of patients from us— including Lugnut's grandmother. \n\nThough details are scarce, top mutants have been assigned to look into the matters. Further details will be brought directly to the good doctor's attention first and foremost."
+  nf_dun.6.a:0 "Who could do such a thing?"
+
+  nf_dun.7.t:0 "Rosewood Requests Entry"
+  nf_dun.7.d:0 "The Rosewood Foundation has reached out with the hopes to join The Second Coalition. Shall we allow them entry, or turn them away?"
+  nf_dun.7.a:0 "We will welcome them open-armed."
+  nf_dun.7.b:0 "They'll need to look elsewhere!"
+
+
+  nf_dun.8.t:0 "The Coalition Rejects Rosewood!"
+  nf_dun.8.d:0 "Despite the good intentions of Gloria Chase and the Rosewood Foundation, the Second Coalition of Manitoba has turned their backs to their northern neighbors. No doubt a controversial decision will only serve to aid the growing tension between the powers..."
+  nf_dun.8.a:0 "I suppose this changes things."
+
+  nf_dun.9.t:0 "A City Hidden in the Smog"
+
+  nf_dun.10.t:0 "Animal Trials"
+  nf_dun.10.d:0 "Many animals were tested upon in the Dundurn Serum tests: at first, Radrats, then Wolves, even Umbravores and Frostlurks— with only the last two surviving. \n\nThe serums effects were repeatable. The veins and skin of a creature would blacken, as if a sort of accelerated rot kicked in before the observor's very eyes: something between ghoulification and death, an almost bizarre side-avenue, a circumvention of what is known. No doubt the DNA replicator had something to do with it... Perhaps, then, it was an imperfection in the machine? Or perhaps we are misusing it..?"
+  nf_dun.10.a:0 "We have no time to find out."
+
+  nf_dun.11.t:0 "The First Human is Tested"
+  nf_dun.11.d:0 "Travis Billings was the first to step up when Jakob Dundurn called for a volunteer. He was a factory worker, galvanized by the Littlehope Doctrine and now a devout follower of Dundurn's promises of immortality. To the science team, he was more than ready, and even more qualified. \n\nAfter weeks of preparation, the trial began. They placed him into the DNA Replicator, and adjusted its values as best they could. What followed was thirty seconds of horror: the sound of bones cracking accompanied and at times even overwrote Billings own screams, the light of chamber blinding any who dared to take a look. Even as the realization of what they had done had grown within their souls, they did not waver. They had come too far. \n\nWhen Travis emerged, his eyes glowed with the power of the replicator, and his skin was half-rotten from the energy— he was a dead man, but he walked all the same. When they asked how he was, he spoke only in grunts, but understood the scientists demands perfectly. There was a disturbing glee to him, a sort of childish giddiness that unnerved even Dundurn..."
+  nf_dun.11.a:0 "This is no perfect man."
+  nf_dun_first_zombie_tt:0 "§YTravis Billings§! will be available as a §Gunit leader!§!"
+
+  nf_dun.12.t:0 "Corina's Dream"
+  nf_dun.12.d:0 "Years ago, a bunker containing a Chinese war machine was unearthed in Pleasantdale during the construction of its immense water purification plant— the machine half-constructed and mostly intact, given its two-hundred years of waiting. The machine was studied by a graduate from Chase University, Corina Lone, who believed it could be finished with amicable effort from one of the industrial powers, but no matter who she approached, she was scorned and laughed at. "Where are you going to get the power for that thing?" one asked, "Do you trust that thing to protect you and your family?" another asked. When Littlehope's doctrines came through, her idea seemed to be shelved... \n\nUntil Gloria Chase became aware of her studies. Though her husband was less than enthused by the childish idea of "building a giant robot to destroy our enemies," she knew the value in her College and wanted to see Corina succeed. Now, with the Rosewood Foundation in charge, it could be done... But resources would need to be secured. Such a structure would not come without heavy prices."
+  nf_dun.12.a:0 "The way forward is paved with steel, not blood."
+
+  nf_dun.13.t:0 "Trouble in Dundurn!"
+  nf_dun.13.d:0 "Rumors circulate that General Pariah Hawkmoon of Dundurn has begun to amass a new generation of soldiers, built from the old and in with many of the Electorate's poor. "No doubt," says a Stoon socialite, "these are the consequences of Timothy Littlehope's teachings in full swing." \n\nTime will tell what becomes off General Hawkmoon and her army— in the meantime, all the world can do is watch."
+  nf_dun.13.a:0 "Let's see what you're made of."
+
+  nf_dun.14.t:0 "A Message from Dundurn"
+  nf_dun.14.d:0 "A messenger from Dundurn came into the Kingdom today, carrying a large bag that clattered of steel. Though his confidence was evident in his stroll, it faded as he came before the Duke himself. There upon the ground he let a broken Knight's helmet clatter, itself meekly polished, yet intentionally dented— a message from afar. \n\nOn the helmet, carved into its side, were five words: "From Pariah Hawkmoon with love.""
+  nf_dun.14.a:0 "§RThey know not what they have wrought.§!"
+
+  nf_dun.15.t:0 "Chase v. Dundurn: Dandies"
+  nf_dun.15.d:0 "DUNDURN: Something needs to be done about Pierre Solomon and his bootlicking guppies in Stoon. He has destroyed the very sacred nature of our elections, and therefore undermined the good faith of the people! \n\nCHASE: As I recall, it was you who lost the seat Dundurn had held for over a century, Mr. Dundurn. Don't you think that is reason enough to cast doubt over your tenure? \n\nDUNDURN: <snickering> And I suppose you don't find it suspicious in the slightest that I lost out to cannibal whoremongers? Come now, Ms. Chase. It really isn't hard to see if you pay attention. \n\nCHASE: I am paying plenty, and from what I can see, you are a failure too afraid to admit it. The people of Dundurn do not want you anymore. Your dynasty is ending, and you are the first victim of your family's ineptitude. It is perfectly natural to react as you have, frightened and screaming against the turning tides. It is a shame that it does not validate your cause. \n\nDUNDURN: The Dandies are circus freaks. Do you trust them to rule over us with a fair and just hand, Ms. Chase? \n\nCHASE: The people of Dundurn have no need to fear the Dandies. Do you know why? Because they are in Stoon, Mr. Dundurn, and we are not. No man or woman in Dundurn has ever had Dandy teeth graze their neck, but you know what they have experienced? Choking smog, poor working conditions, unethical and unfair wage-changes— these are our plagues, Mr. Dundurn. Not savages in suits."
+  nf_dun.15.a:0 "The elections were rigged by Dandies!"
+  nf_dun.15.b:0 "The Dandies were not Dundurn's concern!"
+
+  nf_dun.16.t:0 "Dundurn: Bootlickers"
+  nf_dun.16.d:0 "I have always despised them. The Bootlickers. The Yes-Men. The sycophants suckling from the teats of successful men, throwing themselves into a fire pit without meaning, or worse, chipping away like pirahnas at the feet of the great. \n\nI watched as my father collapsed under the weight of his own idiocy thanks to these men. For a man to be strong, to be truly intelligent, he must be held up by those of equal strength, equal mind. Gloria Chase wanted to make the world one, but she failed to realize that man was stronger apart. You may tell a man's candor by his handshake: be it firm, his aims are serious, and his passion undeniable. Be they weak, they crave no good, and may be cast aside accordingly. \n\nA man who can stand on his own, a man who can pull himself up by his own bootstraps, a man who could carry the weight of the world on his back— that is the kind of man you should become for those you love."
+  nf_dun.16.a:0 "Death to Yes Men!"
+
+  nf_dun.17.t:0 "Chase: The Greatest Dawn to Ever Grace Humankind"
+  nf_dun.17.d:0 "When I was a girl, the trains did not run. The power flickered and water ran short every other day. My father died of tuberculosis, and I was left with a mother who was lost, a sheep with no shepherd to guide her. \n\nMy work has always been to promote the common welfare of mankind; to push us forward into a time where we can be better to one another. If not just for ourselves, but for whom we love most. From Pleasantdale to Dundurn, I have spoken to them all: rich partygoers and steel factory workers. Do you know what they all had in common? Sorrow. Regret. Depression. \n\nThe human mind is flawed. Like a broken record, we are doomed to this horrible, horrible cycle where we do nothing but repeat our mistakes time and time again, and we cry over it because we cannot understand our own failings. That, my friends, is why I created the Rosewood Foundation: so that you and I may transcend our earthly mistakes. It is in righteous steel that we shall be united: no more shall there be such petty distinctions such as ghoul or smoothskin, mutant or man, or even man or woman. The future of the world is just over the horizon, a golden sunset by which we shall prepare for the greatest dawn to ever grace humankind."
+  nf_dun.17.a:0 "Amen."
+  nf_dun.17.b:0 "Was this meant to be cute?"
+
+  nf_dun.18.t:0 "Dundurn: Are You Afraid, Dundurn?"
+  nf_dun.18.d:0 "Hark, beloved people of Dundurn— I would have a few words with you all, if you do not mind. \n\nFor decades our fair country has pushed the Electorate forward with our own progress. It was Dundurn steel that elevated the muppets in Stoon from mere fishes-out-of-water into the petty sycophants that now share our border. It was Dundurn tax money that paid for the Asylum in Wakaw and all of its stolen medicines. It was the genius of Dundurn scientists that kept the lights on in Pleasantdale. The Electorate has reeked of our might for generations, and what now? Pierre Solomon sits atop his own high tower, giggling at our disenfranchised and turning his nose up high against our interests. \n\nWe are the men and women that hold this pathetic collection of states upon our backs. It is our mind, our brawn, our might that has kept the enemies of this great nation at bay. Who was it, again, who stopped Leshy dead in her tracks? Was it Solomon, weeping over his lost caps? No! It was Pariah Hawkmoon, our most fearless soldier. Where is her statue in Stoon, I wonder? Where is her statue, Pierre? \n\n*Loud booing and cheers can be heard. In the garbled audio, a curse directed at Pierre Solomon can be heard.*\n\nWe live in spite of our neighbors. In spite of our enemies. Our hatred is but a reflection of our passion, our love for all that is good. We shall push ever onwards into the future with nary a fear in our hearts! Though our enemies may openly spit upon us, to have our revenge, first we must rejoice. To laugh in the face of darkness is to be fearless. \n\nSo tell me, then, people of Dundurn, are you afraid?"
+  nf_dun.18.a:0 "He's speaking my language!"
+  nf_dun.18.b:0 "His radical outlook disturbs me."
+
+  nf_dun.19.t:0 "A Message from Vernon Duquesne"
+  nf_dun.19.d:0 "Hey there, \n\nI wanted to thank you personally for your choice in allowing the Duquesne family to handle your matters. For years, we have prided ourselves on dealing with the rabble. Now, I'm not the kind of schmuck to get involved in politics, so I'm not keen on where you stand on all this mumbo-jumbo, but if you ask me... I'd bruise a thousand of these pricks if it meant they figured out what the hell their job really is. You know what I mean?\n\nDon't bite off more than you can chew, don't bite the hand that feeds... That kind of stuff. Dumb motherfuckers have it coming, time and time again. 'Course, their bitching makes my business, don't it? Keep in touch. I'm always around. \n\nV.D."
+  nf_dun.19.a:0 "Thanks?"
+
+  nf_dun.20.t:0 "Chase v. Dundurn: The Kingdom"
+  nf_dun.20.d:0 "DUNDURN: Since you have such great opinions, Mrs. Chase, why don't we talk about Manitoba? \n\nCHASE: If you refer to the bloody history we share with them, I've little interest in such qualms beyond how Dundurn may benefit. \n\nDUNDURN: Little interest? Do you mean to imply that the deaths of many Dundurn regulars doesn't matter to you? \n\nCHASE: It is not my business whether a man chooses to go to war, Mr. Dundurn— only that I may equip him with the finest so that he may accomplish his mission as best as possible. Last I recall, during the war, your family failed to supply many of our originals with proper supply, instead hogging the materials produced from the Dundurn war machine for personal interests. \n\nDUNDURN: Blatant slander! Eighty-five percent of all that was made in those facilities were shuffled to the front lines immediately. The rest were taken to satellite sites so that they could be kept on-hand. If we wish to discuss the matter of wastefulness and greed, Mrs. Chase, allow me to return the favor and bring up the controversies surrounding your Rosewood Foundation. A non-profit organization dedicated to what, reinventing mankind? Have you forgotten the city you are in? \n\nCHASE: No; this city is all too painful a reality to ever forget, Mr. Dundurn. And yes, Rosewood comes out of my own coffers to which I can manage, though we are not entirely non-profit. We lend our services to those who need an educated mind. \n\nDUNDURN: And who would these 'people' be, exactly? Does your Dundurn-based operation lend itself to Pleasantdale royalties? \n\nCHASE: No, actually. We help the poor, and allow them to pay us on their terms. We take offers and operate off of them accordingly. \n\nDUNDURN: So you've regressed to petty bartering? \n\nCHASE: No. We've adopted common sense."
+  nf_dun.20.a:0 "Dundurn's genius drags her again!"
+  nf_dun.20.b:0 "She helped me fix a broken pipe in my house!"
+
+  nf_dun.21.t:0 "The Dundurn Regulars"
+  nf_dun.21.d:0 "Years ago, the Dundurn regulars held the line against Manitoban influence. We may have once been a part of their kingdom, but we've never wanted it. The smog and ash here may be choking, but it is ours— and we'll fight anyone tooth and nail to keep it that way. \n\nOur soldiers wear the steel of their knights as tokens of mockery and for their own protection. This iconography strikes a fear into our enemies, the sort one would feel seeing their friends skin on someone else's body, and for that we wear it with pride. Let them know that we stand for freedom above monarchs. \n\nPariah Hawkmoon herself is perhaps the most infamous of these regulars, standing both against King and Snake with a raging confidence that most men can only hope to strive for."
+  nf_dun.21.a:0 "Our army stands strong."
+
+  nf_dun.22.t:0 "Dundurn Munitions"
+  nf_dun.22.d:0 "Were it not for the foundries in Dundurn, there would be far less gusto to the militants within the Electorate. Try as Pleasantdale may to not have a standing army, our influence rots their people and so they seek out guns for their own protection and even to merely collect. Following old pre-war designs and schematics dating back to the 20th century retro-fitted with modern lasers and plasma, our weapons are among some of the most unique in western Canada— and while they may not always be regaled with standards of quality, our ability to supply is nigh-unmatched this side of the Winnipegosis."
+  nf_dun.22.a:0 "A thousand bullets for every man!"
+
+  nf_dun.23.t:0 "The Future is Upon Us"
+  nf_dun.23.d:0 "The results are in! The winner of the people's hearts is..."
+  nf_dun.23.a:0 "Jakob Dundurn. As though it could be any other."
+  nf_dun.23.b:0 "Gloria Chase. Her genius will fund innovation unseen."
+
+  nf_dun.24.t:0 "Pariah Hawkmoon's Big Day"
+  nf_dun.24.d:0 "Pariah and her Sparkblades gathered outside the old Fairy Glen, where Leshy dared to dwell. Lighting her favorite brand of cigarette, she stared into the mouth of the old MANIFEST facility sinkhole, holding yet another stick of dynamite. "If it ain't broke..." she said, tossing it down into the pit on top of a pile. "Don't fix it." she turned, "Let's wrap this up, folks." \n\nAfter a time, they blew the fuse— burying Leshy in her own den. \n\nThough the official story was she was dead, Pariah knew better than to expect anything without proof. To her, it was simple: if she survived, she ain't gonna be a problem in our lifetimes, and that was enough for her."
+  nf_dun.24.a:0 "The hawk always gets the snake, in the end."
+
+  nf_dun.25.t:0 "Honoring Our Finest"
+  nf_dun.25.d:0 "With the fall of Leshy, a great threat to the peoples of the Katch has been eradicated. Today, we honor both the brave heroes who marched to Leshy's den, and those who fell in her wake with a memorial. \n\nLet it be reiterated, then, that Dundurn has and always will be a place to grow: where business is, and shall always be, the mightiest law."
+  nf_dun.25.a:0 "Amen."
+
+  nf_dun.26.t:0 "Rewarding the Sparkblades"
+  nf_dun.26.d:0 "Jakob considered his options; with the cannibals in Stoon and the freaks in Pleasantdale sorted out he now held the power that had been stolen from him, however he found himself without an electorate to be elected by. That wasn't exactly the end of the world, he had bigger fish to fry after all but there was an image to be considered. This had led him to ponder the state of the Sparkblades.\n\nThey'd been invaluable during the battles to secure dominance, and it would be wise to give their best positions of leadership in the Dundurn military. Keep them in house as it were. There was another option however, granting Strasbourg to Lugnut and his men to be its rulers while still being beneath Jakob's influence. It would be a good faith reward after all their aid and at least maintain the illusion that an electorate still existed."
+  nf_dun.26.a:0 "Let them loose."
+  nf_dun.26.b:0 "Keep them close."
+
+  ##catcher
+
+  dun_catcher:0 "Send Catcher In To Deal With Rabble"
+  dun_catcher_desc:0 "Times are hard \nYou're afraid to pay the fee \nSo you find yourself somebody \nWho can do the job for free \nWhen you need a bit of lovin' \n'Cause your man is out of town \nThat's the time you get me runnin' \nAnd you know I'll be around"
+
+  ##focus loc
+
+  dun_1:0 "Humanity"
+  dun_1_desc:0 "It is the most important aspect of our lives: humanity. On today's debate, Jakob Dundurn and Gloria Chase debate the topic and what it should mean."
+
+  dun_2:0 "The Dandies"
+  dun_2_desc:0 "Jakob Dundurn has been very outspoken with his distrust to our newfound leaders in Stoon, but Gloria Chase prefers to focus on what's here in Dundurn."
+
+  dun_3:0 "The Kingdom"
+  dun_3_desc:0 "Perhaps the greatest rival to Dundurn, the Kingdom of Manitoba has long-since been a heated topic within Dundurn's demesne. Tonight, Mr. Dundurn and Mrs. Chase go toe-to-toe on the topic."
+
+  dun_fake_prophets:0 "The False Prophets"
+  dun_fake_prophets_desc:0 "Beware, people of Dundurn, for there walks amongst us false shepherds that beckon a flock with sweet falsehoods. This cannot be allowed to stand! Dundurn's finest will send these "godly" minstrels running east to their rotting kingdom."
+
+  dun_integrate_christians:0 "Integrate the Christians"
+  dun_integrate_christians_desc:0 "Those among the people of Elbo who do not cling so fervently to fanaticism shall be allowed to walk among us as equals. Though they may keep their faith, no church shall ever be in operation within Dundurn's borders: for there is no profit, no good of man within such endeavors."
+
+  dun_expunge_the_evangelists:0 "They Shall Fear the Non-Believers"
+  dun_expunge_the_evangelists_desc:0 "The Evanglist fools of Elbo are, shall we say, problematic. They shall be drawn and quartered— those who thought to stand against us will be made examples of, and the smog of Dundurn's progress shall turn itself southward."
+
+  dun_send_riot_police_to_the_riots:0 "This Riot Cannot Stand"
+  dun_send_riot_police_to_the_riots_desc:0 "The Duquense Private Detective company has been a tremendously useful force in recent years. An "investigation" shall be mounted against the rioters, and with any luck, they'll be back to being quiet at work soon enough."
+
+  dun_clean_the_factories:0 "Cleaning House"
+  dun_clean_the_factories_desc:0 "Finding the people responsible for this little 'union' will be easy. Find the most squeamish bastards in their whole lot and crunch them into paste 'til they crack."
+
+  dun_purge_the_rioters:0 "Purge the Riot"
+  dun_purge_the_rioters_desc:0 "If cleaning house won't crack the egg, then let's stir the yolk inside-out. Go for anyone who wants to picket, any means necessary. Make 'em wish they just stayed on the line."
+
+  dun_listen_to_rioters:0 "Listening to the Rioters"
+  dun_listen_to_rioters_desc:0 "The people are nothing if not outspoken. Dundurn suffers enough. Let us give them a voice!"
+
+  dun_up_safety_standards:0 "Implementing Safety Standards"
+  dun_up_safety_standards_desc:0 "The workers want improved safety standards. Who are we to argue? They want to work— just make them feel better doing it!"
+
+  dun_renewed_OSHA_regulations:0 "Reviewing Pre-War Regulations"
+  dun_renewed_OSHA_regulations_desc:0 "While not all of it seemed to be applied pre-war, there were several regulations in place that many of the workers agree they would like to see. Let's get a bit of positive pre-war taste in our mouths, hm?"
+
+  dun_army_1:0 "The Army, As It Stands"
+  dun_army_1_desc:0 "Dundurn's army is the pride of the electorate, whether anyone in Stoon or Pleasantdale wants to admit it or not."
+
+  dun_vehicles:0 "The Old Reliables"
+  dun_vehicles_desc:0 "Dundurn battle-wagons once raged against Manitoba like a mighty flash-and-fire. While that era is long behind us, many of them still linger. Without the threat of death, we can fit them for a more modern age and apply ourselves in ways we never got to test prior."
+
+  dun_brawlers:0 "Old Battle-Wagons Die Hard"
+  dun_brawlers_desc:0 "Many of our old wagons are too old and decrepit to really be utilized again, but that doesn't mean all of them. We still have plenty to pull from."
+
+  dun_preemptive_drills:0 "Revisiting Old Routines"
+  dun_preemptive_drills_desc:0 "Not all of the old guard is gone. With the Stampede on the horizon, the Kingdom figuring itself out, and the other electoral states in turmoil, we need to be ready. Let's perform the old drills again."
+
+  dun_militia:0 "The Most Important Thing In Any Society..."
+  dun_militia_desc:0 "...Is an armed populace. If the military fails, then a bunch of angry lower-classmen will make dents in the enemy no one thought possible."
+
+  dun_underground_workshops:0 "Encouraging Militia Groups"
+  dun_underground_workshops_desc:0 "The militias in Dundurn can be both an excellent reserve and pipeline for getting new members of the regulars. All we need to do is bolster them."
+
+  dun_militia_checkpoints:0 "Militia Checkpoints"
+  dun_militia_checkpoints_desc:0 "We will allow the militiamen to set up their own 'checkpoints,' allowing them to see and create communication networks among themselves. With our cooperation, too, we'll be in the loop and perfectly in tune."
+  dun_militia_checkpoints_tt:0 "We will gain §G1§! levels of §Youtpost§! in §Yevery border province§! we control.\n\n"
+
+  dun_militia_2:0 "A United Front & Home"
+  dun_militia_2_desc:0 "The militiamen stand as strong as our regulars. If that isn't enough to stir a patriots smile, then I don't know what is."
+
+  dun_energy_weaponry:0 "What Drove God From Dundurn"
+  dun_energy_weaponry_desc:0 "The church fought hard to keep its lands in Saskatchewan. We drove them from it with laser and beam with joyous glee. \n\nWe'll do it again, too, if we need to."
+
+  dun_energy_weaponry_bonus:0 "A Surprise The Doctor Ordered"
+  dun_energy_weaponry_bonus_desc:0 "In any self-respecting society, innovation has and always will be key. We will make it so if Manitoba ever tries again, they'll be caught surprised by how much we've improved."
+
+  dun_energy_weaponry_tech:0 "The Wonders of Industry"
+  dun_energy_weaponry_tech_desc:0 "It is from the genius of our industrymen that we defy the laws the wasteland imposed upon us."
+
+  dun_refurbishingweapons:0 "Reduce, Reuse, Recycle"
+  dun_refurbishingweapons_desc:0 "Every day, some poor fool leaves a weapon out to rot in a ditch either in a drunken bout or from losing it to authorities. These abandoned weapons, be they from us or otherwise, will never find their way into a chest— for it is by our declaration that every weapon be in use, and so all find their way back into shops or in the hands of our regulars. Not a gun wasted. Such is our motto."
+
+  dun_infantry_weaponry:0 "Innovation is Key"
+  dun_infantry_weaponry_desc:0 "Innovate, innovate, innovate. We can get nowhere without dedication and intelligence."
+
+  dun_doctrine1:0 "How You Swing It"
+  dun_doctrine1_desc:0 "Any moron can shoot a gun. It takes a Dundurn regular to shoot a gun with know-how."
+
+  dun_glorias_victory:0 "To Change a World"
+  dun_glorias_victory_desc:0 "The Rosewood Foundation won out. Gloria's madness prevailed."
+
+  dun_jakobs_victory:0 "Staying the Course"
+  dun_jakobs_victory_desc:0 "The Dundurn Elite won out. Jakob's madness prevailed."
+
+  dun_man_over_matter:0 "What Really Makes a Man?"
+  dun_man_over_matter_desc:0 "A man is constituted of his cells, yes, but it is the matter of ones soul that is tantamount. Without soul, we are just animals writhing around in our own filth, pretending to have meaning."
+
+  dun_wakaw_slaves:0 "They Called Them 'Super'"
+  dun_wakaw_slaves_desc:0 "They came from the south. Far, far south, in the States. They told us they were 'super mutants,' and they were here to stay. Well, I never invited them, but I am quite interested in how they function. Why don't we have them enlighten us? We'll kidnap as many as we can from their ridiculous asylum."
+
+  dun_mutant_mind_control:0 "Securing Our Bets"
+  dun_mutant_mind_control_desc:0 "In a city of industry, one must have two things: protection, and labor. These mutants offer both in one package. All they need is coercion... And with the right amount of mind control, well, such things come easily."
+
+  dun_catcher_cant_do_everything:0 "Dirty Deeds Dundurn Cheap"
+  dun_catcher_cant_do_everything_desc:0 "Much as we'd like, Catcher's use is more calculated. With the fall of the Electorate, we ought to have a more damning sort; like a hammer upon an unruly nail. We'll make them beg for mercy before this is over..."
+
+  dun_smashers_puppet:0 "The Sparkblades Return"
+  dun_smashers_puppet_desc:0 "Lugnut and his men were once rebels with a glorious cause. In the face of our resolution, I gesture of course to their release as rightful citizens of this new Electorate, to show that goodfaith hasn't died. Not yet."
+
+  dun_do_not_bite_the_hands:0 "Do Not Bite The Hands"
+  dun_do_not_bite_the_hands_desc:0 "Such a simple phrase. "Do not bite the hands that feed." No matter how many times it is repeated, on television or otherwise, none of these dredges in the factories listen. Then again, if they are on the factory floor and not in the executive meetings... Who is the real brain, here?"
+
+  dun_seeing_is_believing:0 "Seeing is Believing"
+  dun_seeing_is_believing_desc:0 "It is the gentle hand of a true visionary that guides a civilization into the fires of eternity. The sort of man who can etch, nay, BRAND his name upon each of his workers backs and hear nary a protest. Such a man, in this age, is me."
+
+  dun_hard_work_is_happy_work:0 "Hard Work is Happy Work"
+  dun_hard_work_is_happy_work_desc:0 "Despise the man who is dishonest. Despise the man who pulls his punches. Every blow must represent yourself! The greatest might one can hold must be demonstrated at all times or it too is a lie. Do not listen to the begging women in the streets who cry for us to feel 'sympathy' for their lack of money. Perhaps it is they who should have considered their own solutions to their problems, instead of relying on handouts and 'charity.'"
+
+  dun_interface_environment:0 "Address the Commonalities"
+  dun_interface_environment_desc:0 "The people in this world who seek novelties, pleasantries, and have the righteous, earned means to purchase them are the finest of society. Men and women who work for what they have, who provide for their families, and seek out the inventions and innovations of our finest and endorse them with their wallet and not their mouths. These are the pillars of my society— and the most respected citizen."
+
+  dun_concluding_the_tests:0 "Taking Care of Our 'Guests'"
+  dun_concluding_the_tests_desc:0 "Super Mutant DNA is difficult to extract, to understand, but not impossible. With time, we've gathered enough to move forward."
+
+  dun_pave_the_way_to_destiny:0 "Through Blizzards Cold and Skies Scarlet"
+  dun_pave_the_way_to_destiny_desc:0 "They say it is impossible. That the DNA replicator was a myth. I deny these notions. Why? Because I believe in the world to provide for us as we do our own. We will push through the blizzard, and we will be vindicated in our wishes. If not because the world is a generous goddess, then because I have willed it."
+
+  dun_securing_the_blizzard:0 "The Impossible"
+  dun_securing_the_blizzard_desc:0 "They told me I was mad. That it was impossible. Destiny could never be broken. \n\nThose men now lay in slum or grave, and their names? I have already forgotten them. So too shall history once my name is printed larger than any other."
+
+  dun_unleash_science:0 "Extracting, Replicating, Duplicating..."
+  dun_unleash_science_desc:0 "Generic trials will lead to great fruit. Our scientists must learn before they can be masters!"
+
+  dun_the_replication_chamber:0 "The Golden Goose, the Replication Chamber"
+  dun_the_replication_chamber_desc:0 "At long last. My holy device, my white whale— may it never be my Jericho. With this, we will push forward science a thousand, nay, a billion years. The perfection of man shall be a paradox to the wonders we will create."
+
+  dun_animal_trials:0 "The Animal Trials"
+  dun_animal_trials_desc:0 "Pursuing the animal trials has led to some... Disturbing reports, if the indications have any bearing on us..."
+
+  dun_zombies:0 "Lazarus Rejects"
+  dun_zombies_desc:0 "The horrors of man be unleashed as a scourge upon the land, so that every valley may become shadowed with death and every last human may know the terror and fear that we have upon recognizing the weight of our failures."
+  dun_raise_zombies:0 "Raise Zombies"
+  dun_raise_zombies_desc:0 "The price of immortality rears its ugly head..."
+
+  dun_pandoras_victory:0 "Of Minds and Metal"
+  dun_pandoras_victory_desc:0 "Gloria Chase, now the new presiding figurehead of Dundurn, promises a future for mankind etched in metal: a true unity that shall be drift them beyond radiation."
+
+  dun_working_with_elbo:0 "Father Scrapheap"
+  dun_working_with_elbo_desc:0 "The religious sorts in Elbo have always been an easy picking for Miss Chase— after all, so easy it was to convince their 'flock' about the evils of Jakob Dundurn. Though they didn't turn a blind eye to her cause, their support was invaluable. With things tensing up in the Electorate and their recent departure, perhaps they may see use in an... Unofficial alliance?"
+
+  dun_betraying_scrapheap:0 "Betraying Father Scrapheap"
+  dun_betraying_scrapheap_desc:0 "Scrapheap was always scum. It didn't take Gloria's vast intelligence to understand this, really. Ending him, and securing Elbo for the Electorate once again will be mere child's play."
+
+  dun_puppet_pleasantdale:0 "Remember HOPE"
+  dun_puppet_pleasantdale_desc:0 "Once, the program had served her in a different life. Now, HOPE seeks asylum, and who would Gloria be to deny her? After all, an old friend deserves some respect, even at the end."
+
+  dun_pandoras_box:0 "Pandora's Box"
+  dun_pandoras_box_desc:0 "Gloria's sister had always been a robotics wizard. Her work led to many of the studies Gloria now pledged her life by— and now, with Dundurn secured under the Rosewood Foundation, the sisters could once again continue their work."
+
+  dun_sentry:0 "Rewiring Old World Machines"
+  dun_sentry_desc:0 "In the wake of the Canadian occupation, many Mister Gutsies had been left behind. Whether they had been frozen or otherwise, they were around, and well within repairing conditions— at least, through the Rosewood Foundation's talent."
+
+  dun_machinoforming:0 "Machinoforming the Wicked"
+  dun_machinoforming_desc:0 "Prisoners. Malcontents. Vagabonds. All of them have one thing in common: disruptive nature. They will be the first in a long series of trials, discoveirng the exact tolerances of the human body for pain and suffering. To reach ascension, we must first find our limits."
+
+  dun_awaken_the_metaphorical_giant:0 "Awakening the Metaphorical Giant"
+  dun_awaken_the_metaphorical_giant_desc:0 "With there being no more opposition to the Rosewood Foundation, we must find it in ourselves to make that great leap forward— a push insofar that we will decimate the odds stacked against us!"
+
+  dun_munitions_caliber:0 "The New Guns"
+  dun_munitions_caliber_desc:0 "With our new transitions into implantation and robotics fields, the current prodution of weaponry and munitions is insufficient. We will take the necessary steps to rectify this."
+
+  dun_land_of_cowards:0 "Deep in the Land of Cowards"
+  dun_land_of_cowards_desc:0 "Stoon was a city of backstabbers, not unlike Dundurn, though its breed of inequity was far less subtle. Truly, the world is made significantly more hospitable simply by virtue of them being no more."
+
+  dun_consider_our_options:0 "Considering the Options"
+  dun_consider_our_options_desc:0 "Various robot manufactories and resources are within our south. Innovation has always been key, but resources have always been scarce. We shall make a plea to the Métis for access to such things, offering our own in exchange for an alliance. Or... We will make endeavors to take their land from them by force."
+
+  dun_the_project:0 "Corina's Project Realized"
+  dun_the_project_desc:0 "Progress on our Giant may now proceed as previously anticipated."
+
+  dun_implantations:0 "Beginning Cyberization"
+  dun_implantations_desc:0 "If man is to evolve, then he must be able to withstand the test of time. No more shall anyone's genius be reduced to ash and fertilizer. However, before such a thing can be realized, we must first test the very idea in mass quantities."
+
+  dun_plastic_skin:0 "Plastic Skin"
+  dun_plastic_skin_desc:0 "A face so familiar you'd think it was human— but it's just not quite there. This is the future."
+
+  dun_perfect_complexion:0 "Perfect Complexion"
+  dun_perfect_complexion_desc:0 "We'll never need to have someone ugly ever again. We can all be perfect... Together."
+
+  dun_adamantium_bones:0 "Adamantium Bones"
+  dun_adamantium_bones_desc:0 "Our bodies are weak and the world is strong. The odds are within our power to even the scales now."
+
+  dun_humankind_made_anew:0 "Mankind 2.0"
+  dun_humankind_made_anew_desc:0 "My masterwork. A man made entirely of metal yet still of sound mind now walks among us, the first in a thousand. Soon I shall leave this feeble husk and I too shall walk with metal feet; and then we shall all be in heaven-on-earth."
+
+  dun_men_we_can_count_on:0 "Men We Can Count On"
+  dun_men_we_can_count_on_desc:0 ""I don't give a fuck if Jakob or Gloria's the one barking up my tree. What we really need is some men we can count on— and with me, I know how to pick 'em." —Pariah"
+
+  dun_reopen_allan_hills:0 "Reopening Allan Hills"
+  dun_reopen_allan_hills_desc:0 ""It's been a town, a prison, and now it's going to be a little bit of everything. We've got plenty of POWs and shitheels we can put to work making guns for our guys. I'm keen on putting them to task." —Pariah"
+
+  dun_pariahs_law:0 "Pariah's Law"
+  dun_pariahs_law_desc:0 ""If you aren't a step away from breaking a broomhandle off in somebody's ass for backtalking you, then what the hell are you really standing for?" —Pariah"
+
+  dun_return_to_sender:0 "Kicking Them Out"
+  dun_return_to_sender_desc:0 ""Those bastards in Fort Cap Hell have been holding some of our guys for way too long. I don't give a shit if they got guns— so do we. I wanna see those walls come down, and I want to enjoy every second of it." —Pariah"
+
+  dun_placing_bets:0 "Placing Bets"
+  dun_placing_bets_desc:0 ""Leave it to the bean-counters to let loan sharks own a whole ass county. Fuck this horseshit; I want to drop a load of napalm down and let them figure themselves out." —Pariah"
+
+  dun_poking_the_stampede:0 "Game, Set, and Match"
+  dun_poking_the_stampede_desc:0 ""They're gonna come for us sooner or later. We need to make them wish they wouldn't before they do... And if we can't do just that, then we need to wipe them off the map quick." —Pariah"
+
+  dun_the_greatest_party_ever_held:0 "The Greatest Party Ever Held"
+  dun_the_greatest_party_ever_held_desc:0 ""Holy fuck. *Hic* We did that? Oh, sweet baby Jesus. How the... How the actual fuck did we do that?" —Pariah"
+
+  dun_if_you_came_to_see_a_fight:0 "If You Came To See a Fight..."
+  dun_if_you_came_to_see_a_fight_desc:0 "Pariah Hawkmoon's always been one hell of a pyrotechnic."
+
+  dun_then_enjoy_a_war:0 "...Then Enjoy A War"
+  dun_then_enjoy_a_war_desc:0 "With the fall of Leshy, we may now move forward into a new age. With luck, one free of further strife..."
+
+  dun_industry_1:0 "Resting Upon Dundurn's Laurels"
+  dun_industry_1_desc:0 "The city, and Dundurn as a nation, would fail to exist if not for the industry therein. It is jobs, safety, and money that flows through this land first and foremost."
+
+  dun_restore_the_rail_line:0 "Rail Line Restoration"
+  dun_restore_the_rail_line_desc:0 "The rail line in Dundurn wraps throughout the whole Electorate. It is without a doubt one of the most generous contributions we ever made to the whole concept."
+
+  dun_hire_conductors:0 "Hiring Conductors"
+  dun_hire_conductors_desc:0 "Not enough people are running the trains! if we can effectively train and provide workers, then our ability to traverse will be greatly improved."
+
+  dun_caravansary:0 "Looking Outwards"
+  dun_caravansary_desc:0 "Money is key to all services. To acquire it, however, we must trade."
+
+  dun_constructioncrews_1:0 "Endorse Internal Growth"
+  dun_constructioncrews_1_desc:0 "There's several companies within our borders that we can help supply. Let us focus on creating commerce within our own borders before seeking outwardly."
+
+  dun_caravansary_boons:0 "The Boons of Good Trade"
+  dun_caravansary_boons_desc:0 "Everybody wants a piece of the Dundurn pie."
+
+  dun_clearing_the_snow:0 "Clearing the Snow"
+  dun_clearing_the_snow_desc:0 "Without the snow in our way, we'll be able to accomplish a significant amount of renovation and navigate our lands far easier than before."
+
+  dun_constructioncrews_2:0 "Fasttrack to Growth"
+  dun_constructioncrews_2_desc:0 "Look at that! Short-term investments and long-term growth. The Wimsley Brothers remain ever-appreciative."
+
+  dun_milly_workshoppy:0 "Military Ventures"
+  dun_milly_workshoppy_desc:0 "So long as it produces guns and armor, then we are secure."
+
+  dun_civvy_workshoppy:0 "The Best Commerce is Civilian"
+  dun_civvy_workshoppy_desc:0 "Is a man not entitled to a toaster and cushioned chair?"
+
+  dun_industrial_complex_2:0 "Industry Baby"
+  dun_industrial_complex_2_desc:0 "A greater initial push, if a bit focused, will lead us to salvation."
+
+  dun_industrial_complex_1:0 "New Growth Opportunities"
+  dun_industrial_complex_1_desc:0 "The reservation of growth is far more important than anything else."
+
+  dun_communal_service:0 "Community Service Tactics"
+  dun_communal_service_desc:0 "Fear the litterer— nay, destroy them. It is their callousness that led us to calamity!"
+
+  dun_researchlaboratories_1:0 "Staffing The Imperial Lab"
+  dun_researchlaboratories_1_desc:0 "The Imperial Lab has long been a half-hearted attempt by our leadership to develop improvements for our society. Perhaps it is time to allot more manpower to their cause?"
+
+  dun_scavengers:0 "Promote Scavenger Lifestyles"
+  dun_scavengers_desc:0 "Scavengers are the sort to live off the land, cleaning up their space as they do so. What if we made that into a business?"
+
+  dun_scrappers:0 "Scav? Wrong. Scrap!"
+  dun_scrappers_desc:0 "So easy it was to put the homeless— I mean, scavengers to work!"
+
+  dun_scavengers_2:0 "The Fine Hand of Capitalism Sways Once More"
+  dun_scavengers_2_desc:0 "Some say this is ridiculous. Clearly, they've seen a hobo with a work tie."
+
+  dun_researchlaboratories:0 "Promote Actual Intelligence"
+  dun_researchlaboratories_desc:0 "Some of the gents down in Imperial have begun their own sort of science experiments, sharing their results with us in Dundurn. If some ex-Sparkblades want to play brain, who are we to prevent them? Let's endorse their efforts and promote general welfare."
+
+  dun_research_water_purifier:0 "Clean Water?"
+  dun_research_water_purifier_desc:0 "Long-since have water cleaning tactics been commonplace in Dundurn, but it had been thought that the water here was too tainted from pollution. Thanks to Imperial, we will never have to import from Pleasantdale again!"
+
+  dun_researchlaboratories_3:0 "From Interns and Pen-Pals to Bona-Fide Science Teams"
+  dun_researchlaboratories_3_desc:0 "The fine boys in Imperial have more than proven themselves worthy of a Dundurn pat-on-the-back. Go you, guys! Brahmin pizza party!"
+
+  dun_researchlaboratories_2:0 "Our New Help Comes Through"
+  dun_researchlaboratories_2_desc:0 "Economical growth so too shall lead to societal change!"
+  #decisions
+
+  dun_giant_upgrades_decision_cat:0 "Project: GIGANT"
+  dun_giant_upgrades_decision_cat_desc:0 "                  "  # Note: Empty Whitespace Necessary for Deccat GFX to Function, Do Not Delete
+
+  dun_operation_odin:0 "GIGANT Upgrade: Odin"
+  dun_operation_freya:0 "GIGANT Upgrade: Freya"
+  dun_operation_thor:0 "GIGANT Upgrade: Thor"
+
+  dun_the_project_decision_cat:0 "Project: QUEEN"
+  dun_the_project_decision_cat_desc:0 "                  "  # Note: Empty Whitespace Necessary for Deccat GFX to Function, Do Not Delete
+
+  dun_dedicate_power:0 "Assembling the Reactor"
+  dun_dedicate_metal:0 "Diverting Resources"
+  dun_dedicate_water:0 "Ensuring Safety Standards"
+  dun_activate_the_steel_dame:0 "Waking the Giant"
+
+  cpf_project_debuff_energy:0 "Constructing the Reactor"
+  cpf_project_debuff_metal:0 "Resources Diverted"
+  cpf_project_debuff_water:0 "Taking Safety Measures"
+
+  dun_power_supplied:0 "Power Supplied"
+  dun_metal_supplied:0 "Metal Supplied"
+  dun_workers_fed:0 "Workers Fed"
+
+  dun_pariahs_odyssey:0 "The Good Works of General Pariah Hawkmoon"
+  dun_pariahs_odyssey_desc:0 "                  "  # Note: Empty Whitespace Necessary for Deccat GFX to Function, Do Not Delete
+
+  dun_pariah_stokes_the_fires:0 "Stoking a Flame"
+  dun_pariah_stokes_the_fires_desc:0 "Listen. We all know the score. Solomon likes to play toy soldier in his high castle, pretending like he gives a damn about any of the rest of us. \n\nWe're more than a few bases away from a home run, so why don't we quit beating around the bush and play ball? I'm sick and tired of being second fiddle. I've served the Electorate for two decades, and done a damn good job at it, too. I'm not getting sidelined by some schmuck in a ratty old suit. \n\nGame's changed, boys. Time we change too."
+
+    dun_preparations_are_being_made:0 "Recruitment efforts must be in full swing!"
+
+  dun_war_efforts:0 "Pushing for a War Effort"
+  dun_war_efforts_desc:0 ""Homeless? Down on your luck? Looking for a fresh start? The Dundurn Originals have you covered, and then some. Enlist today!" —Dundurn Newspaper print-out \n\nIt's times like two years ago that I keep wondering, "where have all the patriots gone?" And then I realize they didn't go anywhere, they just had nothing to believe in. Well, here I am, and now the people have something to look up to once again. If that ain't fuel for a poem, I don't know what is."
+
+    dun_preparations_made:0 "The people are galvanized and looking for a fight!"
+
+  dun_pariah_gets_a_cigar:0 "Pariah Gets a Cigar"
+  dun_pariah_gets_a_cigar_desc:0 "Fuckin' hell."
+
+    dun_had_a_smoke:0 "Pariah's had smoke break!"
+
+  dun_i_wanna_watch_a_kingdom_fall:0 "I Wanna Watch A Kingdom Fall"
+  dun_i_wanna_watch_a_kingdom_fall_desc:0 "I want it all or not at all."
+
+  dun_revisiting_duck_mountain:0 "Welcome Home, Pariah Hawkmoon"
+  dun_revisiting_duck_mountain_desc:0 "I used to be a Duck Mountaineer, back when I was a kid... Got born into that whole shitshow. Guess at some point after I fought my five hundredth Umbravore and drank my last Manitoban beer I just got tired of it all, and now look at me. Right back where I started. \n\nYou know what, though?\n\nIt was worth it."
+
+  dun_renewing_old_vows:0 "Renewing Old Vows"
+  dun_renewing_old_vows_desc:0 "Me and the Duchess used to get along a bit well, you could say. Guess it was just one foray after another that we kept running into each other, and then one day, she just came onto me. I think that was one of the craziest moments of my life— a woman that beautiful and powerful was eyeballing me for a good time? My self-confidence never recovered. \n\nOf course, she never stopped trying to reach out to me once she figured out I was over in Dundurn. Truth be told, I may or may not have kept some letters going back every now and then... But I've never been one for big commitments. We're friends in the end, and she's the only one of those bastards who I know won't try and stab me in the back. She might be careless about ruling by herself, but with me keeping her in check, I'm sure she'll be just perfect as a Queen. Better than Gunn, anyway."
+
+  dun_send_yorkton_a_gift:0 "Sending Yorkton a "Gift""
+  dun_send_yorkton_a_gift_desc:0 "Always thought that piece of shit was a thorn in the world's side; just another uppity old bastard on his way out of the world. Kinda like me, if you think about it. \n\nToo bad my therapist tells me my ego is bigger than my good sense. What say we don't remind him of what happened to his Knights?"
+
+  #ideas
+
+  cpf_spectral_order:0 "The Spectral Cabal"
+  cpf_spectral_order_desc:0 "The Spectral Cabal are a group of high-society individuals originating from Pleasantdale.  Having experienced the same mutations from red fern usage—mass destabilization and restabilization—they prowl in packs, mewing poetic ideas and indulging drugs.\n\nRecently, prophetic dreams have haunted the Cabal, illustrating a woman they call Saint Loke, and a chapel of healing resembling a familiar abandoned facility not too far out from the city..."
+  electorals_ideas_training_time_1:0 "The People's Army"
+  electorals_ideas_militia_patrols:0 "Every Street a Soldier"
+  electorals_ideas_training_time_2:0 "Unity of Dundurn"
+  electorals_ideas_militia_patrols_2:0 "Every House a Soldier"
+  dun_dundurn_riots:0 "The Dundurn Riots"
+  dun_duquesne_purge:0 "The Duquesne Company Purging"
+  dun_duquesne_enforcers:0 "Duquesne P.D. Services"
+  dun_economical_retreadings:0 "Economical Retread"
+  dun_zombies_idea:0 "The Eternal Price"
+  dun_rosewood_foundation_boons:0 "Cybernetic Know-How"
+  dun_nanocarbonite_skin:0 "Nanocarbonite Skin"
+  dun_machinoforms_idea:0 "The Mechanical Future"
+  dun_remember_leshys_victims:0 "Remembering Leshy's Victims"
+
+  dun_workers_appeased:0 "Dundurn Factory Co-Op"
+  dun_golden_age:0 "Workers' Rights"
+
+  electorals_ideas_caravansary:0 "Saskatchewan Caravansary"
+  electorals_ideas_construction_crews1:0 "Wimsley Brothers Construction Start-Up"
+  electorals_ideas_construction_crews2:0 "Wimsley Brothers Construction Company"
+  electorals_idea_scavenger_teams:0 "The 'Saskatchascrappers'"
+  electorals_idea_scavenger_teams_2:0 "Saskatchascrappers, Inc."
+  electorals_idea_research_labs1:0 "Imperial Lab"
+  electorals_idea_research_labs2:0 "Imperial Lab and Research Firm"
+
+  dun_pariahs_dependability:0 "Pariah's Dependability"
+  dun_manpower_buff:0 "Pariah's Dogma"
+
+  dun_human_experiments_bad:0 "Strained Human Experimentation"
+  dun_human_experiments_good:0 "Successful Human Experimentation"
+
+  dun_yorkton_hard_mode:0 "§RTo Dundurn, I Promise Death§!"
+  dun_yorkton_hard_mode_desc:0 ""This time... Their land. Their blood." —A Yorkton Soldier"
+
+  dun_odin_upgrade:0 "Upgrade: §YODIN§!"
+  dun_freya_upgrade:0 "Upgrade: §cFREYA§!"
+  dun_thor_upgrade:0 "Upgrade: §MTHOR§!"
+
+  #misc tooltips
+
+  dun_giant_general_get:0 "We will gain the Giant as a §MGeneral§! and as a unique §MUnit§!"
+  railroad_bonus_tt:0 "This will add §Y2 infrastructure§! to §Gevery owned state§! if you control the entire electorate— or, just §Y1 infrastructure§! to §Gevery owned state§! if you don't!"
+  testing_tt:0 "We will unlock §Ydecisions§! to experiment on the human condition!"
+  testing_continued_tt:0 "We will unlock more §Ydecisions§! to experiment on the human condition!"
+  hard_mode_yorkton_war_tt:0 "§RThere is no benefit to this— all you will do is enrage the [DLN.GetNameWithFlag]. Ensure that you are prepared for what is to come...§!"
+  dun_debates_concluded:0 "§RThe philosophical debates between Gloria Chase and Jakob Dundurn must reach a conclusion.§!"
+  dun_project_tt:0 "§gWe will unlock a §Ydecision§! to §Grebuild/complete the machine found.§!§!"
+  dun_metis_war_tt:0 "§gWe will ask the Métis to §Yinvite us into the Second Coalition§!— or, if they are dead, §Rwe will gain claims on their cored land§!.§!"
+  dun_stampede_cores:0 "Gain a permanent local §G50%§! reduction in coring costs for all §Y[STA.GetNameWithFlag]§!'s core states.\n\n"
+  dun_pariah_tt:0 "We will unlock §YThe Good Works of Pariah Hawkmoon§! decision category, enabling us to §Gprepare for a war§! against the Kingdom's lands!"
+  dun_sparkblades_gen_1:0 "We will gain §YThe Sparkblades§! as Generals and give them Autonomous Control over Strasbourg!"
+  dun_sparkblades_gen_2:0 "We will gain §YThe Sparkblades§! as Generals!"
