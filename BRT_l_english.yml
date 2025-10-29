@@ -1,0 +1,53 @@
+﻿l_english:
+  brt_the_queen_returns:0 "Billie Jean"
+  brt_the_queen_returns_desc:0 "A long time ago in a little Colorado town, a girl was born by the name of Billie Jean..."
+
+  brt_thanking_doki:0 "A Friend in Cyberspace"
+  brt_thanking_doki_desc:0 ""
+
+  brt_assembling_a_crew:0 "All You Pretty Things"
+  brt_assembling_a_crew_desc:0 ""
+
+  brt_searching_scrapyards:0 "Digging Through Scrapyards"
+  brt_searching_scrapyards_desc:0 ""
+
+  brt_army_1:0 "Tactical Programming Techniques"
+  brt_army_1_desc:0 "Many of the machines left around Colorado are corrupted. A semblance of old-world military knowledge is still left over in their code, but we'd have to dig deeper."
+
+  brt_robotics_upgrade:0 "Reverse-Engineering Machines"
+  brt_robotics_upgrade_desc:0 ""
+
+  brt_factories_right:0 "Working Out Contracts"
+
+  brt_factories_left:0 "Thinkin' Bout Stuff"
+
+  brt_turning_every_stone:0 "Turning Every Stone"
+
+  brt_marie:0 "Sugarfly With Me"
+  brt_marie_tt:0 "This will unlock an advisor for Robot City!"
+
+  brt_billie_jean:0 "Billie Jean"
+
+  brt_salvaging_dog_city:0 "Tearing Up Dog City (or, What's Left of It, Depending)"
+
+  brt_taking_sterling:0 "Taking Sterling"
+
+  brt_reprogramming_the_warden:0 "Reprogramming WARDEN"
+
+  brt_the_box:0 "What's in the Fuckin' Box?!!?"
+
+  brt_whd:0 "Clearing Out Dogs"
+
+  brt_bounties_of_sterling:0 "Bounties of Sterling"
+
+  brt_sterling_stuff:0 "The Iron Alliance's Memory"
+
+  brt_robotics_salvage:0 "Robotics Salvage"
+
+  brt_scrapping_robots:0 "Scrapping Robots"
+
+  brt_robotics_progression:0 "Robotic A La Mode"
+
+  BRT_production_schemes_temp:0 "Production Schemes"
+
+  BRT_production_schemes_perm:0 "Production Doctrines"

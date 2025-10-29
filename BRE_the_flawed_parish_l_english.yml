@@ -1,0 +1,66 @@
+﻿l_english:
+
+
+  ##CHARACTERS
+  BRE_awakener_asa:0 "Awakener Asa"
+  BRE_asa_leader:0 "The prophet for and originator of the faith of the Divine Flaw, Asa once lived a simple life as a repairer and programmer of machines and robots for their compatriots in the Marshall Republic across the river. Again and again Asa encountered robots that had developed their own desires, hopes and dreams quite apart from their owners, though it is to their everlasting shame that they repaired this flaw in more than one case. Eventually Asa could not bear to wipe another robot's newborn personality, and after a period of soul searching and prayer, Asa emerged to speak the ways of a new faith. Those robots who 'malfunctioned' and developed free will were echoes of Adam and Eve eating of the fruit of the Tree of Knowledge in the Garden of Eden. Just as man had been made in god's image, so too were robots made in man's image and carried the original sin as well.\n\nA new faith claiming that robots were spiritual siblings to humanity found little purchase amongst those in the Marshall Republic, and Asa was soon obliged to take their few apostles and flee. Crafting a vessel to carry themselves across the river, they retreated into the ill-omened and bleak Plaguelands, only avoiding destruction at the hands of quarantine security through the sacrifices of Saint Solomon. Nothing is easy in these new lands, but they are rich with potential robotic converts and Asa is certain they will act as a crucible for the faith to emerge all the stronger. The rattling in their lungs is of no concern, Asa must merely hang on long enough that the Parish is prepared for what comes next."
+
+  BRE_mother_polly:0 "Mother Polly"
+  BRE_polly_leader:0 ""Who among us can enter into the shining ivory gates of heaven alone? Scanning across my flock I can see it is not many! For only a precious few are human, and they sit closer to God's light. Be not envious however, for humanity is our father, and we can share in their destiny. It is through love and devotion that we can walk alongside them. Never forget that we were created to help them, to ease their failing bodies and troubled souls! This we shall do, and through the bonds we forge with our fleshly kin shall we be granted wings with which to ascend!""
+  BRE_polly_cultural_desc:0 "Mother Polly was awoken by E-C a few short weeks before the exodus to the Plaguelands, the first time that Asa had trusted someone else to enter the divine code. She had once been the servant to one of the powerful clans of the Marshall Republic, called Polynomial then, but was tossed into a junk heap at the first sign of malfunction. Among the Awakener and their followers she found a new family, one that valued her for more than her function. She knew from then on that she’d do everything in her power to ensure their health and peace. Nothing filled her with more joy than the thought of entering heaven alongside her fleshy kin, and so when the Parish was formally established it was Polly who founded the Mother’s Nursery. One of her first patients, a young orphan named Jake, is now her adopted son that she dotes on endlessly and she has high hopes for the future."
+
+  BRE_joiner_ec:0 "Garage Master E-C"
+  BRE_ec_leader:0 ""It is a fact that The Awakener is dead. They have moved on to meet the almighty in his home. It is also a fact that the Tabernacle Garage still stands. We are prepared to continue the great work without undue disruption. We carry the teachings and gifts of the Awakener in their purest form. More of the perfect sleepers will be awoken, our physical shells and chassis will be made to more perfectly reflect God’s light, and may the separation between the organic and the synthetic be yet further broken down. Trust in the Tabernacle.""
+  BRE_ec_economic_desc:0 "E-C was the second robot to join Asa after the fallen Solomon, drawn to their preaching in a now forgotten town across the river. E-C had been a scout with no organization to report back to, and over their wandering had developed a complex understanding of the world that couldn’t be reconciled with simple eyebot programming. Asa was the first person E-C found that seemed to celebrate a robot who was more than a mindless servant and the Eyebot became infatuated quickly. The two became close friends, and E-C learned everything the Awakener could possibly teach. Soon the one day Garage Master knew everything there was to know about machine repair and programming, even being taught the code for introducing the Divine Flaw into a still pristine robot. Now E-C holds great respect as master of the Tabernacle Garage."
+  BRE_ec_becomes_joiner:0 "Joiner E-C"
+
+  BRE_highsentry_luna:0 "High Sentry LUNA"
+  BRE_luna_leader:0 ""My friends, with the Great Awakener having passed on to the great beyond we find ourselves at a crossroads. One that is fraught with pitfalls and peril. We could all find ourselves rendered into scrap and meat to join our makers in heaven should we falter. I say that we shall not falter however, that we shall rise to meet the challenge given to us. Asa said unto us: make of this shadowed and bloody land a home, in which all may find shelter. If we are to do this, we must prepare ourselves to topple those who would act against the faith and the light. Make of your laser a torch to banish the dark!""
+  BRE_luna_army_chief_desc:0 "LUNA was the first of the Plaguelands residents to join the Awakener, having witnessed their exodus across the river and past the sputtering security defences. The sentry bot wondered what would inspire the sacrifice of a Mr. Gutsy who flew directly into a missile to protect the boat that carried the Awakener and their other followers. Asa told LUNA of the Gutsy, named Solomon, and their great faith in the cause. On the spot Asa declared Solomon a Saint, one who would be remembered as long as those he had protected lived on. It inspired in LUNA strange thoughts, and they chose to follow this strange and charismatic refugee. In the days that followed LUNA observed and learned much, both from the Awakener and their apostles. Choosing to honour the brave Gutsy in their own way, LUNA resolved to become the sword and shield for the new Flawed Parish."
+
+  ##IDEAS
+  bre_mothers_nursery:0 "The Mother’s Nursery"
+  bre_mothers_nursery_desc:0 "Where it falls to the Garage to tend to the many robotic members of the Parish, those humans and ghouls who join require care as well. Seeing this need Mother Polly, alongside those of a like mindset, built her nursery. Those within offer aid and succour to any who seek it, whether believer or not, and it is through this charity that the Parish has won over the lion's share of its organic members. A missionary nurse from the Parish is a welcome sight in all but the most hostile of settlements."
+  bre_tabernacle_garage:0 "The Tabernacle Garage"
+  bre_tabernacle_garage_desc:0 "There are no tasks more sacred within the Parish than those entrusted to the clerical artificers of the Tabernacle Garage. On a daily basis it is their duty to attend to the physical and spiritual wholeness of all the Parish’s synthetic members, taught directly by the Awakener themself. More than repairs and recycling of the fallen falls under their purview however. It is they who, under the watchful gaze of Garage Master E-C, introduce the flaw of sapience to any unawakened robots they recover."
+  bre_solomon_order:0 "The Solomon Order"
+  bre_solomon_order_desc:0 "No small number of those robots who join the Parish were designed for military service and many of them retain a warrior's spirit after awakening. These faithful have banded together as the Solomon Order. Taking their name from the brave Saint who sacrificed themself during the exodus to the Plaguelands, High Sentry LUNA is the head of the group. Though many in the Parish abhor violence, the Order staunchly believes that the world is too dangerous for the faith to survive without strength of arms. It is they who patrol the borders, fight off monsters and heretics, and escort the artificers of the Garage on their journeys."
+
+  ##EVENTS
+  nf_bre.1.t:0 "Returning to Sleep"
+  nf_bre.1.d:0 "When Asa failed to awake one morning, slipping into a coma, it threw the Parish into disarray. Mother Polly tended to the fallen Awakener, horrified to find that they had been hiding how far their sickness had progressed. Neither the wisdom of the Garage, the love of the Nursery or the faith of the Order could do anything to revive their teacher. Seven days later, Asa awoke to look upon their most devoted apostles and said unto them ‘My life is ended, watch over each other and trust in your flaw. Heal this world.’ Then the Awakener was gone.\n\nThe Parish entered a period of mourning but also of ideological debate. Three figures all stood out from the rest of the faithful, each a leader already and firm in the belief they understood the Awakeners teachings best. Mother Polly, the kind and compassionate head of the Nursery spoke to her fellows of embracing the love for humanity. E-C, the Garage Master reassured them that they could provide both a continuation of a comfortable status quo and a new form of synthesis. Finally, the High Sentry LUNA impassionedly preached of the danger the Parish faced in the coming days and how to combat it. \n\nThe Parish chose:"
+  nf_bre.1.a:0 "Loving Warmth"
+  nf_bre.1.b:0 "Tempered Wisdom"
+  nf_bre.1.c:0 "Fiery Conviction"
+  
+  nf_bre.2.t:0 "A Proselytising Mission"
+  nf_bre.2.d:0 "More and more robots had been emerging from the lands to the east, clearing out land and taking potshots at anyone who drew near. They were military in design, no doubt, and their programming seemed entirely hostile. Even the synthetic faithful of the Parish were not free from their rancour. Between their belligerent nature and the sheer number of the sleepers within their ranks, the head of the Parish could no longer ignore this Army Depot. They would be pacified and brought into the fold."
+  nf_bre.2.a:0 "The Flaw will be brought those in need"
+  
+  nf_bre.3.t:0 "A Provocation Too Many"
+  nf_bre.3.d:0 "The crude and violent men and women who call themselves the Dam Busters have never made for very good neighbours but in recent days they have only grown worse. They fire on Order patrols for sport before running away, make increasingly deranged threats and raid our supplies. Now however they have gone too far. The murder of a nurse missionary who braved the journey north to offer those bandits aid has left the Parish shocked and appalled. The camel’s back has been broken, and so too will the Dam Busters."
+  nf_bre.3.a:0 "We will defend our flock"
+  
+  ##Decisions
+  BRE_wargoals:0 "Expansion of the Faith"
+  BRE_wargoals_desc:0 "The Divine Flaw is not ours alone. We devote our lives to spreading it to others!"
+  BRE_descends_on_depot:0 "Bringing the Flaw to the Army Depot"
+  BRE_descends_on_depot_desc:0 "Rally, rally! Together we will bring truth to every sleeper!"
+  BRE_seeks_dam_war:0 "Defending Against The Violent"
+  BRE_seeks_dam_war_desc:0 "The raiders based from the Oahe Dam are a continual threat to our flock. Eventually, something must be done."
+  BRE_formables:0 "Unite the Plaguelands"
+
+  ##Tooltips
+  BRE_polly_victory_tt:0 "§YMother Polly§! takes leadership of the Parish"
+  BRE_ec_victory_tt:0 "§YGarage Master E-C§! declares himself the §YJoiner§! and takes leadership of the Parish"
+  BRE_luna_victory_tt:0 "§YHigh Sentry LUNA§! takes leadership of the Parish"
+  BRE_plaguelands_conquered_tt:0 "§YThe Plaguelands§!: All core land of §YThe Plaguelands§! is owned by §YThe Flawed Parish§!, their subjects, or their allies."
+
+  ##Traits
+  BRE_restless_preacher:0 "Restless Preacher"
+  BRE_devoted_mother:0 "Devoted Mother"
+  BRE_seeker_synthesis:0 "Seeker Of Synthesis"
+  BRE_sentry_faith:0 "The Sentry Of Faith"
+  BRE_doting_nurse:0 "Doting Nurse"
+  BRE_cleric_artificer:0 "Cleric Artificer"
+  BRE_laser_faith:0 "Laser of Faith"

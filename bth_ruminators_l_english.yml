@@ -1,0 +1,462 @@
+﻿l_english:
+ #############
+ ### This tree was intended to be written by Violet and Lusa, but ended up being finished by Violet due to various tragic circumstances surrounding OWB at the time. This tree was scrapped three times, making this ultimately the fourth iteration of Ruminators that will be seeing release. Thank you for playing, and especially for taking the time to look into this file. I love all of you for playing this mod and enjoying our content. --violet
+ #############
+
+  bth_research_bonus:0 "Ruminators Research"
+  bth_defined_military:0 "Our military has been defined!"
+
+  bth_brotherhood_presence_flag:0 "The Brotherhood has a presence in Rosebud!"
+
+  mnc_ruminator_dispatch_flag:0 "The Ruminators are hosting Siegfra's dispatch!"
+
+  bth_siegfra_tt:0 "§YPaladin Siegfra§! arrives as a §GUnit Leader§! and §GHigh Command§! advisor!"
+  bth_puppet_tt:0 "This will put us on a path to becoming a §RPuppet§! of §Y[MNC.GetFlag] [MNC.GetNameDef]§!."
+
+  ######
+  ### Ideas
+  ######
+  bth_firefly_expertise:0 "Firefly Protection"
+  bth_firefly_expertise_desc:0 "The Fireflies are a reclusive group of nocturnal hunters, originating from pre-war park rangers. Led by Taskmaster Rowan, the Fireflies have developed their hunting expertise and culture around Bioflies; fireflies mutated by a radiated comet that struck the park grounds. Every Firefly has a specialised lantern used to contain their Bioflies. Additionally, the Fireflies douse themselves in a lavender-smelling repellent to ensure the Bioflies don't stick onto them. \n\nFor years, they have kept the lands outside safe-- whether its residents are aware of it, or not."
+  bth_cult_of_liberty_gun_love:0 "America's Arms"
+  bth_ruminator_radio_idea:0 "Ruminator Radio"
+  bth_firefly_gear:0 "Firefly Gear"
+  bth_the_fireflies_final:0 "The Fireflies"
+
+  ######
+  ### Flags
+  ######
+  bth_american_angels_flag:0 "§Y[BTH.GetFlag] [BTH.GetNameDefCap]§! are §GReceptive§! to the ideals of §YAmerica§!."
+  bth_friendly:0 "Shown Sympathy"
+  bth_friendly_greeting:0 "A Warm Howdy-Do"
+
+  ######
+  ### Tooltips
+  ######
+  bth_unlock_military_branch_tt:0 "§gThis will §Gautomatically complete§! the focus §YThere Should Be No World Without Good§!, allowing us to better define our military.§!"
+  bth_refugee_focus_unlock_tt:0 "§gThis will §Gautomatically complete§! the focus §YEveryone Deserves a Home§!, allowing us to gather refugees from some nearby fallen nations.§!"
+  bth_defined_military_tt:0 "§gWith our military means now defined, §Gwe may now continue our focus tree--§! unless we now answer to the Brotherhood.§!"
+  bth_saul_choice_tt:0 "§YSaul§! must §Rmake his choice§! for this to have an effect."
+  bth_approach_saints_unlock_tt:0 "The focus §YApproaching the Saints§! is now §GAvailable§!!"
+  bth_american_angels_tt:0 "§Y[HVR.GetFlag] [HVR.GetNameDefCap]§! will be §Gless likely§! to act §RBelligerent§! towards us.\n\n§YRhianna§! will also become more §GReceptive§! towards the teachings of §YElizaveta§!."
+  bth_rhianna_friend_tt:0 "The focus §YA Land of Outcasts§! will have §GAdditional Effects§!!"
+  bth_spawn_units_tt:0 "Spawn §G2§! §YInfantry§! divisions composed of §Y[HVR.GetAdjective]§! refugees."
+  bth_previous_actions_tt:0 "§gBecause of our previous actions, this focus will also grant the following effects:§!"
+  bth_add_characters_tt:0 "§gAdditionally, the following characters will join us:§!"
+  bth_saints_spawn_tt:0 "Spawn §G3§! §YInfantry§! divisions composed of §OArchie's Saints§!."
+  bth_add_field_medics_tt:0 "Add §YField Medics§!, which grants (£GFX_unit_category_medical_support_icon_small Medical Support Units: £GFX_trickleback_texticon Trickleback: §G+10%§! £GFX_xp_lost_texticon Exp. Loss: §G-10%§! £GFX_org_texticon Organization: §G+20.0§!"
+
+  nf_ruminators.1.t:0 "A Quiet Little Place"
+  nf_ruminators.1.d:0 "The quaint area was once a campground and naturalist resort. Before annihilation, the land was lush with forests, wildlife, bodies of water, and natural cavern formations, with cozy lodges, cabins, and private summer estates scattered about. The grounds were topical for vacationers, naturalists, birdwatchers and lake loungers. \n\nA park ranger organisation protected the grounds from poachers and ne'er do wells. Often they came into conflict with the fraternity who shacked up in their fancy golf club estate every summer. \n\nBesides being a natural reserve, The Stretch was renowned for its meteor showers and impeccable night skies for stargazing. Nobody knew why, but the land was a magnet for wayward comets. One in particular struck the park grounds— strange and irradiated— and it mutated the local insects overnight. While most of these mutated insects were whisked away by researchers, the park rangers kept a few of their own. Namely, the Bioflies. \n\nThe Bioflies were trained and used by the park rangers. They served as both a tracker, a guiding light, and beacon for lost hikers and other park personnel. However, the Bioflies were attracted to organic matter like termites to wood. A solution to this, proposed by Taskmaster Rowan Everett, was for all park rangers to carry a small bottle of lavender scent. The lavender deterred the Bioflies from nibbling on the skin of the rangers, but not enough to be absolute repellants."
+  nf_ruminators.1.a:0 "For us, it would be home."
+
+  nf_ruminators.2.t:0 "Heart of Gold, Eyes of Stars"
+  nf_ruminators.2.d:0 "Led by the ever optimistic, smile-seeker Elizaveta, the Ruminators are a religious group devoted to the pre-war self-help book "Ruminating To Riches". Elizaveta encourages peace and bright-side thinking. Though young, Elizaveta is a natural leader; her innate charm strikes hearts and turns lives around. Her followers are compassionate as they are faithful to her. \n\nA key memory of Elizaveta's early life was reading. You could always find her with a book, nestled beside antiseptics and gauze. Born to nomadic doctors, Elizaveta was fascinated by helping others and the wonders of literature at any early age. She was raised by the notion that everyone deserved care—for when you're downtrodden, bloodied or battered in a hamper, you're no different than the next. \n\nBut her parents made as many faceless adversaries as they did friends. Spiteful enemies of a man her parents had saved burned their home, killing both her parents. Elizaveta was saved by a lonesome giant in hulking armour— that of MacArthur's Enclave, she would later learn. Taken to a nearby camp, she was nursed back to health by people she didn't know. \n\nShe was despondent to their kind words and ideals, until eventually, when Elizaveta could finally walk, she left in the dead of night with nothing but a pack and the simple clothes they had dressed her in. She wandered without stop—fuelled by the desire to outpace her thoughts. \n\nFate would then lead her to an abandoned campground with older lodges and facilities, and within she would find an abundance of an ancient text; Ruminating To Riches."
+  nf_ruminators.2.a:0 "That damn smile..."
+
+  nf_ruminators.3.t:0 "I Can Make You Whole, Part I"
+  nf_ruminators.3.d:0 "The storm was awful, but Archie loved awful. As the evening dragged on, the crackling storm crept closer from the horizon. It was all dull clouds and white bolts of something viscous, something hot and angry. Something at the curb of breaking, the leash just taut enough to feel the pain but not the relief— \n\n"You're live in ten, Archie," his broadcast technician crackled through his walkie-talkie. \n\nAh, and maybe that's where those thoughts end. Archie set down the drink he'd been nursing. The ice had long melted, leaving a watered-down concoction with much left to be desired, but Archie, with all things, liked to take his time. "Make it five," chuckled Archie. "Let's give the people something exciting." \n\n"Five?" An apprehensive remark. "Well, ah, we still need to—" \n\nA cry broke the peaceful quiet from the corner of his office. Archie cursed under his breath. "God, hey, bro I'm sorry I just gotta' cut you off for a minute—" in one swift motion, Archie pulled his .44 pistol from his belt and fired at the shadow huddled in the corner. \n\nIt was a warning shot—the bullet struck the drywall, but it was enough to reinstate the peace and quiet of his workspace. \n\nArchie combed his hair back with his hand, sighing wistfully. "Yet again, I'm sorry, man. Didn't mean to interrupt ya' like that," he chuckled, his grip on the walkie-talkie tightening ever so slightly. "But did I fucking stutter?" \n\n"N-No. No you didn't." There was an awkward cough. "Sorry, Archie." \n\n"Hey, keep your chin up, brother!" Archie clicked his tongue, grinning. "What's a Saint if he ain't on that uphill walk?" \n\n"A sinner," the technician replied. "And we can go in five.""
+  nf_ruminators.3.a:0 "Continued..."
+
+  nf_ruminators.4.t:0 "I Can Make You Whole, Part II"
+  nf_ruminators.4.d:0 ""Better a Saint than a sinner!" Cheered Archie. He got up from his seat once the gratifying chime of the live broadcast rang through the radio. Grabbing his mic, he paced the room with a playful swing in his step. "Good evening brothers! Hope you enjoyed that hour of Hit Songs From Beyond! That was a personal selection of favourites from yours truly! Now, to end the night, I've got a surprise for everyone..." \n\nTugging the cable from his desk, Archie skipped towards the huddled figure at the corner and raised the mic towards them. The sorry bastard shied away. Archie sighed, shaking his head. He picked poorly tonight. That was on him. \n\nBut tough times called for quick solutions. He smashed his boot against what he assumed was an ankle—the cracking of bones and screams satisfying all the same. \n\n"That's right!" He chuckled, pulling the mic back to himself. "It's a Scarlet Saturday, folks! So lay back, get comfortable, and let the soft sounds of righteousness ease you to sleep." \n\nArchie took a step back to place the mic on the ground. He then walked over to his golf bag and pulled out a club. After a moment of inspecting the polish, he hauled the bastard from the corner and settled him on a lay of newspapers. He learned this trick from the last time— blood just doesn't get out of hardwood flooring. \n\n"Now, folks, listen here," grinned Archie. "No matter what hole you crawled out from, everyone has a place here with the Saints!" He readied his club as if he were out on the trimmed fields. "While we're patient and forgiving, step on our shoes one too many times and, well, I'll let you find that one out in a few seconds." \n\nArchie closed his eyes and pulled the club back. He imagined a pleasant day and an endless expanse of rolling hills and little ponds. At the centre of his vision was the winning cup; a chalice overflowing with a radiant light. \n\nAnd then he swung."
+  nf_ruminators.4.a:0 "Hole in one."
+
+  nf_ruminators.5.t:0 "The Discordance of the Firefly, Part I"
+  nf_ruminators.5.d:0 "The lanterns clipped around Saul's belt thrummed as he scaled up to the peak of the 	Lampyridaen Caverns. The Bioflies didn't like the chemical wildfires; that of which bloomed from the gaping chasms of the cavern and the land around. And to be fair? Neither did he. \n\n"Yeah, yeah, I hear you," he chided to the lanterns, giving a few a light tap. "We're almost there." The green light of the Bioflies flickered against the touch, but soon their rustling dimmed down. The peak of Lampyridean Caverns loomed over the valley. Though, per Taskmaster Rowan's preference, any opening that would have allowed light was draped over by woven blankets. The ceiling of the cavern here was swallowed by shadow, leaving Saul to wonder just how high it spanned every time he snuck a glance up. Taskmaster Rowan tended to a board where she wrung a chunk of hound meat with her bare hands. Saul cleared his throat to announce his presence, his gaze drawn to the hound's blood trickling into the Taskmaster's bowl. \n\n"No need to be a stranger," chuckled Rowan, her glowing eyes flickering up to him. \n\nThe corner of Saul's lip twitched. "I'm not trying to be." \n\nRowan scoffed lightly, though there was no malice in her ghoulish tone. "You sure are looking at me like one." \n\n"Well, maybe it's because of these." Lifting his arm, Saul pushed his cloak aside to reveal the additional Biofly lanterns strapped to his belt—all of which were not his own. \n\nRowan's shoulders slumped; the torn muscles in her face failed to capture anything crestfallen, but Saul knew what she was feeling. He always did, whether he liked to or not. "How many?" She croaked. \n\n"Six." Saul handed her the lanterns. One by one, Saul listed each fallen Firefly's name. Steadily, Rowan painted the names onto The Wall with the hound's blood. Afterwards, they released the Bioflies from the ownerless lanterns—some of the Bioflies flew up to the cavern ceiling, the others clung to the blood, illuminating the names of the fallen in a brilliant green glow."
+  nf_ruminators.5.a:0 "Continued..."
+
+  nf_ruminators.6.t:0 "The Discordance of the Firefly, Part II"
+  nf_ruminators.6.d:0 ""Cause of deaths?" Asked Rowan, her gaze fixated on the new names. \n\n"One—killed on a hunt. Probably a raider skirmish," he said flatly. "And the other five? Illnesses."\n\n"A shame..." Rowan murmured.\n\n"Yeah, it is," huffed Saul, "And how many more is it going to take?"\n\nRowan said nothing with her head hung low. She was mourning. When Rowan mourned everything around her would filter through like white noise. if Saul was in any better mood, he would have respected the silence. But he wasn't. He was angry. He was tired. He was over it. "How many more do I have to bring up here for you to realise that we're dying?!" He snapped and, for the better or for worse, Rowan glanced at him. "The chemical fire is spreading. It's killing us slowly." \n\n"The fires cannot reach the peak or the higher levels of the mountain. If you are so concerned I will ask our Wound-Carers to move the sick higher up," retorted Rowan. "Then, it will stop spreading." \n\nSaul's jaw clenched. "I'm not looking to die here, and neither should you." \n\n"I can't die and I won't," Rowan said, her gaze empty. "You want to see the world. All young people do, but when you grow older you'll realise this home is all you'll ever need." \n\nAnd then, Saul laughed—a surprise to both him and Rowan. "How many were before me?" He asked, anticipating an answer, but there was none. The silence told him everything. "I'm just going to be another name on this wall for you. And then, when you forget to rewrite my name with that blood, I'm gone. Isn't that right?" Before she could respond, he shook his head and cut her off. "You don't know what's better. And I'm not sticking around until you do." There was a risible heat in his ears, and before he knew it, he was walking away. His name echoed throughout the cavern—a strained plea, but his anger was livid enough to filter Rowan's voice out into nothing."
+  nf_ruminators.6.a:0 "Tragedy guided him."
+
+  nf_ruminators.7.t:0 "Ruminating to Riches, Part I"
+  nf_ruminators.7.d:0 "Where no one else could see her, Elizaveta turned to her books for comfort. But these texts weren't Ruminating To Riches. These were older books—ash stained from cover to back. And though she loved them so, she wouldn't be caught dead with them in her hands, not in this dire hour. \n\nElizaveta bit back a sigh as she brushed off the dust from what once was a cherry pink cover. 'Princess Rebel' the title leered at her right above an illustration of a princess pointing her sword to the sky. The Princess Rebel was a token from an older time where she wasn't Elizaveta of the Ruminators or the Smiling Girl. Back then she was just Eliza. Eliza with her two functioning hands and a head full of dreams. \n\nAt least one and a half of those things stuck around. \n\nBut the moment Elizaveta seated herself back down at her desk with her book, her mind began to race to unpleasant places. How could she waste time leisurely reading? The Saints were getting out of hand—their mischievous antics scaling up in violence. Yesterday they had their first death. That of which the Saints denied, of course, but devastating blows to the head don't just happen in the wild. \n\nNot to mention recent scout reports detailed new faces—leathered and unruly—creeping up near the borders... \n\n"Get it together, Elizaveta!" She snapped to herself, clapping her cheek lightly. "There's no bright side in this worrying! You just gotta unwind." she reached for her book and peeled open the cover. "A healthy mind leads to a happy world." \n\nAnd so she dove head first into her favourite whimsical tale with nothing but a pleasant smile and the pittering symphony of the rain outside her window... \n\n"Liza?" A soft voice called beyond her office door. Quickly did Elizaveta pin the voice to a face— Hazel. Tall, young, optimistic, cute freckles."
+  nf_ruminators.7.a:0 "Continued..."
+
+  nf_ruminators.8.t:0 "Ruminating to Riches, Part II"
+  nf_ruminators.8.d:0 "Elizaveta shut the book promptly. She wasn't sure what time it was or how long she'd been reading for. "Yes?" She called back, leaning her body towards the door. \n\n"There's a— uhm," Hazel clicked her tongue. "There's a guy outside who wants to talk to you. Says he's from the Lampyridaen Caverns." \n\n"The Caverns?" Elizaveta brisk walked to her door and pulled it open. Hazel stumbled back with wide eyes, though nodded frivolously. "We haven't talked to anyone from there in, well, ever. Why don't you bring him in? It's pouring outside!" \n\nHazel chuckled awkwardly. "Well, you see—" she tapped her fingers together. "He's got these weird bugs with him that's been sticking to the cattle and he kind of punched somebody on his way in." \n\nElizaveta blinked. "What? Who?" \n\n"Aster." Hazel winced lightly. "Aster also has him pinned in the square—everyone's got a gun pointed. She hasn't shot him yet because we need your call." \n\n"There must have been a misunderstanding!" Elizaveta chided lightly as she reached for her coat and slipped it on. "Actually—" Elizaveta spun on her heels to face Hazel, her grin widening at a newfound idea. "Get to the old community centre and make some cups of warm chocolate milk with that powder we found a while back." \n\nHazel nodded. "Right! Ah, how many?" \n\n"As many as you can! No doubt people will want seconds, or maybe thirds!" Beamed Elizaveta. She wagged a fist in encouragement. "This'll get that punch-in-the-face issue sorted. Now, go off!" Hazel nodded at the order and hustled away. Once the halls were clear, Elizaveta readjusted her coat and practised her smile. This night needed a happy ending, and she was going to ensure it."
+  nf_ruminators.8.a:0 "Happy days, happy days..."
+
+  nf_ruminators.9.t:0 "Cocoa & Green Beetles, Part I"
+  nf_ruminators.9.d:0 "Everyone was soaked to the bone by the time the dilemma was resolved. Elizaveta had ushered everyone into the community centre, scolding Aster for her short temper on the way there. "What?! But he started it," Aster scowled, gesturing vaguely to the stranger, who Elizaveta has come to know as 'Saul'. \n\n"And we should never respond with weapons," chided Elizaveta. "Someone else could have gotten hurt or worse, killed." \n\nAster guffawed lightly, though protested no further. She glanced over her shoulder, shooting a glare at Saul. \n\nThe man stared back at her, but said nothing. Though his gaze was blank—almost glazed—-Elizaveta could sense an underlying anger in Saul. An anger that was animus, and in a strange way, sad. She lagged a step behind to his side and uttered the first thing that came to mind; "Have you had chocolate milk before?" \n\nHe blinked to her, his intense stare unfaltering. "What?" \n\nElizaveta flushed at the curt reaction. This would be a tough frown to turn upside down. "I'm going to take that as a no," she beamed. "It's great stuff, I'll tell you that! I think you'll love it. It tastes like chocolate, if you ever had it, which I assume you haven't—that aside, it's also creamy! Good both hot and cold." \n\nHe blinked again. Saying nothing this time, but Elizaveta could just hear the 'what?'' burning to be reiterated. \n\nHazel stared wide-eyed as the group entered. She had just finished brewing her second dozen of drinks. She got to work in distributing the cups, and each sip warranted a happy sigh. A hot brew for weary Ruminators beat nothing else."
+  nf_ruminators.9.a:0 "Continued..."
+
+  nf_ruminators.10.t:0 "Cocoa & Green Beetles, Part II"
+  nf_ruminators.10.d:0 "Though the concern over the stranger triumphed. The community centre was quiet. Awkwardly quiet. It deterred Elizaveta none, however, who found her smile again in her success at managing two cups of warm chocolate milk in one hand. \n\n"Are you sure you don't need help?" Hazel asked over her shoulder. \n\n"Worry not, Hazel! Elizaveta's got this under control," chuckled Elizaveta as she scurried over to Saul. "Here, Saul, try this." \n\nSaul stood guarded. His arms were crossed and hugged to his chest. He peered at the cups apprehensively. Elizaveta understood the look. She'd seen it before in Aster when they first met. \n\nAnd so, Elizaveta took a sip from both cups, sighing lovingly at the taste. "See, ain't nothing wrong with these," she said, offering a cup to him again. Saul's posture softened and slowly, but surely, he accepted the cup. \n\nElizaveta watched with a grin as Saul took the first sip, then another, and then another. Her smile widened as he looked up to her, slightly flustered, and murmured; "It's good."\n\nThe night was young, but Elizaveta knew she had it back in the palm of her hand."
+  nf_ruminators.10.a:0 "And so friends were made."
+
+  nf_ruminators.11.t:0 "And Then, There Were Fireflies"
+  nf_ruminators.11.d:0 "From the ashes of the Park Rangers came a new group: The Fireflies, a reclusive group of nocturnal hunters led by Taskmaster Rowan. Once a park ranger leader, Rowan is an irradiated ghoul from when the bombs first dropped. She is among the last of the park ranger personnel and has passed her skills to stragglers adopted into the group. Rowan leads by the principle of keeping to one's self. She sees the world as bleak and unforgiving, believing that the caverns are the only home anyone needs. \n\nThe Fireflies have developed their hunting expertise and culture around Bioflies; fireflies mutated by a radiated comet that struck the park grounds. Every Firefly has a specialised lantern used to contain their Bioflies. Additionally, the Fireflies douse themselves in a lavender-smelling repellent to ensure the Bioflies don't stick onto them. \n\nFor years, they have kept the lands outside safe-- whether its residents are aware of it, or not."
+  nf_ruminators.11.a:0 "Like angels in the night..."
+
+  nf_ruminators.12.t:0 "Along Came A Man With Ambition"
+  nf_ruminators.12.d:0 "Archie is a charismatic man with a psychopathic edge, and is the founder and self-proclaimed Alumnus, or leader of the Saints, a raider group nestled in an old golf country club estate. Among the riches plundered from the estate were old fraternity how-to holotapes, that of which Archie spreads and lives by like an otherworldly law. \n\nBorn into a separate raider group as a nobody— nameless as he was neglected— Archie broke away in search of his own legacy. He found it in an old country estate surrounded by fields of impeccable green, plastic grass and faded pylons. \n\nThe estate wasn't empty when he arrived, however, another raider group had claimed the estate theirs. Unsatisfied with the life of followership, Archie challenged the leader to a classic showdown for control. Death, to him, was the least of his worries. He won brutally and his first order of business, afterwards, was to establish a higher quality of life. \n\nHis compelling personality came after discovering the holotapes left behind by the fraternity who owned the estate. He modelled himself after the author of the tapes, Archie Lancaster, and wrung the others into the fraternity cult-personality. \n\nTo further his fraternity agenda, Archie broadcasts daily— his content and bloody showcases earning him favour and reputation among other ne'er do wells of the Stretch. Whether you want to or not, you know his name-- and if you're particularly unlucky, a friend of yours might have been on his show, too..."
+  nf_ruminators.12.a:0 "Don't change that channel!"
+
+  nf_ruminators.13.t:0 "They Travel in Style"
+  nf_ruminators.13.d:0 "Hazel burst into Elizaveta's moonlit study, heaving as she tried to find her breath once again. "Liza! Liza!" she called, throwing her hands up. \n\nElizaveta's eyes widened with a rapid set of blinks, "Hazel, sit down-- what's wrong?" \n\n"Balloons! Big ones-- flying to the east!" \n\nShe felt her heart twist. Did she mean blimps? "Show me," she said, a steady confusion building in her. \n\nStepping out, a crowd had already gathered in the streets-- everyone watching on with curiosity as lights from the dirigibles beamed down on the night-stricken Montanan frontier. \n\nHazel tugged at Elizaveta's arm. "What do we do?!" \n\nElizaveta was unsure of what exactly could be done-- but she wasn't one to turn down newcomers if she couldn't help it. "Let's send them a welcoming party." she said, a smile slowly building as she adjusted her coat pin."
+  nf_ruminators.13.a:0 "Hopefully they're friendly?"
+
+  nf_ruminators.14.t:0 "Strangers from this Strange Land"
+  nf_ruminators.14.d:0 "Siegfra's Report: \n\nElder, \n\nA contingent of cultists calling themselves 'Ruminators' have arrived on our doorstep, carrying with them what they claim to be 'welcoming baskets.' Upon further questioning, they're from a town called Rosebud west of here, and seem generally cooperative-- though who's to say it isn't a facade? \n\nI'm at a loss and in need of your guidance. What do you think we should do?"
+  nf_ruminators.14.a:0 "Send them away-- we aren't here to make nice."
+  nf_ruminators.14.b:0 "Welcome them. We've no reason to be cold."
+
+  nf_ruminators.15.t:0 "The Brotherhood of Steel"
+  nf_ruminators.15.d:0 "The contingent of Ruminators sent to investigate the blimps have returned unscathed, thankfully. The unfortunate news rather is that Fort Verity has fallen under occupation of the so-called 'Brotherhood of Steel,' and they seem somewhat hostile in intent. Their answers were evasive and our entry into the city was limited."
+  nf_ruminators.15.a:0 "Well, they can bite my--"
+
+  nf_ruminators.16.t:0 "The Brotherhood of Steel"
+  nf_ruminators.16.d:0 "The contingent of Ruminators sent to investigate the blimps have returned unscathed, thankfully. The new inhabitants are friendly, and were willing to cooperate with us."
+  nf_ruminators.16.a:0 "D'Aw..."
+
+  nf_ruminators.17.t:0 "Of Songbirds and Sisters"
+  nf_ruminators.17.d:0 "Minerva's Report: \n\nHonour, \n\nSome locals have arrived in Fort Verity, and they were wanting to get acquainted with us. They're very kind, and are willing to take a letter!"
+  nf_ruminators.17.a:0 "Hm. Let's see what they have to offer."
+
+  nf_ruminators.18.t:0 "They Worship America, Part I"
+  nf_ruminators.18.d:0 "Elizaveta recognized it swiftly, though she knew it wasn't quite right-- that old-world flag waving with gentle rage in the wind, made by broken people who had never seen it flown properly. She approached the new convention, hands clasped, and heard a speech being given in at one of Rosebud's old gas station lots.\n\n"Ladies and Gentlemen of Montana, do you not feel the angel America's tears on your cheeks? Have you forgotten that it was her womb who saw us through the nuclear fallout? Or do you merely walk around with negligent minds and broken hearts?" she asked, her fist raised in a rousing manner. "I offer you all an opportunity to stand side-by-side with me, and bring about vengeance in America's name. We must clean the world for her return, lest we all be destroyed in her wake!"\n\nElizaveta continued listening to the woman's ramblings with a growing unease, hands clasped tighter and tighter as the woman's calls for violence grew louder and louder. \n\nWhen the woman was finished with her speech, Elizaveta met her as she was gathering her things-- the woman's face was red with war paint, complimented by the fire in her blue eyes."
+  nf_ruminators.18.a:0 "Continued..."
+
+  nf_ruminators.19.t:0 "They Worship America, Part II"
+  nf_ruminators.19.d:0 "Elizaveta smiled wide. "Hello! My name is Elizaveta. I was wondering if you were free for a chat?" \n\nThe woman's brow softened. "My name is Rhianna. Rhianna Robertson," she said, eying Elizaveta up and down with a tinge of childlike curiosity. "What did you want?" \n\nElizaveta's hands were clammy with nervousness, but she steeled the residual confidence in her heart. "I was wondering about your speech-- you spoke a lot about things like 'vengeance,' and 'cleaning the world.' I was wondering what you intended." \n\nAn eagerness flared in Rhianna's eyes. "It's simple. America suffered a great deal at the hands of people like the Enclave-- and I want to make sure we're prepared. So long as there are naysayers, she can never return to the world." \n\nElizaveta nodded. "Why do you want America to return?" \n\n"Because she is the emblem of a time where things were better-- when God's grace touched the land instead of warping it. You know, before folks started talking about stuff like Atom and caps." she spat to the side with disgust. "When decency ruled over... All this." \n\nElizaveta tilted her head in thought. She knew that Rhianna's heart was potentially in the right place, but officially inviting the Cult of Liberty into Rosebud as mainstays could pose more issues than she could solve."
+  nf_ruminators.19.a:0 "She had Saul ask Rhianna to take her ideals elsewhere."
+  nf_ruminators.19.b:0 "She invited the Cult of Liberty to stay."
+
+  nf_ruminators.20.t:0 "Rhianna's Dilemma"
+  nf_ruminators.20.d:0 "Rhianna had been pacing for almost an hour waiting in anticipation of her latest appointment with Elizaveta. How had she become so entangled in this? Carver wouldn't be happy with her 'extended absence' from her preaching in Havre, and she wasn't happy about it, either. Or was she? She had stayed for a reason, or so she thought... \n\nHer brain was washed of its anxieties and replaced with newfound joy as Elizaveta's door opened. The Ruminator stepped out, leaning down to put down a doorstop down as she exclaimed. "Oh, wow! You're early!" she said, staring at Rhianna with dumbfounded glee. \n\nRhianna didn't dignify her-- at least, not immediately. Her first words were stumbled. "Yes, I've been... Curious." \n\n"About?" asked Elizaveta. \n\n"This movement of yours. The Ruminators." \n\nShe tilted her head in response. "What's so confusing?" \n\n"Why do you care?" \n\n"About?" \n\n"People." \n\nElizaveta pondered her response for a second or two, beginning slow. "Well, I don't imagine it's too different from why you want America to return, really. We just want the world to be a better place." she said, the corner of her mouth curling into a tired smirk. She reached under the desk, taking a book from her drawer and handing it to Rhianna. "Here. This is where I got started, if you're interested.""
+  nf_ruminators.20.a:0 "And interested she was."
+
+  nf_ruminators.21.t:0 "A Beautiful View"
+  nf_ruminators.21.d:0 "Elizaveta was in the midst of one of her daily walks when she came across something wonderful: a painting of Rosebud on an old brick wall, with the watchful eye of what she could only presume to be America watching over it dilligently. Beautiful vermillions were laced with intricate scarlets, all dancing around brilliant blues that all met upon one place: the town center, whereupon a golden smile reigned supreme. \n\nShe was too enraptured by the work to notice Rhianna meekly approaching. "You weren't supposed to see it yet," she said, her voice mousey and small. \n\nElizaveta turned to her, a slight gasp of laughter escaping her lip. "Rhianna-- you did this?" \n\n"I'm not finished yet." she said, a look of panic in her eyes. \n\n"It's wonderful!" Elizaveta said, grabbing her and pulling her into a tight hug against her will. "This is amazing. Amazing!" Elizaveta repeated, gesturing wildly at the wall. "How long have you been painting?" \n\n"I only started recently," Rhianna gulped, clearly having not expected such a positive response. \n\nElizaveta leaned in, her smile warm and her eyes soft. "You're a natural." she gently held Rhianna's hand, squeezing it firmly. "How would you like to paint the inside of the town hall?" \n\nRhianna's mouth opened into a gasp; a wheeze of shock-- and then she began to cry tears of joy."
+  nf_ruminators.21.a:0 "If she wasn't in before, she was now."
+
+  nf_ruminators.22.t:0 "To Elizaveta, With Haste!"
+  nf_ruminators.22.d:0 "Dearest Elizaveta, \n\nHello! I have heard news of your 'Ruminator Movement,' and wanted to send my own form of good tidings with a small group of my fellow Historians. Word of your joyous deeds has reached people as far east as the Missouri, and we are overjoyed to hear things are going so splendidly!\n\nGreetings aside milady, I wanted to clarify that should you allow them my friends will help show your folks new tricks and such. You'll be able to can things--" The letters seems scribbled, "Store food more effectively and even be able to produce your own better. \n\nPlease, if word reaches you, write me back. I would so love to hear how it all fares for you! \n\nYours truly, \n\nWilliam Goodwin"
+  nf_ruminators.22.a:0 "What an odd but sweet letter!"
+
+  nf_ruminators.23.t:0 "Ruminator Radio, Online!"
+  nf_ruminators.23.d:0 "Saul stared up at the new radio tower with his hands firmly digging into his waist, releasing a thoughftul hum as he did so. \n\nElizaveta furrowed her lip with amusement as she approached. "Lost in thought?" \n\nHe turned to her, tongue-in-cheek. "Just thinking about what that thing's going to be broadcasting." \n\nElizaveta placed her fingers on her chin, tapping it thrice. "I figured music and readings of Ruminating to Riches would be enough, but what did you have in mind?" \n\n"Self-defense tips. Raider location updates. The sort of stuff someone might really need to hear out in these parts." he shrugged, "Especially with the Saints being... Well, themselves lately." \n\nElizaveta frowned. "That would be important, but..." she bit her lip. "Sometimes people just need something to use to feel good, right? Something to remind them the world isn't so bad. We manage without raider communique as is." \n\nSaul frowned. "People don't need their feelings coddled. They need to feel safe." \n\nSaul was firm in his wording, but Elizaveta wasn't sure. What did she decide?"
+  nf_ruminators.23.a:0 "People needed love."
+  nf_ruminators.23.b:0 "People needed help."
+
+  nf_ruminators.24.t:0 "Hoping for the Best"
+  nf_ruminators.24.d:0 "Just this morning a group of Ruminators arrived in our lands, bringing with them medicine and high hopes. They spoke to our people and tried to convince us to find a peaceful solution to our conflict over Mount Rushmore, but things are far too gone to even consider such a thing. Still, these visitors were nice, and their gifts appreciated."
+  nf_ruminators.24.a:0 "Hopefully things will get better."
+
+  nf_ruminators.25.t:0 "Riders Came Into Town Today"
+  nf_ruminators.25.d:0 "It was early in the morning when the roaring of car engines sounded off in the streets of Rosebud, spurring onlookers and wanderers alike to hide or expose themselves to what was happening. Raiders clad in formal wear and in working vehicles stormed the streets, hooping and hollering with ferocity as they waved about flaming banners. \n\nSaul was already in the street when they came by-- gun readied and snapping with each shot. Fearless as ever, he killed four before they departed-- but it was obvious to everyone that they were outmanned and outgunned It was only by choice that they didn't retaliate. \n\nSaul stormed into Elizaveta's office, hands slamming down onto the desk. "We need to do something about them." \n\nElizaveta scrunched her face, eyes darting to the side. The Jacksons had never been so aggressive before-- what had changed? "Maybe there's a chance we can talk to them?" she asked, unsure of it herself. "They aren't monsters." \n\nSaul leaned in. "Are you sure about that?" \n\nShe was firmer this time. "Nobody's a monster-- not really, anyway. Everyone has a person inside them." \n\nSaul groaned, "Please, don't go on about this now. People could have died. What, are you're going to say the Saints aren't so bad next, too?" \n\nShe opened her mouth to speak, but then she stopped. An idea was forming, though she wasn't proud of it..."
+  nf_ruminators.25.a:0 "The Saints..."
+
+  nf_ruminators.26.t:0 "A Quiet Evening"
+  nf_ruminators.26.d:0 "Elizaveta had noticed the blood stain on the floors first, then the man in question. These weren't old blotches—she knew what old blotches were like; cakey. These were slick under the light. "Remember to keep it cool," she whispered to Saul. \n\n"I'm always... cool," he mumbled back. The Firefly's eyes were narrowed on the patch of blood, too. \n\n"I mean keep your weapons to yourself." \n\n"They took my stuff at the front," he countered, side-eyeing her. \n\nElizaveta bit her top lip, sharing the side-eye. "Knowing you, I—" \n\n"Now, what are you two whispering about?" Archie spoke up, grinning. There was a striking charm in his timber, but in it Elizaveta sensed an edge. Danger? Mischief? He sauntered towards them from his desk; he stood taller than both of them. "Come in asking for Archie's sweet time and you two ladies can't give him a nice hi?" \n\n"What?" Saul gruffed, his eyelid twitching. \n\nArchie blinked with a risible fluster, that of which he quickly made away with. "Lady and gentleman," he corrected, extending a hand to Saul. \n\nSaul immediately brandished his hidden knife. Elizaveta exclaimed, reeling back the Firefly before he could slash at Archie's vitals. "I'm so sorry," she nervously chuckled. "He's, well, not used to handshakes?" \n\n"No, no, darling, don't you worry," Archie said, failing to stifle his indignance. He stepped back to his desk, combed a hand through his hair, and straightened his prim vest. "I handle raiders for a living, Liza. I've seen deranged first hand." \n\nSaul had calmed down, though his glare and knife remained pointed at Archie. Elizaveta softly pulled Saul's hand down. "Right, shall we get to business then?" She asked. \n\nArchie smirked as he leaned back against his desk, unphased by Saul's silent threat. "Now you're talking my language, sweetheart.""
+  nf_ruminators.26.a:0 "Deal with the devil."
+
+  nf_ruminators.27.t:0 "Who is Alumnus Archie?"
+  nf_ruminators.27.d:0 "Elizaveta, \n\nyou asked me how I ended up doing what I was doing, why the Saints became what they were, and a whole other manner of questions. Well, for your 'posterity,' I figured it'd be quaint to put it in writing. After all, what good is history without legacy? \n\nWhen I was in Colorado many years ago, a woman took me under her wing-- a raider, which I doubt surprises you. She and her crew wore suits and called themselves as such, preferring to dabble in that sort of fine debauchery common folks fear as opposed to any sort of true 'raiding.' See where I got my passions? \n\nI jest. Once the Suits wore thin on me, I decided to carve out my own future; I traveled north, to here, where a small, nameless gang remained I challenged her for leadership, and won it fair-and-square in a knife fight. \n\nThe sort of things inside that I found-- those old tapes I've broadcasted for years-- they're fascinating."
+
+  nf_ruminators.28.t:0 "The Plea"
+  nf_ruminators.28.d:0 "Siegfra's hands were clammy, a tinge of nervousness uncharacteristic of herself flustering her typical stone composure into dust. She was bracing for the exact sort of conversation she despised-- the sort that came with demands, but ones made without authority. It was not so often she couldn't pull rank and ensure things went over well. As such, her entrance into Elizaveta's office began with silence and a scowl. \n\nElizaveta did not match her, giving her only a bright smile in exchange. "Good morning, Paladin! What's got you checking in today?" \n\nSiegfra crossed her arms, right eyebrow flicking up as she cleared her throat. "The matter of the day, Miss Elizaveta, is that your movement is unsustainable." \n\nElizaveta's expression dimmed ever-so-faintly. "How, do you think?" she asked, tilting her head. \n\n"You're spending all this time on chivalry, camaraderie-- but you've little means to defend yourselves besides, what, that boy and his band of silly rangers? If you intend to spread across Montana, then I suggest you reconsider your current course." Siegfra's eyes darted to the side, doubt risible in her tone. "I think... While your motivations have been nothing short of noble, and sound, that you are going to be met with a force who won't be so moved by them eventually." she cleared her throat once more, "And I would hate to see that.""
+  nf_ruminators.28.a:0 "Elizaveta knew she was right."
+
+  nf_ruminators.29.t:0 "Saul Makes a Stand"
+  nf_ruminators.29.d:0 "Saul was in a nervous frenzy. The Jacksons had done so much damage-- and how many of the Ruminators were able to fight? Pacifism wasn't feasible. Maybe three hundred years ago, but not now. If not raiders, then Khans, or worse would come for them, and who would be able to stand then? The Fireflies were so few in number that he knew they couldn't protect everyone, but Saul had a plan. All he needed was a bit of elbow grease, time, and Elizaveta's blessing. \n\nHe caught her in the midst of one of her writings, waiting for her to take off her cat-eyed glasses before he began. "Listen, Liz-- this isn't going to work." \n\n She blinked. "What is this in reference to?" \n\n"We can't do this-- this whole thing where we just hope our way out of Hell. The Jacksons were bad enough, but think about what's gonna happen if MacArthur comes out of those mountains. What if the Baron decides he wants a piece of Montana?" he gestured out through the window to the outside, "Anything can happen. We need to be READY for these sorts of things, instead of just smiling and ignoring the possibility" \n\nShe tapped her fingers on the desk, letting the quieted music play from the radio in the silence. Her next words brought relief to Saul."
+  nf_ruminators.29.a:0 ""I agree.""
+
+  nf_ruminators.30.t:0 "A Dance with the Devil, Part I"
+  nf_ruminators.30.d:0 "'Twas the time of the monthly jamboree, and Elizaveta found herself drinking merrily of punch and enjoying a small cookie when he caught her by surprise-- Archie looming faintly forward like a spectre, having emerged from the crowd stealthily. "Elizaveta, dear... Care for a dance?" As ever, he was smug, with cheeks haughtily puffed with self-importance, yet with bones that made him seem chiselled and immaculate. For a moment in that silence she was reminded of how his words hung with every sentence, and how he glowed beautifully in any form of light. If that wasn't terrifying enough, it was commonly agreed upon that even his voice could hold a room hostage all by itself. \n\nHe glanced to his watch, then back at her. "No time, then?" \n\nShe restored herself to her senses. "No," she cleared her throat, "Or, well-- yes, I'd love to! We've only spoken with regards to business. It'd be nice to just have some fun." \n\n"I'm rather good at that second part. Maybe I could teach you my tricks one day." he smirked, extending his hand. \n\nShe took it uneasily, allowing him to guide her out into the crowd. "Oh, no, I know plenty of ways to have fun," she chided dismissively, "Though, I had been meaning to ask you a few things, if that'd be alright." \n\nHe stopped the two of them in a semi-open spot inside the crowd, turning back to her and placing his hand on her waist to pull her in slightly closer. "Hit me." he said, opening his eyes wide as he guided her into a slow dance. \n\n"Why did you stay?" \n\n"In town? Why, because the alternative was staying in our old country club for an eternity; and while yes, the amenities were more than enough, there is a charm in this little town. Now, I have a question for you: why didn't you make us leave?""
+  nf_ruminators.30.a:0 "Continued..."
+
+  nf_ruminators.31.t:0 "A Dance with the Devil, Part II"
+  nf_ruminators.31.d:0 ""Because I..." Elizaveta paused, glancing down for a moment with risible embarrassment. "Because I wanted it to end." \n\n"Hm." Archie clicked his tongue, "Do you mean our little 'shows'?" \n\n"Yes. I didn't think you could be beyond redemption." \n\nArchie 's head fell back into a laugh, his shoulders shaking. "So, allow me to get this straight: I murdered someone every Saturday for fun, and you wanted to see if I was worth saving?" \n\nElizaveta felt herself shrink, her neck crinkling inward. "Yes." \n\nArchie smirked, his green eyes burrowing into her. "That's very sweet of you." he turned his head to the side, crooking his lip back at her. "And what about that boy?" \n\n"Saul." she corrected. \n\n"Yes, what about him? He certainly doesn't believe in me, but you value his counsel, do you not?" \n\n"I do." \n\n"So why is it that little miss Elizaveta of the Ruminators ignored her best friend and took a chance on a murderer like me?" \n\nIt took her a moment to find her bearings, but when she did, she did so as tall as she could keep herself-- still dwarfed by him, but not in confidence. "Because everyone deserves a second chance in the wasteland. None of us asked for this world, but we're here in it together. We should be open to people trying to be better if we want the world to heal." \n\nArchie nodded, furrowing his brow in thought. "Very well put. However, I have one last question...""
+  nf_ruminators.31.a:0 "Continued..."
+
+  nf_ruminators.32.t:0 "A Dance with the Devil, Part III"
+  nf_ruminators.32.d:0 "Archie's smile returned faintly, a slight weariness in his eyes. He leaned in to speak into her ear, breath hot and heavy as he did so. "What if I don't want the world to heal?" he asked, gently pushing her away with a bow. \n\nStunned, Elizaveta watched as he walked away, hands tucked behind his back as he disappeared into the crowd."
+  nf_ruminators.32.a:0 "That's not comforting."
+
+  nf_ruminators.33.t:0 "Saul's Discovery"
+  nf_ruminators.33.d:0 "Saul knew better than to trust the Saints. He knew Elizaveta didn't either, but what she had given them was the benefit of the doubt that their presence was more out of goodwill than anything else. \n\nHe didn't buy it for a second. Especially not when he caught onto where they went at night-- not all of them wanted to stay in town. He followed them to an old abandoned MANIFEST storehouse sat by one of the streams, where they went up to a guard and made their way inside. \n\nHe watched with binoculars from afar, biting his lip. Someone guarding a building out in the countryside was a great sign. \n\nHe stalked his way down below, knocking the guard out and creeping inside the storehouse. What he found next gave him tremendous pause. \n\nBox after box of bomb collars, all neatly stacked and ready to go. Questions like 'where did these come from' and 'who gave them these' fell out of mind in favor of 'what do I do about this'?"
+  nf_ruminators.33.a:0 "He had to warn Elizaveta."
+  nf_ruminators.33.b:0 "He needed to confront Archie."
+
+  nf_ruminators.34.t:0 "Siegfra's Request"
+  nf_ruminators.34.d:0 "Elder, \n\nAfter having some time to think on the 'Ruminators,' I was wanting to request that I go establish an outpost in their hosting in the interest of further collaboration. \n\nThey're friendly, and I think if we establish a rapport it will be greatly to our advantage in the region."
+  nf_ruminators.34.a:0 "Take some men and stay in touch."
+  nf_ruminators.34.b:0 "Let's keep to our own."
+
+  nf_ruminators.35.t:0 "The Brotherhood Sends an Attache to Rosebud"
+  nf_ruminators.35.d:0 "Elder Patrocolus of the Brotherhood of Steel has dispatched Paladin Siegfra to serve as a representative in Rosebud! They will help around and ensure that things go over smoothly for us!"
+  nf_ruminators.35.a:0 "This partnership will be most fortuitous!"
+
+  nf_ruminators.36.t:0 "The Broadcast"
+  nf_ruminators.36.d:0 "Hello, everyone. It's been a while since I did one of these, hasn't it? \n\nWell, let's waste no time. I know a great many of you are aware of how me and my Saints have been hanging out in Rosebud, but after giving it some thought... Well, it just doesn't seem like it was meant for us. It's all too... Friendly? No, there's a better word. How about 'unrealistic'? The wasteland-- even Montana-- these places aren't exactly the sort you can just get by on goodwill. You think the Enclave is going to be happy and shake Elizaveta's hand? I'm sure whatever's in "Chicago" will love her. That's' not even touching on those brutes in Wyoming, or those power-armored freaks in Fort Verity. \n\nIt's just unsustainable, you see. But never you worry-- Archie's going to spell it all out for you real soon. \n\nStandby for more details. Ta-ta."
+  nf_ruminators.36.a:0 "That doesn't bode well..."
+
+  nf_ruminators.37.t:0 "Warning Elizaveta"
+  nf_ruminators.37.d:0 "Saul wasted no time. As soon as he found the slave collars, he practically ran all the way back to Rosebud, ignoring every hail and greeting he was given as he slammed his hand to knock on her door. \n\nAfter a minute, a groggy Elizaveta opened the door, candle in hand. "Oh, hello Saul!" she said as cheerfully as she could manage, "Awfully late for a house call, isn't it?" \n\nHis explanation was rapid-fire and confusing, but she followed it well enough to know what he was saying. She did her best to hide her embarrassment-crossed-with-horror, but the slight shiver of indecision gave Saul enough context. \n\nHe placed his hand on her shoulder, "I can take care of it, if you want." \n\nShe nodded. "Please. I..." she bit her lip, "Gosh. I can't believe this." \n\nIf it were anyone else, his words would have been simple: I told you so."
+  nf_ruminators.37.a:0 "Continued..."
+
+  nf_ruminators.38.t:0 "Confronting Archie, Part I"
+  nf_ruminators.38.d:0 "Since being allowed into town, Archie had made his hosting at a pretty little repainted and refurnished house, having 'bought' it off of its previous resident (though Saul had his doubts about that) since his arrival. For a moment Saul deliberated on whether or not to break in or to make it a formal address, but he knew he had to be careful. Perhaps it was best to gauge the situation firsthand. \n\nHe knocked on the door. Silence.\n\nJust as his doubts began to manifest, Archie opened the door, still-clad in his traditional business attire. "Mr. Everett," he smiled, "To what do I owe the midnight pleasure?" \n\nSaul steeled himself. "I wanted to talk to you about some things." \n\nArchie raised a brow. "You want to talk to /me/? Well, that's a first, isn't it?" \n\nSaul hid his rage. "What do you like about this town?" \n\nArchie pretended to think for a moment. "Hm. That is a good question... Well, there is a lot to like. There's an energy here you can't get from anywhere else, really. It's very quaint. The parties, the people-- it's all wonderful.""
+  nf_ruminators.38.a:0 "Continued..."
+
+  nf_ruminators.39.t:0 "Confronting Archie, Part II"
+  nf_ruminators.39.d:0 "Saul's brow darkened. "But why are you here? You never showed any interest beforehand." \n\nArchie rolled his eyes. "Of course I didn't. You're all dead men walking." \n\nSaul's eyes widened. "Excuse me?" \n\n"I know you know what I mean-- I've seen it in you whenever you talked to her. You think she's a child who doesn't know what she's getting into, and you're right. The wasteland is not a very nice place." \n\n"Get to the point." \n\n"Right, right... Well, let me put it as succinctly as I can, Mr. Everett: we all need a good old fashioned reality check, don't we?" he smirked, leaning up against the doorframe. "See you at the next jamboree, hm?""
+  nf_ruminators.39.a:0 "Continued..."
+
+  nf_ruminators.40.t:0 "Confronting Archie, Part III"
+  nf_ruminators.40.d:0 "Archie was a threat. Saul had been saying it ever since he showed up. Those collars just confirmed it. He didn't like to act behind Liza's back, but this was a threat he couldn't ignore anymore. She will understand, she had to. Especially after he shows her what the Saints’ had planned. Saul looked at Archie leaning against the doorway, that arrogant and smug smirk plastered all over his face.\n\n“No, I don't think I will.”\n\nBefore the smirk could even leave Archie’s lips, Sauls knife was in his throat. As Archie fell to his knees, his blood gurgling and sputtering out of the wound, Saul walked over to him and knelt down.\n\nSlowly, he pulled the knife out of Archie's neck, making sure that every artery and vein was cut. Archie attempted to cry out, but the only sound Saul heard was a bubbling cry. What a pitiful sight, he thought. As Archie fell to the floor, Saul stood and looked down at the raider boss.\n\n“Here’s your reality check.”\n\nSaul turned to leave, knowing now that Liza would finally be safe. And without a sound, the feared Alumnus Archie died in a pool of his own blood."
+  nf_ruminators.40.a:0 "So dies a monster."
+
+  nf_ruminators.41.t:0 "The Country House Monster, Part I"
+  nf_ruminators.41.d:0 "Saul looked down at the country club through his binoculars, counting the number of guards patrolling the building. The other Fireflies laid in wait around him, waiting for his signal to strike, their Bio-flies humming in their lanterns.\n\nWith a wave of his hand, the flies were unleashed, streaming down towards the raider guards, like a stream of blinking lights. The guards, caught unaware by the glowing assault, were quickly chased off by the Bio-flies, allowing Saul to lead his fellow Fireflies into the building.\n\nThe halls of the country club were surprisingly clean, for a raider base. The ancient lights flickered, bathing the Fireflies in uneven light as they stalked through the building. Saul knew that most of the raiders would be asleep at this hour, and that the carpeted floors would mask the sound of their footsteps.\n\nStill, he led the others slowly and carefully, watching out for the telltale signs of tripwire traps and grenade bouquets that raiders were often so fond of. A few raiders walked the halls, but they were quickly taken care of with a quick knife to the throat.\n\nCarefully, they made their way deeper into the club, towards Archie’s private room."
+  nf_ruminators.41.a:0 "Continued..."
+
+  nf_ruminators.42.t:0 "The Country House Monster, Part II"
+  nf_ruminators.42.d:0 "Standing by the door, Saul carefully pushed it open, grimacing as the old door creaked loudly. One of the Fireflies began to move in when a shot rang out.\n\nSaul watched them fall back, the sound of Archie's laughter filling his ears as he stared into the shattered remains of their face. More bullets flew out of the room, all while Archie mocked and taunted them, daring the Fireflies to try and take out the feared Alumnus Archie.\n\nSaul had had enough. Enough of Archie, enough of this building, and enough of these threats to Liza’s goals.\n\nWaiting for the sound of Archie’s gun running empty, Saul ducked out into the doorway, and saw Archie standing there trying to reload. With speed brought about by years of training, Saul raised his rifle, and with a single pull, ended the Monster of the Country House."
+  nf_ruminators.42.a:0 "Finally, we are safe."
+
+  nf_ruminators.43.t:0 "Time to Smile"
+  nf_ruminators.43.d:0 "Elizaveta watched the sun slowly hide behind a hill, its warm rays bathing everything in a beautiful orange light. It was peaceful, serene, and the sight of it every night always made her smile, even when times are tough. And they certainly were tough now, as she glanced towards the location of the Country House. Saul and the Fireflies were yet to return, and she was worried sick. When Saul had told her about the collars, Elizaveta felt like the greatest fool in the Wasteland. She had been warned time and time again, yet she insisted that she was doing the right thing. Saul always told her that she was too naive, too trusting in her ideals. The Wasteland is a cruel place, and all she wanted was to try and make it a little bit better. Elizaveta looked back towards the sunset, almost completely hidden by the hill at this point, and sighed. Was it even worth it at this point?\n\n A hand on her shoulder startled Elizaveta out of her thoughts. She turned and saw Saul, his normally hard face smiling down at her. Jumping up, she hugged her friend, knowing that it was done. The Monster was dead, the town she had worked so hard for was finally safe. No more threats, no more looking over their shoulders. Now, they could finally maintain what they had built. Letting Saul go, the two watched the final rays slowly fade away, as the cool night began to creep in. There, beside the person who had been there every step of the way, Elizaveta knew that it was indeed worth it."
+  nf_ruminators.43.a:0 "It was finally time to smile."
+
+  nf_ruminators.44.t:0 "The Half Smile"
+  nf_ruminators.44.d:0 "Elizaveta rushed around the hall, checking over everything for the fifth time to make sure it was all in order. She loved hosting these shindigs, but it would be a lie to say it wasn't hard work. Music, lights, drinks, snacks, all the essentials lined up in place and ready to go when at the usual time. Moving so quickly, she didn't even notice Saul till she almost ran him over. Through her many apologies, she asked him where he had been, having been practically missing for the entire day.\n\n“I was paying Archie a visit, no need to worry Liza.”\n\n“Oh! Has he finally come around? His last broadcast made it sound like he wouldn't be joining us tonight. Did you convince him otherwise?”\n\nSaul looked at her smiling face, the hope and kindness radiating off her like the rising sun over the hills. He couldn't tell her. She deserved better than knowing what he did in the Country House. Better the kind lie than the painful truth. He put on a small, half smile.\n\n“No, no. He told me that... he told me that he and the Saints were planning to move on. We shouldn't expect to see them again. Now, do you need help with anything here?”\n\nHer smile flickered slightly, before quickly bouncing back and pushing Saul towards some task to do. There was still much to do, after all."
+  nf_ruminators.44.a:0 "Much to do indeed."
+
+  nf_ruminators.45.t:0 "Hoping for the Best"
+  nf_ruminators.45.d:0 "Just this morning a group of Ruminators arrived in our lands, bringing with them medicine and high hopes. They spoke to our people and tried to convince us to find a peaceful solution to our conflict with [MCA.GetName], but their leaders have refused to hear their pleas. Still, these visitors were nice, and their gifts appreciated."
+  nf_ruminators.45.a:0 "Hopefully things will get better."
+
+  nf_ruminators.46.t:0 "Saints Spark a War!"
+  nf_ruminators.46.d:0 "Word came in the morning, having been passed from mouth to mouth until it finally reached Elizaveta’s ears. The Saints had, for all intents and purposes, started a war. They’d slipped into the Northern Khans territory and butchered one of their homesteads, making a real show of it according to the rumours. Their actions made Elizaveta sick and she politely but firmly cut off the Ruminator describing them, having heard enough. Already fighting was starting to intensify along the woodlands and smoke was rising on the horizon. On the radio however Archie was uncharacteristically quiet.\n\nElizaveta wasted little time in dispatching some of her fellow Ruminators to get better eyes on the situation. The last thing she wanted was a full blown war breaking out, or worse the Ruminators somehow being caught up in it all."
+  nf_ruminators.46.a:0 "Is There Anything We Can Do?"
+
+  nf_ruminators.47.t:0 "Saints Back Down"
+  nf_ruminators.47.d:0 "The fighting at the border, between the Khans and Saints, had finally died down. The Saints had abandoned the Woodlands entirely and the Khans chose not to pursue them any further. Archie had stayed silent on the airwaves about the whole affair but word had filtered back to the Ruminators regardless; the Saints had been slaughtered.\n\nElizaveta and her people felt the tension left as after a deep sigh. It had been a bloodier affair than they’d hoped but no one could really argue the Saints hadn’t brought it on themselves. A few hoped in private that maybe it all had taught Archie’s men a lesson. The most important thing however was that it was over."
+  nf_ruminators.47.a:0 "It’ll be peaceful now right?"
+
+  ################
+  ### Focus
+  ################
+
+  bth_the_stretch:0 "The Stretch"
+  bth_the_stretch_desc:0 "A place far from the troubles of the world."
+
+  bth_the_fireflies:0 "The Fireflies"
+  bth_the_fireflies_desc:0 "As times changed, the Park Rangers evolved with them, too."
+
+  bth_the_saints:0 "The Saints"
+  bth_the_saints_desc:0 "It was all fun and games... Until it wasn't."
+
+  bth_the_ruminators:0 "The Ruminators"
+  bth_the_ruminators_desc:0 "No matter who you are, no matter where you find yourself, you'll always have hope... Even if its buried. All you need is a little bit of encouragement."
+
+  bth_the_cult_of_liberty:0 "The Cult of Liberty"
+  bth_the_cult_of_liberty_desc:0 "The Cult worships an angel named 'America,' and seem to have a gross misunderstanding of what America actually was. They crave vengeance and are fueled by anger-- but with them in Rosebud, perhaps we can change their path?"
+
+  bth_american_churches:0 "American Churches"
+  bth_american_churches_desc:0 "The Cult of Liberty's presence in Montana is undeniable, and their so-called "churches" are really just weapons production facilities and firing ranges. Still, they aren't outwardly harming anyone as of yet. Perhaps we can give some oversight?"
+
+  bth_a_symbol_of_her_faith:0 "A Symbol of Her Faith"
+  bth_a_symbol_of_her_faith_desc:0 "Rhianna Robertson is a troubled soul, permeated by doubt and personal tragedy. There is much we can do for her, if we make the time for it..."
+
+  bth_listen_to_rhianna:0 "America's Boons"
+  bth_listen_to_rhianna_desc:0 "Be you in need of a weapon, then have no fear! Rhianna Robertson will give unto you exactly what you need. All you need do is but ask!"
+
+  bth_the_works_of_america:0 "The Works of America"
+  bth_the_works_of_america_desc:0 "The Cult of Liberty knows their stuff, and with our help, is more than happy to hand over their excess materials for our own usage."
+
+  bth_marshalls_and_tribals:0 "A Tale of Two Troubles"
+  bth_marshalls_and_tribals_desc:0 "The Four Fathers have long presided over Mount Rushmore, only striking out when in the ebbs and flows of their various rituals, otherwise remaining peaceful. Still, conflict with the Marshalls to the south led from one thing to another, and now they've lost their ancient grounds to the Republic. \n\nThe Republic itself does not wish for conflict, but due to their history, they won't budge either. All we can do is offer our best and wish them well."
+
+  bth_what_the_saints_do:0 "The Saints Did What?!"
+  bth_what_the_saints_do_desc:0 "The Saints have gotten themselves into a small bloody war with those Khan folks across the way, and it sounds like they deserve whatever happens. Innocent people might get caught up in it though, and it’s always better for people to be at peace! Elizaveta is on the job!"
+
+  bth_investigate_montana_chapter:0 "New Arrivals in the Northeast"
+  bth_investigate_montana_chapter_desc:0 "Blimps flew over Montana late in the night-- where are they going? Who's on them? Let's find out!"
+
+  bth_historians_arrive_in_rosebud:0 "The Historians Arrive in Rosebud"
+  bth_historians_arrive_in_rosebud_desc:0 "Word spreads of the Ruminators like a song on the breeze, and other likeminded folks send their best regards."
+
+  bth_helping_hands_from_historians:0 "Helping Hands"
+  bth_helping_hands_from_historians_desc:0 "The Historians here are more than happy to help us get production going on proper townly systems and get jobs going. Hearing them out and doing as they say will surely pay off nicely."
+
+  bth_ruminator_radio:0 "Ruminator Radio"
+  bth_ruminator_radio_desc:0 "The Historians want to help us spread our teachings across Montana and beyond, but we need to actually think about what we're going to be broadcasting! Let's get it set up and really consider what we're putting out there."
+
+  bth_two_movements_happily_intertwined:0 "Two Movements, Happily Intertwined"
+  bth_two_movements_happily_intertwined_desc:0 "The teachings of the Historians with our feel-good attitude have led to so, so much. Who's to know where it could go in the future?"
+
+  bth_approach_saints:0 "Approaching the Saints"
+  bth_approach_saints_desc:0 "The Jacksons are getting bolder-- perhaps the Saints will be able to help? Surely they're also in danger..."
+
+  bth_looking_ahead:0 "Looking Ahead"
+  bth_looking_ahead_desc:0 "With the Jacksons gone, everyone's wanting to know what the plan is-- what if someone attacks us again? How are we going to protect ourselves? We need an answer... But am I equipped to give it?"
+
+  bth_reach_out_to_yellowstone:0 "Reaching Out to Yellowstone"
+  bth_reach_out_to_yellowstone_desc:0 "The people of Yellowstone Park have lived peacefully for so very long. I've always wanted to visit... Perhaps they'd be willing to see us?"
+
+  bth_time_to_say_hi:0 "Saying Hi To The Neighbors"
+  bth_time_to_say_hi_desc:0 "Just across the way there’s some new folks just moving in, calling themselves the Khans. They seem pretty tough but like their hearts are in the right place. We should say hello and we can bring them a few copies of Ruminating to Riches!"
+
+  bth_a_place_for_everyone:0 "Everyone Deserves A Home"
+  bth_a_place_for_everyone_desc:0 "The wasteland can be a cruel place, but that doesn't mean we have to be. We'll make it clear that our lands are open for anyone and everyone who's willing to treat their fellow men and women with respect."
+
+  bth_khans_refugees:0 "Destroyed Once Too Many Times"
+  bth_khans_refugees_desc:0 "The Khans came to Wyoming seeking providence, and were met instead with deliverance. Some of them might be unruly, but that doesn't mean they don't deserve somewhere to stay!"
+
+  bth_metalmouths_refugees:0 "Metal's Mettle"
+  bth_metalmouths_refugees_desc:0 "Steel Joe couldn't save his gang from destruction. The Metal Mouths have been a source of ire for us for a very, very long time-- but they're gone, and the rest of them are fading into the breeze. Why don't we offer them a second chance?"
+
+  bth_havre_refugees:0 "A Land of Outcasts"
+  bth_havre_refugees_desc:0 "Between the Cult of Liberty and the Thieves Guild, Havre has been a place for the unruly to thrive-- both just far enough away from MacArthur to be off their raider and just far enough outside Safehaven's borders to prevent skirmishing. It seems that luck has finally run out, though, and the outcasts need a new place-- though we may want to have them look into different crafts, haha!"
+
+  bth_macarthur_refugees:0 "In the Land of the Free"
+  bth_macarthur_refugees_desc:0 "MacArthur has always been shrouded in eerie mythos-- the fortress in the mountains where the First Families and the Enclave play their reindeer games far away from prying eyes. It seems that such a thing has finally come to an end, however, and many of the personnel are looking for somewhere safe."
+
+  bth_jacksons_refugees:0 "The Last Jacksons"
+  bth_jacksons_refugees_desc:0 "The Jacksons tried to kill us, but they never meant to be out here. They never wanted to be outcasted. If we can make them feel welcomed, like they belong... Maybe there is hope for the family."
+
+  bth_brotherhood_refugees:0 "Achilles' Heel"
+  bth_brotherhood_refugees_desc:0 "The Montana Brotherhood, despite all their flash and awe, fell like bricks into the gentle Montana breeze. Let us offer them a hand!"
+
+  bth_yellowstone_refugees:0 "Hephaestus' Folly"
+  bth_yellowstone_refugees_desc:0 "The people of Yellowstone had always been kind to people. Though they no longer hold the park, they need not lose hold of their hearts."
+
+  bth_marshall_refugees:0 "The Republic's Finest"
+  bth_marshall_refugees_desc:0 "The Marshall Republic has always stood as a bastion of fine folk, the sort who just wanted the world to be a better place. They can make it better here, should they choose."
+
+  bth_four_fathers_refugees:0 "No More Fathers"
+  bth_four_fathers_refugees_desc:0 "They just wanted to go home. It's not the same, but we can offer them one in our stead."
+
+  bth_our_way_forward:0 "There Should be no World Without Good"
+  bth_our_way_forward_desc:0 "If a people cannot protect themselves willingly, then they are not a people-- just souls wandering the world without intention. We need to change... Or, at the very least, take a firm stance on our approach."
+
+  bth_listen_to_the_fireflies:0 "Listen to the Fireflies"
+  bth_listen_to_the_fireflies_desc:0 "Saul is a fiery spirit, but he knows combat and people better than any of the other locals. We will listen to him and see what he can teach us."
+
+  bth_scavenging_jacksons_equipment:0 "Scavenging Jacksons Equipment"
+  bth_scavenging_jacksons_equipment_desc:0 "Saul places a special emphasis on gear-- he believes numbers are mostly inconsequential compared to skill. He's suggested scavenging what we can from the Jacksons old stockpiles as a result."
+
+  bth_teachings_of_the_fireflies:0 "Fireflying Properly"
+  bth_teachings_of_the_fireflies_desc:0 "The Fireflies have long served as stewards and protectors of this land-- what say we let them show us how they did it for all these years?"
+
+  bth_rifle_acquisitions:0 "Greasing Rifles"
+  bth_rifle_acquisitions_desc:0 ""The gun is half the trick-- the other half is knowing where to shoot." --Saul A. Everett"
+
+  bth_old_park_ranger_tricks:0 "The Old Ranger Tricks"
+  bth_old_park_ranger_tricks_desc:0 "The Fireflies used to be park rangers, and it shows in their knowledge of the land passed down from generation to generation. They'll show us which plants to use and which ones to discard in field medicine!"
+
+  bth_reduce_reuse_recycle:0 "Know Your Enemy, and the Land He Walks On"
+  bth_reduce_reuse_recycle_desc:0 "The Jacksons spent years perfecting their riot gear in their quest for vengeance. Now, the Fireflies can put it to use protecting the people-- and hopefully, preventing anyone like the Jacksons from attacking us ever again."
+
+  bth_we_are_ruminators:0 "We Are The Ruminators"
+  bth_we_are_ruminators_desc:0 "We aren't fighters-- we never have been. That's never been the point of the movement. If we fight, we lose what made us who we are. We should focus on bettering peoples lives first and foremost."
+
+  bth_we_support_people:0 "Medicine Stockpiles"
+  bth_we_support_people_desc:0 "We have troves upon troves of medical supplies just waiting to be reviewed for use! Let's greenlight what works and get rid of the expired pieces. Lord knows we could use the help!"
+
+  bth_we_need_to_know:0 "Need-to-Know Basis"
+  bth_we_need_to_know_desc:0 "Between everything that has happened in Montana or will happen to Montana, we need to be ready. Maybe we'll be ready in terms of medicinal practice, or maybe it'll just be us knowing how to spot bad actors before they arrive in the area, but we need to know things ahead of time."
+
+  bth_service_with_a_smile:0 "Service with a Smile"
+  bth_service_with_a_smile_desc:0 "Our helpful demeanor and strict adherence to nonviolence where possible has turned a lot of good people our way. We will welcome them to the movement with open arms!"
+
+  bth_we_can_do_it:0 "We Can Do It!"
+  bth_we_can_do_it_desc:0 "What good is the movement if we aren't giving people quality of life? Let's start making houses-- the sort you used to see in all those old brochures. If we can give people a home worthy of their time, we'll never lose anyone!"
+
+  bth_build_a_house:0 "We Worked So Hard to Build A Little House Together"
+  bth_build_a_house_desc:0 "If you can give people money and a job they'll enjoy, you'll have their hand and their heart for forever."
+
+  bth_listen_to_siegfra:0 "Appealing to Siegfra"
+  bth_listen_to_siegfra_desc:0 "Siegfra, and by extension the Montana Chapter, have done nothing but help us since they arrived, asking only for bits of technology and such we find. Perhaps an appeal to them will help us secure our future?"
+
+  bth_the_machine_depot:0 "The Old Machine Depot"
+  bth_the_machine_depot_desc:0 "For years we left the old machine depot abandoned-- but with our furthered cooperation, Siegfra has shown an interest in fiddling with some of the old technology there. We can set up a small mission and help her!"
+
+  bth_a_gift:0 "That Sort of Midwestern Love"
+  bth_a_gift_desc:0 "Sympathetic to our appeal, Siegfra has begun training some of the Ruminators on how to defend themselves the Brotherhood way. Perhaps we'll have more Knights and Scribes than we expected after all?"
+
+  bth_working_with_what_we_have:0 "Working With What We Have"
+  bth_working_with_what_we_have_desc:0 "The Montana Chapter of the Brotherhood of Steel has limited capacity for growth, especially under such short notice. We can help them, though we only have so much we can share."
+
+  bth_finalizing_trade:0 "Finalizing Trades"
+  bth_finalizing_trade_desc:0 "With our growing cooperation, we've been able to optimize some of our production to suit both of our interests. Let's give them the good news!"
+
+  bth_trust_in_patrocolus:0 "Trusting in Patrocolus"
+  bth_trust_in_patrocolus_desc:0 "Patrocolus stood by us this whole time, watching over Siegfra and us. The least we can do is return the favor and pledge to the Brotherhood of Steel."
+
+  bth_our_future_secured:0 "Our Future Secured"
+  bth_our_future_secured_desc:0 "With our stances on militarization affirmed, we may now turn our heads back to the world at large."
+
+  bth_employment_programs:0 "Montana Employment Programs"
+  bth_employment_programs_desc:0 "We will open up recruitment all across Montana for people to come and earn their due! Everyone deserves a good job."
+
+  bth_reopen_the_scrapyard:0 "Reopen the Scrapyard"
+  bth_reopen_the_scrapyard_desc:0 "There's an old scrapyard outside city limits that we can 'retrofit' into a proper... Scrappery? Is that a good word for it? Ah, let's just let the hard-working people call it what they want."
+
+  bth_invite_companies:0 "Inviting Companies to Our Sandbox"
+  bth_invite_companies_desc:0 "Plenty of little fledgling companies dot Montana, in places safe and places not. Let's get them somewhere they can actually succeed and help develop!"
+
+  bth_eager_volunteers:0 "Eager Volunteers"
+  bth_eager_volunteers_desc:0 "So many people all across Montana would love to help out the movement."
+
+  bth_the_first_new_school:0 "The First New School"
+  bth_the_first_new_school_desc:0 "We will open the first new school in Montana since... Forever. At least, the first not in use by the Enclave."
+
+  bth_quality_teachers:0 "Quality Teachers"
+  bth_quality_teachers_desc:0 "Without people who know what they're talking about, then what is the point of our schools? We must ensure a good quality of education for the betterment of all!"
+
+  bth_elizaveta_gives_a_speech:0 "To Give a Speech"
+  bth_elizaveta_gives_a_speech_desc:0 "A present leader is a good leader. To see the people with your own eyes, and to give them your words as personally as you can, is the most important thing you can do to sustain a connected movement."
+
+  bth_we_believe_in_the_world:0 "We Believe in The World"
+  bth_we_believe_in_the_world_desc:0 "With the future of our movement's security better put in motion, we may move forward onto a bigger scale hitherto unexplored. It's time to assemble the better elements of the area and see if we can't make a proper, friendly conglomeration."
+
+  bth_community_presence:0 "Sense of Community"
+  bth_community_presence_desc:0 "People taking pride in their surroundings, participating in the events we put out-- that's all that matters. If the people's hearts are in it, then so will their hands and minds."
+
+  bth_repairing_the_water_pump:0 "Repair the Water Pump"
+  bth_repairing_the_water_pump_desc:0 "The water pump outside of town has been dysfunctional for some time after one of the Jacksons previous raids. Getting it fixed will be a great improvement for quality of life!"
+
+  bth_encouraging_craftsmen:0 "Encouraging Craftsmen"
+  bth_encouraging_craftsmen_desc:0 "How many people do you know that want to put their hands to work but have no means to get down in the dirt? Well, here in Rosebud, the only thing that can stop you is yourself. No raiders or tyrants here!"
+
+  bth_rosebud_development:0 "Rosebud Development"
+  bth_rosebud_development_desc:0 "We weren't always the most tidy-- neither was the town itself before we shacked up in it. Cleaning up will allow for better construction opportunities!"
+
+  bth_frontier_development:0 "Frontier Development"
+  bth_frontier_development_desc:0 "We have so much land for so many different things, but so little room in it we can use! With how many things are changing around here, we need space to grow!"
+
+  bth_invite_marshall_republic:0 "Invite the Marshall Republic"
+  bth_invite_marshall_republic_desc:0 "The Free States were anarchists who knew nuclear war was coming. Now, they serve as a bastion of civilization and reason in Wyoming-- why don't we walk into the future together?"
+
+  bth_invite_amgalan_khans:0 "Invite the Free Khans"
+  bth_invite_amgalan_khans_desc:0 "Amgalan and his 'Followers of the Apocalypse' much resemble our own thoughts on the world and hopes-- together, we could achieve so much!"
+
+  bth_invite_montana_chapter:0 "Invite the Sisters of Steel"
+  bth_invite_montana_chapter_desc:0 "The Sisters of Steel wanted to honor their ancestry and live without fear. We want that, too."
+
+  bth_invite_highland_watch:0 "Invite Highland Watch"
+  bth_invite_highland_watch_desc:0 "Word of the Highland Watch has always been heard in old western sonnets and songs, but with them on our fringes, we can extend a loving hand."
+
+  bth_a_conversation_with_archie:0 "The Jamboree"
+  bth_a_conversation_with_archie_desc:0 "A party every now and then is great for the people. Who doesn't love a good excuse for a potluck and a squaredance?"
+
+  bth_much_ado_about_saints:0 "What Are The Saints Up To?"
+  bth_much_ado_about_saints_desc:0 "Saul's been keeping an eye on the Saints for some time now, and while they may have Elizaveta fooled, he recognizes something's not quite right..."
+
+  bth_how_saints_roll:0 "The Alumnus"
+  bth_how_saints_roll_desc:0 "The Saints have never been good people. Do they want to be?..."
+
+  bth_protect_our_shipments:0 "Protect Our Network"
+  bth_protect_our_shipments_desc:0 "With recent strikes at our supply network, we ought to invest in proper protective services."
+
+  bth_tracing_the_shipments:0 "Saul's Run"
+  bth_tracing_the_shipments_desc:0 "Saul acts on his discovery with uncertainty..."
+
+  bth_fate_of_the_ruminators:0 "New World Hope"
+  bth_fate_of_the_ruminators_desc:0 ""Those who expect to reap the blessings of freedom, must, like men, undergo the fatigue of supporting it." --Thomas Paine"

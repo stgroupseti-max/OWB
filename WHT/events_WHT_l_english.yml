@@ -1,0 +1,166 @@
+﻿l_english:
+  nf_whitelegs_history.1.t:0 "The Tales of our Fathers"
+  nf_whitelegs_history.1.d:0 "Our shamans speak of the first people, those born in a world of smoke and ash. These people spoke the old tongue and carried trinkets and treasures from a time long past. They wandered the desolate lands, remnants of a world that had crumbled.\n\nOver time, the first people died out. Their stories and trinkets, mere shadows of a dead world, faded into obscurity. We had no want for them, for the White Legs, a tribe of survival, found little use for such relics. We let go of their tongue, abandoned their relics, and made our lives our own.\n\nA new world, for us.\n\nYet, one lesson from the first people seems to have stuck with us, a guiding principle passed down through the generations:"
+  nf_whitelegs_history.1.a:0 "The quick fox eats the rabbit."
+  nf_whitelegs_history.1.b:0 "The sly rabbit outwits the fox."
+  ########################
+  nf_whitelegs_history.2.t:0 "Survival of the Fittest"
+  nf_whitelegs_history.2.d:0 "For many years, we were not a fit tribe. Many, many of our flock perished for one reason or another. Disease, raids from the Eighties, even wild creatures. It was only when we began to surrender our connections to the old world that we began to truly thrive in this one.\n\nWe learned that survival demanded a ruthless ferocity, a shedding of past sentiments. Mercy became a weakness we could not afford. To endure, we had to adapt, to let go of the old ways and embrace the harsh realities of the wasteland."
+  nf_whitelegs_history.2.a:0 "Mercy is a weakness."
+  nf_whitelegs_history.2.b:0 "We did what we had to."
+  ########################
+  nf_whitelegs_history.3.t:0 "Winds of Change"
+  nf_whitelegs_history.3.d:0 "For years, we White Legs have ruthlessly killed missionaries and traders who dared to enter or even travel through our lands. To us, these outsiders were invaders, no different from the super mutants or the Eighties. The rise of the settled people, however, has filled us with a deep, gnawing terror.\n\nThe whispers of a god uniting the tribes of Arizona, the traders from the west yearning for our land, and the missionaries of New Canaan preaching their heathen god’s word—all these changes have stirred unease within our tribe. We fear a world that has no space for us, where there is nowhere left to run, no food to find, and only starvation awaiting us.\n\nSalt Upon Wounds sees these changes with dread. The threats to our people are many, and our desperation grows. The need for a solution, a way to secure our survival amidst the encroaching tide of settled peoples, has become paramount."
+  nf_whitelegs_history.3.a:0 "We prepared for the end of days."
+  nf_whitelegs_history.3.b:0 "We beseeched the gods for answers."
+  ########################
+  nf_whitelegs_super_mutants.1.t:0 "Mutants of the West"
+  nf_whitelegs_super_mutants.1.d:0 "Over a hundred years ago, with the demise of the Chief of All Monsters, the super mutants began to roam Utah in search of treasure, meat, and carnage. They sacked the homes of settled people, but the White Legs were crafty. Without permanent homes, they could flee as they pleased - stronger legs, faster runners.\n\nAs the super mutants dwindled and turned on each other, the White Legs pounced. They captured and killed the mutants, exploiting their chaos. These mutants did not have children, which the White Legs found odd. With each generation, there were fewer mutants. The fate of the captured super mutants was then decided by the White Legs of old."
+  nf_whitelegs_super_mutants.1.a:0 "They are a subordinate tribe, the 'Strongbacks'."
+  nf_whitelegs_super_mutants.1.a_tt:0 "\n The few remaining White Legs' super-mutants followers, the 'Strongbacks', arrive for battle."
+  nf_whitelegs_super_mutants.1.b:0 "We enslaved the Strongbacks."
+  nf_whitelegs_super_mutants.1.c:0 "Curse those monsters! We killed them!"
+
+  ########################
+  nf_whitelegs.4.t:0 "The Spanish Fork Armoury"
+  nf_whitelegs.4.d:0 "Our people will sing of this victory for generations! Ulysses led a band of warriors to the Spanish Fork, and broke in.  In a daring raid, cutting through the New Canaanites like brahmin for the slaughter, we broke into the fortress and escaped with hundreds, nay, thousands of weapons and ammunition. Now Ulysses is preparing to lead our people in the final battle. To war! To war!"
+  nf_whitelegs.4.a:0 "The tears in his eyes must be a sign of pride."
+  nf_whitelegs.4.a.tt:0 "You will gain 5,000 Storm Drums. Baika-good, fren!\n\n"
+  ########################
+  nf_whitelegs.5.t:0 "The White Legs Raid!"
+  nf_whitelegs.5.d:0 "Somehow the White Legs have managed to raid through our territory. We don't know where they struck, exactly, but militia forces that pursued them were repulsed by White Legs armed with powerful weapons beyond anything they ever used."
+  nf_whitelegs.5.a:0 "Even though I walk through the valley of the shadow of death, I will fear no evil, for you are with me."
+  ########################
+  nf_whitelegs.6.t:0 "Highway to Hell"
+  nf_whitelegs.6.d:0 "The [EHT.GetName] have been a thorn in our side for too long, but now they stand in the way of our destiny. [213.GetName] would give us a way to descend upon the Canaanites while they were ill-prepared. [WHT.GetLeader] must decide how to get control of this vital territory. Fortunately, it seems that the Eighties are preparing for the Great Road Trip, their epic plan to retake their home from [NCR.GetName].  They may be willing to part with this desolate strip of land."
+  nf_whitelegs.6.a:0 "Promise the [EHT.GetName] loot when we conquer New Canaan."
+  nf_whitelegs.6.b:0 "Trade goods for the lands."
+  nf_whitelegs.6.c:0 "Trade? I think you forget how many warriors we have."
+  nf_whitelegs.6.c_tt:0 "\nStarts a border war to seize the territory.\n"
+  ########################
+  nf_whitelegs.7.t:0 "Highway to Hell"
+  nf_whitelegs.7.d:0 "[WHT.GetLeader] has asked for [213.GetName] so they might attack the arrogant fools of New Canaan. Although we are loathe to abandon any land our wheels once rode, it is frankly worthless. Given that [WHT.GetLeader] has promised us riches and treasure from New Canaan instead, perhaps we should make this agreement."
+  nf_whitelegs.7.a:0 "Let them fight it out. We've got bigger plans."
+  nf_whitelegs.7.b:0 "Give up our marginal land with no strategic value?I think not!"
+########################
+  nf_whitelegs.8.t:0 "And the Walls of Jericho Came Tumbling Down"
+  nf_whitelegs.8.d:0 "[EHT.GetName] has agreed to give us [213.GetName]. We will owe them plunder from New Canaan, but that is but a trifle compared to the riches that await us."
+  nf_whitelegs.8.a:0 "And [WHT.GetLeader] entered and passed through Jericho."
+########################
+  nf_whitelegs.9.t:0 "The Eighties Spurn Us!"
+  nf_whitelegs.9.d:0 "[EHT.GetLeader] has refused to turn over Jericho and has dragged our messengers behind his car as a sign of his lack of respect. He has refused our generous offer and insulted the guest rite."
+  nf_whitelegs.9.a:0 "We will slash his tires and light the fires!"
+  nf_whitelegs.9.a_tt:0 "Unlocks a border war for Jericho."
+########################
+  nf_whitelegs.10.t:0 "The White Legs Offer Gifts"
+  nf_whitelegs.10.d:0 "[WHT.GetLeader] offers us gifts and tribute in return for [213.GetName]. He doubtless wants this province to use in a war with New Canaan, but his offerings will be useful for us in the Great Road Trip."
+  nf_whitelegs.10.a:0 "We can always use snacks for the road."
+  nf_whitelegs.10.b:0 "Go away or we'll run you over."
+########################
+  nf_whitelegs.11.t:0 "And the Walls of Jericho Came Tumbling Down"
+  nf_whitelegs.11.d:0 "[EHT.GetName] has agreed to give us [213.GetName]. We had to sacrifice some of our wealth, but we'll get it back and then some when we sack New Canaan."
+  nf_whitelegs.11.a:0 "And [WHT.GetLeader] entered and passed through Jericho."
+########################
+  nf_whitelegs.12.t:0 "Successful Slave Raid!"
+  nf_whitelegs.12.d:0 "[WHT.GetLeader] has led his people on another heroic raid. We have found new slaves to farm our land, and new conquests to warm our beds. And the nations  of the Wastes will always buy more slaves."
+  nf_whitelegs.12.a:0 "They shall be honoured to serve."
+  nf_whitelegs.12.a_tt:0 "\n [WHT.GetName] gains 200 slaves."
+# #######################
+  nf_whitelegs.13.t:0 "The Chief of Utah"
+  nf_whitelegs.13.d:0 "[CLK.GetNameDef] have been humbled.  The Tar Walkers have crawled to safety. And the people of New Canaan weep before their new master. But now the time has come for [WHT.GetLeader] to praise his warriors. Who does he thank most for his victory?"
+  nf_whitelegs.13.a:0 "The Father and Son, who favour his true followers."
+  nf_whitelegs.13.b:0 "Mighty Caesar, who taught us so much."
+  nf_whitelegs.13.c:0 "White Legs strode into New Canaan. Why praise others?"
+########################
+  nf_whitelegs.14.t:0 "From Ash, Bone and Salt, A New Chieftain Rises!"
+  nf_whitelegs.14.d:0 "The war camp stinks of blood, of old sweat and wood-smoke. A great fire roars in the center. Around it, the Nephite faithful chant in voices cracked and raw, reciting taboo scripture long forgotten by the world. At the heart of it all, Salt-Upon-Wounds kneels, his head bowed.\n\nA spirit-seeker of the Nephite faithful steps forward, his face streaked with the ash of burned scripture, his hands cradling a wreath of bone—carved from the skulls of New Canaan's dead, bound together with splinters torn from their shattered churches. He lifts it high and speaks:\n\n"Old world burned. Old Nephites slaughtered. Outman cut down, scattered like dust on wind. But fire not end all. No. From ash, righteous rise. From bone of outman, Zion take crown anew. From ruin, strength. From death, life again."\n\nThe spirit-seeker lowers the crown, staring into Salt-Upon-Wounds' eyes. The flames crackle behind him, their light dancing over the bleached bones of the dead.\n\n"You not just man. Not just chief. You be blade in Zion's hand, cut weak outman from land. You be fire, burn false, light path for strong. You be hammer, break chains, shape world in name of Ancestors. You be Zion, Flame-Upon-Wounds. Zion not place. Zion be war. Zion be judgment. Zion be you."\n\nThe wreath is placed upon Salt-Upon-Wounds' head. The White Legs howl their approval. Their warlord does not flinch. He does not move. But when he does rise, he rises as Zion itself.\n\nHe does not take a name. He becomes it. He is Zion, Flame-Upon-Wounds, and his tribe will carve Zion from the bones of the unworthy outman!"
+  nf_whitelegs.14.a:0 "Strike us down if you can!"
+########################
+  nf_whitelegs.15.t:0 "Proud to Serve"
+  nf_whitelegs.15.d:0 "The Legion's claws have sunk into the White Legs, as it has so many tribes before. The White Legs braid their hair in honour of Ulysses. They hide their women and no longer let them fight. They send slaves, youths, and the treasures of Utah to Flagstaff.  They have been conquered, but like so many before they did not realize it until it was too late. Step by step they were led to things which dispose to vice, the lounge, the bath, the elegant banquet. All this in their ignorance they called civilisation, when it was but a part of their servitude."
+  nf_whitelegs.15.a:0 "We should be proud of our newfound ways."
+########################
+  nf_whitelegs.16.t:0 "Ulysses Runs Away!"
+  nf_whitelegs.16.d:0 "Before New Canaan's fall, Ulysses had... changed.  He rambled that the walls of New Canaan were too proud for Caesar, and seemed to mock us for channelling the spirits in our guns. Instead of being proud to walk the Great Salt Lake as Caesar's eye, of our mighty conquests, he pretended we we were desperate to be part of someone else's story. At his command we killed women, children, mothers, the weak, and elders. We used the night, silence, and fire upon the New Canaanites. We gained dominion over Utah! And to him, this is a joke? \n\nBefore he vanished, he left a log, telling us that we were hungry ghosts, who bowed to the Legion like children, instead of recognizing what we have done. The fool forgot that the White Legs use the Legion just as the Legion uses us. And one wonders; if Ulysses is so ashamed for what he has done, why does he run away instead of fighting for what is right?"
+  nf_whitelegs.16.a:0 "Perhaps we mistook madness for wisdom."
+  ########################
+  nf_whitelegs.17.t:0 "The Treachery of [WHT.GetLeader]"
+  nf_whitelegs.17.d:0 "Although the [WHT.GetName] have promised to let us be for now, our scouts have made clear that [WHT.GetLeader] will strike at any opportunity.  Should we go to war, it is likely that the White Legs will try to slash our tires."
+  nf_whitelegs.17.a:0 "I cannot wait to run over their corpse."
+  WHT_are_assholes:0 "The White Legs are Arseholes"
+  nf_whitelegs.17.a_tt:0 "\n This will make future efforts to work with the White Legs difficult."
+
+  ########################
+  nf_whitelegs.18.t:0 "The Women of the White Legs"
+  nf_whitelegs.18.d:0 "Unique among the tribes of Utah, the women of the White Legs stand as free as men. But the Legion's advisors insult our women and claim only a weak tribe would let them fight. [WHT.GetLeader]'s daughter, Tears-in-The-Rain, has killed a centurion for touching her inappropriately. The Legion has demanded we apologize for this insult."
+  nf_whitelegs.18.a:0 "Apologize for not killing more of them!"
+  nf_whitelegs.18.a_tt:0 "\nThe Legion will see this as a grave insult, but what kind of savage behaves this way?\n"
+  nf_whitelegs.18.b:0 "Pay the blood price for my daughter."
+
+  ########################
+  nf_whitelegs.19.t:0 "Here Comes the Bride"
+  nf_whitelegs.19.d:0 "To our great surprise, Tears-In-The-Rain has decreed she will take a husband from among the Canaanites. She met him in an epic battle, and after a day sniping at one another from different positions, they were beset by a death claw and forced to fight together.  During the night he healed her wound and she shared her brahmin jerky, and, well. \n\nThe Canaanite has vowed to not take up arms against his wife's people, and in return, our daughter has agreed to marry him. What shall we do?"
+  nf_whitelegs.19.a:0 "If he's good enough for my her, he's good enough for me."
+  nf_whitelegs.19.b:0 "Grudgingly attend the ceremony."
+  nf_whitelegs.19.b_tt:0 "\nWhat, you think you can control a White Legs woman? She'll shoot us on sight!\n"
+
+  ########################
+  nf_whitelegs.20.t:0 "The Poems of Our People"
+  nf_whitelegs.20.d:0 "Outsiders call us savages, but we know that we are among the greatest poets of the Waste. One of our soldiers has composed a poem celebrating the conquest of New Canaan. \n\nThe chief in his coat \nof steel sets this gold coil,\nThis ring, upon my right arm\nWhere falcons have rested. \nThe gift hangs glowing, \nMy arm its gallows; \nhonour was earned \nthrough the feast of ravens."
+  nf_whitelegs.20.a:0 "Wise are his words, heroic is is heart."
+
+  ########################
+  nf_whitelegs.21.t:0 "Pay our Debts"
+  nf_whitelegs.21.d:0 "We have seized New Canaan, and as promised, we will give the Eighties a share of the plunder. Some would ask [WHT.GetLeader] to go back on his word, but the White Legs are a people of honour."
+  nf_whitelegs.21.a:0 "Ill is the man who breaks faith!"
+  ########################
+  nf_whitelegs.22.t:0 "The Wall of Jericho"
+  nf_whitelegs.22.d:0 "We have seized Jericho from the Eighties. Who will stand against us now?"
+  nf_whitelegs.22.a:0 "And the walls shall come tumbling down."
+  ########################
+  nf_whitelegs.23.t:0 "The Wall of Jericho"
+  nf_whitelegs.23.d:0 "Alas, the Eighties have held the walls of Jericho. We will need to take another path to hit New Canaan."
+  nf_whitelegs.23.a:0 "We shall avenge our honour one day."
+ ########################
+  nf_whitelegs.24.t:0 "Jericho Falls"
+  nf_whitelegs.24.d:0 "Somehow the White Legs drove our men from Jericho. Granted it's a useless salt pan, but still, those arseholes."
+  nf_whitelegs.24.a:0 "We'll get them one day."
+  nf_whitelegs.24_tt:0 "\n[213.GetName] will be transferred to [WHT.GetLeader]"
+  #######################
+  nf_whitelegs.25.t:0 "Jericho Stands!"
+  nf_whitelegs.25.d:0 "[WHT.GetLeader] will have to try again, because we have held Jericho against him and his men. The fool."
+  nf_whitelegs.25.a:0 "Suck and die, savage."
+  #######################
+  nf_whitelegs.26.t:0 "What We Learn in the Dark"
+  nf_whitelegs.26.d:0 "[WHT.GetLeader] drank the sacred tea, and waited in a cave for the sun to set. He stepped into the chill moonlight night, and saw the world as bright as daylight. The visions that came to him, of green men in saucers, black insects the size of men, and deathclaws in robes. But as he walked he headed towards a cleaning flame, and saw a yao guai on fire. \n\nSome would try to speak with the spirit, but that was never [WHT.GetLeader]'s way. The next morning, he returned to the warcamp with a new trophy. A good reminder that there was always one solution to all problems."
+  nf_whitelegs.26.a:0 "The tribe will remember this."
+#######################
+ nf_whitelegs.27.t:0 "Whose Child Is This?"
+ nf_whitelegs.27.d:0 "[WHT.GetLeader] listened to the two women before them.  They had lived in the same tent, wives to a warrior who was away on campaign. Both women had born him a daughter, but one of the daughters had died. 'Very well,' decreed Salt Upon Wounds. 'Can you not decide whose child this is? How do you not know your own daughter?' \n\n 'Oh Chief,' said one woman, it is mine, she had suckled at my breast. 'Oh Chief,' cried the other, 'she is mine, I have dried her tears.' And the Chief said, 'Let us stage a contest.' 'Yes, let us both pull upon the child!' said one woman. 'The one who loves it shall pull the hardest.' \n\n'No!' cried the other woman. 'Give her the child! I would rather lose it than see it harmed.' \n\nAnd [WHT.GetLeader] realized that the second woman was the true mother. However . . . \n\n 'One of you is the mother. But even in the best case, the true mother showed little care for a grieving woman in her house. I shall raise the child as my daughter. She shall henceforth be known as Dancing-Upon-The-Graves-Of-Her-Foes.'"
+  nf_whitelegs.27.a:0 "The tribe will remember this."
+  #######################
+  nf_whitelegs.28.t:0 "The Code of [WHT.GetLeader]"
+  nf_whitelegs.28.d:0 "[WHT.GetLeader] grew up in a tent, but he had no desire for his children to. To that end, after the conquest of New Canaan, he issued a set of laws inspired by Canaanite teachings, Legion recommendations, and tribal wisdom.  The Code of Salt was to play a pivotal role in the tribe's future, and these are some of his laws. \n\n2. In matters of inheritance, daughters and sons must receive equal shares. \n\n6. Leaders of a religion, preachers, monks, physicians, and those who burn the bodies of the dead are to be freed from taxes.\n\n15. No subject of the tribe may take a White Legs for servant or slave. Every man, except in rare cases, must join the army.  Women may not be denied entrance into the army. \n\n 20. Children born of slaves are legitimate as the children of wives. \n\n 32. It is forbidden to bathe or wash garments in running water during thunder."
+  nf_whitelegs.28.a:0 "The tribe will remember this."
+
+  #######################
+  nf_whitelegs.29.t:0 "Aid from the Legion"
+  nf_whitelegs.29.d:0 "The Legion has sent a trade delegation and advisors. This will provide valuable assistance to us, but it may give them a stronger say in our affairs. Will we sup with the Bull, or shall we walk our own path this time?"
+  nf_whitelegs.29.a:0 "Let us listen."
+  nf_whitelegs.29.b:0 "We walk on our own legs."
+
+  #######################
+  nf_whitelegs.30.t:0 "[WHT.GetLeader] Listens"
+  nf_whitelegs.30.d:0 "Salt Upon Wounds was kind enough to listen to our teachings and accept our offer of trade.  Good for him . . . but better for us."
+  nf_whitelegs.30.a:0 "A new field for combat."
+
+  #######################
+  nf_whitelegs.31.t:0 "[WHT.GetLeader] Rejected Our Aid"
+  nf_whitelegs.31.d:0 "Salt Upon Wounds was willing to listen to our offer, but he tactfully declined our assistance. He is willing to listen again in the future, however."
+  nf_whitelegs.31.a:0 "Perhaps he is smarter than we thought."
+
+  #######################
+  #nf_whitelegs.32.t:0 "The Light of the Lord"
+  #nf_whitelegs.32.d:0 "The [WHT.GetName] are called pagans by some, but they hold to the lessons of Christ in their own way. They follow the Gospel for a colder, harsher world. In the tales of the White legs the disciplies of Christ are like the band of a chieftain, not fishers of men. John the Baptist is brought up as a warrior-companion of Christ, and pledges to stand fast together with the Lord. For the White Legs, Jesus turned the disciples into a powerful force of many peoples, a holy army. And when Jesus dies upon the Cross, he descended into Hell to do battle with the forces of darkness. \n\nA harsh faith, but not, perhaps, a bad one for the Wastes. And when [WHT.GetLeader] listens to the tale of Samson in the Temple, perhaps he can see the similarities to the teachings of the Canaanites. \n\n"
+  #nf_whitelegs.32.a:0 "Amen."
+  #nf_whitelegs.32.a_tt:0 "\nYour Lord, Saviour Christ, from the city of Nazareth, \nHim whom the Legions of Rome did torture and nail to the cross,\nHim sinless they laid the grave. He himself is not there,\nBut he has arisen, and this place is empty.\nFor the boon of mankind, and many a bolt,\nWas unlatched on hell's doors, and the way to Heaven \nFrom the world was fashioned."

@@ -1,0 +1,69 @@
+﻿l_english:
+  nf_trr.1.t:0 "The Crown Rises"
+  nf_trr.1.d: "Long ago, when the bombs fell and the world was reborn, control of Canada was seized by the Canadian People’s Front, a communist guerrilla force dedicated to fighting the Americans since before the Great War. Their rule was harsh, leaving deep scars on the people of Winnipeg as their rights were pushed aside as the CPF focused on the reclamation of Canada. But when the CPF fell apart, and its eastern lands fell to warlords, the people cried out for a saviour. Out of the chaos came King Gunn I. Through either shrewd diplomacy or terror-inspiring threats, he brought all of Winnipeg, Manitoba, and more into his fold. And so began the long and storied reign of the Kingdom of Manitoba. \n\nFor a while, things were peaceful. Gunn served the kingdom well until his abdication, passing the reins to capable individuals; thus beginning the reign of King Brandon I, who continued to rule as Gunn I did. But as time moved forward,  and the Kingdom fell to decadence and greed, things turned dire."
+  nf_trr.1.a:0 "Our industry was mighty!"
+  nf_trr.1.b:0 "We still maintained a disciplined defense force"
+
+  nf_trr.2.t:0 "The Right To Be Wrong"
+  nf_trr.2.d: "The formation of the Republic of Three Rivers came forth when a collection of disillusioned members of Winnipeg united and declared independence from the monarchy. Thus forward, no more would they be ruled by a king. Their reasons were numerous. For some, it was the crown’s favouring of the elites of Manitoba, who feasted on lavish meals and left us to foot the bill. For others, it was the conscription of our troops to fight with the Métis Congress; what business of that war was ours? Manitoba believed they could take our loyalty for granted, but in our hearts, we remember who we always were: A people who cared deeply about their rights. Discontent grew, turning into resistance; and from resistance, came the war. A string of victories, one after the other. What started as a small rebellion, had evolved into something greater."
+  nf_trr.2.a:0 "Power comes from the people"
+  nf_trr.2.b:0 "No one can take from us anymore. "
+
+  nf_trr.3.t:0 "The Revolution Falters"
+  nf_trr.3.d: "Though the Republic plunged the sword deep into Manitoba, managing to even kill the current king, it could never finish the job. Complications arose as the forces of the Métis people were crushed by Langenburg’s Sword of the North, leaving the Three Rivers as the Coalition’s sole fighting force. Not wishing to push its luck, the Republic settled for an uneasy peace using its proximity to the kingdom's capital as leverage. Both sides knew war would come again. Until then; peace would reign.\n\nSeven years ago, a mercenary hired by the crown attempted to start a rebellion within Three Rivers to bring them back into Manitoba’s fold. The rebellion failed, soundly crushed by a soldier; Eloi Steele. Already a popular figure due to her heroic bravery during the war of the Republican Coalition, her popularity soared after stopping O’Brien and his gang. Recently being elevated to the position of president, she has already planned out the many changes she wishes to implement, including vanquishing the crown once and for all. \n\nIt won’t be easy for her. Both the King and O’Brien plot their revenge against the Three Rivers, whose internal politics grow increasingly dire as the common, monarchist enemy falters. Time will tell if the Republic can weather the coming storm."
+  nf_trr.3.a:0 "Whatever it takes."
+
+  nf_trr.4.t:0 "A Raid of Legend"
+  nf_trr.4.d: "[WPG.GetLeader] invited us to join their upcoming war with the Kingdom of Manitoba. should we do so? There will be rich hunting in those lands... but it might be disastrous for us."
+  nf_trr.4.a:0 "It's a heave ho, coming down the plains!"
+  nf_trr.4.a_tt:0 "\n§gYou will join the war. Hurray!§!"
+  nf_trr.4.b:0 "Absolutely not."
+
+
+
+  nf_trr.5.t:0 "Stealin Their Wheat and Barley And All the Other Grains!"
+  nf_trr.5.d: "[PAP.GetName] agreed to join any war we have with the Kingdom of Manitoba. Is this not wonderful?"
+  nf_trr.5.a:0 "It really is."
+
+  nf_trr.6.t:0 "The Pirates Who Don't Do Anything."
+  nf_trr.6.d: "[PAP.GetName] refused to join our war. What a waste. For us, I mean."
+  nf_trr.6.a:0 "It really is."
+
+
+  nf_trr.7.t:0 "Capturing the Great White Beast"
+  nf_trr.7.d: "They tell rumours, up north, of the Aurora. The airship forever prepared, and forever unready. A pre-war American airship designed to support the occupation, it coasted on autopilot for centuries after the bombs fell. The crew starved to death shortly after the war, but nobody told the machine where to land; so it did not. The rumours speak of a glittering treasure in the sky, secrets and riches from beyond the war. But no one could reach that vessel, always just out of reach. Until the Captain. \n\nNow we've made contact, and the Baron is the first aboard. Everyone who doubted him for so long will see they've made a terrible mistake- and what better place to make his new home? "
+  nf_trr.7.a:0 "What a lovely view."
+
+  nf_trr.8.t:0 "The Second Coalition"
+  nf_trr.8.d:0 "[WPG.GetLeader] of [WPG.GetNameDef] wishes to finally end the longstanding conflict between [BRA.GetNameDef] and the nations formerly under its control.\n\nTo this end, they have called upon the peoples of Manitoba together to form a coalition to take down the King, having dubbed it "The Second Coalition" in the spirit of the original War of the First Republican Coalition. Who shall prevail this time?"
+  nf_trr.8.a:0 "We will fight for our rights!"
+  nf_trr.8.b:0 "Let us crush these revolutionaries, once and for all!"
+  nf_trr.8.c:0 "Interesting."
+
+  nf_trr.9.t:0 "When Treason Prospers, None Dare Call It Treason"
+  nf_trr.9.d:0 "The King is dead - long live the people.\n\nAfter much strife, we've freed Manitoba from the monarchists' clutches. No longer will anyone pretend to be the king of Canada - only a free people, with a government of laws, and not of men. But that's the problem, isn't it? We've captured the queen of Manitoba, and must decide her fate. Some call for execution for her complicity in the war. Others say we should merely hang her like any other criminal. Finally, some say we should let her survive as a commoner, punishing her to survive in a land that recognizes no nobility. What shall we do? One could argue that she was never a subject of ours and so committed no crimes. But that would be unpopular at home."
+  nf_trr.9.a:0 "Give her the public execution we couldn't the king."
+  nf_trr.9.b:0 "Hang her like a common criminal."
+  nf_trr.9.c:0 "The court finds her innocent!"
+
+  nf_trr.10.t:0 "A Toast to the Heroes!"
+  nf_trr.10.d:0 "While we made peace with the monarchy, not everyone was so, ah, weak willed. The revolutionary Mouseketeers kept fighting, under the Admiral. And under the Admiral they prevailed. Already the Admiral is cleaning Brandon's streets of any monarchist filth to ensure the Revolution's victory."
+  nf_trr.10.a:0 "Hurray?"
+
+  nf_trr.12.t:0 "Golden Opportunity"
+  nf_trr.12.d:0 "The king's regime is in chaos, as expected of a monarchist regime.\n\nAccording to the treaty after the First Republican War, the city of Porto Prairie was demilitarized, but the Kingdom is busy with more important things, and it costs us nothing to free the inhabitants of the city from the oppression of the Kingdom of Manitoba."
+  nf_trr.12.a:0 "No deals with monarchists!"
+  nf_trr.12.b:0 "Unlike them, we keep our word."
+
+  nf_trr.13.t:0 "Insult to Injury"
+  nf_trr.13.d:0 "In the confusion following Leif Yorkton's rebellion, it seems the forces of the traitorous [WPG.GetName] have violated the treaty of the First Coalition War and occupied the demilitarized city of Porto Praire.\n\nWe are in no position to retaliate—commiting to another war given our current situation would be suicide."
+  nf_trr.13.a:0 "A dirty trick!"
+  nf_trr.13.b:0 "They will pay for this!"
+
+  nf_trr.14.t:0 "The Canadian Renaissance"
+  nf_trr.14.d:0 "The ports of Three Rivers have re-opened to trade, returning commerce to levels not seen since before the War of the First Republican Coalition!\n\nThe economies of the Second Coalition will only be strengthened by this."
+  nf_trr.14.a:0 "Excellent."
+
+  nf_trr.15.t:0 "The Northern Lights"
+  nf_trr.15.d:0 "We have just signed the Northern Lights Research Agreements. Already, our scientists eagerly exchange schematics and breakthroughs in the fields of Industry and Electronics with the other Second Coalition members."
+  nf_trr.15.a:0 "The glow of the Northern Lights shall blind the Monarchists!"
