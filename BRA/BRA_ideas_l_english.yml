@@ -1,0 +1,241 @@
+﻿l_english:
+
+  bra_idea_rock_ridge:0 "Defeat at Stonewall"
+  bra_idea_rock_ridge_desc:0 "The death of King Brandon XI at the Battle of Stonewall shattered many people's faith in the monarchy entirely. Manitoba may have survived the war, but only time will tell if it will ever truly recover."
+
+  bra_idea_dubois_displaced:0 "Manitoban Aristocracy"
+  bra_idea_dubois_displaced_desc:0 ""
+
+  bra_idea_sworn_fealty:0 "Sworn Fealty"
+  bra_idea_sworn_fealty_desc:0 ""
+
+  bra_thirst_for_vengeance:0 "Republican Exiles"
+  bra_thirst_for_vengeance_desc:0 ""
+
+  bra_queen_eleanor:0 "Queen Katherine"
+  bra_queen_eleanor_desc:0 "In many ways the complete opposite to the King, the graceful Queen Katherine seems to have developed a certain fondness for the ancient ghoul over the years. Her genuine, kind-hearted nature has led her to undertake several programs in favor of the common citizenry, earning her the love and adoration of the people. While King Gunn often appears distant to his wife in public, he has nonetheless shown a willingness to fund these often expensive endeavors."
+
+  bra_queen_eleanor_2:0 "Queen Katherine"
+  bra_queen_eleanor_2_desc:0 "In many ways the complete opposite to the King, the graceful Queen Katherine seems to have developed a certain fondness for the ancient ghoul over the years. Her genuine, kind-hearted nature has led her to undertake several programs in favor of the common citizenry, earning her the love and adoration of the people. While King Gunn often appears distant to his wife in public, he has nonetheless shown a willingness to fund these often expensive endeavors."
+
+  bra_queen_eleanor_3:0 "Queen Katherine"
+  bra_queen_eleanor_3_desc:0 "In many ways the complete opposite to the King, the graceful Queen Katherine seems to have developed a certain fondness for the ancient ghoul over the years. Her genuine, kind-hearted nature has led her to undertake several programs in favor of the common citizenry, earning her the love and adoration of the people. While King Gunn often appears distant to his wife in public, he has nonetheless shown a willingness to fund these often expensive endeavors."
+
+  bra_queen_eleanor_4:0 "Queen Katherine"
+  bra_queen_eleanor_4_desc:0 "In many ways the complete opposite to the King, the graceful Queen Katherine seems to have developed a certain fondness for the ancient ghoul over the years. Her genuine, kind-hearted nature has led her to undertake several programs in favor of the common citizenry, earning her the love and adoration of the people. While King Gunn often appears distant to his wife in public, he has nonetheless shown a willingness to fund these often expensive endeavors."
+
+  bra_ancestor_cults:0 "Ancestor Cults"
+  bra_ancestor_cults_desc:0 "Unlike many traditional monarchies, the wealth of the previous ruler isn't completely inherited by their chosen successor. Rather, it is independently managed by different families tasked with spending it in the best interests of the deceased.\n\nWhile in theory beneficial for maintaining the realm's stability as no individual can single handedly squander the achievements of their predecessor, in practice, it causes a significant portion of the nation's wealth to be stuck in the hands of a few rich families single-mindedly focused on maintaining their own status at the cost of the Kingdom."
+
+  bra_idea_new_chain_command:0 "A New Chain of Command"
+  bra_idea_new_chain_command_desc:0 ""
+
+  bra_idea_royal_airsquadron:0 "§tThe Royal Airforce§!"
+  bra_idea_royal_airsquadron_desc:0 ""
+
+  bra_idea_land_and_sea:0 "Masters of Land and Sea"
+  bra_idea_land_and_sea_desc:0 ""
+
+  bra_idea_royal_guard:0 "The Royal Guard"
+  bra_idea_royal_guard_desc:0 ""
+
+  bra_royal_diplomats:0 "The Royal Guard"
+  bra_royal_diplomats_desc:0 ""
+
+  bra_mountie_security:0 "§tMountie Security§!"
+  bra_mountie_security_desc:0 ""
+
+  bra_idea_royal_banner_1:0 "§3Royal Banner§!"
+  bra_idea_royal_banner_1_desc:0 ""
+
+  bra_idea_royal_banner_2:0 "§3Royal Banner§!"
+  bra_idea_royal_banner_2_desc:0 ""
+
+  bra_idea_culture_of_might:0 "Culture of Might"
+  bra_idea_culture_of_might_desc:0 ""
+
+  BRA_march_subsidies:0 "Industrial Subsidies From Manitoba"
+  BRA_march_subsidies_desc:0 ""
+
+  BRA_subsidize:0 "Subsidizing the Marches"
+  BRA_subsidize_desc:0 ""
+
+  BRA_maple_syrup:0 "Maple Syrup Production"
+  BRA_maple_syrup_desc:0 ""
+
+  BRA_fortify:0 "Fortify the Gates"
+  BRA_fortify_desc:0 ""
+
+  bra_winter_clothing:0 "§3Winter Clothing§!"
+  bra_winter_clothing_desc:0 ""
+
+  bra_mountie_gear:0 "§tWinter Clothing§!"
+  bra_mountie_gear_desc:0 ""
+
+  bra_mountie_gear_standalone:0 "§tWinter Clothing§!"
+  bra_mountie_gear_standalone_desc:0 ""
+
+  bra_imperial_architecture:0 "§tImperial Architecture§!"
+
+  bra_paying_the_construction_crews_idea:0 "Paying the Construction Crew"
+
+  bra_end_reliance_on_elites_idea:0 "Ending Reliance on Elites"
+  bra_end_reliance_on_elites_idea_desc:0 ""
+
+  bra_life_is_better_dog:0 "Life is Better With a Dog"
+  bra_life_is_better_dog_desc:0 ""
+
+  bra_manitoba_mounties:0 "Manitoban Mounted Police"
+  bra_manitoba_mounties_desc:0 ""
+
+  bra_nwmp:0 "§tNorth-West Mounted Police§!"
+  bra_nwmp_desc:0 ""
+
+  bra_nwmp_fast:0 "§tNorth-West Mounted Police§!"
+  bra_nwmp_fast_desc:0 ""
+
+  bra_nwmp_l:0 "§tNorth-West Mounted Police§!"
+  bra_nwmp_l_desc:0 ""
+
+  bra_nwmp_r:0 "§tNorth-West Mounted Police§!"
+  bra_nwmp_r_desc:0 ""
+
+  bra_north_vol_corps_l:0 "§tNorth-West Mounted Police§!"
+  bra_north_vol_corps_l_desc:0 ""
+
+  bra_north_vol_corps_r:0 "§tNorth-West Mounted Police§!"
+  bra_north_vol_corps_r_desc:0 ""
+
+  bra_north_vol_corps:0 "§tNorth-West Mounted Police§!"
+  bra_north_vol_corps_desc:0 ""
+
+  bra_all_roads_brandon:0 "All Roads Lead to Brandon"
+  bra_all_roads_brandon_desc:0 ""
+
+  bra_gunn_cat:0 "Gunn's Cat"
+  bra_gunn_cat_desc:0 "While §RKing Gunn II§! navigates the complexities of ruling a decaying kingdom, he carves out precious moments of solace with his beloved cat, §YCookie§!, whose gentle purrs and playful antics serve as a therapeutic refuge from the torment of his ailing mind. In the quietude of these serene moments, Gunn finds respite, reminding him that even amidst the chaos of a post apocalyptic world, §2a better world is possible.§!"
+
+  bra_outsider_recruitment:0 "Open Recruitment"
+
+  bra_strong_blood:0 "Strong Blood"
+
+  bra_false_accounts_of_history:0 "§RDestroy False Accounts of History§!"
+
+  bra_gold_standart:0 "Bimetallism"
+
+  bra_prosperity_common_pre:0 "Distributing Power to Citizens"
+
+  bra_prosperity_common:0 "Common Prosperity"
+
+  bra_proportional_taxation:0 "Proportional Taxation"
+
+  bra_loyalty_oath:0 "§3Loyalty Oath§!"
+
+  bra_heart_nation:0 "Industrial Integrations"
+
+  bra_land_reform:0 "Industrial Integrations"
+
+  bra_interconnected_economy:0 "Industrial Integrations"
+
+  bra_integrated_economy:0 "Industrial Integrations"
+
+  bra_interconnected_economy_puppet:0 "Industrial Integrations"
+
+  bra_revisit_inheritance_laws:0 "Revisited Inheritance Laws"
+
+  bra_state_education:0 "State Education"
+
+  bra_great_northern_university_idea:0 "The Great Northern University"
+
+  bra_helping_whitecourt:0 "Help Fellow Royals"
+
+  bra_spoils_of_war:0 "§RSpoils Of War§!"
+
+  bra_law_empire:0 "§3Imperial Law§!"
+
+  bra_imperial_justice:0 "§3Imperial Justice§!"
+
+  bra_imperial_reign:0 "§3Imperial Reign§!"
+
+  bra_entrepreneurial_loans:0 "Entrepreneurial Loans"
+
+  bra_commonwealth_dreams:0 "Dissolving the Kingdom"
+
+  # Conscription
+  bra_preparing_military_forces:0 "Preparing Military Forces"
+  bra_heightened_readiness:0 "Heightened Readiness"
+  bra_calling_up_reserves:0 "§3Calling up the Reserves§!"
+  bra_true_mobilisation:0 "§3True Mobilisation§!"
+  bra_the_last_war:0 "§tThe Last War§!"
+
+  # Economy
+  bra_scavenging_law:0 "Decadent Aristocracy"
+  bra_civilian_economy:0 "Reindustrializing Economy"
+  bra_low_economic_mobilisation:0 "§3Manitoban Militias§!"
+  bra_partial_economic_mobilisation:0 "§3Mounties at the Ready§!"
+  bra_war_economy:0 "§tMaintain the Right§!"
+  bra_tot_economic_mobilisation:0 "§tFor King and Country!§!"
+
+  # Chokehold
+  bra_three_rivers_choke_5:0 "Economic Blockade"
+  bra_three_rivers_choke_5_desc:0 "The war of the first coalition officially ended with the conditional surrender of the Kingdom of Manitoba and the subsequent establishment of a demilitarized zone between it and the Republic of Three Rivers, leading to a loss of large parts of its former territory and even more importantly the all important access to Winnipeg and the southern river trade routes.\n\nBlocked off from its important markets and its former trade partners, the Kingdom is now desperate to end the blockade or find new markets elsewhere."
+  bra_three_rivers_choke_4:0 "Economic Blockade"
+  bra_three_rivers_choke_4_desc:0 "The war of the first coalition officially ended with the conditional surrender of the Kingdom of Manitoba and the subsequent establishment of a demilitarized zone between it and the Republic of Three Rivers, leading to a loss of large parts of its former territory and even more importantly the all important access to Winnipeg and the southern river trade routes.\n\nBlocked off from its important markets and its former trade partners, the Kingdom is now desperate to end the blockade or find new markets elsewhere."
+  bra_three_rivers_choke_3:0 "Weakened Blockade"
+  bra_three_rivers_choke_3_desc:0 "The war of the first coalition officially ended with the conditional surrender of the Kingdom of Manitoba and the subsequent establishment of a demilitarized zone between it and the Republic of Three Rivers, leading to a loss of large parts of its former territory and even more importantly the all important access to Winnipeg and the southern river trade routes.\n\nBlocked off from its important markets and its former trade partners, the Kingdom is now desperate to end the blockade or find new markets elsewhere."
+  bra_three_rivers_choke_2:0 "Weakened Blockade"
+  bra_three_rivers_choke_2_desc:0 "The war of the first coalition officially ended with the conditional surrender of the Kingdom of Manitoba and the subsequent establishment of a demilitarized zone between it and the Republic of Three Rivers, leading to a loss of large parts of its former territory and even more importantly the all important access to Winnipeg and the southern river trade routes.\n\nBlocked off from its important markets and its former trade partners, the Kingdom is now desperate to end the blockade or find new markets elsewhere."
+  bra_three_rivers_choke_1:0 "Limited Markets"
+  bra_three_rivers_choke_1_desc:0 "The war of the first coalition officially ended with the conditional surrender of the Kingdom of Manitoba and the subsequent establishment of a demilitarized zone between it and the Republic of Three Rivers, leading to a loss of large parts of its former territory and even more importantly the all important access to Winnipeg and the southern river trade routes.\n\nBlocked off from its important markets and its former trade partners, the Kingdom is now desperate to end the blockade or find new markets elsewhere."
+
+  bra_metis_regional_identity:0 "Métis Regional Identity"
+  bra_metis_regional_identity_desc:0 ""
+  bra_winnipeg_aviation_academy:0 "Winnipeg Academy Of Aviation"
+  bra_winnipeg_aviation_academy_desc:0 ""
+  bra_land_governance:0 "Land Governance"
+  bra_land_governance_desc:0 ""
+  bra_manifest_facilities:0 "Electorate Experiments"
+  bra_manifest_facilities_desc:0 ""
+  bra_hudson_river_trade:0 "Hudson Bay Trade"
+  bra_hudson_river_trade_desc:0 ""
+  bra_mad_train_runs:0 "Western Development Museums"
+  bra_mad_train_runs_desc:0 ""
+  bra_fort_cap_hell_prison:0 "Fort Cap Hell Prison"
+  bra_fort_cap_hell_prison_desc:0 ""
+  bra_old_world_amenities:0 "Royal Amenities"
+  bra_old_world_amenities_desc:0 ""
+  bra_idea_loyal_chain_command:0 "A Singular Chain Of Command"
+  bra_idea_loyal_chain_command_desc:0 ""
+  bra_ranger_tech_stand_in:0 "Manitoban Rangers"
+  bra_ranger_tech_stand_in_tooltip:0 "£GFX_unit_elite_spec_ops_icon_small Special Ops Platoon £GFX_defense_texticon Defense: §G+10%§!\n£GFX_unit_elite_spec_ops_icon_small £GFX_soft_attack_texticon Soft Attack: §G+10%§!"
+  bra_order_of_the_pristine_rose:0 "Order of the Pristine Rose"
+  bra_order_of_the_pristine_rose_tooltip:0 "£GFX_unit_category_medical_support_icon_small Medical Chem Support £GFX_xp_lost_texticon Exp. Loss: §G-10%§!\n£GFX_unit_category_medical_support_icon_small Medical Chem Support £GFX_org_texticon Organization: §G+20.0§!\n£GFX_unit_elite_infantry_icon_small Army:\n £GFX_trickleback_texticon Trickleback: §G+1%§!"
+  bra_call_of_wild_stand_in:0 "Lord of Dogs"
+  bra_call_of_wild_stand_in_desc:0 ""
+  # bra_call_of_wild_stand_in_desc:0 "£GFX_unit_dog_company_icon_small Dog Support £GFX_breakthrough_texticon Breakthrough: §G+8%§!,£GFX_unit_dog_company_icon_small £GFX_soft_attack_texticon Soft Attack: §G+10%§!"
+  bra_call_of_wild_stand_in_2:0 "Lord of Dogs"
+  bra_call_of_wild_stand_in_2_desc:0 ""
+  bra_call_of_wild_stand_in_3:0 "Lord of Dogs"
+  bra_call_of_wild_stand_in_3_desc:0 ""
+  bra_call_of_wild_stand_in_final:0 "Lord of Dogs"
+  bra_call_of_wild_stand_in_final_desc:0 ""
+  bra_path_finders_stand_in:0 "Pathfinders"
+  bra_path_finders_stand_in_desc:0 "Movement: §G+10.0%§!,£GFX_unit_category_standard_infantry_icon_small Army: £GFX_recon_texticon Reconnaissance: §G+10.0%§!"
+  bra_well_equipped_levies:0 "Well-Equipped Levies"
+  bra_well_equipped_levies_desc:0 ""
+  bra_royal_marine_corps:0 "Royal Marine Corps"
+  bra_royal_marine_corps_desc:0 ""
+  bra_kings_roads:0 "King's Roads"
+  bra_kings_roads_desc:0 ""
+  bra_breaking_loyalties:0 "Breaking Loyalties"
+  bra_breaking_loyalties_desc:0 ""
+  bra_kingdom_waking:0 "The Kingdom Wakes"
+  bra_kingdom_waking_desc:0 ""
+  bra_research_efforts:0 "Research Efforts"
+  bra_research_efforts_desc:0 ""
+  bra_help_arborg:0 "Loyalist Volunteers"
+  bra_help_arborg_desc:0 ""
+  bra_national_census:0 "National Census"
+  bra_royal_obligations:0 "Royal Obligations"
+  bra_short_military_advisor_tt:0 "Military Advisor Cost: §G-15%§!"
+  bra_short_civilian_advisor_tt:0 "Civilian Advisor Cost: §G-15%§!"

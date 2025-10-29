@@ -1,0 +1,567 @@
+﻿l_english:
+   ##DLN - Duchy of Langenburg
+   DLN_BRA_autonomy_march:0 "Duchy of Langenburg"
+   DLN_BRA_autonomy_vassal:0 "Duchy of Langenburg"
+   DLN_BRA_autonomy_military_order:0 "Duchy Of Langenburg"
+
+   ##ARB - Arborg Junta
+   ARB_BRA_autonomy_march:0 "Viscountcy of Arborg"
+   ARB_BRA_autonomy_vassal:0 "Viscountcy of Arborg"
+   ARB_BRA_autonomy_military_order:0 "Viscountcy of Arborg"
+
+   ARB_kingdom_of_angers_BRA_autonomy_march:0 "Eastern Marches"
+   ARB_kingdom_of_angers_BRA_autonomy_vassal:0 "Eastern Marches"
+   ARB_kingdom_of_angers_BRA_autonomy_military_order:0 "Eastern Marches"
+
+   RRR_BRA_autonomy_march:0 "Hudson River Company"
+   RRR_BRA_autonomy_vassal:0 "Hudson River Company"
+   RRR_BRA_autonomy_military_order:0 "Hudson River Company"
+
+   TPA_BRA_autonomy_march:0 "Rupertsland Trading Company"
+   TPA_BRA_autonomy_vassal:0 "Rupertsland Trading Company"
+   TPA_BRA_autonomy_military_order:0 "Rupertsland Trading Company"
+
+   DMM_BRA_autonomy_march:0 "Grand Rapids Generating Station"
+   DMM_BRA_autonomy_vassal:0 "Grand Rapids Generating Station"
+   DMM_BRA_autonomy_military_order:0 "Grand Rapids Generating Station"
+
+   MTC_BRA_autonomy_march:0 "Grand Duchy of Warwick"
+   MTC_BRA_autonomy_vassal:0 "Grand Duchy of Warwick"
+   MTC_BRA_autonomy_military_order:0 "Grand Duchy of Warwick"
+
+   MTC_CONGRESS_OF_PEOPLES_BRA_autonomy_march:0 "Grand Duchy of Warwick"
+   MTC_CONGRESS_OF_PEOPLES_BRA_autonomy_vassal:0 "Grand Duchy of Warwick"
+   MTC_CONGRESS_OF_PEOPLES_BRA_autonomy_military_order:0 "Grand Duchy of Warwick"
+
+   MTC_RED_RIVER_BRA_autonomy_march:0 "Grand Duchy of Warwick"
+   MTC_RED_RIVER_BRA_autonomy_vassal:0 "Grand Duchy of Warwick"
+   MTC_RED_RIVER_BRA_autonomy_military_order:0 "Grand Duchy of Warwick"
+
+   MTC_MANITOBA_BRA_autonomy_march:0 "Grand Duchy of Warwick"
+   MTC_MANITOBA_BRA_autonomy_vassal:0 "Grand Duchy of Warwick"
+   MTC_MANITOBA_BRA_autonomy_military_order:0 "Grand Duchy of Warwick"
+
+   MJW_BRA_autonomy_march:0 "Vassal State of Moose Jaw"
+   MJW_BRA_autonomy_vassal:0 "Vassal State of Moose Jaw"
+   MJW_BRA_autonomy_military_order:0 "Vassal State of Moose Jaw"
+
+   ROL_BRA_autonomy_march:0 "Southern Crownlands"
+   ROL_BRA_autonomy_vassal:0 "Southern Crownlands"
+   ROL_BRA_autonomy_military_order:0 "Southern Crownlands"
+
+   WPG_BRA_autonomy_march:0 "Winnipeg Crownlands"
+   WPG_BRA_autonomy_vassal:0 "Winnipeg Crownlands"
+   WPG_BRA_autonomy_military_order:0 "Winnipeg Crownlands"
+
+   TRR_Northern_republic_BRA_autonomy_march:0 "Winnipeg Crownlands"
+   TRR_Northern_republic_BRA_autonomy_vassal:0 "Winnipeg Crownlands"
+   TRR_Northern_republic_BRA_autonomy_military_order:0 "Winnipeg Crownlands"
+
+   ATM_BRA_autonomy_march:0 "Silofields March"
+   ATM_BRA_autonomy_vassal:0 "Silofields March"
+   ATM_BRA_autonomy_military_order:0 "Silofields March"
+
+   RCK_BRA_autonomy_march:0 "Grifton March"
+   RCK_BRA_autonomy_vassal:0 "Grifton March"
+   RCK_BRA_autonomy_military_order:0 "Grifton March"
+
+   VTS_BRA_autonomy_march:0 "Fargo March"
+   VTS_BRA_autonomy_vassal:0 "Fargo March"
+   VTS_BRA_autonomy_military_order:0 "Fargo March"
+
+   TPL_BRA_autonomy_march:0 "Jamestown March"
+   TPL_BRA_autonomy_vassal:0 "Jamestown March"
+   TPL_BRA_autonomy_military_order:0 "Jamestown March"
+
+   DRA_BRA_autonomy_march:0 "Dramatis March"
+   DRA_BRA_autonomy_vassal:0 "Dramatis March"
+   DRA_BRA_autonomy_military_order:0 "Dramatis March"
+
+   BIS_BRA_autonomy_march:0 "Bismarck March"
+   BIS_BRA_autonomy_vassal:0 "Bismarck March"
+   BIS_BRA_autonomy_military_order:0 "Bismarck March"
+
+   STR_BRA_autonomy_march:0 "Lakota March"
+   STR_BRA_autonomy_vassal:0 "Lakota March"
+   STR_BRA_autonomy_military_order:0 "Lakota March"
+
+   HST_BRA_autonomy_march:0 "History March"
+   HST_BRA_autonomy_vassal:0 "History March"
+   HST_BRA_autonomy_military_order:0 "History March"
+
+   RMT_BRA_autonomy_march:0 "Buffalo March"
+   RMT_BRA_autonomy_vassal:0 "Buffalo March"
+   RMT_BRA_autonomy_military_order:0 "Buffalo March"
+
+   MNC_BRA_autonomy_march:0 "Verity March"
+   MNC_BRA_autonomy_vassal:0 "Verity March"
+   MNC_BRA_autonomy_military_order:0 "Verity March"
+
+   UNB_BRA_autonomy_march:0 "Williston March"
+   UNB_BRA_autonomy_vassal:0 "Williston March"
+   UNB_BRA_autonomy_military_order:0 "Williston March"
+
+   URA_BRA_autonomy_march:0 "Feral March"
+   URA_BRA_autonomy_vassal:0 "Feral March"
+   URA_BRA_autonomy_military_order:0 "Feral March"
+
+   STN_BRA_autonomy_march:0 "Stoon March"
+   STN_BRA_autonomy_vassal:0 "Stoon March"
+   STN_BRA_autonomy_military_order:0 "Stoon March"
+
+   STN_order_BRA_autonomy_march:0 "Stoon March"
+   STN_order_BRA_autonomy_vassal:0 "Stoon March"
+   STN_order_BRA_autonomy_military_order:0 "Stoon March"
+
+   STN_here_be_rattlesnakes_BRA_autonomy_march:0 "Stoon March"
+   STN_here_be_rattlesnakes_BRA_autonomy_vassal:0 "Stoon March"
+   STN_here_be_rattlesnakes_BRA_autonomy_military_order:0 "Stoon March"
+
+   STN_freedoms_army_BRA_autonomy_march:0 "Stoon March"
+   STN_freedoms_army_BRA_autonomy_vassal:0 "Stoon March"
+   STN_freedoms_army_BRA_autonomy_military_order:0 "Stoon March"
+
+   STN_president_of_canada_BRA_autonomy_march:0 "Stoon March"
+   STN_president_of_canada_BRA_autonomy_vassal:0 "Stoon March"
+   STN_president_of_canada_BRA_autonomy_military_order:0 "Stoon March"
+
+   STN_order_of_saint_george_BRA_autonomy_march:0 "Stoon March"
+   STN_order_of_saint_george_BRA_autonomy_vassal:0 "Stoon March"
+   STN_order_of_saint_george_BRA_autonomy_military_order:0 "Stoon March"
+
+   DUN_BRA_autonomy_march:0 "Dundurn March"
+   DUN_BRA_autonomy_vassal:0 "Dundurn March"
+   DUN_BRA_autonomy_military_order:0 "Dundurn March"
+
+   DUN_rosewood_BRA_autonomy_march:0 "Dundurn March"
+   DUN_rosewood_BRA_autonomy_vassal:0 "Dundurn March"
+   DUN_rosewood_BRA_autonomy_military_order:0 "Dundurn March"
+
+   PLT_BRA_autonomy_march:0 "Pleasant March"
+   PLT_BRA_autonomy_vassal:0 "Pleasant March"
+   PLT_BRA_autonomy_military_order:0 "Pleasant March"
+
+   PLT_hope_takeover_BRA_autonomy_march:0 "Pleasant March"
+   PLT_hope_takeover_BRA_autonomy_vassal:0 "Pleasant March"
+   PLT_hope_takeover_BRA_autonomy_military_order:0 "Pleasant March"
+
+   IRC_BRA_autonomy_march:0 "Iron Marches"
+   IRC_BRA_autonomy_vassal:0 "Iron Marches"
+   IRC_BRA_autonomy_military_order:0 "Iron Marches"
+
+   BAT_BRA_autonomy_march:0 "Battleford Military Order"
+   BAT_BRA_autonomy_vassal:0 "Battleford Military Order"
+   BAT_BRA_autonomy_military_order:0 "Battleford Military Order"
+
+   STA_BRA_autonomy_march:0 "Steppe March"
+   STA_BRA_autonomy_vassal:0 "Steppe March"
+   STA_BRA_autonomy_military_order:0 "Steppe March"
+
+   VSH_BRA_autonomy_march:0 "Safehaven Military Order"
+   VSH_BRA_autonomy_vassal:0 "Safehaven Military Order"
+   VSH_BRA_autonomy_military_order:0 "Safehaven Military Order"
+
+   VSH_safehaven_BRA_autonomy_march:0 "Safehaven Military Order"
+   VSH_safehaven_BRA_autonomy_vassal:0 "Safehaven Military Order"
+   VSH_safehaven_BRA_autonomy_military_order:0 "Safehaven Military Order"
+
+   LOI_BRA_autonomy_march:0 "Loidminster Military Order"
+   LOI_BRA_autonomy_vassal:0 "Loidminster Military Order"
+   LOI_BRA_autonomy_military_order:0 "Loidminster Military Order"
+
+   LOI_ussr_BRA_autonomy_march:0 "Loidminster Military Order"
+   LOI_ussr_BRA_autonomy_vassal:0 "Loidminster Military Order"
+   LOI_ussr_BRA_autonomy_military_order:0 "Loidminster Military Order"
+
+   STC_BRA_autonomy_march:0 "Edmonton March"
+   STC_BRA_autonomy_vassal:0 "Edmonton March"
+   STC_BRA_autonomy_military_order:0 "Edmonton March"
+
+   STC_novemberists_BRA_autonomy_march:0 "Edmonton March"
+   STC_novemberists_BRA_autonomy_vassal:0 "Edmonton March"
+   STC_novemberists_BRA_autonomy_military_order:0 "Edmonton March"
+
+   STC_cadets_BRA_autonomy_march:0 "Edmonton March"
+   STC_cadets_BRA_autonomy_vassal:0 "Edmonton March"
+   STC_cadets_BRA_autonomy_military_order:0 "Edmonton March"
+
+   BGR_BRA_autonomy_march:0 "Prairie March"
+   BGR_BRA_autonomy_vassal:0 "Prairie March"
+   BGR_BRA_autonomy_military_order:0 "Prairie March"
+
+   COM_BRA_autonomy_march:0 "Pioneer Trading Company"
+   COM_BRA_autonomy_vassal:0 "Pioneer Trading Company"
+   COM_BRA_autonomy_military_order:0 "Pioneer Trading Company"
+
+   COM_CON_BRA_autonomy_march:0 "Pioneer Trading Company"
+   COM_CON_BRA_autonomy_vassal:0 "Pioneer Trading Company"
+   COM_CON_BRA_autonomy_military_order:0 "Pioneer Trading Company"
+
+   COM_ARC_BRA_autonomy_march:0 "Pioneer Trading Company"
+   COM_ARC_BRA_autonomy_vassal:0 "Pioneer Trading Company"
+   COM_ARC_BRA_autonomy_military_order:0 "Pioneer Trading Company"
+
+   MDM_BRA_autonomy_march:0 "Calgary Trading Company"
+   MDM_BRA_autonomy_vassal:0 "Calgary Trading Company"
+   MDM_BRA_autonomy_military_order:0 "Calgary Trading Company"
+
+   PAS_BRA_autonomy_march:0 "Rocky Marches"
+   PAS_BRA_autonomy_vassal:0 "Rocky Marches"
+   PAS_BRA_autonomy_military_order:0 "Rocky Marches"
+
+   NIT_BRA_autonomy_march:0 "Niitsitapi March"
+   NIT_BRA_autonomy_vassal:0 "Niitsitapi March"
+   NIT_BRA_autonomy_military_order:0 "Niitsitapi March"
+
+   HVR_BRA_autonomy_march:0 "Havre March"
+   HVR_BRA_autonomy_vassal:0 "Havre March"
+   HVR_BRA_autonomy_military_order:0 "Havre March"
+
+   CPK_BRA_autonomy_march:0 "Missouri Coal Company"
+   CPK_BRA_autonomy_vassal:0 "Missouri Coal Company"
+   CPK_BRA_autonomy_military_order:0 "Missouri Coal Company"
+
+   MET_BRA_autonomy_march:0 "Billings March"
+   MET_BRA_autonomy_vassal:0 "Billings March"
+   MET_BRA_autonomy_military_order:0 "Billings March"
+
+   BTH_BRA_autonomy_march:0 "Rosebud March"
+   BTH_BRA_autonomy_vassal:0 "Rosebud March"
+   BTH_BRA_autonomy_military_order:0 "Rosebud March"
+
+   JCK_BRA_autonomy_march:0 "Jacksons March"
+   JCK_BRA_autonomy_vassal:0 "Jacksons March"
+   JCK_BRA_autonomy_military_order:0 "Jacksons March"
+
+   MRR_BRA_autonomy_march:0 "Marshall March"
+   MRR_BRA_autonomy_vassal:0 "Marshall March"
+   MRR_BRA_autonomy_military_order:0 "Marshall March"
+
+   KHA_BRA_autonomy_march:0 "Khans March"
+   KHA_BRA_autonomy_vassal:0 "Khans March"
+   KHA_BRA_autonomy_military_order:0 "Khans March"
+
+   WYR_BRA_autonomy_march:0 "Casper Trading Company"
+   WYR_BRA_autonomy_vassal:0 "Casper Trading Company"
+   WYR_BRA_autonomy_military_order:0 "Casper Trading Company"
+
+   ROS_BRA_autonomy_march:0 "Yellowstone Royal Park"
+   ROS_BRA_autonomy_vassal:0 "Yellowstone Royal Park"
+   ROS_BRA_autonomy_military_order:0 "Yellowstone Royal Park"
+
+   STM_BRA_autonomy_march:0 "Malmstrom March"
+   STM_BRA_autonomy_vassal:0 "Malmstrom March"
+   STM_BRA_autonomy_military_order:0 "Malmstrom March"
+
+   MCA_BRA_autonomy_march:0 "MacArthur March"
+   MCA_BRA_autonomy_vassal:0 "MacArthur March"
+   MCA_BRA_autonomy_military_order:0 "MacArthur March"
+
+   #Ideas
+
+   #Langenburg
+   dln_demil:0 "Demilitarized March"
+   dln_demil_2:0 "Demilitarized March"
+   dln_demil_3:0 "Demilitarized March"
+   dln_demil_4:0 "Demilitarized March"
+   dln_post_rebel_restoration:0 "Restoration Efforts"
+   dln_take_away_rebel_money:0 "§RSeizure of Traitors' Property§!"
+   dln_kingdoms_shield:0 "§3Kingdom's Shield§!"
+   dln_langenburg_army_2:0 "§3Kingdom's Sword§!"
+   dln_langenburg_army_3:0 "§3Gunn's Loyal Sword§!"
+   dln_royal_comp:0 "Brandon Investments"
+   dln_brandon_workers:0 "Brandon Workers"
+
+   #Generic ideas
+   bra_puppet_old_world_tradition:0 "Old World Tradition"
+   bra_puppet_support:0 "March Support"
+   bra_puppet_mountie_instructors:0 "Duck Mountain Instructors"
+   bra_puppet_rapid_resoponse:0 "Rapid Response"
+   bra_puppet_royal_tour:0 "Royal Tour"
+   bra_new_houses:0 "New Houses"
+   bra_pup_royal_investments:0 "Manitoba Investments"
+   bra_pup_royal_workers:0 "Manitoba Workers"
+   bra_pup_army_training:0 "Manitoba Military Standarts"
+   bra_pup_army_planning:0 "New Military Thought"
+   bra_pup_protectors:0 "The Protectors"
+   bra_pup_royal_squadron:0 "Royal Air Squadron"
+   bra_pup_royal_radars:0 "Improved Radars"
+
+   # Puppet Focuses New
+   DLN_mounties_1:0 "Manitoban Mounties"
+   DLN_mounties_1_desc:0 ""
+
+   DLN_mounties:0 "Manitoban Mounties"
+   DLN_mounties_desc:0 ""
+
+   dln_pup_recovery:0 "War Recovery"
+   dln_pup_recovery_desc:0 ""
+
+   dln_pup_eleanor:0 "Eleanor Yorkton"
+   dln_pup_eleanor_desc:0 ""
+
+   dln_pup_seize_rebel_lands:0 "Seize Rebels' Lands"
+   dln_pup_seize_rebel_lands_desc:0 ""
+
+   dln_pup_reward_loyal_citizens:0 "Reward Loyal Citizens"
+   dln_pup_reward_loyal_citizens_desc:0 ""
+
+   dln_pup_kingdom_shield:0 "The Kingdom's Shield"
+   dln_pup_kingdom_shield_desc:0 ""
+
+   dln_pup_new_rangers:0 "New Rangers"
+   dln_pup_new_rangers_desc:0 ""
+
+   dln_pup_loyal_militias:0 "Loyal Levies"
+   dln_pup_loyal_militias_desc:0 ""
+
+   dln_pup_kingdom_sword:0 "The Kingdom's Sword"
+   dln_pup_kingdom_sword_desc:0 ""
+
+   dln_pup_manitoban_workers:0 "Manitoban Workers"
+   dln_pup_manitoban_workers_desc:0 ""
+
+   dln_pup_manitoba_military_base:0 "Manitoban Military Base"
+   dln_pup_manitoba_military_base_desc:0 ""
+
+   dln_pup_always_loyal:0 "Always Loyal"
+   dln_pup_always_loyal_desc:0 ""
+
+   dln_pup_kingsroad:0 "The Kingsroad"
+   dln_pup_kingsroad_desc:0 ""
+
+   dln_pup_katherine_greenhouses:0 "Queen Katherine's Greenhouses"
+   dln_pup_katherine_greenhouses_desc:0 ""
+
+   dln_pup_spirit_lake_purifiers:0 "Spirit Lake Purifiers"
+   dln_pup_spirit_lake_purifiers_desc:0 ""
+
+   dln_pup_scavenging_efforts:0 "Scavenging Efforts"
+   dln_pup_scavenging_efforts_desc:0 ""
+
+   dln_pup_manufactorium_branches:0 "Manufactorium Branches"
+   dln_pup_manufactorium_branches_desc:0 ""
+
+   dln_pup_cars_running:0 "Getting the Cars Running"
+   dln_pup_cars_running_desc:0 ""
+
+   dln_pup_kingdom_research_efforts:0 "Kingdom Research Efforts"
+   dln_pup_kingdom_research_efforts_desc:0 ""
+
+   dln_pup_royal_yorkton_university:0 "The Royal Yorkton University"
+   dln_pup_royal_yorkton_university_desc:0 ""
+
+   dln_pup_new_housing:0 "New Housing"
+   dln_pup_new_housing_desc:0 ""
+
+   dln_pup_manor_fuel_storages:0 "Manor Fuel Storages"
+   dln_pup_manor_fuel_storages_desc:0 ""
+
+   dln_pup_aristocratic_investments:0 "Aristocratic Investments"
+   dln_pup_aristocratic_investments_desc:0 ""
+
+   dln_pup_manitoba_industries:0 "Manitoban Industries"
+   dln_pup_manitoba_industries_desc:0 ""
+
+   dln_pup_royal_breweries:0 "Royal Breweries"
+   dln_pup_royal_breweries_desc:0 ""
+
+   dln_pup_royal_armories:0 "Royal Armories"
+   dln_pup_royal_armories_desc:0 ""
+
+   dln_pup_tanner:0 "Tanner's Oversight"
+   dln_pup_tanner_desc:0 ""
+
+   dln_pup_tanners_mounties:0 "Hosting the Mounties"
+   dln_pup_tanners_mounties_desc:0 ""
+
+   dln_pup_replace_knights_with_mounties:0 "Abolish the Knightly Order"
+   dln_pup_replace_knights_with_mounties_desc:0 ""
+
+   dln_pup_best_of_best:0 "Best of the Best"
+   dln_pup_best_of_best_desc:0 ""
+
+   dln_pup_every_man_a_dog:0 "Every Man a Dog"
+   dln_pup_every_man_a_dog_desc:0 ""
+
+   dln_pup_up_to_standards:0 "Up to Standards"
+   dln_pup_up_to_standards_desc:0 ""
+
+   dln_pup_mixed_military_thought:0 "Mixed Military Thought"
+   dln_pup_mixed_military_thought_desc:0 ""
+
+   dln_pup_war_games:0 "War Games"
+   dln_pup_war_games_desc:0 ""
+
+   dln_pup_rain_fire:0 "Raining Hellfire"
+   dln_pup_rain_fire_desc:0 ""
+
+   dln_pup_restoring_the_losses:0 "Restoring the Losses"
+   dln_pup_restoring_the_losses_desc:0 ""
+
+   dln_pup_trading_ports:0 "Trading Ports"
+   dln_pup_trading_ports_desc:0 ""
+
+   dln_pup_assign_shipbuilders:0 "Assign Shipbuilders"
+   dln_pup_assign_shipbuilders_desc:0 ""
+
+   dln_pup_naval_trainings:0 "Naval Trainings"
+   dln_pup_naval_trainings_desc:0 ""
+
+   dln_pup_skies_of_kingdom:0 "Skies of the Kingdom"
+   dln_pup_skies_of_kingdom_desc:0 ""
+
+   dln_pup_art_of_flying:0 "The Art of Flying"
+   dln_pup_art_of_flying_desc:0 ""
+
+   dln_pup_radars:0 "Royal Radars"
+   dln_pup_radars_desc:0 ""
+
+   dln_pup_pride_of_kingdom:0 "Pride of the Kingdom"
+   dln_pup_pride_of_kingdom_desc:0 ""
+
+   # Tooltip
+   dln_spawn_frontiersmen_tt:0 "Spawns §G2§! §YFrontiersman§! divisions in our capital of §Y[1328.GetName]§!."
+   dln_mtc_fortline_tt:0 "Add §G2§! §YOutpost§! in every province bordering §Y[MTC.GetFlag] [MTC.GetNameDef]§! or §Y[WPG.GetFlag] [WPG.GetNameDef]§!."
+
+   #Puppet focuses
+   manitoba_history:0 "Our History With Manitoba"
+   manitoba_history_desc:0 ""
+   manitoba_army:0 "Manitoba Military Effort"
+   manitoba_army_desc:0 ""
+   manitoba_royal_tour:0 "The Royal Tour"
+   manitoba_royal_tour_desc:0 ""
+
+   manitoba_roads:0 "The Kingsroad"
+   manitoba_roads_desc:0 ""
+   manitoba_royal_greenhouses:0 "Queen Katherine Greenhouses"
+   manitoba_royal_greenhouses_desc:0 ""
+   manitoba_royal_water_purifiers:0 "New Water Purifiers"
+   manitoba_royal_water_purifiers_desc:0 ""
+   manitoba_royal_houses:0 "Housing Degree"
+   manitoba_royal_houses_desc:0 ""
+   manitoba_capital_protect:0 "Protect the Capital"
+   manitoba_capital_protect_desc:0 ""
+   manitoba_royal_breweries:0 "Royal Breweries"
+   manitoba_royal_breweries_desc:0 ""
+   manitoba_royal_armories:0 "Royal Armories"
+   manitoba_royal_armories_desc:0 ""
+   manitoba_royal_generators:0 "Start Up the Generators"
+   manitoba_royal_generators_desc:0 ""
+   manitoba_royal_investments:0 "Manitoba Invsetments"
+   manitoba_royal_investments_desc:0 ""
+   manitoba_royal_research:0 "Kingdom Research Efforts"
+   manitoba_royal_research_desc:0 ""
+   manitoba_royal_knowledge:0 "Our Own Royal University"
+   manitoba_royal_knowledge_desc:0 ""
+   manitoba_royal_projects:0 "Manitoba Industrial Projects"
+   manitoba_royal_projects_desc:0 ""
+   manitoba_royal_scavenge:0 "Scavenger Efforts"
+   manitoba_royal_scavenge_desc:0 ""
+   manitoba_royal_workers:0 "Workers From Manitoba"
+   manitoba_royal_workers_desc:0 ""
+   manitoba_royal_factories:0 "Manufactorium Branch"
+   manitoba_royal_factories_desc:0 ""
+   manitoba_royal_ports:0 "Trader Ports"
+   manitoba_royal_ports_desc:0 ""
+
+   manitoba_army_training:0 "Up to Standarts"
+   manitoba_army_training_desc:0 ""
+   manitoba_army_planning:0 "New Military Thought"
+   manitoba_army_planning_desc:0 ""
+   manitoba_our_own_mounties:0 "The Best of the Best"
+   manitoba_our_own_mounties_desc:0 ""
+   manitoba_war_games:0 "War Games"
+   manitoba_war_games_desc:0 ""
+   manitoba_every_man_a_dog:0 "Every Man a Dog!"
+   manitoba_every_man_a_dog_desc:0 ""
+   manitoba_protecting_the_march:0 "Protecting the March"
+   manitoba_protecting_the_march_desc:0 ""
+   manitoba_dubois_schematics:0 "A Visit From Lord Dubois"
+   manitoba_dubois_schematics_desc:0 ""
+   manitoba_steel_wheels:0 "Steel Wheels"
+   manitoba_steel_wheels_desc:0 ""
+   manitoba_more_dubois_schemes:0 "Dubois Weapon Insights"
+   manitoba_more_dubois_schemes_desc:0 ""
+   manitoba_mechanics_from_loid:0 "Loid Mechanics"
+   manitoba_mechanics_from_loid_desc:0 ""
+
+   manitoba_navy:0 "Restoring the Losses"
+   manitoba_navy_desc:0 ""
+   manitoba_navy_games:0 "Naval Trainings"
+   manitoba_navy_games_desc:0 ""
+   manitoba_navy_research:0 "Assign the Shipbuilders"
+   manitoba_navy_research_desc:0 ""
+   manitoba_navy_doctrine:0 "Our Naval Tactics"
+   manitoba_navy_doctrine_desc:0 ""
+   manitoba_navy_convoys:0 "Request Convoys From Manitoba"
+   manitoba_navy_convoys_desc:0 ""
+   manitoba_navy_research_2:0 "A Recent Breakthrough!"
+   manitoba_navy_research_2_desc:0 ""
+
+   manitoba_air:0 "Skies of the Kingdom"
+   manitoba_air_desc:0 ""
+   manitoba_air_games:0 "Air Trainings"
+   manitoba_air_games_desc:0 ""
+   manitoba_air_doctrine:0 "Our Air Doctrine"
+   manitoba_air_doctrine_desc:0 ""
+   manitoba_air_research:0 "Study the Art of Flying"
+   manitoba_air_research_desc:0 ""
+   manitoba_air_radar:0 "Air Radars"
+   manitoba_air_radar_desc:0 ""
+   manitoba_air_aces:0 "Pride of the Kingdom"
+   manitoba_air_aces_desc:0 ""
+   manitoba_air_radar_system:0 "Royal Air Radar Systems"
+   manitoba_air_radar_system_desc:0 ""
+
+
+   #Fort Cap Hell
+
+   cph_pup_royal_wardens:0 "Royal Wardens"
+   cph_pup_royal_wardens_desc:0 ""
+   cph_pup_checkout:0 "Pay Day"
+   cph_pup_checkout_desc:0 ""
+   cph_pup_payday:0 "Check Please"
+   cph_pup_payday_desc:0 ""
+   cph_pup_rematch:0 "Second's Time..."
+   cph_pup_rematch_desc:0 ""
+   cph_pup_victors:0 "Best Served Cold"
+   cph_pup_victors_desc:0 ""
+   cph_pup_zealots:0 "Zealots"
+   cph_pup_zealots_desc:0 ""
+   cph_pup_can_i_get_an_amen:0 "Can I Get an Amen In Here?"
+   cph_pup_can_i_get_an_amen_desc:0 ""
+   cph_pup_free_some_cells:0 "Kingdom Volunteers"
+   cph_pup_free_some_cells_desc:0 ""
+   cph_pup_learn_from_the_best:0 "Bite Like a Dog"
+   cph_pup_learn_from_the_best_desc:0 ""
+   cph_pup_royal_standarts:0 "Higher Standarts"
+   cph_pup_royal_standarts_desc:0 ""
+   cph_pup_lessons_from_tanner:0 "True Guard Dogs"
+   cph_pup_lessons_from_tanner_desc:0 ""
+   cph_pup_more_than_wardens:0 "Western Guard Dogs"
+   cph_pup_more_than_wardens_desc:0 ""
+   cph_pup_use_metis_methods:0 "Study Métis Robotics"
+   cph_pup_use_metis_methods_desc:0 ""
+   cph_pup_robotic_wardens:0 "Metal Wardens"
+   cph_pup_robotic_wardens_desc:0 ""
+   cph_pup_request_manitoba_support:0 "Request Kingdom's Help"
+   cph_pup_request_manitoba_support_desc:0 ""
+   cph_pup_a_better_place:0 "A Better Place"
+   cph_pup_a_better_place_desc:0 ""
+   cph_pup_pacifistas:0 "Pacifistas"
+   cph_pup_pacifistas_desc:0 ""
+   cph_pup_prisoner_work:0 "Lighten Up the Mood"
+   cph_pup_prisoner_work_desc:0 ""
+   cph_pup_less_time_for_scavenge:0 "Scavenge Work for Prisoners"
+   cph_pup_less_time_for_scavenge_desc:0 ""
+   cph_pup_doing_what_we_can:0 "Doing What We Can"
+   cph_pup_doing_what_we_can_desc:0 ""
+   cph_pup_old_prisoner:0 "Old Prisoner"
+   cph_pup_old_prisoner_desc:0 ""
+   cph_pup_expand_the_prison_block:0 "Expand the Prison Block"
+   cph_pup_expand_the_prison_block_desc:0 ""
+   cph_pup_most_valuable_prisoners:0 "Most Valuable Prisoners"
+   cph_pup_most_valuable_prisoners_desc:0 ""
+   cph_pup_royal_reward:0 "Against All Odds"
+   cph_pup_royal_reward_desc:0 "We've come a long way, but the city of Regina finally came back home.\n\nOur Wardens bravely fought together with the Kingdom army against the Second Coalition forces and now, King Gunn II wants to reward Colonel Daniels for the successful retaking of Regina."

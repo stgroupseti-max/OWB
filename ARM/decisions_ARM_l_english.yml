@@ -1,0 +1,18 @@
+﻿l_english:
+  arm_railway_reconstruction_decision_category:0 "Railway Reconstruction"
+  arm_rebuild_tampico_station:0 "Rebuild Tampico Station"
+  arm_extend_tracks_into_la_pesca:0 "Extend Tracks into La Pesca"
+  arm_extend_tracks_into_ciudad_valles:0 "Extend Tracks into Ciudad Valles"
+  arm_extend_tracks_into_ciudad_victoria:0 "Extend Tracks into Ciudad Victoria"
+  arm_rebuild_reynosa_station:0 "Rebuild Reynosa Station"
+  arm_extend_tracks_into_san_carlos:0 "Extend Tracks into San Carlos"
+  arm_extend_tracks_into_forlorn_slipway:0 "Extend Tracks into the Forlorn Slipway"
+  arm_connect_the_northern_and_southern_lines:0 "Connect the Northern and Southern Lines"
+  arm_border_wars:0 "Pressure Our Foes"
+  arm_border_war_rio:0 "Pressure Armageddon Estacion"
+  arm_border_war_rio_desc:0 "Rio should really turn the station over. Look, they can barely defend themselves against a wandering horde of assaultrons."
+
+
+  ### The Great Game  ###
+  ARM_taa_food:0 "The Great Game"
+  ARM_taa_food_desc:0 "The TAA's secession from the Republic of the Rio Grande was supposed to give them freedom, but to some of its neighbours, this just represents a new prey. Time will tell whether [TAA.GetLeader] can save his young nation. \n\nCurrently, the state of infuence by TAA's neighbors is: \n§M[RRG.GetNameWithFlag]§!: \n§M[ARM.GetNameWithFlag]§!: \n§M[ACH.GetNameWithFlag]§!:0 "

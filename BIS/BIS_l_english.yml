@@ -1,0 +1,627 @@
+﻿l_english:
+
+#Note 1: I (Hades) have collated other bits of Bismarck (BIS) LOC in this document (and in doping so have removed it from other sources to keep things neat, so if it's not here, I have royally fucked up)
+#Note 2: Yes, Bismarck is spelled with a 'c' (had to correct this several places)
+#Note 3: ALL CAPS implies a header.
+#FOCII (Broken up by Tree Section for ease of locating)
+
+#Focii (Starting)
+
+BIS_fire:0 "Fire"
+BIS_fire_desc:0 "The people of the Dakotas have always been a hardy folk. You have to be, in a place that was already trying to kill them before the bombs dropped. While warmer than Minnesota, the Dakotan winters can still strip the bone raw. So it's no suprise that when the world ended, the people of Dakota were ready, with Bismarck being no exception."
+#Will come back to this one^ aint feelin it
+BIS_council:0 "The §0Council§!"
+BIS_council_desc:0 "Governance, whatever form it may take, is inevitable. And sometimes, money speaks louder than words."
+
+BIS_bailiff:0 "The §BBailiff§!"
+BIS_bailiff_desc:0 "Money can't solve everything. That's where a big stick comes in."
+
+#Focii (Research)
+
+BIS_COR:0 "Committee of Research"
+BIS_COR_desc:0 "Bismarck is home to many intelligent and skilled scientists, engineers, doctors, and other types of thinkers. Unfortunately for us, many of them work alone, on their own projects, and often out of their own homes. We should create a Committee of Research to help coordinate their work, and more effectively pool their knowledge."
+
+BIS_digging_deep:0 "Digging Deep"
+BIS_digging_deep_desc:0 "Even before the Great War, Bismarck was a hub for agriculture and mining. Many farms around Bismarck used some of the latest techniques and technology in their operations. With the capture of sone of these farms still intact around Gettysburg have allowed us to reverse engineer their operations."
+
+BIS_resource_acquisition:0 "Rock and Stone"
+BIS_resource_acquisition_desc:0 "Using records and documentation from Gettysburg's Historical Copper Mine, we can come up with ways to more efficiently extract minerals from the earth."
+
+BIS_flying_high:0 "Flying High"
+BIS_flying_high_desc:0 "During the Battle for Linton, we managed to capture a small private airfield from before the war. While the runway is a complete write off, we managed to find intact aircraft, or atleast, intact enough that we can learn something! Combined with data from the Bismarck Municipal Airport, we might be able to put something in the sky better than a glider."
+
+BIS_red_baron_meme:0 "The Flying Circus"
+BIS_red_baron_meme_desc:0 "If we take a read through our history, it seems the city of Bismarck was named for a 'Otto von Bismarck'. By all accounts, he seems rather unpleasant, and certainly not someone who you would follow. That aside, if we delve a little further, we see mentions of a 'Red Baron' and something called a 'Flying Circus'. While this makes about as much sense as government cheese, it seems this Red Baron person had some interesting ideas on flying. Maybe we can try some of them out."
+
+BIS_long_shot:0 "Shooting Long"
+BIS_long_shot_desc:0 "If there's one thing Dakotans know, it's guns. Fixing them, building them, and most importantly, shooting them. Our engineers have been digging through old files, and have managed to come up with some creative solutions to manufacturing gauss weapons in the post-war world."
+
+BIS_gunsmiths:0 "The §RGunsmiths§!" #Granpa :D
+BIS_gunsmiths_desc:0 "Led by Lee Donald, the §RGunsmiths§! of Bismarck are well known across the Dakotas, Montana, and into Canada. With knowledge passed down from parent to child, they take pride in being able to manufacture weapon designs thought lost, or too complicated for the rest of the wasteland. Under Donald, the §RGunsmiths§! have become a much more cohesive group, allowing them to make weapons at a quality found in few other places."
+
+BIS_increased_funding:0 "Increased Funding"
+BIS_increased_funding_desc:0 "By dedicating more resources to research, we can increase the amount of projects being worked on at a given time. In a world were having the most advanced technology often decides survival, this will be invaluable"
+
+#Focii (Trade)
+
+BIS_CFT:0 "Committee For Trade"
+BIS_CFT_desc:0 "Bismarck as a nation was originally founded in a trade agreement between towns, so it no suprise that trade is its lifeblood. For the most part, the §0Council§! and §BBailiff§! have kept out of the affairs of trade, letting the merchants handle their own affairs, leading to inefficiencies and overly harmful competition. We should form a Committee of Trade to coordinate internal efforts, and to focus external relations in the most profitable places."
+
+BIS_primary_partner:0 "A Primary Partner"
+BIS_primary_partner_desc:0 "For the most part, Bismarck merchants stay local, operating within neighbouring countries and tribes. While they're are some exceptions to this rule, such as trade with Manitoba and the River League, most efforts to date have been made to expand outside these exceptions have been only temporary. However, the §0Council§! and Committee have come to the conclusion that there is profit to be made in permanent trade. All that remains is to choose a primary trade partner."
+
+BIS_going_north:0 "Further North"
+BIS_going_north_desc:0 "The §BBailiff's§! choice for trade partners lies in familiar territory. The Kingdom of Manitoba has long been a customer of the §RGunsmith's§! wares, purchasing weapons in bulk to equip their armies. The recent civil war has also opened up possibilities with a new partner. Whomever we choose, profit is sure to follow."
+
+BIS_going_west:0 "Going West"
+BIS_going_west_desc:0 "The §0Council's§! choice for partners lies to the West, with relative newcomers to the area. The Khans seem much like Standing Rock, expansionist and savage. The Brotherhood are tech cultists, armed to the teeth and with unknown goals. But both of them control valuable resources, and have even more valuable knowledge. Trading with them would surely bring profit to Bismarck."
+
+BIS_friendship_treaty:0 "Treaty of Friendship"
+BIS_friendship_treaty_desc:0 "With trade comes opportunities."
+
+BIS_shaky_handshake:0 "A Shaky Agreement"
+BIS_shaky_handshake_desc:0 "While we won't be getting to chummy with anyone in the west, seeking to avoid conflict with a trade partner is simply good sense."
+
+#Focii (Main)
+
+BIS_council_of_2275:0 "The Council of 2275"
+BIS_council_of_2275_desc:0 "While the §0Council§! meets roughly every year, most of the time its actions are of little consequence, acting as little more than a yearly social club for the well-heeled. This year is different. A number of high-stakes issues are on the table, from the next Militia Budget to Bismarck's continued membership of the River League."
+
+BIS_opportunity:0 "An Opportunity"
+BIS_opportunity_desc:0 "With the §BBailiff§! starting to take more control of Bismarck's affairs, we can exploit an opportunity developing to the west. Standing Rock has found itself locked in conflict yet again, leaving their borders lightly gaurded. If we were to launch an attack, we could seize territory before they have a chance to properly respond. If we're lucky, they'll be too busy to retake it."
+
+BIS_linton:0 "Linton"
+BIS_linton_desc:0 "With the capture of Linton, we can send in colonists to help secure the area further. Setting up industry in the area will also help us maintain our hold on the territory."
+
+BIS_new_gettysburg:0 "Gettysburg"
+BIS_new_gettysburg_desc:0 "Further south than Linton, Gettysburg closes off our flank to Standing Rock. Sending in colonists and establishing industry will aid in holding this key sector."
+
+BIS_settling_in:0 "Settling In"
+BIS_settling_in_desc:0 "Using our not-insubstantial group of colonists to 'convince' the locals, we can hold a vote on the formal annexation of the Linton-Gettysburg territory! Nothing wrong with a bit of voter manipulation right? The §BBailiff§! has also ordered the river banks fortified against retaliation, further securing the area."
+
+BIS_a_buck_a_day:0 "A Cap A Day Keeps The Sioux Away"
+BIS_a_buck_a_day_desc:0 "While the §BBailiff§! would launch an attack against the Sioux, the §0Council§! knows there's a much simpler way to deal with Standing Rock: Pay 'Em Off! Cold hard cash should work better than a forest of rifles, while we work on getting even richer! We can always fight them later if we must."
+
+BIS_getting_rich:0 "Enrich Ourselves"
+BIS_getting_rich_desc:0 "With Standing Rock otherwise occupied, nothing is stopping us from expanding the economy, and getting stinking rich off of it. All that remains is to choose a direction to go!"
+
+BIS_farming:0 "Farming"
+BIS_farming_desc:0 "Nothing like a little extra food to go around, eh? While not exactly a font of caps, food and water security has a richness of its own. And if there's a surplus, selling it off should net a nice bonus!"
+
+BIS_trade:0 "Trade!"
+BIS_trade_desc:0 "The Lifeblood of Nations! Trade is something we're well familiar with, and is sure to generate a princely sum if done right. We've plenty of odds and ends that we could throw on the market, and clear out some space for more junk which we tell ourselves we'll use someday!"
+
+BIS_manufacturing:0 "Manufacturing?"
+BIS_manufacturing_desc:0 "This is a new one to much of Bismarck. While every entity in the wasteland has some form of good production, and of course we have the §RGunsmiths§! on hand, a dedicated manufacturing sector is something we've never tried. It won't be as profitable as trade, or atleast, not right away, but with the §RGunsmiths'§! help we should be able to manage something. "
+
+BIS_future_bismarck:0 "The Future of Bismarck"
+BIS_future_bismarck_desc:0 "With immediate concerns dealt with, we need to look ahead. This world is dangerous, and our backs are against a figurative wall. On one side sits Standing Rock, hungry for territory. On the other side, to the east, sits tribals of unknown motivation, a strange vault, and mysterious masked men. We need to choose a strategy going forward, or risk destruction."
+
+BIS_strengthen_walls:0 "Strengthen Our Walls"
+BIS_strengthen_walls_desc:0 "While Bismarck is well defended, it never hurts to break out the shovels. Against foes like Standing Rock, having fortified positions may be our only advantage. The primary issue now is where we should build said fortifications."
+
+BIS_forward_defense:0 "A Forward Defense"
+BIS_forward_defense_desc:0 "§BBailiff§! Sudermann advocates for a forward defensive line, right on the border with Standing Rock. While extending the front, we'd give up potentially less land, which can only be benifitial."
+
+BIS_river_line:0 "The River Line"
+BIS_river_line_desc:0 "While the §0Council§! thinks very highly of the §BBailiff's§! opinion, they believe that a forward line would be too risky. They instead propose giving up the western territories, and holding at the Missouri River. While this would mean surrendering ground, it would narrow our front with the Sioux tremendously."
+
+BIS_the_bailiffs_own:0 "§BFormalize The Bailiff's Own§!"
+BIS_the_bailiffs_own_desc:0 "The §BBailiff's§! Own are a mixture of wastelanders, soldiers, lawmen, and even some vault dwellers. They are under the direct command of the §BBailiff§!, and are something of his private army. They are well equipped amd experienced, and should we integrate them directly into our forces, they'll no doubt be invaluable."
+
+BIS_mercenaries:0 "§0Mercenaries§!"
+BIS_mercenaries_desc:0 "What we need is more bodies, not better ones. The §0Council§! thinks that hiring a large amount of mercenaries to fill our ranks will serve us better than integrating the §BBailiff's§! trickshooters. There are more of them after all, and bigger is always better, right?"
+
+BIS_digging_trenches:0 "Digging Trenches"
+BIS_digging_trenches_desc:0 "Further reinforcement is needed for our defenses, but disagreement is rife about supplying and funding the works."
+
+BIS_expanded_thinking:0 "Expanded Thinking"
+BIS_expanded_thinking_desc:0 "If there is one thing both the §0Council§! and the §BBailiff§! agree on, it is that Bismarck in it's current state is too weak to take on the possible giants around it. There are to many threats to take on all at once, so we must take them on one at a time to have any chance against them."
+
+BIS_rear_lines:0 "The Rear Lines"
+BIS_rear_lines_desc:0 "Our relationship with Two Peoples has been off and on. Sometimes we trade freely, others, skirmishes have broken out along the border. If that were to happen whilst we're at war with another power, the effects could be catastrophic. Therefore, they are a threat that must be eliminated."
+
+BIS_demand_carrington:0 "Demand Carrington"
+BIS_demand_carrington_desc:0 "The Silo fanatics to the north are an unknown quantity, and could attack at any time. To weaken them and put them on the back foot, we'll demand they turn over the territory of Carrington. That should keep them spooked for a bit."
+
+BIS_buy_carrington:0 "Purchase Carrington"
+BIS_buy_carrington_desc:0 "A brash attempt to demand territory from the Silo cultists could end in war. The §0Council§! would prefer to take a more diplomatic route, offering to buy Carrington from the Church of the Silo. Not only will it weaken them, it'll help shorten any future frontline with them."
+
+BIS_settling_tensions:0 "Settling Tensions"
+BIS_settling_tensions_desc:0 "Already resistance against occupation has sprung up in the captured territories. This cannot be allowed to stand, but opinions differ on how to solve the problem."
+
+BIS_the_big_one:0 "The Big One"
+BIS_the_big_one_desc:0 "We can no longer ignore the threat posed by Standing Rock. We can feel their eyes staring at us from across the border. They hunger for lands and slaves, and we're nothing if not a juicy target. We need to strike first and hard, and take the fight to them."\
+
+#Ideas
+
+bis_german_heritage:0 "The Revolutionaries of 2048"
+bis_german_heritage_desc:0 "German scientists created the first Gauss Rifles before the Great War, and immigrants fleeing the Resource Wars brought that technology to America. Some of their descendents in Bismarck still know how to maintain and repair these triumphs of free-spirited German engineering even today!"
+
+BIS_ID_COR:0 "Committee of Research"
+BIS_ID_COR_desc:0 "Formed to streamline research and development in Bismarck, the COR monitors various projects, making sure that they procede as efficiently as possible, even in Bismarck's more backwater location." #leaving this blank for now, may come back and add something if inspiration hits me with a 2x4. Edit: Something hit, don't know if it was a 2x4
+
+BIS_ID_resource_extraction:0 "Committee For Resource Extraction"
+BIS_ID_resource_extraction_desc:0 "§W"The CFRE exists to encourage coordination between mining, farming, and other resource production ventures. We hope to increase steel production by 30% within a year, and food production by 50%!"§! \n\n-§0Councilman§! Thomas, newly appointed Head of the CFRE"
+
+BIS_ID_gunsmiths_internal:0 "The §RGunsmiths§!"
+BIS_ID_gunsmiths_internal_desc:0 "Renowned throughout the Dakotas and much of the surrounding territories, the §RGunsmiths§! of Bismarck are capable of turning out weapons with pre-war (and in some cases even better) quality. They achieve this through a mix of dilligence, attention to detail, and long instruction at an elder's hands. With ancestral knowledge handed down, they are a significant boost to Bismarck's capabilities, even if their leader is quite profane. \n\n§W"Sonofabitch"§! -Lee Donald, Chief §RGunsmith§!"
+
+BIS_safety_means_money:0 "Safety Means Money"
+BIS_safety_means_money_desc:0 "The §0Council§! may not be the most ethical governmental body in the wastes, but if there's one thing they know, it's how to get rich. With Standing Rock payed off and busy, traders have shown more confidence in the markets. Trade goods pour in from farther afield then ever before, with luxuries in ready supply!"
+
+BIS_building_defenses:0 "Building Defenses"
+BIS_building_defenses_desc:0 "§W"No wall is too high, and no bastion too strong that it can't be improved further. But that don't mean it hurts to try"§! \n\n-Roger Nelson, Wilton's §BDeputy-To-The-Bailiff§!"
+
+BIS_id_mercenaries:0 "Mercenaries"
+BIS_id_mercenaries_desc:0 "While certainly bolstering our numbers, the use of mercenaries in our army has lead to a number of issues. Each mercenary unit uses its own communication protocols, and it's been a right thing to get them even discussing standardization. Furthermore, they're a bunch of loudmouth, inebriated, scandalous, sleezy, flea bitten, lecherous bunch of mongrels this side of the Great Plains."
+
+BIS_id_ancient_equipment:0 "Ancient Mining Equipment"
+BIS_id_ancient_equipment_desc:0 "Pre-war mining equipment, carefully preserved and lovingly maintained. With it, Bismarck's miners have a much easier time ripping minerals from the earth. With any luck, it'll last 200 more years."
+
+BIS_bismarck_police:0 "Bismarck's Watch"
+BIS_bismarck_police_desc:0 "The Watch forms Bismarck's (and other towns') police force. They patrol population centers, and ride patrols between them, keeping the roads as safe as they can. They arrest criminals, maintain the streetlamps, and are the first responders to issues in towns."
+
+BIS_id_ground-attack:0 "Ground Attack Strategies"
+BIS_id_ground-attack_desc:0 "While shooting down enemy planes is useful, it's the mudsloggers on the ground doing the actual work. Therefore, we've chosen to have our planes focus on directly supporting our ground forces."
+
+BIS_id_dirty_dogfighting:0 "Dirty Dogfighting"
+BIS_id_dirty_dogfighting_desc:0 "Ground attacks are all well and good, but if our support planes keep getting shot down, they won't be much help. Therefore, our pilots will focus on taking out enemy aircraft, using every dirty trick in the book to get an advantage."
+
+BIS_id_underfunded_militia:0 "Underfunded Militia"
+BIS_id_underfunded_militia_desc:0 "§W"It's the §0Council's§! opinion that the Militia receives plenty of money to fulfill its duties. The funds dedicated to overzealous expansion would be better used elsewhere."§! \n\n-§0Councilman§! Albertson, Treasurer-in-Chief"
+
+BIS_id_fully_funded_militia:0 "Fully Funded Militia"
+BIS_id_fully_funded_militia_desc:0 "§W"I never thought about how much I missed training with live ammo. To the target range, boys and girls!"§! \n\n-Captain Touchstone, Pick City's §BDeputy-To-The-Bailiff§!"
+
+BIS_id_buy_our_way_out:0 "Buy Our Way Out"
+BIS_id_buy_our_way_out_desc:0 "War isn't always the solution. Often, a bag of cash does more than a forest of swords."
+
+BIS_id_first_strike:0 "First Strike Policy"
+BIS_id_first_strike_desc:0 "§W"I read somewhere that the best defense is a good offense. If anyone tries anything, we shoot first. It's a bit undiplomatic, but so is someone trying to attack us."§!  \n\n-Henry Sudermann, §BBailiff§! of Bismarck"
+
+BIS_id_minimal_works:0 "Minimal Works"
+
+BIS_id_maximal_works:0 "Maximal Works"
+
+BIS_gunsmitch_external_id:0 "The §RGunsmiths§! of Bismarck"
+BIS_gunsmitch_external_id_desc:0 "The §RGunsmiths§! of Bismarck are an extremely skilled group, able to turn out weaponry at a quality, consistency, and speed that would be impossible even in places wiht larger manufacturing bases. To have them working with us is not only a great honor, but also a significant boost to our military industry."
+
+BIS_id_bailiff_lessons:0 "The §BBailiff's§! Teachings"
+BIS_id_bailiff_lessons_desc:0 "As part of a deal with Bismarck, we send our young warriors to serve in there armies as mercenaries. There they learn advanced combat and tactics, and become hardened by war. Even if some of our fighters don't return, Bismarck pays us handsomely."
+
+BIS_ID_resource_extraction_uber:0 "Committee For Resource Extraction"
+BIS_ID_resource_extraction_uber_desc:0 "§W"The CFRE exists to encourage coordination between mining, farming, and other resource production ventures. We hope to increase steel production by 30% within a year, and food production by 50%!"§! \n\n-§0Councilman§! Thomas, newly appointed Head of the CFRE"
+
+BIS_mongol_kids:0 "Young Khan Fighters"
+BIS_mongol_kids_desc:0 "As long as our agreement with the Khans stands, we will receive their young warriors as mercenaries. They'll fight for us, serving just as any other soldier in the Militia or Army. In turn, the Khans receive a steady payment of caps, and hardened warriors on return.  While they do get a bit rowdy off duty, its well made up for by their willingness to jump into danger head first."
+
+BIS_foreign_fighting:0 "Foreign Fighting"
+BIS_foreign_fighting_desc:0 "Sending out our forces to fight in other's wars is a risky propsition, but doing so could allow us to cut the head from a few snakes ebfore they manage to get anywhere. And it'll earn us some cash to!"
+
+#TOOLTIPS
+
+#Focus Tooltips
+
+BIS_southern_fortify_tooltip:0 "§GWe will fortify the river crossings in both Linton and Gettysburg.§!"
+
+BIS_forward_fortify_tooltip:0 "§GWe will fortify the border with Standing Rock, aswell as any crossing points over the Missouri River.§!"
+
+BIS_river_fortify_tooltip:0 "§GWe Will fortify all crossing points along the Missouri River, aswell as our southern border with Standing Rock in Linton.§!"
+
+BIS_bailiffs_own_tooltip:0 "§YFour units of fully equippped and highly experienced SpecOps will join our army.§!"
+
+BIS_mercenaries_tooltip:0 "§YWe will gain a set of decisions to hire mercenary units from across the North into our army.§!"
+
+BIS_carrington_tooltip:0 "§gShould they accept, we will gain control of Carrington.§!"
+
+BIS_has_caps_for_coring:0 "§RIf we have saved enough caps, this will become significantly easier.§!"
+
+BIS_resource_uber_TT:0 "§CBecause we chose to preserve the Mining Equipment, this focus will give us a much more powerful bonus!§!"
+
+BIS_treaty_tighten_tooltip:0 "§gThe Conflict between Manitoba and the Coalition must have come to a conclusion, with only one side left standing.§!"
+
+BIS_gunsmiths_gain_focus_tt:0 "So long as we have this idea, the §RGunsmiths§! will slowly produce 10 Gauss Rifles each month and deliver them to us."
+
+#Event Tooltips
+
+BIS_lose_tooltip:0 "Damn"
+
+BIS_carrington_anger:0 "§RThis will anger Bismarck, possibly inviting retaliation.§!"
+
+BIS_we_will_return:0 "§RWe'll be back.§!"
+
+BIS_core_west_paying:0 "§GWe will core all states west of the Big Sioux River and build factories in the area.§!"
+
+BIS_core_west_warcrimes:0 "§GWe will core all states west of the Big Sioux River and build factories in the area.§! §RAll states east of the river will receive a resistance increase.§!"
+
+#Decision Tooltips
+
+BIS_mountie_mercenaries_tt:0 "§YFour units of SpecOps will join our army.§!"
+
+BIS_marshal_mercenaries_tt:0 "§YFive units of Infantry will join our army.§!"
+
+BIS_atom_mercenaries_tt:0 "§YTwo units of Infantry will join our army.§!"
+
+BIS_rabble_mercenaries_tt:0 "§YSix units of Militia will join our army.§!"
+
+BIS_bismarck_formable_tt:0 "We will §GCore§! all states cored by §YStanding Rock§!. \nWe will gain §GClaims§! on all of the §YDakotas§!."
+
+#Idea Tooltips
+
+BIS_gunsmiths_gain_tt:0 "So long as we have this idea, the §RGunsmiths§! will slowly produce 10 Gauss Rifles each month and deliver them to us."
+
+#DECISIONS
+
+#Caregories
+
+BIS_trade_category_bis:0 "Trade With Our Partner"
+BIS_trade_category_bis_desc:0 "This is where all continous trade options will appear, be they with our external Partner, or members of the River League. Some Partners will have more option as our relationship develops!"
+
+BIS_special_trade_category_bis:0 "'Interesting' Trades"
+BIS_special_trade_category_bis_desc:0 "While we may have chosen only a single Partner, other folk around the wastes have some... 'interesting' wares for sale. These purchases will be one time only, but should yield dividends. Some of these the River League would very much §Rnot§! approve of."
+
+BIS_mercenaries_category_bis:0 "Mercenaries For Hire"
+BIS_mercenaries_category_bis_desc:0 "In line with the preferences of the §0Council§!, we've put out mercenary contracts across the North. Seems like some folk are interested!"
+
+BIS_bismarck_trade_all:0 "Trade With Bismarck!"
+BIS_bismarck_trade_all_desc:0 "Accepting Bismarck's offer has given us access to their skills at weapon manufacture, aswell as the ability to straight up buy firearms from them!"
+
+BIS_loyalty_balance_category:0 "Loyalty Decisions"
+
+#Base Trade Options
+
+BIS_bos_scrap_trade:0 "Buy Scrap from the Brotherhood"
+BIS_bos_scrap_trade_desc:0 "The Brotherhood of Steel are expert salvagers, among other things. Surely they'd be willing to part with some useless scrap for a sum of caps."
+
+BIS_bos_advanced_trade:0 "Buy Advanced Materials from the Brotherhood"
+BIS_bos_advanced_trade_desc:0 "Besides scrap, the Brotherhood also pulls much more advanced materials from the things they salvage. Perhaps some more money will get it moving in our direction."
+
+BIS_kha_food_trade:0 "Buy Brahmin from the Khans"
+BIS_kha_food_trade_desc:0 "Besides being terrifying warriors, the Khans are skilled ranchers. They must have quite a surplus, it's only neighborly to alleviate such a burden. For a fair price of course."
+
+BIS_kha_chems_trade:0 "Buy Chems from the Khans"
+BIS_kha_chems_trade_desc:0 "The Khans are some of the most skilled chem pushers in psot-war America. Where they learned, we neither know no care. What we do care and know about, is that they will sell them to us for a reasonable price, allowing us to use them for our own endds."
+
+BIS_bra_dln_gold_trade:0 "Buy Gold Bullion from Manitoba"
+BIS_bra_dln_gold_trade_desc:0 "Gold is always nice to have around, and the Kingdom of Manitoba is well stocked with the stuff. Enough caps in the right hands should allow us access to their supply."
+
+BIS_bra_dln_equipment_trade:0 "Buy Advanced Gear from Manitoba"
+BIS_bra_dln_equipment_trade_desc:0 "Be it the Knights before them, or the Mounties who currently serve the Crown, Manitoba produces very high quality equipment for their elite forces. Let's see if we can't buy some for ourselves!"
+
+BIS_bra_dln_dam_trade:0 "Tap into the Dam's Power Grid"
+BIS_bra_dln_dam_trade_desc:0 "With Manitoba's recapture of the Grand Rapids Dam, they have gained a significant boost to power generation. Surely with the right persuasion, we as valued trade partners could tap into the grid for a little?"
+
+BIS_bra_dln_blimp_trade:0 "Buy Airships from Manitoba"
+BIS_bra_dln_blimp_trade_desc:0 "With the destruction of Three Rivers, Manitoba has come into possesion of their air industry. Perhaps we could take some of those noisy airships off their hands for some caps. Really, we're taking a loss here, we promise."
+
+BIS_wpg_cells_trade:0 "Buy Power Cells from Three Rivers"
+BIS_wpg_cells_trade_desc:0 "Due to their control over the River, the Republic controls a vast supply of energy. A little cash should hopefully part them from some of it."
+
+BIS_wpg_blimp_trade:0 "Buy Airships from Three Rivers"
+BIS_wpg_blimp_trade_desc:0 "Much of Three Rivers military power comes from their use of Airships in combat. With a litle (read: alot) bit of cash, we should be able to purchase them for our own ends."
+
+#Special Trades
+
+BIS_advanced_schematics_trade:0 "Buy Advanced Schematics"
+BIS_advanced_schematics_trade_desc:0 "The Brotherhood in Montana is desperate for caps, weapons, and other resources. It's only neighborly that we help out. Perhaps they can part with some advanced technology in return? It's only fair after all."
+
+BIS_khan_mercenaries_trade:0 "Invite Khan Mercenaries"
+BIS_khan_mercenaries_trade_desc:0 "The Khans are fierce warriors, and their youngest inducties must prove themselves in combat before becoming full-fleged Khans. What if we offered to take their young, train them in combat and tactics, in return for them serving in our forces for a time. They get warriors trained in conventional warfare, and we get bodies to fill our ranks. It's a win-win."
+
+BIS_combat_gear_trade:0 "Buy Advanced Combat Gear"
+BIS_combat_gear_trade_desc:0 "The Kingdom of Manitoba has always strived to provide the best gear for their elite forces, be they the Knightly Orders, or the Mounties. Perhaps we can learn there secrets if we grease the right palms."
+
+BIS_research_equipment_trade:0 "Buy Research Equipment"
+BIS_research_equipment_trade_desc:0 "Winnipeg has always been a center of learning in the post-war world, hosting atleast one university. Universities always need money, and we're willing to give it to them, in exchange for advanced research equipment with which to expand our own capabilities."
+
+BIS_factory_investments_trade:0 "Seek Factory Investments"
+BIS_factory_investments_trade_desc:0 "Manitoba has one of the largest industrial bases in the North. To seek investments in our own industrial sector from them only makes sense. Surely we won't suffer possible consequences by having a section of our industry owned by a foreign power, right?"
+
+BIS_fusion_cores_trade:0 "Buy Fusion Cores from the Crazies"
+BIS_fusion_cores_trade_desc:0 "While the Church of the Silo is a consumate nut-house, they do have a massive stock of fusion cores. It may take some convincing, but we should be able to take enough off their hands to last us years."
+
+#Mercenary Decisions
+
+BIS_mountie_mercenaries:0 "Hire Mountie Veterans"
+BIS_mountie_mercenaries_desc:0 "The Mounties of Manitoba are an elite force, and pride themselves on commitment to their code. Hiring veteran Mounties will greatly bolster our forces, serving as an elite strike force."
+
+BIS_marshal_mercenaries:0 "Hire Former Marshals"
+BIS_marshal_mercenaries_desc:0 "The Marhals are fellow Dakotans, born from a combination of the Free States movement and a National Guard unit who took shelter together. Skilled soldiers, hiring those who have left their organization (for one reason or another), will greatly boost our efforts."
+
+BIS_atom_mercenaries:0 "Hire Atom Fanatics"
+BIS_atom_mercenaries_desc:0 "While we've had disagreements with the Church of the Silo, several of their congregation are willing to fight anyone for money. While not exactly sterling soldiers, they do bring a level of zeal not seen in other groups."
+
+BIS_rabble_mercenaries:0 "Conscript Street Rabble"
+BIS_rabble_mercenaries_desc:0 "One eternally available source of manpower, atleast in a pinch, is to pull all manner of folk from the streets. Bums, vagrants, wanders, adventurers, and the like are all targets for conscription. While they aren't anything like actual soldiers, they do bring numbers to the front. Sometimes that counts for a lot."
+
+#External Trades (If it's requested I'll come bace and give these descriptions, but for the moment I think it'd be really repetitive)
+
+BIS_weaponry_trade_mnc_kha:0 "Buy Conventional Weaponry"
+
+BIS_gauss_trade_mnc_kha:0 "Buy Gauss Weaponry"
+
+BIS_weaponry_trade_dln_bra:0 "Buy Conventional Weaponry"
+
+BIS_gauss_trade_dln_bra:0 "Buy Gauss Weaponry"
+
+BIS_weaponry_trade_wpg:0 "Buy Conventional Weaponry"
+
+BIS_gauss_trade_wpg:0 "Buy Gauss Weaponry"
+
+#Loyalty Decisions
+
+BIS_bailiff_level_1:0 "Drum Up Recruits"
+BIS_bailiff_level_1_desc:0 "The forces of Bismarck are always in need of new blood. While raw recruits are pretty useless on the battlefield, they are much more susceptible to political ideation. Seeing as they fall under the §BBailiff's§! command they tend to support his goals."
+
+BIS_bailiff_level_2:0 "Empower Junior Officers"
+BIS_bailiff_level_2_desc:0 "Allowing junior officers to take more initiative on the battlefield will increase or capabilities in combat. This will also empower the §BBailiff's§! camp, seeing as many of these officers support his ideas."
+
+BIS_bailiff_level_3:0 "Dip Into the §BBailiff's§! Private Stock"
+BIS_bailiff_level_3_desc:0 "§BBailiff§! Sudermann, like many before him, maintains a private collection of advanced firearms, both for personal use, and to equip his immediate entourage. Dipping into this collection will certainly give some of our forces more firepower, but this will no doubt give political capital to the §BBailiff§!, seing as they're his guns."
+
+BIS_council_level_1:0 "Call in some Favors"
+BIS_council_level_1_desc:0 "There are many influential §0Council§! members willing to contribute to funding various operations. However, accepting their money will drag us into the palm of the §0Council§!."
+
+BIS_council_level_2:0 "Distribute Luxuries"
+BIS_council_level_2_desc:0 "As most §0Council§! members gain their positions via bribery, or sheer economic power, many of them are able to access luxuries not available to the general populace. Coffee, exotic fruit, and pure sugar are all in high demand. If we allow some of these hoarded luzuries onto the general market, it would greatly increase the populations support for the §0Council's§! position."
+
+BIS_council_level_3:0 "Cook The Books"
+BIS_council_level_3_desc:0 "If we preform some 'creative accounting', we can increase our incomes across the board. Of course, in doing this, the §0Council§! will gain more support with their new blackmail material."
+
+#Formable
+
+form_union_of_bismarck:0 "Form the Union of Bismarck"
+form_union_of_bismarck_desc:0 "With Standing Rock destroyed, we've absorbed more settlements, greatly expanding our nation. We are no longer Bismarck and its surrounding towns, but instead a greater Union of territories."
+
+#BOP
+
+BIS_loyalty_balance:0 "Balance of Bismarck"
+
+BIS_bailiff_dominance:0 "§BBailiff Dominance§!"
+
+BIS_bailiff_superiority:0 "§BBailiff Superiority§!"
+
+BIS_bailiff_strengthened:0 "§BBailiff Strengthened§!"
+
+BIS_bailiff_majority:0 "§BBailiff Majority§!"
+
+BIS_narrow_line:0 "The Narrow Line"
+
+BIS_council_majority:0 "§0Council§! Majority"
+
+BIS_council_strengthened:0 "§0Council§! Strengthened"
+
+BIS_council_superiority:0 "§0Council§! Superiority"
+
+BIS_council_dominance:0 "§0Council§! Dominance"
+
+#FLAGS
+
+flag_khan_trade:0 "Trading with the Khans"
+
+lag_brotherhood_trade:0 "Trading with the Brotherhood"
+
+flag_manitoba_trade:0 "Trading with Manitoba"
+
+flag_winnipeg_trade:0 "Trading with Winnipeg"
+
+flag_manitoba_trade_extra:0 "Trade Relations with Manitoba Expanded"
+
+trade_with_bismarck:0 "Trading With Bismarck"
+
+#CHARACTERS
+
+BIS_HENRY_SUDERMANN_NAME:0 "Henry Sudermann"
+BIS_HENRY_SUDERMANN_DESC:0 "Sudermann is Bismarck's first native §BBailiff§! in fifty years, but he spent much of his childhood down south. Raised down south in Crescent City, Sudermann was a compromise between those wishing for Bismarck to chart its own path and those who wished for closer ties to the League. Sudermann's travels up and down the Mississippi, Missouri, and Gulf have given him a perspective that some of his fellow citizens lack. A shame they may not listen to him. And a shame that it is so very, very cold."
+
+BIS_LEE_DONALD_NAME:0 "Lee Donald"
+BIS_LEE_DONALD_DESC:0 "Born in Bismarck, Lee has been the leader of the §RGunsmiths§! for 40 years, despite a stroke resulting in the loss of his right arm. Even with his stroke, he remains an invaluable asset, though now he focuses on lower tech items, due to a loss of dexterity. He is however, a veritable font of knowledge, able to rattle off the specifications for every firearm design he's ever made. With an instinctive working knowledge of firearms design he spends much of his time not at work coming up with new ideas."
+
+BIS_ERICH_ARSCHLOCH_NAME:0 "Erich Arschloch"
+BIS_ERICH_ARSCHLOCH_DESC:0 "Mr. Donald is dissapointed in you..."
+
+BIS_ROGER_NELSON_NAME:0 "Roger Nelson"
+
+BIS_SMITH_ONDERSON_NAME:0 "Smith Onderson"
+
+BIS_CAPTAIN_TOUCHSTONE_NAME:0 "Captain Touchstone"
+
+#COSMETICS (fancy)
+
+BIS_bismarck_union:0 "Union of Bismarck"
+
+#EVENTS
+
+nf_bis.1.t:0 "The Great War In The North"
+nf_bis.1.d:0 "As fire swept the skies and the world ended, the people of the Dakotas retreated to storm shelters, basements, or makeshift bunkers they had made. In the city of Bismarck, panic spread as order collapsed. Police and military abandoned their posts, state militia deserted, and the governor’s house was looted. Bismarck itself was spared a direct hit, but was close enough to Minot AFB that it felt the aftershocks quite clearly, and with those aftershocks came destruction. \n\nBut not all was so grim. Despite its complete disintegration, the government of North Dakota had made preparations for the oncoming hellstorm. Stockpiles of supplies had been squirreled away across the city, stored in hastily constructed bunkers and reinforced warehouses. While all of the usual prepping suspects were present, what was prioritized for preservation?"
+nf_bis.1.a:0 "Food and farming supplies"
+nf_bis.1.b:0 "Expensive mining equipment"
+nf_bis.1.c:0 "Lots of guns!"
+
+nf_bis.2.t:0 "What Remained"
+nf_bis.2.d:0 "When the dust settled, and all was said and done, Bismarck was a battered city. Its streets were filled with rubble, and much of its remaining infrastructure was hanging by a thread. In an attempt to return a semblance of order, the highest ranking law enforcement officer left in the city, a part-time bailiff of the North Dakotan Supreme Court and sheriff’s deputy, Agnes Nelson, gathered men and material. \n\nWhile not expecting to be successful, she and her posse managed to take control of the Capitol Building, its surrounding areas, and the bridge over I-94. With further pushes (and no small amount of conscription), the group managed to reach Arbor Avenue, capturing the Medical Center before their advance petered out. \n\nIn the aftermath, Agnes organized the first §0Council§! of Bismarck, made up of what little of the civil service was left. In the coming months and years, what did the §0Council§! focus on?"
+nf_bis.2.a:0 "Civilian Industry"
+nf_bis.2.b:0 "Military Manufacturing"
+nf_bis.2.c:0 "Clearing Rubble"
+
+nf_bis.3.t:0 "Law and Order (Mostly)"
+nf_bis.3.d:0 "By 2083, the §BBailiff§! and her posse, now called ‘§BThe Bailiff’s Own§!’, had managed to clear out and retake all of the city of Bismarck and its immediate surroundings. During 2090, civilian rule returned to Bismarck, at least officially. §BBailiff§! Agnes had managed to retain some power during the transfer, and continued to push for aggressive expansion to take further territory. This was overruled by the §0Council§!, who instead chose to unite the surrounding communities through trade and diplomacy. \n\nGathering together representatives from the nearby towns, a trade and defense pact was agreed on. It stipulated that each town was nominally independent, but still pledged to assist each other economically and militarily. The §0Council§! would remain as a collection of representatives from each town, with the §BBailiff§! acting as a figurehead in all but military matters. \n\nToday, this system remains mostly intact, though §0Council§! members now gain their position more through bribery and economic power. Throughout the years, various §BBailiffs§! have held varying levels of control, for differing reasons. What policy have they pushed for most fervently?"
+nf_bis.3.a:0 "A strong Police Force"
+nf_bis.3.b:0 "A standing army"
+nf_bis.3.c:0 "A well regulated militia"
+
+nf_bis.4.t:0 "The Supreme Art Of Not Hitting The Ground"
+nf_bis.4.d:0 "Now that we have airplane blueprints we can put into production, we need to actually train people to fly them. This will be no easy feat, seeing as any reasonable person will do anything in their power from leaving terra firma. No doubt volunteers will be limited, and our training casualties will be high until we get to grips with how flying works. \n\nIn light of this, we should probably focus on training our pilots in one area (along with not hitting the ground). Focusing on air support will no doubt go a long way for our army. Having the ability to rain death upon an enemy no matter where they happen to be is a potent tool. On the other hand, if we focus on dogfighting (a term which makes no sense, dogs can’t fly planes), we can protect our own forces from air attacks much better. This would no doubt contribute much to our military actions."
+nf_bis.4.a:0 "Death from above!"
+nf_bis.4.b:0 "Let's get scrappin'!"
+
+nf_bis.5.t:0 "Safety or Profit"
+nf_bis.5.d:0 "With interest in trading further afield than our immediate neighbors, comes the realization that we can only support a singular permanent trade mission at the moment. While this might change in the future, for now our resources are limited. \n\nThe Committee for Trade has identified four possible targets. To the west, the Brotherhood’s Montana Chapter, whom we have limited experience with through the River League. Also to the west is the Khans, a group of savage raiders with skills in chem production. We know little about them. Both are newcomers to the area, and present possible threats. In the §0Council’s§! opinion however, they offer greater chances for profit, due to their technology, and exotic skills. \n\nTo the North is familiar ground. We’ve long traded with Manitoba on a semi-permanent basis, and they treat us fairly. They also present the option of a possible alliance, which the §BBailiff’s§! crowd prefers. There is also the newly created Republic of Three Rivers. While bitter enemies to Manitoba, they offer a new market for weapons. One preoccupied with fighting a war."
+nf_bis.5.a:0 "Profit"
+nf_bis.5.b:0 "Safety"
+
+nf_bis.6.t:0 "A Most Uncivil War"
+nf_bis.6.d:0 "The Kingdom of Manitoba is in dire straights, with a rebellious Duchy to the west, and a secessionist Republic to the east. This makes them, and the Duchy of Langenburg, a prime market for guns to arm their forces. We could exploit this to the fullest, feeding guns to both. \n\nOn the other hand, the Crown could be a power on its way out. It may be wise to open relations with the Republic of Three Rivers, the up and coming power in the region. Surely, this is the more pragmatic thing to do."
+nf_bis.6.a:0 "The Kingdom"
+nf_bis.6.b:0 "The Republic"
+
+nf_bis.7.t:0 "Steadfast Allies"
+nf_bis.7.d:0 "With the destruction of Three Rivers, Manitoba reigns supreme in the north. Our contributions to their cause have deepened our relationship much, and opened up new chances for trade and interaction. We could offer a permanent alliance, or seek to expand trade further. Both would greatly benefit us."
+nf_bis.7.a:0 "More Trade, More Money!"
+nf_bis.7.b:0 "We seek an alliance!"
+
+nf_bis.8.t:0 "Pragmatism"
+nf_bis.8.d:0 "With the fall of Manitoba, Three Rivers is now the pre-eminent power in the north. Our relationship with them is mostly based on convenience and transaction, and as we are a former trade partner of the Kingdom, they view us with some suspicion. This has left some tension on our border. We should offer a treaty of nonaggression to cool things down."
+nf_bis.8.a:0 "For the Best"
+
+nf_bis.9.t:0 "Horns and Steel"
+nf_bis.9.d:0 "In the west are two relative newcomers to the area. While we know a little about the Brotherhood through the River League, the intentions of this specific group are unknown. While they bring valuable advanced technology, and no small amount of technical skill, trade with them would no doubt strengthen them. We must be wary of giving an advantage to a potential enemy. \n\nSouth of them are a group calling themselves the ‘Great Khans’, fierce warriors with a taste for expansion. While their activities have so far been limited to their immediate area, this could change if provided with advanced weapons. They do however, have great skill in Chem production. If we gained access to their products, we could turn a massive profit. After all, there’s always some sap looking to get high."
+nf_bis.9.a:0 "We shall take the Horns"
+nf_bis.9.b:0 "Perhaps they could share some Steel"
+
+nf_bis.10.t:0 "Assembly"
+nf_bis.10.d:0 "While the §0Council§! meets every year, most of the time the events they discuss are of little consequence. Minor adjustment to taxes, frivolous spending, and eternal debate usually plague these assemblies. This year, however, several important topics are up for discussion. The first is simply who should have more control of Bismarck. The §BBailiffs§! have long campaigned to regain the powers they once held before the §0Council§! took over, and Sudermann is no different. \n\nThe §BBailiff’s§! people argue that the §0Council§! only wishes to fill their own pockets (a statement not far from the truth), ignoring the will of the people. The §0Council§! decry what they see as ‘mob rule’, and claim the §BBailiff§! wishes to be a military dictator. The §RGunsmith’s§! feel both groups are slightly silly, and think that more effort should be devoted to industry."
+nf_bis.10.a:0 "A §0Council§! Majority!"
+nf_bis.10.b:0 "The §RGunsmiths§! weigh in."
+nf_bis.10.c:0 "The §BBailiff§! Triumphs!"
+
+nf_bis.11.t:0 "The River League"
+nf_bis.11.d:0 "Second, and perhaps the most important, is Bismarck’s continued membership of the River League. While the River League has made many in Bismarck filthy rich, its overall effect on the population has been somewhat negative in recent years. The harsh taxes imposed by the League have always been a sore point, and the League’s attempts to control Bismarck’s internal affairs even more so. \n\nThe §0Council§! wants to remain a member, pointing out the economic opportunities provided by the League. Luxuries, while in many cases prohibitively expensive for some lesser groups, are available from as far away as Mexico. Surely this is a good thing, they argue. \n\nThe §BBailiff§! and his people see the League as meddlers in Bismarck’s destiny, and wish to be done with them. This would free up resources for Bismarck to support itself."
+nf_bis.11.a:0 "We are stronger in the League!"
+nf_bis.11.b:0 "We'll chart our own Path."
+
+nf_bis.12.t:0 "The Militia Budget"
+nf_bis.12.d:0 "Third is the ever present question of funding for the Militia. Many on the §0Council§! feel the Militia receives more funding than is needed, and disparage what they see as waste and corruption (ironic, considering most §0Councilmembers§! get their position through bribery). They believe that cutting the Militia’s budget would allow investment in other sectors. \n\n§BBailiff§! Sudermann decries this as absolute stupidity. He points out that Bismarck is surrounded by potential enemies. He also notes that Bismarck only exists due to a well equipped Militia (or atleast, better equipped than its neighbors). WIthout a citizen’s force to fill out the numbers, the few standing forces Bismarck does have would be swiftly overwhelmed, leading to disaster."
+nf_bis.12.a:0 "Cut the waste."
+nf_bis.12.b:0 "Approve a full budget!"
+
+nf_bis.13.t:0 "Factory Specialization"
+nf_bis.13.d:0 "With our foray into a proper manufacturing sector, we’ve realised we only have resources to focus on one area at the moment. Should we invest in the production of consumer goods, hoping to appease the populace? Or would it be better to turn our fledgling military industry into a proper military industrial complex, capable of fueling future wars?"
+nf_bis.13.a:0 "Invest in civilian factories"
+nf_bis.13.b:0 "More guns for the front!"
+
+nf_bis.14.t:0 "A Mustering Across the Missouri"
+nf_bis.14.d:0 "Something is amiss across the Missouri. Scouts have reported concentrations of troops under the control of Bismarck. It seems they mean to strike us in the back while we’re occupied by our current foes. We should prepare our warriors to face them as soon as possible."
+nf_bis.14.a:0 "Sound the Drums of War!"
+
+nf_bis.15.t:0 "Victory!"
+nf_bis.15.d:0 "We’ve done it! Many thought we would be crushed immediately, but we’ve won! As our troops sweep south, sending Standing Rock warriors fleeing in panic, leaving Linton and Gettysburg defenseless. Even now our forces are moving to capture them, securing this side of the Missouri for Bismarck!"
+nf_bis.15.a:0 "Huzzah!"
+
+nf_bis.16.t:0 "Failure"
+nf_bis.16.d:0 "We’ve failed. So many lie dead in the borderlands near Linton, cut down by Standing Rock warriors. This has been a disaster for Bismarck."
+nf_bis.16.a:0 "Prepare graves for the fallen..."
+
+nf_bis.17.t:0 "Victory"
+nf_bis.17.d:0 "Bismarck’s pitiful militia has been beaten back, our warriors cutting down those who try to surrender. They stood no chance against us."
+nf_bis.17.a:0 "Glorious"
+
+nf_bis.18.t:0 "Defeat"
+nf_bis.18.d:0 "Our warriors have been defeated! Even now they run, terrified of Bismarck’s militia, being slaughtered in droves. We’ve no idea how this could’ve happened!"
+nf_bis.18.a:0 "Damn that Sudermann!"
+
+nf_bis.19.t:0 "Threats on All Sides"
+nf_bis.19.d:0 "While Bismarck has so far been spared any large scale invasion, raid, or attack, there are still many threats surrounding us. The Two People and Standing Rock are both fierce warrior nations, and would carve up Bismarck if they could. To the north, the Atom crazies poke our borders every once and a while. And to the South, the Plaguelands wait, filled with haunts. All of these things present threats that must be dealt with if Bismarck is to survive. \n\nHowever, opinions are split on how exactly these things should be dealt with. The §0Council§! thinks that we can bribe our way to survival, leveraging Bismarck’s wealth and position to keep other powers from snapping us up. The §BBailiff’s§! crowd feel this is a recipe for disaster, and that we’d only strengthen our foes while they creep in for the kill. §BBailiff§! Sudermann wants to take the fight to our rivals, stamping out any threats with military force."
+nf_bis.19.a:0 "Money will save us!"
+nf_bis.19.b:0 "Rally the troops, let’s get marching."
+
+nf_bis.20.t:0 "The Earthworks"
+nf_bis.20.d:0 "With tensions between Bismarck and Standing Rock growing ever higher, §BBailiff§! Sudermann and his Deputies think we should continuously increase our defenses. “Better to do too much diggin’ than too much dyin’.” he’s been quoted saying, “The more bullets hittin’ dirt, the better a chance we have of surviving.” \n\nThe §0Council§! thinks this is an attempt to embezzle funds, and unless pushed, will only approve resources for minimal entrenchments. They think the money and time would be better suited if it was invested in armaments."
+nf_bis.20.a:0 "The §0Council§! is right."
+nf_bis.20.b:0 "Any advantage we can get is well worth it."
+
+nf_bis.21.t:0 "A Demand from Bismarck"
+nf_bis.21.d:0 "It seems that Bismarck's §BBailiff§! is demanding we relinquish control of the town of Carrington, and its surrounding territory. They claim they need the area for ‘security purposes’. While any surrender of Atom’s Promised Land is abhorrent, we may lack the strength to fight them in a protracted conflict. If we accept, we might be able to buy time. Should we decline, we could invite retribution."
+nf_bis.21.a:0 "We have no choice..."
+nf_bis.21.b:0 "Atom's Chosen will never surrender!"
+
+nf_bis.22.t:0 "An Offer for Carrington"
+nf_bis.22.d:0 "The §0Council§! of Bismarck has sent an envoy with the offer of purchasing the territory of Carrington. While the sale of Atom’s Chosen Ground would normally be heretical, the sum they offer is large to say the least. We could certainly use the money, and Carrington is at the edge of our territory. And should we refuse, they may resort to more… direct methods of acquisition."
+nf_bis.22.a:0 "Approve the sale"
+nf_bis.22.b:0 "Never!"
+
+nf_bis.23.t:0 "Rejection"
+nf_bis.23.d:0 "The Church of the Silo has rejected us!"
+nf_bis.23.a:0 "Damn."
+
+nf_bis.24.t:0 "Resistance"
+nf_bis.24.d:0 "Even before we’d finished our conquest of the Two Peoples, resistance to our occupation had begun. While this wasn’t in any way surprising, it is more than a little annoying. We need to silence this dissent before it becomes a true threat, so we can take full advantage of the territories. \n\nThe §BBailiff’s§! solution is simple, if harsh: relocate any who resist across the Big Sioux. They can be more easily watched there, allowing us to focus our occupation forces. \n\nThe §0Council’s§! solution is far more expensive, involving generous subsidies for submission. While this will wound our treasury significantly, it’s a much more ethically pleasant response to the situation."
+nf_bis.24.a:0 "Approve the funds."
+nf_bis.24.b:0 "Let's get this over with."
+
+nf_bis.25.t:0 "Bismarck offers Trade!"
+nf_bis.25.d:0 "A message from the nation of Bismarck has arrived, offering a trade agreement, and access to the skills of their vaunted §RGunsmiths!§!"
+nf_bis.25.a:0 "Excellent!"
+
+nf_bis.26.t:0 "They're Buying!"
+nf_bis.26.d:0 "[FROM.GetName] has sent an offer to purchase a shipment of weapons from us!"
+nf_bis.26.a:0 "Approve the sale!"
+nf_bis.26.b:0 "We aren't selling right now."
+
+nf_bis.27.t:0 "They Accept!"
+nf_bis.27.d:0 "Bismarck has accepted our offer!"
+nf_bis.27.a:0 "Excellent!"
+
+nf_bis.28.t:0 "Rejection"
+nf_bis.28.d:0 "Bismarck has rejected our offer!"
+nf_bis.28.a:0 "Another time then."
+
+nf_bis.29.t:0 "The Big Guns"
+nf_bis.29.d:0 "[FROM.GetName] has sent an offer to purchase a shipment of gauss rifles."
+nf_bis.29.a:0 "Approved, have fun!"
+nf_bis.29.b:0 "We need those currently."
+
+nf_bis.30.t:0 "They Accept!"
+nf_bis.30.d:0 "Bismarck has accepted our offer!"
+nf_bis.30.a:0 "Excellent!"
+
+nf_bis.31.t:0 "They're Buying!"
+nf_bis.31.d:0 "[FROM.GetName] has sent an offer to purchase a shipment of weapons from us!"
+nf_bis.31.a:0 "Approve the sale!"
+nf_bis.31.b:0 "We aren’t selling right now."
+
+nf_bis.32.t:0 "They Accept!"
+nf_bis.32.d:0 "Bismarck has accepted our offer!"
+nf_bis.32.a:0 "Excellent!"
+
+nf_bis.33.t:0 "The Big Guns"
+nf_bis.33.d:0 "[FROM.GetName] has sent an offer to purchase a shipment of gauss rifles."
+nf_bis.33.a:0 "Approved, have fun!"
+nf_bis.33.b:0 "We need those currently."
+
+nf_bis.34.t:0 "They Accept!"
+nf_bis.34.d:0 "Bismarck has accepted our offer!"
+nf_bis.34.a:0 "Excellent!"
+
+nf_bis.35.t:0 "They're Buying!"
+nf_bis.35.d:0 "[FROM.GetName] has sent an offer to purchase a shipment of weapons from us!"
+nf_bis.35.a:0 "Approve the sale!"
+nf_bis.35.b:0 "We aren’t selling right now."
+
+nf_bis.36.t:0 "They Accept!"
+nf_bis.36.d:0 "Bismarck has accepted our offer!"
+nf_bis.36.a:0 "Excellent!"
+
+nf_bis.37.t:0 "The Big Guns"
+nf_bis.37.d:0 "[FROM.GetName] has sent an offer to purchase a shipment of gauss rifles."
+nf_bis.37.a:0 "Approved, have fun!"
+nf_bis.37.b:0 "We need those currently."
+
+nf_bis.38.t:0 "They Accept!"
+nf_bis.38.d:0 "Bismarck has accepted our offer!"
+nf_bis.38.a:0 "Excellent!"
+
+nf_bis.39.t:0 "An Offer From Bismarck"
+nf_bis.39.d:0 "The nation of Bismarck has sent an offer to purchase the services of our young warriors as mercenaries. In exchange, they offer regular payments, and to train our young in the ways of conventional war."
+nf_bis.39.a:0 "Excellent!"
+
+#PARTIES
+
+BIS_long_PPL_name:0 "§BThe Bailiff's Folk§!"
+
+BIS_long_RUL_name:0 "§WBismarck Historical Society§!"
+
+BIS_long_ELT_name:0 "§0The Council§!"
+
+BIS_long_INT_name:0 "§RThe Gunsmiths§!"

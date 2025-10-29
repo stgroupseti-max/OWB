@@ -1,0 +1,183 @@
+﻿l_english:
+  ### CHARACTERS
+  #Leaders
+  BLC_BATTERY_NAME:0 "Battery of Mesa Verde"
+  BLC_BATTERY_DESC:0 "Born into the Ciphers, who gave him the name "Battery", he would spend most of his early life travelling. As he was working in the city of Jericho at a water plant, Battery would befriend a run-away Prisoner, wearing a jumpsuit with the label “13”.\n\nBattery would travel with this Prisoner as they walked the wastes, made bonds with other wasters and saved more runaways from the prison she broke out of. Eventually, this would lead to Battery and the Prisoner building a small wandering settlement of vagabonds, traders and reformed raiders.\n\nEventually, the Prisoner would have to part ways with Battery, feeling a need to fulfill their own journey and right their wrongs. Hardened through his time with the Prisoner, Battery would take the vagabond caravan that the Prisoner had built and travel north to the abandoned Tibbets Prison, hoping to start fresh and build a new life."
+  BLC_BATTERY_ARMY_CHIEF_desc:0 "§L§YGeneral Description:§! Battery was many things already; a primitive tribal, curious mechanic, placeless vagabond, best friend and a great leader. Being as travelled as he is, he learned how to defend himself and the people he finds dear - and if the situation forced his hand, he could take the mantle of the salvation of his nation. But he is no tyrant and would never do such a thing easily...\n\n§YAlignment:§! §OWhat do you think?§! §RBattery would undermine his credibility somewhat taking this role!§!§!"
+
+  BLC_WARDED_NAME:0 "The Warded"
+  BLC_WARDED_DESC:0 "A former resident of the Tibbets Prison, the Warded was the right man at the right place at the right time. Born with the name of Peter Brett, he got into the Penitentiary as part of the CURE protocol. He was just an ordinary man with simple aspirations for his life. That all changed within the prison's walls, where he got inked and radicalized by the older inmates.\n\nFinding himself outside of the Big Top, he tried to put as much distance between himself and that cursed place as he could, and then ran into the Painted Men, a Coloradan tribe. They found his tattoos magical, exotic and sacred. Since they were in the middle of choosing a new shaman for the tribe, he just got lucky to be selected. Under his leadership, the tribe followed his vision and prepared for war, intending to unite the Northwestern Coloradan tribes under his leadership. Now that the Black Canyon project is over, nothing stops them from fulfilling their destiny."
+  BLC_WARDED_CULTURAL_ADVISOR_desc:0 "§YGeneral Description:§! §LThis Shaman has led the Painted Man for almost twenty years now as a religious head shaman and took the leading role from the war chief just recently. He sees the opportunity in working with us, but feels intimidated by our attempts to secularize the nation. A religious zealot through and through, he wants to preserve the cultural and spiritual independence of his tribe by any means necessary.§!\n\n§YAlignment:§! §LAs leader of the Painted Men, he is a zealous supporter of the §RTribal Council§!!§!"
+
+  BLC_BEARHARD_NAME:0 "Bearhard Rivers"
+  BLC_BEARHARD_DESC:0 "The Rivers family were always influential around the Riverbend region, and when Bearhard became the Lord Mayor, their golden age came. Under his leadership the Yampa towns got united, and he brought never seen prosperity to the land as well.\n\nThe Black Canyon project was nice and dandy, with it he secured their safety and even profited nicely from it. But now that it's over, they can be more aggressive. There are towns on the other side of the river as well, and their naval supremacy over the river has to be completely secured. For their continued safety, of course."
+  BLC_BEARHARD_ECONOMIC_ADVISOR_desc:0 "§YGeneral Description:§! §LThe Yampan Coalition is a settler confederation that has been defending itself from the Hangdogs since time immemorial. They are led nominally and represented by Bearhard Rivers in our Government. While the Coalition has substantial political power, it would be difficult for us to centralize in any meaningful way while the Coalition maintains itself in its current form.§!\n\n§YAlignment:§! §LAs leader of the Coalition, he is a steadfast supporter of §PMerchants' Guild§!!§!"
+
+  BLC_MCBRIDE_NAME:0 "Mallet McBride"
+  BLC_MCBRIDE_DESC:0 "Mallet McBride is not a nice man. In fact, he's an outright asshole, and his men are no different. He was the biggest and meanest of the bunch, and while he isn't that smart, he was cunning in his own way. But as he grew old, he lost his famous temper and was ready to leave all the raiding behind him - and somehow even managed to keep the gang together, not letting anyone take his place. Maybe it was the respect he earned as the gang's leader, maybe it was just the fact he successfully grew old in a land where most people die young.\n\nNow that nothing holds him back, he can turn back to the thing he was always the best at - causing mayhem and taking everything, nailed-down objects included. And maybe he will be able to find his final treasure as well; a real legacy."
+  BLC_MCBRIDE_ARMY_CHIEF_desc:0 "§YGeneral Description:§! §LA raider who got his start in the Mojave, he left his family back in Novac to join a larger band. Mallet's ugly mug and vicious temper hide his bestial cunnin well, and that very vicious streak is what got him put in charge of the raiders of the Big Top in the first place.\n\nIn an anarchic crowd, oftentimes the man who is willing to do ANYTHING gets put in charge. But the question is how far does anything extend? Would he be willing to make a deal to maintain power? How pragmatic can one expect a psycho-addicted psychopath to be?§!\n\n§YAlignment:§! §LBeing the top-dog of the raiders of Tibbets', he is a ruthless supporter of §ghis own Clique§!!§!"
+  #
+  #BLC_MCBRIDE_KING_NAME:0 "King "Martel" McBride I"
+  #BLC_MCBRIDE_KING_DESC:0 "King McBride is not a nice man - in fact, he's a downright royal asshole, and his newly appointed nobility ain't no different them him. Before his coronation, he was the meanest raider in Colorado, and now, he is the most infamous royal figure on the whole continent. Now, as he grew old, he decided he will rather use his tax-collectors than loaded weapons to extort the wealth for his luxury lifestyle, and enacts laws to entertain himself, not ordering his men around. He only need two things to fill his life was completed - a queen, and an heir. And as he heard, there is a Queen that could be used for solving both problems..."
+
+  BLC_KODA_RIVERS_NAME:0 "Koda Rivers"
+  BLC_KODA_RIVERS_DESC:0 ""
+  BLC_KODA_RIVERS_NAVY_CHIEF_desc:0 "§YGeneral Description:§! §LBeing the father of the most successful men in the Community has its own merits. Koda was always a fan of the river, maybe even more than the usual Coalition citizen, with an odd fixation on fish and fishing. But he is content to be the "admiral" of the Coalition's little fishing fleet in a place where the river holds no more danger than a rival trader sailing south from Wyoming.§!\n\n§YAlignment:§! §LBeing the father of Bearhard and the admiral of the Coalition, his loyalties are with the §PMerchants' Guild§!!§!"
+
+  BLC_DEPUTY_FISCHER_NAME:0 "Deputy Kate "Big Nose" Fischer"
+  BLC_DEPUTY_FISCHER_DESC:0 "Katie Fischer had it rough in her life. Her parents had to leave Vault 27, and they later died from an attack by the Tibbets' raiders. While she got lucky and survived, one of the raiders took her for adoption. She grew up with them for roughly a decade, until one of them tried to rape the now-adult woman. She killed her assailant, and escaped south to Rawlins. She found herself a home and people to call her family. She figures the best way she can protect her new family is by serving the nation that took revenge on everybody that ever hurt her. Life has a way."
+
+  BLC_WARDEN_JACKSON_NAME:0 "Warden Jackson"
+  BLC_WARDEN_JACKSON_DESC:0 "Jackson Cho was born to a Shi woman and an NCR trooper. As a result, he felt as though he belonged to neither.  He has wandered ever since, going briefly to Fort Cap Hell and joining some NCR Deserters and Wardens of the White exiles on their trek to Colorado. Here he was selected by our government to administrate Black Canyon in our stead for his administrative prowess as well as his mean streak to keep the raider residents of this nation in line. He also notably lacks the ambition or the acumen to put up significant resistance to our demands of his nation. An excellent choice."
+  BLC_WARDEN_JACKSON_HIGH_COMMAND_desc:0 "§YGeneral Description:§! §LJackson Cho was born to a Shi woman and an NCR trooper. As a result, he felt as though he belonged to neither. He has wandered ever since, briefly going to Fort Cap Hell and joining some NCR Deserters and Wardens of the White exiles on their trek to Colorado. Here he was selected to be the new Warden of the Big Top by Battery himself for his administrative prowess and cruel streak. Perhaps he could lend his expertise to the greater government as a whole too?§!\n\n§YAlignment:§! §LDue to either being content with his current position, Warden Jackson politically neutral.§!"
+
+  #Chief of Staff and High Command
+  BLC_QUICK_ASP_NAME:0 "Quick Asp"
+  BLC_QUICK_ASP_DESC:0 ""
+  BLC_QUICK_ASP_ARMY_CHIEF_desc:0 "§L§YGeneral Description:§! Quick Asp is a peaceable sort, especially compared to the Warded and his warmongering sermons. He is old and wise, and his virtues are his patience and experience. But the Wasteland is a cruel place, and his kin are weakened by lies and scattered to the wind. Maybe a greying coyote is not as dangerous as a raging yao-guai, but only the coyote knows how to defeat a rattlesnake, or when one needs to lose a battle to win a war.\n\n§YAlignment:§! The Warded stole the tribe from him and led his people astray, but he would never turn his back to the §RTribal Council§!.§!"
+
+  BLC_PRESTON_MIKLOVICH_NAME:0 "Preston Miklovich"
+  BLC_PRESTON_MIKLOVICH_ARMY_CHIEF_desc:0 "§YGeneral Description:§! §LPreston is a firm believer that an armed society is a polite society. There is no need for a large standing army if everyone in your nation knows how to shoot a gun. As such, Preston started his career as a travelling tutor of some sort, going from settlement to settlement teaching everyone how to shoot. Kind of like Johnny Appleseed, except with violence.§!\n\n§YAlignment:§! §LBorn and raised in Rockriver, his peculiar ways of the citizen soldier come from the Coalition, and as such he support the §PMerchants' Guild§!!§!"
+  BLC_PRESTON_MIKLOVICH_HIGH_COMMAND_desc:0 "§YGeneral Description:§! §LPreston is a firm believer that an armed society is a polite society. There is no need for a large standing army if everyone in your nation knows how to shoot a gun. As such, Preston started his career as a travelling tutor of some sort, going from settlement to settlement teaching everyone how to shoot. Kind of like Johnny Appleseed, except with violence.§!\n\n§YAlignment:§! §LBorn and raised in Rockriver, his peculiar ways of the citizen soldier come from the Coalition, and as such he support the §PMerchants' Guild§!!§!"
+
+  BLC_FISHGARTH_NAME:0 "Fishgarth"
+  BLC_FISHGARTH_NAVY_CHIEF_desc:0 "§YGeneral Description:§! §LThere are others besides the Yampans who live or die by the river. The tribe of the River Foxes always lived next to the Platte and got by fishing, utilizing special fish traps they engineered into the river narrows. Fishgarth is one of them, and probably the most skilled there ever was. Since the settlers from the Bull Pen and Alcova tried to push them out for more fishing range, he is also the most skilled when it comes to waterways in the area.§!\n\n§YAlignment:§! §LFishgarth supports the §RTribal Council!§!§!"
+
+  BLC_LIFT_NAME:0 "Jonah "Lubber" Lift"
+  BLC_LIFT_NAVY_CHIEF_desc:0 "§YGeneral Description:§! §LThere is not much to know about Jonah. He was not originally part of McBride's gang, but rather wandered into the general region of the old prison. He was schizophrenic and talked without much reason, and as such they tried to enslave him. It was a grave mistake, as the Blue Giant rampaged and murdered seventeen members of the gang. McBride decided to reason with him. Diplomacy was surprisingly effective. The only thing Jonah wanted was to be able to steer his own ship. The raider leader bought the oldest and cheapest Yampan vessel he could find and gifted it to Jonah, who has since happily braved the waves, with little to show for it.§!\n\n§YAlignment:§! §LHe is loyal to §gMallet's Clique!§!§!"
+
+  BLC_VARGA_NAME:0 "Dweller Leslie"
+  BLC_VARGA_AIR_CHIEF_desc:0 "§YGeneral Description:§! §LLeslie Varga is just as typical vault dweller as he could be. His family of Hungarian roots got sorted into Vault 27 and lived an almost uneventful life until this point. His GOAT pushed him into engineering, and as he lived his whole life in an underground bunker, his mind always was in the clouds. While he wasn't part of the original exiles, when the Black Canyon marched into Hot Sulphur Springs, he happily lent his service to the Canyonites to conquer the skies, as he always wanted to do so.§!\n\n§YAlignment:§! §LHe is thankful to the §2Caravan Congress§! for the opportunity they have presented him with.§!"
+
+  BLC_WROTHWRIGHT_NAME:0 "Amelia Wrothwright"
+  BLC_WROTHWRIGHT_AIR_CHIEF_desc:0 "§YGeneral Description:§! §LAmelia Wrothwright is a pilot and trader from Eagle Rock. The place is a massive airship yard trades across western North America. Due to cutting a starving settlement a deal on food, she was sent here as a punishment by the council. She's made fast friends with Battery and doesn't seem to miss home at all. She is more than happy to lend her expertise in any way she can to another distinguished trader with so many interesting stories to tell.§!\n\n§YAlignment:§! §LShe is utterly devoted to her new close friend Battery, and to a lesser extent the §2Caravan Congress§! as a whole.§!"
+
+  BLC_INKHOUSE_NAME:0 "Inkhouse"
+  BLC_INKHOUSE_HIGH_COMMAND_desc:0 "§YGeneral Description:§! §LInkhouse is an expert in the old ways of making armor. He is a master in the preparation and curing of Yao Guai and Deathclaw hides, the cutting and fabrication of said hides into comfortable flexible and strong armor, and the painting of the armor to protect them from malignant spirits. No one in all the wastes knows more about the crafting of leather than he does. We would be foolish not to consider his advice in making our own.§!\n\n§YAlignment:§! §LBorn and raised as a Painted Man, he is an ardent §RTribal Council§! member!"
+
+  BLC_ZENITH_OF_CRIAG_NAME:0 "Zenith of Criag"
+  BLC_ZENITH_OF_CRIAG_HIGH_COMMAND_desc:0 "§YGeneral Description:§! §LThe Pyre-Watchers tribe was almost completely wiped out by the Painted People's conflicts. They can thank Battery himself for their existence, as he gives them a new purpose and their leader a new chance.\n\nZenith took the mantle of leadership from his mother as he had no sisters to precede him in inheriting the tribe. While a logistic genius, he had no taste for war and was almost wiped out by the Dryblowers gang when they tried to escape westward. When Black Canyon formed, and Battery set up the Beacon system over the cliffs of the Rockies. He knew the tribe of Pyre-Watchers would be the best to handle this primitive signalling system. Despite his personal allegiance to Battery, he is an apprentice of the Warded, learning his ways and slowly radicalizing the boy from Criag.§!\n\n§YAlignment:§! §LHaving a chair on the §RTribal Council§! secured his loyalty for life.§!"
+
+  BLC_THOREAU_NAME:0 "Cpt. Thoreau Woods"
+  BLC_THOREAU_HIGH_COMMAND_desc:0 "§YGeneral Description:§! §LBeing the son of the second most influential family in the Coalition, one would think the young Woods should consider himself lucky. That would be the case if his father wasn't a runaway who beget him out of wedlock with a caravan whore somewhere between here and New Canaan. Despite his prestigious bloodline and wealth that would wait for him at home, he lived as a caravan guard, protecting cargo all over the Wasteland. He went from the Hub to Koover, and from the North End to Dog-City. But when he heard what kind of life awaited him back in his homeland, he came back to the old Riverbend fast. He is an expert on logistics and surviving the horrors of the wastes with limited supplies, and his knowledge could be invaluable to us.§!\n\n§YAlignment:§! §LThis old wanderer's heart belongs to the §PMerchants' Guild§!§!"
+
+  BLC_RYAN_MITCHELL_NAME:0 "Ryan Mitchell"
+  BLC_RYAN_MITCHELL_HIGH_COMMAND_desc:0 "§YGeneral Description:§! §LWherever Mallet goes Ryan follows. Ryan is loyal to Mallet to a fault and has killed for him oftentimes without a need to say. He is an expert at going out of his way to kill as few people as possible to break the morale of whatever insurrection or coup Mallet is facing this week. That manpower is needed for the enemy.§!\n\n§YAlignment:§! §L§gMallet's Clique§!. No further comments needed.§!"
+
+  BLC_ANSON_NAME:0 "Anson the Entertainer"
+  BLC_ANSON_HIGH_COMMAND_desc:0 "§YGeneral Description:§! §LAnson ran the brothel in Jericho, and does it now in the Boat as well. He is quite the misogynist, but he does not overtly show his hatred. He is usually very calm and emotionless, and runs a tight ship with his combo tavern/brothel.§!\n\n§YAlignment:§! §LAs a shady person whose clientele are mostly raiders, he is politically aligned to §gMallet's Clique§!."
+
+  BLC_HUGH_JEST_NAME:0 "Hugh Jest"
+  BLC_HUGH_JEST_RESEARCH_ADVISOR_desc:0 "§YGeneral Description:§! §LHugh stands at the better part of seven feet tall and at one point worked in quarries for a living, making him big and burly. He has been shot at over people assuming he's violent or a super mutant of some kind, which makes him really sad because he's a pretty friendly guy. He loves nothing more than to lift heavy objects out of people's way, reach things off high shelves for shorter people, and (How Battery met him) pull stuck caravans out of knee-deep mud. People assumed he was stupid as well until Battery gave him a pair of glasses. Now he reads everything he can get his hands on, including military theory. It turned out to be his special talent.§!\n\n§YAlignment:§! §LOur big guy appears to be apolitical, he's just really happy to lift big rocks, read books, and help out. Effectively speaking that means he sides with the §2Caravan Congress§!.§!"
+
+  BLC_DAMIEN_ETTO_NAME:0 "Dweller "the Fool" Damien"
+  BLC_DAMIEN_ETTO_RESEARCH_ADVISOR_desc:0 "§YGeneral Description:§! §LDamian is a humongous word nerd. He loves books, he reads anything and everything he can get his hands on. But his special interest is Cryptograms. He loves making and decoding little puzzles that turn numbers into words. He has actually taken to intercepting our radio transmissions and decrypting them just for fun! His GOAT test actually placed him as a janitor, but he would definitely be better served in a different role. How about as a show of goodwill we give him his dream job?§!\n\n§YAlignment:§! §LHe supports the §2Caravan Congress§! for giving him something better to do.§!"
+
+  #Ministers - Economic
+
+  BLC_SEMMELWEIS_NAME:0 "Philipp Semmelweis"
+  BLC_SEMMELWEIS_ECONOMIC_ADVISOR_desc:0 "§YGeneral Description:§! §LThe Followers of the Apocalypse need no introduction. Having them as a local institution is a sign of civilization compared to others. Phillip is fairly typical for a follower, as an anarchic pacifist who believes that decentralized cooperation is the best way for society to function. He enjoys reading pre-war philosophical works in his spare time, and his area of expertise is mining and production techniques. Riveting.§!\n\n§YAlignment:§! §LOfficially non-partisan, unofficially prefers Battery's §2Caravan Congress§! and all the good they did this far."
+
+  BLC_JAMISON_NAME:0 "Henry Jamison"
+  BLC_JAMISON_ECONOMIC_ADVISOR_desc:0 "§YGeneral Description:§! §LThe Crimson Caravan Company represents access to the resources of the largest nation in the Wasteland, a land called California. We would do well to emulate the most successful nation we know of, and that starts with this man. He is an absolute mess of a man, preferring to do anything other than work. He claims that his assignment out here was a punishment from Alice McLaferty for his poor performance in some place called New Vegas. Perhaps with some time and effort he can be an asset for Black Canyon.§!\n\n§YAlignment:§! §OOnly loyal to himself and money.§!"
+
+  BLC_GIORDANOS_NAME:0 "Enzo Giordano"
+  BLC_GIORDANOS_ECONOMIC_ADVISOR_desc:0 "§YGeneral Description:§! §LEnzo is one of the Giordano Triplets who helped form the 3-Some Caravan Company. He is a charismatic salesman who helped his other two brothers build a reliable customer base. Now that they are well-established as a company, Enzo was more than happy to make the jump to politics. One might even say he was eager to do it.§!\n\n§YAlignment:§! §LDespite his raider roots and former connections to Mallet, he is a steadfast supporter Battery and the §2Caravan Congress§!. Some people do change."
+
+  BLC_SIMON_KRIEGER_NAME:0 "Simon Krieger"
+  BLC_SIMON_KRIEGER_ECONOMIC_ADVISOR_desc:0 "§YGeneral Description:§! §LSimon has seen the great Old World Wall holding back the waters of the world. The Dam that the Bear, the Bull, the Brotherhood, and Vegas are fighting tooth and nail for. Simon went to this battle royale and secured for himself a small piece of the pie no matter who is in control of the dam. This genius needs our support to increase the share.§!\n\n§YAlignment:§! §OHis loyalties lies somewhere else...§!"
+
+  BLC_LITTLE_CIRCLE_NAME:0 "Little Circle"
+  BLC_LITTLE_CIRCLE_ECONOMIC_ADVISOR_desc:0 "§YGeneral Description:§! §LLittle Circle is a devout follower of the Iron Lines religion, believing that they allow the path of the Great Roaring Machine to expand. Little Circle here is only eighteen winters old, but has volunteered to come here to share his expertise on the creation and expansion of the metal lines. It was only going to be a temporary teaching assignment, but he decided he liked it here after marrying into the Painted Men tribe, so he is here to stay as long as we need his services.§!\n\n§YAlignment:§! §L§RTribal Council§!. Love and family before anything."
+
+  BLC_IVAN_NAME:0 "Ivan the Pickpocket"
+  BLC_IVAN_ECONOMIC_ADVISOR_desc:0 "§YGeneral Description:§! §LIvan is an expert at sleight of hand, both performing it himself and spotting when others are trying to do it poorly. So whenever a fella is trying to screw Mallet over by taking some of the hard-earned loot whenever he doesn't got any right to it... when we need that loot to make better stuff to get more loot? Ivan is quick to spot that sort of thing and correct it himself so that Mallet doesn't need to worry about it.§!\n\n§L§YAlignment:§! Being Mallet's left hand not the worst position one can have; §gMallet's Clique§!.§!"
+
+  BLC_PHIL_NAME:0 "Phil"
+  BLC_PHIL_ECONOMIC_ADVISOR_desc:0 "§YGeneral Description:§! §LPhil traveled with his partner Sparky to our nation after Ouroborus took over the mine where they worked. Phil apparently is a former bounty hunter who had to hunt down Sparky for some crime or another, but after they met he just couldn't bring himself to turn him in. Not for all the caps in the Wasteland. Now he's sort of Sparky's handler. He likes to tell the story to anyone who will listen. In fact, Phil likes to talk a lot. He is a very opinionated man, like how he didn't much care for our nation until we got better about the whole raider thing, or how he likes the Congress much better than that Mallet McBride fella. Or about how he'd be willing to work to stay here and make sure it stays on the straight and narrow. Fascinating stuff. He seems more than willing to offer his and Sparky's expertise.§!\n\n§YAlignment:§! §LPhil wants to help out the §2Caravan Congress§! in any way he can, and since he and Sparky are co-dependant Sparky will follow as well."
+
+  BLC_SPARKY_NAME:0 "Sparky"
+  BLC_SPARKY_ECONOMIC_ADVISOR_desc:0 "§YGeneral Description:§! §LSparky is an older fella who was a miner in Burham Springs before Ouroboros sent him packing. He and Phil have come to us now that our nation seems a bit less raider-like. Sparky does his best, but whether from age or repeated explosions in close proximity to his ears his hearing is basically gone. He is a self-proclaimed “Explosives Expert” and he claims that no one can make Flamers or Dynamite quite like him. His partner Phil assures us that these are not idle boasts.§!\n\n§YAlignment:§! §LSparky is codependent with his partner Phil, and where he goes, Sparky will follow. He has no particular love for us, but this effectively makes him loyal to the §2Caravan Congress§!.§!"
+
+  #Ministers - Cultural
+
+  BLC_MARISSA_NAME:0 "Marissa Walks-Softly"
+  BLC_MARISSA_CULTURAL_ADVISOR_desc:0 "§YGeneral Description:§! §LMarissa Walks-Softly is the first secular leader of The Painted Men tribe and has a unique experience of the entire Confederacy. She was born a Painted Men tribal, was enslaved by Mallet McBride himself, and escaped and Married Esther Alcova of the Yampan. Her freedom to choose was defended by Battery of Mesa Verde himself and she never forgot that moment. She plans on using her unique understanding of all of the people of Black Canyon to support Battery however she can, and her insights have already proven invaluable.§!\n\n§YAlignment:§! §LSMarrissa Walks-Softly, even as a member of the Painted Men tribe, is utterly devoted to the vision of the future promised by the Caravan Congress§!.§!"
+
+  BLC_ESTHER_NAME:0 "Esther of Alcova"
+  BLC_ESTHER_CULTURAL_ADVISOR_desc:0 "§YGeneral Description:§! §LEsther of Alcova is a woman who was born in the town of Medicine and lived there all her life. She found Marissa Walks-Softly beaten half to death and starving in the wilds nearby and took it upon herself to nurse her back to health. Later on, she also married her. When the monster who enslaved her wife came back to haunt them, Battery of Mesa Verde secured her wife's place at her side. She never forgot that moment even as she ran for office in Medicine on a platform of health and medical reform. Her experience as a doctor and love from the people has made Battery's plans to make a better life for the people of Black Canyon a reality.§!\n\n§YAlignment:§! §LEsther of Alcova, even as a Yampan citizen, is utterly devoted to the vision of the future promised by the §2Caravan Congress§!§!.§!"
+
+  BLC_LANE_NAME:0 "Doc Lane"
+  BLC_LANE_CULTURAL_ADVISOR_desc:0 "§YGeneral Description:§! §LDoc Lane has no official medical training beyond stimpack goes in, healed body comes out sometimes. It's not that he doesn't want to learn how to do things more properly, it's that the Big Top keeps him so busy with bloodied bodies that all he can do is learn from trial and error.§!\n\n§YAlignment:§! §LOne survives Jericho, one constantly patching up raiders who tries to fall apart constantly, and one find himself being very attached to the top dog; §gMallet's Clique§!."
+
+  BLC_DELSHAY_NAME:0 "Delshay"
+  BLC_DELSHAY_CULTURAL_ADVISOR_desc:0 "§YGeneral Description:§! §LDelshay is a member of the Jicarilla Apache, a group that was displaced when Centurion Paullus ravaged New Mexico. Now Delshay shares with us the philosophy of their people, one painfully bought by conquest and escape. A people prepared for war are a stable people.§!\n\n§YAlignment:§! §L§OTo their people, the Jicarilla§!. But adamantly supports the politics of the §2Caravan Congress§! because of their helping hand.§!"
+
+  BLC_SOUTHWICK_NAME:0 "Christopher Southwick"
+  BLC_SOUTHWICK_CULTURAL_ADVISOR_desc:0 "§YGeneral Description:§! §LSouthwick came here to share with us a most amazing book. Regardless of his religious beliefs, he also has an interest in supply and logistics. One might even call him a genius at that. Perhaps it wouldn't be so bad to suffer a bit of proselytizing to have him share his expertise with us long-term.§!\n\n§YAlignment:§! §LHis loyalties lie first and foremost with §9New Canaan§!, but supports the §RTribal Council§! due to opposing secularized politics.§!"
+
+  BLC_SADDLEBURN_NAME:0 "Saddleburn"
+  BLC_SADDLEBURN_ECONOMIC_ADVISOR_desc:0 "§YGeneral Description:§! §LThe Painted Men tribe have a beautiful artistic tradition of body painting in times of peace as well as war. Saddleburn is one of these traditional artists. He is known for painting detailed mountainscapes onto the bodies of his fellow tribesmen during festivals. We should encourage the traditional culture of our people.§!\n\n§YAlignment:§! §LDespite his pacifistic tendencies, he feels obligated to support his own tribe; §RTribal Council!§!"
+  BLC_SADDLEBURN_CULTURAL_ADVISOR_desc:0 "§YGeneral Description:§! §LThe Painted Men tribe have a beautiful artistic tradition of body painting in times of peace as well as war. Saddleburn is one of these traditional artists. He is known for painting detailed mountainscapes onto the bodies of his fellow tribesmen during festivals. We should encourage the traditional culture of our people.§!\n\n§YAlignment:§! §LDespite his pacifistic tendencies, he feels obligated to support his own tribe; §RTribal Council!§!"
+
+  BLC_SONGBIRD_NAME:0 "Timothy Songbird"
+  BLC_SONGBIRD_CULTURAL_ADVISOR_desc:0 "§YGeneral Description:§! §LThe owner of Songbird's Luxury Caravan that specializes in transporting luxury goods between the elites of New Canaan, California, and even the Legion. Despite his alleged disinterest in politics, he has a large number of very powerful friends all across the wasteland. We would be fools to ignore his clout.§!\n\n§YAlignment:§! §OOnly to himself.§!"
+
+  BLC_MCGRAW_NAME:0 "Samuel McGraw"
+  BLC_MCGRAW_CULTURAL_ADVISOR_desc:0 "§YGeneral Description:§! §LThis man is a true loyalist to the ideals of the Yampan Coalition. He is very vocal about the virtues of living in a confederacy and of mutual aid and support. He makes very convincing arguments even to newcomers in their lands. We should harness that energy and charisma to our cause and have him help us convince some of our new citizens of the perks of living in our nation.§!\n\n§YAlignment:§! §LLocal patriot of the §PMerchants' Guild§!.§!"
+
+  BLC_LADY_VEIL_NAME:0 "Lady of the Veil"
+  BLC_LADY_VEIL_CULTURAL_ADVISOR_desc:0 "§YGeneral Description:§! §LThe mysteriously named 'Lady of the Veil' is the de-facto leader of the Outsiders of Barren Valley. While she effectively collected those that left Vault 27 and formed a community in the Hot Springs Resort, she mostly does diplomatic work in our country. Having grudges against the Overseer and the Vault altogether, she discourages us from communicating with said facility, and in exchange offers up the cooperation of Resort. An offer that we might take in the future.§!\n\n§YAlignment:§! §LAs she found allies in members in the Caravan 13 and Battery, she supports the §2Caravan Congress§!!§!"
+
+  #Unit Leaders
+  #BLC_BLACKJACK_NAME:0 "Blackjack"
+  #BLC_BLACKJACK_DESC:0 "Blackjack is typically reputed for an always-friendly and easy-going person, but in the 2250s, Blackjack was in a very precarious situation that not even his friendliness could save him from. Taken captive by the Tibbets Prison AI, Blackjack and other Super Mutants were held within the Prison, with many of the native Coloradans, who had never seen Super Mutants before, quickly becoming aware of their worth, either due to their brains or, more typically, their brawn. This led to Blackjack being made a prime target by Centurions within Caesar's Legion, who were paying handsomely for live super mutants at the time, due to their repute of strength, hoping to defeat and kill them in Legion arenas.\n\nAs a result, Blackjack became the favored target of the ruthless and relentless Legion assassin, Alexandra. Desperate to outrun Alexandra, Blackjack eventually found himself barricaded inside a cave in the canyon of Mesa Verde, only to realize that the canyon had no further exit. Though he claimed to have a minigun (which was actually just a bundle of sticks and pipes painted black with charcoal), he knew that his only hope of survival was to outlast Alexandra, who was hoping to starve him out.\n\nFortunately, a Prisoner who had also escaped Tibbets Prison encountered him, resolving the situation and allowing Blackjack to gamble his days away at a former NCR outpost. In time, Battery of Mesa Verde came to hear of Blackjack's exploits (which had been modified to have him escaping Alexandra, and the Prisoner only being minor help), and decided to recruit him to his fledgling nation of Black Canyon. Blackjack has earned more than enough in gambling winnings to make him comfortable for life, but a gambling savant like Blackjack never knows when to play, or when to fold..."
+
+  ### TRAITS
+  col_bear_of_yampa:0 "Bear of Yampa"
+  col_head_of_painted_people:0 "Head of the Painted People"
+  col_paragon_of_painted_people:0 "Paragon of the Painted People"
+  col_battery_trait:0 "Symbol of Peace"
+  col_democratically_elected_leader:0 "Democratically Elected Leader"
+  col_compromiser:0 "Advocate of Harmless Disposition"
+  col_skilled_diplomat:0 "Silver-Tongued Diplomat"
+  col_water_mechanic:0 "Skillful Water Mechanic"
+  col_water_mechanic_2:0 "Caulwell's Pride"
+  col_kende_trait:0 "Kende of the Painted"
+  col_kende_trait_2:0 "Kende of the Painted"
+  col_lord_mayor_trait:0 "Lord Mayor"
+  col_lord_mayor_trait_2:0 "Lord Mayor"
+  col_raider_rebel_trait:0 "Raider Rebel"
+  col_terrible_sailor:0 "Terrible Sailor"
+  col_triplets:0 "The 3-Some Caravan Expertise"
+  col_mormon_trader:0 "Mormon Trinketmaster"
+  col_dam_good:0 "Really Dam Good"
+  col_anson_trait:0 "Immoral Quartermaster"
+  col_ryan_trait:0 "The Bloody Whip"
+  col_ivan_trait:0 "Thief-Catching Thief"
+  col_aerial_trader:0 "Sky Merchant"
+  col_militia_leader:0 "Militia Leader"
+  col_militia_recruiter:0 "Militia Recruiter"
+  col_radio_engineer:0 "Radio Engineer"
+  col_appeaser:0 "Humble Appeaser"
+  col_scavenger:0 "Experienced Scavenger"
+  col_stitches_trait:0 "The Gravedigger"
+  col_patches_trait:0 "The Caretaker"
+  col_river_lord:0 "The First River Lord and the Chief of the Fluvial Staff"
+  ###New Generics, don't want to lose them again
+  #great_survivor:0 "Great Survivor" #It pulls the loc from the base game I believe? Enabling this will give out an error in text.log
+  settler_physician:0 "Local Sawbones"
+  tribal_armorer:0 "Primitive Armoursmith"
+  tribal_champion:0 "Champion of the Tribe"
+  tribal_quartermaster:0 "Chief of the Pyre-Watchers"
+  raider_king:0 "Raider King"
+  fucking_fabulous:0 "Fucking Fabulous"
+  old_world_roads:0 "Follower of the Lines"
+  vault_hater:0 "§YDislikes Vault§!"
+  ###Unique unit leader traits
+  BLC_tribal_origins_trait:0 "Tribal Unit Leader"
+  BLC_tribal_origins_trait_desc:0 "This unit leader is part of the Warded's Tribal Council."
+  BLC_settler_origins_trait:0 "Settler Unit Leader"
+  BLC_settler_origins_trait_desc:0 "This unit leader is part of Bearhard Rivers' Merchant Guild."
+  BLC_raider_origins_trait:0 "Raider Unit Leader"
+  BLC_raider_origins_trait_desc:0 "This unit leader is part of Mallet McBride's Clique."

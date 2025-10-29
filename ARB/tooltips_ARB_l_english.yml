@@ -1,0 +1,89 @@
+﻿l_english:
+  arborg_reliant_on_manitoba_tt:0 "§YBecause of our situation, we are reliant on Manitoba for shipments of supplies. While we might be able to build up our own arms industry in the future, for now we must use our legitimacy to request shipments from our benefactors.§!"
+
+  arb_border_war_tt:0 "§GIf the raid succeeds, our legitimacy will go up dramatically.§!"
+
+  arb_not_waiting_on_response_or_neutral_tt:0 "We are not waiting on a response about support, nor have we chosen neutrality"
+
+  arb_supply_shipments_stop_tt:0 "§RWe won't be able to request supply shipments!§!"
+  arb_offer_aid_to_manitoba_tt:0 "§YWe will offer our aid to the Kingdom of Manitoba in exchange for equipment.§!"
+  arb_offer_aid_to_yorkton_tt:0 "§YWe will offer our aid to Yorkton in exchange for equipment.§!"
+
+  arb_unlock_legitimacy_decisions_tt:0 "§GThis will unlock more decisions to increase and utilise our legitimacy.§!"
+  arb_unlocks_raiding_decisions_tt:0 "§GThis will unlock decisions to continue skirmishing with Three Rivers for loot and legitimacy.§!"
+
+  arb_weakens_three_rivers_tt:0 "§GThis will weaken Three Rivers in any future border conflicts§!"
+  arb_demand_tribute_from_gimli_tt:0 "§YWe will demand tribute from Gimli in the form of weaponry. Should they refuse, we will unlock decisions allowing us to raid them§!"
+
+  arb_unlock_yorkton_focuses_tt:0 "§YFocuses to interfere and intervene in Yorkton's Rebellion have been unlocked§!"
+  arb_all_is_well_in_manitoba_tt:0 "Everything is well in Manitoba"
+
+
+  arb_bunkers_on_manitoban_border_tt:0 "§YCompleting this focus will build bunkers on every border we have with the Kingdom of Manitoba or Langenburg, and their puppets.§!"
+
+  arb_another_day_tt:0 "§OAnother day, another stolen Republican weapon.§!"
+
+  arb_core_states_taken_from_wpg_tt:0 "We will gain cores on any states we took from the Republic of Three Rivers"
+
+  ARB_send_volunteers_to_brandon_tt:0 "§GWe will be able to send volunteers to the Kingdom of Manitoba!§!"
+  ARB_send_volunteers_to_yorkton_tt:0 "§GWe will be able to send volunteers to Yorkton!§!"
+
+  arb_must_have_manitoba_support_accepted_tt:0 "Manitoba must have accepted our offer of support"
+  arb_must_have_yorkton_support_accepted_tt:0 "Yorkton must have accepted our offer of support"
+
+  arb_won_yorktons_rebellion_tt:0 "Our side must have won Yorkton's Rebellion"
+  arb_war_finished_without_a_side_tt:0 "Yorkton's Rebellion finished without us taking a side"
+  arb_lost_yorktons_rebellion_tt:0 "Our side has lost Yorkton's Rebellion"
+
+  arb_going_to_raid_you_tt:0 "§YArborg will most likely raid us in the near future§!"
+
+
+  arb_restless_obrien_tt:0 "§RRestless and pensive, O'Brien leaves his estate soon to go adventuring again, wondering if he'd have been happier if he chose a different path. Who knows where fate will take him...§!"
+
+
+  ARB_frewers_tt:0 "§gManitoba will dispatch §YGeneral Frewers§! as a Field Marshal to assist us.§!"
+  arb_unlock_advisors_tt:0 "§gWe will be sent several new advisors to help us.§!"
+
+  arb_monarchists_rise_tt:0 "Two divisions of insurgents will rise up to help us!"
+  arb_merc_reinforcements_tt:0 "Two divisions of mercenaries will appear to help us!"
+
+
+  ARB_large_legitimacy_gain_tt:0 "§GWe will gain a large amount of legitimacy.§!"
+  ARB_moderate_legitimacy_gain_tt:0 "§GWe will gain a moderate amount of legitimacy.§!"
+  ARB_small_legitimacy_gain_tt:0 "§GWe will gain a small amount of legitimacy.§!"
+
+  ARB_small_legitimacy_loss_tt:0 "§RWe will lose a small amount of legitimacy.§!"
+  ARB_moderate_legitimacy_loss_tt:0 "§RWe will lose a moderate amount of legitimacy.§!"
+  ARB_large_legitimacy_loss_tt:0 "§RWe will lose a large amount of legitimacy.§!"
+
+
+  ARB_manitoban_expedition_tt:0 "§CThe Kingdom needed some help pacifying some wasteland. What a great hunting season, that Icelurk Queen head was a nice trophy.§!\n\n"
+  ARB_northern_expedition_tt:0 "§CA caravan needed some guards to help protect their travel North. Took out quite a few raiders that trip, including their camp...§!\n\n"
+  ARB_enclave_expedition_tt:0 "§CThis one was kinda sketchy, some trip to a pre-war bunker, but it paid well and I saved the group from some Sentry bots.§!\n\n"
+
+  arb_only_manitoba_tt:0 "§YOnly Manitoba will be able to purchase our services.§!"
+  arb_only_yorkton_tt:0 "§YOnly Yorkton will be able to purchase our services.§!"
+
+  arb_hundred_soldiers_tt:0 "This will send 100 soldiers to the market and allow them to be hired, bringing the total on the market to $RIGHT$. §OIf these soldiers are not hired we will regain the manpower once the war ends, if they are hired we will regain half the manpower.§!"
+  arb_twohundredfifty_soldiers_tt:0 "This will send 250 soldiers to the market and allow them to be hired, bringing the total on the market to $RIGHT$. §OIf these soldiers are not hired we will regain the manpower once the war ends, if they are hired we will regain half the manpower.§!"
+  arb_add_experience_tt:0 "This will send 25 army experience to the market and allow it to be bought, bringing the total on the market to $RIGHT$. §OIf this experience is not bought by the end of the war we will regain it.§!"
+  arb_fifty_weapons_tt:0 "This will send 50 infantry equipment to the market and allow it to be bought, bringing the total on the market to $RIGHT$. §OIf this equipment is not bought by the end of the war we will regain it.§!"
+  arb_hundredfifty_weapons_tt:0 "This will send 150 infantry equipment to the market and allow it to be bought, bringing the total on the market to $RIGHT$. §OIf this equipment is not bought by the end of the war we will regain it.§!"
+  arb_twohundredfifty_weapons_tt:0 "This will send 250 infantry equipment to the market and allow it to be bought, bringing the total on the market to $RIGHT$. §OIf this equipment is not bought by the end of the war we will regain it.§!"
+  arb_fifty_spec_ops_tt:0 "This will send 50 special forces equipment to the market and allow it to be bought, bringing the total on the market to $RIGHT$. §OIf this equipment is not bought by the end of the war we will regain it.§!"
+  arb_add_training_advisor_tt:0 "This will send a training advisor to the market and allow them to be bought, bringing the total on the market to $RIGHT$. §OIf the advisor is not bought by the end of the war we will regain the equipment and manpower used to produce it.§!"
+
+  arb_buy_hundred_soldiers_tt:0 "This will recruit 100 soldiers from the market, removing them from the market."
+  arb_buy_hundred_weapons_tt:0 "This will buy 100 weapons from the market, removing them from the market."
+  arb_buy_twohundredfifty_weapons_tt:0 "This will buy 250 weapons from the market, removing them from the market."
+  arb_buy_fifty_spec_ops_tt:0 "This will buy 50 special operations equipment from the market, removing them from the market."
+  arb_buy_experience_tt:0 "This will buy 25 army experience from the market, removing them from the market."
+  arb_buy_training_advisor_tt:0 "This will hire a training specialist from the market, removing them from the market."
+
+
+  arb_backstabbing_sons_of_bitches:0 "Backstabbing sons of bitches"
+  arb_overbearing_monarchists:0 "Overbearing monarchists"
+
+
+  arb_no_more_legitimacy_tt:0 "By proving ourselves and our loyalty, we will no longer have to worry about our legitimacy."
+  arb_unprepared_for_war_tt:0 "§RManitoba is at war with the Republic of Three Rivers, and we're not properly prepared!§!"

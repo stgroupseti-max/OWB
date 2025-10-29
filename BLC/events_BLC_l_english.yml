@@ -1,0 +1,693 @@
+﻿l_english:
+  ### EVENTS
+  nf_black_canyon.0.title:0 "Caravan Influence Debug Options"
+  nf_black_canyon.0.desc:0 "You may be wondering while I localized an event that will never be seen by players, or if I'm lucky, other than me. Well, the question is absolutely a legit one, and let me tell you, the answer is-"
+  nf_black_canyon.0.a:0 "Ah shit, here we go again."
+  nf_black_canyon.0.b:0 "To infinity and beyond!"
+  #
+  nf_black_canyon.1.title:0 "Under the Big Top"
+  nf_black_canyon.1.desc:0 "The United States Penitentiary Tibbets, known as the "Big Top" for its rotunda dome, served as a prison for America's most dangerous criminals before the war. It was automated and managed by an AI and its robotic servants, who kept refilling its cells with new inhabitants even after the bombs fell.\n\nEventually, the prison began to receive a large number of new inhabitants. Not long after, a group of mysterious assailants breached the Big Top. Nobody within understood their purpose, and if they had, some might have stayed within the prison. But they opened the way for them to escape, and so everyone chose freedom.\n\nThe original criminals, who got in before the "Baby Boom", remained together and started raiding nearby areas. They were led by Mallet McBride, who came from the far land of the Mojave. The town of the Boat fought against them for a while, before they gave up and started to pay them tribute.\n\nDue to the threat of the Hangdogs, they signed the Tibbets' Compromise with Battery's Caravan. They promised to fight against common enemies and to not hurt their new people, but they were allowed to live mostly outside the law.\nHow did they react to the situation...?"
+  nf_black_canyon.1.a:0 "Mallet knew his place for once."
+  nf_black_canyon.1.b:0 "They constantly tested their boundaries."
+  #
+  nf_black_canyon.2.title:0 "All of the Painted People"
+  nf_black_canyon.2.desc:0 "In the untouched lands of Northern Colorado, a tribe that dedicated itself to uniting each other with ink and blood arose from the ashes of the Great War. For a time, they were a large nation, but broke apart into smaller tribes. The Painted Men are the largest remnant of this old nation. The Iron Lines or the Ciphers are now nothing more than distant cousins, and salvagers from Denver occupied the barren land between them.\n\nThey believe in the magic of the tattoos they carry on themselves, providing luck against the misfortune and strength against their enemies. They're led by the Warded, a shaman hailing from the nearby Tibbets Prison, whose body had marks of magical ink the tribals had never seen before. His rhetoric demands war against the southern salvagers and those who don't wear the Ink themselves.\n\nWhen the Caravan came and pushed for an alliance against a greater threat, they were quite enthusiastic about it. However, problems arose when the negotiations touched on finer details. The Warded worried he would lose influence over his people as 'secularism' and 'research' threatened to change them, but being offered old territories in the Rockies satisfied him."
+  nf_black_canyon.2.a:0 "He saw the opportunity in the situation."
+  nf_black_canyon.2.b:0 "But he still holds a grudge against us."
+  #
+  nf_black_canyon.3.title:0 "The Coalition"
+  nf_black_canyon.3.desc:0 "Nestled along the waters of the Platte tributary lies a group of settlements primarily made up of escaped slaves from Dog City and raiders from Tibbets. These free and proud people claim a strong culture of weapon ownership and militia organization. They lived in peace, expanding as slaves slipped through the grip of both Dog City and Mallet alike, but their very existence in this place was taboo to the Painted Men. They lived on the sacred ground of their people, and they did not like sharing with the Tribals who had lived there for centuries. Mallet McBride despised allowing former slaves to live free so close to his territory. They needed someone to help organize and lead them.\n\nFrom the township of Medicine there was a family who had lived there longer than anyone else. They gave the first escaped slaves a place to go and protected them. This family was known as the Rivers. Everyone in the Yampan Confederation knew that one of their members would become their leader, but the only question was who.\n\nSurprisingly it was Bearhard. He was an imposing man and a crack shot with a rifle, but he was quiet and sullen, unlike his brothers. He did not say much, but what he did say made the people of his settlement listen. When he was appointed, he proved to be an extremely adept statesman. He organized his people into a navy to protect the waters of the river and encourage trade.\n\nHe is the only one that took the initiative to join Battery's Black Canyon Confederacy. After all, it felt similar enough to their own. Battery knew to be wary though. He supported the Confederacy's ideals, but had quiet ambitions of his own."
+  nf_black_canyon.3.a:0 "Keep your friends close..."
+  nf_black_canyon.3.b:0 "And your enemies closer."
+  #
+  nf_black_canyon.4.title:0 "The Little Glowbugs"
+  nf_black_canyon.4.desc:0 "Black Canyon is home for a lot of different people. All of them came under our jurisdiction with our formation, with one exception.\n\nThe Glowbugs, as they call themselves, are a large group of glowing ghouls who reside in the ruins of Boulder. That city is the home of the Dome, a pre-war facility that holds many secrets to this day - and scrap, tons of valuable scrap. The Hangdogs eye it enviously. Our formation was made to deter their aggressive behaviour, and we would never let them victimize another small group if we can help it. The Glowbugs were not directly integrated into the Confederacy, instead remaining a semi-independent ally. A brother nation, if you will.\n\nWhile dealing with them will have its challenges, our first contact made such a great impression, its echoes still can be heard in our country. Who did we meet with?"
+  nf_black_canyon.4.a:0 "Patches, the funny and ever diligent scavenger."
+  nf_black_canyon.4.b:0 "Stitches, the stoic and overprotective militia leader."
+  nf_black_canyon.4.c:0 "They both showed us what they're capable of."
+  #
+  nf_black_canyon.5.title:0 "Where but for Caravan Would I?"
+  nf_black_canyon.5.desc:0 "The Caravan 13, the travelling settlement that traversed Colorado multiple times, derives its fame from its original leader. Only known as "Prisoner 13", as was the number on her Tibbets jumpsuit, was a walking miracle maker on both sides of the Colorado River. She travelled Dog City before the Hangdogs came, met and helped the Baggers' during their First Expedition, and even got a personal audience with the goddess Diana. But most importantly to us, she went to Jericho and took the city's greatest treasure; Battery.\n\nBattery learned a lot with the Prisoner, as her ever altruistic attitude not only saved him from that hellish water plant but made the wasteland a better place. The man from Mesa Verde saw multiple times how a good deed could reward itself. But after countless shared journeys, the time came when the Prisoner had to depart from her best friend and the travelling community they built together. She said she was leaving on her §R"biggest journey yet"§!.\nAfter a tearful farewell, Battery took the caravan back to Tibbets. Their arrival could not have been better timed. The region was threatened by the ever expanding Hangdogs. The bickering people of the Rockies could not join forces against the threat the Hangdogs posed without the Caravan's diplomatic service, but in the end, they convinced Dog City to back down. They achieved a miracle that day, but the locals weren't sure they trusted the Caravan..."
+  nf_black_canyon.5.a:0 "They quickly became part of the family."
+  nf_black_canyon.5.b:0 "They were borderline bootlickers, but they did the job."
+  #
+  nf_black_canyon.6.title:0 "Ghosts from the Underground"
+  nf_black_canyon.6.desc:0 "Battery's foremost diplomatic trait was his approachability - he could find common ground with everyone. As he often told, he was a tribal, a raider and a settler in one person. The only exception to this rule were the dwellers of Vault 27.\n\nPeople surviving the Great War in their underground safe house, utilizing pre-war technology and ideologies, they were quite different from our people. While they were staunch isolationists, they had two groups that could meet with us; those voluntarily exiled from the Vault in the Hot Springs Resort outside, and the mercenaries of Ghost Division.\n\nThe Outsiders in the Resort were quite vocal about their hatred of the Downdwellers, speaking about the horrors of overcrowdedness and strict regulation. All who chose freedom had to leave the facility. They are nominally in Black Canyon territory, but Ghost Division's patrols place them at the mercy of their old home.\n\nThe Ghosts are a ruthless band of mercenaries in power-armour, picking any and all jobs available, quite often doing ethically questionable acts in the name of money and sustaining the Vault.\n\nThe Vault posed a threat, and so we took action to curb their influence..."
+  nf_black_canyon.6.a:0 "Invite the Outsiders to settle our lands."
+  nf_black_canyon.6.b:0 "Raided their patrols and take their equipment."
+  #
+  #nf_black_canyon.7.title:0 "Consequences"
+  #nf_black_canyon.7.desc:0 "After settling down a neighbourhood worth of ghouls in the town of The Boat, an unfortunate situation developed. At first, the original dwellers and the ghouls voluntarily chose segregation and tried to interact as little as they could, but the city was built with different plans in the pre-war era. If one wanted to get water or set up a business in an old house they would stumble into a smoothskin or zombie one way or another, as everything is connected.\n\n After a while, the unimaginable happened, and a ghoul lady simply walked into a bar on the western edge of the city, a place where they never have to go anyway, and ordered a drink, and that started an avalanche worth of events..."
+  #nf_black_canyon.7.a:0 "A large brawl started which burned down the whole establishment..."
+  #nf_black_canyon.7.a_tt:0 "\n§gYou got this event option because you §Rdo§! have the §OMutants Recruitment Law:§! §YNo Mutants Allowed§!!§!"
+  #nf_black_canyon.7.b:0 "A guy started to flirt with the lady, and now they're expecting a baby!"
+  #nf_black_canyon.7.b_tt:0 "\n§gYou got this event option because you do §Rnot§! have the §OMutants Recruitment Law:§! §YNo Mutants Allowed§!!§!"
+  #
+  nf_black_canyon.8.title:0 "The Grand Gathering of [GetYear]"
+  nf_black_canyon.8.desc:0 "A new year, a new Grand Gathering. It couldn't be more mundane than the last one: people gather from all corners of the Federation. In primitive clothing and inked from head to toe came the tribals of the Painted Men, playing a rhythmic and dizzying song on their drums. The people from the Yampan Communities came in different but monotonous clothing, lumberjacks and fishermen alike, playing old world songs. The raiders of the Tibbets' prison were the worst - rugged leathers and rusty stitched-together armours, playing something loud and incomprehensible.\n\nAnd yet they are all our people, and the fact that they could sit down, negotiate and celebrate together was our greatest result yet.\n\nThis year's Grand Gathering went as everyone expected it to; everybody lobbied for their own interest. This year, however, the Caravan and Battery chose to side with the most convincing party."
+  nf_black_canyon.8.a:0 "The Yampans made very good points."
+  nf_black_canyon.8.b:0 "The Painted Men raised some good questions."
+  nf_black_canyon.8.c:0 "The raiders grew unruly...we should appease them a bit."
+  #
+  nf_black_canyon.9.title:0 "The Voice of the Gods and Unrest"
+  nf_black_canyon.9.desc:0 "The Painted Men, similar to the other groups in the region, have just recently banded together for their survival. The little local tribes still maintain their own identities. There are only two things that tie them together; their shared cultural and religious beliefs based on the magics of the tattoos, and their leader. The Warded is the voice of the Gods, who reads the Lines of the Mountains. He tells the Gods' will by the flow of the rivers and by the dance of the winds, by the steps of the shadows and by the waltz of the fires. The magic of the Forms can be tapped and used by the mortals as well, if on their body they can mimic them by the Ink and please the Gods.\n\nThe Warded is the centrepiece of that conglomerate, and if we can either replace him or make him our ally, we could encourage our own ideas among the Painted Men without resistance. However, sooner or later he will lead his Holy War to the south, to unite the Painted People under his banner. If that war machine starts moving, we may not have the power to stop them."
+  nf_black_canyon.9.a:0 "If we can please him, our nation will grow stronger."
+  nf_black_canyon.9.b:0 "A dangerous wildcard we shouldn't rely on."
+  #
+  nf_black_canyon.10.title:0 "The Voice of Reason and Greed"
+  nf_black_canyon.10.desc:0 "The Yampan River Coalition best illustrates our Federation - a ragtag community of different people who united under one flag in order to survive a significant threat. Every city in the coalition enjoys ample autonomy and local identity, making them more flexible, but also easier to tear apart. The coastal cities are mainly inhabited by fishers and tradesmen who operate on the Platte. Inland towns typically engage in logging and mining. With so many different people around, and without strong local leadership, our only obstacle is Bearhard.\n\nWhile the Rivers family was always an influential player in the region, Bearhard is the first that stands out from the crowd; being the most wealthy and having exceptional trading skills. He is also determined to reform the Yampan community, unconcerned who he might cross in the process. His stubbornness has earned him many enemies, which we can use against him if we cannot convince him to support our operations. But if we support his reforms, he may be satisfied with his lot."
+  nf_black_canyon.10.a:0 "We can work out a compromise."
+  nf_black_canyon.10.b:0 "He is a threat to our order."
+  #
+  #nf_black_canyon.11.title:0 "Black Canyon invites us back!"
+  #nf_black_canyon.11.desc:0 "We got a message from one of our old allies in Black Canyon. Formerly we banded together with them when the Hangdogs posed a severe threat to our region, and they think we should repeat this defensive pact for our security's sake. While our scouts have reported numerous warmongering foes around Colorado, we're not confident that we need this protection.\n\nAltough, we also have to note here that the messenger made it very clear that if we refuse the "generous deal" that the Canyon offers, they might have to force it on us. How charming."
+  #nf_black_canyon.11.a:0 "We are better off under them than anybody else."
+  #nf_black_canyon.11.b:0 "Send them this reply: §RFuck off!§!"
+  #
+  #nf_black_canyon.12.title:0 "They Anwered with §Rfu-...§! how dare they!"
+  #nf_black_canyon.12.desc:0 "The terribly short-sighted and quite unruly people of [From.GetName] has decided to decline our true goodwill gesture of protecting them! Poor, unfortunate souls cannot even see the danger they're in - their troops, if we can call their armed guards that - are in terrible shape, undertrained and -equipped as well. We're not even sure they could put up any fight against us, not against our enemies - we'll have to show them their folly. We'll send in our peacekeepers to demonstrate to them the need for a strong and unified army, and the ever-watching gaze of their Big Brother."
+  #nf_black_canyon.12.a:0 "And are we help them? Yes, indeed."
+  #
+  nf_black_canyon.13.title:0 "The Raiders are Too Quiet...!"
+  nf_black_canyon.13.desc:0 "The Raider's Council usually is quite loud at the Gatherings, clamoring for more rights and lessening the requirements of the Compromise. But suddenly, they are all acting as yes-men. Something is not right, they are scheming something in the shadows. We're not sure what's up with them, but we'll have only a limited window to cut back their overgrown influence. Before it is too late..."
+  nf_black_canyon.13.a:0 "We have to do something!"
+  #
+  nf_black_canyon.132.title:0 "The Raiders Rise!"
+  nf_black_canyon.132.desc:0 "We were unable to keep Mallet down. His raiders have now formed an organized uprising against the state they were once a part of."
+  nf_black_canyon.132.a:0 "Damn them!"
+  nf_black_canyon.132.b:0 "Hell yeah, the Mallet of the Wasteland!"
+  #
+  nf_black_canyon.14.title:0 "The Tribals are Too Quiet...!"
+  nf_black_canyon.14.desc:0 "The Tribal's Council usually is quite loud an the Gatherings, clamoring for religious freedoms and land developments in their favor. But suddenly, they are all acting as yes-men. Something is not right, they are scheming something in the shadows. We're not sure what's up with them, but we'll have only a limited window to cut back their overgrown influence. Before it is too late..."
+  nf_black_canyon.14.a:0 "We have to do something!"
+  #
+  nf_black_canyon.142.title:0 "The Painted Uprising!"
+  nf_black_canyon.142.desc:0 "We were unable to prevent the Painted Men from taking arms. The Warded now beats the drums of war against us."
+  nf_black_canyon.142.a:0 "Damn them!"
+  nf_black_canyon.142.b:0 "Let us unite the Painted Nation once more!"
+  #
+  nf_black_canyon.15.title:0 "The Communities are Too Quiet...!"
+  nf_black_canyon.15.desc:0 "The Merchants' Guild usually is quite loud at the Gatherings, clamoring for tax code reforms and for better treatment of their river. But suddenly, they are all acting as yes-men. Something is not right, they are scheming something in the shadows. We're not sure what's up with them, but we'll have only a limited window to cut back their overgrown influence. Before it is too late..."
+  nf_black_canyon.15.a:0 "We have to do something!"
+  #
+  nf_black_canyon.152.title:0 "The Yampans Revolt!"
+  nf_black_canyon.152.desc:0 "We were unable to prevent the Yampan Coalition from taking up arms. Bearhard now rallies his people against our alleged violations of their liberty."
+  nf_black_canyon.152.a:0 "Damn them!"
+  nf_black_canyon.152.b:0 "For the Coalition, for Bearhard, for freedom!"
+  #
+  nf_black_canyon.16.title:0 "The Black Canyon Civil War!"
+  nf_black_canyon.16.desc:0 "The worst we anticipated has happened - our cherished factions have been broken out from our guiding wings and started to battle each other. The countryside of the tribals, the settlers and even the settlements around the Penitentiary are aflame, kin kill kin, and the friendly neighbourhood concept entirely failed. Even us, Battery and the Caravan are in grave danger and had to flee from the country and search for a safe haven - in the lands of the Glowbugs.\n\nRight now, the raiders of the Penitentiary are clashing with the Painted Men, and the Yampans started their own offensive against the Glowbugs of the Boulder ruins. There is much hate bubbling in the deep of these people, some of them call for revenge and redemption, and some of them are after loot and glory, but in the end, there will be only one winner, and as such, the fortune will only aid one splinter faction of Black Canyon. And who will that be?"
+  nf_black_canyon.16.a:0 "Let's fuck some shit up! (Play as the §Y[BCR.GetNameWithFlag]§!!)"
+  nf_black_canyon.16.b:0 "Sound the Drums of War! (Play as the §Y[PNT.GetNameWithFlag]§!!)"
+  nf_black_canyon.16.c:0 "Shall not be infringed! (Play as §Y[YMP.GetNameWithFlag]§!!)"
+  nf_black_canyon.16.d:0 "They're dead men, walking... (Play as §Y[GLW.GetNameWithFlag]§!!)"
+  nf_black_canyon.16.e:0 "We will resist and bite! (Continue playing as §Y[BLC.GetNameWithFlag]§!!)"
+  #
+  nf_black_canyon.17.title:0 "The Fracture of Black Canyon"
+  nf_black_canyon.17.desc:0 "The once-mighty Black Canyon, overlord of the surrounding lands, has finally collapsed under the weight of its mismanagement and the ceaseless infighting among its subordinate factions. The Big Top, their seat of power, is now a chaotic battleground as three distinct groups rise in rebellion: Tibbet's Raiders, the Yampa River Coalition, and the Painted Nation. Each faction claims legitimacy, and each vies for control of the shattered remains of Black Canyon."
+  nf_black_canyon.17.a:0 "What does this mean for us, you think?"
+  #nf_black_canyon.17.tt:0 "\n§GThree§! divisions of §YMilitia units§!, seizing the region of §R[401.GetName]§!, will report for border duty in the state!"
+  #
+  #nf_black_canyon.18.title:0 "Vault 27-Black Canyon Overseer Report - Overseer Thomas"
+  #nf_black_canyon.18.desc:0 "Although we have had less than amicable relations with the Black Canyon, both due to their interactions with the Ghost Division, as well as their personal infringement on what was once our territory, due to a political divide within their territories, supposedly from one of their political blocs receiving more or less power than the others, we now find ourselves with a major opportunity.\n\nAs of right now, our territories are claimed by a bunch of tribals known as the "Painted Men", led by a prison tattoo-covered tribal by the name of "The Warded". They foolishly believe that their tattoos give them magical abilities and act as a form of luck charm, though they are rather impressive with their individual designs. As unfortunate as it is to have to forcefully remove them from our rightful land, we have no other choice, if we hope to reclaim what we lost. We shall not fall into the trap Black Canyon fell into, and bite off more than we can chew, we take what was and is ours, and nothing more."
+  #nf_black_canyon.18.a:0 "A most pleasent development!"
+  #
+  nf_black_canyon.19.title:0 "Those Who Broke out from the Cycle"
+  nf_black_canyon.19.desc:0 "Battery of Mesa Verde looked at the majesty of the Pyramid of the Ouroboros. Once upon a time, he recalled visiting the village where men are strong, women are devout, and the cycle seemed like it would never end. The Prisoner had consulted with him in private about the differences and similarities of their tribes. However, where those in Mesa Verde understood that the outside world was not to be fully closed off from, those in Ouroboros had an almost tragic outlook on the world brought on by decades of borderline slavery by a madwoman.\n\nHecate was not the first to attempt to go against the tyrant known as Caesar, nor was she the last. However, she was probably the only survivor who had been given plenty of blessings by an unseen power. However, she had used these means not to better her society or others, but instead to create a devout army that was ultimately little better than Caesar's.\n\nNeither Hecate nor Jordan Dae could be found in the aftermath of our conquest of the region. Battery's thoughts returned to the present when three individuals, carefully selected by Battery himself, emerged from the Pyramid. One, an Oracle. The next, a Hound. And finally, a simple tribal elder, whom the local tribes had chosen to represent them. Battery asked for all three of them to make their cases as to which of the castes they belonged to would be absorbed into the society of Black Canyon, and which would be exiled.\n\nBattery considered his options, before making his decision..."
+  nf_black_canyon.19.a:0 "The Oracles will serve the Warded."
+  nf_black_canyon.19.a_tt:0 "§gThe Oracle spoke first, her aged and raspy voice creating an odd soothing sensation as she spoke. "The Daughters... Oracles, I should say, have found mutual understandings with your Tribal Council. The Warded especially seems like an intriguing specimen."§!"
+  nf_black_canyon.19.b:0 "The Hounds will be the bodyguards of McBride."
+  nf_black_canyon.19.b_tt:0 "§gThe Hound spoke next, gruff and stoic in tone and posture. "The Hounds have pledged to never face an enemy far stronger than we, and yet we went against your forces and suffered the consequences. Perhaps that McBride fellow and his raiders can show us a thing or two."§!"
+  nf_black_canyon.19.c:0 "The people have been freed and will join the Coalition."
+  nf_black_canyon.19.c_tt:0 "§gThe elder spoke last. "We were only bystanders, unaware of the extent of what was happening here. If you allow us join the Yampans, we may help each other in preventing such evil fates from afflicting anyone else."§!"
+  #
+  nf_black_canyon.20.title:0 "Dividing by Zero" #The Nemonik gives numbers to the people of the tribe. The Prisoner got the 13, and as an avid follower, Battery will get the 14. For more please check the Wiki.
+  nf_black_canyon.20.desc:0 "Battery wiped the sweat from his forehead. Even years after leaving for Jericho, the trip to and from Mesa Verde was just as hard as he had remembered. Despite his warm reception by those he had not seen in ages, he was most focused on meeting with the Nemonik. A visit to the Kiva revealed that, as Battery had fondly recalled doing so many years ago, the Nemonik and his assistants were still down there.\n\nBattery approached the old memory keeper, bowing in respect. "Nemonik. I'd thought you would have joined the spirits of our ancestors by now."\n\nA small smirk made its way through the stone-like visage of the Nemonik. "Battery of Mesa Verde, is that what you are called now? It has been many a cycle since you had left for Jericho. I know of your exploits since then, and the hand of protection you extend to us."\n\nBattery chuckled, giving a quick bow. "The pleasure is all mine, Nemonik."\n\nThe Nemonik's smirk quickly turned into a sour expression. "As much as I wish to congratulate you on your endeavors, I cannot personally say I agree with all you had done in order to get this far. But as you are now our village's protector, there is only so much I can say. But don't misunderstand my words as a form of exile or banishment, you have done the Ciphers proud. I only wish it could have been done through a different means."\n\nBattery bowed once more. "Thank you, Nemonik. But I must ask you for a personal favor. Long ago, you assigned my companion, whom many know as The Prisoner, the sanctity of a Personal Number. They were assigned the great 13. I would like to know what my number might be?"\n\nThe Nemonik brushed his grey beard. "So you wish to obtain the privilege of a Personal Number? Very well. Allow me to conduct the Number Ritual."\n\nApproaching the computer in the center of the Kiva, he opened what appeared to be a number program, inputting a series of numbers and letters into it. Battery watched in anticipation, paying close attention to the Nemonik's muttering.\n\n"Divide by the coefficient of the Boltzmann distribution, multiply by the factor of Benini... account for the actions, good and bad, of the Prisoner, and... how very interesting."\n\nBattery couldn't wait. "What, what is it?"\n\n"Fate has been very interesting to you, Battery. It seems the Personal Number the ritual has assigned you is... 14."\n\nBattery almost fell back. 13 had been the number the Prisoner had gotten from the Nemonik decades ago. And now he, the one who associated 13 with his past, present, and future, now was assigned 14. He did not expect that the number would make him any more significant than the Prisoner, but knowing it and the welcome of his tribe gave him comfort."
+  nf_black_canyon.20.a:0 "14, as its follows 13."
+  #
+  nf_black_canyon.21.title:0 "Ride the Bomb to Hell" #Background story for Jericho and most importantly, the Water Plant
+  nf_black_canyon.21.desc:0 ""Battery? You with us, son?" Jack Caulwell asked. Battery snapped out of his stupor.\n"Yessir, generator's working at 125% efficiency, just thought I'd grab a few winks, haven't had a proper sleep in a bit."\nCaulwell shook his head. "I never got you. Day you showed up here, I thought you'd be like other tribals, chanting to some god and banging the pipes with a stick to summon some rain spirit. Yet here you are, unlike all these other convicts, actually getting work done. But you still find ways to slack off. You're a real enigma to me, Battery."\nAt that moment, the door flung open, an a bright light emitted from the door, as a sillhouette of a person in a faded blue and orange jumpsuit stood at the door...\n"Battery? Battery?!" A distant call of his name brought Battery back to the present.\n\nHe was no longer in the old Jericho, nor was he an engineer with Caulwell, the man had unfortunately been one of the casualties of the many raids on this town. Battery stood in the old water plant, long since enhanced by his old friend. Despite the age and destruction of the town, Battery had decided to pay a visit, not only to see about refurbishing and reconstructing the town, but to learn what Caulwell had done with the plan and apply it elsewhere.\n\nBut no matter how many times he stared at the machinery, Battery couldn't shake the memories of his time working here. When he returned to Black Canyon, he decided to start a minor personal project with all promising water technicians and engineers. He put them in a program known as 'Caulwell's Pride.'"
+  nf_black_canyon.21.a:0 "It was always about work ethic."
+  #
+  #nf_black_canyon.22.title:0 "The Offspring Does the Right Thing"
+  #nf_black_canyon.22.desc:0 "TODO" #Background about the Battery-Prisoner relationship, lots of kisses xoxo/blergh
+  #nf_black_canyon.22.a:0 "Friendship or love, who could tell?"
+  #
+  nf_black_canyon.23.title:0 "A treaty with Black Canyon?" #Deal to the Khans for abandoning any naval expansion in the future
+  nf_black_canyon.23.desc:0 "We have received a message from Battery of Mesa Verde. Black Canyon is offering to aid us in developing our fledgling industrial capacity, and in exchange we will offer the shipbuilding facilities we absorbed when we won our war against the Baron's Eyrie. On one hand, this will greatly aid our ability to defend ourselves from threats to the North, but on the other hand we will be all but totally giving up our ability to have a maritime presence."
+  nf_black_canyon.23.a:0 "We have no business by the river, anyway."
+  nf_black_canyon.23.b:0 "We prefer not to shoot ourselves in the foot, thank you."
+  #
+  nf_black_canyon.24.title:0 "Far From Home?"
+  nf_black_canyon.24.desc:0 "It isn't often that Mallet points something out that is seemingly altruistic. Usually, it involves some kind of power play or solving a problem that doesn't exist. He came forward today because he had some legitimate ideas on how to make production more efficient. He didn't even suggest the use of slaves! He suggested trying to bring our centers of production closer to the training centers for our military. He claims it would save time equipping our soldiers with what they need. Plus it is way easier to protect and control our industry when it is close at hand. Warded was not a fan of this idea, claiming that it was a threat to the Painted Men's way of life as they would have to move some Painted tribesmen from their homes to a more centralized location with exposure to other groups. This matter went before Battery for arbitration."
+  nf_black_canyon.24.a:0 "This land is my land."
+  blc_countryside_our_home_tt:0 "\n§gAfter our §YCampaign§! is over, all over our cored land the population will grow.§!"
+  nf_black_canyon.24.b:0 "The boys are back in town."
+  blc_city_is_home_tt:0 "\n§gAfter our §YEffort§! is over, in our main settlements (§Y[115.GetName], [504.GetName]§! and §Y[572.GetName]§!), the population will grow significantly.§!"
+  #
+  nf_black_canyon.25.title:0 "Wasteland-style Interventionism"
+  nf_black_canyon.25.desc:0 "Mallet has come before Battery asking for an investment. His slave factories are ripe for the potential to grow, and all he needs is some cold hard caps to get some resources from New Canaan in a raid. Bearhard does not speak up often, but he asked that we invest in some factories in Yampan lands instead. Something about us not having to suffer the indignity of supporting slave labor. Battery has to choose who to invest in."
+  nf_black_canyon.25.a:0 "I'd prefer to invest in Bearhard."
+  nf_black_canyon.25.b:0 "Hit them hard and fast, Mallet."
+  nf_black_canyon.25.c:0 "I don't have the caps to do either right now..."
+  #
+  nf_black_canyon.26.title:0 "The Casper River Treaty"
+  nf_black_canyon.26.desc:0 "The people from down south came to us with a curious idea. The Yampans are in a bitter rivalry with a group of our people, the Saunders family. Because rivalry is very bad for business, Battery of Mesa Verde wants to sideline this petty activity and make a deal with us - where we both open our ports to each other and jointly develop our dockyard capacities further.\n\nWhile there is no downside to this deal, it will boost their naval power just as much as ours - and who knows, one day maybe those Yampans will be in a bitter war with our Saunders."
+  nf_black_canyon.26.a:0 "Hell yeah!"
+  nf_black_canyon.26.b:0 "Hell no!"
+  #
+  nf_black_canyon.27.title:0 "Research and Disagreements"
+  nf_black_canyon.27.desc:0 "Bearhard has come forth with an idea. He rarely speaks at these meetings, but today he spoke at length about a company starting up in Yampan territory that is reverse engineering old-world guns. He spoke glowingly of the endeavor, saying that it was something that the government should endorse and invest in. Warded scoffed in response. A gun was only good as a club if there was no ammunition for it, and we were so limited already. Learning how to make more advanced melee weaponry was the path forward as those require no reloading. Of course, the Painted men would lead the endeavor to research the new methods as the more culturally responsible and experienced party among those present. It came down to Battery's arbitration."
+  nf_black_canyon.27.a:0 "Let's develop melee weapons."
+  nf_black_canyon.27.b:0 "Let's develop proper firearms."
+  #
+  nf_black_canyon.28.title:0 "Mustering for Arms"
+  nf_black_canyon.28.desc:0 "The Yampan Confederation has determined it necessary after a rash of thefts and kidnappings to expand and mobilize their militia forces. Mallet, likely the responsible party for those thefts and kidnappings, has called foul. His forces are the ones best suited for military life, so therefore he should be allowed to expand his military further. Warded has looked on with a stupid grin on his face and suggested that if the Yampans cannot protect their lands from plunder, perhaps he should be allowed to raise a warband to aid in their defense. This matter comes to Battery for arbitration."
+  nf_black_canyon.28.a:0 "Mallet marches to the defense of us all!"
+  nf_black_canyon.28.b:0 "The Yampans have the right to bear arms."
+  nf_black_canyon.28.c:0 "The Warded shall help Ward the Yampans!"
+  #
+  nf_black_canyon.29.title:0 "Sic Semper Tyrannis"
+  nf_black_canyon.29.desc:0 "A solution to Battery's long standing problem simply walked through his door one day. A mercenary company consisting of former NCR Military Police and some people called "Wardens of the White" arrived in the region. Battery asked them if they wanted a permanent gig. The only catch was that they had to go and free some slaves.\n\nBattery arranged for McBride's gang to be given a boatload of laced chems. Then it was as simple as ordering the mercenaries to assign them them to cells and take away their weapons. Then they removed the bomb collars from the slaves and allowed them to leave. They have since formed communities around the Big Top and some of them help watch the very men that they had to serve. Others go to jobs in factories that they had to work for for years, but this time for a living wage. For those that cannot be staffed with free men, the Raiders now work as part of their penance. Warden Jackson, the new head of operations at the Big Top, is even more efficient at getting the most out of these factories. More importantly, he does not care to try to strip power from Battery.\n\nAs for what Mallet thought of this change in environment, he didn't. Just as he shot so many for trying to incite a revolt against him, Warden Jackson took special pleasure in putting a bullet in between his eyes after a failed escape attempt. Live by the sword, die by the sword."
+  nf_black_canyon.29.a:0 "There are no more slaves in Black Canyon."
+  nf_black_canyon.29.a_tt:0 "\n§gEvery individual loyal to [BLC.BLC_mcbride.GetName] will be §Rlocked behind bars§!!§!"
+  #
+  nf_black_canyon.30.title:0 "The Voice of the Unruly and Powerful"
+  nf_black_canyon.30.desc:0 "Mallet McBride has long been the sore point in our alliance. The Painted Men might be strange and not always peaceful, but they didn't desire slavery and death like McBride's gang did. Bearhard might hide ambitions under a quiet facade, but McBride hid nothing. He wanted to indulge himself, to kill and plunder and profit.\n\nAnd yet he accepted our compromise. They made a place for themselves within Black Canyon and we all lived together. Of course, McBride made it as hard as he possibly could, but we avoided having it all fall apart all these years. \n\nBattery sometimes wishes he could go and arrest all the raiders tomorrow, but he knows if he makes an obvious play, they will form an organized resistance against him. Does he dare to put McBride down, or is he comfortable with his dog where he is?"
+  nf_black_canyon.30.a:0 "A dog on a leash..."
+  nf_black_canyon.30.b:0 "... still can bite."
+  #
+  nf_black_canyon.31.title:0 "About Treaties and Promises"
+  nf_black_canyon.31.desc:0 "Battery was lost in his thoughts while the ghoul talked on the other side of the table. The infamous deal between Black Canyon and the Glowbugs was on his mind, the "Treaty of Collins" which technically reduced the scavengers of Boulder to a pre-war resource colony. Despite all the industrial support they provided, despite the concession of the township of Laramie, was it fair at all? Did he exploit their people despite his best efforts?\n\nThe babble from the ghoul in the dirty, pre-war suit was getting increasingly annoying. The guy's name was Schmidt and was the middleman between the nations. As usual, they wanted either more help or fewer obligations. They were never satisfied. "Tell me, Schmidt." Startled the ghoul by suddenly opening his mouth. "How's the Glowbugs industry advancing? Are you guys starting to get off the ground?" \n\nThe ghoul's throat got dry suddenly, and the words came out like grunts from a sawmill. "We're getting there, Battery. But now, could we get back to the Taxation Article for a minute?" \n\nBattery nodded and collapsed back into his comfy chair. "As soon as you guys can sustain themselves, we will reduce the industrial support by a notch. And we will double your payments, you have to make your fair share of contributions." Battery decided they're helping more than enough already, and there's no reason to worry about if he doing the right thing. After his a last comment the ghoul's only reaction was a loud swallow."
+  nf_black_canyon.31.a:0 "He seemed nicer from afar."
+  #
+  nf_black_canyon.32.title:0 "Yet Another Trail of Tears"
+  nf_black_canyon.32.desc:0 "Six hundred broken refugees left to flee from a butcher that was carving up New Mexico. They walked in a long convoy up freezing mountains and into steep canyons. The weather, falls, and the monsters took a toll on the convoy along the way, and only a tribe of 43 entered our lands. 43 emaciated tribesmen with bloody broken feet and hardened eyes that had seen everything. When Battery approached to offer them aid, their acting chief Delshay said they would offer whatever knowledge they could in exchange. Their knowledge so costly in blood will surely benefit our nation."
+  nf_black_canyon.32.a:0 "What can one say in the face of such tragedy?"
+  #
+  nf_black_canyon.33.title:0 "Cultural Exchange"
+  nf_black_canyon.33.desc:0 "Despite the Warded's best efforts, the cultural exceptionalism he tried to foster within the Painted Men died slowly as it was exposed to other ideas. Concepts like democracy proved exceptionally popular among them to the point that Battery was able to write up a constitution for the tribe. Due to the failure of the Warded to truly make his tribe great, his emphasis on traditionalism which he was never really a part of, and a comical number of embezzlement scandals that Battery was able to uncover right before election time. He was voted out in favor of his predecessor Quick Asp. He returns from retirement to a position that is weaker than ever before. He is not happy about the reforms that Battery has encouraged with this constitution, but he realizes that he can do very little to stop this. As for the Warded? He has returned to being Peter Brett. Perhaps he will have better luck out in the wasteland than he did in Black Canyon."
+  nf_black_canyon.33.a:0 "I love democracy."
+  #
+  nf_black_canyon.34.title:0 "The Platte Coup"
+  nf_black_canyon.34.desc:0 "It is unfortunate that Bearhard had to go. Out of all of his “advisors,” Bearhard was the one that Battery agreed with the most. Battery hoped that one day they could just work together. That he could break through the quiet facade of Bearhard that was sitting in the corner calculating his downfall. Ultimately the only thing that prevented Battery and Bearhard from working with one another was the fact that Bearhard never truly wanted to submit to the authority of another man.\n\nThat was his weakness as well. It was a simple matter for Battery to meet with the other mayors of the Yampan Coalition and get them talking about their dissatisfaction with the man. He was too authoritarian for them. Taking away power bit by bit from the individual mayors. Soon talk turned to the fact that he needed to be replaced. They needed something to make it so that they could more properly integrate within Black Canyon.\n\nToday, Bearhard was replaced by his more compliant father. A man who would not tinker as much with reforming things that were working. Bearhard took it all with his characteristic stoicism. He said nothing when the other mayors led a vote of no confidence against him, and said nothing while cheers and celebration erupted around him. He just walked to his trading vessel and started filling out paperwork to start a shipping company.\n\nHe did not ever begrudge Battery on his victory. They even remained on good terms and exchanged regular correspondence until his death. After all, he too thought the exact same thing about Battery. It was unfortunate that one of them had to go."
+  nf_black_canyon.34.a:0 "May the rapids of the Platte deliver you safely, Bearhard."
+  #
+  nf_black_canyon.35.title:0 "Emergency Election in the Yampan Confederation"
+  nf_black_canyon.35.desc:0 "First is the favorite— Inkhouse. Inkhouse has been the master of three dozen armor smiths over the years. Teaching all who shows the aptitude with cutting and cleaning leathers the way of his tribe. He is very popular among the soldiers and craftsmen of the tribe as a wise and faithful elder. He would make a fine Shaman.\n\nHowever his challenger Saddleburn is more popular with the youth of the village. He is a prolific artist, painting the walls with murals and the skin of his fellow tribesmen with religiously important body art as well. His charisma and relative youth would allow him to lead another generation of Painted Men into the future.\n\nOnly one can win and lead the Painted Men in religion and politics. As an honorary member of the Painted Men, Battery was granted a vote in this election as well..."
+  nf_black_canyon.35.a:0 "The Craftsman."
+  nf_black_canyon.35.b:0 "The Artist."
+  nf_black_canyon.35.c:0 "The Suprise Secular Ticket."
+  #
+  nf_black_canyon.36.title:0 "Emergency Election in the Yampan Confederation"
+  nf_black_canyon.36.desc:0 "First is Captain Thoreau Woods. He is a military hero, and a child of the second most influential family in the Yampan, even if he is an illegitimate one. In this society where who your family is often means more than what you believe, he is the expected victor in this election.\n\nThe other candidate is Preston Miklovich. A slave who escaped Mallet McBride, Preston traveled the Yampan teaching everyone he could how to shoot. He has a lot of support from some of the former slaves, and he is popular as a sort of folk hero.\n\nOnly one can win and lead the Yampan into the future. As an honorary member of the Yampan, Battery was granted a vote in this election as well..."
+  nf_black_canyon.36.a:0 "The Woods' Bastard."
+  nf_black_canyon.36.b:0 "The Johnny Appleseed of Violence."
+  nf_black_canyon.36.c:0 "The Dark Horse Canditate."
+  #
+  nf_black_canyon.37.title:0 "Love Prevails"
+  nf_black_canyon.37.desc:0 "Esther and Marissa have both won their elections in shocking upsets. Their love for their people and each other have led to their empowerment as a powerful force in Caravan Congress politics. However, despite their strength, they wield it to aid Battery as his right and left hands. It astounds Battery sometimes to see that his actions have surrounded him with such strong and capable women. Seeing their love for one another, and their young adopted twin boys tells him that he truly has built a nation to stand the test of time. Historians saved an excerpt of the poem he wrote after this moment:"
+  nf_black_canyon.37.a:0 "§g... Prosperity forever in our Canyon Black.§!"
+  nf_black_canyon.37.a_tt:0 "“§gI look to my left and see Esther\nLook to my right and see Marissa\nAnd Amelia always has my back.\nI fear not for the future\nThe worst has already missed us...§!"
+  ### Adventures of Battery
+  #
+  nf_blc_battery.1.title:0 "Drink the Water"
+  nf_blc_battery.1.desc:0 "Dear 13,\n\nI've decided to start writing you letters to give you once you settle down whether by courier or to hand directly to you with the smile of an old friend. You mentioned when you left that you wanted to right old wrongs, and I thought that was a fantastic idea. To go right old wrongs in the town of New Jericho.\n\nYou remember Jericho, don't you 13? It's where we met. Old Jake Caulwell's desalination plant. Run by prisoners, sinners, and me. Except now old Jake has been killed by a bunch of nutjobs worshiping an old road, and the desalination plant is in ruins just like the town is occupied by raiders. The best thing I can do for the town now is make them a new one.\n\nThe old plant was filled with the moans and curses of the damned. Remaking it now will provide a source of tribute to their new biker overlords thundering back and forth across that old-world road. Maybe now they'll see it as a thing of hope rather than the prison they saw it as before. I certainly hope so. Maybe clearing out the Mormons and their traditionalist ways will do this place some good. The Eighties and White Legs are acting like a storm to finally uproot that old rotting tree to allow new growth. New Jerhico could be a great place to live one day now that the plant is open and run by free men who understand it's value.\n\nIt's not as if I didn't get anything out of the deal either. Rebuilding the entire plant from scratch let me finally figure out more efficient ways to create clean drinking water. It was why I was there in the first place. All of that water and making it salty? A waste, truly. I know this caravan's place is not here. Time to continue onward to a new place. Perhaps a place we can finally put down roots at last? Might be wishful thinking for wanderers like ourselves, right 13?\n\n—Battery"
+  nf_blc_battery.1.a:0 ""A chance to wash a dirty page clean.""
+  #
+  nf_blc_battery.2.title:0 "Approaching the Forbidden Temple"
+  nf_blc_battery.2.desc:0 "Dear 13,\n\nI went to Paradise to speak with a goddess today just like you did. I remember how you and I repaired so much of that facility after the earthquake, and you mentioned that she was grateful to you.\n\nPerhaps I just caught her on a bad day.\n\nI, just like last time, repaired a significant portion of the nursery. Of course, she began grateful, but when I mentioned that I was a trader and that the pre-war specs and machinery I found within Paradise looked interesting, she called me a marauder looking for nothing more than profit. The entire conversation changed to my alleged hubris and assumptions that her knowledge was a commodity to be bartered for. There may have been an activation of defense systems involved. And me grabbing what I could on the way out. And me being shot by laser turret fire. Twice.\n\nI tried being friendly to her, but it might have been better to leave her well enough alone after that experience. I can't stand holier-than-thou types that treat knowledge as something inherently sacred. I just hope that this experience hasn't lead to further conflict with her down the road...\n\n—Battery"
+  nf_blc_battery.2.a:0 ""It seems my time in Jericho was useful for once.""
+  #
+  nf_blc_battery.3.title:0 "Foundations of "Liberty""
+  nf_blc_battery.3.desc:0 "Dear 13,\n\nI went on a trip to New Sterling. I was there to try to open trade relations with the Iron Alliance. A bunch of slavers who dress head to toe in steel. Their dead-eyed chain gangs pushed steel up and down conveyor belts to create more infernal iron for their mercenary company.\n\nOf course, I'm not too bad with machines myself. A little twist here, a cut wire there, and all of a sudden one of the engines is billowing smoke. It was alright for them to put a pause on my tour while they went to fix the engine. It gave me plenty of time to pick the lock on four different chain gang's leg irons. The good part of being forced to do manual labor for months at a time is that you build muscle. Great for hitting people with enough force to kill them and break free. They armed themselves with the very tools they were using to break up scrap iron. I may have dropped a weapon out of my pack on accident as well, but I am sure it got into the right hands. Then the entire factory made a run for it.\n\nI am sure that my guides were suspicious upon their return to see an empty factory around me, a few missing blueprints (which I may or may not have stolen) and a smoking husk where the machinery was, but they took me at my word exactly like I thought they would. A war machine needs resources, which I can provide. And if the traders from my camp can free a few dozen more slaves on top of making money, well that's two wins in my book.\n\nIt felt like the good old days 13. When we were doing this together. I haven't heard from you in a while, I hope you're alright. I would hate to think that I'm writing to no one at all.\n\n—Battery"
+  nf_blc_battery.3.a:0 ""I love diplomacy.""
+  #
+  nf_blc_battery.4.title:0 "The Haven of Hounds"
+  nf_blc_battery.4.desc:0 "Dear 13,\n\nThe Hangdogs were a group I never thought I would have peace with. Their vicious ways made them seem like rabid mongrels who needed a bullet rather than a hand in friendship. Of course, my experiences with them up to this point were limited to their raiding bands. Looking down at a young pup before its training, stroking its soft fur and looking down into its trusting eyes, it is hard to see them as naught but killers.\n\nI decided to make a few extra caps while I was there as a general laborer. They were building a new kennel, and scrap steel needed to be carried to the site. It felt good to use those muscles again. It has been far too long since I could clear my mind completely and just focus on a task that needed doing. There is purity in that.\n\nI got to speak with the guy who was going to run the new Kennel as well, a guy named Dogbody. You would have loved talking to him, he was half-crazed but had wisdom to share despite it all. Whenever someone was insane when we spoke to them, afterward you would smile at me with that crooked smirk of yours and a twinkle in your eyes. I get the feeling after hearing all the best ways to tame and train wild mongrels from him, you would look at me just like that. I can see that grin as if you were right beside me right now.\n\nI feel like I understand the Hangdogs better now. They aren't just beasts, they have a culture, hopes, and dreams just like anyone else. I don't know, I guess I just didn't expect to see so much humanity in chem-addled raiders. I wouldn't call them my friends and allies, but understanding will let us trade with them more easily, and if necessary, fight them.\n\n—Battery"
+  nf_blc_battery.4.a:0 ""Man's best friend, huh?""
+  #
+  nf_blc_battery.5.title:0 "Where Brahmin Wanders to Die"
+  nf_blc_battery.5.desc:0 "Dear 13,\n\nI met with a cattle baron in the state of Wyoming. A complete waste of time. He didn't crack a smile even once the entire time. A complete and utter bore of a conversationalist. I stole about two hundred caps off of him when he wasn't looking. He won't notice, I saw his daughter steal six hundred.\n\nNo, the real value in this place, and the reason for my letter is the stableboy they have. He's an absolute gem. He knows more than anyone else I can think of about ranching and raising Brahmin. After about five minutes of talking with him, I knew that his talents were wasted scooping shit for some man in a mansion for five caps a day.\n\nI hired him for those same 200 caps, and he helped me steal a herd of Brahmin from Baron Bailey. I am fairly certain he will notice that missing.\n\nI put that Stableboy in charge of twenty heads of Brahmin, and I get the funny feeling that my investment is going to pay off a hundredfold. Fish and tato's are filling, but we could use a little more variety in our diets.\n\n—Battery"
+  nf_blc_battery.5.a:0 ""Animal husbandry such a beautiful thing...""
+  #
+  nf_blc_battery.6.title:0 "Two Sides of the Same Coin"
+  nf_blc_battery.6.desc:0 "Dear 13,\n\nThe Khans of Wyoming are an odd bunch. Some wish to be pacifists and healers, some wish to be drug lords and raiders, and some wish to be conquerors. The last thing I want for the north is a violent conqueror looking to take what is mine, so I went there to place my thumb on the scale as it were.\n\nThankfully, the peace-loving faction led by one Amalgan was open to establishing trade relations. We spoke on mechanical and medical theory well into the night while drinking some of the alcohol they made in their stills. Some of the cleanest whiskey I've had in my life. You would have enjoyed it too I think. Maybe I'll bring a bottle when I see you again one day.\n\nThe next day I woke late and well hungover, and had to speak to another leader of theirs. Esen, despite the damage done to her eyes, had such a dangerous look to her. I can feel that she wants something bad for the north, or at least good for her people at the expense of others. I wish I was as bold as you. I know you would have confronted her than and there.\n\nInstead, I just took something from her. It's an old copy of an old world textbook: “The Secret History of the Mongols.” It's well worn, and bookmarked in several places with various war tactics employed by them as well as administrative notes. This may give me an idea of what tactics she may use against us if push comes to shove. I should have shot her in the chest and fought my way out like you would have, consequences be damned.\n\nI hope I can look you in the eye when I see you again.\n\n—Battery"
+  nf_blc_battery.6.a:0 ""I'm getting good at this "stealing" thing.""
+  #
+  nf_blc_battery.7.title:0 "One Nomad to the Another"
+  nf_blc_battery.7.desc:0 "Dear 13,\n\nI could never understand people who latch onto old-world nations and societies. The New California Republic, the Mormons of New Canaan, Legate Lanius of the Legion, and to a lesser extent this group of foragers— the Foragers of Colorado. I feel like it is necessary to remind them that the old world destroyed itself because of these flags. Why should we bother bringing back ideas that have brought nothing but destruction? Usually just to find yet another reason to justify shooting one another in a world that gives us endless reasons already.\n\nPorter is a bit different. He's an idealist, but he isn't naive. He hangs the old Colorado banner as a reminder that once upon a time all people living here were the same nation. That people have more in common than differences. That people can work together.\n\nThat kind of thinking seems to have gotten his people kicked out of their most valuable land.\n\nI am not much better, trying to keep a fraying confederacy together that no one seems to want around. Bridging the gap between raiders and traders and tribals with all signs pointing to my eventual failure. What does victory even look like for me now? A thankless bureaucratic position organizing the different groups under our banner? The old-world flags represent old-world problems, but I suppose our new ones are not much better.\n\n—Battery"
+  nf_blc_battery.7.a:0 ""Do not burn the flags. Let's continue.""
+  #
+  nf_blc_battery.8.title:0 "Legacy of Nobel"
+  nf_blc_battery.8.desc:0 "Dear 13,\n\nI saw a man used as an explosive test dummy today. He was accused of withholding salvage from the gang and questioning authority. For these crimes the punishment was being blown to smithereens with dynamite. It seems rather draconian to me, but none of the other men of these “Claim Jumpers” seem to care, or are too afraid to.\n\nThe man shouted for mercy the entire time he was strapped to the stake of blackened corrugated iron. Flame and force ripped him apart, leaving naught but ash and a fine red mist.\n\nAfter this display of product, they offered to trade salvaged explosives to me for food, medical supplies, and clean water. They were fair traders, didn't try to haggle too much, and went about their business as if that grisly display hadn't happened. Perhaps within this particular society withholding resources or voicing dissent is so grave a sin that they genuinely think execution is justified.\n\nThey seem disinterested in conquest or slavery and far more interested in trade with us for now, so we'll cautiously begin the exchange. I seem to be letting more and more things go nowadays. Maybe I really am becoming a politician.\n\n—Battery"
+  nf_blc_battery.8.a:0 ""More compromises made, more sin swallowed.""
+  #
+  nf_blc_battery.9.title:0 "I Do Not Find You Anywhere"
+  nf_blc_battery.9.desc:0 "Dear 13,\n\nI went back to my old tribe today. It has been fifteen years since I left to try to gather new knowledge. So many people are missing, so many things are different. It is strange. When did I outgrow this place? When did this place become a foreign country to me?\n\nI think it was around the time I met you. Decisive in everything you do, a wit like a whetted blade, faster than the strongest and stronger than the fastest — I keep on looking to my right and expecting to see you with your expressive eyes and crooked grin looking back at me expectantly. \n\nThe reason I don't feel like this place is home anymore isn't the amount of time that has passed, nor is it because I have a responsibility to the caravan (I don't feel at home there either, not really.) It's because you're not here. I don't know if you're going to be here ever again.\n\nI restarted diplomatic and trade relations easily. Did you expect anything different? Maybe I'll write you another letter tomorrow.\n\n—Battery"
+  nf_blc_battery.9.a:0 ""I cannot stop humming that song from the radio from the other day.""
+  nf_blc_battery.9.a_tt:0 ""§gI was at east, a walked the west, at southern pastures, northern fallow, at paths without destiny mindlessly looking for her...\n\nI don't know where I live anymore...§!""
+  #
+  nf_blc_battery.10.title:0 "Where the Trains goes to Sleep"
+  nf_blc_battery.10.desc:0 "Dear 13,\n\nI met someone today who reminded me of you. Not in the way she looked or spoke, but in how she carried herself. Sharp, stubborn, and absolutely certain of her cause. She's built something impressive out here, turning a band of train-hopping kids into a functioning little nation. If you were here, you'd probably call her reckless. You'd probably like her, too.\n\nShe doesn't trust me, though. Sees me as just another would-be tyrant, trying to wrap her people up in my plans. She's not wrong, but she's not right either. I'm trying to build something that lasts—something better than what we grew up with. You'd understand that, wouldn't you?\n\nYou were always more at ease in the dirt and dust, chasing down trouble with a gun and a grin. Building a state, holding it together… that was never your kind of fight. I wonder what you'd say if you saw me now. Would you tell me I've lost the plot? Or would you just laugh and tell me to stop overthinking it?\n\nYou know, I'm not even sure why I'm still writing these letters. I don't know where you are, or if you'd even care to read them if you could. But it feels like talking to you keeps me anchored somehow.\n\n—Battery"
+  nf_blc_battery.10.a:0 ""This all has to matter... it has to...""
+  #
+  nf_blc_battery.11.title:0 "Oasis on the Horizon"
+  nf_blc_battery.11.desc:0 "Dear 13,\n\nThe Eighties are a strange bunch. Raiders, yes, but they've got something about them that's hard to ignore. Real grit, real ambition. They've built themselves an empire out of roaring engines and old-world logistics. I had to make a deal with them, even if it felt like shaking hands with a rabid dog.\n\nYou'd probably hate it, 13. You'd call it a compromise too far. But sometimes you've got to deal with people like this if it means keeping the rest of us alive. It's not about liking them, it's about using them. We needed their cars, their knowledge, and their logistics. And I got them.\n\nIt's strange. I used to see every deal like this as a victory. Now I just feel tired. Every compromise feels like another piece of myself carved away.\n\nAre you out there somewhere, watching all this happen? Did you walk away from all this madness because you couldn't stomach it anymore? Or did something finally catch up with you? I can't tell if I envy you or if I'm just angry at you for leaving me to figure this mess out alone.\n\n—Battery"
+  nf_blc_battery.11.a:0 ""Deal with the devil. Where's the bottom?""
+  #
+  nf_blc_battery.12.title:0 "Smile and Wave, Boys"
+  nf_blc_battery.12.desc:0 "Dear 13,\n\nI visited Rosebud today. You'd like it here, good people, honest smiles, the kind of community that feels like it shouldn't exist in a place like this. They welcomed me like an old friend, fed me, shared stories… and I felt like a fraud the entire time.\n\nThey're too trusting, 13. Too hopeful. I've seen what happens to places like this when someone with fewer scruples comes knocking. They'll be swallowed whole by someone smarter, meaner, and hungrier. And I can't stop it. I can't even warn them without sounding like the very wolf at their door.\n\nSometimes I wonder what we're even doing here, 13. What's the point of trying to build something good when it's all so fragile? When it all comes down to one bad day, one cruel decision?\n\nYou'd probably tell me to stop thinking so hard and just focus on what's in front of me. And hell, maybe you'd be right.\n\n—Battery"
+  nf_blc_battery.12.a:0 ""I cannot save them all, and that sickens my soul.""
+  #
+  nf_blc_battery.13.title:0 "Without a Home, Again"
+  nf_blc_battery.13.desc:0 "Dear 13,\n\nI've moved the caravan into Glowbug territory. It's not ideal, but it's better than nothing. Every road I see looks like it leads to ruin, and every choice feels like it's going to break something, or someone.\n\nYou'd probably have an idea. You'd stand at the edge of camp, staring into the distance with that look you always had when you were thinking things through. Then you'd snap your fingers, and just like that, you'd have a plan.\n\nI don't have a plan, 13. I'm just trying to keep the wheels turning, trying to keep people fed and alive. But I'm starting to think maybe I should just let go. Let the caravan scatter and let the Confederacy fall apart.\n\nI'm so damn tired, 13. And I don't even know why I'm telling you this anymore.\n\n—Battery"
+  nf_blc_battery.13.a:0 "My last stand..."
+  #
+  nf_blc_battery.14.title:0 "I Give Up"
+  nf_blc_battery.14.desc:0 "Dear 13,\n\nThis is it. I'm done. They're at each other's throats, and I'm just one more voice they're ignoring. I thought I could do better. I thought I could be better.\n\nBut you were right, weren't you? Trying to rule over others just turns you into something you hate. I should have listened to you. Should have walked away a long time ago.\n\nI don't know where you are, or if you're even alive. But I'm packing up. I've got a bottle of that Followers whiskey, these letters, and whatever scraps of hope I've got left. Maybe I'll find you out there, or maybe I'll just find an empty road.\n\nEither way, I'm done with this.\n\n—Battery"
+  nf_blc_battery.14.a:0 "Give me my deathless death..."
+  #
+  nf_blc_battery.15.title:0 "Unity between Strangers"
+  nf_blc_battery.15.desc:0 "Dear 13,\n\nIt's done. The Confederacy is stable. More stable than I ever thought it could be. I've brokered deals, made compromises, and swallowed my pride more times than I can count. But it worked.\n\nLooking back, I don't know if you'd recognize me anymore. You always had a way of cutting straight to the truth, and I wonder what you'd say if you saw what I've built.\n\nI don't know why I've been writing you all this time. Maybe it was to keep myself sane. Maybe it was because you were the last person I really trusted. But I think I'm done now.\n\nWherever you are, I hope you're still out there, raising hell and doing what you do best.\n\n—Battery"
+  nf_blc_battery.15.a:0 "I'm free."
+  #
+  nf_blc_battery.16.title:0 "The Ballad's Discordant Finale"
+  nf_blc_battery.16.desc:0 "The final notes of the Ballad of Battery are accompanied by gunshots. His tragedy was of hubris and sacrificing his morals too much. When his nation collapsed, he decided to go looking for his old partner, the prisoner with a thirteen on their uniform. One woman knew he did not deserve such a peaceful and ambiguous retirement.\n\nEsther of Alcova was a member of the Yampan Confederacy. One day she met the love of her life, Marissa Walks-softly. A woman who had escaped bondage. Together they created a life. They adopted twin boys. Their family was a beloved part of the community.\n\nWhen her wife's former master came looking for her, and she pleaded with any power that could help for aid, Battery of Mesa Verde gave her wife back to him so that she could be tortured to death and executed as an example. If that wasn't bad enough, the civil war that resulted from this incompetent monster's regime took her twin boys from her too. She had nothing left but her rage and her years of training with the Yampan Confederacy Militia. Battery did not deserve a peaceful retirement.\n\nWhen she confronted him on that, he seemed to agree. He did not even draw his weapon to contest Esther riddling his corpse with bullets. Before long, all that was left was the wind howling through a Black Canyon stained with dried blood from the war, and the emptiness of a woman who now had nothing left."
+  nf_blc_battery.16.a:0 "So ends the Ballad..."
+  #
+  nf_blc_battery.17.title:0 "The Ballad's Final Note"
+  nf_blc_battery.17.desc:0 "The final notes of the Ballad of Battery are accompanied by the sounds of wedding bells. After spending so many years alone and dealing with the hell that is bureaucratic management without any family to go home to, Battery abruptly announced that he was to be married one day.\n\nIt was not surprising who he was marrying. Amelia Wrothwright's infatuation with Battery was the worst kept secret in all of Black Canyon. A good natured woman with a background in trading and mechanical ingenuity was in love with a man who had a very similar background. And was very bad at not showing that immediately on her face when she spoke to him.\n\nIt would be a lie to say that there were no more struggles in Battery's life. He was the leader of a nation, no moment was without strife. But now he finally, finally had something he wanted all of his life. Someone to stand beside him as an equal no matter what. Someone who loved him as much as he loved them. And Amelia was eager to take up that challenge."
+  nf_blc_battery.17.a:0 "So ends the Ballad..."
+  ### The Letters of the Factions (Character events)
+  #
+  nf_blc_letters.0.title:0 "Battery of Mesa Verde"
+  nf_blc_letters.0.desc:0 "This is the Ballad of Battery. The story of a Tribal turned into a curious settler turned into a follower of greatness turned into a great man of his own. Not much is known of the prisoner who wore the number 13 on their uniform, but the caravan they spawned was destined to attempt to unify disparate groups in harmony. All this led by one of their closest confidants Battery.\n\nHe knew he could do better for this world that had so many horrors for the innocent, so he did."
+  nf_blc_letters.0.a:0 "Let's get started."
+  #
+  nf_blc_letters.1.title:0 "Non-Reliable Workforce"
+  nf_blc_letters.1.desc:0 "Battery,\n\nNot to doubt you or anything chief, but my Raider gang is NOT a construction crew!  What kind of moron are you, that you thought that this was a good idea? Oh yeah, let me take this gang of people who are more known for breaking roads than actually fixing them and try to put them in charge of building infrastructure. Whenever they're not killing someone else, they're killing each other, and this infrastructure project has a distinct lack of killing other people. I have lost a dozen members of my gang to stupid arguments that wouldn't have happened if the psycho-addicted dumbasses had something else to shoot. The blood of my gang is on YOUR hands Chief. We aren't hammering a single rail spike more until we get more slaves to do it for us and damn your moral qualms with it.\n\n—Mallet McBride"
+  nf_blc_letters.1.a:0 ""What use are you?""
+  #
+  nf_blc_letters.2.title:0 "Country Roads"
+  nf_blc_letters.2.desc:0 "Battery,\n\nConnection with the outside world is bringing us wealth and exposing others to our way of life and converting them to our beliefs. This can only be good for the future of our cooperative alliance and for trade in the region. Your efforts in being a friend to the Painted Men has been noticed and we hope for your continued support in the future.\n\nThe Blessings of the Gods be upon you, and the Warded will protect you."
+  nf_blc_letters.2.a:0 ""Is this a good thing?""
+  #
+  nf_blc_letters.3.title:0 "(no subject)"
+  nf_blc_letters.3.desc:0 "Battery,\n\nTrade is good. Thank you for making it easier.\n\n—Bearhard"
+  nf_blc_letters.3.a:0 ""He's so happy.""
+  #
+  nf_blc_letters.4.title:0 "Slave Workshops"
+  nf_blc_letters.4.desc:0 "Battery,\n\nGreat news! We are exceeding your production quotas. The new slaves really are outdoing themselves after we put bomb collars on their families and linked them to their own. Now if they try to escape or slow down it's not just their lives at stake! Oh you should hear their screams once we put them on, it really is quite stimulating. The vows of vengeance are truly poetic as well, I've transcribed and attached some of them here, they have some great threats for you! Honestly impressive.\n\nGotta hand it to you chief, I didn't know you had it in you. Give us more excuses to do this, it is honestly the best idea we've ever come up with.\n\n—Mallet McBride"
+  nf_blc_letters.4.a:0 ""I may have made a mistake...""
+  #
+  nf_blc_letters.5.title:0 "Upon Sacred Lands"
+  nf_blc_letters.5.desc:0 "Battery,\n\nThis insult you have wrought upon us, which you call a factory, will be answered in blood. My warriors have already damaged the insult and are planning on slowing any further attempts to repair it or build any further in our lands. Not every piece of land is open for you to build on, I warned you there would be consequences for building on sacred land.\n\nWrath of the Gods be upon you, The Warded will be immune."
+  nf_blc_letters.5.a:0 ""We'll show him...""
+  #
+  nf_blc_letters.6.title:0 "(no subject)"
+  nf_blc_letters.6.desc:0 "Battery,\n\nThe jobs you have brought to our people will benefit the Yampan.\n\nThank You,\n\n—Bearhard"
+  nf_blc_letters.6.a:0 ""Brief but sweet...""
+  #
+  nf_blc_letters.7.title:0 "No Need to Panic"
+  nf_blc_letters.7.desc:0 "Battery,\n\nHey Chief, uh so it turns out that giving a bunch of slaves easy access to weapons leads to some problems. We had a slave revolt. Completely under control now, of course. We had to use the bomb collars though, and not all of them worked. Apparently, some of them were faulty and blew up people who weren't actively revolting. Pandemonium. Lost some gang members, but they were too weak to hang with us anyway if they died to a bunch of slaves. We'll be more careful from now on Chief, promise. We just need to go out and get some more slaves. I'm sure the boys will love that. Variety is the spice of life and all that.\n\n—Mallet McBride"
+  nf_blc_letters.7.a:0 ""Revolting...""
+  #
+  nf_blc_letters.8.title:0 "Without the Past there is No Future"
+  nf_blc_letters.8.desc:0 "Battery,\n\nYour insistence that our tribe abandons the sacred ways for the sake of efficiency has been heard and received. We will not do so. Our armor is of such a quality that the unadorned cannot possibly understand. Perhaps you would do better instead to adopt our ways and customs. Then our soldiers will be protected from the bullets and lasers of the enemy by both leather and spirits. I have with this letter delivered a sample set for you to wear as an ally of mine so that you may reconsider your position. Please note that it is perfectly sized. I have eyes and ears everywhere."
+  nf_blc_letters.8.a:0 ""It is a nice set...""
+  #
+  nf_blc_letters.9.title:0 "(no subject)"
+  nf_blc_letters.9.desc:0 "Battery,\n\nThanks for letting us make more guns. We'll share it with you.\n\n—Bearhard"
+  nf_blc_letters.9.a:0 ""How thoughtful.""
+  #
+  nf_blc_letters.10.title:0 "Gang Dues"
+  nf_blc_letters.10.desc:0 "The Warded was not always the chief and Shaman of the Painted Men. Once upon a time, he had another name: Peter Brett. Peter was a low-level grunt of Mallet McBride's crew, the Tibbet Raiders. One day he was out on an expedition and he caught a near-fatal case of seven bullets to the chest. The Painted Men took him in and looked after him expecting his death. Only he did not. His wounds healed abnormally quickly under their care almost as if he was warded from harm by the spirits. The Warded claims that his old spirit died and he was repossessed by an ancient Shaman of the Painted Men tribe. Battery suspects that Peter is just particularly good with words.\n\nWhen Mallet heard that Peter had survived and was empowered, he was overjoyed. Not out of any pity or love for Peter, but rather the fact that he can justify increased raids on the Painted Men tribe. When asked about this, he said that Peter never paid his Gang dues to leave the life behind him. The Warded claims that Peter died that day, and therefore these increased raids are not justified. This was the first matter placed before Battery for arbitration."
+  nf_blc_letters.10.a:0 "Peter is dead."
+  nf_blc_letters.10.b:0 "Peter's survival doesn't justify cruelty."
+  nf_blc_letters.10.c:0 "Peter lives, pay the dues."
+  #
+  nf_blc_letters.11.title:0 "An Old Parchment"
+  nf_blc_letters.11.desc:0 "Battery,\n\nYour arbitration in this matter has proven most fruitful. Thank you for speaking the truth to that heathen raider. Peter is dead so that the Warded could live. Now my people will no longer face the spiteful darts from that monster. Worry not for the future.\n\nYou are an ally of my people, I will ward you as well."
+  nf_blc_letters.11.a:0 ""That protection won't last long.""
+  #
+  nf_blc_letters.12.title:0 "An Old Letter"
+  nf_blc_letters.12.desc:0 "Battery,\n\nThanks a lot for getting us our dues from that Prick Peter. Don't worry, we won't be causing any more problems for the people of Black Canyon anymore unless we absolutely have to. We'll use the scratch he gave us from his tribe to buy six more slaves from the next caravan that rolls in. That's Raidernomics Chief.\n\n—Mallet"
+  nf_blc_letters.12.a:0 ""Slaves? Oh, no.""
+  #
+  nf_blc_letters.13.title:0 "An Old Parchment"
+  nf_blc_letters.13.desc:0 "Battery,\n\nYour implication that Peter yet lives is quite frankly slander. I am Warded: I live, and Peter's name is dead forever. Your attempts to tarnish my reputation will be forgiven as ignorance of the customs of my people.\n\nI pray to the Spirits warding me every night that you do not disappoint me again."
+  nf_blc_letters.13.a:0 ""What a prick.""
+  #
+  nf_blc_letters.14.title:0 "An Old Letter"
+  nf_blc_letters.14.desc:0 "Battery,\n\nMan, why did you have to be a buzzkill like that? Siding with that prick Peter over me? I'm not mad, I'm just disappointed. We'll leave him and his alone for now, but we really have to talk about that stick up your ass. It might get you killed one day.\n\n—Mallet"
+  nf_blc_letters.14.a:0 ""At least he isn't angry.""
+  #
+  nf_blc_letters.15.title:0 "About the Grand Encampment"
+  nf_blc_letters.15.desc:0 "The Warded approached Battery one day and demanded his immediate attention. He was tired of the issue of the Yampan Confederation being upon the Platte Tributary being ignored in favor of these trespassers on ancestral Painted tribe lands. Their continued existence in lands that were not there harkened back to Pre-Great War colonialism by the United States. Battery could empathize with this ancestral memory of oppression by the Stars and Stripes as a Tribal himself, but the Yampan Coalition was not quite the same thing. They were not seeking to expand their borders, they were seeking to live in peace, prosperity, and freedom. Perhaps there was some kind of middle ground they could reach..."
+  nf_blc_letters.15.a:0 "The Yampans will abandon the Grand Encampment, but no more."
+  nf_blc_letters.15.b:0 "The Yampans will reimburse the Painted Men."
+  nf_blc_letters.15.c:0 "The Yampans settled abandoned land."
+  #
+  nf_blc_letters.16.title:0 "An Old Telegram"
+  nf_blc_letters.16.desc:0 "Battery,\n\nThank you.\n\n—Bearhard"
+  nf_blc_letters.16.a:0 ""You're welcome.""
+  #
+  nf_blc_letters.17.title:0 "An Old Parchment"
+  nf_blc_letters.17.desc:0 "Battery,\n\nThis expression of legitimacy by you is the first small step to a bright future for the Painted Men. Even if you were not completely successful in removing the squatters from our lands, their population is less dense as they moved upriver. You consistently prove to be a friend to us, and we owe you a debt.\n\nThe Warded remembers both friends and foes."
+  nf_blc_letters.17.a:0 ""At least he's happy.""
+  #
+  nf_blc_letters.18.title:0 "An Old Telegram"
+  nf_blc_letters.18.desc:0 "Battery,\n\nNo, we won't.\n\n—Bearhard"
+  nf_blc_letters.18.a:0 ""That's all you have to say?""
+  #
+  nf_blc_letters.19.title:0 "An Old Parchment"
+  nf_blc_letters.19.desc:0 "Battery,\n\nYou continue to indulge these interlopers. We do not mind their existence, but perhaps you could place them in the Penitentary once we are done removing the raiders there. They will have their place reserved for them and we will have ours. An appropriate punishment for the ancestors of the Stars and Stripes. What you have proposed does no one any good as it just emboldens them.\n\nWe hope you consider this solution."
+  nf_blc_letters.19.a:0 ""A bit hypocritical of you, "Peter".""
+  #
+  nf_blc_letters.20.title:0 "The Freeman Petition"
+  nf_blc_letters.20.desc:0 "Mallet Mcbride received by hand from a Yampan Confederation courier a petition calling for the immediate emancipation of all slaves under his bondage signed by many within the Caravan Congress and every free adult in the Yampan Confederation. This document is known as “The Freeman Petition.” Bearhard Rivers himself was the largest signature at the very top of the petition. The courier returned with three fewer fingers, one less eye and ear, no nose, and most of his teeth removed. In his hand was a simple response: “Kiss my white, pimply ass.”\n\nThe maiming of the courier and rejection was expected, but it is still a great insult to the Yampans and Bearhard personally. Mallet for his part maintains that he gave the petition “the respect it deserved.” Battery has been called on to arbitrate this dispute himself."
+  nf_blc_letters.20.a:0 "No means no, Bearhard."
+  nf_blc_letters.20.b:0 "Apologize for the courier, Mallet."
+  nf_blc_letters.20.c:0 "Sign the Petition, Battery."
+  #
+  nf_blc_letters.21.title:0 "An Old Letter"
+  nf_blc_letters.21.desc:0 "Battery,\n\nWe sure showed those moralizing blowhards didn't we chief? Come to the Penitentiary sometime, I'll give you a girl while we're there. Or boy. You don't really keep girls around you, I don't know what kind of bitches you'd like to keep. I promise they're clean. I'm super excited for our future with you at the head.\n\n—Mallet"
+  nf_blc_letters.21.a:0 ""I think I'm going to be sick.""
+  #
+  nf_blc_letters.22.title:0 "An Old Telegram"
+  nf_blc_letters.22.desc:0 "Battery,\n\nYou really stuck your neck out for us. Come hell or high water, I'll make sure you have a place among the Yampans.\n\n—Bearhard"
+  nf_blc_letters.22.a:0 ""It speaks!""
+  #
+  nf_blc_letters.23.title:0 "An Old Letter"
+  nf_blc_letters.23.desc:0 "Battery,\n\nYou're being a buzzkill right now, chief. Slaves are super important for the economy and the morale of my men. Who do you expect to work while we are out raiding? No, we need the slaves. You gotta understand that Chief.\n\n—Mallet"
+  nf_blc_letters.23.a:0 ""Should you be raiding?""
+  #
+  nf_blc_letters.24.title:0 "An Old Telegram"
+  nf_blc_letters.24.desc:0 "Battery,\n\nMallet is evil. Don't side with him again.\n\n—Bearhard"
+  nf_blc_letters.24.a:0 ""Next thing you'll be telling me is that "fish swim".""
+  #
+  nf_blc_letters.25.title:0 "What One Does for Love"
+  nf_blc_letters.25.desc:0 "Marrissa Walks-Softly is a Painted Tribesman who was captured on a raid by Mallet, who took an immediate liking to her. She was one of his women for a while before escaping his clutches and running to the Yampans. There she met another woman and fell in love. They adopted a pair of twin young boys and have become a part of the community.\n\nMallet and Warded have caught wind and both have demanded her return. Mallet says that she is his property and has universally rejected all offers to buy her from her wife and other members of the community. Warded says that she is a member of the tribe and that she never should have been removed, and as such must be returned. Bearhard continues to point out that she is a free woman who is capable of her own decisions. They look to Battery for a decision."
+  nf_blc_letters.25.a:0 "Marissa is Mallet's property."
+  nf_blc_letters.25.b:0 "Marissa is a Painted Woman first."
+  nf_blc_letters.25.c:0 "Marissa can make her own decisions."
+  #
+  nf_blc_letters.26.title:0 "An Old Parchment"
+  nf_blc_letters.26.desc:0 "Battery,\n\nYou have returned a lost lamb to our fold. May the spirits ward you from harm for all of your days. She will be reintegrated into our culture and re-educated in our ways. Soon enough she will return to being our Marissa once more.\n\nMay the spirits Ward Marrissa and her savior."
+  nf_blc_letters.26.a:0 ""Another sister saved.""
+  #
+  nf_blc_letters.27.title:0 "An Old Letter"
+  nf_blc_letters.27.desc:0 "Battery,\n\nI appreciate your efforts in recovering my runaway. An example had to be made for the other slaves. I've included a sketch of her execution for your personal use. The artist is quite talented. Ultimately speaking, it didn't matter how skilled she was...how much I liked her. I needed to send a message.\n\n—Mallet"
+  nf_blc_letters.27.a:0 ""You didn't even WANT her?""
+  #
+  nf_blc_letters.28.title:0 "An Old Telegram"
+  nf_blc_letters.28.desc:0 "Battery,\n\nYour continued commitment to freedom is admirable.\n\n—Bearhard"
+  nf_blc_letters.28.a:0 ""He likes me, he really likes me.""
+  #
+  nf_blc_letters.29.title:0 "An Old Parchment"
+  nf_blc_letters.29.desc:0 "Battery,\n\nYou are an agent working to slowly erase our culture bit by bit. You are consigning us not to a sudden death by invasion, but a slow death like radiation poisoning. You may have let Yampans win today, but I expect you to give serious consideration to your continued role at the head of this nation.\n\nMay the spirit ward the evil of your decisions from you."
+  nf_blc_letters.29.a:0 ""Passive aggressive much?""
+  #
+  nf_blc_letters.30.title:0 "An Old Telegram"
+  nf_blc_letters.30.desc:0 "Battery,\n\nIf she wanted to go home she was free to do so.\n\n—Bearhard"
+  nf_blc_letters.30.a:0 ""...He has a point.""
+  #
+  nf_blc_letters.31.title:0 "An Old Parchment"
+  nf_blc_letters.31.desc:0 "Battery,\n\nThis is an outrage. How dare you put a member of our tribe into bondage. Perhaps the rumors are right about you. Perhaps you are just another raider gang.\n\nI will ward my tribe from you."
+  nf_blc_letters.31.a:0 ""Ouch, that stings.""
+  #
+  nf_blc_letters.32.title:0 "An Old Telegram"
+  nf_blc_letters.32.desc:0 "Battery,\n\nHow dare you?"
+  nf_blc_letters.32.a:0 ""He was too mad to even sign it.""
+  #
+  nf_blc_letters.33.title:0 "An Old Letter"
+  nf_blc_letters.33.desc:0 "Battery,\n\nC'mon Chief, you're killing me! That was my favorite girl! None of my other girls can even compare to how good she was. Irreplaceable property loss. One day all of you will pay.\n\n—Mallet"
+  nf_blc_letters.33.a:0 ""You'll get over it.""
+  #
+  nf_blc_letters.34.title:0 "Being Closer"
+  nf_blc_letters.34.desc:0 "Battery,\n\nYou're welcome for the idea chief, and thanks for sticking up for me against Peter. He's pretending like he has some ancestral ties to the land or whatever but he's just taking their culture because it is useful to him. I guess it was just useful for him to be a nuisance today.\n\n—Mallet"
+  nf_blc_letters.34.a:0 ""I liked this idea.""
+  #
+  nf_blc_letters.35.title:0 "Yet Another Terrible Mistake"
+  nf_blc_letters.35.desc:0 "Battery,\n\nYou yet again threaten the way of life of the Painted Men. It is a wonder that the spirits have not yet struck you down. I hope that before they do you will see the error of your ways. For the sake of everyone in Black Canyon.\n\nYour fall will be like a comet from a great height, but I will ward us from your flaming trail."
+  nf_blc_letters.35.a:0 ""Oh, don't be so melodramatic.""
+  #
+  nf_blc_letters.36.title:0 "Really?"
+  nf_blc_letters.36.desc:0 "Battery,\n\nChief, what the fuck are you doing? This is just playing right into Peter's con artist cult-creating hands. I thought you knew better than this, who the fuck are you, who the fuck am I following?\n\n—Mallet"
+  nf_blc_letters.36.a:0 ""One step back to take two forward elsewhere.""
+  #
+  nf_blc_letters.37.title:0 "Respect is Respected"
+  nf_blc_letters.37.desc:0 "Battery,\n\nYou have wisely decided that it was best to side with us to preserve the way of life of the Painted Men. You are a true friend to my people. You will always have a place among us once this experiment is over.\n\nWe will Ward you and protect you when this is all done."
+  nf_blc_letters.37.a:0 ""I just did this to prevent revolt.""
+  #
+  nf_blc_letters.38.title:0 "Kvid Pro Kvo"
+  nf_blc_letters.38.desc:0 "Battery,\n\nThanks to you chief, we were able to open up our very own firearm factory right here in the Penitentiary. The slaves here know better than to rise up too, so things are great. We are going to be getting big things, big things from this factory, you'll see.\n\n—Mallet"
+  nf_blc_letters.38.a:0 ""We really need the military capacity...""
+  #
+  nf_blc_letters.39.title:0 "RE: Wasteland-Style Interventionism"
+  nf_blc_letters.39.desc:0 "Battery,\n\nI see you, slaveowner.\n\n—Bearhard"
+  nf_blc_letters.39.a:0 ""I own no slaves!""
+  #
+  nf_blc_letters.40.title:0 "RE: Wasteland-Style Interventionism"
+  nf_blc_letters.40.desc:0 "Battery,\n\nThis factory will make winter coats.\n\n—Bearhard"
+  nf_blc_letters.40.a:0 ""I love winter coats!""
+  #
+  nf_blc_letters.41.title:0 "Are you stupid?"
+  nf_blc_letters.41.desc:0 "Battery,\n\nChief, I don't get you. You complain about not having enough weapons but then turn your nose up at actually doing something to get more. I just hope you remember this moment every time we lose a battle.\n\n—Mallet"
+  nf_blc_letters.41.a:0 ""Guns aren't everything.""
+  #
+  nf_blc_letters.42.title:0 "RE: Research and Disagreements"
+  nf_blc_letters.42.desc:0 "Battery,\n\nDon't worry. We'll make something even better for this nation.\n\n—Bearhard"
+  nf_blc_letters.42.a:0 ""I expect great things.""
+  #
+  nf_blc_letters.43.title:0 "Blind Leads the Sightless"
+  nf_blc_letters.43.desc:0 "Battery,\n\nOur soldiers need no weapons that spit fire and spew smoke to strike someone down. We would approach by night and slit your throat without you waking. Perhaps we will give you a demonstration why our ways are better one day.\n\nBullets have no place anymore when the spirits ward us from their sting."
+  nf_blc_letters.43.a:0 ""We could test that theory if you like.""
+  #
+  nf_blc_letters.44.title:0 "From the Lessons of the Past"
+  nf_blc_letters.44.desc:0 "Battery,\n\nYou have made a good choice. When people see the grand battle lines of Black Canyon armed with spears and shields and armored against their bullets by the spirits, they will tremble in fear at our might.\n\nThe spirits will ward us and keep us from harm."
+  nf_blc_letters.44.a:0 ""I mean, it's working for the Legion...""
+  #
+  nf_blc_letters.45.title:0 "RE: Research and Disagreements"
+  nf_blc_letters.45.desc:0 "Battery,\n\nDon't expect me to trade my gun for a spear. That's backward.\n\n—Bearhard"
+  nf_blc_letters.45.a:0 ""Better hope you have enough ammunition then.""
+  #
+  nf_blc_letters.46.title:0 "Honor Among Raiders"
+  nf_blc_letters.46.desc:0 "Battery,\n\nThanks for the help Chief. You'll see that we're real good at catching crooks. Takes one to know one, right? With us on the case, I'm sure that the kidnappings and theft will stop almost immediately. We're just so good at our jobs. Thanks for the opportunity to prove it.\n\n—Mallet"
+  nf_blc_letters.46.a:0 ""He played me...""
+  #
+  nf_blc_letters.47.title:0 "RE: Mustering for Arms"
+  nf_blc_letters.47.desc:0 "Battery,\n\nThanks for defending us.\n\n—Bearhard"
+  nf_blc_letters.47.a:0 ""I just helped you help yourselves...""
+  #
+  nf_blc_letters.48.title:0 "Noble, not Savages"
+  nf_blc_letters.48.desc:0 "Battery,\n\nThe others consider us nothing more than backward savages. We will show them differently. With my Painted Warband defending the Yampans both spiritually and physically they will all see how noble we and how our ways are superior to theirs.\n\nWith my aid, even heathens can be Warded."
+  nf_blc_letters.48.a:0 ""Stop being self-righteous.""
+  #
+  nf_blc_letters.49.title:0 "Where is your Merit-o-crazy?"
+  nf_blc_letters.49.desc:0 "Battery,\n\nI don't know about this choice. If you just let the Yampans grow and grow, it's obvious that they aren't able to defend theirselves effectively. When they come crying again, you'll know exactly who to put on the case.\n\n—Mallet"
+  nf_blc_letters.49.a:0 ""I'm not hiring the thief to catch himself.""
+  #
+  nf_blc_letters.50.title:0 "RE: Mustering for Arms"
+  nf_blc_letters.50.desc:0 "Battery,\n\nWe can defend ourselves. I can show you if you want.\n\n—Bearhard"
+  nf_blc_letters.50.a:0 ""No thanks, this was for the best.""
+  #
+  nf_blc_letters.51.title:0 "Savages, Savages, Barely even Human?"
+  nf_blc_letters.51.desc:0 "Battery,\n\nThe others consider us nothing more than backward savages. We will never get the opportunity to prove otherwise like this. For the sake of the respect between our factions, you should have allowed us the opportunity to aid as an interested third party—more impartial that way.\n\nWe would have Warded them as we do our own."
+  nf_blc_letters.51.a:0 ""Mind your own business, Peter.""
+  #
+  #nf_blc_letters.52.title:0 "Death of Quick Asp"
+  #nf_blc_letters.52.desc:0 "The death of Quick Asp was sudden, but not unexpected. He was old, and every man has his time. With his death comes the second free election in the history of the Painted Men Tribe for chief. There are two primary candidates for Chief-shaman."
+  #nf_blc_letters.52.a:0 ""Rest in peace, and thank you for your work.""
+  #
+  #nf_blc_letters.53.title:0 "Death of Koda Rivers"
+  #nf_blc_letters.53.desc:0 "The death of Koda Rivers has rocked the community. With Bearhard and his brothers announcing publicly that they would not be running for office, for the first time in almost 5 decades a non Rivers family mayor is going to be elected in the town of Medicince. Not only this, but with Medicine being by far the largest settlements in Yampan it will mean a new governor for the region as a whole. There are two major candidates expected to win this election."
+  #nf_blc_letters.53.a:0 ""Rest in peace, may they bite better in the Heavens.""
+  #
+  ### The Beacons of (Gondor) Rockies!
+  #
+  nf_blc_beacons.1.title:0 "The Led Horse at the Water"
+  nf_blc_beacons.1.desc:0 "In the north of us, there is a geographical region only known on old maps as the "Wyoming Basin". Although, we most of the time only refer to it as "Little Wyoming" or as the "Sweetwater" region, after the river that borders it from the north.\n\nOn those soil there are two nations that bicker with each other since our first scouts met with their forces - [PRO.GetNameWithFlag] and [SIE.GetNameWithFlag]. The first is a group of primitive "mole-miners", maddened ghouls with a mining mania. They're the aggressors in the story, often raiding the towns of [SIE.GetNameWithFlag] for whatever reason. On the other hand, the latter are hardened brahminboys and -girls, and the surviving First People of Wyoming in the area just wished to be left alone.\n\nThe chaos over the land and our own inner problems prevented us from intervening in the conflict - as we claimed the area of our sphere of interest. The Sweetwater river would be the perfect natural border of our nation, and the land holds valuable resources we could utilize.\n\nNow that the local conflict successfully has been resolved, we can finally deliver our demand to the successor and reorganize the area to our liking."
+  nf_blc_beacons.1.a:0 "We'll have to step in to stabilize the situation!"
+  #
+  nf_blc_beacons.11.title:0 "An "Irresistable" Offer"
+  nf_blc_beacons.11.desc:0 "We have just survived our bloodiest onslaught yet, and we cannot even take a deep breath without further harassment from someone. The people from [BLC.GetName] send us a messenger, congratulating us for our victory and wishing that our "strengthened position will allow us to deepen the mutually warm connections between our nations". They're ready to "reinvigorate" the trade between our capitals and "lend additional funding" for "developing our craftsmen sector" if we're "determined" to "align our foreign policy" with theirs for "superior cooperation and advocacy".\n\nAfter re-reading the message a couple of times, we realized they want us to subjugate for their will, and they will pay nicely for it. Whilst that would be humiliating, we could certainly use more money and protection from someone more "tenacious" than us. That's how smart-talking works, right?"
+  nf_blc_beacons.11.a:0 "We can only win on this!"
+  nf_blc_beacons.11.b:0 "Oh, hell no!"
+  #
+  nf_blc_beacons.12.title:0 "The Ultimate Part of the Ultimatum"
+  nf_blc_beacons.12.desc:0 "We probably overestimated the intelligence of our peers, as they rejected our generous offer. Oh, well, you cannot win them all. Stubborn and slow students only need more... attention and a more rigorous teaching method."
+  nf_blc_beacons.12.a:0 "A lesson needs to be taught."
+  #
+  nf_blc_beacons.2.title:0 "A Message from Below"
+  nf_blc_beacons.2.desc:0 "TODO"
+  nf_blc_beacons.2.a:0 "- Let's see what she has to say."
+  #
+  #nf_blc_beacons.21.title:0 "Ghosts like the Bloody Mary"
+  #nf_blc_beacons.21.desc:0 "#"
+  #nf_blc_beacons.21.a:0 "We have no other choice - let them have it."
+  #nf_blc_beacons.21.b:0 "Call the Ghostbusters!"
+  #
+  #nf_blc_beacons.22.title:0 "Ghosts like Casper"
+  #nf_blc_beacons.22.desc:0 ""
+  #nf_blc_beacons.22.a:0 "Every help appreciated - just keep Wendy home."
+  #nf_blc_beacons.22.a_tt:0 "§GTwo§! divison of Power-Armoured Ghost Mercenaries will report for duty in the §YVault 27§!!"
+  #nf_blc_beacons.22.b:0 "I ain't 'fraid of no ghost!"
+  #
+  nf_blc_beacons.3.title:0 "Moles with Bombs"
+  nf_blc_beacons.3.desc:0 "There is a literal hellhole in close proximity to the Penitentiary - and its residents call it Moletown. Mole-miners from Far Son, leaving that place for whatever reason behind, and deserters from our troops have set up shop in an abandoned nuclear bunker. Armed to the teeth with explosives, probably from the Claim Jumpers of George's Town, the Moles are a severe threat. Luckily, they quite rarely venture out from their scrapped together settlement and start raiding the countryside, but they're on the move again.\n\nThis will ends now. We'll put an end to this problem once and for all."
+  nf_blc_beacons.3.a:0 "We have a job for Mallet..."
+  #
+  nf_blc_beacons.31.title:0 "The Gunpowder was too dry..."
+  nf_blc_beacons.31.desc:0 "One of our local gun manufactury's storerooms got a direct hit from a stick of mining dynamite with "MOLE" written all over it. Those storages usually only contain scraps, pipes and manufacturing tools for the work. We not only do not know how the gunpowder got next to a vulnerable and critical site, but we also do not see why the Moles blew it up instead of stealing it for their usage."
+  nf_blc_beacons.31.a:0 "They will pay for this."
+  #
+  nf_blc_beacons.32.title:0 "A Wild Spark"
+  nf_blc_beacons.32.desc:0 "Most of our construction-related facilities, such as our building material production sites, follow rigid safety regulations. However, somebody must have been smoking next to the critical supplies for making bricks, as a window has appeared on our roof that initially was not part of the blueprints. We weren't even aware that bales of hay and clay could be explosive!"
+  nf_blc_beacons.32.a:0 "Reinforce safety measures."
+  #
+  nf_blc_beacons.33.title:0 "Mole-Made Potholes"
+  nf_blc_beacons.33.desc:0 "Our country appreciates every caravan that brings us critical supplies, like soap and others, so if one of them goes missing we start to worry. Our expedition to search for our cleaning products luckily yielded fruit, as we found the brahmin-pulled mini bus next to our main road. A pothole the size of a gutter cover can heavily damage the wheels and hooves. Operation Shower Curtain was successful, luckily."
+  nf_blc_beacons.33.a:0 "American roads...the roads never change."
+  #
+  #nf_blc_beacons.4.title:0 "Lunar Movements"
+  #nf_blc_beacons.4.desc:0 "Our western neighbour has suspiciously all of a sudden gone quiet. Ouroboros is a nation forged on revenge, and its leader, Hecate, has aspirations and tactics that are not secret before us. Their recent conquests made us wary, but we trusted that they would not try to turn against us.\n\nBut something happened, some internal conflict caught aflame and right now, we cannot expect what will happen in the near future. Heads will fall - and based on whose, we'll have to ready ourselves for war or stand our ground."
+  #nf_blc_beacons.4.a:0 "We'll obeserve our Lunar calendars througfully..."
+  #nf_blc_beacons.4_tt:0 "The §YLunar Eclipse§! and §YHowling at the Moon§! focuses will be unlocked to choose from."
+  #
+  nf_blc_beacons.5.title:0 "The Powderkeg Caught the Spark!"
+  nf_blc_beacons.5.desc:0 "Ghoul and man are at odds once again. An inevitable, albeit unfortunate series of mishaps has devolved into an all-out war in the powderkeg of Colorado. The NCR expedition in the region seeks to expand its claim with the ultimate goal of taking the Boulder Dome, while the ghouls seek to expand their respective dominions.\n\nBattery rules we should not sit idly by in this affair. It is necessary for the long-term security in the region that we should ensure the right side comes up victorious in the war, and that Northern Colorado and its ghouls should be contained. The obvious pick to achieve this goal would be to support the Baggers. Whether or not we provide tangible aid to the Baggers is in the air, but what we do know is that we are watching the fate of the region unfold before our very eyes."
+  nf_blc_beacons.5.a:0 "Peace was never an option."
+  nf_blc_beacons.5.a_tt:0 "The §Y[LUM.GetName]§!, §Y[WHD.GetName]§! and the §Y[BAG.GetName]§! will declare war on each other!"
+  #
+  nf_blc_beacons.51.title:0 "A Daunting Offer from Black Canyon"
+  nf_blc_beacons.51.desc:0 "The Caravan Congress of Black Canyon has extended an offer cloaked in the language of support and cooperation. They propose to transition the Baggers into the 'Boulder Dome Research Authority'. Under this new structure, resources, expertise, and protection would flow freely, but at a steep price. The Baggers would be barred from any further contact or cooperation with the NCR, severing their connection to their homeland. This isn't just an offer, it's a demand for submission, a velvet glove masking an iron fist.\n\nThe choice is clear; accept the authority of Black Canyon and abandon old alliances, or reject their offer and face the consequences of standing alone in the unforgiving shadows of the Dome."
+  nf_blc_beacons.51.a:0 "Let us in already!"
+  nf_blc_beacons.51.b:0 "Never!"
+  nf_blc_beacons.51.become_puppet_of_blc:0 "§RWe become a puppet of Black Canyon!§!"
+  nf_blc_beacons.51.black_canyon_wont_like_this:0 "§RBlack Canyon wont like this, and will begin to prepare to invade us!§!"
+  bag_end_of_the_line_tt:0 "\n§gYou find a sheet of paper, left by Patches, Glowing One of the Glowbugs - talking about him writing a joke based on something some wannabee designer told him.\n\"'There isn't any content after this'.. What the hell kind of joke is that? How am I supposed to write a punchline for that?\"§!"
+  #
+  nf_blc_beacons.52.title:0 "The Order"
+  nf_blc_beacons.52.desc:0 "The dust has settled in Northern Colorado. The ghouls have destroyed the NCR expedition. This is a worrying development for Battery and the security of Black Canyon. Knowing that at this point ghoul governance is necessary to maintain long-term stability in the region, we must turn to our allies in the Glowbugs. They would be capable of governing the area. They must secure it, or else we risk losing our protection from the Hangdogs and Colorado's other threats./n/nWe would deliver a plain message to [GLW.GetName], demanding they bring order to the Northern Colorado wastes and keep the Ghouls off our border, or otherwise lose our protection and trade. Naturally, Battery will assist the Glowbugs in this endeavor."
+  nf_blc_beacons.52.a:0 "It's right thing to do."
+  #
+  nf_blc_beacons.6.title:0 "The Endless Grief of the Tribe Scorned"
+  nf_blc_beacons.6.desc.1:0 "The Twin Mothers tribe lies shattered, their goddess Diana cast into the shadows by the relentless advance of the Butcher of the East, Lanius. The banners of the Bull now hang heavy over their broken sanctuaries, and the once-sacred land echoes with the cries of a people torn apart. In the aftermath of such devastation, Diana, a figure shrouded in myth and whispers, has retreated deep into her domain—her divine grief twisting into something raw and unyielding.\n\nThe Nursery, a pre-war sanctuary nestled within our sphere of influence, has stirred to life. From within its ancient walls, faint echoes of Diana's voice reach out—a song laced with heartbreak, yet carried on a current of deep, tribal anger. Her sorrow has become fuel, her mourning a call to arms. The scattered remnants of the Twin Mothers now gather under her veiled guidance, their hands clutching bow and spear, their eyes set firmly on the fertile lands of Black Canyon. They no longer seek diplomacy, nor do they desire understanding—they crave a new home, one carved out by force.\n\nBattery faces a grim reality. There will be no peace with Diana, no negotiations or common ground. Her people march forward with the quiet fury of the dispossessed, and the goddess herself remains distant and unknowable—a spectral presence guiding her children from the depths of the Nursery. Now, Black Canyon must prepare. Walls must be fortified, alliances cemented, and every able body readied for the storm on the horizon. For when the arrows begin to fall, there will be no mercy."
+  nf_blc_beacons.6.desc.2:0 "The Twin Mothers tribe lies fractured, their sanctuaries burned and their people scattered after their brutal defeat at the hands of Lanius, the Beast of the East. Their goddess, Diana, remains hidden deep within the cold circuits of the Nursery, her voice reduced to faint whispers carried on flickering wires. Her surviving children, clad in simple leathers and painted in pale crescents, now tread softly into the outskirts of Paradise.\nThe refugees do not come with weapons drawn or voices raised. Instead, they move with the wariness of hunted animals, their sharp eyes watching the settlers of Black Canyon from the shade of twisted trees and rocky outcrops. They ask for little, but their presence alone carries weight—a question left unanswered. While some see desperate souls in need of aid, others see a risk simmering just beneath the surface.\n\nWithin the Caravan Congress, voices have begun to rise in concern. Skeptics argue that allowing the refugees to settle near Paradise could destabilize the fragile order Battery has worked so hard to build. Others warn that aiding them risks drawing the attention—and wrath—of Caesar's Legion. The refugees are survivors of the Bull's fury, after all, and any sign of sanctuary might be seen as an affront.\n\nBattery now stands at a crossroads. He can offer aid and sanctuary to these wounded wanderers, risking political backlash and Legion reprisal in the name of compassion. Or he can heed the warnings of his advisors, moving against the refugees to secure Paradise and silence any whispers of weakness. Somewhere deep within the Nursery, Diana listens, her voice faint but ever-watchful, as another choice carves itself into the story of Black Canyon."
+  nf_blc_beacons.6.a:0 "Battery sends them a letter, pleading for peace!"
+  nf_blc_beacons.6.b1:0 "Battery sends them aid. They are welcome here!"
+  nf_blc_beacons.6.b2:0 "Battery heeds the congress; these refugees are not welcome here!"
+  #
+  nf_blc_beacons.61.title:0 "A Desperate Plea"
+  nf_blc_beacons.61.desc:0 "A message was entrusted to a lone Twin Mothers tribal, a weary soul worn thin by the endless journey through the unforgiving Rockies. In their cracked hands, they carried Battery's proposal—an envelope stained with sweat and dust, its contents heavy with desperate words. They arrived at the threshold of the Nursery, where one of the Guardians, a towering relic of pre-war engineering, loomed in stillness. With trembling fingers, the tribal held the letter aloft, positioning it before the Guardian's sacred scanners so its cold, unblinking lenses could read the words etched within.\n\nThe letter was not a demand, nor a threat—it was a plea. Battery spoke of the beginnings of Black Canyon, of the sacrifices made alongside Prisoner 13 to carve out a fragile sanctuary in the wasteland. He wrote of their shared dream, a dream of legacy and stability, a place where people could stand tall beneath the shattered sky. And he wrote of Prisoner 13—how heartbroken they would be to see what had become of Diana's people, now driven to grief-fueled violence and vengeance.\n\nBut it was all for nothing. Battery's words carried the weight of desperation, yet they were powerless against the tidal wave of Diana's sorrow. In another world, perhaps, Diana and Battery might have been allies—friends, even. But that world is lost, buried beneath ash and blood. Now, all that remains is a goddess consumed by grief, a tribe on the edge of extinction, and a home that must be reclaimed at any cost.\nNo letter, no plea, no shared history can change that."
+  nf_blc_beacons.61.a:0 "§MBattery could never understand what I feel.§!"
+  #
+  nf_blc_beacons.611.title:0 "Gifts from Black Canyon"
+  nf_blc_beacons.611.desc:0 "A caravan arrives at the edge of Paradise, its brahmin laden with crates of grain, clean water, and medicine wrapped in rough burlap. Accompanying the supplies is a carefully folded letter, sealed with wax bearing the sigil of Black Canyon. The words within are deliberate, penned in Battery's steady hand. He speaks of understanding—of hardship, of loss, and of the long road to rebuilding after ruin. The supplies, he says, are freely given, a gesture of goodwill from one survivor to another. Yet, there is also a quiet appeal threaded through the ink: an unspoken hope that the Twin Mothers will see Black Canyon not as a rival, but as a neighbor worth trusting in the uncertain days ahead."
+  nf_blc_beacons.611.a:0 "Perhaps trust can grow from kindness."
+
+  nf_blc_beacons.612.title:0 "A Demand from the Big Top"
+  nf_blc_beacons.612.desc:0 "A dusty courier arrives at the outskirts of Paradise, bearing a scroll tied with rough twine and marked with the symbol of the Caravan Council. The message is blunt, its language sharp and efficient. The land surrounding Paradise, it declares, falls under the rightful claim of Black Canyon and the Caravan Congress. The presence of the Twin Mothers refugees, though understood in its tragedy, cannot be ignored. They are politely—but firmly—requested to leave the area and find settlement elsewhere. There is no overt threat in the words, but the weight of consequence hangs heavy in the parchment's creases. The courier waits patiently for a response, his expression carefully neutral."
+  nf_blc_beacons.612.a:0 "A fragile peace hangs in the balance."
+
+  nf_blc_beacons.62.title:0 "Diana's Response"
+  nf_blc_beacons.62.desc:0 "The Guardian—a towering Sentry Bot painted in faded shades of green and etched with faint tribal markings, and envoy of the Goddess Diana—rolled steadily into the Big Top. Its heavy treads ground into the cracked earth, reverberating through the assembly hall as guards shifted uneasily and congress heads fell silent.\n\nThe bot halted in the center of the hall, its external speakers crackling to life. Diana's voice poured forth, cold yet sorrowful, resonating with a haunting clarity: §B\"I am the Goddess Diana, and you cannot fathom how much I've mourned. My temples lie in ashes, my people in chains, and the legacy I built reduced to dust beneath Lanius' heel. Everything I cherished has been taken from me. Your lands must be my peoples new home, there is no other way. In time, you will learn my love.\"§!\n\nAs her final words faded into silence, the Guardian's body began to hum—a low, unnatural vibration rattling its metal frame. Smoke hissed from vents along its sides, and internal systems whined under impossible strain. Panic swept through the congress as the heads scrambled for the exits, shouting orders and overturning chairs in their rush to escape. Seconds later, the Guardian's chassis erupted in a cascade of sparks and flame, its core overheating beyond control. The resulting explosion shook the compound, leaving nothing of the Guardian but charred metal and smoldering ash in its wake. Diana's message had been delivered, and her wrath left its mark."
+  nf_blc_beacons.62.a:0 "God help us!"
+  #
+  #nf_blc_beacons.63.title:0 "From the Garden to the Canyon"
+  #nf_blc_beacons.63.desc:0 "Diana has maintained her great wisdom through the tribulations Lanius has put the Twin Mothers through. She has accepted our demands and sworn loyalty to Battery and Black Canyon."
+  #nf_blc_beacons.63.a:0 "A rare act of peace."
+  #
+  nf_blc_beacons.7.title:0 "Another Day in the Office"
+  nf_blc_beacons.7.desc:0 "That's what it felt like to Battery. Here he was, tending to various tedious tasks. Reading letters, groaning at petitions, fussing over reports. \n\nBut 2278 wasn't going to be just another year, that was for sure. No, 2278 was when Battery had made up his mind to finally tackle the gnawing problems of his strange little state. The various groups he had gathered together had enjoyed a privileged existence this whole time, enjoying liberties and freedoms and profiting off of the stability the Caravan had brought. \n\nThey would never achieve meaningful change if they allowed things to persist like this. Something had to be done. Privileges curtailed, laws passed, centralization achieved. It would be quite the battle, and Battery would either make a lot of friends or a lot of enemies in the process. But he had resovled to make something of this place, and this would be his year."
+  nf_blc_beacons.7.a:0 "Time to get to work."
+  #
+  nf_blc_beacons.71.title:0 "Mail in Black Envelope"
+  nf_blc_beacons.71.desc:0 "TODO"
+  nf_blc_beacons.71.a:0 "That was a bad idea."
+  nf_blc_beacons.71.b:0 "Who wants peace must be ready for war, right?"
+  #
+  nf_blc_beacons.72.title:0 "Mail in Brown Envelope"
+  nf_blc_beacons.72.desc:0 "TODO"
+  nf_blc_beacons.72.a:0 "We must teach them where their place are."
+  #
+  nf_blc_beacons.73.title:0 "The Zombie Address"
+  nf_blc_beacons.73.desc:0 "TODO" #A Speech of Friendship, Loyalty and Cooperation
+  nf_blc_beacons.73.a:0 "So heartwarming."
+  #
+  #nf_blc_beacons.8.title:0 "Between the Cows and the Boys"
+  #nf_blc_beacons.8.desc:0 "The ever-mysterious Colorado-Wyoming border region has seen some terrible things before. Luckily, the last couple of years were peaceful, where the people tolled but survived without any major hiccups on the way. This era of stability and prosperity ended when the news of war arrived from the north.\n\nThe Khans were refugees from the faraway lands of California. They were known as great warriors and commonplace troublemakers, but since they started to settle the empty plains, they were not causing much trouble. They were attacked by our northern neighbour, the Baron and his brahminboys. Bailey was always a shrewd man, but we would never know his greed would chase him into starting bloodshed over dusty fields and dried pastures.\n\nNeither of them are harmless or sinless people, and one cannot be sure which one of them would be our better neighbour."
+  #nf_blc_beacons.8.a:0 "What the Prisoner would do, Battery?"
+  #
+  ### The Painted Men
+  #
+  nf_pnt.1.title:0 "The Warded's Vision"
+  nf_pnt.1.desc:0 "The Warded's pre-penitentiary life is a mystery. It was a time before the Ink had found him, a time where he had not yet seen the Glorious Goal, before his Visions, before he had a purpose.\nBut inside the Tibbets' Facility, everything changed; the trials of strength, perception, endurance, charisma, intelligence, agility and even luck all had struck him, and yet he prevailed. After every struggle he survived, the Ink had taken more space from his skin, and those challenges made him more than a man. He was chosen by the God of Ink, Arlen, to be his Champion.\n\nAfter the Penitentiary was been opened by other forces he left that wretched place and found his people, the Painted Men. He taught them the art of war, warned them of the corelings from the dark of the night, and as soon the position was "opened", he became their Kende, their "High Shaman" as well.\n\nNow, after many trials from the Black Canyon as well, the Painted Men again can act independently and unite the fragmented Painted Folk in the region, as he promised the Painted Men before. War is coming, and as such, the Warded became their War Shaman, their Gyula, as well."
+  nf_pnt.1.a:0 "He will lead us into glory!"
+  #
+  nf_pnt.2.title:0 "The Sound of War"
+  nf_pnt.2.desc:0 "When the Warded first rose to the Painted Throne and started to shape the destiny of the Painted Men, according to his own Vision, the tribe was already scattered. The Painted Men had broken into multiple tribes long before the Scrappers from Denver invaded the place, and the already weakened nation has broken into pieces when they did. The northern little tribes, the Little Snakes, the River Foxes, and the Lone Rock would stick together, but the others have drifted away from the old ways.\n\nNow that the Caravan Congress holds power no more, we can reconquer old lands from the invaders. It will be a costly and challenging campaign, as the myriad occupiers of our sacred lands will surely resist when we arrive in their homesteads."
+  nf_pnt.2.a:0 "Sharpen the spears, pile them high!"
+  #
+  nf_pnt.3.title:0 "Guided by a Higher Power"
+  nf_pnt.3.desc:0 "The Painted Men deeply believe in the power of the tattoos; the ink that engraves a body is just a memory of a finished trial, a means of invoking the might of nature. The Symbol of the Wind inked on the legs means that someone was swift on his feet, and in the process he bound the winds, so they may carry in his next run as well.\n\nTheir beliefs were challenged when New Canaan's missionaries arrived and started spreading the Words of Christ. While first they were almost shot on sight, in time they learned to tolerate each other. Their conversion is slow, and has yet to challenge the figurehead of the Warded. After all, if the Mormons entrench themselves too heavily, he will simply declare himself the reincarnation of Jesus. The Canaanites, while fundamentally annoying and hindering the Warded's strongman figure, do bring positive change to the land. That's something worth tolerating, at least for a while."
+  nf_pnt.3.a:0 "Ephesians 32:"
+  nf_pnt.3.a_tt:0 "§gBe kind to one another, tenderhearted, forgiving one another, as God in Christ forgave you.§!"
+  #
+  ### The Yampan Community Coalition
+  #
+  nf_ymp.1.title:0 "The Bear of the Yampa"
+  nf_ymp.1.desc:0 "The Yampan Communities always were a democratic union of a sort. The coast could not survive without the inland towns, and vice versa, so their cooperation was always fueled by necessity. The towns are equal, and every one of them has exactly one vote; and almost always influential families got the vote for leadership. In the last two decades, the Lord Mayor was either a Woods or a Rivers.\n\nBearhard took the position directly from this father, Koda Rivers, and since then, the Communities started rapidly developing. He effectively used the alliance with Black Canyon to further said advancements.\n\nWhile Black Canyon may have fallen apart, the Communities are as strong as ever. The Yampans will continue to follow their Lord Mayor, without a doubt in their heart, even though he grows to be more autocratic and seemingly more obsessed with the Platte River..."
+  nf_ymp.1.a:0 "He's our only hope."
+  #
+  nf_ymp.2.title:0 "The Trade Must Go On"
+  nf_ymp.2.desc:0 "The Yampans' greatest power is their trade capacity. Their vessels venture far away, and the Platte connects to much larger rivers, thus they can even trade with the cities of the River League. The Coalition is only a minor player in the League's wider operations, however. There is actually one larger problem that hinders our capabilities; the city of Casper and the greedy Baron north of us. We cannot realistically rival the dockyards on the other shore, but that doesn't mean we cannot take that city for ourselves.\n\nThat and more are the main reason why Bearhard was the head of organizing the trading and economy in the Black Canyon Federation, but as they have fallen into the dust, we can finally focus on ourselves again. Setting back the focus from caravan routes to the Platte will surely be make our trading smoother and more effective. Even if that means that we'll have to get the competition out of our way..."
+  nf_ymp.2.a:0 "The river keeps us alive in more then one way."
+  #
+  nf_ymp.3.title:0 "Just Around the Riverbend"
+  nf_ymp.3.desc:0 "As soon as Black Canyon fell, the people on every side started to mobilize. In these turbulent times, we cannot sit idly either. While in the cities of the Coalition preparing for war has become a common sight, there wasn't any showcase of patriotism from the higher circles that could help morale. The Rivers have announced that they will refit their fisheries and fishing-rod manufactory to wartime dockyards and an arms workshop, respectively. Their sacrifice will be noticed by the populace for sure!"
+  nf_ymp.3.a:0 "What I love most about rivers is..."
+  #
+  ### The Tibbets' Raiders
+  #
+  nf_bcr.1.title:0 "The Wasteland's Mallet"
+  nf_bcr.1.desc:0 "The Tibbets Penitentiary's history is quite long and rich, but let's cut out the boring stuff and focus on none other than old McBride, the Mallet of the Wasteland.\n\nIt was secured by the 705th Military Police Batallion before the Great War, next to the Automated Convict Managing and Deterrent System, and as such, their green-and-gold banners were all over the place. Mallett took them and used them as his own, turning a symbol of protection into a symbol of terror. Real classy.\n\nAfter the gates of the Big Top finally opened up and people swarmed out, Mallet started to gather the people who stayed. The raiding of the countryside started almost immediately, mostly against tribals, simple folks without much organization for defence. Easy pickings, thin loot. The only exception was The Boat, a little town just next to the jail.\n\nWhile the arrival of the Caravan put a stop to that, their presence was actually quite beneficial for us; they developed the Penitentiary and the community around it to serve as their HQ. Their "Compromise", where we handled most of their military affairs, gave us more experience with leading genuine armies rather than mere raiding rabble. Now that they're gone, we can go back to good old raiding, and we can remind everyone who is the Mallet of the Wasteland. A disaster for all weak people, yet someone you can negotiate with. Hire him to raid your neighbour instead of you!"
+  nf_bcr.1.a:0 "They have no chance against him!"
+  #
+  nf_bcr.2.title:0 "The Rough Life"
+  nf_bcr.2.desc:0 "Not everyone wanted to follow McBride at first. There were other contenders to lead the rabble of Tibbets, so a simple solution was found. The Big Brawl, the greatest fistfight the wasteland ever heard of was organized inside the Penitentiary. 97 raiders used their fists to achieve glory and only three of them stayed standing in the end; Mallet, Ryan Mitchell and Ivan. Mallet stood tall, covered in bruises and bloodspots, and yet he was determined to kick everyone's asses under the rotunda. His eyes were gleamed with a madden look, like a Berserker who was ready to die just to achieve victory. The other two promptly bent the knee and vowed loyalty, and McBride found himself his right and left-hand men. While there were thick skulls to crack, McBride naturally emerged victorious under the pile of bodies he "malleted". Hammered. He meant hammered.\n\nThe Compromise, while it was humiliating to be ordered around, was a useful tool to keep us in check. It also made our Greenies somewhat more experienced. After the Big Brawl went smoothly, a new Compromise was made between him and his men, and all who later joined their ranks; they will raid as a profession, and as his employees, he will pay them with loot and drugs. A fine Compromise for everyone."
+  nf_bcr.2.a:0 "A fine "Compromise" indeed."
+  #
+  nf_bcr.3.title:0 "Jailhouse Rock"
+  nf_bcr.3.desc:0 "You know, while a raider is a threat against modern society, their fundamental needs aren't that despicable. First, they're just looking for a thrill, adrenaline junkies as they are. Second, they're desire freedom, a life where there are no or just bare minimal laws to govern their actions. They would rather be alone in a dirty pit than at other people's mercy. And third, entertainment - they go after booze, tobacco and all the drugs we can cook them up. If they aren't a threat to each other, why on the good Earth would anyone stop them from having fun? We'll please our warriors, and in return, they'll work better. That's the Raiders' Way."
+  nf_bcr.3.a:0 "The warden threw a party in the county jail..."
+  #
+  nf_bcr.4.title:0 "Another Face on the Mountain"
+  nf_bcr.4.desc:0 "The carving began with chaos—raiders hauling crates of dynamite, slaves scrambling with chisels, and McBride barking orders from below. Each blast rattled the earth, sending stone and dust cascading down the mountainside. Chisels followed, carving rough outlines in the wreckage left behind. Entire sections of the old faces cracked and fell away, their features marred forever by McBride's ambition. The raiders laughed, the slaves coughed, and slowly, a new face took shape. It wasn't graceful, it wasn't clean, but it was unmistakable—Mallet McBride, sneering eternally down at the wasteland below. Whatever power those old faces held, it's his now."
+  nf_bcr.4.a:0 "Fucking fabulous."
+  nf_bcr.4.b:0 "Utterly disgusting."
+  nf_bcr.4.c:0 "Eh, whatever."
+  #
+  #Originally, BCR had some capstone stuff. Felt it was gaudy, so trimmed it - Zusk.
+  #
+  #nf_bcr.5.title:0 "Remove for now - Zusk"
+  #nf_bcr.5.desc:0 "Remove for now - Zusk"
+  #nf_bcr.5.a:0 "Remove for now - Zusk"
+  #nf_bcr.5.b:0 "Remove for now - Zusk"
+  #
+  #nf_bcr.6.title:0 "Remove for now - Zusk"
+  #nf_bcr.6.desc:0 "Remove for now - Zusk"
+  #nf_bcr.6.a:0 "Remove for now - Zusk"
+  #
+  #nf_bcr.7.title:0 "Bad Blood"
+  #nf_bcr.7.desc:0 "Jericho, Utah, former Four States Commonwealth: This city, once about to slip into a quiet death, now a loud and proud resurrection point, served as the staging grounds for the powerful meeting of two most menacing and badass characters that the wasteland had ever known. At this point, McBride had conquered most of Wyoming, the Dakotas, and the Canadian province of Manitoba. At the same time, Marianne had taken control of southeast Nevada and Western Utah, making their combined holds roughly the same size as the old Commonwealth.\n\nThe marriage proposal and national alliance first began purely as a business offer, something that would be beneficial for both parties. But these two characters weren't the typical suit-and-tie negotiators... both of them wanted to know if the rumours about the other were true. They were as similar to each other as they were deadly. Ruthless. Powerful. Skillful warriors. Quick thinkers. For those reasons, the boring back-and-forth dealings quickly escalated into a proper duel. Everything was acceptable; firearms, piercing-and-slashing weapons, unarmed techniques.\n\nTheir battle took at least an hour, ending with seven dead bodyguards, two severely injured. Marianne sent multiple crude bullets into her thugs, using them as human shields, breaking two ribs, while McBride got his own bullet piercings through his torso and lost his left ear. Nobody could tell the soft and sophisticated "Overboss" of the 215th was such a fierce warrior, nor that the violent and brutish McBride of Tibbets Prison could be so loving and compassionate... in his own 'unique' way. In their bloody duel, they found their match, figuratively and literally. By the time the physical violence was over, the confrontation turned to a more passionate form of struggle, a kind of rough love that was based on respect and violence."
+  #nf_bcr.7.a:0 "May the wasteland fear their new overlords!"
+
+  #Dev Note!: Brandon V was a strange soul, twisted by phantoms essentially!
+  #'naught is real' here is a call to 'NOTHING IS REAL' - a strange metafiction plothook modern beth uses!
+  #On what he means by interlopers? Maybe you can play 76 and find out yourself! c: - Zusk
+  nf_bcr.8.title:0 "The Crown of Brandon V, the Mad King"
+  nf_bcr.8.desc:0 "In the ruins of Rapid City, buried beneath rubble and rust, our raiders unearthed something peculiar—a crown. Forged from smelted power armor, its edges remain jagged, its once-soft fleurons now twisted thorns of corroded steel.\nEtched upon its inner lining, an inscription endures:\n\n\"His Most Sovereign Majesty, Brandon the Fifth of His Name, Lord and King of the Realm of Manitoba.\n\nLo, I am ruler of yon distant stars,\nWhere nary interloper mars\nTheir argent fires in boundless gloom,\nNor shadowed fiends preside in tomb.\n\nRuler am I of the deep, black brine,\nWhere nameless horrors twist and twine.\nNone from the depths dare seize my crown,\nNor drag my scepter, nor pull me down.\n\nRuler of Sol, whose golden flame\nDoth whisper life and sing my name.\nRuler of Luna, pale and cold,\nWhose silver gaze does secrets hold.\n\nRuler of All, by ancient rite,\nMy will is writ, my word is light.\nRuler of Naught, where phantoms creep,\nFor naught is real, and real doth sleep.\n\nLet mine bloodline never sever,\nLet mine kingdom stand forever.\nLet mine foes, in terror's throe,\nBeneath mine curse, eternal, bow.\""
+  nf_bcr.8.a:0 "A Crown Fit for a King..."

@@ -1,0 +1,94 @@
+﻿l_english:
+
+  BRA_king_gunn:0 "Gunn II"
+  BRA_king_gunn_desc:0 "King Gunn, the second of his name, has ruled the Kingdom since the disaster of the First Coalition War. An ancient ghoul, he was there when Canada fell to American aggression, serving as a Member of Parliament. He was there when the CPF collapsed in Manitoba and saw the rise of the Kingdom by the Warlord of Winnipeg. Now, he rules the Kingdom, taking the name of its first King in an attempt to maintain it in the face of rebellions and strife.\n\nYet, heavy is the head that wears the crown. Gunn was an old man before the Great War, and is older still. Plagued by a dark degradation known only to his beloved wife Katherine and his right hand man Tanner, Gunn must act quickly before he succumbs. The Kingdom must prevail."
+  BRA_king_gunn_cured_desc:0 "King Gunn, the second of his name, has ruled the Kingdom since the disaster of the First Coalition War. An ancient ghoul, he was there when Canada fell to American aggression, serving as a Member of Parliament. He was there when the CPF collapsed in Manitoba, and saw the rise of the Kingdom by the Warlord of Winnipeg. Now, he rules the Kingdom, taking the name of its first King in an attempt to maintain it in the face of rebellions and strife.\n\nWith his mind and the Kingdom restored, Gunn II now looks forward into the future with hope and pride. The Kingdom is strong, its people safe, its armies strong. Long Live King Gunn the Great! Long Live Manitoba!"
+
+  BRA_hauser:0 "Grayson Hauser"
+  BRA_hauser_desc:0 "§2"A good commander will master one strategy to the point of invincibility. A great commander will practice every strategy so as to never be unprepared."§!\n\nGrayson Hauser lives by these words. The youngest son of a minor noble, Hauser was a student in Manitoba's military academy when the Republican War was lost. Believing that the Kingdoms defeat was due to over reliance on singular strategy, Hauser has dedicated himself to learning as many forms of tactics as possible, so that he may never be fully outclassed in battle."
+  BRA_jack_of:0 "Jack of All Trades"
+  BRA_jack_of_2:0 "Jack of All Trades"
+
+  BRA_grimaldi:0 "Alexander Grimaldi"
+  BRA_grimaldi_desc:0 "§2"Walk quickly and carry a big knife, for the enemy is best killed when they are overwhelmed."§!\n\nAn older soldier, Grimaldi was one of the few survivors of the disaster at Stonewall, being forced to spend the rest of the war as a prisoner of war. Released as part of a mutual prisoner exchange, Grimaldi has never forgotten his shame, and now dedicates himself to overwhelming his enemies before they can do the same to him."
+  BRA_aggressive_attacker:0 "Aggressive Attacker"
+  BRA_aggressive_attacker_2:0 "Aggressive Attacker"
+
+  BRA_toharek:0 "Jack Toharek"
+  BRA_toharek_desc:0 "§2"Aggression is said to garner all the glory, but it is defence that guarantees survival."§!\n\nMaster of Fortifications, and all things defensive, Jack Toharek is often credited as the mastermind behind the defence of Brandon during the Republican War. Laconic and physically imposing, the "Wall of Manitoba" has spent many hours designing even grander defences for when the traitors make their next move."
+  BRA_wall_of_manitoba:0 "Wall of Manitoba"
+  BRA_wall_of_manitoba_2:0 "Wall of Manitoba"
+
+  BRA_eleanor_yorkton_name:0 "Eleanor Yorkton"
+  BRA_eleanor_yorkton_desc:0 "§2“We learn from the missteps of yesterday to strive towards a better tomorrow.”§!\n\nIf one were to imagine what the daughter of the Lion of Langenburg would be like, Eleanor Yorkton was far from that. Caring, patient, and always looking forward, Eleanor is a voice of progress and change within the usually stagnant Kingdom. It is undeniable that she has a bright future ahead of her as one of the Kings trusted advisors."
+  BRA_forward_thinker:0 "Forward Thinker"
+
+  BRA_cornelius_thornburg_name:0 "Cornelius Thornburg"
+  BRA_cornelius_thornburg_desc:0 "§2“It is the duty of all Manitoban subjects to serve the Crown. To give one's life for it is the greatest honour I can imagine.”§!\n\nCornelius Thornburg, Baron of Thornburg, is a man known by his reputation alone. Fanatically loyal, many still whisper of his brutal purges of suspected Republican sympathisers in his land during the war, and his mass conscription of troops in an attempt to fill the losses of Stonewall. The 'Bloody Baron' marshals all he can in service of the Kingdom, no matter how stained his hands become in the process."
+  BRA_bloody_baron:0 "Bloody Baron"
+
+  BRA_sandra_davidson_name:0 "Sandra Davidson"
+  BRA_sandra_davidson_desc:0 "§2“We are at a state of war. No matter what some treaty may say, all must be fully committed to fighting and ending this rebellion. The Kingdom must be ready to fight.”§!\n\nSandra Davidson is a former soldier, one who risked her life for decades in service to the Kingdom and the Crown. Losing a leg and part of her hand in the War, she never believed that peace would last. Now, she urges those who can still fight to do so. If the Kingdom is to survive the coming onslaught, every man, woman, and child must be ready to fight."
+  BRA_militarist:0 "Militarist"
+
+  BRA_josephine_sol_name:0 "Josephine Sol"
+  BRA_josephine_sol_desc:0 "§2“There is so much pain and bloodshed in this world. It is the least we can do to try and mend some of it.”§!\n\nA former military nurse, Josephine Sol saw first hand the suffering inflicted by the War. Despite saving many lives, she knew that more could be done, by those with far more power and means than her. Winning the trust of Queen Katherine with her words, Josephine works tirelessly to influence the machinations of the court towards outcomes that help the most people. After all, it's the least she can do."
+  BRA_healing_hand:0 "Healing Hand"
+
+  BRA_neville_burke_name:0 "Neville Burke"
+  BRA_neville_bruke_desc:0 "§2“It was the army that held the walls of Brandon. Not the treasonous navy, not the fantasy of an air force. It was boots on the ground holding the line against traitors. As it should be, and as it shall always be.”§!\n\nA man forever scarred by the War of the First Republican Coalition, Neville Burke believes that the Kingdom only stands today because of the strength of the levies and men-at-arms. The ships of Dawfin were left decimated before they even left port. The airships of Winnipeg were boarded by the revolutionaries in Winnipeg before taking flight. Only the Kingdom's soldiers answered its call in its most dire moment."
+  BRA_iron_wall:0 "Iron Wall"
+
+  BRA_wolf_mcneil_name:0 "Wolf McNeil"
+  BRA_wolf_mcneil_desc:0 "§2"If the Kingdom requires it, I will acquire it."§!\n\nAn unscrupulous man who has no limits on the types of people he deals with, Wolf McNeil is one of the Kingdoms most shady agents. Given an official warrant to sneak behind enemy lines and deal with their merchants, Wolf's ability to direct the flow of income is matched only by his loyalty to the Kingdom. No one knows why such a seedy character holds such loyalty in his heart, but the Crown is blessed to have such an agent."
+  BRA_rogue_trader:0 "Rogue Trader"
+
+  BRA_simon_oz_name:0 "Simon Oz"
+  BRA_simon_oz_desc:0 "§2“My mum always told me that true ownership just means that you are smart enough to ensure only your hands are on the item. Well, she was certainly right.”§!\n\nSon of a minor noble, Simon Oz was taught one undeniable truth of life in his youth; you only own what you can take. Derided by some as nothing more than a common thief, Simon has proved himself to be something of a swindler, and a savvy businessman. It is his companies that dig up the Kingdom's resources, and he always ensures that it is him who gets the first piece of the pie."
+  BRA_cleptocrat:0 "Professional Cleptocrat"
+
+  BRA_james_gillingham_name:0 "James Gillingham"
+  BRA_james_gillingham_desc:0 "§2“While the military may defend the land, and the laws may govern the masses, it is the bureaucrat who keeps the machine running.”§!\n\nOfficial Master of Papers, James Gilingham descends from a long line of bureaucrats and officials within the palace of the King. Following in the footsteps of Gilingham’s past, James ensures that the paper wheels of the Kingdom turn smoothly, and that nothing is conducted without official sanction. He and his work is the line between order and anarchy, or so he likes to say."
+  BRA_bureaucrat:0 "Effective Bureaucrat"
+
+  BRA_marina_tyee_name:0 "Marina Tyee"
+  BRA_marina_tyee_desc:0 "§2“Yes, yes, your ancestral practices are important, but have you perhaps considered this as well?”§!\n\nMarina Tyee is somewhat of an oddity within the Kingdom. Though of common birth, her family's wealth afforded her some of the best education that her home within the Duchy of Dawfin could offer. Armed with this knowledge, as well as a treasure trove of pre-war economic texts, Marina successfully relocated her family to Brandon and now diligently pushes for bold new theories and concepts for economic development."
+  BRA_economist:0 "Economic Jumpstart"
+
+  BRA_thomas_neu_name:0 "Thomas Neu"
+  BRA_thomas_new_desc:0 "§2“I fix things. Nothing more to say.”§!\n\nA stranger to the Kingdom and its lands, Thomas Neu arrived in Brandon seemingly out of nowhere, with nothing but his clothes and the name Thomas. Despite his mysterious origins, his mastery of all things repair and maintenance impressed even the most blue-blood of nobles, and he was quickly taken in as a servant of the Crown. Somewhat humorously taking the name Neu, Thomas works tirelessly to ensure that everything is working, no matter how small or large."
+  BRA_handyman:0 "Handyman"
+
+  BRA_tobias:0 "Senior Captain Tobias"
+
+  BRA_theorist_name:0 "Frederick Payette"
+  BRA_theorist_desc:0 "§2"There is no greater teacher like experience. It's good that I have so much of it."§!\n\nA pre-war ghoul, Frederick Payette once served in the Canadian military, fighting the American invaders of his home until a vertibird attack left him crippled and out of the fight. Surviving the Great War, Frederick would wander the lawless land that was Manitoba, his old wound healed by his new physiology but still leaving him with a limp. With the rise of the Kingdom, and its tolerance to ghouls, he offered his military knowledge in exchange for a place to call home. 150 years later, he continues to serve the Crown."
+  BRA_theorist_2_name:0 "William Shackleton"
+  BRA_theorist_2_desc:0 "§t"A new world means new strategies. We must adapt or be left for dead in an irradiated crater."§!\n\nOne of the Kingdom's famous Mounties, William Shackleton has spent his entire life tracking through the woods and wastes. Joining up with the Mounties in the years before the War, his involvement in repelling the Republican naval landing has put him in good standing with Tanner, who heeds his advice on New World tactics and strategy."
+
+  BRA_gilles_hawco_name:0 "Gilles Hawco"
+  BRA_gilles_hawco_desc:0 "§2"I'm no Admiral, or naval genius. But I know these waters like one knows the love of their mother."§!\n\nWith the betrayal of Captain Bergeron, Manitoba has lacked a proper naval commander for some time. With the threat of Three Rivers still present and the need to secure aquatic supply lines to Arborg, the Kingdom turned to the common element. Giles Hawco is an old ferry captain, continuing his family tradition of ferrying travellers across the Lakes. Thrust into a position of command, Giles longs for the day he can return to the peaceful deck of his ferry."
+
+  BRA_earl_mcrae_name:0 "Earl MacRae"
+  BRA_earl_mcrae_desc:0 "§2"The sky is a peaceful place. Good thing I'm here to ensure no traitors can enjoy it."§!\n\nAir power has never truly been something that the Kingdom has considered developing for its armed forces. Yet, with rumours of Three Rivers' own research into militarised flight, the Kingdom must ensure it has the advantage. Earl MacRae is foremost pilot within the Kingdom, having spent years flying his family's private scratch built aircraft. Loyal only to the Crown, he now uses his expertise to build the Kingdoms air power, ensuring that no traitor shall fly above the Crown's lands."
+
+  BRA_grandmaster:0 "William Tanner"
+  BRA_grandmaster_leader_desc:0 "Described as the most loyal man in Manitoba, many looked to Tanner as a stoic example of focus and will following the loss of King Gunn. However, even stalwart Tanner was shaken by his Kings death. Yet, even in death, his King had one final order for him.\n\nNow, Tanner leads the People's Mounties, focused now not on defending a failed Kingdom, but rather protecting the people of Manitoba to the very end. That is his final order."
+  BRA_north_hound:0 "King's Guard Dog"
+  BRA_grandmaster_advisor_desc:0 "§t"I do my duty."§!\n\nThe Right Hand of the King. His most trusted advisor and confidant. And, to some, his Watchdog. William Tanner is the foremost example of meritocratic enhancement in the Kingdom, to the dismay of many within the nobility. Loyal, skilled, and a people's champion, Tanner leads the Kingdoms Mounties in service to the Crown, no matter the challenges they may face."
+
+  BRA_regency:0 "Regency Council"
+
+  BRA_mountie:0 "William Tanner"
+
+  BRA_QUEEN_ELEANOR_NAME:0 "Queen Katherine"
+
+  BRA_mailman:0 "Postmaster Pat"
+  BRA_mailman_desc:0 "Best described lover of cats and letters, Postmaster Pat was integral to the reopening of the Postal Service within the Kingdom. Growing up in the outskirts of Brandon, Pat would often entertain himself as a child by collecting old pre-war letters, as well as delivering the letters of his parents and neighbours. Same habits never die, and now he proudly serves as the Kingdom's first Postmaster, alongside his faithful companion, Jess."
+  BRA_trait_mailman:0 "Postmaster"
+
+  CPH_title_baron:0 "Baron"
+  CPH_title_duke:0 "Duke"
+  CPH_title_knight:0 "Knight"
+
+  BRA_cookie_name:0 "Cookie"

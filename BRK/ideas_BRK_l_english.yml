@@ -1,0 +1,112 @@
+﻿l_english:
+ # ideas
+  brk_startup_natives:0 "Native Settler Heritage"
+  brk_startup_natives_desc:0 "The Broken Coast is home to many peoples, but its post-war culture mostly came from the native peoples of the Coasts. Their influence is still felt today."
+
+  brk_startup_marines:0 "Marine Corps Heritage"
+  brk_startup_marines_desc:0 "The Broken Coast is home to many peoples, but its post-war culture mostly came from the US Marines stationed there. Their influence is still felt today."
+
+  brk_startup_sailors:0 "Sailor Heritage"
+  brk_startup_sailors_desc:0 "The Broken Coast is home to many peoples, but its post-war culture mostly came from foreign sailors stranded by the war. Their influence is still felt today."
+
+  brk_startup_fled:0 "Flexible"
+  brk_startup_fled_desc:0 "Between the awful weather and the ruthless locals, life on the Coast is hard. Our people know that to survive here you must be able to change and adapt to your situation. It's a valuable skill to know when and where to pick your fights."
+
+  brk_startup_sheltered:0 "Sheltered"
+  brk_startup_sheltered_desc:0 "There are times when the best option is just to hunker down and keep your head on. Whether it's a bar fight gone south or another frigid storm from the sea, people on the Coast know how to stay out of danger."
+
+  brk_startup_weathered:0 "Weathered"
+  brk_startup_weathered_desc:0 "In the end, the world catches up to you, and theres nothing left to do but suffer. To succeed on the Coast, you have to endure disaster after disaster and not give an inch. \n\nThe Broken Coast has no room for the weak."
+
+  brk_startup_riches:0 "Prospect of Wealth"
+  brk_startup_riches_desc:0 "Though the land is harsh, the abundance of wealth brought in every day is a great remedy for our problems. Stealing what we need from others means we can focus our efforts on more meaningful goals."
+
+  brk_startup_slaves:0 "Prospect of Slaves"
+  brk_startup_slaves_desc:0 "The Broken Coast can always rely on a steady flow of slaves into our ports. Though many of them have no purpose beyond physical labor, some may find use as fresh bodies for our army. There are no finer soldiers than those who know their place."
+
+  brk_tech_adaptation:0 "Technological Adaptation"
+  brk_tech_adaptation_desc:0 "Adjustments take a lot of effort, but if we manage, we will be much better off for it."
+
+  brk_tech_adaptation_rewards:0 "Technological Adaptation Complete"
+  brk_tech_adaptation_rewards_desc:0 "Our efforts paid off, now we can raid with brain and brawn."
+
+  brk_ruler:0 "Graven the Cruel"
+  brk_ruler_desc:0 "The masked warlord has retained his role as leader of the Broken Coast. He has always ruled with iron fist and heavy axe. Soon its metal will taste the sweet blood of those that dared defy him."
+
+  brk_ruler_1:0 "Undisputed Authority"
+  brk_ruler_1_desc:0 "It was a bloody and barbaric affair, but Graven had made his message clear, written in the bodies of his foes: \n\n"I alone lead the Coasts. See what happens to those that challenge me.""
+
+  brk_ruler_2:0 "Enslaved Opposition"
+  brk_ruler_2_desc:0 "After Graven returned, Ragnar became nothing more than a ghost of a man. His spirit and hopes had been ground into the cold lifeless soil.\n\nYet, Graven still has use for the commander. He would not be so kind as to grant the traitor his death."
+
+  brk_ruler_3_conquest:0 "Trophy Wife"
+  brk_ruler_3_conquest_desc:0 "In run-down apartments above Victoria Harbour, folks whisper of the horror of the Coast: \n"He took our fair Queen across the waters and... did terrible things." \n\nGraven has conquered not only the lands of Victoria, but the spirit of her people too."
+
+  brk_ruler_3_strength:0 "Martial Wife"
+  brk_ruler_3_strength_desc:0 "A wild and brutal bride suits the lord of the Coasts well. Now with a queen at his side, Ragnar at his feet, and all the north before him, Graven shall conquer and pillage like none before."
+
+  brk_elites:0 "Ragnar"
+  brk_elites_desc:0 "A true mountain of a man in both stature and presence. Though once the loyal hound of Graven, Ragnar now stands as the greatest opposition the cruel warlord has yet faced."
+
+  brk_elites_1:0 "The Duel"
+  brk_elites_1_desc:0 "The people of the Coasts had already found in Ragnar a strong leader deserving of their respect. The brief yet brutal fight served as a deadly reminder to Graven's supporters of why he was named "the Mighty.""
+
+  brk_elites_2:0 "Warrior Council"
+  brk_elites_2_desc:0 "Ragnar would not sink into the muck of tyranny as Graven so often did. The Warrior Council now leads the Broken Coasts to glory. Ragnar fills it with the wisdom found only in the hearts of great warriors; warriors that the people of the Coast are glad to be fighting for."
+
+  brk_elites_2_offense:0 "Offence Council"
+  brk_elites_2_offense_desc:0 "Under the seasoned leadership of the Warrior Council, the raiders learn quickly what it takes to fight well. They are taught how to hit hard and how to hit fast. In short time, all of the Broken Coast's neighbors will learn just how fierce they have become."
+
+  brk_elites_2_defense:0 "Defence Council"
+  brk_elites_2_defense_desc:0 "Patience and preparation are foreign concepts for many of the Coast's raiders who favor unchecked fury in the heat of battle. With the guidance of the Warrior Council, however, they learn both how and when to strike, ensuring victory for the Coast."
+
+  brk_salvage_parties:0 "Salvage Parties"
+  brk_salvage_parties_desc:0 "Sending salvage parties into the old world ruins is highly rewarding. Slaves are sent into the most dangerous parts and aren't allowed back until they find something good."
+
+  brk_slave:0 "Slaves"
+  brk_slave_desc:0 "Slaves have always played an essential part in the Broken Coast's warrior society. The more slaves we have, the less time our warriors have to stay at home doing menial work. The more time the warriors have to raid, the more slaves we get. \n\nIt's a beautiful cycle."
+
+  brk_slave_1:0 "Working Slaves"
+  brk_slave_1_desc:0 "Putting effort into organizing our slaves has really payed off. With the extra labor we can easily stay on top of repairing and maintaining our equipment."
+
+  brk_slave_2:0 "Slave Selection"
+  brk_slave_2_desc:0 "Not all men are created equal. Some are much better at carrying heavy loads while others were born to work on factory floors. Dividng our slaves and picking the right ones for the job will increase our production greatly."
+
+  brk_slave_3:0 "Slave Rights"
+  brk_slave_3_desc:0 "While it's upsetting to say the least, creating rules and restrictions in how our warriors can treat the slaves will be a benefit in the long run. A broken slave is a worthless slave and we need all the labor we can get."
+
+  brk_spikes:0 "Spikes"
+  brk_spikes_desc:0 "Spikes. A simple and timeless classic, sure to drive fear into the hearts of our enemies."
+
+  brk_spikes_1:0 "Additional spikes"
+  brk_spikes_1_desc:0 "What's better than some spikes? \n\nMore spikes of course."
+
+  brk_plates:0 "Plating"
+  brk_plates_desc:0 "Plate metal armour is miles better than simple clothing at protecting our soldiers."
+
+  brk_plates_1:0 "Even more Plating"
+  brk_plates_1_desc:0 "Would you believe it? Adding more metal makes our soldiers even harder to take down. \n\nWonderful."
+
+  brk_manu_drive:0 "Slave Industry"
+  brk_manu_drive_desc:0 "Our factories are dense with smog from the forging of our weapons and armour. Fortunately we have a large stockpile of slaves ready to work, ready to produce the terrible tools for our raiders to use."
+
+  brk_manu_drive_1:0 "Slave Industry"
+  brk_manu_drive_1_desc:0 "We already make countless weapons, armours, ships, and vehicles. But it is not enough, we must build more factories for even more weapons of war."
+
+  brk_manu_drive_2:0 "Slave Industry"
+  brk_manu_drive_2_desc:0 "A dark smoke descends from the North. The mighty forges of North Koover never rest, always churning out more weapons for the coming wars. Our industrial strength will be unparalleled, none will compare to the factories of the Coast!"
+
+  brk_naval_range:0 "Masters of the Waves"
+  brk_naval_range_desc:0 "With our ports expanded and our navy itching for new seas to tame, we look beyond the waves of the Broken Coast for new raiding waters. Our sails will be feared all along the coast, from Koover to Dayglow!"
+
+  brk_terrorized:0 "Raider Terror"
+  brk_terrorized_desc:0 ""
+
+  brk_coastal_terror:0 "Coastal Terror"
+  brk_coastal_terror_desc:0 "Our ships can reach anywhere! Experienced sailors are common in the coast, which comes in handy when a lot of loot is waiting to be taken from distant lands, or ships carrying goods need to be pursued and plundered."
+
+  brk_raider_society:0 "Society of Raiders"
+  brk_raider_society_desc:0 "Loot is a strong drive for the inhabitants of the Broken Coast, many of the hardened raiders from all over come together to seek their fortunes in combat. These raiders are born and raised in the frigid mountains, and bathed in the icy wind of the sea making them extremely resistant to the cold. That being said, all that time spent focused on raiding makes innovation... a bit of a lower priority."
+
+  brk_vic_patriotic_defence:0 "Patriotic Defence"
+  brk_vic_patriotic_defence_desc:0 "Raiders threaten our country. The situation has escalated past coastal raids and past port raids. The raiders now occupy parts of our island with the sole purpose of making us their slaves. We can't allow this to happen - we must fight back."

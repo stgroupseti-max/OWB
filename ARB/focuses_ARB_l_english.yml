@@ -1,0 +1,303 @@
+﻿l_english:
+  arb_lucky_break:0 "§GLucky Break§!"
+  arb_lucky_break_desc:0 "O'Brien was no ordinary mercenary. After all, how many mercenaries get this kind of opportunity?"
+
+  arb_dream_of_royalty:0 "§CDream of Royalty§!"
+  arb_dream_of_royalty_desc:0 "As the dominoes began to fall in Manitoba, some saw not collapse, but opportunity."
+
+  arb_harsh_reality:0 "§RHarsh Reality§!"
+  arb_harsh_reality_desc:0 "§OLuck can't last forever.§!"
+
+  arb_supply_problems_focus:0 "§OSupply Problems§!"
+  arb_supply_problems_focus_desc:0 "Cut off from their benefactors, with hostile forces clamouring for their destruction, it's no wonder that Arborg feels the squeeze."
+
+  arb_what_industry:0 "Industry? What Industry?"
+  arb_what_industry_desc:0 "Soldiers in Arborg have a saying: You're better off relying on enemy weapon shipments than our own."
+
+  arb_begin_weapons_development:0 "Begin weapons development"
+  arb_begin_weapons_development_desc:0 "It's crucial to have a reliable supply of weapons in the Wasteland, and that's something that we simply don't have."
+  
+  arb_reverse_engineer_weapons:0 "Reverse-engineer Weapons"
+  arb_reverse_engineer_weapons_desc:0 "By pulling apart weapons that Manitoba has given us, we can learn how they work and get better at developing our own weapons."
+
+  arb_early_prototypes:0 "Early Prototypes"
+  arb_early_prototypes_desc:0 "While we've begun experimenting with our own weapons, the best way to test them is through field testing."
+
+  arb_new_experts:0 "New Experts"
+  arb_new_experts_desc:0 "Developing an arms industry isn't simply a matter of setting up the facilities to build weapons, it's training the artisans and engineers on how to create them."
+
+  arb_catching_up:0 "Catching Up"
+  arb_catching_up_desc:0 "Arborg's arms industry is not only small but it also lags behind that of other countries. We need to do the best we can to catch up."
+
+  arb_rapid_production:0 "Rapid Production"
+  arb_rapid_production_desc:0 "Only by rapidly pushing out whatever we can will we ever be able to catch up to our peers. Fortunately, our efforts have brought enthusiasm to our workers. For the moment, at least."
+
+  arb_build_on_developments:0 "Build on Existing Developments"
+  arb_build_on_developments_desc:0 "While we need to build up a new industry entirely, it'll be easiest if we start by improving what we've already got rather than building entirely new workshops."
+
+  arb_scavenging_teams:0 "Scavenging Teams"
+  arb_scavenging_teams_desc:0 "By training teams to pick through what ruins exist up here, we can maximise the resources that we can gain from them."
+
+  arb_industrial_experimentation:0 "Industrial Experimentation"
+  arb_industrial_experimentation_desc:0 "To build a truly powerful industry, a country can't simply copy what works for other countries. A country must experiment and develop a truly innovative local industry. By doing that, we will ensure our prosperity."
+
+  arb_unempathetic_design:0 "Unempathetic Design"
+  arb_unempathetic_design_desc:0 "Due to circumstance, we have had to develop an industry more fast-paced and rapid in expansion than many others. Our buildings and factories are not designed to be lived in, so why make them friendly?"
+
+  arb_expand_weapons_production:0 "Expand Weapons Production"
+  arb_expand_weapons_production_desc:0 "While we need to develop more effective and better weapons production and development techniques, that won't help much if we don't have the facilities to implement these new techniques."
+
+  arb_weapons_confiscations:0 "Weapon Confiscations"
+  arb_weapons_confiscations_desc:0 "Despite a bit of... requisitioning from the locals, many still have weapons. Weapons that they surely don't need, if they trust us to protect them. After all, if we've got guns, why do they need them?"
+
+  arb_supervised_production:0 "Supervised Production"
+  arb_supervised_production_desc:0 "By watching over our facilities and supervising the construction of new facilities, we'll be able to ensure our workers are doing whatever they can to do their best."
+
+  arb_look_to_the_sky:0 "Land, Sea, Sky"
+  arb_look_to_the_sky_desc:0 "Some would scoff at our ambitions of building an air force or a navy in our frozen little country. But we'll be the ones that are laughing when our planes are flying overhead, and boats sailing off their coast!"
+
+  arb_up_to_snuff:0 "Up to Snuff"
+  arb_up_to_snuff_desc:0 "We've finally managed to develop our weapons industry to the point where we're not simply putting guns together with twigs and mud."
+
+  arb_cheap_and_affordable:0 "Cheap and affordable"
+  arb_cheap_and_affordable_desc:0 "Now that we're able to actually maintain a competitive weapons industry, we need to make sure that we can produce as many weapons as we need. We've got some ideas on how to keep our weapons nice and affordable."
+
+  arb_works_of_art:0 "Works of Art"
+  arb_works_of_art_desc:0 "We've discovered that a few of our workers have actually begun improving our weapons and making suggestions for how we can make better weapons."
+
+  arb_ensure_production_output:0 "Ensure Production Output"
+  arb_ensure_production_output_desc:0 "To make sure we can continue producing the quantity of weapons that we need, an expansion of our arms industry is required."
+
+  arb_more_than_guns:0 "More than Guns"
+  arb_more_than_guns_desc:0 "Guns and swords aren't good enough - after all, the most powerful armies of the prewar world built mighty tanks and battleships as well. While tanks and battleships may be a bit unachievable, fast vehicle units would certainly be helpful and you can never go wrong with a good boat."
+
+  arb_constructive_criticisms:0 "Constructive Criticisms"
+  arb_constructive_criticisms_desc:0 "Some of our buildings are a bit... unsafe. By training some people to inspect these buildings and note problems that can be fixed, we might not have to deal with a factory collapsing every week."
+
+  arb_manitoba_delegation:0 "Delegation to Manitoba"
+  arb_manitoba_delegation_desc:0 "Our status as a subject of Manitoba is uncertain and shaky, and we have no idea how we stand with them. By sending a delegation to Manitoba, we can begin to negotiate for better equipment and discuss the future of our two nations."
+
+  arb_enshrine_new_nobility:0 "Enshrine the New Nobility"
+  arb_enshrine_new_nobility_desc:0 "Manitoba is unlike many other countries in the wasteland - they have a nobility. By establishing our own nobility we can prove ourselves to the ideals of Manitoba, and reward our loyal soldiers. There are no downsides to a nobility, right?"
+
+  arb_cover_up_treatment:0 "Cover Up Poor Treatment"
+  arb_cover_up_treatment_desc:0 "Some of our citizens have received... subpar treatment. While a large portion of our populace are insurgents, many are just people who were living in the area and feel no special attachment to the monarchy. Some of the monarchists don't like that. We need to hide the truth about this from Manitoba, and project the image of a peaceful realm."
+
+  arb_our_place_in_their_world:0 "Our Place in Their World"
+  arb_our_place_in_their_world_desc:0 "A band of mercenaries and insurgents are not exactly the typical building blocks of a successful kingdom. One must wonder: what is our place in the Kingdom of Manitoba? What is it that we can do to prove our worth to them?"
+
+  arb_manitoban_soldiers:0 "Manitoban Soldiers"
+  arb_manitoban_soldiers_desc:0 "In recognition of our efforts so far, Manitoba has seen fit to send us a detachment of soldiers, led by a capable general who is trained to deal with logistical problems and ready to help us."
+
+  arb_keep_the_war_going:0 "The War Never Ended"
+  arb_keep_the_war_going_desc:0 "Our war with Three Rivers never ended. Sure, we may not be actively fighting anymore, and the Kingdom of Manitoba may have signed some peace treaty, but our borders are frequently filled with the sounds of gunshots and soldiers dying. The war has never stopped, and we can't either."
+
+  arb_border_terror:0 "Terror on the Border"
+  arb_border_terror_desc:0 "§RThe soldiers of Three Rivers will learn to fear bumps in the night.§!"
+
+  arb_weapons_raids:0 "Weapons Raids"
+  arb_weapons_raids_desc:0 "Weapons are in short supply here, but Three Rivers has plenty of garrisons nearby that we can raid. If we attack with surprise and surround an encampment, we can minimise our casualties while maximising our loot."
+
+  arb_forgehold_blues:0 "Forgehold Blues"
+  arb_forgehold_blues_desc:0 "The Forgehold of Gimli exists on our Southern border alongside Three Rivers, and our spies have reported that the two nations are on friendly terms. If we demand weapons from Gimli, we will not only help ourselves, but potentially weaken our enemies."
+
+  arb_monarchists_rise_up:0 "Monarchists Rise Up!"
+  arb_monarchists_rise_up_desc:0 "The lands of Three Rivers are still filled with discontentment and minor insurgencies. By making it clear we will shelter these rebels and allow them to continue fighting Three Rivers, we're sure to gain soldiers loyal to our cause."
+
+  arb_damn_the_dammed:0 "Damn the Damned"
+  arb_damn_the_dammed_desc:0 "The Dammed sit in the North, occupying some of the most impressive prewar structures the area has to offer; structures that once belonged to the Kingdom of Manitoba. If we reclaim them, Manitoba will surely look favourably on us."
+
+  arb_best_foot_forward:0 "Putting our Best Foot Forward"
+  arb_best_foot_forward_desc:0 "Now that we control the land formerly belonging to the Dammed, we should invite representatives to Manitoba to prove just how effective we are at governing the new territories. By making sure they see the best Arborg has to offer, we're sure to increase our position in the eyes of the Kingdom."
+
+  arb_gather_monarchist_allies:0 "The Land Bleeds Manitoba"
+  arb_gather_monarchist_allies_desc:0 "Monarchism never really left the former Duchy of Angers. Even among the lands of the Dammed, there are plenty of monarchists who were waiting for their chance to reappear and claim their former Duchy. This has made integrating our new lands into our domain surprisingly easy!"
+
+  arb_time_to_celebrate:0 "§CSomething to Celebrate§!"
+  arb_time_to_celebrate_desc:0 "Now that we've unified the former Duchy of Angers, now seems like the perfect time to celebrate! And what better way to celebrate than to kill the last of these damned Dammed?"
+
+  arb_not_just_mercenaries:0 "Not Just Mercenaries Anymore"
+  arb_not_just_mercenaries_desc:0 "Now that we're a country, we're going to have to adapt our mercenary ways. No longer can we simply fight as we have always fought, and the insurgents will have to pick up some slack as well. Significant reforms are necessary if we are to be fighting fit."
+
+  arb_organise_insurgents:0 "Organise the Insurgents"
+  arb_organise_insurgents_desc:0 "While the mercenaries may make up the shock core of our army, what use is that if the insurgents are incapable of even holding the line? To maximise the usefulness of our army, we'll need to teach these insurgents which end of the stick is pointy."
+
+  arb_training_rosters:0 "Release Training Rosters"
+  arb_training_rosters_desc:0 "By establishing a proper training regime, we'll be able to make sure that as many recruits as possible are able to fight effectively. Even if the mercenaries grumble about teaching them."
+
+  arb_reinforce_nobility:0 "Reinforce the Nobility"
+  arb_reinforce_nobility_desc:0 "By promising battlefield promotions to the nobility, we can make sure the most promising soldiers become mercenaries. This'll not only keep the core of our army highly skilled, but also encourage soldiers to achieve to the best of their ability."
+
+  arb_appoint_knight_captains:0 "Appoint Knight-Captains"
+  arb_appoint_knight_captains_desc:0 "By appointing Knight-Captains among the soldiery, not only is Manitoba likely to approve but we'll gain more nobles who have something to owe us for."
+
+  arb_army_that_rules:0 "The Army That Rules..."
+  arb_army_that_rules_desc:0 "It is no question that the army rules the state of the Arborg Junta, but now we have made sure that the army is the best it can possibly be. Our reforms have ensured that our army will remain competent and effective."
+
+  arb_ducal_reforms:0 "Ducal Reforms"
+  arb_ducal_reforms_desc:0 "To become a proper army that makes the Kingdom proud, we need to do more than simply determine whether we go with an insurgent or mercenary army. We need to begin to innovate."
+
+  arb_aid_from_the_kingdom:0 "Aid From the Kingdom"
+  arb_aid_from_the_kingdom_desc:0 "In recognition of our efforts, the Kingdom of Manitoba has despatched several advisors to our kingdom to aid us in our more pressing concerns."
+
+  arb_anti_robot_techniques:0 "Turning Robots Into Slag"
+  arb_anti_robot_techniques_desc:0 "As well as more fleshy targets, there are plenty of robots in the violent Canadian wasteland. We need to be ready to handle whatever we come across."
+
+  arb_merc_reinforcements:0 "Mercenary Reinforcements"
+  arb_merc_reinforcements_desc:0 "We simply need more men. In our current state it's unlikely that we'll be able to hold off Three Rivers, even with the assistance of Manitoba. We need to hire some mercenaries to expand our army and prepare."
+
+  arb_reform_unit_doctrine:0 "Reform Unit Doctrine"
+  arb_reform_unit_doctrine_desc:0 "A proper, well functioning army is not simply a bunch of guys with weapons. The best armies integrate logistical companies, field hospitals, demolitions teams and more. We should look into integrating support companies and reforming our doctrine."
+
+  arb_new_weaponry_experiments:0 "New Weaponry Experiments"
+  arb_new_weaponry_experiments_desc:0 "As well as support equipment, new and specialised weapons can help our soldiers immensely. We should begin experimenting with these sorts of weapons immediately."
+
+  arb_declare_duchy_restored:0 "Declare the Duchy Restored!"
+  arb_declare_duchy_restored_desc:0 "With the land of the Dammed now under our control, we have the full territory of the former Duchy of Angers. By forming ourselves into the Eastern Marches we will prove to Manitoba and the world that Angers is back."
+
+  arb_manitoban_business:0 "Business From the Kingdom"
+  arb_manitoban_business_desc:0 "By attracting businesses from Manitoba, we can strengthen our admittedly weak local economy. This may have the consequence of making us more dependant on Manitoba, but surely that won't be any problem."
+
+  arb_loyal_servants_of_the_crown:0 "Loyal Servants of the Crown"
+  arb_loyal_servants_of_the_crown_desc:0 "It is time to bend the knee to Manitoba and recognise them as our overlords, thus integrating ourselves fully into the Kingdom."
+
+  arb_a_peaceful_retirement:0 "A... §OPeaceful§! Retirement"
+  arb_a_peaceful_retirement_desc:0 "O'Brien has done his part now, and the new Duke is coming in. He will be gifted a parcel of land and a place in the aristocracy of the Kingdom. But O'Brien is a restless man, who knows what he'll choose to do?"
+
+  arb_rangers_of_the_crown:0 "Rangers of the Crown"
+  arb_rangers_of_the_crown_desc:0 "With our integration into the Kingdom of Manitoba and a proper formalisation of our status, we can begin reforming our noble soldiers into a ranger group, as in other parts of the Kingdom. This integration will better allow us to utilise the lessons learned in the rest of the Kingdom."
+
+  arb_extension_of_the_kings_will:0 "An Extension of the King's Will"
+  arb_extension_of_the_kings_will_desc:0 "No longer are we simply a junta in the North, we are a true part of the Kingdom. Our armies are simply an extension of the king's will."
+
+  arb_thriving_duchy:0 "A Thriving Duchy"
+  arb_thriving_duchy_desc:0 "While we may have survived as the Junta, we never truly thrived. Now, with Manitoba's help, we will become a beacon of prosperity."
+
+  arb_prove_ourselves_to_manitoba:0 "Proving Ourselves"
+  arb_prove_ourselves_to_manitoba_desc:0 "With our victory over Three Rivers and formal entry into the Kingdom, we have truly proven ourselves. There is now no question about whether our regime is legitimate."
+
+  arb_crown_loyalists:0 "Crown Loyalists"
+  arb_crown_loyalists_desc:0 "§GThree cheers for Manitoba! Three cheers for Angers!§!"
+
+  arb_cruelty_to_others:0 "§RCruelty§! to Others..."
+  arb_cruelty_to_others_desc:0 "Unfortunately, not everyone likes or accepts our presence when we swoop in to save them. Cruel punishments will be necessary to teach them to keep their heads bowed."
+
+  arb_kindness_to_our_own:0 "And §GKindness§! to Our Own"
+  arb_kindness_to_our_own_desc:0 "By generously rewarding those who serve us well, we can ensure that the state functions effectively. Some may call this corruption, we call it greasing the wheels of effective governance."
+
+  arb_obriens_greatest_failure:0 "O'Brien's Greatest Failure"
+  arb_obriens_greatest_failure_desc:0 "It is time to return to Three Rivers. O'Brien and the rest of our army were humiliated there, it is time to make things right."
+
+  arb_cruel_war_measures:0 "Cruel War Measures"
+  arb_cruel_war_measures_desc:0 "Three Rivers is a big challenge and a massive nation. Every soldier and gun that we can extract from our country must be extracted, no matter what the human cost is. The ends justify the means, after all."
+
+  arb_incite_monarchist_revolts:0 "Incite a Monarchist Revolution"
+  arb_incite_monarchist_revolts_desc:0 "There are still plenty of monarchists in the land of Three Rivers. Many of them simply want to keep their heads down and live quiet lives, but if we show them there's a chance of victory than many of them will rise up in revolt."
+
+  arb_victory_for_the_junta:0 "§GVictory for the Junta!§!"
+  arb_victory_for_the_junta_desc:0 "We have won! Three Rivers is no more and we have secured our place in the North and the Kingdom. The drinks are on [ARB.GetLeader]!"
+
+  arb_take_down_the_forgehold:0 "Take Down the Forgehold"
+  arb_take_down_the_forgehold_desc:0 "Only one obstacle now stands in the way of our domination over the East: the Forgehold of Gimli. Those forges will soon serve us."
+
+  arb_obrien_rules:0 "O'Brien Rules!"
+  arb_obrien_rules_desc:0 "O'Brien has done it! He has conquered Three Rivers and redeemed himself, in the eyes of himself and his followers. The thoughts and doubts that have nagged at him for years have finally been put to rest, and all is right with the world."
+
+  arb_distance_from_the_monarchy:0 "Distance Ourselves from the Monarchy"
+  arb_distance_from_the_monarchy_desc:0 "The Monarchy in Manitoba has proven itself to be imperfect as a ruler. Surely if they were infallible, we wouldn't have ever been here in the first place? And now that he thinks about it, O'Brien really would like to have his own kingdom..."
+
+  arb_independent_industry:0 "Independent Industry"
+  arb_independent_industry_desc:0 "While great strides have been taken already to makes ourselves independent of Manitoba, we need to make sure that claiming independence will not negatively affect the economy. A healthy economy means a healthy country, after all."
+
+  arb_crush_monarchist_resistance:0 "Crush Monarchist Resistance"
+  arb_crush_monarchist_resistance_desc:0 "For some reason, there are still plenty of insurgents who don't like our "radical" independence movement. They'll have to be dealt with in one way or another."
+
+  arb_incite_revolt:0 "Incite a Revolt"
+  arb_incite_revolt_desc:0 "Now that we're almost ready to claim independence from Manitoba, there is only one issue left to deal with: those who don't like us claiming independence. By purposely inciting a revolt we'll flush these rats out."
+
+  arb_assert_independence:0 "Assert Independence from the Monarchy"
+  arb_assert_independence_desc:0 "It is time. Manitoba no longer has the power or influence to rule, control, and dictate to us from afar. We make our own destiny now."
+
+  arb_prepare_for_royal_intercession:0 "Prepare for Royal Intercession"
+  arb_prepare_for_royal_intercession_desc:0 "It is unlikely Manitoba will allow us to remain independent for long. We need to be prepared for an intervention from the Crown, and that means building bunkers and forts along our borders."
+
+  arb_expand_definition_of_nobility:0 "Expand the Definition of Nobility"
+  arb_expand_definition_of_nobility_desc:0 "Without some stuffy bureaucrats looking over our shoulders, we can begin to achieve what we truly want. And what we want is more elite soldiers, not less. Whose stupid idea was it to restrict who could become a "knight"?"
+
+  arb_solidify_control:0 "Solidify Control"
+  arb_solidify_control_desc:0 "We need to establish ourselves in the territory we control if we are to have any chance of beating Manitoba in a war. It is time to ensure that the civilians in our new territories know who is in charge."
+
+  arb_fight_for_our_independence:0 "Fight for our Independence!"
+  arb_fight_for_our_independence_desc:0 "This is it. The fight of our lives, and the future of Manitoba. A difficult fight, but one that needs to be fought."
+
+  arb_new_kingdom_of_angers:0 "§CThe New Kingdom of Angers!§!"
+  arb_new_kingdom_of_angers_desc:0 "With the destruction of the old kingdom, we are now left free to establish our own. The Kingdom of Angers will rule in the north, and none can stand against us!"
+
+  arb_watch_for_yorkton:0 "§OWatch for Yorkton§!"
+  arb_watch_for_yorkton_desc:0 "Tensions in the Kingdom of Manitoba have finally boiled over, and Yorkton has risen in revolt. Fortunately, this is a good opportunity for us to profit."
+
+  arb_aid_to_the_king:0 "Aid the King"
+  arb_aid_to_the_king_desc:0 "The King remains the King, whether or not Yorkton appreciates the fact. We need to remain steadfast in our loyalty to the Crown of Manitoba, and surely they'll win the day."
+
+  arb_constitutional_supremacy:0 "Constitutional Supremacy"
+  arb_constitutional_supremacy_desc:0 "Many of the citizens of our kingdom are happy that we've chosen the side of the King, and while there is chaos over the lake, we are an island of calm in the storm."
+
+  arb_all_the_kings_men:0 "All the King's Men"
+  arb_all_the_kings_men_desc:0 "Before we can commit soldiers to the cause, we can begin by sending advisors and attaches to watch the revolt and give their sincere advice. With our aid, they're sure to win in no time."
+
+  arb_commit_our_forces:0 "Commit to the Fight!"
+  arb_commit_our_forces_desc:0 "One cannot remain on the sidelines of such a conflict forever. Sending our soldiers to fight for Manitoba will reaffirm our commitment to the Kingdom and is sure to bring a swift end to this unseemly revolt."
+
+  arb_something_in_exchange:0 "The King's Generosity"
+  arb_something_in_exchange_desc:0 "While beating those villainous traitors is its own reward, you can never have too many rewards."
+
+  arb_watch_and_wait:0 "Watch and Wait"
+  arb_watch_and_wait_desc:0 "We gain nothing by committing to one side in this revolt too eagerly, by watching both sides we can sell equipment and manpower to each and turn a tidy profit. Then, when the timing is right, we swoop in with minimal risk and help the winner."
+
+  arb_play_them_off:0 "Play Them Against Each Other"
+  arb_play_them_off_desc:0 "We should begin to expand our shipments to each of the factions in this revolt. The more aid we give them, the longer the war takes, and the more money we can rake in. It's a win-win situation!"
+
+  arb_embrace_mercenary_roots:0 "Mercenaries Again"
+  arb_embrace_mercenary_roots_desc:0 "They say a man cannot change. That's a load of nonsense, of course, but a bag of caps is still an appealing offer."
+
+  arb_final_moment_opportunism:0 "Seize the Window of Opportunity"
+  arb_final_moment_opportunism_desc:0 "The Revolt is drawing to a close, and it's time for us to pick the winning side."
+
+  arb_reach_out_to_yorkton:0 "Reach out to Yorkton"
+  arb_reach_out_to_yorkton_desc:0 "Yorkton may be the revolter in this situation, but he is also a cunning military mind. If we join his side, he may be able to aid our military efforts in future, more than the king and his weak nobles in Brandon."
+
+  arb_celebrate_the_war_hero:0 "Celebrate the War Hero"
+  arb_celebrate_the_war_hero_desc:0 "Yorkton is a war hero and a true fighter and leader in Manitoba. By celebrating his achievements, we're sure to win over some of the more recalcitrant minds in our territory, and remind everyone what he has done for us."
+
+  arb_training_to_the_marshall:0 "Offer Training to the Marshall"
+  arb_training_to_the_marshall_desc:0 "While the Marshall is a clever man and cunning military mind, he can always use more experience and help. And our mercenaries have got experience in bucketloads."
+
+  arb_throw_hat_in:0 "Throw Our Hat in the Ring"
+  arb_throw_hat_in_desc:0 "It's time to send forces to help Yorkton win his revolt. Brandon is only a few days away, if you are determined enough."
+
+  arb_compensation:0 "Compensation for our Efforts"
+  arb_compensation_desc:0 "Yorkton has graciously offered to assist us in some way. While we were of course fighting for him out of the goodness of our hearts, compensation is certainly nice."
+
+  arb_outcome_was_inevitable:0 "§GThe Game was Rigged from the Start§!"
+  arb_outcome_was_inevitable_desc:0 "We backed the winning horse, to no one's surprise. Of course, it's obvious that whoever received our backing would win, it's just nice to know that it's paid off, and now the Kingdom loves us."
+
+  arb_nothing_ventured:0 "§ONothing Ventured...§!"
+  arb_nothing_ventured_desc:0 "Not backing anyone in the revolt was certainly the safer bet, but the winners are now a bit more suspicious that we didn't immediately rush to their aid."
+
+  arb_thats_embarrassing:0 "§RThat's Embarrassing...§!"
+  arb_thats_embarrassing_desc:0 "O'Brien probably just said the wrong thing to his generals. Probably."
+
+  arb_war_has_come:0 "War Has Come"
+  arb_war_has_come_desc:0 "Manitoba and Three Rivers are now at war... far sooner than we expected. We need to quickly get ourselves sorted out and join this war, lest Manitoba wins without us (and refuses to pay us)!"
+
+  arb_obriens_redemption:0 "O'Brien's Redemption"
+  arb_obriens_redemption_desc:0 "It's time for O'Brien and the rest of our little gang to redeem ourselves. We lost a war with Three Rivers before, but this time it won't happen again."
+
+  arb_bulk_weapon_buyouts:0 "Bulk Weapon Buyouts"
+  arb_bulk_weapon_buyouts_desc:0 "Things still aren't perfect for us on the supply front. We could certainly use whatever weapons we can get, by just throwing money around I'm sure weapons will appear."
+
+  arb_finish_the_republic:0 "Finish the Republic"
+  arb_finish_the_republic_desc:0 "The Republic is holding on still, but their time is still coming. We should prepare for a great push, to finally rid the world of the cancer that is Three Rivers. We and the Kingdom will soon prevail."
+
+  arb_resettle_loyalists:0 "Resettle Loyalists"
+  arb_resettle_loyalists_desc:0 "Most of the insurgents that joined our ranks are, in fact, from the lands that Three Rivers once controlled. Not only will resettling them where they used to live make them happier, it will also improve our hold over the territory. A win-win!"

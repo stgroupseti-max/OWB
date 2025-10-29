@@ -1,0 +1,73 @@
+﻿l_english:
+
+ BAM_captains_isolation:0 "The Captain's Isolation"
+ BAM_captains_isolation_desc:0 "The man known as Ship-Breaker has flown his colors under many names throughout his life, but Ship-Breaker is the name he was using when his troubles finally ended, so that's the lucky one he's stuck with. But before that, he was the lonely inheritor of ship too large for any one man to operate. And yet he never took on a permanent crew. So how'd he operate it? How do you think he earned the name "Ship-Breaker?""
+ 
+ BAM_rears_its_head:0 "The Captain's Isolation"
+ BAM_rears_its_head_desc:0 "When Ship-Breaker was a much, much younger man, he didn't have many prospects. Sure, he had a large ship, but when he got that ship he didn't get its former crew, and salacious rumors crossed the gulf faster than he could outrun them. But in his isolation, he just so happened to be exactly the right man in the right place and at the right time to do something wonderful. He helped birth a city."
+ 
+ BAM_cannery_captain:0 "The Captain of the Cannery"
+ BAM_cannery_captain_desc:0 "While there are times Ship-Breaker misses his past life on the open waves, the majority of that past life was spent alone, and he certainly doesn't miss that part. It took his a long time to get used to the idea of settling down and bearing responsibility for a people that looked to him for leadership, but he's an old man now, and given all the other ways his life could've gone, he's rather happy with what currently is."
+ 
+ BAM_bayou_life:0 "Life on the Blue Bayou"
+ BAM_bayou_life_desc:0 "It's been a while since the last time we expanded The Cannery's operations, so let's do that. Given the fact that The Cannery is built on an island in a swamp, none of the ground is ever quite stable, but there's enough scrap metal lying around that sticking pillars into the wet dirt tends to have mostly stable results."
+ 
+ BAM_trade_orleans:0 "Trade with Orleans"
+ BAM_trade_orleans_desc:0 "Orleans has offered to ship us another load of guns. It's a steep price we'd be paying, of course, but their guns are top-notch and there's none of the excessive favor-trading we'd have to do to get in good with the Gun Runners first. Might as well take them up on the offer, given how bleak our current armories are looking. Never know when pirates'll be back, after all."
+ 
+ BAM_trade_houston:0 "Trade with Houston"
+ BAM_trade_houston_desc:0 "One of the good things about the hands-off approach the Rockets have taken with their governance in Houston is that average folks end up working the land and providing for themselves without much upwards intervention. Some local farmers and scavengers sent us an offer a while back to hand over some resources they've found for a bit of cash; let's take them up on that."
+ 
+ BAM_gumbo:0 "Cajun Life"
+ BAM_gumbo_desc:0 "While the pioneers who settled on Marsh Island were mostly from out of town, the folks over at Port Cypermort have lived here for a very, very long time. After the bombs fell, many of the Cajun peoples of southern Louisiana moved as close to the coast as they could get to take advantage of the reeling shipping and recovering fishing industries. Getting some of these folks to help us with intelligence gathering would certainly give us a handy edge over folks who don't speak their unique dialect of old French."
+ 
+ BAM_language:0 "Dead Languages Reborn"
+ BAM_language_desc:0 "While we initially figured having another language floating around would just be handy for sending secret messages and stuff, some of our folks have taken a genuine interest in learning it. Most of the people living on Marsh Island aren't Cajuns—heck, most of 'em aren't even from the old state of Louisiana—but they're all for settling down and laying roots in their new homes. Let's encourage what's turning out to be a neat cultural revival."
+ 
+ BAM_packed1:0 "Gettin' Packed Over There"
+ BAM_packed1_desc:0 "Texas has been stirring up like a hornet's nest over the last few years with a growing trend of Texan nationalism. It's an absolutely weird idea, and not everyone on the coast is interested in signing on. A handful of folks from out by Houston have decided that they'd prefer a pioneer's life on the open waves to citizenship in an organized state, and what better place to head on over to than The Cannery?"
+ 
+ BAM_packed2:0 "Gettin' Packed Over Here"
+ BAM_packed2_desc:0 "Ok, so maybe it wasn't quite the brightest idea we've ever had to just welcome thousands of new citizens onto an already-packed island. We're gonna need to shuffle some folks around a bit between here and Cypermort. Maybe we can convince some of them to join the militia and help us protect ourselves against pirates?"
+ 
+ BAM_shrimpy:0 "Just Another Shrimpment"
+ BAM_shrimpy_desc:0 "Man, those pirates really did think they could just yoink an entire shipment of fresh gulf shrimp right out from under our noses. And much as Ship-Breaker's hesitant to admit it, they darn near got away with it. Still, with a new story to its name and a full cargo bay, the BMV Larry's Tomato is ready to set sail for the Cuban markets. Another satisfied customer!"
+ 
+ BAM_festung:0 "Ours to Defend"
+ BAM_festung_desc:0 "Now that the gulf's varied pirate groups know we're just competent enough to guard our own docks, maybe they'll pick on us just a little bit less. Let's take the brief respite to look landward and figure out what's goin' on around us. ...sorry, how many people think this Bayou is for some reason their clay by right?"
+ 
+ BAM_patrol1:0 "First of the Patrol"
+ BAM_patrol1_desc:0 "Those bastards up in Lafayette have attacked us! What did we ever do to them? They're one of our closest markets! Anywho, we've already captured a few of their folks and asked them why they're fightin' us, and they all gave us the same crap about they saw us with slaves. HA! We're a free merchant port known for fighting pirates and slavers alike; as if we'd willingly pay to have more people stuffed onto our cramped island!"
+ 
+ BAM_patrol2:0 "The Lawman's Folly"
+ BAM_patrol2_desc:0 "Huh. So it turns out this Patrol Chief Callahan guy actually did believe we had slaves and that they were some of the folks under his protection. The way he figured this out? One patrolman's reports. Serves him right for placing his full trust in a single boy barely out of his childhood, but man. That was a dumb war to have."
+ 
+ BAM_maw1:0 "Gators in the Swamp"
+ BAM_maw1_desc:0 "That "Sobek the Powerful" chick from up in Alexandria's finally gone and decided to ruin everything good about our little slice of coast by attacking us directly. It's really a shame; Alexandria could've been such good customers if they hadn't... y'know... been slave-hunting cannibal-sympathizing raiders."
+ 
+ BAM_maw2:0 "Sobek's Fall"
+ BAM_maw2_desc:0 "Well, we've gone and put the Gator Gang of Alexandria in an early grave. Well, not exactly early; the bastards did stick it out for at least half a century before we even got here, best as we can tell. Still, now that they're gone, maybe Alexandria can be a more respectable customer going forward."
+ 
+ BAM_texas1:0 "The Big Texan Plan"
+ BAM_texas1_desc:0 "Well, we knew we'd end up having some big problem eventually, but not many of us really thought it would get this bad. This one's the big'un; the Provisional Republic of Texas has decided that our humble bayou is now their top priority target for annexation. Supposedly they just want to make our lands into part of a loyal client state, but come on, we're supposed to trust an imperial alliance of mutants and brotherhood knights? As if. Let's do this."
+ 
+ BAM_texas2:0 "The Lone Star Pacified"
+ BAM_texas2_desc:0 "Well, one way or another, Texas is no longer a threat. The great ambitions of a youthful Republic have been squashed, and the Texan flag is probably going to remain out of use for just a little bit longer in our corner of the wastes. That was definitely a close one."
+ 
+ BAM_indians1:0 "River Indians"
+ BAM_indians1_desc:0 "The vault-dwelling, casino-running, horse-riding Indians up in the Choctaw have decided that they're gonna head south and make a play for dominance over the mouth of the Mississippi. Obviously, we're not going to let them do that. Come on, we've got our own cultural minority group to look after; keep to your plains!"
+ 
+ BAM_indians2:0 "Ain't Gonna Be a Problem"
+ BAM_indians2_desc:0 "Well, the storytellers up in the Plains Federation have made the executive decision to piss off. Maybe they're scared of what we'd do if they made us too mad. Well, that's all the better for us; let's make sure to send a few shipments of fish up their way sometime to get them hooked on gulf shrimp and hope that'll be the end of their southern ambitions."
+ 
+ BAM_CRINKLE_HIIIIIIIII:0 "Crinkle's Revenge"
+ BAM_CRINKLE_HIIIIIIIII_desc:0 "Crinkle, that mutant pirate the Patrolmen helped us fight off back in '63, seems to have decided to make another play for dominance over the mouth of the Mississippi. Rumors claim this time he's got a more strategic goal in mind than merely raiding for loot and he plans to add our Cannery to his growing collection of land, but we're not just gonna lie down and take it. Let him try his worst; we'll be ready."
+ 
+ BAM_mongers2:0 "The Rusty Swordfish Sunk"
+ BAM_mongers2_desc:0 "With Crinkle's second defeat, we're pretty sure he won't be an issue again. There have been rumors that he's been seen on the high seas with a different ship and a new crew, but come on, those are just rumors. We've got the corpse of the Rusty Swordfish to prove it."
+ 
+ BAM_festung_fr_this_time:0 "Worth Defending"
+ BAM_festung_fr_this_time_desc:0 "With every potential threat to the Cannery pacified, Mayor Ship-Breaker has decided to set the gears into motion to start transitioning away from his direct rule. The man's getting old and would like to retire at some point, and the folks running The Cannery are all too happy to make his twighlight years as enjoyable as he wants them to be. For the man who's done so much for us? Anything for the old Captain."
+ 
+ BAM_shrimpment:0 "Yet Another Shrimpment"
+ BAM_shrimpment_desc:0 "With everything sorted out, Ship-Breaker is going on a small vacation. He's said he'll be back in a few days, and he's not retiring just yet, but he wants to get out a bit and see some of the ports he's indirectly helped protect over the years. Can't blame 'em, honestly."

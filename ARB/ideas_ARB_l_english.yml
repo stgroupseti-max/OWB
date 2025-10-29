@@ -1,0 +1,114 @@
+﻿l_english:
+  arb_supply_problems:0 "Supply Problems"
+  arb_supply_problems_desc:0 "Our unprepared and disorganised retreat into the North had many consequences, but the biggest problem is our lack of equipment. We were not equipped to act as an expedition, and few trained artisans and mechanics joined us in the revolt. Due to this, we struggle to maintain adequate supply. However, our soldiers relish getting their hands on any enemy equipment they can."
+
+  arb_supply_problems2:0 "Supply Problems"
+  arb_supply_problems2_desc:0 "Our unprepared and disorganised retreat into the North had many consequences, but the biggest problem is our lack of equipment. We were not equipped to act as an expedition, and few trained artisans and mechanics joined us in the revolt. Due to this, we struggle to maintain adequate supply. However, our soldiers relish getting their hands on any enemy equipment they can.\n\n§YWe've begun taking the first steps towards solving this problem.§!"
+
+  arb_supply_problems3:0 "Supply Problems"
+  arb_supply_problems3_desc:0 "Our unprepared and disorganised retreat into the North had many consequences, but the biggest problem is our lack of equipment. We were not equipped to act as an expedition, and few trained artisans and mechanics joined us in the revolt. Due to this, we struggle to maintain adequate supply. However, our soldiers relish getting their hands on any enemy equipment they can.\n\n§7Our more skilled minds are researching new ways to create and improve weapons, but our troops are losing their enthusiasm for scavenging.§!"
+
+  arb_supply_problems4:0 "Supply Hiccups"
+  arb_supply_problems4_desc:0 "Our unprepared and disorganised retreat into the North had many consequences, but the biggest problem is our lack of equipment. We were not equipped to act as an expedition, and few trained artisans and mechanics joined us in the revolt. Due to this, we have struggled to maintain adequate supply. However, our soldiers relish getting their hands on any enemy equipment they can.\n\n§GWe've made solid progress towards remedying this problem.§!"
+
+  arb_affordable_weapons:0 "Affordable Weapons"
+  arb_affordable_weapons_desc:0 "Now that our industry has finally managed to recover to the point that we're not reliant on imports, we've begun to focus on building equipment that is both cheap and effective."
+
+  arb_artistic_weapons:0 "Artistic Weapons"
+  arb_artistic_weapons_desc:0 "Now that our industry has finally managed to recover to the point that we're not reliant on imports, we've begun making weapons that are true works of art, that anyone will be happy to use."
+
+  arb_lopsided_army:0 "Lopsided Army"
+  arb_lopsided_army_desc:0 "Our army is a hodge-podge mix of highly trained mercenaries and untrained insurgents. While the mercenaries are highly trained and capable, the insurgents are for the most part simply civilians with guns. This has made our army lopsided, with an incompetent army but highly skilled shock troops."
+
+  arb_lopsided_army2:0 "Lopsided Army"
+  arb_lopsided_army2_desc:0 "Our army is a hodge-podge mix of highly trained mercenaries and untrained insurgents. While the mercenaries are highly trained and capable, the insurgents are for the most part simply civilians with guns. This has made our army lopsided, with an incompetent army but highly skilled shock troops. The first steps have been taken towards solving this problem, however."
+
+  arb_recovering_army:0 "Recovering Army"
+  arb_recovering_army_desc:0 "Our army was a hodge-podge mix of highly trained mercenaries and untrained insurgents. However, we've begun taking steps to ensure the average insurgent soldier is far better trained and ready for combat. Things aren't perfect yet though, and there are still large disparities between the groups."
+
+  arb_balanced_army:0 "Balanced Army"
+  arb_balanced_army_desc:0 "Our army is a long way from the original group of insurgents and mercenaries that we had. Our insurgents are now far better trained with integrated mercenary officers, and while the mercenaries remain the superior force there is no significant disparity between the groups."
+
+  arb_specialising_army:0 "Specialising Army"
+  arb_specialising_army_desc:0 "While our insurgent army can catch up towards the mercenary groups somewhat, it's unrealistic to expect parity between the groups. By enforcing the strength of the "nobility" of the mercenaries, we can keep them better trained while giving the lesser soldiers something to aspire to."
+
+  arb_noble_army:0 "Noble Army"
+  arb_noble_army_desc:0 "The army is an extension of our government, and should thus showcase those elements which are most important to the government; the mercenary core that formed our nation. Our military is thus heavily dominated by highly skilled mercenary soldiers, while the regulars dream of becoming like the nobles someday."
+
+  arb_developing_industry:0 "Developing Industry"
+  arb_developing_industry_desc:0 "Arborg is poorly situated and underdeveloped, if we are to survive here long enough to overthrow the Republic we're going to need to build up more of an industry."
+
+  arb_developing_industry2:0 "Developing Industry"
+  arb_developing_industry2_desc:0 "Arborg is poorly situated and underdeveloped, if we are to survive here long enough to overthrow the Republic we're going to need to build up more of an industry."
+
+  arb_developing_industry3:0 "Developing Industry"
+  arb_developing_industry3_desc:0 "Arborg is poorly situated and underdeveloped, if we are to survive here long enough to overthrow the Republic we're going to need to build up more of an industry."
+
+  arb_social_immobility:0 "Social Immobility"
+  arb_social_immobility_desc:0 "Our mercenaries make up the "noble" core of our government and represent the best our society has to offer, we can't let any scruffy wanderer off the street just become a knight or something!"
+
+  arb_covering_up_idea:0 "Cover Up Injustices"
+  arb_covering_up_idea_desc:0 "Our government is... less than kind to some of its citizens. It wouldn't do to let Manitoba know the fate of their loyalists, of course."
+
+  arb_mercenaries_of_the_frozen_north:0 "Mercenaries of the Frozen North"
+  arb_mercenaries_of_the_frozen_north_desc:0 "Members of our military have extensive experience campaigning and expeditioning in the frozen north."
+
+  arb_dream_of_power:0 "Dreams of Power"
+  arb_dream_of_power_desc:0 "For as long as he can remember, O'Brien has wanted the power to shape not just his own life, but the fate of the entire wasteland."
+
+  arb_dream_of_respect:0 "Dreams of Respect"
+  arb_dream_of_respect_desc:0 "Downtrodden and mistrusted his entire life, O'Brien longs to show the Wasteland that he is worthy of respect, even if he has to kill them all to prove it."
+
+  arb_soldiers_of_the_crown:0 "Soldiers of the Crown"
+  arb_soldiers_of_the_crown_desc:0 "As representatives of the Crown of Manitoba, our forces act with the royal authority bestowed upon us."
+
+  arb_open_to_manitoban_markets:0 "Open to Manitoban markets"
+  arb_open_to_manitoban_markets_desc:0 "We've begun opening up our markets to traders and companies from Manitoba, improving our economy but at some cost."
+
+  arb_open_to_manitoban_markets2:0 "Open to Manitoban markets"
+  arb_open_to_manitoban_markets2_desc:0 "We've opened up our markets to traders and companies from Manitoba, improving our economy but at some cost."
+
+  arb_kings_own_rangers:0 "King's Own Rangers"
+  arb_kings_own_rangers_desc:0 "Our forces represent the Crown of Manitoba, and as such our rangers are the best of the best."
+
+  arb_monarchist_revolution:0 "§RMonarchist Revolution!§!"
+  arb_monarchist_revolution_desc:0 "Dissidents and monarchists have begun rising up in revolt across the countryside! While they're no match for our forces, they're a significant drain on the war effort."
+
+  arb_independence_threatened:0 "Independence Threatened!"
+  arb_independence_threatened_desc:0 "Claiming our independence was never going to be easy, §Oespecially in a country where most of the population are here to support the monarchy we are striking out from.§!"
+
+  arb_independence_threatened2:0 "Independence Threatened!"
+  arb_independence_threatened2_desc:0 "Claiming our independence was never going to be easy, §Oespecially in a country where most of the population are here to support the monarchy we are striking out from.§!"
+
+  arb_angers_triumphant:0 "Angers Triumphant!"
+  arb_angers_triumphant_desc:0 "Far from the chaotic band of mercenaries and militia that it once was, Arborg has carved out a country of its own in the form of the Kingdom of Angers. \n\nCanada trembles, and Angers revels."
+
+  ARB_supporting_revolt_idea:0 "Arborg's Support"
+  ARB_supporting_revolt_idea_desc:0 "The unpredictable but undoubtedly talented folks of the Arborg Junta have decided that our cause is the most just. Their mercenary advisors provide experience and training, and their soldiers help bulk out our armies, few in number though they be."
+
+  arb_the_great_push:0 "The Great Push"
+  arb_the_great_push_desc:0 "It is time. Three Rivers must perish."
+
+  arb_large_nobility:0 "Large Nobility"
+  arb_large_nobility_desc:0 "In order to ensure that we can field plenty of soldiers, we've been steadily expanding the size of our nobility. It's not like those pricks in Manitoba can compain."
+
+  arb_obrien_redeems_his_failures:0 "Redeeming our Failures"
+  arb_obrien_redeems_his_failures_desc:0 "For too long we have had to live with the fact that we failed when Manitoba needed us. This time it'll be different."
+
+  arb_nunavut_successes:0 "Nunavut Diplomatic Coup"
+  arb_nunavut_successes_desc:0 "Under the supervision of our superiors in Manitoba, we've managed to send an expedition into the far north to find the people of Nunavut. While the mission was primarily to open relations between them and Manitoba, we can certainly benefit too."
+
+  arb_nunavut_successes_2:0 "Nunavut Diplomatic Coup"
+  arb_nunavut_successes_2_desc:0 "Miraculously, the mercenaries in Arborg seem to have sent an expedition that successfully set up contact between us and the Nunavut of the far north. This is an excellent position for us, and our trade with Nunavut will prosper!"
+
+  arb_manifest_consumer_goods:0 "MANIFEST Consumer Goods"
+  arb_manifest_consumer_goods_desc:0 "Arborg's Expeditions have uncovered a wealth of consumer items: robot vacuum cleaners, facial hair trimmers and all sorts of wonderful pre-war goods. The elite will surely appreciate this, as long as stocks last."
+
+  arb_revolt_volunteers:0 "Revolt Volunteers"
+  arb_revolt_volunteers_desc:0 ""
+
+  arb_cruel_punishments:0 "Cruel Punishments"
+  arb_cruel_punishments_desc:0 ""
+
+  arb_generous_rewards:0 "Generous Rewards"
+  arb_generous_rewards_desc:0 ""

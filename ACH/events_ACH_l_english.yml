@@ -1,0 +1,87 @@
+﻿l_english:
+  # Consolidation
+  nf_event_ach.1.t:0 "An Old New Focus"
+  nf_event_ach.1.d:0 "While our brothers to the north cling to their dreams of restoring the old world, we have seen the truth. Technology still needs to be safeguarded until humanity is ready for it again. Until then, will we stand eternal vigil. The choice was not easy, but we all agree that it was necessary. Let us never forget our brothers, even those that decided to leave the brotherhood for promises of restoring something that has failed time and time again."
+  nf_event_ach.1.a:0 "To safeguard humanity"
+
+  # Open the Vaults
+  nf_event_ach.2.t:0 "Open the Vaults"
+  nf_event_ach.2.d:0 "Even as part of the Texas branch we collected and safeguarded technology, though one of the reasons for our split was that they wanted to distribute what we guard. We can't let that happen obviously, but what of our now lonely vigil? We need every edge we can get."
+  nf_event_ach.2.a:0 "No matter the cost..."
+
+  # Richmond Demand
+  nf_event_ach.3.t:0 "Richmond: We Need It"
+  nf_event_ach.3.d:0 "Direct land access to the USSA headquarters is basically mandatory. Let us achieve this, by force or by finance. Let us hope that our former brothers still have some sympathy for our mission."
+  nf_event_ach.3.a:0 "Purchase Richmond"
+
+  # HRO access Send Demand
+  nf_event_ach.4.t:0 "Broadcast From Central Houston"
+  nf_event_ach.4.d:0 "A war is costly, but we do not need to fight if they just give us unlimited access to their facilities. But if we have to, we will take it by force. One way or another the USSA headquarters secrets will be ours."
+  nf_event_ach.4.a:0 "Houston, do we have a problem?"
+
+  # Contact West
+  nf_event_ach.5.t:0 "The Chain That Binds"
+  nf_event_ach.5.d:0 "We have had limited success, although extended, continuous communication is naturally difficult as always. At the least this has proven to be a good benchmark from which we can build on."
+  nf_event_ach.5.a:0 "Perhaps, through further work, we can reach them more easily?"
+
+  # Houston secrets ending
+  nf_event_ach.6.t:0 "Relics of the Past"
+  nf_event_ach.6.d:0 "To safeguard the past is our duty, even if it is out of physical reach. Codes, equipment, satellites. Let us use them to discover, to prevent humanity from abusing technology once more. Only those worthy enough shall wield the sword."
+  nf_event_ach.6.a:0 "Magnify!"
+
+
+  # Back to Texas
+  nf_event_ach.41.t:0 "Brothers United"
+  nf_event_ach.41.d:0 "We have no other choice. We need to return, abandon what made us our ancestors the Brotherhood. The way forward is not ours. It is theirs. The way forward lies in Texas. May we hope to one day return to our charge. One day..."
+  nf_event_ach.41.a:0 "Humility, perhaps, is a virtue."
+
+  # Asking Texas to reintegrate
+ nf_event_ach.45.t:0 "Brothers United?"
+  nf_event_ach.45.d:0 "With the Alamo Chapter’s army reportedly on the retreat after undergoing numerous defeats on the battlefield, Katherine Torni has unexpectedly crawled back to bargain with our leadership. The agent presented quite the offer: The Alamo Chapter will renounce their condemnation of our operations in Texas, make a commitment to provide compensation over time for all economic and military damages caused by their secession, and reintegrate into our nation. In exchange, we would partake in their defense and help them defeat their enemies. We are willing to offer them forgiveness if these terms are truly stuck to, and the prospect of reacquiring the land and resources they took with them is tempting, but are we really in a position to fight this war for them?"
+  nf_event_ach.45.a:0 "Welcome them back into the fold."
+  nf_event_ach.45.b:0 "We can ill afford this, refuse the offer."
+
+  # Texas refuses
+ nf_event_ach.46.t:0 "Texas Refuses Our Offer"
+  nf_event_ach.46.d:0 "Word has finally come from Texas, and with bad news: they have refused our offer, stating that they can not possibly afford to provide the resources required for fighting such a war at this time. Some view their response more charitably than others, but regardless of their true motives they have left us to face our fate alone."
+  nf_event_ach.46.a:0 "Does this spell the end?"
+
+
+  # Midwest
+  nf_event_ach.42.t:0 "Unexpected Aid"
+  nf_event_ach.42.d:0 "It seems our continued efforts to improve communication with Lost Hills have had a knock-on effect. Another group having heard our requests for aid!\nThey came with faces like devils.\n\nNot from the west, but from the north-east. They descended from great airships, looking like salvation itself. The Midwest is here. Saviors in Horned and beige armour."
+  nf_event_ach.42.a:0 "Does Barnaky still live?"
+
+  # Houston Access HRO receives
+  nf_event_ach.100.t:0 "They Demand Access"
+  nf_event_ach.100.d:0 "The Elder of the Alamo chapter has come forth and demanded access to our territory. We can either grant it to them or, in their words, suffer the consequences. Considering how they run about, frothing at the mouth at the mere prospect of seeing the internals of the space center? We should consider thoroughly. Refusal means war."
+  nf_event_ach.100.a:0 "Let them in"
+  nf_event_ach.100.b:0 "Defy them"
+
+  nf_event_ach.101.t:0 "Draft the results"
+  nf_event_ach.101.d:0 "Meticulous research, cross referencing and correlating of dozens of data snippets has given us some insight. All of these military bases we have visited had direct access to something called PoseidoNet. Some form of internal communications network spanning the entirety of the pre-war US. Related to Poseidon Energy, a massive pre-war conglomerate of dozens of different companies, primarily in the energy sector. Even better, we believe that with all the pieces we have found, we might be able to gain access to this still, partially operational, network."
+  nf_event_ach.101.a:0 "Let us proceed with caution."
+
+  nf_event_ach.102.t:0 "Poseidon IFF"
+  nf_event_ach.102.d:0 "The Enclave, a foe that brought us almost to extinction before the NCR wiped them out back west. We hid, as best as we could to avoid their wrath. Unhinged, without morals, and seeing themselves the successor to the pre-war United States of America Government. It seems that Poseidon energy was deeply intertwined with this pre-war shadow government consisting of industrialists, high ranking officials and even some presidents. Purely a contingency to continue the government they said in the case of catastrophe, but our records tell a different story. They tried to use a Virus to eradicate everyone on the continent, to repopulate it with whomever they managed to store away in secret bunkers. A genocide, one that would have reduced humanities gene pool so drastically, we might as well have surrendered and become inbred. \n\nRegardless of that though, the Enclave used PoseidoNet extensively, from automated security, communications and many other secret things. We could even trick their defenses to believe we are them with what our scribes and knights have created. A fully functional IFF module, with it, we are, Enclave. At least to those who don't ask too many questions."
+  nf_event_ach.102.a:0 "We are Enclave, if it suits us."
+
+  nf_event_ach.103.t:0 "I don't want to set the world on fire"
+  nf_event_ach.103.d:0 "This is absurd, so many nukes in one place. The great Silo, a depot that Tlaloc has full access to, over the subnetwork called Chiconet. Another piece of the puzzle really, Chiconet, being a subsection of PoseidoNet itself. Regardless, we did not just secure the warheads, to safeguard them, but we also got some Launch codes. It seems even in death, the god of rain, did not manage to use all of them. How many did the pre-war world build? How many weapons of ultimate destruction?"
+  nf_event_ach.103.a:0 "Let us never use them."
+
+  nf_event_ach.104.t:0 "Make it Rain"
+  nf_event_ach.104.d:0 "Tlaloc, the super AI implemented by Poseidon energy to help with the occupation of Mexico. It used thousands of robots, to control it all, to make every human its slave. At least until it died and freed all of its victims from the joke of the machine. Still, as vile as the machine was in life, as useful can it be for us in death. Advanced robots, intricate circuitry, let us use this to our advantage to further what we know."
+  nf_event_ach.104.a:0 "The secrets of a god."
+
+  nf_event_ach.105.t:0 "It called back"
+  nf_event_ach.105.d:0 "Out there in those hostile waters, standing like a bulwark against the backdrop of the endless ocean, a rather dinky and derelict oil rig, most likely long having exhausted all of its resources. Yet it seems to be still alive, and after we pinged it we knew the truth. Our hails were soon answered, we found a bunch of pre-war zombies, housed within the place. They told us their entire story without us even asking, then offered to come over for a talk. They had met other survivors before, but they seemed far less polite than we did, calling themselves the enclave those survivors did. Fighting erupted and the survivors were no more, but their technology remained. Advanced flying Vertical takeoff vehicles. Alongside schematics for them. We will be ready once those "ghouls" want to set foot on Texan soil."
+  nf_event_ach.105.a:0 "Let's take the birds, and leave the ghouls."
+
+  nf_event_ach.106.t:0 ""
+  nf_event_ach.106.d:0 ""
+  nf_event_ach.106.a:0 ""
+
+  nf_event_ach.107.t:0 "Texas Submits"
+  nf_event_ach.107.d:0 "We have received word that the Texan Brotherhood wishes to submit to our authority. They seem to have accepted the error of their ways and finally recognise that the Brotherhood Codex stands above all else, giving up any hopes for an United Texan Republic they might have held. While their leadership seems willing to merge and reunify our Nations, unfortunately our Administration lacks the capacity to fully integrate all of our former lands. Meaning that they may remain as an autonomous region of our Chapter. Regardless of this, this is a major victory for our Cause and it is only a matter of time until the Texan Chapter of the Brotherhood will rise above all else in the wasteland."
+  nf_event_ach.107.a:0 "Ad Victoriam"

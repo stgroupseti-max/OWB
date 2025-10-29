@@ -1,0 +1,11 @@
+﻿l_english:
+
+  bad_madvillain_murders_family_tt:0 "§gMadvillain§! §Rmurdered§! §gAmy-Lee Sundell and Joy in their own home. He never spoke of it again, but it remained as a stain upon his soul.§!"
+
+  bad_madvillain_adopts_joy_tt:0 "§gMadvillain knew that letting Amy-Lee Sundell live after everything they had done to the Motor-Families wasn't an option, but Joy was exempt from that. Amy-Lee Sundell was never buried-- left to rot within her own home as he carried Joy out with both hands.§! §PShe would be raised as a Greyhound, and the cycle would begin anew.§!"
+
+  bad_madvillain_spares_amy_tt:0 "§CMadvillain spared Amy-Lee Sundell and her daughter Joy.§! §gHe could never give them back John, but he could let her walk away a free woman. He held no care, no interest in any more bloodshed-- the irony of his vengeance sinking deep into his heart.§!"
+
+  bad_spawn_units_tt:0 "§gThe families of §Y[BAD.GetFlag] [BAD.GetNameDef]§! rally in the city of §YBattleford§!!§!"
+
+  BAD_claims_stampede_tt:0 "Grants §GClaims§! on all §YCores§! of the Stampede, and decisions to demand any territory they may have surrendered."

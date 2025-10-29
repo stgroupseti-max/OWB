@@ -1,0 +1,54 @@
+﻿l_english:
+  ARB_legitimacy_balance:0 "Legitimacy of the Junta"
+  
+  ARB_extremely_low_legitimacy:0 "Extremely low legitimacy"
+  ARB_very_low_legitimacy:0 "Very low legitimacy"
+  ARB_moderate_low_legitimacy:0 "Low legitimacy"
+  ARB_medium_legitimacy:0 "Moderate legitimacy"
+  ARB_moderate_high_legitimacy:0 "High legitimacy"
+  ARB_very_high_legitimacy:0 "Very high legitimacy"
+  ARB_extremely_high_legitimacy:0 "Extremely high legitimacy"
+
+  ARB_low_legitimacy:0 "Low legitimacy"
+  ARB_high_legitimacy:0 "High legitimacy"
+
+  arb_initiate_raid_against_three_river:0 "Initiate a raid against §BThree Rivers§!"
+  arb_initiate_raid_against_three_river_desc:0 "By beginning a raid against the Republic of Three Rivers, we can prove ourselves to Manitoba, and gain some loot as well."
+
+  arb_threaten_three_rivers:0 "Threaten §BThree Rivers§!"
+
+  arb_reassure_manitoban_nobles:0 "Reassure §CManitoban§! nobles"
+
+  arb_offer_training_and_support:0 "Offer training and support"
+
+  arb_manitoban_military_expedition:0 "§CManitoban§! military expedition"
+
+  arb_request_infantry_supplies:0 "Request §YInfantry Supplies§!"
+
+  arb_request_massive_shipment:0 "Request a §OMassive Shipment§!"
+
+  arb_request_reinforcements:0 "Request §YReinforcements§!"
+
+  ARB_civil_war_profiteering_decision_category:0 "Civil War Profiteering"
+  ARB_civil_war_profiteering_decision_category_desc:0 "Yorkton's revolt provides an interesting opportunity for us. By giving one or both sides preferable deals on equipment, manpower, experience and training we might be able to tilt the balance and make ourselves a tidy profit while we're at it.\n\n§YBy taking these decisions we will put our "goods" on the market, if either of the participants in the war choose to take our offer we will receive payment from them.§!\n\n   Manpower reserved for the market: [?global.arb_market_manpower|G|0]\n   Manpower hired by war participants: [?global.arb_hired_manpower|Y|0]\n   Weapons up for sale: [?global.arb_weapons_for_sale|G|0]\n   Special forces equipment up for sale: [?global.arb_special_forces_for_sale|G|0]\n   Army experience offered: [?global.arb_experience_offered|G|0]\n   Training specialists available: [?global.arb_training_specialists_available|G|0]"
+
+  arb_send_mercenaries_to_market:0 "Hire out mercenaries"
+  arb_send_more_mercenaries_to_market:0 "Hire out a mercenary company"
+  arb_sell_weapons:0 "Put weapons on the market"
+  arb_sell_more_weapons:0 "Put lots of weapons on the market"
+  arb_sell_lots_of_weapons:0 "Put crateloads of weapons on the market"
+  arb_sell_special_forces:0 "Offer to sell special ops equipment"
+  arb_offer_our_experience:0 "Offer our military experience"
+  arb_offer_training_advisors:0 "Prepare a training advisor"
+
+  ARB_markets_are_open_decision_category:0 "The Arborg Markets"
+  ARB_markets_are_open_decision_category_desc:0 "Arborg seems to have figured out that the revolt is a good opportunity to sell equipment. While we've received an invitation to buy equipment that Arborg should rightfully pledge to us, those opportunists probably sent an invitation to our enemies too.\n\n   Manpower reserved for the market: [?global.arb_market_manpower|G|0]\n   Manpower hired by us: [?ROOT.arb_hired_soldiers|Y|0]\n   Weapons up for sale: [?global.arb_weapons_for_sale|G|0]\n   Special forces equipment up for sale: [?global.arb_special_forces_for_sale|G|0]\n   Army experience offered: [?global.arb_experience_offered|G|0]\n   Training specialists available: [?global.arb_training_specialists_available|G|0]"
+
+  arb_recruit_mercenaries_from_market:0 "Recruit mercenaries from the market"
+  arb_recruit_mercenaries_from_market_guns:0 "Trade guns for mercenaries"
+  arb_buy_weapons_from_market:0 "Buy weapons from the market"
+  arb_buy_lots_of_weapons_from_market:0 "Buy lots of weapons from the market"
+  arb_buy_special_forces:0 "Buy special ops equipment from the market"
+  arb_purchase_experience:0 "Buy experience from the market"
+  arb_hire_training_specialists:0 "Hire a training specialist"
+  arb_hire_training_specialists_guns:0 "Offer guns for a training specialist"

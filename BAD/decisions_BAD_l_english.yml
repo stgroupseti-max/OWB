@@ -1,0 +1,15 @@
+﻿l_english:
+  BAD_gather_families_category:0 "Gather the Motor-Families"
+  BAD_gather_families_category_desc:0 "Madvillain's goal was simple: the complete and utter destruction of the Stampede, and return of the Cab Vultures as a force to be reckoned with. To do that, he'd need the families back-- the Skiiers, the Wolverines, and the Kegwheels must join forces with the Greyhounds once again."
+
+  bad_skiiers_found:0 "The Skiiers"
+  bad_skiiers_found_desc:0 "The Skiiers were last heard of to be "around Safehaven." Far, far away from their usual tricks, but it sounds like looking there will be our best bet."
+  bad_skiiers_found_flag:0 "The Skiiers must be brought back into the fold!"
+
+  bad_wolverines_found:0 "The Wolverines"
+  bad_wolverines_found_desc:0 "The last anyone had heard of Metal Fingers, he was hanging around the last of the Byemoor Bandits. Nothing great to be garnered from that, but he's always known where his loyalties lie. Let's pay him a visit."
+  bad_wolverines_found_flag:0 "The Wolverines must be brought back into the fold!"
+
+  bad_kegwheels_found:0 "The Kegwheels"
+  bad_kegwheels_found_desc:0 "The last anyone had heard of the Kegwheels, they were playing ball with the Stampede. Far from ideal, but we can't fault them for doing whatever it takes to survive. We'll have to hope they hear the horn and remember the old songs."
+  bad_kegwheels_found_flag:0 "The Kegwheels must be brought back into the fold!"
