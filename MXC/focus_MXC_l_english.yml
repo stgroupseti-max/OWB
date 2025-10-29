@@ -1,0 +1,358 @@
+﻿l_english:
+ # Focuses
+
+  #Starting Focuses#
+  maxson_bos_our_mission:0 "Our Departure From The West"
+  maxson_bos_our_mission_desc:0 "Rising tensions and a desire to secure an eastern foothold, an expedition was formed in Lost Hills. Sent east to Colorado, the Maxson Expedition set out to form a new Chapter of the Brotherhood, beyond the reach of the Californian powers."
+
+  maxson_bos_the_bunker:0 "Senator Peterson's Bunker"
+  maxson_bos_the_bunker_desc:0 "Set aside as a safe haven for his family, now rediscovered by the Brotherhood. The codes given to our founder worked, even after all this time, allowing us to enter the bunker without incident."
+
+  maxson_bos_our_struggles:0 "The Schism"
+  maxson_bos_our_struggles_desc:0 "Inside the bunker we found a massive stash of Stealth Boys, which we used in an attempt to recover our lost Brothers. The side effects of these devices were only discovered too late, with a large contingent of our forces suffering from paranoid delusions."
+
+  maxson_bos_expedition_failure:0 "Snapping At Our Heels"
+  maxson_bos_expedition_failure_desc:0 "Scattered and broken we fled from Denver, the Hangdogs and their hounds right behind us. The legacy of our defeat hangs heavy over every member of our chapter."
+
+  maxson_bos_core_walsh:0 "Oak Squad Secures New Syracuse"
+  maxson_bos_core_walsh_desc:0 "Oak Squad was lost, presumed dead, in the retreat from Denver. Recently though they've started contacting us on old radio frequencies. As it turns out they had simply diverted to secure a cache of energy weapons on the way over. They'll be deployed to New Syracuse to secure the local area, then be reintegrated in the army proper."
+
+  maxson_bos_truchas_peak:0 "Amber Team Secures Fort Lyon"
+  maxson_bos_truchas_peak_desc:0 "Amber Team was written off as MIA shortly after the retreat from Denver. Luckily they've been rediscovered based out of the wrong bunker, a smaller pre-war ration stockhouse near Fort Lyon. They'll be tasked with securing the territory from their bunker, then reintegrated into the army proper."
+
+  #Scribe Focuses#
+
+  maxson_bos_scribe_1:0 "Scribe Industry Consultation"
+  maxson_bos_scribe_1_desc:0 "Scribes overseeing the work of the wastelanders in our territory will help reduce mistakes and improve the efficiency of our production."
+
+  maxson_bos_scribe_2:0 "Research Focus"
+  maxson_bos_scribe_2_desc:0 "Putting our Scribes to work on a particular focus for our equipment will give us a clear advantage one way or the other, and a larger budget won't hurt our research either."
+
+  #Army#
+  maxson_bos_failure_a1:0 "Recover Our Might"
+  maxson_bos_failure_a1_desc:0 "Our loss of equipment is egregious, with no help coming from the west and enemies on all sides we cannot wait long to recover our strength."
+
+  maxson_bos_failure_a2:0 "The Next Generation"
+  maxson_bos_failure_a2_desc:0 "Eager fresh faced recruits, hard faced veterans to train them."
+
+  maxson_bos_failure_a3:0 "New Syracuse Military Industry"
+  maxson_bos_failure_a3_desc:0 "Our initial expansions into New Syracuse were minimal, besides appraoching wasteland settlements in the area. Now that we have need of a functioning arms industry it is time to put effort into setting our interests up there."
+
+  maxson_bos_failure_a4:0 "Weapons To Strike Down Our Foes"
+  maxson_bos_failure_a4_desc:0 "Laser weapons might not be seen as weapons beyond comprehension by the wasteland of our day, they still produce results regardless of understanding."
+
+  maxson_bos_failure_a5:0 "Armor To Safeguard Our Hearts"
+  maxson_bos_failure_a5_desc:0 "Powered armor is still our bread and butter, the symbol of the Brotherhood."
+
+  maxson_bos_failure_a6:0 "Underground Advanced Material Processing"
+  maxson_bos_failure_a6_desc:0 "Expanding the Maxson Bunker underground to store and sort through the tech salvage we find."
+
+  maxson_bos_failure_a7:0 "New Syracuse Militia"
+  maxson_bos_failure_a7_desc:0 "Due to how close New Syracuse is to our main bunker we can effectively patrol the settlements with a fraction of the forces normally required in exchange for wastelanders from the region helping with our garrisons abroad."
+
+  maxson_bos_failure_a8:0 "Field Exercises"
+  maxson_bos_failure_a8_desc:0 "Setting aside time to have our forces train will help our tactics and our morale."
+
+  maxson_bos_failure_a9:0 "Powered Armor Developments"
+  maxson_bos_failure_a9_desc:0 "While our armor served us well on the journey to Colorado it can always be better."
+
+  maxson_bos_failure_afinal:0 "Never Lose It Again"
+  maxson_bos_failure_afinal_desc:0 "Widespread equipment maintenance practices have been instituted from the bottom to the top, we can't afford to let our equipment be our point of failure."
+
+
+  #Industry#
+  maxson_bos_failure_b1:0 "We Need To Hold On"
+  maxson_bos_failure_b1_desc:0 "Our position here in Colorado is tenuous, while we can't afford to hide in our bunker and shut the door, we can still prepare defenses in case of attack."
+
+  maxson_bos_failure_b2:0 "New Syracuse Civilian Industry"
+  maxson_bos_failure_b2_desc:0 "Our initial expansions into New Syracuse were minimal, besides approaching wasteland settlements in the area. Now that we have need of a functioning civilian industry it is time to put effort into setting our interests up there."
+
+  maxson_bos_failure_b3:0 "Untapped Resources"
+  maxson_bos_failure_b3_desc:0 "When we encountered the "Walshians" we did not strip their settlements of dangerous tech, and we should certainly be more diplomatic about it with our reduced strength. Still, there are plenty of sites to send our own teams to scavenge from as well to supplement what we can get from them."
+
+  maxson_bos_failure_b4:0 "Restoring Our Roads And Industry"
+  maxson_bos_failure_b4_desc:0 "The area around the Maxson Bunker was remote enough to not be hit hard by the Great War, but still suffered from two centuries of neglect. Fixing up the surrounding areas will help us secure our foothold."
+
+  maxson_bos_failure_b5:0 "Underground Workshops"
+  maxson_bos_failure_b5_desc:0 "Underground expansions in the New Syracuse territory will allow us to produce more goods securely."
+
+  maxson_bos_failure_b6:0 "Maxson Bunker Fortification"
+  maxson_bos_failure_b6_desc:0 "Upgrading the bunker's existing security and preparing defensive positions around it should help us to repel a direct assault."
+
+  maxson_bos_failure_b7:0 "Southern Border Fortification"
+  maxson_bos_failure_b7_desc:0 "Reinforcing our southern border from future threats while we deal with Colorado."
+
+  maxson_bos_failure_b8:0 "Western Border Fortification"
+  maxson_bos_failure_b8_desc:0 "Reinforcing our western border to secure our main territory."
+
+  maxson_bos_failure_bfinal:0 "The Bulwarks Of Steel"
+  maxson_bos_failure_bfinal_desc:0 "Our enemies will crash upon our steel, shoulder to shoulder we will not break."
+
+  #Robot City#
+
+  maxson_bos_robot_city_a:0 "Punching Through Steel"
+  maxson_bos_robot_city_a_desc:0 "Our expedition needs a victory, and the robots of the so called "Robot City" are a good target. Our forces will need to strike swift and hard to succeed."
+
+  #The Airship#
+
+  maxson_bos_airship_a:0 "Airship Down"
+  maxson_bos_airship_a_desc:0 "On the push north from Maxson Bunker our Paladins stumbled upon a very peculiar find..."
+
+  maxson_bos_prepare_1:0 "Wreckage Insights"
+  maxson_bos_prepare_1_desc:0 "Sending out a team to examine the wreckage could give us a clue as to what happened."
+
+  maxson_bos_prepare_2:0 "Sealed Hangers"
+  maxson_bos_prepare_2_desc:0 "Exploring the conquered Robot City territory our Paladins stumble upon..."
+
+  maxson_bos_prepare_3:0 "Aerial Tactics"
+  maxson_bos_prepare_3_desc:0 "Having a number of our Knights trained in aerial combat using pre-war manuals will give us an edge over most other wasteland efforts to gain air supremacy."
+
+  maxson_bos_prepare_4:0 "Dropping Feet First"
+  maxson_bos_prepare_4_desc:0 "Power armor is incredibly versatile, and not just for ground operations. Training our Paladins in air assault tactics could give us a definite advantage."
+
+  #Scorpions Bite#
+
+  maxson_bos_scorpions_a:0 "Scorpion Menace"
+  maxson_bos_scorpions_a_desc:0 "Bordering raiders isn't a new circumstance for the Brotherhood, neither is us taking them down."
+
+  #Scorpions Bite Improvements#
+
+  maxson_bos_scorpions_territory_a:0 "Raider "Ingenuity""
+  maxson_bos_scorpions_territory_a_desc:0 "The Scorpions were a gang focused on vehicular mobility, and their innovative methods of maintaining this advantage show even our Scribes some new tricks to use in our own vehicles."
+
+  maxson_bos_scorpions_territory_b:0 "Confiscation Of Resources"
+  maxson_bos_scorpions_territory_b_desc:0 "While the wastelanders living under the rule of the Scorpions no longer have to worry about paying tribute to them, we still need to comb the stockpiles that the gang's absence left for technology that we consider dangerous in their hands."
+
+  maxson_bos_scorpions_territory_c:0 "Watching South"
+  maxson_bos_scorpions_territory_c_desc:0 "With an expanded border we need to extend our efforts to keep our territory secure."
+
+  maxson_bos_scorpions_territory_final:0 "Bite Down On The Scorpions"
+  maxson_bos_scorpions_territory_final_desc:0 "Patrolled and maintained settlements, roads clear of raiders, we have a strong hold over the territory."
+
+  #Robot City Improvements#
+
+  maxson_bos_robot_city_territory_a:0 "Gather The Remains"
+  maxson_bos_robot_city_territory_a_desc:0 "Plenty of robots have been left deactivated or damaged either from the passage of time or our conquest, we can gather their remains to use as raw materials for our Scribes to use."
+
+  maxson_bos_robot_city_territory_b:0 "Repurpose The Remains"
+  maxson_bos_robot_city_territory_b_desc:0 "Plenty of robots have been left deactivated or damaged either from the passage of time or our conquest. Reactivating them would let us build and staff new factories in Robot City."
+
+  maxson_bos_robot_city_territory_c:0 "Clear The Roads"
+  maxson_bos_robot_city_territory_c_desc:0 "Using our power armor to push ancient cars out to the side of the roads isn't the most glamorous work, but necessary for securing the region."
+
+  maxson_bos_robot_city_territory_d:0 "Refurbish The Buildings"
+  maxson_bos_robot_city_territory_d_desc:0 "Many of the buildings in Robot City aren't in terrible shape, with a little work we can clear plenty of indoor space to repurpose later."
+
+  maxson_bos_robot_city_territory_final:0 "Robot City No More"
+  maxson_bos_robot_city_territory_final_desc:0 "Robots no longer wander the streets of this destroyed city, and the surrounding settlements all are under our protection."
+
+  #Hangdogs#
+
+  maxson_bos_hangdogs_a:0 "Our Second Chance"
+  maxson_bos_hangdogs_a_desc:0 "We will not be beaten back this time. We will take "Dog City" for ourselves, and the ones who hold it down to their graves."
+
+  maxson_bos_hangdogs_b:0 "The City Of Denver"
+  maxson_bos_hangdogs_b_desc:0 "It's finally ours, after clearing out the stragglers and scavangers the Brotherhood now has Denver and all it's riches."
+
+  maxson_bos_hangdogs_c:0 "Wealth Of The Past"
+  maxson_bos_hangdogs_c_desc:0 "A pre-war city is sure to have plenty of interesting discoveries, and with our greater understanding we can surely pick out plenty the previous owners missed."
+
+  maxson_bos_hangdogs_d:0 "City Exploitation"
+  maxson_bos_hangdogs_d_desc:0 "Denver is a massive city. Just taking it isn't enough, we need to make it ours forever."
+
+  maxson_bos_hangdogs_city_a1:0 "Denver Consumer Industry"
+  maxson_bos_hangdogs_city_a1_desc:0 "Refurbishing Denver's industry is a vital first step in getting the city back up and running for our purposes."
+
+  maxson_bos_hangdogs_city_a2:0 "Scribe Industrial Insights"
+  maxson_bos_hangdogs_city_a2_desc:0 "The level of industrialization in most pre-war cities is still far beyond what anyone in the wasteland has been able to create, having our Scribes study these ancient sites will help us catch up."
+
+  maxson_bos_hangdogs_city_b1:0 "Ruined Streets"
+  maxson_bos_hangdogs_city_b1_desc:0 "Clearing the streets of Denver will let allow us to transport and navigate the city easier."
+
+  maxson_bos_hangdogs_city_b2:0 "Paved Roads"
+  maxson_bos_hangdogs_city_b2_desc:0 "Rebuilding the roads in the former Hangdog's territory will take time, but will allow us to move faster through the central territory of Colorado."
+
+  maxson_bos_hangdogs_city_c1:0 "Denver Military Industry"
+  maxson_bos_hangdogs_city_c1_desc:0 "Refurbishing Denver's industry is a vital first step in getting the city back up and running for our purposes."
+
+  maxson_bos_hangdogs_city_c2:0 "Factory Blueprints"
+  maxson_bos_hangdogs_city_c2_desc:0 "Blueprints for special weapons used by the pre-war America found in the factories we refurbished, our Scribes will make good use of them."
+
+  maxson_bos_hangdogs_city_final:0 "A Muzzled City"
+  maxson_bos_hangdogs_city_final_desc:0 "The streets are no longer bustling with pre-war citizens, nor post war scavengers, but now with the hum of industry and the clank of power armored boots. Denver is now ours."
+
+  maxson_bos_hangdogs_tech_a1:0 "Site B"
+  maxson_bos_hangdogs_tech_a1_desc:0 "The WARDEN Defense Network was given a number of sites scattered across Denver for its autonomous policing, built to last and full of advanced technology."
+
+  maxson_bos_hangdogs_tech_a2:0 "Site C & D"
+  maxson_bos_hangdogs_tech_a2_desc:0 "These two sites have the manufacturing capability to produce more of the robots needed for the WARDEN's purposes, and even a whole section full of deactivated Protections we could use."
+
+  maxson_bos_hangdogs_tech_a3:0 "Denver's WARDEN"
+  maxson_bos_hangdogs_tech_a3_desc:0 "With WARDEN disconnected from its network, we might be able to convince it to aid us, after all we shouldn't turn down the extra help in pacifying an entire state. Also studying the design of WARDEN could help us in our research."
+
+  maxson_bos_hangdogs_tech_b1:0 "National Guard Armories"
+  maxson_bos_hangdogs_tech_b1_desc:0 "Even after countless attempts the scavengers of the former Dog City could not break into every armory in and near Denver. Thankfully, even though they are ancient, we have general use access codes from our origins in the US Army. If that doesn't work we also have energy weapons that can melt through the locking mechanisms."
+
+  maxson_bos_hangdogs_tech_b2:0 "Denver West Tek Facility"
+  maxson_bos_hangdogs_tech_b2_desc:0 "Not directly hit by the Great War, but close enough that the facility was half a radioactive crater and the other half still buried underground. Using our power armor and plenty of Rad-X we can send teams in to retrieve what we can from the West Tek Facility."
+
+  maxson_bos_hangdogs_tech_b3:0 "US Army Vehicle Depot"
+  maxson_bos_hangdogs_tech_b3_desc:0 "While this depot wasn't as well secured, most of what was stored in here pre-war has not been looted due to lack of fuel and the great effort it would take to retrieve them from inside."
+
+
+  #Iron Alliance#
+
+  maxson_bos_ironalliance_a:0 "Steel Vs Iron"
+  maxson_bos_ironalliance_a_desc:0 "Power armor raider mercenaries, certainly a unique combo. Not to be taken lightly but also cannot be allowed to stand in our way."
+
+  maxson_bos_ironalliance_b:0 "Iron Scraps"
+  maxson_bos_ironalliance_b_desc:0 "Decades of raiding and with a focus on advanced armor have allowed the Iron Alliance to acquire an impressive stockpile of resources and manufacturing set up to repair these suits of armor."
+
+  #Chinese Ghouls#
+
+  maxson_bos_ghouls_a:0 "Old Soldiers"
+  maxson_bos_ghouls_a_desc:0 "Not the regular ghoul settlements we expected, these ones are organized, have advanced tactics, ancient non standard equipment, and some even speak Chinese. Interesting."
+
+  maxson_bos_ghouls_b:0 "Old Lessons"
+  maxson_bos_ghouls_b_desc:0 "A Captain among the ghouls has been captured after our conquest. We have no interest in wiping them out completely and this man claims to have valuable experience we could use."
+
+  #Iron Alliance and Ghouls#
+
+  maxson_bos_ironghouls:0 "Making Nice"
+  maxson_bos_ironghouls_desc:0 "With time all wounds heal, even if there is still some resentment we have managed to smooth things out with former enemies."
+
+  #Baggers#
+
+  maxson_bos_baggers_a:0 "What Are You Doing In Colorado?"
+  maxson_bos_baggers_a_desc:0 ""Mind your own business!" was certainly an unexpected answer, but not one that will deter us."
+
+  maxson_bos_baggers_b:0 "Baggers Purpose"
+  maxson_bos_baggers_b_desc:0 "Capturing the scientists the NCR expedition had in their care we have learned of their goal, the Boulder Dome. While the remaining NCR troopers and the science team will be kept under guard, they will still be a help when we finally reach Boulder."
+
+  #Luminous Ones#
+
+  maxson_bos_luminous_ones:0 "Conquering The Mountain"
+  maxson_bos_luminous_ones_desc:0 "A radioactive mountain full of glowing ones in primitive armor. Not going to be a pleasant conquest, but Colorado must be ours."
+
+  #Withered Dogs#
+
+  maxson_bos_withered_dogs:0 "More Dogs"
+  maxson_bos_withered_dogs_desc:0 "Pushed out from Denver by the Hangdogs...we know how you feel. Unfortunately our sympathy only goes so far."
+
+  #Choir Hooks#
+  maxson_bos_choir_1:0 "Wargames with the Hummingbirds"
+  maxson_bos_choir_1_desc:0 "The recent decision to work with us from the Hummingbirds has been ostensibly a blessing, but time will tell if it'll do us any good. For now, we can run a few military exercises with them, and see if we can't learn a little from eachother."
+
+  maxson_bos_choir_2:0 "Fortify Painted Rock"
+  maxson_bos_choir_2_desc:0 "The Tribe of Painted Rock was, for the longest time, our southeastern neighbor. This changed recently when the Chained Choir (now calling themselves the Hummingbirds) recently ousted them in a military conflict. The whole area is still quite raw, and some are worried an invading army could sweep through any minute. So, we'll help the Choir fortifiy the border."
+
+  maxson_bos_choir_3:0 "Fortify Core Territories"
+  maxson_bos_choir_3_desc:0 "Our position around Maxson Bunker is tenuous at best, and could easily be undone if a large enough army challenged us in the field. Plans to fortify the border have long been plagued with a lack of manpower. That issue, finally, has resolved itself with help from our new allies to the southeast, who have a large population of workers and laborers."
+
+  maxson_bos_choir_4:0 "Keeping the Peace"
+  maxson_bos_choir_4_desc:0 "The Hummingbirds have been, over these last months, emphasizing the role of the Peacekeeper in the army. It's a noble thought, and something we could capitalize on in our own forces. A couple of units made up of soldiers with excellent track records will be made to embody that ideal."
+  maxson_bos_choir_4_tt:0 "Two units of fully equipped Enforcers will join you!"
+
+  maxson_bos_choir_5:0 "Recruit From the Hummingbirds"
+  maxson_bos_choir_5_desc:0 "A lack of warlike tendency has left a number of soldiers, warriors, and tribals in the choir feeling a bit ostracized from their community. This leaves a pretty sizable population of folk that genuinely want to get back into the fight. Under us, they can."
+
+  maxson_bos_choir_6:0 "Learn from the Best."
+  maxson_bos_choir_6_desc:0 "The Hummingbirds have an excellent grasp on the management of nature and extraction of resources from the Earth. While they can be kind of touchy about certain methods of resource harvesting, the good news is that their knowledge covers the last few holes in our documentation about mining practices. Now, we can crack the Earth better than ever before!"
+
+  #Lanius War#
+  maxson_bos_laniuswar_1:0 "Emergency Recruitment"
+  maxson_bos_laniuswar_1_desc:0 "Well intentioned wastelanders, rough and tumble mercenaries, grizzled settlers, all will be called to the front to defend against the dreaded Monster of the East."
+
+  maxson_bos_laniuswar_2:0 "Defend Our Home!"
+  maxson_bos_laniuswar_2_desc:0 "We're already thousands of miles away from Lost Hills. We can retreat, run, and expedite ourselves no more! Either we win, or we die with out feet planted in the soil!"
+
+  maxson_bos_laniuswar_3:0 "Requisition Caravaneer Guns"
+  maxson_bos_laniuswar_3_desc:0 "There are various well armed caravaneer companies that patrol back and forth around the Colorado Territories. They might gripe and groan when we come to "Requisition" the best of their weapons, but surely it's better than living under the Legion?"
+
+  #Lanius Post War#
+  maxson_bos_postlanius_1:0 "Free The Slaves"
+  maxson_bos_postlanius_1_desc:0 "Lanius's former capital is full of slaves still held in bondage by their masters, freeing them and relocating them to our land will weaken the power of the remaining Legion members in the occupied land."
+
+  maxson_bos_postlanius_2:0 "Support The New Chapter"
+  maxson_bos_postlanius_2_desc:0 "Giving the fledgling Chapter a little more independance will free us up from having to worry about our southern border."
+
+  maxson_bos_postlanius_3:0 "Occupy The Conquered Land"
+  maxson_bos_postlanius_3_desc:0 "Garrisoning the entirety of New Mexico would be an incredible drain on our manpower and resources, especially when we still need to secure Colorado and watch for other threats to our claim. Starting a new Chapter to our south will give us an ally and keep those lands pacified."
+  #Expedition Fervor#
+
+  maxson_bos_expedition_continues:0 "We Still Have A Mission"
+  maxson_bos_expedition_continues_desc:0 "With our successful conquests and emboldened by the lust for revenge, the Maxson Chapter is back on its feet."
+
+  maxson_bos_expedition_colorado1:0 "Colorado Brotherhood"
+  maxson_bos_expedition_colorado1_desc:0 "With Denver conquered and our fallen brothers and sisters avenged we have regained our lost fervor. Colorado will be ours now and forever."
+
+  #Colorado Brotherhood#
+
+  maxson_bos_expedition_colorado2:0 "Victory Over All"
+  maxson_bos_expedition_colorado2_desc:0 "The Hangdogs, Lanius, and the rest of Colorado now or soon. We have proven our dominance over the state of Colorado."
+
+  #Vault 0#
+
+  maxson_bos_vault1:0 "Vault 0000"
+  maxson_bos_vault1_desc:0 "Signs of an ancient battle against a machine menace taking place in the streets of Denver have led us to a cracked open Vault near Colorado Springs. Sending our Paladins up the mountain through we can only wonder, what lies within?"
+
+  maxson_bos_vault2:0 "Upper Levels"
+  maxson_bos_vault2_desc:0 "Sending teams down through the breach caused by what we can only assume was a tactical nuclear warhead, the only known explosive capable of putting a hole of this size in a Vault, we have begun to explore the upper levels."
+
+  maxson_bos_vault3:0 "Signs Of Battle"
+  maxson_bos_vault3_desc:0 "The first signs of the incursion into this Vault have been found by our Paladins, seemingly showing a desperate defense by the robotic defenders."
+
+  maxson_bos_vault4:0 "Vault-Tec Construction"
+  maxson_bos_vault4_desc:0 "From the terminals we have found this Vault was underfunded and delayed as the repeated drills of pre-war America even led those in power to feel a false sense of security. It is still by far the largest Vault the Brotherhood has encountered, to our knowledge, and that is even just counting the upper levels. It was built into and around an already existing complex, but it is still impressive if only through sheer volume. Plenty for our Scribes to study and take notes to improve our own designs, even underfunded and delayed Vault-Tec were the best at making these nuclear proof bunkers."
+
+  maxson_bos_vault5:0 "Lower Levels"
+  maxson_bos_vault5_desc:0 "Descending down the elevators to the lowest levels of the Vault the signs of battle become more evident, these levels seem to be the most occupied before the assault. Cryogenic capsules for the dwellers and the industrial capacity for limited robot production."
+
+  maxson_bos_vault6:0 "Vault-Tec Industry"
+  maxson_bos_vault6_desc:0 "Vault 0 was meant to be the nexus of the reconstruction of America after the bombs dropped, even though the truth of the Vaults is well known to us it wasn't for those who fled to them for safety so long ago. While the residents of this Vault also seem to have suffered an unfortunate end the infrastructure to maintain their existence underground and to rebuild after the war is still in place and mostly functional. More work for the Scribes."
+
+  maxson_bos_vault7:0 "Collapsed Sections"
+  maxson_bos_vault7_desc:0 "Curious looking robots litter the collapsed lower level tunnels, all seemingly deactivated remotely as only some show battle damage. Taking caution in the effort we can retrieve some of these robots and study their design."
+
+  maxson_bos_vault8:0 "The Calculator's Lair"
+  maxson_bos_vault8_desc:0 "Everything has led up to this room, the central command of Vault 0. Paladins begin to enter as we find..."
+
+  maxson_bos_vault9:0 "Buena Vista Hanger"
+  maxson_bos_vault9_desc:0 "We have learned of a site of interest to the west of Vault 0, a former power plant that was of interest to the Brotherhood of the past."
+
+  #Boulder Dome#
+
+  maxson_bos_dome1:0 "The Sealed Dome"
+  maxson_bos_dome1_desc:0 "Boulder was wiped off the map during the Great War, but the Boulder Dome stood strong against the detonations and to this day still towers over the bombed out ruins of the former city it's named after."
+
+  maxson_bos_dome2:0 "Irradiated Inhabitants"
+  maxson_bos_dome2_desc:0 "Glowing Ones, the most dangerous varient of Ghoul. The ruins are full of them, and we need to clear them out."
+
+  maxson_bos_dome3:0 "Brotherhood Outpost Boulder"
+  maxson_bos_dome3_desc:0 "Finding a bunker in post war America isn't hard, finding one that will suit our purposes will take a bit of time."
+
+  maxson_bos_dome4:0 "Breaking Open The Dome"
+  maxson_bos_dome4_desc:0 "While the structure had stood against the nuclear detonations that wiped out Boulder and against the ravages of time it is still able to be breached. Entrances to the Dome itself made for personnel to enter are sealed tight and no one has been able to get close enough before to test their strength, but we are confident that with a few well placed explosives we can open one of these entrances."
+
+  maxson_bos_dome5:0 "The Circle Cure"
+  maxson_bos_dome5_desc:0 "One of the many projects inside the Dome was a cure for the side effects of excessive Stealth Boy usage, completing the work ourselves we can finally cure our lost Brothers and Sisters!"
+
+  maxson_bos_dome6:0 "Medical Wonders"
+  maxson_bos_dome6_desc:0 "The Boulder Dome is a wonderland of pre-war medical research, getting our Scribes inside the walls and to work is a priority."
+
+  maxson_bos_dome7:0 "The Resident ZAX"
+  maxson_bos_dome7_desc:0 "The Boulder Dome houses an advanced artificial intelligence, one of the ZAX models. It seems to be in a serious state of disrepair and is suffering memory issues, luckily for it we have plenty of spare memory to slap into it so we can use it for our own purposes."
+
+  maxson_bos_dome8:0 "Establish Ourselves"
+  maxson_bos_dome8_desc:0 "Clearing out the last pockets of Ghoul resistance and patrolling the outskirts of Boulder we can ensure that the Dome will remain ours."
+
+  #Final Focuses#
+
+  maxson_bos_final_hq:0 "Colorado Headquarters"
+
+  maxson_bos_final_contact1:0 "Contact The Midwestern Brotherhood"
+
+  maxson_bos_final_contact2:0 "Contact The Western Brotherhood"
+
+  maxson_bos_final_contact3:0 "Contact The Texan Brotherhood"
+

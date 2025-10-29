@@ -1,0 +1,50 @@
+﻿l_english:
+  # decisions
+  MTC_research_group_category:0 "The Gabriel Institute of Learning"
+  MTC_research_group_category_desc:0 "We can only move forward as a people if we choose to learn from our mistakes and each others successes."
+  MTC_tribal_rearmament_category:0 "Never Another Massacre"
+  MTC_tribal_rearmament_category_desc:0 "To be armed is to be safe, the historic struggles of our people is what allows us to struggle today and what will allow our children to struggle tomorrow."
+  MTC_invite_CPK_to_research:0 "Invite Coal Mine Managers to Teach at GIL"
+  MTC_refuge_to_CPK:0 "Grant Asylum to the Macawi Family"
+  MTC_invite_RMT_to_research:0 "Mutual Studying of the Fatheronicon"
+  MTC_refuge_to_RMT:0 "Grant Religious Freedom to the Children of the Father's Sin"
+  MTC_invite_KHA_to_research:0 "A Followers Base in Canada"
+  MTC_refuge_to_KHA:0 "Protect Khan Remnants From More Genocides"
+  MTC_invite_FRG_to_research:0 "Fairy Glenn Military Seminars"
+  MTC_refuge_to_FRG:0 "Child Refugees From The Electorate"
+  MTC_LAP_sharing_spirit:0 "Prepare The Crow for an Endless Stampede"
+  MTC_STR_sharing_spirit:0 "Lakota Wargames"
+  MTC_NIT_sharing_spirit:0 "Pass The Torch of Anti-American Resistance"
+  MTC_TPL_sharing_spirit:0 "So Sets the White Moon"
+
+  MTC_flight_training_category:0 "Flight Training"
+  MTC_flight_training_category_desc:0 ""  #TODO
+  MTC_practice_smooth_landings:0 "§2Fighter Exercise§!: Practice Smooth Landings"
+  MTC_practice_smooth_landings_desc:0 ""  #TODO
+  MTC_practice_ground_forces_coordination:0 "§RCAS Exercise§!: Practice Ground Force Coordination"
+  MTC_practice_ground_forces_coordination_desc:0 "" #TODO
+  MTC_practice_long_distance_targetting:0 "§GBomber Exercise§!: Practice Long Distance Targetting"
+  MTC_practice_long_distance_targetting_desc:0 "" #TODO
+  MTC_fighter_dogfighting:0 "§2Fighter Strategy§!: Expert Dogfighting"
+  MTC_fighter_dogfighting_desc:0 "" #TODO
+  MTC_fighter_deterrence:0 "§2Fighter Strategy§!: Airspace Deterrence"
+  MTC_fighter_deterrence_desc:0 ""  #TODO
+  MTC_cas_assault:0 "§RCAS Strategy§!: Combined Assault"
+  MTC_cas_assault_desc:0 "" #TODO
+  MTC_cas_interdiction:0 "§RCAS Strategy§!: Air Interdiction"
+  MTC_cas_interdiction_desc:0 ""  #TODO
+  MTC_bomber_precision:0 "§GBomber Strategy§!: Surgical Precision"
+  MTC_bomber_precision_desc:0 ""  #TODO
+  MTC_bomber_positioning:0 "§GBomber Strategy§!: Careful Positioning"
+  MTC_bomber_positioning_desc:0 ""  #TODO
+  MTC_air_exercise_ongoing_flag:0 "Flight exercises are ongoing"
+  MTC_fighter_strategy_ready_flag:0 "We are ready to execute Fighter strategies"
+  MTC_fighter_strategy_ready_tt:0 "§OReadies the use of a Fighter strategy§!"
+  MTC_cas_strategy_ready_flag:0 "We are ready to execute CAS strategies"
+  MTC_cas_strategy_ready_tt:0 "§OReadies the use of a CAS strategy§!"
+  MTC_bomber_strategy_ready_flag:0 "We are ready to execute Bomber strategies"
+  MTC_bomber_strategy_ready_tt:0 "§OReadies the use of a Bomber strategy§!"
+
+  MTC_10_cp_20_air_xp:0 "£command_power  §H10§! £air_experience  §H20§!"
+  MTC_10_cp_20_air_xp_blocked:0 "£command_power  §R10§! £air_experience  §R20§!"
+  MTC_10_cp_20_air_xp_tooltip:0 "It costs $MTC_10_cp_20_air_xp_blocked$ to take the decision"

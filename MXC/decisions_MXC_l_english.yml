@@ -1,0 +1,79 @@
+﻿l_english:
+
+  mxc_test1:0 "Test Decision"
+  mxc_test1_desc:0 "Does nothing"
+
+  #Categories#
+
+  MXC_expedition_category:0 "Colorado Expedition"
+  MXC_expedition_category_desc:0 "\n\n\n\n\n\n\n\n\n\n\n\nProgress\n§1Robot City§!: [?robcity_progress|%0]\n§2Bastion§!: [?bastion_progress|%0]\n§3New Sterling§!: [?newsterling_progress|%0]"
+
+  #Decisions#
+
+    #Circle Of Steel §9#
+
+  mxc_circle_schism_start:0 "§9The Circle Of Steel§!"
+  mxc_circle_schism_start_desc:0 "While our lost Brothers have lost their minds, they still have all their training and a large reserve of Stealth Boys. Every once and a while they will disrupt our territory with random attacks."
+  mxc_circle_schism_1:0 "§9Put Down The Circle§!"
+  mxc_circle_schism_1_desc:0 "Hunting down and putting down our lost Brothers will have a harsh impact to our morale, but without constantly looking out for these outcasts we can begin to look for ways to fill their loss in our ranks."
+  mxc_circle_schism_2:0 "§9The Cure For Their Madness§!"
+  mxc_circle_schism_2_desc:0 "It will take some time but with the medical wonders of the Boulder Dome at our disposal we can cure our lost Brothers."
+
+    #Robot City §1#
+  mxc_robot_city_1:0 "§1Clear The Outskirts§!"
+  mxc_robot_city_1_desc:0 "Robot City is still in ruins and crammed full of random robots in various states of disrepair, we need to clear our way into the city itself."
+  mxc_robot_city_2:0 "§1Secure The Interior§!"
+  mxc_robot_city_2_desc:0 "We're getting close to the source of the signal. The longer we wait the longer we will have to deal with disruptive robots answering this call."
+  mxc_robot_city_interior_hh_factory:0 "§1Get The Local H&H Tool Factory Running Again§!"
+  mxc_robot_city_interior_sams_auto:0 "§1Salvage Parts And Blueprints From Sam's Auto Parts§!"
+  mxc_robot_city_3:0 "§1Drive Doki Away§!"
+  mxc_robot_city_3_desc:0 "The headquarters of this "Doki Doki" has been found, we need to force her from the city along with the robots gathered around her for this to end."
+  mxc_robot_city_4:0 "§1Secure Doki§!"
+  mxc_robot_city_doki:0 "§1Doki's Call§!"
+  mxc_robot_city_doki_desc:0 "The call of a feminine robotic voice, robots answering this call will continue to be an issue until we can find a way to shut down the signal, then we can secure the city itself."
+
+    #Bastion §2#
+  mxc_scorpions_sting:0 "§2A Scorpions Nature Is To...§!"
+  mxc_scorpions_sting_desc:0 "Even in defeat the remnants of the Scorpions Bite are planning a destructive exodus from their former territory. We need to track down and destroy them before they can do this, only then can we secure the region."
+  mxc_scorpions_a:0 "§2Set Up Roadblocks§!"
+  mxc_scorpions_a_desc:0 "It will take a bit of time and a shifting of our resources but setting up roadblocks to prevent easy exit will help us corner the Scorpions."
+  mxc_scorpions_b:0 "§2Take Down Outriders§!"
+  mxc_scorpions_b_desc:0 "The Scorpions manage to evade us by having mobile scouts on light vehicles giving information back to the main group, if we can take them out the others will be blind."
+  mxc_scorpions_c:0 "§2End Of The Line§!"
+  mxc_scorpions_c_desc:0 "With their movements limited and scouts taken care of we can finally assault the gathered remnants and annihilate them before it's too late."
+    #Country Flag#
+  scorpions_stomped:0 "§2The Scorpions Are Destroyed§!"
+  scorpion_nature_complete:0 "§2The Scorpions Have Fled§!"
+
+    #New Sterling §3#
+
+  mxc_iron_tithe:0 "§3The Highest Bidder§!"
+  mxc_iron_tithe_desc:0 "The remnants of the Iron Alliance are still out there, and if we don't act someone else will snap up their contracts."
+  mxc_bid_a:0 "§3The Iron Price§!"
+  mxc_bid_a_desc:0 "Though we are loathe to leave advanced tech in the hands of mercenaries the members of the Iron Alliance honor their contracts and remain in our land, if they're payed well."
+
+  mxc_iron_workers:0 "§3Hire Workers To Operate The Forges§!"
+  mxc_iron_workers_desc:0 "While the slaves who operated them managed to escape during the chaos of our conquest, the forges of the Iron Alliance are still mostly intact. Hiring on some wastelanders to process the raw material that remains in New Sterling could give us a boost to our industry while the stockpiles last."
+
+  mxc_iron_hiring_a:0 "§3Hire "The Brethren Malevolent"§!"
+  mxc_iron_hiring_a_desc:0 "Though most of the mercenary bands of the Iron Alliance were crushed in our advance into their territory a few veteran units managed to survive and regroup, and are perfectly willing to fight for us if they're well payed."
+  mxc_iron_hiring_b:0 "§3Hire "The Favoured Reapers"§!"
+  mxc_iron_hiring_b_desc:0 "Though most of the mercenary bands of the Iron Alliance were crushed in our advance into their territory a few veteran units managed to survive and regroup, and are perfectly willing to fight for us if they're well payed."
+  mxc_iron_hiring_c:0 "§3Hire "The Claws of Conquest"§!"
+  mxc_iron_hiring_c_desc:0 "Though most of the mercenary bands of the Iron Alliance were crushed in our advance into their territory a few veteran units managed to survive and regroup, and are perfectly willing to fight for us if they're well payed."
+
+    #Country Flag#
+  mxc_bid:0 "§3Iron Alliance Hired§!"
+  sour_ties_with_suf:0 "The Summers Federation won't be happy we're turning out their merchants"
+
+  #Decision Flags#
+    #Circle Of Steel#
+  maxson_circle_killed:0 "§RPut down our brothers and sisters.§!"
+  maxson_circle_cured:0 "§GWe've found a way to save them.§!"
+
+    #Robot City#
+  rob_outskirts_secured:0 "§1Robot City Outskirts Secured§!"
+  rob_interior_secured:0 "§1Robot City Interior Secured§!"
+  doki_decision:0 "§1Decision Has Been Made§!"
+    #Country Flag#
+  rob_secured:0 "§1Robot City Is Secured§!"

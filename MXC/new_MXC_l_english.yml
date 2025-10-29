@@ -1,0 +1,122 @@
+﻿l_english:
+
+ #############
+ ### Ideas ###
+ #############
+ 
+ mxc_the_war_with_the_dogs:0 "Hangdogs-Brotherhood War Recovery"
+ mxc_the_war_with_the_dogs_desc:0 "We tried to fight them at Dog City. We failed. Now, we gather strength in the bunker, licking our wounds and hoping the ceiling doesn't cave in. \n\n Things can't get much worse..."
+ 
+ ##################
+ ### Focus Tree ###
+ ##################
+ 
+ #####################
+ ### Starting Foci ###
+ #####################
+
+  mxc_1:0 "The Maxson Bunker"
+  mxc_2:0 "Hanged by the Dogs"
+  mxc_3:0 "Alone in the Dark"
+
+  mxc_squad_delta:0 "Oak Squad"
+  mxc_squad_delta_desc:0 "Oak Squadron was one of the squads lost in the Hangdogs War. After a while of being trapped within the Iron Alliance's demesne, they've found their way back home!"
+  mxc_squad_omega:0 "Birch Squad"
+  mxc_squad_omega_desc:0 "Birch Squadron ended up stranded in the Rocky Mountains after having been chased by raiders and scavengers from Dog City. After months away, they've finally returned home... The survivors, anyway."
+
+ #########################
+ ### Tooltips For Foci ###
+ #########################
+
+  mxc_maxson_bunker_tt:0 ""§g...A home away from home, for all of us." --Andrea Brixley§!"
+  mxc_delta_tt:0 "§YOak Squadron§! will find its way §Ghome!§!"
+  mxc_omega_tt:0 "§YBirch Squadron§! will find its way §Ghome!§!"
+  mxc_traitor_tt:0 "§RWe will confront the traitor and decide their fate!§!"
+  mxc_corsetti_tt:0 "§YJerry Corsetti§! will be available as a §Gunit leader§!!"
+  mxc_doki_oob_tt:0 "§YGALIVANT§! will contact §PDoki§! and §Grequest a unit§! to support us!"
+
+ #######################################
+ ### Act I - Disaster After Disaster ###
+ #######################################
+
+  mxc_the_bunker:0 "The Maxson Bunker"
+  mxc_the_bunker_desc:0 "This bunker was here before all of us. With any luck, it'll be here long after us, too."
+
+  mxc_cleaning_armor:0 "Refitting Armor"
+  mxc_cleaning_armor_desc:0 "After the war with the Hangdogs, many of our suits of power armor were damaged beyond reasonable use. Whatever any given suits reason may be, we ought to dedicate some time to restoring which ones we can."
+
+  mxc_the_old_guns:0 "What They Left Us"
+  mxc_the_old_guns_desc:0 "Dog City had many treasures, many of which were uncovered by our Knights in times gone by. Various pieces of old-age energy weapons are in our holdings; perhaps we could rebuild, or even retrofit some parts into working condition?"
+
+  mxc_scrap_runs:0 "Scrapping Runs"
+  mxc_scrap_runs_desc:0 "Resources are king, especially whilst we are in such a dry spell. Dedicated scavenging teams would go a long way to procuring the metal and scrap we need to maintain ourselves."
+
+  mxc_the_investigation:0 "The Investigation"
+  mxc_the_investigation_desc:0 ""Whoever they are, I know that they're one of ours. If they had any integrity to begin with, they'd have come out and said it-- but it seems we're not all so capable of respect." --Glenn Deering"
+
+  mxc_the_traitor_found:0 "A Traitor Among Us"
+  mxc_the_traitor_found_desc:0 "Andrea's fate, and the Maxson bunker's future, is decided here and now. \n\nLet's hope it's for the best."
+
+  mxc_emergency_power:0 "Activating Emergency Power"
+  mxc_emergency_power_desc:0 "GALIVANT has recommended turning on emergency power. Given what little we have left from the Hangdogs, it'd be a great help to be able to see without a helmet light."
+
+  mxc_clearing_the_infestation:0 "Securing the Lower Levels"
+  mxc_clearing_the_infestation_desc:0 "As if things couldn't get worse, a Radroach infestation has cropped up within the lower levels of the Maxson Bunker. GALIVANT and a few of the Knights have been assigned to "cleaning duty," for lack of a better term, but sparing more of our men to deal with it would go a long way."
+
+  mxc_troubles_with_greenhousing:0 "Greenhousing 101"
+  mxc_troubles_with_greenhousing_desc:0 "Greenway Hydroponics had a significant presence in Colorado before the bombs fell. Though we don't understand the far extents of their work yet, taking their knowledge of industry and agriculture and teaching it to our own would help increase our post-Hangdogs sustainability in the region."
+
+  mxc_colorado:0 "Colorado Blues"
+  mxc_colorado_desc:0 "Colorado is a cruel place. The entire state is full of raiders and would-be despots; our dealings, then, with the people are paramount in painting our image."
+
+  mxc_approaching_robot_city:0 "Doki meets Maxson"
+  mxc_approaching_robot_city_desc: "To the north, a city of robots has gathered."
+
+  mxc_trading_for_water:0 "Securing Water"
+  mxc_trading_for_water_desc:0 ""
+
+  mxc_taking_weapons:0 "Disarming Locals"
+  mxc_taking_weapons_desc:0 ""
+
+  mxc_radio_tower:0 "Radio Technicalities"
+  mxc_radio_tower_desc:0 ""
+
+  mxc_radio_tower_built:0 "Establishing a Communication Outpost"
+  mxc_radio_tower_built_desc:0 ""
+
+  mxc_gathering_caps:0 "Like Taking Candy From A Baby"
+  mxc_gathering_caps_desc:0 ""
+
+  mxc_taking_what_we_want:0 "Taking What We Want"
+  mxc_taking_what_we_want_desc:0 ""
+
+  mxc_support_from_the_people:0 "Support from the People"
+  mxc_support_from_the_people_desc:0 ""
+
+  mxc_tamara_young:0 "Tamara Young"
+  mxc_tamara_young_desc:0 ""
+
+  mxc_sharing_the_land:0 "Sharing the Land"
+  mxc_sharing_the_land_desc:0 ""
+
+  mxc_dealing_with_dogs:0 "Dealing with the Dogs"
+  mxc_dealing_with_dogs_desc:0 ""
+
+  mxc_appointing_corsetti:0 "Appointing Corsetti"
+  mxc_appointing_corsetti_desc:0 ""
+
+  mxc_approaching_claim_jumpers:0 "Approaching Claim Jumpers"
+  mxc_approaching_claim_jumpers_desc:0 ""
+
+  mxc_diversifying_production:0 "Diversifying Production"
+  mxc_diversifying_production_desc:0 ""
+
+  mxc_stealth_boys:0 "Utilizing Stealth Boys"
+  mxc_stealth_boys_desc:0 ""
+
+  mxc_trial:0 "Trials in Training"
+  mxc_trial_desc:0 ""
+
+  ##andrea route
+
+  mxc_andrea:0 "Waking Up, to Ash & Dust"

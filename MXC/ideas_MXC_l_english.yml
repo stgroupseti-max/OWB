@@ -1,0 +1,81 @@
+﻿l_english:
+
+  maxson_circle_schism:0 "The Outcasts Of Steel"
+  maxson_circle_schism_desc:0 "Our Brothers and Sisters who succumbed to the effects that prolonged Stealth Boy usage can have on the human psyche. While they do not oppose us directly they do disrupt the lives of those under our protection, and were a sizable amount of our forces before they split off."
+
+  maxson_circle_schism_cured:0 "The Circle Of Steel"
+  maxson_circle_schism_cured_desc:0 "After finding the cure for their condition in the Boulder Dome we have now reconciled with our lost comrades, and with the adverse effects of Stealth Boys now nullified they can be used without worry."
+
+  maxson_hangdog_defeat:0 "Hangdog Defeat"
+  maxson_hangdog_defeat_desc:0 ""
+
+  maxson_industry_1:0 "Production Overseers"
+
+  maxson_industry_2a:0 "Power Armor Focus"
+
+  maxson_industry_2b:0 "Infantry Weapon Focus"
+
+  maxson_failure_army_1:0 "Weapon Recovery"
+  maxson_failure_army_1_desc:0 ""
+
+  maxson_failure_army_2:0 "Drill Sergeants"
+  maxson_failure_army_2_desc:0 ""
+
+  maxson_walsh_militia:0 "New Syracuse Militia Garrison Support"
+  maxson_walsh_militia_desc:0 ""
+
+  maxson_failure_army_3:0 "Army Equipment Production"
+  maxson_failure_army_3_desc:0 ""
+
+  maxson_failure_industry_1:0 "Fortify and Rebuild"
+  maxson_failure_industry_1_desc:0 ""
+
+  maxson_failure_industry_2:0 "Fortification Experts"
+  maxson_failure_industry_2_desc:0 ""
+
+  maxson_ironmen_a:0 "Iron Alliance Remnants"
+  maxson_ironmen_a_desc:0 "After their defeat and without a leader some of the Iron Alliance members were willing to join our forces, we chose the most dependable and "honorable" to bring into the fold. With the amount of enemies we face a force of expert power armor users can't be turned down. \n \n§RThey still want to be paid for their services of course."
+
+  maxson_ironmen_b:0 "Iron Alliance Resources"
+  maxson_ironmen_b_desc:0 "The Iron Alliance mercenaries managed to aquire an incredibly impressive stockpile of resources from their contracts and slave labor. Not just for repairing power armor, though we will be taking any components that could be used for our own. Those slaves have now run off during the conflict but the stockpiles are still immense and can be brought to our bunkers for our own purposes."
+
+  maxson_ghouls:0 "Captain Zhang's Doctrine"
+  maxson_ghouls_desc:0 "Captain Zhang has led his men for a little over 200 years surviving and fighting using the scraps of the scraps. Even with his recent schism the expertise he and his men have is invaluable to us. With the agreement to join our command staff in return for his remaining men being spared we can now utilise the accumulated centuries of experience and apply it to our own forces. \n \n §REven if the language and cultural barriers make things difficult at times."
+
+  maxson_airborne:0 "Brotherhood Airborne Tactics"
+  maxson_airborne_desc:0 "With additional training and a redesigned kit our power armor units can now strike territory more effectively when using our aerial transports."
+
+  maxson_air_a:0 "Blimp Focus"
+  maxson_air_a_desc:0 "Having our scribes and manufacturing focus on Blimps will result in faster production and more effective designs."
+
+  maxson_air_b:0 "Transport Focus"
+  maxson_air_b_desc:0 "Having our scribes and manufacturing focus on Transports will result in faster production and more effective designs."
+
+  maxson_combined_idea_b:0 "Integrated "Allies""
+  maxson_combined_idea_b_desc:0 "We have hammered out most of the differences between us and some of our conquered enemies. Former Iron Alliance members have officially joined the Brotherhood. Most of our command staff have become bilingual to better communicate with Captain Zhang and his men."
+
+  maxson_warden_patrols:0 "WARDEN Of Colorado"
+  maxson_warden_patrols_desc:0 "After some extensive debate we have convinced WARDEN that we are a detachment of the United States Army here to occupy Denver. It's technically correct, the best kind of correct. With WARDEN's help we will have a fully automated prison and punishment system in place to help us with pacifying the wastes."
+
+  maxson_expedition_fervor_idea_1:0 "Colorado Knights"
+  maxson_expedition_fervor_idea_1_desc:0 ""
+
+  maxson_expedition_fervor_idea_2:0 "Colorado Paladins"
+  maxson_expedition_fervor_idea_2_desc:0 ""
+
+  maxson_boulder_zax:0 "ZAX 1.2c"
+
+  maxson_final_defense:0 "Our Home, Our Fortress"
+
+  maxson_lanius_war:0 "The Legion War"
+
+  maxson_final_attack:0 "The Expedition Never Ends"
+
+maxson_temp_production_buff:0 "Doki Doki Heavy Industry Club"
+
+maxson_temp_research_buff:0 "Doki Doki Scientific Nomenclature Club"
+
+maxson_temp_dan_buff:0 "Dan Rivers At Your Service"
+
+maxson_vault0_claimed:0 "Vault 0"
+maxson_vault0_claimed_desc:0 "Even without the Calculator running things Vault 0 is an incredibly valuable facility for us to hold onto."

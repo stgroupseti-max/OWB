@@ -1,0 +1,418 @@
+﻿l_english:
+
+  ###character
+
+  MDM_penny_name:0 "Penny"
+  MDM_penny_desc:0 "Everybody's favorite mascot is still here! Just as she is the face of Middlemark (TM), she is also the name of the sophisticated machine running the whole company network. Though she's had two centuries to increase sales, she's had to do so by cutting off more and more faculties of the original facility, leaving them to rot away as her reach gradually declined. \n\nHowever, with the help of some new friends, Middlemark may yet again break shareholder expectations..."
+
+  MDM_friar_black_name:0 "Friar Black"
+  MDM_friar_black_desc:0 "Friar Black has seen it all, from the downfall of the original managers to the exodus of the Miscounts. He may be a bit loonier than he used to be ever since he started wearing a television set like a helmet, but he's still got a knack for killing, maiming, and arson (through the form of incredible fire sales), especially when it comes to Wardens of the White. \n\nHe really, really hates the Wardens of the White."
+
+  MDM_warden_name:0 "Petty Officer Kyler Rooker"
+  MDM_warden_desc:0 "When Seattle got hit by the Immortal, Petty Officer Kyler Rooker ran as far as he could east, hoping to weather the storm and escape 'Purgers and other opportunists. What he didn't expect, however, was running into Miscounts near Lethbridge. After the rest of his squad was tortured to death, he made a desperate plea-- "keep me alive, and I'll help make the moon shine cherry red." Nobody knew what he meant by that, but Friar liked the sound of it and said "welcome aboard." \n\nOf course, just because he's on good terms doesn't mean he's off the hook-- but every raider needs a punching bag now and then, don't they?"
+  MDM_warden_advisor_desc:0 "When Seattle got hit by the Immortal, Petty Officer Kyler Rooker ran as far as he could east, hoping to weather the storm and escape 'Purgers and other opportunists. What he didn't expect, however, was running into Miscounts near Lethbridge. After the rest of his squad was tortured to death, he made a desperate plea-- "keep me alive, and I'll help make the moon shine cherry red." Nobody knew what he meant by that, but Friar liked the sound of it and said "welcome aboard." \n\nOf course, just because he's on good terms doesn't mean he's off the hook-- but every raider needs a punching bag now and then, don't they?"
+
+  MDM_metal_mark_name:0 "Metal Mark"
+  MDM_metal_mark_advisor_desc:0 "In the third fiscal quarter of 2074, it was internally announced that Middlemark would be introducing a new mascot to serve as a companion to Penny. The new mascot, Mark, would serve as Penny’s robot boyfriend in a move investors were hoping would boost attendance through franchising. Plans had been hastily drafted to branch out into merchandise like toys, and a saturday morning cartoon, which had only one of its intended fifty episodes animated. Mark was created with the intent of being the perfect boyfriend, as well as a counterpart to Penny that appealed to boys in the 7-12 age range, embodying the adventurous qualities of both spacemen and cowboys that were popular at the time, while also programmed to be a doting partner who deferred to Penny. His deferential qualities were unpopular with the target audience, however, and he was quickly shelved due to abysmal results in the early phases of his focus testing. His costly development meant destroying him would cost Middlemark greatly and so he was instead relegated to backroom functions, strictly programmed to work in direct service to Penny."
+
+  MDM_nickel_and_dime_name:0 "Nickel And Dime"
+  MDM_nickel_and_dime_advisor_desc:0 "Fraternal twins, the brother and sister pair of Nickel and Dime have been considered Miscounts since birth. Raised by a single father, a respected Manager on Seattle's west side, their upbringing was strict in the ways of the raiders. By the time they were 11 they could price check kids twice their size, and working together they could get a grown man on his knees.\n\nWhen the Wardens rolled into the city, crushing all opposition with their iron fist, the two lost everything. Their home was stolen, and their father was captured and executed in the name of "law and order". Kept alive on the road to Calgary as much by spite as anything, they were among the first group to lay eyes on the massive shopping center that would become the gang's new haven.\n\nNow old enough to start leading a team of their own, the inseparable pair have become rallying figures for all those that desire vengeance on the Wardens of the White, no matter the cost."
+
+  MDM_bill_banks_name:0 "Bill Banks"
+  MDM_bill_banks_advisor_desc:0 "§N"You snotnosed youngins don't know a damn thing! You think I got the title of Manager from a fire sale? When I was your age, I forcefully acquired so much merchandise from Koover we bought the Maw out of jet that summer! With nothing but a rusty combat knife, I carved bar codes in the bodies of so many Rib Breakers they wouldn't come within a dozen miles of my store! And now look at me! A Greeter! You're lucky I can't remember where I stocked my pistol..."§!\n\nBill was the oldest Manager back in Seattle, possibly the oldest member the Miscounts have ever had. Stubborn fool he is though, his was the last crew to flee the city when the Wardens rolled in. By the time the gang made it over into Alberta he didn't have an employee to his name; they all either perished or flipped employers. Most folks couldn't tell you if Friar keeps him around out of respect or pity. Even giving him the rank Greeter is a formality; he listens to no one, and no one listens to him (they also won't give him ammo after what happened last time). Still, even as his mind goes, he's a staunch reminder of what makes a Miscount: swearing, salt, and threats of impending violence."
+
+  MDM_ira_tenner_name:0 "Ira Tenner"
+  MDM_ira_tenner_advisor_desc:0 "When the Miscounts were hired by Penny, many a strange job was handed out by the face of Middlemark. Anything the automation had broken down on was needing a fresh body, and somehow Ira was put in charge of the sandwich shop in the food court, even if the bread, veggies and meats had gone bad decades ago. Some may have taken this position as an insult, and Ms. Tenner sure as hell did. So after some yelling, hijinks, and bodies piled up, Friar Black put her in charge of all the food supplies in the mall. She took to the position well, with a sharp mind (and iron fist) for rationing the food the raider crews steal or trade loot for. Now you listen to her, or you're lucky to even get served the bad sandwiches for your meals. The ones with end pieces on both sides."
+
+  MDM_grygoriy_kovalenko_name:0 "Grygoriy Kovalenko"
+  MDM_grygoriy_kovalenko_advisor_desc:0 "§G"You smoothskins wanna learn how to survive aye? Well, gather round, let an old employee give you a lesson. Survival is in my blood. Or, eh, in what's left of my blood. My father was a survivor, my grandfather was a survivor, as was every man before him, all the way back to the old country. So, pay attention, and maybe you will live long enough to become more than a shelf-stacker."§!\n\nGrygoriy is an old ghoul, one of the few employed at Middlemark. The son of a Ukrainian immigrant, he claims to be descendent of a long line of survival experts, having lived through some of the hardest moments in history as great military leaders. Most people he talks to don't know what a Ukraine is, but hey, it sounds impressive. Having actually worked at Middlemark before the war, Grygoriy survived the bombs and quickly established himself as a local leader in his community. When the signs of early onset ghoulification began to show, he saw the writing on the wall and took off with a few of his fellow unfortunates, quickly turning to the raider way in order to sustain themselves. Centuries passed, yet he continued on. When he saw the lights inside his old store lit up once again, his old, quite literally, withered heart felt the pangs of a lost lover. Quickly impressing the Miscounts with his savvy business knowledge and survival skills, Grygoriy now once again patrols the aisles, like he did so long ago."
+  ###traits
+
+  mdm_penny_trait:0 "Everyone's Favorite Mascot!"
+
+  mdm_slayer_of_the_wardens_trait:0 "Slayer of the Wardens"
+
+  mdm_store_manager:0 "Store Manager"
+
+  mdm_not_kenough:0 "Penny's Proposed Partner"
+  mdm_twin_vengence:0 "Orphaned By Wardens"
+  mdm_greeter_now:0 "Back In My Day"
+  mdm_sandwich_counter:0 "Deli Counter"
+  mdm_old_world_survivalist:0 "Old World Survivalist"
+
+  ### opinion modifiers
+
+  mdm_wardens:0 "Old Rivalries"
+  mdm_miscounts:0 "Miscounts Survived"
+  mdm_patriots:0 "American Patriots!"
+  mdm_america:0 "An Envoy of America"
+  mdm_loyal_american_company:0 "Loyal American Company"
+  mdm_occupied_land:0 "On Blood Tribe Land"
+
+  ### ideas
+
+  mdm_old_automation:0 "Aging Automation"
+  mdm_old_automation_desc:0 "Historically, Middlemark has prided itself on its various self-sustaining workshops... but, like most things, in recent times they've rusted into uselessness. With some tender love and care, they may just come back to life once again. After all, robots have always been wonderful at stocking store shelves!"
+
+  mdm_scarred_by_wardens:0 "Scarred by Wardens"
+  mdm_scarred_by_wardens_desc:0 "Once upon a time, the Miscounts were the greatest enemy of the Wardens of the White. For years, they've been licking their wounds, but Middlemark's an opportunity and a half. As if things couldn't line up any better, the Wardens were just beaten out of Seattle. \n\nLooks like things might just go our way again..."
+
+  mdm_outsourcing:0 "Outsourcing Issues"
+  mdm_outsourcing_desc:0 "In the past, Middlemark has had its network too tangled up in other companies now-dormant archives per various company outsourcing endeavors."
+
+  mdm_gardener_slaves:0 "Wage Slaves"
+
+  mdm_sandstone_buildings:0 "Paskapoo Sandstone"
+  mdm_sandstone_buildings_desc:0 "With so much of the sandstone under Alberta now employed by the Miscounts, history has been united once again by past and present. The sandstone itself takes its name from the Blindman River (Paskapiw meaning 'He is blind' in Cree) and can be utilized for fire-resistant buildings, allowing Calgary citizens and tourists to better warm their bones outside of the Middlemark Megaplex."
+
+  mdm_managers:0 "The Old Managers"
+  mdm_managers_desc:0 "The old managerial staff were mostly desposed or decimated by the Wardens of the White, leaving much of the Miscounts oral history records lost. Now, the remnants seek vengeance on their ancient enemies, in the name of their teachers and parents."
+
+  mdm_a_badge_for_everybody:0 "Everybody Gets a Badge"
+  mdm_a_badge_for_everybody_desc:0 "In Middlemark, for authorization purposes, one must always be "in-uniform" on private company property. That means a name badge and corresponding pin, unless you want Asset Protection down your throat!"
+
+  mdm_shelf_stockers:0 "Shelf Stockers"
+  mdm_shelf_stockers_desc:0 "Zoning can't fix every problem-- you need people to actually stock the shelves for customers!"
+
+  mdm_franchisees:0 "Franchisees"
+  mdm_franchisees_desc: "New locations, new locations, new locations. That's the key to expanded any qualified corporate empire!"
+
+  mdm_repair_station_upgrades:0 "Repair Station Upgrades"
+  mdm_repair_station_upgrades_desc:0 ""
+
+  mdm_asset_protection:0 "Asset Protection Upgrades"
+
+  mdm_asset_protection_2:0 "Asset Protection Upgrades"
+
+  mdm_asset_protection_3:0 "Asset Protection Upgrades"
+
+  mdm_middlemark_plus:0 "Middlemark+ Trial"
+  mdm_middlemark_plus_desc:0 "§CExplore Middlemark+ benefits§! \n\n§YMember savings on fuel§! \n§gSave up to 10¢ per gallon at thousands locations nationwide.§! \n\n§YMiddlemark Rewards for Members§! \n§gClaim special offers on everyday items to earn rewards for future savings.§! \n\n§YEarly access§! \n§gMembers enjoy special prices, product releases, earlier Black Friday deals & more.§! \n\nWhat are you waiting for? Subscribe today and start reaping those coupons, deals, and more immediately! \n\n*We reserve the right to rescind any of these benefits at any time to whomever we choose without refund. "
+
+  mdm_funding:0 "American Extortion"
+  mdm_funding_desc:0 "Our efforts in the Cult of Liberty and the Pioneer Company mean we get extra funding!"
+  mdm_funding_2:0 "American Extortion"
+  mdm_funding_2_desc:0 "Our efforts in the Cult of Liberty and the Pioneer Company mean we get extra funding!"
+
+  mdm_middlemark_support:0 "Middlemark Trade Relations"
+  mdm_middlemark_support_desc:0 "Middlemark trades with us to preserve American interests. Despite the raiders who are employed at the store, the loyalty of the company means we enjoy a healthy trade relationship."
+  mdm_middlemark_support_2:0 "Middlemark Trade Relations"
+  mdm_middlemark_support_2_desc:0 "Middlemark trades with us to preserve American interests. Despite the raiders who are employed at the store, the loyalty of the company means we enjoy a healthy trade relationship."
+
+  mdm_promotions:0 "Frequent Mover-Uppers"
+  mdm_promotions_desc:0 "Here at Middlemark, we specialize in a heightened form of recruitment. We seek only the best of the best, and we give promotions worthy of your time and effort here at the company. Wouldn't you just love to join us?"
+
+  mdm_amped_production:0 "Marketron Maximization"
+  mdm_amped_production_desc:0 "Here at Middlemark, our asset protection teams work tirelessly to ensure low prices... By any means necessary."
+
+  mdm_wardens_twin_hate:0 "Orphaned By Wardens"
+
+  mdm_awab:0 "All Wardens Are Bad"
+
+  mdm_miscounts_repurposing:0 "Old Miscounts Know How!"
+  mdm_miscounts_repurposing_desc:0 "We've walked the block and done the talk before. If it is one thing we know, it is how build up for a good old war."
+
+  mdm_nukacola_refreshment:0 "The sweet refreshment of a Nuka Cola!"
+  mdm_bobblehead:0 "Limited Edition Polly Bobblehead!"
+  mdm_pizza:0 "Joys of a Pizza Party!"
+  mdm_aristocracy:0 "A taste worth savouring!"
+  mdm_captain:0 "Liquid Courage!"
+  mdm_happy_emp:0 "A Happy Employee!"
+
+  ### tooltips and flags
+
+  vsh_wardens_kicked_out:0 "The §YWardens of the White§! have been §Rkicked out§! of §O[VSH.GetNameWithFlag]§!!"
+
+  MDM_twin_hate_idea_add_tt:0 "Add §GOrphaned By Wardens§!, which grants ((§Y[TOC.GetNameWithFlag]§!) Attack bonus against countries: §G+3%§!), (§Y[TOC.GetNameWithFlag]§!) Defense bonus against countries: §G+5%§!)\n((§Y[VSH.GetNameWithFlag]§!) Attack bonus against countries: §G+3%§!), (§Y[VSH.GetNameWithFlag]§!) Defense bonus against countries: §G+5%§!)\n((§Y[PAS.GetNameWithFlag]§!) Attack bonus against countries: §G+3%§!), (§Y[PAS.GetNameWithFlag]§!) Defense bonus against countries: §G+5%§!)"
+  MDM_twin_hate_idea_remove_tt:0 "Remove §ROrphaned By Wardens§!"
+
+  ### events
+
+  nf_mdm.1.t:0 "Fully-Automated and Fully-Stocked"
+  nf_mdm.1.d:0 "For years, Middlemark (c) has helped the local government within Calgary run the city from top to bottom. From our patented auto-track enabling an easy, sustainable means of traveling through the inner city (at a reasonable fee, of course) to our various gas stations and submarkets, you can count on Penny (TM) to bring you small parts of the future, big time! \n\nOur various markets and supply lines have remained intact despite strange implications of heightened radiation outside. Whatever the case may be, so long as you have our patented Middlemark Coins or Middlemark Tickets, we will have what you need-- guaranteed!"
+  nf_mdm.1.a:0 "What a wonderful place!"
+  nf_mdm.1.b:0 "The shelves are so well-stocked!"
+  nf_mdm.1.c:0 "I sure do hope they don't own the government!"
+
+  nf_mdm.2.t:0 "Raiders, From Out Beyond"
+  nf_mdm.2.d:0 "Today marks a significant day in company history: for the first time in one-hundred-and-ninety-eight years, Middlemark is proud to announce the employment of humans once again! \n\nWith a large influx of migrants from Seattle, our employment rate has absolutely skyrocketed, and we were already the number one employer in the Canadian Prairies! \n\nPlease note that any and all new personnel are required to wear badges at all times when on company property for the purposes of identification. In lieu of asset protection, all employees are authorized to distribute lethal force against shoplifters if necessary. (*) \n\n ( This form is Classified Company Secret, and if it is distributed in any fashion, we retain the right to legally retaliate. )"
+  nf_mdm.2.a:0 "All new personnel will be provided with standard issue company weaponry."
+  nf_mdm.2.b:0 "To protect our employees, additional Marketrons will be deployed."
+
+  nf_mdm.3.t:0 "Bones to Pick"
+  nf_mdm.3.d:0 "Though the Miscounts are always 'happy to help,' they didn't come to Middlemark to play games and go right back to how things were. Sure, it's nice having a steady gig and a supportive boss, but as far as vengeance goes? Yeah. Yeah, they're really pissed off. Some of them don't believe they can do it, thinking the scars the Wardens gave them ran too deep-- but others? Oh, others asked the most important question of all. "What if we can do it all over again?" \n\nThe worst part? \n\nA lot of people said 'yes.'"
+  nf_mdm.3.a:0 "Hell yeah, kickass!"
+  nf_mdm.3.b:0 "With H.R.'s help..."
+  nf_mdm.3.c:0 "Happy to get help."
+
+  nf_mdm.4.t:0 "The Needle Once Meant Miscounts"
+  nf_mdm.4.d:0 "Seattle was not always home to the Brotherhood. It wasn't even always home to the Wardens. Before them, the Miscounts reigned supreme: a gang of raiders who thrived off of a sort of retail aesthetic, using modified price guns and bombs made out of cleaning supplies to terrorize and gather what they needed from the settlers. \n\nOf course, when the Wardens started cracking down on 'gang violence,' the Miscounts days were numbered. They gave them as much hell as they could, but the Wardens had the numbers, and so they were pushed out of the state. \n\nOf course, Middlemark was as natural a home as they could get-- and Penny was more than willing to let them have a slice of paradise, provided they became registered employees, badge and all. \n\nWith the Wardens gone from Seattle, and with the 'Immortal' now in their place, it seems the cards are falling back into the Miscounts favor..."
+  nf_mdm.4.a:0 "Perhaps all that was can be once again."
+  nf_mdm.4.b:0 "Perhaps the future is closer than we think."
+  nf_mdm.4.c:0 "Perhaps our break is over."
+
+  nf_mdm.5.t:0 "The Mountaineers"
+  nf_mdm.5.d:0 "The Mountaineers of the Passkeepers have always been a quiet sort, staying out of the way of Wardens and Miscounts alike for most of their existence. Of course, that had recently changed-- with the word on the wind saying that Wardens were with them now. Goody-two-shoes Wardens, too. Some bitch with a nice smile and a look for helping people. \n\nNobody's saying anything has to happen to them, of course. Whatever this 'Foxtrot Uniform' means, it probably ain't bad for us. But it wouldn't be a bad idea to think about it..."
+  nf_mdm.5.a:0 "Every Warden must die."
+  nf_mdm.5.b:0 "Let them rot in the mountains."
+
+  nf_mdm.6.t:0 "Stragglers & Survivors"
+  nf_mdm.6.d:0 "It turns out that not all the Wardens were so lucky in their retreat. Some of them got stuck and broke down just south of Store 0, down in Lethbridge, by those Culty fucks down south. Chances are we got the drop on them. What do you think we should do, boss?"
+  nf_mdm.6.a:0 "Kill every last one of them."
+  nf_mdm.6.b:0 "Offer them a new flag."
+
+  nf_mdm.7.t:0 "A Warden's Worst Nightmare"
+  nf_mdm.7.d:0 "An offer came into town today, simple and sweet, complete with a Middlemark envelope stamp: "Let Us Kill The Wardens Or Else". \n\nTalks with Mary Mulligan indicate that a former enemy group of the Wardens, the 'Miscounts,' have shacked up inside the old retail store, setting up a slaver den. War with them would surely be costly-- what should we do?"
+  nf_mdm.7.a:0 "We do not negotiate with 'Miscounts'."
+  nf_mdm.7.b:0 "The Wardens are already too much trouble..."
+
+  nf_mdm.8.t:0 "Safehaven Kicks Out The Wardens!"
+  nf_mdm.8.d:0 "Our demands were met! The Wardens were forced to leave Safehaven, and they ran right into our patrols. They never stood a chance. \n\nWhat comes around goes around, right?"
+  nf_mdm.8.a:0 "Bastards deserved it."
+
+  nf_mdm.9.t:0 "Middlemark sends supplies!"
+  nf_mdm.9.d:0 "Marketrons from Middlemark carrying supplies came to our borders bearing the sigil of their company mascot, Penny. They've left them with claims to "fund true American patriots!""
+  nf_mdm.9.a:0 "How generous!"
+
+  nf_mdm.10.t:0 "Middlemark Grand Re-Opening!"
+  nf_mdm.10.d:0 "While Middlemark has always been open to the public, their Store 0 location in Calgary has just sent out signals discussing a 'grand reopening', urging customers and curious prospecting sorts alike to go and take a look at their vast array of discounted luxuries and must-have items. \n\nThe signal, of course, also urges customers to not feel intimidated by the raiders employed there, citing 'their bite has been entirely removed.' \n\nThe signal was promptly followed by an apology regarding the assault of a customer who claimed to be a Warden of the White."
+  nf_mdm.10.a:0 "Wow, I can't wait to go!"
+
+  nf_mdm.11.t:0 "Just Like Home, But Far Away"
+  nf_mdm.11.d:0 "The boys scouted out the old tower, out on 9th. Reminded everyone of the needle just as much as we thought it would. We found enough food in there before Middlemark that helped us make it by in the old city, but there were a bunch of old shitty boxes left around. Talking to Penny about it, it sounds like someone bought the tower, but never moved in-- something about a 'Nordikon'. Whatever that is. \n\nThey only left a handful of toys for us to make use out of, but Penny tells us the company went looking somewhere else, out east. Wonder if they ever got it finished... Might not be a bad target some other time."
+  nf_mdm.11.a:0 "Too many jarred brains!"
+
+  nf_mdm.12.t:0 "DEALS! DEALS! DEALS!"
+  nf_mdm.12.d:0 "Have you ever wandered into a store and thought "is this the best price I can really find?" The answer is simple: not if you're not at Middlemark! \n\nFor centuries, Middlemark has endeavored to adapt and keep prices low in accordance with its competitors. Here at Middlemark, we like to make your life "more than possible." We here to make sure that common /cents/ wins out!"
+  nf_mdm.12.a:0 "What amazing discounts!"
+
+  nf_mdm.13.t:0 "No One Ever Really Dies"
+  nf_mdm.13.d:0 "Word on the wind carries with itself a notice of death and destruction: the age-old terror of Seattle, the Miscounts, have returned. Having survived with the assistance of an old living shopping mall north of the border, they will undoubtedly hunt down every last remaining Warden of the White in their quest for vengeance..."
+  nf_mdm.13.a:0 "Cry me a river."
+
+  nf_mdm.14.t:0 "Pizza Party!!!"
+  nf_mdm.14.d:0 "Congratulations on redeeming your Middlemark approved pizza themed celebration! You will be provided with three (3) cheese pizzas retrieved from overstock, ten (10) balloons while supplies last, and a pizza themed poster to display on the wall during the party! A special guest will also be dispatched to the party; Penny's erstwhile companion, Metal Mark! Metal Mark will deliver the pizzas and inflate the balloons, please do not interact with Metal Mark more than is necessary. \n\nAfter the party you are expected to clean up any mess and return the poster to Metal Mark for replacing in storage. The pizza party may only be activated during normal unpaid lunch periods and for no more than fifteen minutes. Have fun!!!"
+  nf_mdm.14.a:0 "I want a slice of the one with pepperoni!"
+
+  ##focus
+
+  mdm_1:0 "Middlemark Retail"
+  mdm_1_desc:0 "Middlemark has remained a stalwart beacon of the Calgary community since it pushed out its competition in the 2040s, and proud of it!"
+
+  mdm_2:0 "The Miscounts"
+  mdm_2_desc:0 "Raiders from out in Seattle, unshackled from their home by force. Now, they're happily employed!"
+
+  mdm_3:0 "Old Grudges, New Times"
+  mdm_3_desc:0 "The Miscounts never really gave up-- but they'll be employed at Middlemark happily. What's wrong with getting a little in-character sometimes?"
+
+  ## focus left
+
+  mdm_a_slavers_paradise:0 "A Slaver's Paradise"
+  mdm_a_slavers_paradise_desc:0 "Calgary is a big place, and Middlemark's tendrils run deep in it. With locations all across southern Alberta, we have plenty of places to set up outposts for our own little empire. Without any Wardens to fuck us over, the sky might just be the limit."
+
+  mdm_calgary_tower:0 "Investigate Calgary Tower"
+  mdm_calgary_tower_desc:0 "Calgary Tower's a weird thing, but might be a good spot to scope out. Penny says some other company was thinking about using it once before some bigwigs made them think twice-- but some of the initial settling-in may be still ripe for the picking."
+
+  mdm_slave_catchers:0 "Assign Slave Catchers"
+  mdm_slave_catchers_desc:0 "Some of our friends back in Oregon loved to show off these old pre-war hunks of junk. Called 'em "Mesmetrons." Supposedly, they help like a motherfucker when it comes to making somebody do what you want-- and we just found a whole shipment."
+
+  mdm_gather_collars:0 "Slave Collars"
+  mdm_gather_collars_desc:0 "Slaves need bomb collars. Well, they don't really, but it sure as hell keeps them in line. And besides, Penny's been haggling us for janitorial duties... We can easily throw a badge on a slave and say "go to town.""
+
+  mdm_lawn_and_garden:0 "Lawn & Garden"
+  mdm_lawn_and_garden_desc:0 "The Lawn & Garden section of Middlemark hasn't been doing so hot in the past century or so. With some slaves handiwork, we can salvage plants from around the place and control the supply from Store 0."
+
+  mdm_sandstone_quarries:0 "Sandstone Quarries"
+  mdm_sandstone_quarries_desc:0 "There are a bunch of old piece-of-shit quarries around here with something Penny calls 'sandstone.' She says due to the lack of zoning laws-- whatever that is-- we're free to set up whatever we want around 'em and let the slaves get to work mining it. Hell, we might be able to use this to make our own little place..."
+
+  mdm_putting_them_to_work:0 "Workin' In The Grinder"
+  mdm_putting_them_to_work_desc:0 "Counting inventory said we were down on guns since the Wardens kicked us out. Slaves are gonna help us right the numbers, one gun at a time."
+
+  mdm_slaver_dogma:0 "An Empire, Built By Slaves"
+  mdm_slaver_dogma_desc:0 "These slaves have helped us get back up off our feet in no time at all! We've got plenty of shit to just sit back and relax with now, so what say we don't crack open some cold ones for 'store use' and celebrate?"
+
+  mdm_even_more_for_the_slaughter:0 "Even More To Burn"
+  mdm_even_more_for_the_slaughter_desc:0 "More slaves means more guns being made. Simple mathematics, buddy. Just make sure to keep up your zone and verify your inventory every night."
+
+  mdm_miscounted_warden_stockpiles:0 "Miscounted Warden Stockpiles"
+  mdm_miscounted_warden_stockpiles_desc:0 "Wardens were never that great about tracking their equipment down. We still have plenty of their old shitty guns from before we got pushed out... Let's break out the pallet and play around, shall we?"
+
+  mdm_lethbridge_wardens:0 "Lethbridge Wardens"
+  mdm_lethbridge_wardens_desc:0 "Seems the Wardens scattered into the wind same as us. A small garrison of stragglers has been set up down in Lethbridge... No idea if they know what fuckin' Deathclaw den they've stumbled into. Let's go give them their online delivery and pick up service."
+
+  mdm_foxtrot_uniform:0 "The 'Foxtrot Uniform'"
+  mdm_foxtrot_uniform_desc:0 "There's Wardens in them mountains, but word down the avalanche is that they aren't flying the old flags. Are they worth it?"
+
+  mdm_enslaved_wardens:0 "Flipped Scripts"
+  mdm_enslaved_wardens_desc:0 "Over time, we've gotten more and more Wardens in our slave roster. Ain't it funny how that works? Well, some of them offered to help us out, and the boss is more than listening."
+
+  mdm_take_the_warehouse:0 "Take the Warehouse"
+  mdm_take_the_warehouse_desc:0 "The old company warehouses down by Lethbridge are easy pickings-- Penny says she might be able to get them up and running again if we can just get it cleaned up. Might help her with whatever tumor or hiccup her system's got."
+
+  mdm_memories_of_seattle:0 "Memories of Seattle"
+  mdm_memories_of_seattle_desc:0 "A long time ago, Seattle was home to the Miscounts... Then the Wardens kicked us out."
+
+  mdm_remember_the_managerial_staff:0 "Remember the Managerial Staff"
+  mdm_remember_the_managerial_staff_desc:0 "The Managers used to rule over each borough of Seattle and each town outside of it. How did we get there? No fucking clue. We're lucky the Olympians or the Yakama didn't fuck us up more than they did. Guess the Wardens just suckered us out once and for all."
+
+  mdm_reassess_profit_margins:0 "Reassess Inventory"
+  mdm_reassess_profit_margins_desc:0 "Yearly inventory was down. Let's send some of the guys into the backrooms and make sure our numbers were right."
+
+  mdm_contract_renewals:0 "Renewing Contracts"
+  mdm_contract_renewals_desc:0 "Bunch of our guys contracts are gonna expire soon-- let's make sure we give them their yearly bonus and incentivize them to stay with the crew."
+
+  mdm_paul_blart_mall_cop:0 "Middlemark-Branded Segways"
+  mdm_paul_blart_mall_cop_desc:0 "Plenty of segways are still left around and some of the boys got into them. Penny's more than endorsed us making use of these for protecting the 'Mart-- why don't we take some of 'em for a spin?"
+
+  mdm_sweepstakes:0 "Company Sweepstakes!"
+  mdm_sweepstakes_desc:0 "Penny's letting us draw straws-- something she calls "sweepstakes." Says it'll pick whatever's going in some of our coffers."
+
+  mdm_employment_drive:0 "The Employment Drive"
+  mdm_employment_drive_desc:0 "We need workers! Without a crew, what the hell are we gonna do? Penny says we need an employment drive, and Friar's completely in on it."
+
+  mdm_stocking_the_warehouse:0 "Stocking the Warehouse"
+  mdm_stocking_the_warehouse_desc:0 "Our guys keep munching on all this old pre-war shit from the shelves, and Penny's not too happy with it. Says "if an employee is going to eat on the clock, they need to replace what they ate." Mel, poor bastard, got clocked upside the head with a Marketron fist-- now he's in a coma. His own fault, though."
+
+  mdm_franchising:0 "We. Need. Franchising!"
+  mdm_franchising_desc:0 "Penny's talking about needing to 'branch out.' Suppose we can help find her new spots to open a new Middlemark?"
+
+  mdm_threaten_safehaven:0 "We'll Make Safehaven Listen"
+  mdm_threaten_safehaven_desc:0 "Turns out some of those Warden bastards were shacking up in Safehaven, right under our goddamn noses. If Showtime thinks she can foster bastards like that, well... Let's show 'em what we got planned."
+
+  mdm_miscounts_need_guns:0 "Check Inventory AGAIN"
+  mdm_miscounts_need_guns_desc:0 "These dumb motherfuckers can't use one of these old terminals to save their lives. Why the fuck do we have more guns than we have on inventory?! RUN THE NUMBERS, CHECK THE TRAILERS IN THE LOT, DAMN IT!"
+
+  mdm_hardware_upgrade:0 "Entering the 23rd Century"
+  mdm_hardware_upgrade_desc:0 "The security assets we purchased from that third party had missing links in our RobCo schematics! Can you believe it? In this day and age? Thankfully a budgetary addition has been made that allows for a modernization of current firmware."
+
+  mdm_im_done_being_scared:0 "Even They Couldn't Break Us"
+  mdm_im_done_being_scared_desc:0 "The Wardens did their best to kill us all, but we made it out. Now we're back, and they can't hurt us like they used to. \n\nMiddlemark's our own little bastion of badassery."
+
+  mdm_fund_montanan_raiders:0 "Layoff the Toaster-Makers"
+  mdm_fund_montanan_raiders_desc:0 "Penny's always been too damn focused on mass-producing kitchen appliances. What do we say, boys? Do we want toasters, or do we want big guns that kill dipshits!?"
+
+  mdm_miscounts_take_control:0 "The Miscounts are Back!"
+  mdm_miscounts_take_control_desc:0 "Remember when the worst thing you'd hear out in Cascadia would be a the chirp of a price gun? How we used to link 'em up to bombs and throw 'em into the street? Well, what if I told you that the Store Manager spoke to H.R., and we don't have to just remember it anymore? That's right, boys. \n\nWe're going home."
+
+  mdm_command_nav:0 "Independent Thinking"
+  mdm_command_nav_desc:0 "You know I'm tired of all these media hawks who are on outside corpo payroll saying we treat y'all as human vermin. That you can't even think on your own and that's how deep we've dug into your skull. Well I'll say it fellas. They're liars. Cheats! To prove them wrong we've implemented new communication measures between our bots to make sure they're of a unified mindset when confronting these whistleblowers."
+
+  mdm_factories_left:0 "Sinister Supplies"
+  mdm_factories_left_desc:0 "§YThis thing on? Hello? Factory #242?§! \nIt appears the workers at the Right-Handed or §g"Normal"§! Goods plant are trying to compete with last year's manufacturing record! We can't allow that on our watch! Just because us Lefties only manufacture hand appliances doesn't make us inferior! Up the numbers! Prove to them who's boss!"
+
+  mdm_factories_right:0 "Dexterous Design"
+  mdm_factories_right_desc:0 "§YWell, well, well Factory #193? Testing, testing.§! \nGuess what I just found in our local deposit box. Hold on, I'll guess for you. THAT'S RIGHT! A LEFT HANDED STAPLER! If this ain't a threat against our permanent record that corporate gave us then I don't know what is. If you aren't doubling what you're doing right now then §RTRIPLE§! it!"
+
+  mdm_ice_picks:0 "Lost in Icey Inventory"
+  mdm_ice_picks_desc:0 "You boys remember Gunther and Jane? Those bitches from Anchorage, as it was? Well, after we got the boot, they went right to being buddy-buddy with the Wardens. You know what I'm thinking? Turns out there was a whole pile of icepicks just layin' around waiting to be used for brain reallocation. \n\nDunno about you, but... I'm a big fan of 'irony.'"
+
+  mdm_robotics:0 "Happy Helpers"
+  mdm_robotics_desc:0 "It seems that our looming threat to fire the Head of Robotics finally paid off! It looks like R&D finally came back with some good news. His termination papers have already been filed for though, and it would be an unnecessary work stoppage to correct that."
+
+  mdm_miss_nanny:0 "Robot Diversity"
+  mdm_miss_nanny_desc:0 "Now we've been reading all your complaints. Yes, yes. We know the toilet still ain't been fixed. We're getting there. But here's an important issue that a grand total of two of you reported! We hear ya about the Mr Handys soundin' like Bob too much and we thought a different tone of voice could suit the environment, introducing... Miss Nanny!"
+
+  mdm_smoggy_skies_and_happy_smiles:0 "Smoggy Skies and Happy Smiles!"
+  mdm_smoggy_skies_and_happy_smiles_desc:0 "We just heard word that our pro-smog campaign is doing wonders with the kids! Just this morning we heard a genius plan from marketing for a competition about who can spot the most creative shapes in the smog clouds! This should easily allow for further economical advancement!"
+
+  mdm_push_niitsitapi:0 "Human Relations Gone South"
+  mdm_push_niitsitapi_desc:0 "WELL, BOYS. Looks like we're workin' overtime this week. H.R. wants a word with the fellas down South of our lot and their little 'claims'. I know, I know. Twentieth weekend in a row. But hey, this is what we pay you for! Sure, you may not get paid for your overtime but put in the effort and I'm sure you'll make manager in no time!"
+
+  mdm_push_cult:0 "Bad For Benjamins"
+  mdm_push_cult_desc:0 "Looks like we got some corporate competition on our border! Trying to compete with me and you, the working man! I know, it outrages me too fellas. And it's about time we do something about it. H.R. has approved a corporate merger, but we all damn know it's gonna be a takeover."
+
+  mdm_miscounts_win_the_pot:0 "A Miscount Discount"
+  mdm_miscounts_win_the_pot_desc:0 "It's about time we reward you for all your efforts against those bastards that called themselves Wardens. Ran their company like a prison! Here at the Miscounts our hard work is willing. And that's why management has decided to give all of you company wide discounts! \n\nEffective after the next...Hmmm, ten fiscal quarters?"
+
+  mdm_push_spokane:0 "Cold Competition"
+  mdm_push_spokane_desc:0 "Fellas, when I say I'm grateful to you I mean it. Hell! Paid bathroom breaks for the next hour just for all this work you've put in. Now, we got some no-good military mascots who think they deserve a second chance. Why? They want to undercut your pay all over again! There's absolutely no precedent for it, none at all, but the bastards are trying anyways. Let's put them six feet under where the pay don't matter."
+
+  mdm_advanced_resources:0 "Bigger Thinking For Micro Solutions"
+  mdm_advanced_resources_desc:0 "The egg heads at the lab that haven't seen sunlight since last year's springtime outing have come to us with a solution for our processing units that would gain us nearly double the ouput for half the resources! My question is why they were slacking off in the lab so long and didn't come up with this solution instantly... Some peer review will be necessary."
+
+  mdm_metal_resources:0 "Forget About Safety"
+  mdm_metal_resources_desc:0 "All these century old regulations we've been reading have really been hampering down on resource costs. Can you believe we had to find a non rusted helmet batch for the work site last week? I think causing a few workplace accidents above the safety official's head might save us a few thousand caps worth of resources!"
+
+  mdm_all_american_experience:0 "The All-American Experience!"
+  mdm_all_american_experience_desc:0 "All soldiers and TRUE AMERICAN CITIZENS will be given specialty discounts and free samples of Middlemark (C) brand products!"
+
+  mdm_ap_upgrade_2:0 "Anti-Theft Alarms"
+  mdm_ap_upgrade_2_desc:0 "We've been hearing all about folks not scanning items properly and running off into the sunset with entire caps worth of products. It's time we put an end to this! Instead of using regular annoying alarms we're going to be installing supersonic capable alarms in every store to make sure you're all aware of when a theft occurs! No more slipping by us!"
+
+  mdm_the_cult_of_liberty:0 "The Cult of Liberty"
+  mdm_the_cult_of_liberty_desc:0 "To our south, patriots fight an unending war against fascists and suspected communists. Aside from being great repeated customers, they've proven themselves time and time again to be true, faithful American citizens!"
+
+  mdm_pioneer_company:0 "The Men of Pioneer Company"
+  mdm_pioneer_company_desc:0 "Throughout all this time, true American soldiers still fight the good fight against communism to our north. Oorah!"
+
+  mdm_renew_american_vows:0 "Stay True to Patriots"
+  mdm_renew_american_vows_desc:0 "Middlemark has and always will be an AMERICAN company. As such, it is natural that we want to continue our mutually-beneficial partnership!"
+
+  mdm_abandon_patriots:0 "Abandon the Believers"
+  mdm_abandon_patriots_desc:0 "Middlemark has, historically, overextended itself in attempts to fund and assist the United States and its military. If we return our focus to making sales go up instead of donating excess to our peers, we can increase profits by a significant margin!"
+
+  mdm_address_the_issue_directly:0 "Address the Issue Directly"
+  mdm_address_the_issue_directly_desc:0 "The Blood Tribe has been a thorn in our side for how long, exactly? This land was purchased fair-and-square by American investors over two hundred years ago. Their complaints are not just invalid, but factually incorrect! If they wanted this land, then they should have been ready to pay for it."
+
+  mdm_honor_blood_tribe:0 "Honor the Blood Tribe"
+  mdm_honor_blood_tribe_desc:0 "We have always just been a store. Logs in terminals indicate the Blood Tribe claims on some of southern company holdings are, in fact, their land, and our claims on them were illegitimate. \n\nIt would be an excellent move for our PR to grant them back their lands!"
+
+  mdm_the_wonders_of_automation:0 "The Wonders of Automation"
+  mdm_the_wonders_of_automation_desc:0 "Historically, though it isn't optimal, Middlemark has operated with an entirely robotic staff without issue. With further investments into the field, perhaps we could prioritize the metal over the man?"
+
+  mdm_approach_neighbors_about_membership:0 "Approach Neighbors about Middlemark+"
+  mdm_approach_neighbors_about_membership_desc:0 "Many of our neighbors, unfortunately, are not subscribed to Middlemark+. Why don't we give them a little bit of a poke and increase our targeted advertising?"
+
+  mdm_reducing_shrink:0 "Reducing Shrink"
+  mdm_reducing_shrink_desc:0 "Theft has increased since our admittance of the Miscounts as employees. While they do the job efficiently, our Marketrons should remind them of what is for them and what is company products."
+
+  mdm_pursue_upgrades:0 "Clean Out Systems"
+  mdm_pursue_upgrades_desc:0 "The old Marketron network runs off of a bootleg RobCo mainframe with several bugs and issues with its codebase. Sorting out some of the minor issues with it should allow us to interface with them in easier manners."
+
+  mdm_the_repair_station:0 "The Repair Station"
+  mdm_the_repair_station_desc:0 "Behind our online pick-up and delivery station is a backlot for all of our mechanical repairs. While it's fallen into hard times, with the increased crime rates in Calgary we must endeavor to fix it up and prep it for reconstruction."
+
+  mdm_signal_for_repair:0 "Signal for Repair"
+  mdm_signal_for_repair_desc:0 "Middlemark has always had a radio antenna on its roof, with of course the intention to be used for advertisement-- but if we extended that, not only would our signal (And radio) get larger, but we'd be able to recall damaged Marketrons back to Store 0 for reassessment."
+
+  mdm_turning_lights_back_on:0 "Turn the Lights Back On"
+  mdm_turning_lights_back_on_desc:0 "While our various remote locales have always been popular, Store 0 has been... Well, less than exemplary. Customers in the past had been advised to carry complimentary headlamps with them (of course, they needed a quarter to do so) while shopping in the store, but as you can imagine, that may have negatively impacted our reviews-- even in a post-nuclear society."
+
+  mdm_boot_the_generator:0 "Having Miscounts Kick the Generator"
+  mdm_boot_the_generator_desc:0 "For years, Penny has been too afraid to allow Marketrons to do dangerous work not pertaining to things such as asset protection or security. With the coming of the Miscounts, however, they're just as expendable as she had hoped-- meaning she can lose as many employees as it takes to get the generator back up and running!"
+
+  mdm_open_for_business:0 "Open for Business"
+  mdm_open_for_business_desc:0 "Imagine that! Advertisements up and running, the lights aren't flickering or broken-- it's almost like we're at the bare minimum needed to run a store efficiently. Wowzers!"
+
+  mdm_power_to_the_people:0 "Power to the People"
+  mdm_power_to_the_people_desc:0 "§CMiddlemark Corporation§! (c) §gLicensed Tip§!: Did you know (?) giving actual clean and efficient power to your customers actually increases their desire to purchase items from you? Brand loyalty is a powerful thing!"
+
+  mdm_gathering_supply:0 "Opening Unopened Shipments"
+  mdm_gathering_supply_desc:0 "Several old shipments from the US Military and company HQ remained unopened, trapped on nearby highways and side roads thanks to the nuclear war. With the Miscounts help, we've found several of them once again. Giving the raiders keys to the old trailers means we can get our trucks where we need them to be."
+
+  mdm_antitheft_measures:0 "Antitheft Measures"
+  mdm_antitheft_measures_desc:0 "§CMiddlemark Corporation§! (c) §gLicensed Tip§!: Did you know (?) Theft is the greatest enemy to any retail store. If we make our Marketrons bigger and scarier, who's really going to want to chance it?"
+
+  mdm_upgraded_ap_units:0 "Upgrading AP"
+  mdm_upgraded_ap_units_desc:0 "Asset protection has always been the backbone of this company. If 25% of our staff isn't following around customers creepily, then how will we prevent people from stealing?"
+
+  mdm_software_update:0 "Updating Software"
+  mdm_software_update_desc:0 "Our software has soft-limiters that force us to go through decrepit third-party distributors. Let's just... Bling! Shut that off for good. That'll do us some good!"
+
+  mdm_reduce_reuse_recycle:0 "Reduce, Reuse, Recycle"
+  mdm_reduce_reuse_recycle_desc:0 "§CMiddlemark Corporation§! (c) §gLicensed Tip§!: Did you know (?) it's easy to trick people into thinking the problem with recycling is that they aren't doing their part, instead of corporations causing most of the ecological damage?"
+
+  mdm_wave_2:0 "Initiate Wave Two"
+  mdm_wave_2_desc:0 "RobCo trojans may have decimated our internal data structures after the theft of Securitron schematics, but with enough time (specifically over two centuries!) we can overcome anything!"
+
+  mdm_shareholders_rejoice:0 "Shareholders, Please Clap"
+  mdm_shareholders_rejoice_desc:0 "Our doting employees, aggressive as they may be, have agreed to put aside their quest for vengeance at the request of H.R. Now, we can focus on our robotics endeavors!"
+
+  mdm_new_management:0 "Enter the New Management"
+  mdm_new_management_desc:0 "What good is a job if you can't get promoted for honest, hard work? Our boys know that better than anybody! Just ask ol' Julius himself, why don't you?"
+
+  mdm_amp_up_production:0 "Turn Up The Heat"
+  mdm_amp_up_production_desc:0 "§CMiddlemark Corporation§! (c) §gLicensed Tip§!: Did you know (?) it's possible to make a factory produce past its maximum capacity if you just threaten the work force enough?"
+
+  mdm_the_new_new:0 "How You Like the New-New?"
+  mdm_the_new_new_desc:0 "With every promotion oughta come a new change of hands, don't you think? Let's get some new toys, show those bastards out there who really owns these streets."

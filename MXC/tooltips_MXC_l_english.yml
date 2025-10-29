@@ -1,0 +1,32 @@
+﻿l_english:
+
+    #Ideas#
+
+    circle_cured_resistance:0 "\nIf you own La Resistance, this idea also adds \nOperative Slots: §G+2§!\nRoot Out Resistance mission effects: §G+20%§!\nOwn operative detection chance factor: §G-50%§!\nOperation effectiveness: §G+20%§!\nOperation risk: §G-50%§!"
+
+    #Focuses#
+
+    maxson_bunker_tooltip_1:0 "Fortifies The Maxson Bunker Province with §G2 Outposts§!"
+
+    maxson_bunker_tooltip_2:0 "Fortifies The Southern Provinces Of Maxson Bunker, Fort Lyon, and New Syracuse With §G2 Outposts Each§!"
+
+    maxson_bunker_tooltip_3:0 "Fortifies The Western Provinces Of Fort Lyon With §G2 Outposts Each§!"
+
+    combined_idea_b:0 "Combines the \n§YCaptain Zhang's Doctrine \nIron Alliance Remnants \nIron Alliance Resources§! ideas into one idea.\n\n§GAlso gives reduced penalties and increased benefits from the previous ideas in the combined idea.§!"
+
+    scorpion_border_focus:0 "Fortifies the southern provinces of Rocky Ford and Whiterock Wasteland with §G1 Outpost Each§!"
+
+    hangdog_roads:0 "Add §G1 Infrastructure Each§! to the rest of the former Hangdog territory States."
+
+    boulderdome_cure_tooltip:0 "§GUsing the Boulder Dome facilities we can manufacture a§! §Mcure§! §Gfor our suffering Brothers and Sisters.§!"
+
+    maxson_brotherhood_contact:0 "Send a team to contact this Chapter of the Brotherhood."
+
+    maxson_occupy_new_mexico:0 "§CThe former territory of Lanius's Legion will be given over to a newly forming Brotherhood Chapter.§!"
+
+
+    #Decisions#
+
+        #Iron Alliance Hiring#
+
+    mxc_iron_hiring_custom:0 "§GHire a Division of Iron Alliance veterans§!"
