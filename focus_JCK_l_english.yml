@@ -1,0 +1,113 @@
+﻿l_english:
+
+  #######################
+  # Written By Monkey   #
+  #######################
+
+  nf_jck.1.t:0 "First of Hundreds"
+  nf_jck.1.d:0 "Not far from Wyoming lays Missoula- a gem in the wastes once ruled by the 100 families, a powerful united familial force in an otherwise destroyed region, brought together by their need for peace and safety from the gangs of Montana; but before this, they were simply separate families of wastelanders in the area, those who had prepared for the coming of the end times, stockpiling food, water, materials, and knowledge for the dark times ahead. Suffering through the nuclear warheads, the resulting starvation, and the emergence of raiders and monsters, they got knocked down again and again, but they didn't forget the world that came before and chose to stand back up so that one day, they might reinstate something similar for the generations that followed them...  \n\nSome would’ve called them kooks, crazies, before the war, but after? They were survivalists, those who rolled with the punches and came out not always on top but alive to continue the tale. The Jacksons grew sick of cowering in the ruins of the once-beautiful Missoula, dealing with the raider gangs that staked it as its territory, and grabbing what they could before they got turned into food. They wanted more, so they united the families, leading them to become the §R100 Families§! striking down the costumed jerks and instating their rule as the de facto force in Missoula, Montana's richest and most powerful. \n\nIt was the bond the families formed not only between eachother, but within that allowed such strength to be formed. The attribute that led our ancestors to become so great and acknowledge this fact, uniting the families, was their? "
+  nf_jck.1.a:0 "Cunning!"
+  nf_jck.1.b:0 "FUCKING RAGE!!!"
+
+  nf_jck.2.t:0 "The Friends of Our Families"
+  nf_jck.2.d:0 "Missoula, our home, beautiful and blossoming, wealthy and bustling, had grown into an economic center to rival the trade hubs of the old world, raking in enough caps to buy most raider's ignorance of our little unprotected jewel. This protection lasted a while, but not long enough, the raiders, dumb as ever, decided that destroying the only stable source of income would be better than preserving it, and we had to devise new plans to protect ourselves from the uniting raiders attacking the walls and wearing out our poor guards. While many of the families returned to cowering, the Jacksons saw the writing on the wall that the families didn’t have the necessary power, but luckily enough, they had the caps to procure protection, and even luckier, some forces that upheld the same safety that the old world Americans enjoyed remained not far from us, hungry for wealth...\n\nThe Wardens of The White mercenaries still upholding their duty, heard our call and were happy to receive some caps for taking out the trash. Working with them, we established our own democracy, one in which Missoula citizens could enjoy safety from the savages of the wasteland. With the help of Wardens, we had the power to fight off the weaker raiders, allowing us to give it less thought, even vacation some, and return peace to our home. The Wardens were spread too thinly to fully establish themselves in ourd lands, so while we still suffered from attacks of more uniform, professional forces, we put up more than enough resistance to make them think twice before messing with Missoula."
+  nf_jck.2.a:0 "Damn Right!"
+
+  nf_jck.3.t:0 "Last of Hundreds"
+  nf_jck.3.d:0 "The Jacksons-- leaders of The One-Hundred Families-- defenders of old-world democracy... and now..? Hunters, exiles... survivalists... cast out by those we protected, those we bartered and fought on behalf of. Cowards, all of them, through and through- the Wessons, the Smiths, all of them-- bastards too scared of their own shadow to stand up for their founders- their... family. Let me finish this story, my family; after we set up their little vacation spots, their safe little walls, THEIR city. WELL, WE WILL MAKE IT OURS, OUR GODDAMN CI-\n\nI’m sorry, let me start over...\nMissoula, beautiful as she is, was nigh undefendable against any unified force, with the circumstances we faced, we knew this for years before the attacks from Heavens Gate came in 2268; still, we Jacksons took up arms, and held the lines against the lunatics, just like the stories of the old days pushing back raiders! Except these ones had tech’ out the ass, I’m talking serious firepower, so we sent out a big signal asking for help- and who answered?  §0The Enclave§!, remnants of the American elite- or something like that; either way, they saved us and established real protection against foreign forces. Everything seemed cheery at first, with the only caveat that the democracy we established years earlier was ripped away in favor of their military rule... So we did the American thing, organized a petition, asked for the return of elections- or their promises of it being established fulfilled earlier, and they slaughtered every one of us. The other families were too scared or maybe too domesticated to fight beside us. We ran to live another day and were forced to become what we are now to survive the harsh conditions... But we will return, and now that Wyoming is getting chaotic, we’re done rolling with the punches-- Let's utilize it to carve our path back to Missoula. \n\nTheres a lesson to be learned here, my kin..."
+  nf_jck.3.a:0 "The family will always have your back."
+  nf_jck.3.b:0 "§RThe Enclave fucked with the wrong family.§!"
+
+  nf_jck.4.t:0 "It's Good On Top"
+  nf_jck.4.d:0 "We did it, we did it my kin... Missoula... Ours– finally ours... \n\nIt’s about time we made it home, crushing these enclave fucks was the hard part– It’s time we begin rebuilding Montana, and rehabilitating our family. \n\nYes, rehabilitation– I’m afraid our little family may have a psychotic problem after all those cold nights out in Wyoming living like crazed raiders– even now I see it as I look upon my sons and daughters covered in deer guts and... human skulls. I feel even my own sanity slipping at times– as I am overcome with an insatiable bloodlust...\n\nWorry not though! Citizens of Missoula, your saviors are here, and with your help– as well as a psychiatrist– We will instate democracy soon enough! Just like the old world, before all these blood and guts– and stuff..."
+  nf_jck.4.a:0 "§RRAHHH FUCK YEAH DEMOCRACY!!!§!"
+
+  #FOCUS LOC
+
+  JCK_last_of_hundreds_key:0 "The Missoula Betrayal"
+  JCK_last_of_hundreds_desc_key:0 "Everything was going fine, before those power armored creeps came to "save" us. I mean, they did beat back the Steam lunatics, but that's not the point."
+
+  jck_stand_your_ground_Law:0 "Stand Your Ground Laws"
+  jck_stand_your_ground_Law_desc:0 "Out here in the wild, you gotta know who you're looking to shoot on the day-to-day-- and anyone who gets too close, or gets any funny ideas are more than fair game."
+
+  jck_years_to_think:0 "Years to Think"
+  jck_years_to_think_desc:0 "Out here in Wyoming, it's easy to go stir crazy. Most anything that's been happening is what's gone down south, towards Rawlins and beyond, but those sorts of things don't mean a lick of anything to the Jacksons Family. We've had all the time in the world to get ready for our return to Missoula-- it's time to pick up the pace."
+
+  jck_plenty_of_gear:0 "Plenty of Gear"
+  jck_plenty_of_gear_desc:0 "Over the years, we took every means we could to prep against the Enclave. Round two wasn't gonna be so easy for them-- we've got plenty of old riot gear and plenty of people who are just plum pissed off. We're more than rearing to go."
+
+  jck_test_our_mettle:0 "Test our Mettle"
+  jck_test_our_mettle_desc:0 "Towards the north, we got a cute little 'positivity movement' cooking. Call themselves 'Ruminators,' like they got anything to think about. We're gonna turn that smile right upside down, and show them how it feels to be fucked over by people bigger than you."
+
+  jck_ready_the_men:0 "Ready the Men"
+  jck_ready_the_men_desc:0 "All the boys have spent their lives training out on this here frontier, fighting Marshalls on the roadside and picking petty bouts with the Baron's crew. If they ain't ready to fight Enclave, they ain't ever gonna be."
+
+  jck_kill_the_ruminators:0 "All Jacked Up"
+  jck_kill_the_ruminators_desc:0 "Crack open a smile, why don't you?"
+
+  jck_killing_tribes:0 "No More Fathers"
+  jck_killing_tribes_desc:0 "These... confused denizens of the monument that once represented the greatest pillars of democracy have become a pest... Let's blow them the fuck up. Er... the people not the monument, maybe that too though..."
+
+  jck_ending_the_republic:0 "Families vs. Free States"
+  jck_ending_the_republic_desc:0 "Republic this, that republic that, republic of whatever, these wastelanders know nothing of such things... although their use of the land and their hardships remind me much of our own so let's bring them into the family."
+
+  jck_ruminator_stations:0 "Take their Clubhouse..."
+  jck_ruminator_stations_desc:0 "While devout, the Ruminators were very liberal with their organization it seems, let's repurpose some of that spirit for our own betterment."
+
+  jck_cute_little_books:0 "And Their Silly Books!"
+  jck_cute_little_books_desc:0 "You can't catch a rabbit with a magazine, but you teach one of our kids to read? Well that'll lead to something good... hopefully."
+
+  jck_metal_mouths:0 "Stepping On Their Terf"
+  jck_metal_mouths_desc:0 "The Metal Mouths... 'Cyborgs.' Men who think they're just like a machine, or somethin'. Ain't that funny? Puttin' a whole buncha shit you don't understand inside your body, just because you think it's gonna make a difference when I got a bullet to your noggin?"
+
+  jck_havre:0 "Stop the Godlovers"
+  jck_havre_desc:0 "So get this, friend: a woman who thinks she's a servant of God says America was an angel and not a whole ass country. Well, we LIVED in America for long enough to know that ain't worth SHIT. Besides, she's in our way."
+
+  jck_scrapping_metal_mouths:0 "Taking Out The Trash"
+  jck_scrapping_metal_mouths_desc:0 "Metal Mouths had a whole heapin' scrapyard or two worth of shit we can reuse. Tear 'em apart and throw the bodies in a fire. We'll make do."
+
+  jck_stm:0 "Slicing Open the Sky"
+  jck_stm_desc:0 "If you thought the Liberty freaks were bad, these fellas are worser than worse. They'd sooner skin you alive and make you into a kite before they'd sit down and talk to you. We like a world where the sort of high society folk such as ourselves can get by just as he or she pleases, thank you very much. These sort of unkindly people have no place in Montana."
+
+  jck_welcome_back:0 "In Time for Lunch"
+  jck_welcome_back_desc:0 "The way an Enclave brain shoots out of their helmet lens-- it's something that sticks with you. It inspires adrenaline unlike anything else."
+
+  jck_show_them_up:0 "Show Them Up"
+  jck_show_them_up_desc:0 "With the Enclave out of the way, and all their neat little gadgets from Chicago and before the war, we can trick out our own Riot Gear and maybe even use the factories in Missoula to make ourselves into a little bit more of a nation state. Plus, some scared science types have collaborated with our own smart fellas-- making a special new kind of elite gear from all these dead husks of steel, they're calling it §YHermes Armor§!, how fun."
+
+  jck_i_remember_the_old_days:0 "I Remember the Old Days"
+  jck_i_remember_the_old_days_desc:0 "The old days, where things were nice. When Mama Jackson grew flowers outside of her grave, and fresh Tatos were always around. Now, we're back. And the old days shall become new once again."
+
+  jck_friends_out_west:0 "Friends Out West"
+  jck_friends_out_west_desc:0 "The Wardens of the White made for decent bodyguards in our old vacations out west-- no doubt our money kept their hands firm and ready to shake. Now that we're in charge, however... Maybe we can share more than just caps."
+
+  jck_cult_of_liberty_churches:0 "America's Devout"
+  jck_cult_of_liberty_churches_desc:0 "Some cult o' lib's wackjobs showed up to establish some humanitarian bull, seems they like democracy just as much as us! In a fuckin weird'o kinda way though."
+
+  jck_just_enough_rage:0 "Just 'nough Rage"
+  jck_just_enough_rage_desc:0 "Rage will boil a man alive if ya let it. Let's give an outlet to expel some of that fire, other than huntin' and raidin'."
+
+  jck_coal:0 "Coal Comesuck'em"
+  jck_coal_desc:0 "Some kinda coal company, been here since before the Colonel kicked us out, lets end that bullshit."
+
+  jck_coal_2:0 "Jackin' Some Coal!"
+  jck_coal_2_desc:0 "Now that we got some fuel, lets make that fire we got burnin in us roar!"
+
+  jck_the_other_folks:0 "The Other Metal Folks"
+  jck_the_other_folks_desc:0 "Called the Brotherhood, not because they're family like us, but because of some knightly shit, let's see how well they enjoy our swords."
+
+  #ideas
+  jck_welcome_to_the_family:0 "Welcome to Our Family!"
+  jck_welcome_to_the_family_desc:0 "With their exile from Missoula, the Jackson family grew bitter and distrusting of outsiders, believing that they were out to get them, all the families, every single last one of them. But then a realization struck, their family was made up of rag tags, adoptees and widows. The Jacksons had been known to adopt any orphans running the streets, and with one of their own adopted kids, Libby, running the charge, the Jacksons are expanding their family tree to as much of the great north they can. You're a Jackson, you just don't know it yet. Especially if you love raiding."
+
+  jck_only_family:0 "Only Family"
+  jck_only_family_desc:0 "Jacksons will stop at nothing to achieve revenge against the Enclave, but that doesn't mean any riff-raff raider can make the cut or that revenge is the only thing our hatred is about. Marie Jackson, daughter of Neil, and a survivalist through and through is leading the charge to take back the Jackson's home. But that doesnt mean it's any other families burden to take on. So rejoice, your new rulers don't care about you!"
+
+  jck_the_family:0 "Jackson's Rage"
+  jck_the_family_desc:0 "The Jackson's are known for their rage, although this hasn't always been the case, in their new survival based lives it has greatly benefitted them."
+
+  jck_the_coal:0 "Jack The Coal"
+  #Tool-Tips
+  jck_3a_tt:0 "§OLibby, emboldened by Papa Neil's story of acceptance convinces Neil to follow her ideas! Using her manipulation and guile she will convince raiders all around to join us, expanding our family! Although Marie will take a backseat in our affairs because of this.§!"
+
+  jck_3b_tt:0 "§YMarie, her spirit filled from her fathers story of honor, convinces him to endorse her spec ops and keeping our forces Jacksons and Jacksons only! Heavily boosting them at the cost of manpower! Libby, upset by this, will relinquish her duties to pursue knitting! How fun!§!"

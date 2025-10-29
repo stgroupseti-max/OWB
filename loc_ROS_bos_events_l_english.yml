@@ -1,0 +1,44 @@
+﻿l_english:
+
+  #characters
+
+  ROS_paladin_ergo_name:0 "Paladin Ergo"
+
+  #ideas
+
+  ros_macarthur_detects_brotherhood:0 "The Brotherhood is in Montana"
+  ros_macarthur_detects_brotherhood_desc:0 "The Yellowstone rangers were assisted by Brotherhood. The surviving ones tell us tales of some out east..."
+
+  # tooltips & flags
+
+  nf_ros_search_party_tt:0 "A search party will be sent out to find the survivors..."
+  nf_ros_warning_tt:0 "§GSome of the Paladins will stay behind to help us§!, but §R[MCA.GetNameWithFlag] may become a greater foe...§!"
+  nf_ros_bos_friendly_tt:0 "§GThe [MNC.GetNameWithFlag] will remember this.§!"
+  nf_ros_bos_equipment_tt:0 "§GAs thanks, some of the Brotherhood members left supplies in their wake!§!"
+  nf_ros_bos_angered_tt:0 "§RThe [MNC.GetNameWithFlag] will remember this.§!"
+  nf_ros_ergo_tt:0 "§YPaladin Ergo§! will join the fight as a §GUnit Leader§!!"
+
+  ros_paladin_ergo_available_flag:0 "Paladin Ergo stands tall amongst the denizens of Yellowstone!"
+
+  # Events
+  nf_ros_bos.1.t:0 "Taken by the Night, then to Flames"
+  nf_ros_bos.1.d:0 "Just last night a zeppelin came by under cover of a storm, hurtling down somewhere into the less-traveled parts of Yellowstone park. On it, a somewhat familiar symbol was emblazoned-- one we've heard tales of out west."
+  nf_ros_bos.1.a:0 "Brotherhood?..."
+
+  nf_ros_bos.2.t:0 "Estranged Midwesterners"
+  nf_ros_bos.2.d:0 "After two weeks of searching, we've tracked down the majority of the wreckage. In a nearby cavern, a group of Brotherhood of Steel paladins were found tending to their wounded. Though they were guarded at first, they allowed us inside once they realized we weren't a threat-- or, at least, so they believed. \n\nPressing for further details told us they went far, far off their intended course. How did we deal with them?"
+  nf_ros_bos.2.a:0 "We offered them medicine and our aid."
+  nf_ros_bos.2.b:0 "We helped them and sent them on their way."
+  nf_ros_bos.2.c:0 "We let Yellowstone decide their fate, and took what they had."
+
+  nf_ros_bos.3.t:0 "Paladin Ergo"
+  nf_ros_bos.3.d:0 "Among these Brotherhood thankful for our assistance, one decided to stay behind upon hearing of our troubles-- her name being Paladin Ergo. With rumors of the Enclave, she's implored to stay behind whilst her compatriots travel towards their intended destination."
+  nf_ros_bos.3.a:0 "We welcome her with open arms."
+
+  nf_ros_bos.4.t:0 "An Explosion in Yellowstone"
+  nf_ros_bos.4.d:0 "To the south, a great dirigible was seen by scouts erupting into flames, crashing down into the lands below... While quite noteworthy, one particular detail especially stood out to the Colonel: \n\nOn it was a Brotherhood insignia."
+  nf_ros_bos.4.a:0 "There is no place for them in these mountains."
+
+  nf_ros_bos.5.t:0 "The Lost Ship"
+  nf_ros_bos.5.d:0 "On our travels into Montana, one of our blimps was lost to a storm. Thankfully, some of them had to have survived-- we received feedback on the radio from one of their commanding officers, but we couldn't get details before the line broke again. We'll need to keep an eye for them in the region, or at least, hope they'll find their way home."
+  nf_ros_bos.5.a:0 "Let's hope they're alright."

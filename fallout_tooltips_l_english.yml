@@ -1,0 +1,91 @@
+﻿l_english:
+ #-------------------------------------
+ # National Focuses
+ #-------------------------------------
+  legion_must_own_hangdog_territory:0 "You must own states with §YHangdogs§! cores to gain an effect.\n"
+  legion_must_own_twin_mothers_territory:0 "You must own states with §YTwin Mothers§! cores to gain an effect."
+  legion_must_own_two_sun_territory:0 "You must own states with §YTwo Sun§! cores to gain an effect."
+  legion_must_own_baudelio_territory:0 "You must own former states of §YBaudelio Ranchers§! to gain an effect."
+  legion_must_own_granjas_territory:0 "You must own former states of §YLas Granjas§! to gain an effect."
+  legion_must_own_pecos_territory:0 "You must own former states of §YPecos Colony§! to gain an effect."
+  legion_must_own_vegas_territory:0 "You must own states in §YNew Vegas§! to gain an effect."
+  legion_must_own_arizona_territory:0 "You must own states in §YArizona§! to gain an effect."
+  legion_must_own_new_mexico_territory:0 "You must own states in §YNew Mexico§! to gain an effect."
+  legion_must_own_colorado_territory:0 "You must own states in §YColorado§! to gain an effect."
+
+  legion_mongrels_tt:0 "Spawns 3 §YLegion Wardog Units§!. \n"
+  skin_walkers_tt:0 "Spawns 2 §YSpec Ops Units§!. \n"
+  cult_of_nas_tt:0 "Spawns 3 §YMotorized Units§!. \n"
+  demon_servants_tt:0 "Spawns 2 §YSpec Ops Infantry§!. \n"
+  steelbreakers_tt:0 "Unlocks §YSteelbreakers§!.\n"
+
+  legion_siege_battalion_tt:0 "Spawns 3 §YSiege Divisions§! with §Y1§! explosive companies." # removed §Rlocked§! template because the template is no longer locked @CGS
+  legion_recon_battalion_tt:0 "Spawns 3 §YFrumentarii Divisions§! with a recon company."
+  legion_chariots_tt:0 "Spawns 2 motorized §YLegion Motor Chariot§! divisions."
+
+  legion_unlock_shottol_god_of_dogs_tt:0 "Unlocks §YShottol, God of Hounds§!: Grants §YDog Company§!: §G+10%§! Soft Attack"
+
+  legion_unlock_goddess_diana_tt:0 "Unlocks §YGoddess Diana§!: Grants §G+10%§! Reinforce Rate."
+
+  legion_unlock_caesar_the_godslayer_tt:0 "Unlocks §YCaesar the Godslayer§!: Grants §G+5%§! Reinforce Rate."
+
+  legion_unlock_cult_of_nas_tt:0 "Unlocks §YCult of Nas§!: Grants §YVehicles§!: §G+5%§! Soft Attack and §G+10%§! Breakthrough."
+
+  legion_unlock_cult_of_nas_minor_tt:0 "Unlocks §YCult of Nas§!: Grants §YVehicles§!: §G+5%§! Breakthrough."
+
+  legion_unlock_wyatt_the_demon_tt:0 "Unlocks §YWyatt the Demon§!: Grants §G+10%§! Division Speed."
+
+  legion_unlock_legion_outlaws_tt:0 "Unlocks §YLegion Outlaws§!: Grants §G+5%§! Division Speed."
+
+  zetan_landing_tt:0 "The Zetan Robot army lands.\n"
+
+  bosgetvertibirds_tt:0 "The Brotherhood receive §Y30§! Vertibirds. The NCR receive §G10§!."
+  allgetvertibirds_tt:0 "The Brotherhood receive §Y20§! Vertibirds. The NCR receive §G20§!."
+  ncrgetvertibirds_tt:0 "The Brotherhood receive §Y10§! Vertibirds. The NCR receive §G30§!."
+
+ # Flags
+  refused_petition:0 "Refused Petition"
+  accepted_petition:0 "§RAccepted the Legion's Petition§!"
+  accept_petition_tt:0 "§RWe accept the Legion's offer. This will force us to take a diplomatic stance in favor of the Legion, limiting which focuses we can take.§!"
+  hoover_dam_lost:0 "Hoover Dam Lost"
+  hoover_dam_won:0 "Hoover Dam Won"
+  battle_for_hoover_dam:0 "Battle for Hoover Dam"
+  legion_chariots:0 "Legion Chariots"
+  sided_with_vulpus:0 "Picked Vulpus"
+  sided_with_lanius:0 "Picked Lanius"
+  caesar_survived:0 "Caesar Survived"
+  sided_with_lucius:0 "Picked Lucius"
+  no_generic_manufacturer:0 "Doesn't allow Generic Manufacturers"
+  no_generic_advisor:0 "Doesn't allow Generic Advisors"
+  stole_cores:0 "Rightful territorial gains stolen"
+
+  #General tooltips
+  CHARACTER_IS_ALIVE:0 "$CHARACTER|Y$ is alive."
+  CHARACTER_IS_DEAD:0 "$CHARACTER|Y$ is dead."
+  ALLIED_WITH_OR_IS_NATION:0 "Allied with or is §Y[$NATION$.GetName]§!."
+  UNLOCK_BALANCE_OF_POWER_DECISION:0 "Unlock §YBalance of Power§! Decision:\n  $DECISION|Y$"
+  UNLOCK_FOCUS:0 "Unlock National Focus: $FOCUS|Y$"
+  UPGRADE_IDEA:0 "Upgrade $IDEA|Y$"
+  REPEATABLE:0 "Repeatable"
+  COMPARATOR_X_DIFF_Y:0 "$X$ $DIFF$ $Y|Y$"
+  NUM_OF_ALLIES_OR_SUBJECT:0 "Number of allies or subjects"
+  AT_LEAST:0 "at least"
+  GREATER_THAN:0 "greater than"
+  LESS_THAN:0 "less than"
+  EQUAL_TO:0 "equal to"
+  arming_artillery:0 "Is not already Arming"
+
+ #idea tooltips
+  killed_off:0 "Hasn't been Killed"
+  enclave_return:0 "Dornan has Returned"
+ #event OOB tooltips
+  vallebandits_tt:0 "Three Militia forces rally for us!"
+  pazbandits_tt:0 "Three Militia forces rally for us!"
+
+  #Fuck he's here everybody get down
+  riseofclaus:0 "§RThe Senator will evolve to his most powerful form yet and gain cores on his new domain.§!"
+  thelist1:0 "§GSenator Claus will check his list twice, and get a wargoal on all the naughty nations of the wasteland.§!"
+  thelist2:0 "§RYou're ALL on the list.§!"
+  claim_the_north_tt:0 "Grants §Y[This.GetNameDef]§! §Gclaims§! and §Gwargoals§! for the core territories of every country §Ynorth§! of §YWashington§!!"
+  own_the_north_tt:0 "All land §Ynorth§! of §YWashington§! is owned by §Y[This.GetNameDef]§!, their subjects, or their allies.\n"
+

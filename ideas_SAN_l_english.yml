@@ -1,0 +1,23 @@
+﻿l_english:
+  san_idea_forlorn:0 "Forlorn"
+  san_idea_forlorn_desc:0 "The Forlorn have access to a few wonders from before the war, allowing them to replace some workers to join the war effort and constructing crude buildings. However, their reliance has hampered their research efforts."
+  san_idea_sanitizers:0 "Sanitizer Influence"
+  san_idea_sanitizers_desc:0 "The coastal guardians of the union, the Sanitizers, have had a lot of influence over the region for a while. Their extreme views are a menace but with tensions rising their presence is sorely needed."
+  san_idea_fallen_order:0 "A Fallen Order"
+  san_idea_fallen_order_desc:0 "After our exile from our home by the heretics of the Order, we have been left with nothing, but our broken creed."
+  san_burning_truth:0 "Our Burning Truth"
+  san_burning_truth_desc:0 "Our faith restored and our vigor renewed, now our truth is self-evident. The Plaguelands will burn in holy fire, and all will be reborn in a brighter image."
+
+  #### Characters
+
+  SAN_master_andersson:0 "Chapter Master Andersson"
+  SAN_andersson_leader:0 "Born from one of the elite families in the Plagueland’s shining city of Omaha, Andersson did not shy away from his devotion to God. His early life being shaped by the Order’s teachings, that this plague infested land is to be slated for a rebirth. That through God’s will shall a new era be brought to this unholy heathen filled land. Andersson hung on every word awaiting his time to serve the holy Order in its divine mission. However, once joining the clergy his ideas of how to bring about this rebirth was shunned by the higher priests.\n\nSoon his beliefs would catch wind of the broader public. With his strong charm and determination given by God himself, a following would grow around the young priest. And thus the Order of the Sanitizers would be formed under Andersson himself. With the guiding creed to bring about God’s will to the Plaguelands. This would catch the eye of the clergy run Order.  Persecution would be begun against the Sanitizers forcing them to find a new home.\n\nAndersson's defeat in Omaha would lead his followers to the wall of the Plaguelands. There he built a new home out of the ruins of the old world. However, the tough nature of the Plaguelands beat the Sanitizers into submission, now only a shell of its former strength."
+
+  #### Descisons
+
+  SAN_timed_wargoals:0 "The Holy Crusade"
+  SAN_wargoals:0 "Purging the Corruption"
+  SAN_wargoals_second:0 "Homecoming"
+  SAN_rising_order:0 "Our Burning Truth"
+  
+  SAN_coming_home_tt:0 "§YFallen Creed§! will be known as §YSanitizers§!"

@@ -1,0 +1,232 @@
+﻿l_english:
+  nf_npc.1.t:0 "Old Saint Nikolai?"
+  nf_npc.1.d:0 "As the year marches on to its end, one of the most holiest times of the year is approaching here in Loid’s Ministry, that is Christmas! Comrades all around our wonderful socialist paradise have started to put their trees and await the birth of our Savior! However, rumors of an old capitalist tradition is starting to make its way around. That is the myth of Santa Claus. In response Loid has already started sending out pamphlets of the true Saint Nikolai who brought toys to good christian boys and girls of the soviet nation.\n\nStrangely, these new pamphlets have caused a stir, it seems some new people have settled from the north into our glorious nation. They are a weird bunch if the rumors are true, they have small dwarfs and talking bears? They also say there is an old jolly man wearing a red coat leading this new bunch. People are starting to connect this new jolly bunch with the pamphlet and the old capitalist myth, they seem to be merging the two.\n\nAfter weeks of this new growing sentiment, this jolly old man claims to be Comrade Nikolai. To prove his case he hands out candy canes and presents to all who sees him. It is a wonder where he gets these as there is no factory to produce such items. However, he has caught Loid’s eye. It seems our very own leader was given a personalized Bible, converting him into a believer. Everyone is wondering if the country has gone mad or if it's a Christmas miracle?"
+  nf_npc.1.a:0 "He really is Saint Nikolai!"
+
+  nf_npc.2.t:0 "Comrade Nikolai Coming to Town"
+  nf_npc.2.d:0 "Overnight a very festival revolution has happened, Loid has stepped back for old Comrade Nikolai to take center stage. The jolly old marxist has already started looking for ways to increase his gift output! His magical powers can only go so far if we are to give presents to all the good little proletariat children. However, gifts are only good if these little comrades have gotten freedom by the revolution! So Comrade Nikolai is stuck at an impasse, either build factories for more toys or build factories to free the children of the wasteland. Whatever shall he do?"
+  nf_npc.2.a:0 "Toys shall rise their spirits!"
+  nf_npc.2.b:0 "We must free the poor little comrades!"
+
+  nf_npc.3.t:0 "Presents Under the Tree"
+  nf_npc.3.d:0 "With Christmas fast approaching Comrade Nikolai must start deciding what gifts he shall deliver to his partisans across the new Polar Soviet! As he walked through his workshop looking over all the new toys and munitions his elves were making two catches his eye. The first a standard rifle fit for any hopeful communist this revolutionary season. The other are red and white sticks of dynamite, every festive and could send those capitalist pigs running! Comrade Nikolai stands there holding the two trying to make a decision."
+  nf_npc.3.a:0 "Everyone wants a rifle!"
+  nf_npc.3.b:0 "But the wrapped dynamite..."
+
+  nf_npc.4.t:0 "Nikolai’s Elves"
+  nf_npc.4.d:0 "While Nikolai is checking his list for the second time he sees outside his workshop that his elves are already training for the revolution! How sweet Nikolai thinks to himself as they shoot their little rifles and take down the fake capitalist pigs! However, one elf comes in and asks Nikolai a question. Shall they use reindeer in their operations or stick to their special candy canes? One on hand the reindeers will help spread the revolution faster, but on the other these special candy canes seem to make the elves happy."
+  nf_npc.4.a:0 "Let's spread the revolution faster!"
+  nf_npc.4.b:0 "The candy canes! We have to bring joy after all!"
+
+  nf_npc.5.t:0 "Ghost of Communist Present"
+  nf_npc.5.d:0 "It seems the strange rumors of a mythical white bearded man with Elves is true. Today we have received a letter from this so-called Comrade Nikolai. He states that we are at the top of his Nice List? Well whatever that is, he also asks if we are willing to join his efforts in spreading his “Christmas Revolution”. It is a wonder what Christmas is, but he does seem to be a good comrade with freed workers and good working conditions."
+  nf_npc.5.a:0 "Sure, let's get some milk and cookies."
+  nf_npc.5.b:0 "What even is Christmas?"
+
+  nf_npc.6.t:0 "In Hopes That Comrade Nikolai Soon Would Be There"
+  nf_npc.6.d:0 "Domina accepts our gift! Comrade Nikolai was right about her, this is why she is on the top of the Nice List! Our Elves have already started heading over to their commune, putting up lights and setting up the trees. The workers have given Comrade Nikolai some amazing collectively made cookies and milk in return! Let us finish our work and get Comrade Buran in charge of the upcoming events!"
+  nf_npc.6.a:0 "And a merry red Christmas to you too!"
+  dominia_accepts_us:0 "Domina Accepts Us"
+
+  nf_npc.7.t:0 "He Knows if You’ve Been Bad or Good"
+  nf_npc.7.d:0 "They have decided to turn away from gifts! They have chosen to be scrooges and as such we are now forced to give them cheer by force! The worker shall now suffer for Domina’s mistake! She now will be put straight to the Naughty List! Call Comrade Buran let us get the Elves and show them the true spirit of Christmas!"
+  nf_npc.7.a:0 "Not one step back!"
+  dominia_rejects_us:0 "Domina Rejects Us"
+
+  nf_npc.8.t:0 "Rudolph the Soviet Reindeer"
+  nf_npc.8.d:0 "A miracle has happened recently deep within the stalls of our Reindeer farm. A Reindeer has been born with a glowing red nose! Comrade Nikolai upon hearing the nose fetched the young Reindeer. He has now become the new symbol of Christmas! Going to the collective houses and showing the kids his red nose. Telling them that the magic of Marx and Christmas allowed for such a miracle to take place!"
+  nf_npc.8.a:0 "Lenin would cry at the sight!"
+
+  nf_npc.9.t:0 "Top of the Naughty List"
+  nf_npc.9.d:0 "The Great Cold War has now come to end, Senator Claus is behind bars where he belongs! His crimes of greed during such a wonderful generous season shall be put to trial in front of the workers he deceived! A new court house and gallows has been built to deal with this imposter once and for all. The gallows built by his false Elves themselves sport a special candy cane noose to make sure the imposter doesn’t escape if found guilty.\n\nThe trial took place on Christmas Eve day, when the fake Claus walked into the worker courthouse, his appearance was marked by worker revenge. His beard had been shaved and he was sporting two black eyes, the shade of the coal he deserved. It was a short trial, as this Senator Claus was unable to testify in fears of perjury! As the trial ended, he was walked towards the red and green gallows. Soon the candy cane rope cracked as the old Claus hung there swinging in the wind leaving a solemn air over all. However, soon Comrade Nikolai brought out cookies and gifts! The time for Christmas has come, let us forget this imposter!"
+  nf_npc.9.a:0 "Merry Christmas!"
+
+  nf_npc.10.t:0 "How the Comrade Stole Christmas"
+  nf_npc.10.d:0 "Every wastelander down in the wasteland liked Christmas a lot, but Comrade Nikolai who lived just north of the wasteland did not!  He  saw our amazing  holiday adventure as nothing more than an abomination! Well as this Comrade spread their “Christmas” cheer across the wasteland. The real Santa Claus, Senator Claus,  was busy in the North Pole, making toys and trying to fix the FEV, third’s the charm right? As the Senator was busy slaving over his workbench an elf rushed in from the snow.\n\n“Santa! Santa! Someone is trying to impersonate you!”, exclaimed the little elf.\n\nThe old jolly  Senator Claus looked up from his toys and towards the young elf. Getting up from this bench, the Senator kneeled down to speak some holiday wisdom.\n\n“Well now Hermey, it seems we should get the sleigh ready. We have some communists that are in need of their lead poisoning.”\n\nHermey turned and rushed out to the snow towards the other reindeers, grabbing the  bells as he went. Senator Claus in turn walked back into his house into his bedroom. Opening his closet the old Senator was greeted by his red suit clean and ready for action. Grasping the old suit Senator Claus sighed and said,”it seems these communists never learn, you can’t ruin Christmas”."
+  nf_npc.10.a:0 "Ho ho ho mother------!"
+
+  nf_npc.11.t:0 "Top of the Naughty List"
+  nf_npc.11.d:0 "The Great Cold War has come to end, Comrade Nikolai is behind bars where he belongs! His crimes of stealing Christmas have come to an end and he shall be put on trial for his actions! MacArthur AFB is now home to a makeshift prison for the holly jolly faker. The firing squad is readying their guns for their date with the Comrade.\n\nAs Christmas Eve approaches, Senator Claus has ordered the fake Santa to be shot before he goes and delivers his gifts across the wasteland! Comrade Nikolai even to the last second was saying how he was the real Santa, that he even has Rudolph the red nosed reindeer! However, none of the Elves listened and readied their guns as Nikolai just kept talking, then bang bang bang. There was now only one Santa, Senator Claus. After the red Santa was buried in the dirt where he belonged, Senator Claus took to the sky to spread Christmas cheer once more!"
+  nf_npc.11.a:0 "Merry Christmas!"
+
+  #### Focus
+  NPC_nikolai_start:0 "§tA Red Christmas§!"
+  NPC_nikolai_start_desc:0 "The clock is ticking down and we are running out of time before Christmas! Now that Comrade Nikolai is finally in charge we must get the elves working for the upcoming season. However, we must choose what they focus on!"
+
+  NPC_nikolai_middle:0 "§tChristmas Shopping§!"
+  NPC_nikolai_middle_desc:0 "Christmas is hollow without beautiful wrapped presents sitting under the tree even in the Polar Soviet. Comrade Nikolai started thinking about what to gift his comrades across the wasteland. The choice isn't easy, but time is running out!"
+
+  NPC_nikolai_end:0 "§tNikolai's Little Helpers§!"
+  NPC_nikolai_end_desc:0 "While Comrade Nikolai works over time writing and checking his list, the elves themselves are being put to work. They are have started training for the revolution!"
+
+  NPC_batford_brigade:0 "§tSpreading Christmas Cheer§!"
+  NPC_batford_brigade_desc:0 "Comrade Nikolai being the jolly and generous man that he is, has decided to gift the revolution to all the wasteland children! First is the Batford Brigade, their horrible military junta is no place for children! They will soon unwrap the revolution underneath their trees."
+
+  NPC_uranium_city:0 "§tFor the Christmas Lights§!"
+  NPC_uranium_city_desc:0 "Without Christmas lights Nikolai's Christmas wonderland is feeling empty! In order to solve this we must go and redistribute the uranium from Uranium City!"
+
+  NPC_governate_stoon:0 "§tThe Capitalist Pigs§!"
+  NPC_governate_stoon_desc:0 "We can not stand having a border with such a balant capitalist nation! The way they treat their workers is not very fitting of this giving season! They must be dealt with at once!"
+
+  NPC_iron_confederacy:0 "§tThe Wrong Type of Council§!"
+  NPC_iron_confederacy_desc:0 "the Iron Confederacy has it all wrong! A confederacy of iron? No! It must be a Soviet of holly jolly comrades spreading Christmas cheer not iron!"
+
+  NPC_polar_dipolmacy:0 "§tNikolai's Example§!"
+  NPC_polar_dipolmacy_desc:0 "If we want to spread Christmas cheer it must start a the top! Comrade Nikolai is the shining star of our soviet! He is full of nothing, but worker made cookies and collectivised sourced milk. Don't forget his warm smile! His charm is endless!"
+
+  NPC_reach_out_to_vermilion:0 "§tTop of the Nice List§!"
+  NPC_reach_out_to_vermilion_desc:0  "To our south lies the commune of Vermilion-Wainwright, who is at the top of our Nice List! They are a wonderful commune filled with happy workes, however they are missing the Christmas cheer! We must reach out and see if they are going to put up the trees already!"
+
+  NPC_vermilion_accepts:0 "§tGifts for All Workers!§!"
+  NPC_vermilion_accepts_desc:0 "Domina Jure has come to her senses and allowed for us to infuse some Christmas cheer. The streets of Vermilion are now filled with strung up lights and trees ready for Christmas!"
+
+  NPC_vermilion_rejects:0 "§tThose Damn Scrooges!§!"
+  NPC_vermilion_rejects_desc:0 "It seems Domina Jure is nothing, but a scrooge! she has been moved to the Naughty List! However, we can not let her people be subjected to the Naughty List because of her. Let's free them and set things right!"
+
+  NPC_polar_advancements:0 "§tThe Polar Express§!"
+  NPC_polar_advancements_desc:0 "Our new soviet is disconnected, Nikolai may not need help getting around, but his comrades do! To help our wonderful comrades the Polar Express shall open to help carry our workers around the nation!"
+
+  NPC_elf_workshops:0 "§tComrade's Workshops§!"
+  NPC_elf_workshops_desc:0 "Comrade Nikolai's powers can only go so far! If we want to spread Christmas Cheer and the revolution we must set the Elves to work. They will open new workshops to expand production!"
+
+  NPC_elf_work_ethic:0 "§tThe Christmas Spirit§!"
+  NPC_elf_work_ethic_desc:0 "The Elves seem to have magic of their own! Their ability to construct workshops is second to none! It seems the Christmas Spirit is starting to sweep across our little soviet."
+
+  NPC_elf_knowledge:0 "§tThe Elvish Mindset§!"
+  NPC_elf_knowledge_desc:0 "The Elves seem to be looking forward to the next Christmas already! They are creating new blueprints for new toys and munitions for next season's revolution."
+
+  NPC_holy_jolly_training:0 "§tThe List Knows All§!"
+  NPC_holy_jolly_training_desc:0 "Comrade Nikolai is known for his two Lists, however what isn't so well known is who takes care of his Naughty List. A group of specially trained Elves who are sent out with somes names to well, deliver some "coal"..."
+
+  NPC_loid_tanks:0 "§tLoid's Sleighs§!"
+  NPC_loid_tanks_desc:0 "Even though Loid is no longer the leader of our soviet, his old tanks are still knocking around. Comrades Nikolai has an idea to turn these old tanks into new slieghs! Ready to take the revolution to all across the wasteland!"
+
+  NPC_elf_foot_soldiers:0 "§tElvish Backbone§!"
+  NPC_elf_foot_soldiers_desc:0 "We can not spread the revolution and Christmas cheer without the Elves! We can not lose sight of that fact, we must put them at the front of our revolution!"
+
+  NPC_stampede:0 "§tThe Horse Pagans§!"
+  NPC_stampede_desc:0 "To our south lies a land of heresy and paganism! They ride horses across the plains not knowing the truth of the Christmas Spirit of revolution! It is time we fix that little issue."
+
+  NPC_reindeer_games:0 "§tReindeer Games§!"
+  NPC_reindeer_games_desc:0 "It seems the Elves have taken a liking to the southern lands. They criss cross the plains in their "reindeers" or tanks. They are setting up new workshops for these "reindeers" which has given us a new surplus!"
+
+  NPC_rudolph:0 "§tThe Red Nosed Reindeers§!"
+  NPC_rudolph_desc:0 "It seems something interesting has come about, a soviet miracle you could say..."
+
+  NPC_freed_workers:0 "§tThe Gift of Liberation§!"
+  NPC_freed_workers_desc:0 "The workers have suffered under these pagans long enough! They shall be blessed with the Christmas Spirit and workers rights!"
+
+  NPC_coal_miners:0 "§tStockings Full of Coal§!"
+  NPC_coal_miners_desc:0 "We can not forget the importance of coal now! Although Comrade Nikolai is a very generous man there are still some who wish to go against our Christmas Spirit! Those people deserve nothing, but coal! Also it's a very good power source for the toy workshops!"
+
+  NPC_part_time_elves:0 "§tThe More the Merrier§!"
+  NPC_part_time_elves_desc:0 "It seems our Elf population has started to grow! We are overjoyed with this news, we will soon have new Elves ready to spread the revolution even more!"
+
+  NPC_cold_war:0 "§tThe Cold War§!"
+  NPC_cold_war_desc:0 "It seems we have caught someone or something's eye. A rumor has come from the south that there is another a man even more old and more jollier then Comrade Nikolai! Impossible all our Elves mutter, but it seems whatever it is, a fight will soon be on us!"
+
+  NPC_capitalist_allure:0 "§4The Capitalist Allure§!"
+  NPC_capitalist_allure_desc:0 "It seems you have choosen to be on the Naughty List! How could you turn your back on the workers and on Comrade Nikolai? Be gone!"
+
+  NPC_uniting_the_workers:0 "§tUniting the Revolutionary Spirit§!"
+  NPC_uniting_the_workers_desc:0 "The workers of Canada has spilt themsevles over such hateful forms of our true revolution! We can't let them keep this false line of beliefs! We shall go and unite the ourselves!"
+
+  NPC_ending_capitalist_influence:0 "§tThe Capitalist Invention§!"
+  NPC_ending_capitalist_influence_desc:0 "The capitalist pigs invented such a disgrace on humanity! They tried to recreate humanity in metal? How could even the capitalist pigs be so foolish! We shall send these robots to hell where they belong! Not very holly jolly of them."
+
+  NPC_preparing_for_war:0 "§tPolar Liberation Army§!"
+  NPC_preparing_for_war_desc:0 "The time has come! Comrade Nikolai has constructed his new jolly group of workers, ready and willing to spread the Christmas Spirit to every corner of the wasteland!"
+
+  NPC_elvish_conscription:0 "§tMore Elves... MORE ELVES§!"
+  NPC_elvish_conscription_desc:0 "The war between the false Santa is coming close and Comrade Nikolai is feeling the pressure. His army is still under manned, there isn't enough Elves to fill the ranks! To solve this issue, workers have been moved from the factories to the barracks."
+
+  NPC_elvish_guns:0 "§tFrom Coal to AKs§!"
+  NPC_elvish_guns_desc:0 "With the coal mines at full production, we are use this surplus of coal to make even more AKs! From the mines to the generations, the power from the black rock wil fuel our Christmas revolution!"
+
+  NPC_holiday_guard:0 "§tHoliday Guard§!"
+  NPC_holiday_guard_desc:0 "A new Holiday Guard shall be built out of the new workers brought into the Elvish army. They will be the second best to our very own Commissariat."
+
+  NPC_let_the_bombs_fly:0 "§tTime to Deliver Some Coal§!"
+  NPC_let_the_bombs_fly_desc:0 "The time has come, the false capitalist pig Santa shall be brought to his knees. He shall be given the coal that he so dearly needs!"
+
+  NPC_senator_trial:0 "§tThe Trial of Senator Claus§!"
+  NPC_senator_trial_desc:0 "After all his capitalist sins, he has finally been captured by Comrade Nikolai. He will be placed infront of the workers for his crimes against the Christmas Spirit!"
+
+  NPE_year_without_santa:0 "§4The Year Without Santa Claus§!"
+  NPE_year_without_santa_desc:0 "It has  been a long time since the wasteland was given some holiday cheer. In our absence it seems an imposter has tried to fill our shoes..."
+
+  NPE_cold_war:0 "§4The Cold War§!"
+  NPE_cold_war_desc:0 "The foolish communists have started their own twisted view of Christmas, we starting on a backfoot. We must be quick and spread the real Christmas Spirit before we lose the battle!"
+
+  NPE_american_properpty:0 "§4Our Old Friends§!"
+  NPE_american_properpty_desc:0 "Luckily, we have some friends on our border. The old American AI's will be an easy way to expand our counter revolution! They shall soon be back under our fold, following the Christmas Spirit and the American Way!"
+
+  NPE_southern_front:0 "§4Children of the Wasteland§!"
+  NPE_southern_front_desc:0 "To our south are a bunch of wastelanders following some quite interesting leaders. However, we aren't in a position to choose who gains the Christmas Spirit. So we must bite our tongue and get our hands dirty this Christmas season."
+
+  NPE_preparing_for_war:0 "§4Here Comes Santa Claus§!"
+  NPE_preparing_for_war_desc:0 "The time has come once again to spread Christmas cheer over the wasteland! However, this time we have to deal with the communists first! Soon we shall show them the error in their ways!"
+
+  NPE_elvish_conscription:0 "§4American Recruits§!"
+  NPE_elvish_conscription_desc:0 "Once again it is the Enclave that is supporting our mission! This year they have been very generous to us, but especially the citizens of MacArthur. They are signing up on mass to join the fight against the damn communists!"
+
+  NPE_elvish_guns:0 "§4Hermey's Munitions§!"
+  NPE_elvish_guns_desc:0 "Our second in command Hermey has been a great Elf this year! He has been able to make a big surplus of rifles for our new army!"
+
+  NPE_holiday_guard:0 "§4Enclave Elves§!"
+  NPE_holiday_guard_desc:0 "The new recruits that we have gained from the Enclave will be organized into special Elf divisions. They will be hand trained by Hermey to take care of any communists they come across."
+
+  NPE_let_the_bombs_fly:0 "§4Black Christmas§!"
+  NPE_let_the_bombs_fly_desc:0 "The wait is over, it is time to paint this Christmas black. We shall send Hermey our Fortunate Son to deal with these communists once and for all. Soon Christmas shall be saved from this Comrades Nikolai!"
+
+  NPE_senator_trial:0 "§4The Trial of Comrade Nikolai§!"
+  NPE_senator_trial_desc:0 "Christmas has been saved! Now we must deal with this Comrade Nikolai, it is time to deal with red menace!"
+
+  NPE_senator_plan:0 "§4Santa's Little Helpers§!"
+  NPE_senator_plan_desc:0 "Senator Claus always has his little helpers. General Winter and Sergeant Hermey are ready to step up and lead the troops! Comrade Nikolai has nothing against them!"
+
+  NPE_senator_workshops:0 "§4Holly Jolly Supply Lines§!"
+  NPE_senator_workshops_desc:0 "Senator Claus may be magic, but even he knows the importance of supply lines! New railroads will be built all over our new land in order to send supplies and troops to the new front!"
+
+  NPE_senator_workshops_mil:0 "§4Senator's Workshops§!"
+  NPE_senator_workshops_mil_desc:0 "To produce enough weapons for the upcoming war, workshops must be constructed! Christmas magic can only go so far, do you know how hard it is to magically create a rifle? Very it is very hard."
+
+  NPE_senator_workshops_civ:0 "§4More Gifts for the Nice List§!"
+  NPE_senator_workshops_civ_desc:0 "Although munitions are very important we can't forget the true goal of Christmas! We must have enough gifts for the big night. Once we save Christmas from the dirty communists we must also have enough gifts for the Senator's Nice List!"
+
+  NPE_senator_chicago:0 "§4Our Constituents§!"
+  NPE_senator_chicago_desc:0 "Santa Claus is also a Senator for the Enclave. He not only has to deal with saving Christmas once more, but also his constituents. After all the years of faithful service to the Enclave, it is starting to pay off! Chicago has reached out with aid for our cause, they also want to save Christmas!"
+
+  NPE_senator_chicago_pa:0 "§4Gifts From Chicago§!"
+  NPE_senator_chicago_pa_desc:0 "Senator Claus is usually the one who hands out the gifts, but this time he is the once on the receiving end! Chicago has sent out some speical power armor to out fit our Elves. These special suit are already being handed out to our most veteran Elves."
+
+  NPE_senator_chicago_veterans:0 "§4Holiday Workers§!"
+  NPE_senator_chicago_veterans_desc:0 "Christmas is always a busy time of year! As such old Senator Claus needs to out source some of his work to some seasonal workers. This year some Enclave Veterans have arrived from Chicago to kick some communist teeth in."
+
+  NPE_senator_own_gifts:0 "§4For Me? You Shouldn't Have§!"
+  NPE_senator_own_gifts_desc:0 "Another gift has come in form Chicago! Some brand new plamsa rifles have been airlifted in. Hermey has already started training with these weapons to prepare for the upcoming war."
+
+  #### Ideas
+  NPC_paint_it_red:0 "§tRed Reindeers§!"
+  NPC_holy_jolly:0 "§tHolly Jolly Comrades§!"
+  NPC_nikolai_charm:0 "§tNikolai's Jolly Old Charm§!"
+  NPC_jolly_elf_work_ethic:0 "§tMagical Elf Powers§!"
+  NPC_jolly_elf_knowledge:0 "§tAncient Elf Knowledge§!"
+  NPC_jolly_training:0 "§tThe Elf's Commissariat for Internal Affairs§!"
+  NPC_jolly_training_tanks:0 "§tThe Elf's Commissariat for Internal Affairs§!"
+  NPC_jolly_training_soldiers:0 "§tThe Elf's Commissariat for Internal Affairs§!"
+  NPC_freed_workers_production:0 "§tFreed Workers§!"
+  NPC_jolly_elf_work_ethic_1:0 "§tMagical Elf Powers§!"
+  NPC_elves_at_arms:0 "§tWorkers of Christmas Unite§!"
+  NPE_elves_at_arms:0 "§4Here We Go Again§!"
+
+  #### Characters
+  NPE_SENATOR_CLAUS_NAME: "Senator Claus"
+  NPE_GENERAL_WINTER_NAME: "General Winter"
+  NPE_SERGEANT_HERMEY_NAME: "Sergeant Hermey"
+
+  #### Tooltips
+  NPC_cold_war_spawn:0 "§4A new foe shall spawn in the south, ready to deck some halls and roast some chestnuts...§!"
+
+
+

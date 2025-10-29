@@ -1,0 +1,31 @@
+﻿l_english:
+  rad_sons_of_america:0 "Sons Of America"
+  rad_sons_of_america_desc:0 "Our Creator and the country which we were once made to serve is gone. Torn away by the same blast that sealed us for 200 years, but as long as we live their legacy lives on with us."
+
+  rad_military_wth_borders:0 "Military Without Borders"
+  rad_military_wth_borders_desc:0 "As one of the heirs to the greatest empire which ever stood we've been left with an incredible legacy and an equally incredible mission. To use what they've left us with so it can be reborn."
+
+  #Events
+  nf_rad.1.t:0 "Assimilate The Rogue Machines"
+  nf_rad.1.d:0 "Several of our outlying cohorts have been captured and reprogrammed. We must recover them, and add the offenders into our forces."
+  nf_rad.1.a:0 "Combat Initiated"
+
+  nf_rad.2.t:0 "Engage Protocol #1: No One Leaves"
+  nf_rad.2.d:0 "Our central data centers have taken some time to be recovered, and our production facilities are only now reaching maximum capacity. Our duty is clear: the Qurantine must be upheld. The Wall must be secured. No one enters; no one leaves."
+  nf_rad.2.a:0 "The Qurantine Will Be Upheld"
+
+  nf_rad.3.t:0 "Our Duty Fulfilled"
+  nf_rad.3.d:0 "As of today, combat operations are winding down. All territory within the Nebraskan Qurantine are securely under our control."
+  nf_rad.3.a:0 "As It Will Be"
+  
+  #Decisions
+  RAD_wargoals:0 "Asserting Control Of Nebraska"
+  RAD_wargoals_desc:0 "It is our Prime Directive to reestablish the Nebraskan Qurantine."
+  RAD_descends_on_parish:0 "Loss Of Units"
+  RAD_descends_on_parish_desc:0 "A nearby organization of unknown origin has been capturing machines of our Depot. We will begin preparations to destroy these interlopers."
+  RAD_descends_on_plaguelands:0 "Combat Rogue Elements"
+  RAD_descends_on_plaguelands_desc:0 "Restored Memory Bank Tau-35 confirms that the WALL must be under our control. The Steel Legions are being brought to full capacity."
+  
+  #Tooltips
+  RAD_parish_wargoal_tt:0 "We will eventually (within 90-200 days) receive a wargoal against §YThe Flawed Parish§! to §Rpunish them for their thefts.§!"
+  RAD_plaguelands_wargoal_tt:0 "Within approximately 100-200 days, we will begin our §BRECLAMATION§! of Nebraska by declaring war on all §Rillegitimate governments§! within." 

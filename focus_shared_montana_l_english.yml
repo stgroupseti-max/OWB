@@ -1,0 +1,108 @@
+﻿l_english:
+
+  #shared montana loc
+
+  montana_industrial_intro:0 "Montanan Industry"
+  montana_industrial_intro_desc:0 "There are many old abandoned sites around Montana. Let's start looking and see what we can't find!"
+
+  montana_resource_metal:0 "Scrapping Old Hunks of Junk"
+  montana_resource_metal_desc:0 "Tons of old scrap is all over the place, either from old National Guard checkpoints or other stuff. Let's use them for our own means!"
+
+  montana_resource_water:0 "Watering Holes"
+  montana_resource_water_desc:0 "Between the harsh winters and derelict countryside, you'd think we'd have a lot more water to go around!"
+
+  montana_resource_tech_water:0 "How To..?"
+  montana_resource_tech_water_desc:0 "If we wanna do anything, we gotta know the right tool to pull it off."
+
+  montana_resource_building:0 "Buildin' a Town"
+  montana_resource_building_desc:0 "A town is the most homely thing one can make."
+
+  montana_resource_munitions:0 "Old Guns, New People"
+  montana_resource_munitions_desc:0 "Some of the old guns stashed at the checkpoints can be fixed up."
+
+  montana_resource_energy:0 "Pushing Buttons Wildly"
+  montana_resource_energy_desc:0 "We found an intact generator! One of the guys pushed a bunch of buttons on it, and thankfully it turned on instead of blowing up or something."
+
+  montana_arms_factory:0 "Retrofitting the Lines"
+  montana_arms_factory_desc:0 "Look at that! Working production lines, after all these years."
+
+  montana_resource_capstone:0 "Montana Scrounging"
+  montana_resource_capstone_desc:0 "There's plenty of junk all around we can use that isn't just hunks of metal and stuff."
+
+  montana_research_slot:0 "The Future of Montana"
+  montana_research_slot_desc:0 "All of our development has led up to this-- will our future be bright, or will it be dim and fading?"
+
+  montana_military_intro:0 "Montanan Military"
+  montana_military_intro_desc:0 "A gun behind every blade of grass, they say. Well, we need to have some in our hands, first of all."
+
+  montana_exp_bonus:0 "Knowin' What's Shootin'"
+  montana_exp_bonus_desc:0 "What's the point in having a gun if you can't shoot it correctly?"
+
+  montana_equal_command:0 "Commanding Equally"
+  montana_equal_command_desc:0 "The ability to listen to each other, to pick and respect a leader-- these are critical things to a society."
+
+  montana_production_factories:0 "Production Factories"
+  montana_production_factories_desc:0 "The old rust belt remnants here could go far with our tending."
+
+  montana_manpower:0 "The People of Montana"
+  montana_manpower_desc:0 "The people of Montana hear our call! Between the Khans, MacArthur, and the Brotherhood, we must stand united."
+
+  montana_equal_supply:0 "Equal Supply, Good Hearts"
+  montana_equal_supply_desc:0 "Plenty of old supplies are around in the old stores, even today. Scavenge away!"
+
+  montana_vehicle_research:0 "Driving Old APCs"
+  montana_vehicle_research_desc:0 "Test driving is a surefire way to learn how to do this. Hopefully."
+
+  montana_vehicle_idea:0 "Making a Mountain Out of a Molehill"
+  montana_vehicle_idea_desc:0 "We've retrofitted some of those vehicles into stuff we can use-- and boy howdy are we having a blast with it!"
+
+  montana_infrastructure:0 "The Roads in the Stretch"
+  montana_infrastructure_desc:0 "Plenty of roads need repairing!"
+
+  montana_add_factory:0 "The Old Brickworks"
+  montana_add_factory_desc:0 "Old factories make for great new factories, too. What are you reading this for, exactly?"
+
+  montana_mercenaries:0 "Zack Company"
+  montana_mercenaries_desc:0 "The remnants of Zack Company spread across Montana finely, and with them their teachings as well."
+
+  montana_assertions:0 "Montana Assertions"
+  montana_assertions_desc:0 "We have to prove ourself to survive in the wastelands."
+
+  montana_caps:0 "Caps Make Company"
+  montana_caps_desc:0 "Money talks!"
+
+  montana_agriculture:0 "Plants May Not Be People, But They Sure Are Important"
+  montana_agriculture_desc:0 "Growing plants equals food. Do the math!"
+
+  montana_irrigation:0 "Irrigation"
+  montana_irrigation_desc:0 "Don't you want to survive? We need water!"
+
+  montana_res_bonus_reee:0 "Medicinal Breakthrough"
+  montana_res_bonus_reee_desc:0 "Meds that won't kill us? We gotta figure out how to make more of this!"
+
+  montana_res_bonus:0 "MANIFEST Leftovers"
+  montana_res_bonus_desc:0 "MANIFEST sure did leave a lot of weird stuff that's been scattered county-to-county."
+
+  montana_infantry_bonus:0 "I Sure Do Love Guns"
+  montana_infantry_bonus_desc:0 "Don't you want to have a gun that won't blow up?"
+
+  montana_doctrine_bonus:0 "How to Kill (Or Nicely Make Fuck Off)"
+  montana_doctrine_bonus_desc:0 "It's the most important lesson to know!"
+
+  montana_planning_idea:0 "Knowing the Land"
+  montana_planning_idea_desc:0 "Knowing the land will give us one heck of an advantage against other folks!"
+
+  montana_chems_idea:0 "Bringing Chems into the Fold"
+  montana_chems_idea_desc:0 "Drugs are bad... But we call these Chems, so it's fine."
+
+  ### ideas
+
+  montana_rulers_decree:0 "The Montanan Decree"
+  montana_gather_people:0 "Montanan Campfires"
+  montana_supply:0 "The Supply"
+  montana_zack_company:0 "Zack Company's Legacy"
+  montana_vehicle_bonus:0 "Rippin' and Roarin'"
+  montana_ind_research:0 "Pushing on Through, Mentally Speaking"
+  montana_MANIFEST_intelligence:0 "MANIFESTing the Future!"
+  montana_pave_a_way:0 "Paving a Way"
+  montana_chems:0 "Chems? In Montana? No Way...."

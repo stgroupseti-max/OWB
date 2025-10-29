@@ -1,0 +1,403 @@
+﻿l_english:
+  mother_shaman:0 "Mother Shaman"
+  war_shaman:0 "War Shaman"
+  caesars_hound:0 "Caesar's Hound"
+  war_dog:0 "Dog of War"
+  phoenix_ties:0 "Phoenix Merchants"
+  arizona_ranger:0 "Arizona Ranger"
+  bushranger:0 "Bushranger"
+
+  speed_demon:0 "Speed Demon"
+  pit_lord:0 "Lord of the Pit"
+
+  ces_rancher_advisor:0 "The Ranchers' Association"
+  mining_magnate:0 "Mining Magnate"
+
+  ruthless_capitalist:0 "Ruthless Capitalist"
+  ruthless_capitalist_good:0 "Good Business Sense"
+  earth_scorcher:0 "Earth Scorcher"
+  fox_cruelty:0 "Fox's Cunning"
+  total_war_tactician:0 "Total War Tactician"
+  praetorian_prefect:0 "Praetorian Prefect"
+  armipotent:0 "Armipotent"
+  praefectus_castrorum:0 "Praefectus Castrorum"
+
+  lucius_advisor:0 "Prefect Lucius"
+  lucius_command:0 "Prefect Lucius"
+
+  ces_crucified_lucius:0 "Lucius hasn't been crucified"
+  lucius_advisor_desc:0 "Lucius, like any good commander of the legion, knows well the value of engineering and discipline; this will allow us to mobilise and rally easier."
+  lucius_command_desc:0 "Our praetorians wield ballistic fists; they do not shy from the fray. Lucius, their prefect, knows how best to send troops into that fray, breaking enemy lines."
+
+  monster_of_the_east_chief:0 "Monster of the East"
+  alice_mclafferty:0 "Alice McLafferty"
+  alice_mclafferty_desc:0 "Alice knows how to do business and do it well; she can satisfy the popular demand for consumerism, so long as she is given lucrative government contracts."
+  alice_mclafferty_good:0 "CEO McLafferty"
+  alice_mclafferty_good_desc:0 "Where the Crimson Caravan runs, so too does the NCR."
+  marge_le_barge_minister:0 "Marge Le Barge"
+  marge_le_barge_minister_desc:0 "One of the great north's many patriotic citizens, Marge will keep Redding going through thick and thin."
+  old_world_blues:0 "Old World Blues"
+  power_broker:0 "Power Broker"
+  peaceful_foreman:0 "Peaceful Foreman"
+  gun_runner:0 "Gun Salesman"
+  follower_of_the_apocalypse:0 "Follower of the Apocalypse"
+  lanius_married_god:0 "Lucifer, Consort of Diana"
+
+  ncr_hero_trait:0 "War Hero"
+  ncr_innovator_trait:0 "Innovator"
+  ncr_tactitian_trait:0 "Tactician"
+  ncr_bastion_trait:0 "Bastion Of Democracy"
+  ncr_dodge_trait:0 "Industrialist"
+  ncr_equipment_trait:0 "Gun Runner Liaison"
+  ncr_imperialist_trait:0 "Imperialist"
+  ncr_HME_lar_trait:0 "Hearts, Minds, and Ears"
+  ncr_HME_nonlar_trait:0 "Hearts, Minds, and Ears"
+  general_wait_and_see:0 "General Wait-and-See"
+  first_recon_commander:0 "First Recon Commander"
+  unblinking_hawk:0 "Unblinking Hawk"
+  calm_leader:0 "Calm Leader"
+  all_american_badass:0 "All-American Badass"
+  ncr_spy_trait:0 "The Ranger Follower Alliance"
+  ncr_air_buff:0 "The Bear's Wings"
+
+  general_oliver:0 "General Oliver"
+  general_oliver_desc:0 "As the protege of the Hero of the Mojave, Oliver has a great amount of political clout and prestige behind him; but his cautious tactics and reliance on heavy troopers leave something to be desired, in the eyes of many company men."
+
+  colonel_hsu:0 "Colonel Hsu"
+  colonel_hsu_desc:0 "Colonel Hsu is beloved by the men, and is a workhorse without compare in the top brass. Hsu knows how to manage supply lines, root out spies, and make sure the men know they are understood, and cared for: a great boon to morale."
+
+  colonel_moore:0 "Colonel Moore"
+  colonel_moore_desc:0 "Moore does not blink, does not hesitate; her ranger instincts have made her into the sort to strike hard, fast and without mercy. She can see threats before they emerge, and can have a battleplan ready before they can strike."
+
+  colonel_royez:0 "Colonel Royez"
+  colonel_royez_desc:0 "Colonel Royez earned his rank during the acquisition of the Long 15, through his great feats of bravery and strength; he is the pinnacle of what an NCR soldier can become. However, he is just one man, and cannot be everywhere at once."
+
+  chief_hanlon:0 "Chief Hanlon"
+  chief_hanlon_desc:0 "Chief Hanlon is the oldest living non-ghoul ranger, and those years of experience show. He has served as the Ranger Chief for over three decades, and many attest to his skill, tenacity and cunning. He is a living symbol of the NCR rangers."
+
+  major_dhatri:0 "Major Dhatri"
+  major_dhatri_desc:0 "Major Dhatri commands the first recon squadron, a sniper team beyond compare. With his men and women making tactical movements and reassignments, Dhatri can effectively scout, clear and prepare the ground for camps and divisions."
+
+  big_jim_chief_of_army:0 "James 'Big Jim' Marshal"
+  big_jim_chief_of_army_desc:0 "Big Jim knows how to succeed at war, and succeed quick; overwhelming displays of force! As such his appointment as chief of army will result in an increase in conscription and mobilization efficiency."
+
+  mossman_chief_of_army:0 "Ranger General Mossman"
+  mossman_chief_of_army_desc:0 "Mossman believes totally in the power of the Rangers; as such, his appointment as chief of army will result in the expansion of the NCR rangers and more rigorous training for all."
+
+  drummond_chief_of_army:0 "General Alexander Drummond"
+  drummond_chief_of_army_desc:0 "Drummond has years of experience with which to back up his appointment, and it shows in his capacity for planning, both in speed and brilliance. However, he is unpopular among the people, and his appointment will weaken the republic's standing."
+
+  admiral_doherty:0 "Admiral Doherty"
+  admiral_doherty_desc:0 "Born in a town around Port Orford, Admiral Doherty spent his teenage years in a constant struggle to protect his fishing boat against the pirates of the Maw. On one cold night in the winter, a pirate raiding party took many of the villagers, including his parents, hostage. Unable to pay the hefty ransom, villagers mourned the loss of their loved ones. It was a pirate custom to raid the coast for slaves, kidnapping everyone for ransom and selling anyone who couldn't pay to slavers in Oregon. With nowhere to go, he turned to the military, enrolling in the NCR Military Academy. \n\n Combining his military knowledge with his quick wit, he quickly rose ranks in the NCR Military. When he chose to become an admiral everyone thought this was a career suicide, due to the neglect of the naval forces. His first task to blockade the Rapids from using the Colorado to reinforce their supplies failed due to the outdated naval doctrine of the Republic. NCR Navy consisted of big ironclad ships rebuilt from the US Navy, who proved ineffective at chasing the fast boats used by the enemy. NCR also lacked the marine corps, which meant some conscripts in the navy did not even know how to swim. Taking the initiative, he employed a tactic from his past. He conscripted many of the fishing boats in the NCR coast and led a night assault to Rapids docks, burning many of their ships, capturing many more. Cutting most of the enemies supply lines in an instant earned him a lot of respect in the military, especially the High Command. \n\n After being promoted to the rank of Admiral of the Navy, he began the modernization of the NCR Navy, creating the Naval Engineer Corps. With the engineers constantly producing new prototypes, guns and naval modules under his watchful eye, Doherty is pretty confident that when Legion strikes, NCR will be the one ruling the waves."
+  the_baron:0 "The Baron"
+  ranger_general:0 "Ranger General"
+  unpopular_genius:0 "Unpopular Genius"
+  shi_researcher_reborn:0 "Research Reborn!"
+  head_physician:0 "Head Physician"
+  head_trader:0 "Head Trader"
+  head_quartermaster:0 "Head Quartermaster"
+  head_recruiter:0 "Head Recruiter"
+  head_mechanic:0 "Head Mechanic"
+  raider_supplier:0 "Fixer"
+  dedicated_scribe:0 "Dedicated Scribe"
+  tactical_historian:0 "Tactical Historian"
+
+  militia_leader_mick:0 "Militia Leader Mick"
+  militia_leader_mick_desc:0 "Though Mick is just a petty local arms dealer, he is also a staunch defender of Freeside and a pillar of its community. By giving him official capacity to police our outskirts, he can make Freeside safer, while also giving hell to our enemies, whether they be occupiers or occupied."
+  armed_politeness:0 "Armed Politeness"
+
+  mr_new_vegas:0 "Mr. New Vegas"
+  VEG_mr_new_vegas_cultural_advisor_desc:0 ""Me again, Mr. New Vegas, reminding you that you're nobody till somebody loves you. And that somebody is me. I love you.""
+  beloved_personality:0 "Beloved Personality"
+
+  vlt_citizen_carter:0 "Citizen Carter"
+  anti_ghoul_proponent:0 "Anti-Ghoul Proponent"
+  michael_angelo:0 "Michael Angelo"
+  michael_angelo_desc:0 "Michael Angelo is a sensitive soul who makes signs for New Vegas, increasing its beauty and brightness. His work helps people remember why they love New Vegas, and allows smaller businesses to more quickly get off the ground."
+  sensitive_artist:0 "Sensitive Artist"
+
+  loi_lawkeeper:0 "Frontier Lawkeeper"
+  loi_state_reformer:0 "State Reformer"
+  loi_teman:0 "Navy Bear"
+  loi_terror:0 "The Shadow On Grey Eminence Itself"
+  loi_outrider:0 "Mountaineer Outrider"
+  loi_steady_she_goes:0 "Steady As She Goes"
+
+  offensive_protocols:0 "Offensive Protocols"
+  offensive_protocols_desc:0 "A set of AI protocols Mr. House designed with the intent of increasing the combat effectiveness of securitrons in the field and on military campaigns (should such an unfortunate thing become necessary). As such it makes securitrons more effective at the art of slaughter."
+  aggressive_ai:0 "Aggressive AI"
+
+  defensive_protocols:0 "Defensive Protocols"
+  defensive_protocols_desc:0 "A set of AI protocols Mr. House designed intended to protect New Vegas and its subsidiaries, with a focus on reinforcing ability of securitrons to 'turtle up' and dig in, allowing them to more effectively hold the line."
+  reserved_ai:0 "Reserved AI"
+
+  unorthodox_protocols:0 "Unorthodox Protocols"
+  unorthodox_protocols_desc:0 "A set of AI protocols Mr. House designed to be more capable of complex tactics and learning from experience, with no singular focus beyond improving the adaptability and unpredictability of the securitrons, and all forces guided by the protocols."
+  unpredictable_ai:0 "Unpredictable AI"
+  subroutine_alpha:0 "Subroutine: Alpha"
+  subroutine_beta:0 "Subroutine: Beta"
+
+  subroutine_gamma:0 "Subroutine: Gamma"
+  subroutine_alpha_desc:0 "Subroutine Alpha was designed with the intention of reducing the amount of maintenance securitrons would need and the speed at which they would again be ready to fight by stimulating their on-board repair systems. This reduction in securitron needs also boosts the morale of our non-robotic troops and allows us to more efficiently supply them."
+
+  subroutine_beta_desc:0 "Subroutine Beta was designed with the intention of allowing securitrons to more effectively strategise and create tactical plans. Installing Subroutine Beta makes our AI more efficient and provides more effective tactics quicker, for man and machine alike."
+  subroutine_gamma_desc:0 "Subroutine Gamma was designed with the intention of improving the capability of our AI to react and adapt to situational threats through self-learning and improvement, allowing our AI to more effectively recuperate from losses and defend against threats."
+  internal_repair:0 "Internal Repair"
+  pre_simulated_tactics:0 "Pre-Simulated Tactics"
+  adaptive_learning:0 "Adaptive Learning"
+  burning_avenger:0 "Burning Avenger"
+
+  pittman:0 "Pittman"
+  pittman_desc:0 "Pittman was always a shrewd and paranoid one, even when he attempts to cover it in his own vanity, it's easy to see with those who have perception. Either way with him now the First's second he has begun to implement the tactics he learnt over the decades."
+  pittman_chief_of_army:0 "Pittman"
+
+  bonesnarl:0 "Bonesnarl"
+  bonesnarl_desc:0 "Bonesnarl was once a lowly cannibal who skulked around the Warren attempting to find supplies and those to feed on. His luck ran out when the First caught him and dunked him into the Warren's FEV pits. Now a super mutant, his hunger only grew over time and rumors believe he'll snatch slaves just to sate his hunger."
+  bonesnarl_chief_of_army:0 "Bonesnarl"
+
+  beatrice:0 "Beatrice"
+  beatrice_desc:0 "Beatrice comes from a dark and mysterious past. Only the First and Mother could possibly know her origins. She is driven to find those who \"caused it\" and won't stop until her revenge is had."
+  beatrice_chief_of_army:0 "Beatrice"
+
+  shepard:0 "Shepard"
+  shepard_desc:0 "Shepard is a new addition to the Warren's growing family, and he has already proven his worth with his improvement over the local slaves, making them work harder with cruelty, and if their job is done poorly enough, by letting Bonesnarl run loose on the local slave habitats."
+
+  mother:0 "Mother"
+  mother_desc:0 "Mother is one of the very first few the First ever dunked into the Warren, and she has grew to almost match his stature. However her mental faculty remains steadfast within her, she cares for the Warren and looks after them. Bonesnarl and Beatrice often talk with her to speak their issues and seek guidance."
+
+  scurge:0 "Scurge"
+  scurge_desc:0 "Scurge was a tribal hunter before being caught and dunked into the FEV lagoon in the Warren. Bonesnarl often uses him to hunt prize meals for him and his small clan. However he prides himself on unrelenting loyalty to the First, and not any of the followers below him."
+
+  marro:0 "Marro"
+  marro_desc:0 "Marro was a soldier just after the bombs fell, one of those who returned to the Warren to scavenge until the First caught him and dunked him. Knowing how bad the world has become he has stayed with the First, becoming one of his few closest friends and acts as countermeasure to his growing lack of mentality."
+
+  doctor:0 "Doc Torr"
+  doctor_desc:0 "Doc Torr is a brute and often psychotic mutant, if he didn't know how to heal our kind the First or one of his followers would've most likely of killed him, until he ceases to be useful however, his skills can be used to heal our warriors who return from battle."
+  nightkin_terror:0 "Nightkin Terror"
+  consuming_hunger:0 "Consuming Hunger"
+  brains_and_brawn:0 "Brains and Brawn"
+  slave_master:0 "Slave Master"
+  strong_rower:0 "Strong Rower"
+  ample_legroom:0 "Ample Legroom"
+  warren_mother:0 "Mother of the Warren"
+  warren_hunter:0 "Hunter of the Warren"
+  old_soldier:0 "Old Soldier"
+  warren_healer:0 "Healer of the Warren"
+  power_of_might:0 "Power of Might"
+  power_of_hunger:0 "Power of Hunger"
+  power_of_tactics:0 "Power of Tactics"
+  warren_winter_expert:0 "Born in the Cold"
+
+  raul:0 "Raul"
+  raul_desc:0 "Raul was the best Vertibird Mechanic the Enclave had. After the defeat of the Enclave at the Oil Rig and Navarro he vanished with Dornan. Upon Dornan's return Raul very quickly realized the equipment they used to build Factories for their equipment needed a major overhaul and began working immediately and became the Enclaves best Engineer."
+
+  judah_kreger:0 "Captain Judah Kreger"
+  judah_kreger_desc:0 "Judah Kreger was a Captain in the Enclave at Navarro and a good one at that. His leadership skills kept several rivalries at bay in the enclave and kept them working together without any problems. When the enclave suffered defeat at the Oil Rig and Navarro his squad fled and attempted to integrate with the NCR secretly. Then Dornan came back and everything changed."
+
+  snookie:0 "Snookie"
+  snookie_desc:0 "Snookie was a Guard at Navarro base guarding a intelligent Deathclaw the enclave had taken prisoner. She was a soldier as well and excelled at entrenching a position and not moving a inch from it. When the Enclave lost at Navarro she managed to escape with Dornan and she returns with him to assist in the Enclaves final Victory."
+
+  quincy:0 "Quincy"
+  quincy_desc:0 "As head of the Technician team at Navarro Quincy was a man of great skill and responsibility. He was in charge of overseeing the work of the mechanics and maintenance crews that were at the base. When the Enclave lost at the Oil Rig and Navarro he vanished with Arch Dornan and now returns with Dornan himself."
+
+  sanders:0 "Colonel Sanders"
+  sanders_desc:0 "Sanders was the Officer in charge of overseeing Excavation at the Mariposa Military Base. His capabilities was what allowed the Enclave to procure the FEV-II sample and prevented Mutant Miners from overcoming the guards and camps just outside the base. He leads his Special Operatives with the ability of a true Enclave Officer."
+
+  daisy_whitman:0 "Daisy Whitman"
+  daisy_whitman_desc:0 "Daisy was and is a accomplished Vertibird pilot and has over 70 missions under her belt in the sky. Although she is ambivalent to the NCR, it was always her dream to each others to fly. And her old comrades are happy to offer her a job."
+  orion_moreno:0 "Orion Moreno"
+  orion_moreno_desc:0 "Orion Moreno was a accomplished soldier in Judah Kreger's squad. His experience on the field and in combat as well as his loyalty leads him to be a rather strong asset to the Enclave in general."
+
+  new_hit_and_run:0 "Grober"
+  new_hit_and_run_desc:0 "The best way to deal with humans is raiding. We can intercept their caravans and then fend off their swarms on our territory."
+
+  new_run_and_hit:0 "Larkas"
+  new_run_and_hit_desc:0 "Only weaklings retreat! Charge!"
+
+  new_larg:0 "Larg"
+  new_larg_desc:0 "Unlike other mutants, Larg finds pleasure in collecting and repairing, not crushing and destroying. This is why he was picked by Thradd to oversee the building of road network around Reno."
+
+  new_karg:0 "Karg"
+  new_karg_desc:0 "Larg's brother, Karg is also known by his unordinary for a super mutant tendencies. He even went as far as to restore a clinic on Second Street."
+
+  new_burrow_master:0 "Burrow Master"
+  new_burrow_master_desc:0 "Not much is known about this mysterious mutant. We don't even know how he looks like. Some say he is a giant, others argue he is a size of a child. Latter is more likely, because Burrow Master is known to live in deep underground tunnels. From there he regularly delivers what little scrap is left in the barren wasteland."
+  ##Cultural Advisor Traits
+	#Columnist
+	owb_cultural_advisor_state_columnist:0 "State Columnist"
+  owb_cultural_advisor_state_columnist_desc:0 "A state columnist works on behalf of the central government to provide a transparent, generally unbiased news reporting that can be easily digested by the people of the wasteland"
+
+	owb_cultural_advisor_venerated_columnist:0 "Venerated Columnist"
+  owb_cultural_advisor_venerated_columnist_desc:0 "Over time, it is almost inevitable that anyone who has witnessed the nature of war and the wasteland will come to despise it. The Venerated Columnist has reached this point in their life, and their frequent writings are often criticized as demoralizing the public."
+
+	#Ideological Somethingorother
+	owb_cultural_advisor_ideological_representative:0 "Ideological Representative"
+  owb_cultural_advisor_ideological_representative_desc:0 "The Ideological Representative is capable of tapping into the very core of a nation's national identity, and using it to rally the people in support of the status quo."
+
+	owb_cultural_advisor_ideological_manipulator:0 "Ideological Manipulator"
+  owb_cultural_advisor_ideological_manipulator_desc:0 "The Ideological Manipulator is capable of tapping into the beliefs and dreams of the core demographics of the nation, but will invariably achieve this by turning them upon smaller demographic groups, who will in turn cease supporting the nation at large."
+
+	#Strategist
+	owb_cultural_advisor_national_strategist:0 "National Strategist"
+  owb_cultural_advisor_national_strategist_desc:0 "The National Strategist is usually a senior warrior or general who specializes in organization of not only military efforts, but high military command."
+
+	owb_cultural_advisor_supreme_strategist:0 "Supreme Strategist"
+  owb_cultural_advisor_supreme_strategist_desc:0 "The Supreme Strategist is a senior National Strategist, trusted and beloved by most in high forms of government for the duty they pursue in the dangerous wasteland. However, their demands often come at the cost of political momentum and even the common good."
+
+	#Population
+	owb_cultural_advisor_population_organizer:0 "Population Organizer"
+  owb_cultural_advisor_population_organizer_desc:0 "In the wasteland, management of populations is not a simple task. It involves brace men going out to take the census, measure the amount of water an area can sustain, and assess general threats. If not done carefully, a large nation may suddenly find entire sections of their population starving or dying out."
+
+	owb_cultural_advisor_population_micromanager:0 "Population Micromanager"
+  owb_cultural_advisor_population_micromanager_desc:0 "The Population Micromanager is the natural evolution of the Population Organizer. They focus on efficient registration of people, distribution of aid, and overall civil structuring. Unfortunately, they have a tendency to single out individuals who should be barred from service, but usually slid under the radar. Those too young, too sick, or too unstable to serve are less likely to do so under their watch."
+
+	#Recruiter
+	owb_cultural_advisor_recruitment_propagandist:0 "Recruitment Propagandist"
+  owb_cultural_advisor_recruitment_propagandist_desc:0 "As one might expect, the Recruitment Propagandist specializes in inspiring young people to enlist and fight on behalf of their homeland, often through catchy tunes and emotional editorials."
+
+	owb_cultural_advisor_recruitment_driver:0 "Recruitment Driver"
+	owb_cultural_advisor_recruitment_driver_desc:0 "A Recruitment Driver takes recruitment to the next tier, relying heavily on financial and political pressure to encourage the depserate to enlist in the army. While immoral, none can deny they are effective."
+
+  chem_pusher:0 "Chem Pusher"
+  slaving_bastard:0 "Slaving Bastard"
+  settlement_raider:0 "Settlement Raider"
+  settlement_defender:0 "Settlement Defender"
+  raider_punish:0 "Punishing Raider"
+  raider_recruitment:0 "Raider Recruiter"
+  raider_brute:0 "Brute"
+  sawbones:0 "Sawbones"
+  settlement_builder:0 "Settlement Builder"
+  slave_flogger:0 "Slave Flogger"
+  raider_expansion:0 "Expanding the Gang"
+  raider_defend:0 "Stubborn Bastard"
+  raider_navy_buff:0 "Raider of the Seas"
+  raider_air_buff:0 "Raider of the Skies"
+
+  man_of_community:0 "Person of the Community"
+  caravan_trader:0 "Caravan Trader"
+  economic_expert:0 "Economic Expert"
+  honest_speaker:0 "Honest Speaker"
+  local_sherrif:0 "Local Sheriff"
+  caravan_guard:0 "Caravan Guard"
+  kind_mercenary:0 "Kind Mercenary"
+  settler_spymaster:0 "Spymaster"
+  settler_military_industrial:0 "Arms Lobbyist"
+  settler_oldworld_infrastructure:0 "Old World Infrastructure"
+  settler_homestead_defence:0 "Homestead Defender"
+  settler_expansion:0 "Bringer of Civilisation"
+  settler_defend_trait:0 "Town Defender"
+  settler_navy_buff:0 "Ferry Captain"
+  settler_air_buff:0 "Flyboy"
+  war_monger:0 "War Monger"
+  friends_in_high_places:0 "Friends In High Places"
+  experienced_diplomat:0 "Experienced Diplomat"
+  faithful_henchman:0 "Faithful Henchman"
+  scientific_devotion:0 "Scientific Devotion"
+
+  tribal_ritualist:0 "The Keeper of Ritual"
+  tribal_elder:0 "Tribal Elder"
+  wall_painter:0 "Wall Painter"
+  tribal_shaman:0 "Shaman"
+  tribal_warrior:0 "Crusher"
+  tribal_birth:0 "Midwife of the Tribe"
+  tribal_foresight:0 "Oracle"
+  tribal_expansion:0 "Thunder Warchief"
+  tribal_defend:0 "Boulder Warchief"
+  tribal_navy_buff:0 "Wave Warchief"
+  tribal_air_buff:0 "Dreamer"
+  tribal_trader:0 "Scoundrel"
+  tribal_good_natured:0 "Good Natured"
+
+  gifted_translator:0 "Gifted Translator"
+
+  unrelenting_crusader:0 "Unrelenting Crusader"
+
+  expel_danish_heretics_tt:0 "We have §Ynot§! §Rexpelled§! the §O\"Danish\" Heretics§!"
+
+  calm_doc:0 "Conflicted Industrialist"
+
+  quatermaster_45:0 "Mormon Quartermaster"
+
+  coming_convert:0 "Coming Convert"
+
+  mormon_militia:0 "The Lord's Teacher"
+
+  gods_warrior:0 "God's Warrior"
+
+  tribal_mormon:0 "Mormon Tribal"
+
+  defender_priest:0 "Defender Priest"
+
+  mormon_ranger:0 "Mormon Rangers"
+
+  mormon_navy_buff:0 "Salt Lake Travel"
+
+  mormon_air_buff:0 "Holy Wings"
+
+  #RRG
+  high_noon_inc:0 "High Noon Arms"
+  high_noon_inc_desc:0 "Considered a lesser branch of one of the T.A.A.'s main dynasties, the McCree Family, High Noon Arms has long operated in the shadow of its parent companies. Despite its low profile, however, it is responsible for some of the T.A.A.'s highest performing small-arms. With an emphasis on designs that cut down production time, the folks at High Noon take longer on the drawing board, but make up for it on the factory floor."
+  xiuhcoatl_inc:0 "Xiuhcoatl Industries"
+  xiuhcoatl_inc_desc:0 "Named after a fabled weapon project from the pre-war era, Xiuhcoatl Industries specialises in bespoke, custom designs made for the task at hand. They've been operating out of Monclova since 2235, and have accumulated a large pool of talented designers in the years since. Their production methods are slower than their competitors, but their results are undeniably superior."
+  ######Tlaloc
+  maximilian:0 "Maximilian"
+  maximilian_desc:0 "Maximilian is first a foremost a politician; if you were to say he excelled at anything, it'd be rousing the people to his side. Unfortunately, he tends to make costly promises to achieve such support."
+  bumbling_politician_trait:0 "Bumbling Politician"
+  maximilian_good:0 "Maximilian"
+  maximilian_good_desc:0 "Maximilian is first a foremost a politician; if you were to say he excelled at anything, it'd be rousing the people to his side. Fortunately his older brother has clarified the limits of popular support."
+  good_politician_trait:0 "Veteran Politician"
+  zapata:0 "Zapata"
+  zapata_desc:0 "Zapata is a revolutionary at heart, his first concerns being that the labourer is well fed, and has useful government factories to toil away in for the benefit of both the state and her people. Unfortunately, this doesn't leave nearly so many able bodies for the military."
+  zapata_good:0 "Zapata"
+  zapata_good_desc:0 "Zapata has been persuaded that a strong executive is best placed to implement land reform and improve the plight of the people."
+  revolutionary_farmer_trait:0 "Revolutionary Farmer"
+  good_farmer_trait:0 "Land Reform"
+  moctezuma:0 "Montezuma"
+  moctezuma_desc:0 "Montezuma is a bloodthirsty warrior brimming with ancient Mexican heritage, and practically itching for a fight with Tlaloc's enemies. Unfortunately, his propensity for ritual sacrifice is both bad for people's health, and their opinion of the government."
+  moctezuma_good:0 "Montezuma"
+  moctezuma_good_desc:0 "Montezuma has been reprogrammed to better represent the skills that actually let the Triple Alliance conquer Mexico. Would you like to discuss philosophy? Or how to bribe a town's leaders to surrender without bloodshed?"
+  ancient_warmonger_trait:0 "Ancient Warmonger"
+  ancient_skills_trait:0 "Successful Traditions"
+
+  #LNS
+  LNS_10_core_reduction_advisor_tt:0 "Gain a §G10%§! reduction in coring costs."
+  lns_quick_witted:0 "Quick-Witted"
+  lns_captivating_speaker:0 "Capivating Speaker"
+  lns_senior_trait:0 "Senior Patrolman"
+  lns_heritage_trait:0 "Air Force Heritage"
+  lns_respond_trait:0 "Rapid Responder"
+  lns_cause_trait:0 "Greater Cause"
+  lns_old_trait:0 "Old Guard"
+  lns_trade_trait:0 "Trader"
+  lns_expedition_trait:0 "Expedition Leader"
+  lns_finance_trait:0 "Union Financier"
+  lns_slaver_trait:0 "Slave Trader"
+  lns_pride_trait:0 "Texan Pride"
+  lns_powerhouse_trait:0 "Economic Powerhouse"
+  lns_sufficient_trait:0 "Self Sufficient Statesmen"
+  lns_cloud_trait:0 "Head In The Clouds"
+  lns_painter_trait:0 "Paint It Red"
+  lns_air_buff:0 "Barn Stormer"
+  lns_sly_merchant:0 "Sly Merchant"
+
+  # TBH
+  stagnant_politician:0 "Stagnant Politician"
+  balance_in_all_things:0 "No Absolutes Allowed"
+  mutant_politician:0 "Mutant Politician"
+  hotblooded_commander:0 "Hotblooded Commander"
+  texas_veteran:0 "Texas Veteran"
+  naval_mastery:0 "Naval Mastery"
+  cos_agent:0 "Circle of Steel Agent"
+  ghoul_ranger:0 "Ghoul Ranger"
+  radical_reformer:0 "Radical Reformer"
+  economic_knowhow:0 "Economic Knowhow"
+
+  # JCT
+  doctor_henry_trait:0 "Expert Physician"
+
+  NEW_ferath:0 "Ferath"
+  NEW_ferath_desc:0 "Born from a mysterious egg found in the Den, Ferath absorbed knowledge like a sponge in a matter of days. Serving now as a protector, this unusually kind soul would never let any harm come upon his friends, even if it meant letting out his inner monster."
+
+### 5.0
+  MCA_chicago_school:0 "The Chicago School of Economics"
+  paranoid_terror:0 "Reign of Terror"

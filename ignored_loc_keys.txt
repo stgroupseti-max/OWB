@@ -1,0 +1,1 @@
+# Add loc keys to this file to have them ignored by the loc_check* console commands

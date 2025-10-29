@@ -1,0 +1,126 @@
+﻿l_english:
+    
+    #violet and lusa's epic localization adventures with the depressing faerie people
+    #things can only go so bad
+    #they go very bad btw
+    #this shit is sad as hell
+    #;-;
+    
+    #starting foci
+    
+    frg_1:0 "The Runaways"
+    frg_1_desc:0 "placeholder"
+    
+    frg_2:0 "Shadows Along The Tree Line"
+    frg_2_desc:0 "placeholder"
+    
+    frg_3:0 "Where The Red Fern Grows"
+    frg_3_desc:0 "placeholder"
+    
+    #ideas tree
+    
+    frg_ideas_1:0 "Jumping From Branches"
+    frg_ideas_1_desc:0 "placeholder"
+    
+    frg_ideas_2:0 "Climbing Up Vines"
+    frg_ideas_2_desc:0 "placeholder"
+    
+    frg_ideas_3:0 "Etching Names Into Bark"
+    frg_ideas_3_desc:0 "placeholder"
+    
+    frg_ideas_4:0 "Accidental Guerrillas"
+    frg_ideas_desc:0 "placeholder"
+    
+    frg_ideas_construction_1:0 "Preventing Overindulgence"
+    
+    frg_little_faerie_hands:0 "Made With Little Faerie Hands"
+    frg_little_faerie_hands_desc:0 "As the new Faeries get closer to one-another, they have begun to construct new things in a harmonious tandem, almost with a degree of showmanship. If we can set up proper lines of production, we'll be able to repair and maintain our own gear much, much more efficiently."
+    
+    frg_ideas_construction_2:0 "No More Dollies"
+    frg_ideas_construction_2_desc:0 "Many of the younger faeries have tried to use our cloth scraps to create little dolls, much like the children of Pleasantdale. We can't allow them to waste our precious resources like that... But maybe a doll or two can sneak by."
+    
+    frg_faerie_lines:0 "Faerie Circles"
+    frg_faerie_lines_desc:0 "We've set up roundabout production lines, and things couldn't be going faster for us. Plenty of us have our own little hovels, now-- and when I walk by some of them, I can hear giggles and the plinking of old chess boards. They're... Happy."
+    
+    frg_big_faerie_ambitions:0 "Big Faerie Ambitions"
+    frg_big_faerie_ambitions_desc:0 ""
+    #opening foci
+    
+    frg_dealing_with_the_boys:0 "Dealing With The Lost Boys"
+    frg_dealing_with_the_boys_desc:0 "Not all of the Faeries here in the Glen have kept their composure. Many of us-- namely, the 'Lost Boys' were clouded too heavily by the effects of their own bodily growth and the Red Fern's mutations. Many of them roam the woods, unable to comprehend themselves anymore. With luck, we may be able to persuade some to come back to their senses, or, even better, begin to find a cure to settle their minds."
+    
+    frg_reorganizing_the_faeries:0 "Gathering the Faeries"
+    frg_reorganizing_the_faeries_desc:0 "placeholder"
+    
+    frg_the_hush:0 "The Hush"
+    frg_the_hush_desc:0 "placeholder"
+    
+    frg_moving_fallen_faeries:0 "Moving Fallen Faeries"
+    frg_moving_fallen_faeries_desc:0 "placeholder"
+    
+    frg_reach_out_to_wakaw:0 "The Good Doctor"
+    frg_reach_out_to_wakaw_desc:0 "placeholder"
+    
+    frg_reach_out_to_nunavut:0 "Strangers in the North"
+    frg_reach_out_to_nunavut_desc:0 "placeholder"
+    
+    #act 2
+    
+    #act 2 - uptown
+    frg_sneaking_uptown:0 "Sneaking into Uptown..."
+    
+    frg_little_treasures_laboratory: "Little Treasures Laboratory"
+    
+    frg_power_plant:0 "Pleasantdale Power Plant"
+    frg_the_red_heels:0 "The Red Heels Club"
+    frg_the_red_heels_desc:0 "placeholder"
+    
+    frg_museum_of_blair:0 "Museum of Blair"
+    frg_museum_of_blair_desc:0 "The Museum of Blair was ordered to be built by none other than Mr. Chase himself, and exists as a vain monument to his self-described grandeur. I wonder what's inside?"
+    
+    #tooltips
+    
+    frg_ahhhhh_naked_people_tt:0 "§gMaybe breaking into a Strip Club to find information on the Doctor isn't the best idea, but it's all we have to go off of aside from the lab itself.§!"
+    frg_break_in_decisions_tt:0 "Unlocks a series of §Ydecisions§! to §Rbreak-in§! to various parts of Pleasantdale, causing mild amounts of chaos in our search."
+    frg_wakaw_tt:0 "§gThey're smart in Wakaw, I think. Maybe they can help us?§!"
+    frg_nunavut_tt:0 "§gI wonder what fish tastes like..?§!"
+    
+    #events
+    
+    nf_frg.1.t:0 "The Runaways"
+    nf_frg.1.d:0 "placeholder"
+    nf_frg.1.a:0 "The Brightest."
+    nf_frg.1.b:0 "The Smartest."
+    
+    nf_frg.2.t:0 "Silhouettes"
+    nf_frg.2.d:0 "placeholder"
+    nf_frg.2.a:0 "placeholder"
+    nf_frg.2.b:0 "placeholder"
+    
+    nf_frg.3.t:0 "The Path Forward"
+    nf_frg.3.d:0 "placeholder"
+    nf_frg.3.a:0 "placeholder"
+    nf_frg.3.b:0 "placeholder"
+    
+    nf_frg.4.t:0 "The Lost Boys"
+    nf_frg.4.d:0 "Morbid children's' tales of beasts that howl amidst the frost-laden winds, deep within the woods outside of Pleasantdale, keep children indoors no later than curfew. \n\n But reality is no different to fiction.  These unfortunate victims are Lost Boys, male faeries driven deranged by their fluctuating hormones and the Red Fern's mutations.  Pleasantdale had banished all the male faeries from the city after the first case.  The remnants of these Lost Boys wander the woods, their minds clouded by a fever dream of violent delirium.  Though not all male faeries became Lost, what to do with them became a growing concern amongst the Glen-- were they worth risking?  Could they be... Cured?  Pattywack was unsure, but Faeries--in any form -- are family... right?"
+    nf_frg.4.a:0 "placeholder"
+    nf_frg.4.b:0 "placeholder"
+    
+    nf_frg.5.t:0 "Unscheduled Appointments"
+    nf_frg.5.d:0 "One of the strange faeries from"
+    nf_frg.5.a:0 "placeholder"
+    nf_frg.5.b:0 "placeholder"
+    
+    nf_frg.6.t:0 "A New Home North?"
+    nf_frg.6.d:0 "placeholder"
+    nf_frg.6.a:0 "placeholder"
+    nf_frg.6.b:0 "placeholder"
+    
+    nf_frg.100.t:0 "Faerie Disappearances in the Outskirts"
+    
+    nf_frg.101.t:0 "Faerie Disappearances in Uptown"
+    
+    nf_frg.1000.t:0 "Sneaking into Uptown"
+    nf_frg.1000.d:0 "Pattywack crept through the annals of Pleasantdale, peaking around corners and climbing atop roofs. When she had finally made it to Uptown, she saw several streets of well-lit roads and cobbled streets, perfectly laid over ancient concrete. Here was the birthplace of the Faeries, no doubt, and the luxurious seat of the Pleasantdale lifestyle."
+    nf_frg.1000.a:0 "The lights are so pretty!"

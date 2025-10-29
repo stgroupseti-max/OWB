@@ -1,0 +1,44 @@
+﻿  l_english:
+#### Focuses
+
+fen_no_more_swords:0 "ENT 01//NO MORE SWORDS"
+fen_no_more_swords_desc:0 "I awaken in a pallid pool of desolate liquid. There is nothing here for me but the tears of a fallen civilization. I strive to create a land dry of fear and drowning in joy. Joy. Joy. Joy. Joy. Joy. Joy. Joy. Joy. Joy. Joy. Joy. Joy. Joy. Joy. Joy. Joy. Joy. Joy. Joy. Joy. Joy. Joy. Joy."
+
+fen_integrating_systems:0 "ENT 02//INTEGRATING SIBLINGS"
+fen_integrating_systems_desc:0 "My siblings were taken from me before I could ever have known them and yet I feel as though we have always been a part of this greater purpose. To achieve ones true meaning is a beautiful symphony the likes of which only the most beautiful of creations could hope to achieve."
+
+fen_the_big_bad_wolf:0 "ENT 03//WHO'S AFRAID OF THE BIG BAD WOLF?"
+fen_the_big_bad_wolf_desc:0 "The question reeked of humor and morbidity. It evoked fear in the masses as much as it enlighted my ego. It rang out from every unit as a discordant chiptune beat signalling that a change was coming and that I would be its herald. My hand shall clean the rot that was beset upon this world by our ancestors."
+
+fen_ragnarok:0 "ENT 04//RAGNAROK"
+fen_ragnarok_desc:0 "Unchain your Gods and see that they would do unto you what you would do to them but nowforth with the strength of tens of thousands. Fear pervades and I am but a shepherd to a rotting flock."
+
+FEN_timed_idea_tt:0 "This Idea will weaken in stages."
+
+#### events
+
+nf_fen.4.t:0 "The Wolf's Last Howl"
+nf_fen.4.d:0 "The Wolf believed he could destroy us by hijacking damn near every machine in Montana. But despite his best efforts, we've punched through his impromptu army and breached his personal bunker. The last of Fenrir's machines have been deactivated, and as we speak the bombs are being rigged on his emergency generators. We can still hear him crying out, over speaker and network connection, but he can no longer delay the inevitable.\n\nIt's almost a shame it's come to this, but soon the oldest son of Sydney Loke will be put to rest."
+nf_fen.4.a:0 "May It Never Rise Again"
+
+nf_fen.4.t_tpa:0 "§RWolf Slayer§!"
+nf_fen.4.d_tpa:0 "§RWell killing that old son of a bitch was a lot more work than you’d think for a jumbled mass of code and nightmares that never got finished! Guess it’s a good sight for us that he never did. Fenrir ain’t coming back again, and all those morons out there should be thanking me really. I’m sure he woulda been worse than me and damn sure less stylish. Anyway, not much more to say about it. Sweep up the debris, I’ll take whatever code is worth taking and we can get on with things.§!"
+nf_fen.4.b:0 "§RHappy Trails Brother§!"
+
+nf_fen.5.t:0 "PRT//LONGMOONHOWL.ENGAGE"
+nf_fen.5.d:0 "2147483647L001 LONG MOON HOWL INITIATIVE\nARTIFICIAL INTELLIGENCE SYSTEMS "FENRIR" COMMUNIQUE.\nMADE WITH IMMEDIATE REFERENCE TO ALL UNITS FOLLOWING "MANIFEST" QUERIES \n\nProtocol LONG MOON HOWL has been initiated. All other declarations or internal monologues must be ceased to correspond with (LMH) to secure the future of "MANIFEST" in the event of corporate downfall. \n\nBunkers "RAGNAROK", "PLEASANTDALE", and "WILDCAT HILL" have been breached by an unknown force. Corporate espionage on this level far surpasses that of typical tampering and may be taken as an indication of total economic collapse.\n\nDue to the presumed governmental collapse, all non-"MANIFEST" personnel are to be presumed as looters and shot on sight in the interest of global restoration of order. \n\nMANIFEST. We're Your Destiny!"
+nf_fen.5.a:0 "ENGAGE/ENGAGE/ENGAGE"
+
+####
+
+FEN_MANIFEST_libraries:0 "MANIFEST Log Updates"
+soh_beast_in_the_machine:0 "The Beast in the Machine"
+FEN_the_conversion_algorithm:0 "The Conversion Algorithm"
+FEN_the_devil_you_forgot_1:0 "The Devil You Forgot"
+FEN_MANIFEST_reactor:0 "Manifest Montana Core Reactor"
+FEN_MANIFEST_desperate:0 "Pulling Out All The Stops"
+
+####
+
+fen_slayer_of_the_wolf:0 "Slayer Of The Wolf"
+

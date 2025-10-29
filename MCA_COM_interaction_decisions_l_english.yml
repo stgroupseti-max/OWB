@@ -1,0 +1,72 @@
+﻿l_english:
+###########################################################
+# Thanks to @Noam and @Wagoo for Writting the loc - Simon#
+###########################################################
+ # decisions
+
+  MCA_COM_DEM_INTER: "Inter-American Cooperation"
+  MCA_COM_DEM_INTER_desc: "[MCA.GetFlag][MCA.GetNameDef] and [COM.GetFlag][COM.GetNameDef] threw off the shackles of the Enclave. Now while both rebuild themselves, they have found a common struggle in their fight against the Enclave and for the reclamation of America. This common struggle has led them to vie for which has a more legitimate claim to be an American unifier, negotiations have begun to see which will come out on top and under what conditions will the less legitimate accede. The most important indicator of the outcome is their own §MLegitimacy§! , representing their public image and how closely they appear to follow American values befitting a nation claiming the status of a resurgent America. \n\n[MCA.GetFlag][MCA.GetName] Legitimacy: [?mca_legitimacy]\n\n[COM.GetFlag][COM.GetName] Legitimacy: [?com_legitimacy]"
+
+	MCA_legitimacy: "§GIncreasing§! [MCA.GetName] §MLegitimacy§!"
+	COM_legitimacy: "§GIncreasing§! [COM.GetName] §MLegitimacy§!"
+	MCA_sabotage_legitimacy: "§RSabotage§! [COM.GetName] §MLegitimacy§!"
+	COM_sabotage_legitimacy: "§RSabotage§! [MCA.GetName] §MLegitimacy§!"
+	MCA_OP_PLAYER: "[MCA.GetName] Is §RIncreasing§! §MLegitimacy§!"
+	MCA_OP_UP: "[MCA.GetName] Is §RIncreasing§! §MLegitimacy§!"
+	MCA_OP_DOWN: "[MCA.GetName] Is §RDecreasing§! Our §MLegitimacy§!"
+	COM_OP_PLAYER: "[COM.GetName] Is §RIncreasing§! §MLegitimacy§!"
+	COM_OP_UP: "[COM.GetName] Is §RIncreasing§! §MLegitimacy§!"
+	COM_OP_DOWN: "[COM.GetName] Is §RDecreasing§! Our §MLegitimacy§!"
+
+	MCA_COM_NEGOTIATIONS_TWO: "Allied States Membership"
+	MCA_COM_Annexation: "American Integration"
+
+	MCA_ghoul: "Claim Ghoul Rights"
+	MCA_OP_GHOUL: "[MCA.GetName] is gaining §MLegitimacy§!"
+	MCA_liberty: "§MLegitimacy§! by American Freedom"
+	MCA_OP_LIBERTY: "[MCA.GetName] is gaining §MLegitimacy§!"
+	MCA_freedom: "§MLegitimacy§! of Freedom"
+	MCA_OP_FREEDOM: "[MCA.GetName] is gaining §MLegitimacy§!"
+	MCA_free_army: "§MLegitimacy§! of the Army of the Free"
+	MCA_OP_FREEARMY: "[MCA.GetName] is gaining §MLegitimacy§!"
+	MCA_america: "Claim Americas Mantel"
+	MCA_OP_AMERICA: "[MCA.GetName] is gaining §MLegitimacy§!"
+
+	COM_Congress: "Claim Congress §MLegitimacy§!"
+	COM_OP_CONGRESS: "[COM.GetName] is gaining §MLegitimacy§!"
+	COM_Election: "§MLegitimacy§! from Elections"
+	COM_OP_ELECTION: "[COM.GetName] is gaining §MLegitimacy§!"
+	COM_Trains: "Connect America"
+	COM_OP_TRAINS: "[COM.GetName] is gaining §MLegitimacy§!"
+	COM_Industry: "Claim American Industrial Might"
+	COM_OP_INDUSTRY: "[COM.GetName] is gaining §MLegitimacy§!"
+
+	COM_Confederation: "Claim Arcadian Identity"
+	COM_OP_CONFEDERATION: "[COM.GetName] is gaining §MLegitimacy§!"
+	COM_Confederat: "Claim Arcadian Independence"
+	COM_OP_CONFEDERAT: "[COM.GetName] is gaining §MLegitimacy§!"
+	COM_Arcd: "Separat Arcadian Industry"
+	COM_OP_ARCD: "[COM.GetName] is gaining §MLegitimacy§!"
+	COM_Cascadia: "Claim Cascadian Expansion"
+	COM_OP_CASCADIA: "[COM.GetName] is gaining §MLegitimacy§!"
+
+  #Flags#
+  MCA_COM_dem_inter:0 "Inter American Negotiations"
+  MCA_COM_NEGOTIATIONS_TWO_FLG:0 "Both Nations are in the Allied States"
+  MCA_COM_dem_inter_done:0 "Inter American Negotiations are over"	
+  #Tooltip#
+	LEG_UP_tt:0 "You §GGain§! 5 §MLegitimacy§!"
+	LEG_DOWN_tt:0 "You §RLose§! 5 §MLegitimacy§!"
+	LEG_ANTI_UP_tt:0 "The Opposition §RGains§! 5 §MLegitimacy§!"
+	LEG_ANTI_DOWN_tt:0 "The Opposition §GLoses§! 5 §MLegitimacy§!"
+	LEG_ONE_tt:0 "One Side has to have over 50 and more §MLegitimacy§! than the other. The Nation with §Ghigher§! §MLegitimacy§! annexes the one with §Rlower§! §MLegitimacy§!. Troops and Generals will be transfered from the §Rlower§!  §MLegitimacy§! Nation to the command of the §Ghigher§! §MLegitimacy§! Nation."
+  #EVENT#
+  mca_com_inter.7.t:0 "Matters of Canada"
+  mca_com_inter.7.d:0 "Congress had been debating for days. After several filibusters and a lot of angry gesturing, the various arguments about the fate of Canada have coalesced into two primary arguments. \n\nFirstly, the hardliners want full annexation of Canada, with the hope that the failings of the Old World can be avoided with the wisdom of the New. The second proposal believed that a subordinate Canadian state would serve the interests of a new American state best, serving as a guided state that would be able to collaborate in the nation building that would be necessary in a reunified America. \n\nA Canadian Transition Council has been formed from the recruited Canadian collaborators, to handle whichever proposal goes forward, either managing the annexation or helping kickstart the subordinate state. Will the wisdom of the Old World be taken as Gospel, or will a new path be forged alongside a resurrected America?"
+  mca_com_inter.7.a:0 "A Free Canada"
+  mca_com_inter.7.b:0 "Canada is annexed"
+
+  mca_com_inter.1.t:0 "Two Minds, Not So Opposed."
+  mca_com_inter.1.d:0 "Inside a hastily cleaned barracks, the room was practically covered in documents. On one end sat a lady in her 30s, clean and proper in her suit. On the other end lay with his feet on the table a Ghoul, his face so rotten bone could be seen on his forehead, sipping coffee and acting without a care in the world. \n\n"So we're in agreement of an alliance, Mr. First Canadarian?"\n\n"You got us there, toots," Morton Betancourt rasped. "What I'm wondering is how much more we can get by letting you call me that. It's First Arcadian, not this fucking Canadarian shit."\n\n "This isn't about getting, Mr. Betancourt," Shelley Gabryszak responded, reaching for a cup of mutfruit tea. "This is about just what exactly we can do together." \n\n"Just how much are you First Family people willing to accept to see that idea through the mouth and out the ass?" Betancourt responded, loosing a chuckle that led to a hacking fit and a loogie in his coffee. \n\n"How much are yours?" Gabryszak retorted. "After all, I think we're the more legitimate of the two."\n\nBetancourt could only laugh again, slapping the table and looking amused as a small cyst came off his wrist. "Oh, that's how you wanna play, huh? Toots, I was born just after the War and know full well what those soldiers did. They told us, even. Them and us Arcadians are way more legit than you lovely badass bitches- no offense."\n\nGabryszak sipped her tea, and cooly spoke to her counterpart on the other end of the table. "How about this, Mr. Betancourt?" she said smoothly, looking him dead in the eyes. "We adjourn for now, and discuss things with our leaders about the mandate of America- who leads it, what shape it's in, so on. I think we'll have a lot to agree on." She smiled at last, a confident one that felt as if the right choice would be made. In contrast was Betancourt's shit-eating grin, so wide as to split the flesh of his lips."
+  mca_com_inter.1.a:0 ""You're on, toots.""
+  

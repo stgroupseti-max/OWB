@@ -1,0 +1,98 @@
+﻿l_english:
+#Ideas
+      on_fire_1: "Everything's on fire!"
+      on_fire_1a: "Restoring order"
+      on_fire_1b: "Restoring order"
+      on_fire_1ab: "Restoring order"
+      on_fire_2_1: "On a powder keg"
+      on_fire_2_2: "On a powder keg"
+      on_fire_2a: "[ROOT.OVERLORD.GETNAME]'s help"
+      on_fire_2b: "[ROOT.OVERLORD.GETNAME]'s help"
+      on_fire_2c: "[ROOT.OVERLORD.GETNAME]'s help"
+      on_fire_2d: "[ROOT.OVERLORD.GETNAME]'s help"
+      on_fire_2ab: "[ROOT.OVERLORD.GETNAME]'s help"
+      on_fire_2ac: "[ROOT.OVERLORD.GETNAME]'s help"
+      on_fire_2ad: "[ROOT.OVERLORD.GETNAME]'s help"
+      on_fire_2bc: "[ROOT.OVERLORD.GETNAME]'s help"
+      on_fire_2bd: "[ROOT.OVERLORD.GETNAME]'s help"
+      on_fire_2cd: "[ROOT.OVERLORD.GETNAME]'s help"
+      on_fire_2abc: "[ROOT.OVERLORD.GETNAME]'s help"
+      on_fire_2abd: "[ROOT.OVERLORD.GETNAME]'s help"
+      on_fire_2acd: "[ROOT.OVERLORD.GETNAME]'s help"
+      on_fire_2bcd: "[ROOT.OVERLORD.GETNAME]'s help"
+      on_fire_2abcd: "[ROOT.OVERLORD.GETNAME]'s help"
+      on_fire_3_1: "Stabilized government"
+      on_fire_3_2: "Stabilized government"
+      on_fire_4_1: "Federal state"
+      on_fire_4_2: "Federal state"
+      on_fire_4_3: "Federal state"
+      on_fire_4_4: "State of [Root.GetName]"
+      hinasters_military_1: "[ROOT.OVERLORD.GETNAME]'s Officers"
+      hinasters_military_2: "AS Army Corps"
+      hinasters_military_3: "AS Army Corps"
+      hinasters_science_1: "[ROOT.OVERLORD.GETNAME]'s Specialists"
+      hinasters_science_2: "Research Agreement"
+#Opinion
+      fellow_state:0 "Fellow State"
+#Focuses
+      ##1
+      erbhin_everything_on_fire:0 "Shattered State"
+      erbhin_everything_on_fire_desc:0 ""
+      ##2a
+      erbhin_getting_your_stuff_together_war_support:0 "Firebrands Suppression"
+      erbhin_getting_your_stuff_together_war_support_desc:0 ""
+      ##2b
+      erbhin_getting_your_stuff_together_stability:0 "Old World Patriotism"
+      erbhin_getting_your_stuff_together_stability_desc:0 ""
+      ##3
+      erbhin_everything_is_in_less_fire:0 "Allied States Membership"
+      erbhin_everything_is_in_less_fire_desc:0 ""
+      ##4
+      erbhin_asking_for_a_help:0 "Help from [ROOT.OVERLORD.GETNAME]"
+      erbhin_asking_for_a_help_desc:0 ""
+
+      erbhin_pay_taxes:0 "The Federal Income Tax"
+      erbhin_pay_taxes_desc:0 "Technically, we do owe a lot since 2077...."
+      ##5a
+      erbhin_help_from_nevada_economic:0 "[ROOT.OVERLORD.GETNAME]'s Invesments"
+      erbhin_help_from_nevada_economic_desc:0 ""
+      ##5b
+      erbhin_help_from_nevada_officers:0 "[ROOT.OVERLORD.GETNAME]'s Officers"
+      erbhin_help_from_nevada_officers_desc:0 ""
+      ##5c
+      erbhin_help_from_nevada_politics:0 "[ROOT.OVERLORD.GETNAME]'s Politicians"
+      erbhin_help_from_nevada_politics_desc:0 ""
+      ##5d
+      erbhin_help_from_nevada_specialists:0 "[ROOT.OVERLORD.GETNAME]'s Specialists"
+      erbhin_help_from_nevada_specialists_desc:0 ""
+      ##6
+      erbhin_fire_is_almost_over:0 "Stabilizing Government"
+      erbhin_fire_is_almost_over_desc:0 ""
+      ##7
+      erbhin_more_officers:0 "Rebuilding the Corps"
+      erbhin_more_officers_desc:0 ""
+      ##8
+      erbhin_getting_you_up_to_speed:0 "Research Agreement"
+      erbhin_getting_you_up_to_speed_desc:0 ""
+      ##9a
+      erbhin_tinmen:0 "Power Armor Manuals"
+      erbhin_tinmen_desc:0 ""
+      ##9b
+      erbhin_laser_lovers:0 "AER Schematics"
+      erbhin_laser_lovers_desc:0 ""
+      ##10
+      erbhin_fires_gone_its_getting_pretty_good:0 "Federalization"
+      erbhin_fires_gone_its_getting_pretty_good_desc:0 ""
+      ##11
+      erbhin_the_reclaimation_of_the_capital:0 "Retaking the Capital"
+      erbhin_the_reclaimation_of_the_capital_desc:0 ""
+      hinasters_capital_get: "§![Root.GetName]§!'s capital retaken."
+      ##12
+      erbhino_the_presidental_speech:0 "The Governor's Speech"
+      erbhino_the_presidental_speech_desc_desc:0 ""
+      ##13
+      erbhin_the_state_of_insert_name_here:0 "The State of [Root.GetName]"
+      erbhin_the_state_of_insert_name_here_desc:0 ""
+      hinasters_full_state: "§![Root.GetName]§! fully reformed."
+      erbhin_help_genetic_purity:0 "Saving the Human Race"
+      enclave_puppet_farms:0 "The Conservation Corps"

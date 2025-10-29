@@ -1,0 +1,101 @@
+﻿l_english:
+  bos_underground_hangars: "Underground Hangars"
+  bos_underground_hangars_desc: "Due to the fact that Lost Hills has lost almost all of its above-ground bunkers our ability to utilize what air-based technology we have is extremely limited, our scribes forced to exclusively use our few remaining underground hangars, carefully timing lift-offs in order to avoid the hangars entrances being found by the NCR."
+
+  bos_enclave_tactical_experience_1: "Enclave Tactical Experience"
+  bos_enclave_tactical_experience_2: "Enclave Tactical Experience"
+  bos_enclave_tactical_experience_3: "Enclave Tactical Experience"
+  bos_mutant_fighting_experience_1: "Mutant Tactical Experience"
+  bos_mutant_fighting_experience_2: "Mutant Tactical Experience"
+  bos_mutant_fighting_experience_3: "Mutant Tactical Experience"
+  bos_legion_fighting_experience_1: "Legion Tactical Experience"
+  bos_legion_fighting_experience_2: "Legion Tactical Experience"
+  srg_steel_rangers_armed_corps_1: "Steel Rangers Army Corps"
+  srg_steel_rangers_armed_corps_2: "$srg_steel_rangers_armed_corps_1$"
+  srg_steel_rangers_armed_corps_3: "$srg_steel_rangers_armed_corps_1$"
+  srg_steel_rangers_armed_corps_4: "$srg_steel_rangers_armed_corps_1$"
+  srg_steel_rangers_armed_corps_5: "$srg_steel_rangers_armed_corps_1$"
+  bos_brotherhood_exodus: "Expeditions Return"
+  bos_brotherhood_exodus_desc: "With the fall of a chapter the Brotherhood has been taking in an influx of survivors, working to get them assigned to new tasks."
+  bos_state_influence: "Brotherhood Presence"
+  bos_state_influence_desc: "The Brotherhood has some minor presence in this state."
+  bos_state_influence_effect_tt: "§YUnderground Presence§!: If §YLost Hills§! ends up at war with the holder of this state, the control of this state immediately switches to §YLost Hills§!."
+  bos_saviour_of_mankind:0 "Saviour of Mankind"
+  generic_bos_scribes:0 "Scribe Founders"
+  generic_bos_scribes_desc:0 ""
+
+  generic_bos_paladins:0 "Paladin Founders"
+  generic_bos_paladins_desc:0 ""
+
+  genericbossteellegions:0 "Steel Legions"
+  genericbossteellegions_desc:0 ""
+
+  genericbosfleshbeforesteel:0 "Flesh Before Steel"
+  genericbosfleshbeforesteel_desc:0 ""
+
+  genericbosscriberesearch:0 "Scribe Research"
+  genericbosscriberesearch_desc:0 ""
+
+  genericbosbunkerthought:0 "Bunker Mindset"
+  genericbosbunkerthought_desc:0 ""
+
+  genericbosaerialsupermacy:0 "Aerial Supremacy"
+  genericbosaerialsupermacy_desc:0 ""
+
+  genericbosflightacademy:0 "Brotherhood Flight Academy"
+  genericbosflightacademy_desc:0 ""
+
+  genericbost45d:0 "T-45d Power Armour Production"
+  genericbost45d_desc:0 ""
+
+  genericbost51b:0 "T-51b Power Armour Production"
+  genericbost51b_desc:0 ""
+
+  genericboscombinedoperations:0 "Combined Operations"
+  genericboscombinedoperations_desc:0 ""
+
+  genericbossurfaceoutposts:0 "Surface Outposts"
+  genericbossurfaceoutposts_desc:0 ""
+
+  genericbosnewtech:0 "Technological Breakthrough"
+  genericbosnewtech_desc:0 ""
+
+  genericbosfactoryoutput:0 "Manufacturing Process"
+  genericbosfactoryoutput_desc:0 ""
+
+  genericbosresources:0 "Resource Production"
+  genericbosresources_desc:0 ""
+
+  genericbos_wastelanders:0 "Recruiting Worthy Wastelanders"
+  genericbos_wastelanders_desc:0 ""
+
+  genericbos_new_initiates:0 "New Generations"
+  genericbos_new_initiates_desc:0 ""
+
+  genericbos_t45_production:0 "Brotherhood Armor Production"
+  genericbos_t45_production_desc:0 ""
+
+  genericbos_ourmight:0 "Continual Improvement"
+  genericbos_ourmight_desc:0 ""
+
+  genericbos_brotherhoodnavy:0 "A Naval Brotherhood"
+  genericbos_brotherhoodnavy_desc:0 ""
+
+  genericbos_airbases:0 "Restoring Airports"
+  genericbos_airbases_desc:0 ""
+
+  genericbos_workshops:0 "Building Circuit Boards"
+  genericbos_workshops_desc:0 ""
+
+  genericbos_powerplants:0 "Fuelling Power Plants"
+  genericbos_powerplants_desc:0 ""
+
+  genericbos_foundries:0 "Melting Steel"
+  genericbos_foundries_desc:0 ""
+
+  brotherhoodnavy_1_tt:0 "Increase §YA Naval Brotherhood§! by §G+10% Fleet Coordination§!"
+  brotherhoodnavy_2_tt:0 "Increase §YA Naval Brotherhood§! by §G-10% Naval Attrition§!"
+  brotherhoodnavy_3_tt:0 "Increase §YA Naval Brotherhood§! by §G+10% Naval Range§!"
+
+  intelligence_defense_boost_dlc_weak_tt:0 "If you own La Resistance, this idea also adds \n§G2 counter-intelligence§! and §G1 crypto strength§!"
+  intelligence_defense_boost_dlc_strong_tt:0 "If you own La Resistance, this idea also adds \n§G3 counter-intelligence§! and §G2 crypto strength§!"

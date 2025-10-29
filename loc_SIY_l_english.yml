@@ -1,0 +1,62 @@
+﻿  l_english:
+
+  #### Characters
+  SIY_AGENT_ALABASTER:0 "Agent Alabaster"
+  SIY_AGENT_ALABASTER_DESC:0 "When it came to selecting a leader for the expedition into the Nebraska Quarantine Zone, Agent Alabaster was a natural choice. He has always been the type who preferred to work in the shadows, never taking unnecessary risks that might force his name into the spotlight. This would also allow for the expedition to be more easily dismissed if it were to be met with failure, an outcome that many within the Committee believed would be the case.\n\nAdditionally, although Agent Alabaster is not particularly renowned for his strength or cunning, he has sharpened his survival instincts over years of conflict. He has proved in the past to be able to carry out missions effectively despite seemingly lacking the resources to do so. However, whether or not his experience will be enough to contend with the Plague-Stricken Monsters of the Plaguelands remains to be seen."
+
+  SIY_TECHNICIAN_MORSE:0 "Technician Morse"
+  SIY_TECHNICIAN_MORSE_DESC:0 ""
+
+  SIY_OPERATOR_LINE:0 "Operator Line"
+  SIY_OPERATOR_LINE_DESC:0 ""
+
+  SIY_SUBJECT_ZERO:0 "Subject Zero"
+  SIY_SUBJECT_ZERO_DESC:0 ""
+
+  #### Ideas
+  SIY_illfated_expedition:0 "Ill-Fated Expedition"
+  SIY_illfated_expedition_desc:0 "Since their inception, plans for sending a Task Force into the Nebraska Quarantine Zone were highly contentious. With tensions between the nearby powers of the Brotherhood and Enclave nearing a boiling point, the Initiative had to play its cards carefully. Data records procured from the regional Centers for Disease in Rochester indicated that the Nebraska Quarantine Zone was a testbed for unconventional weapons in order to prevent the spread of the New Plague. This opportunity to bolster our defenses became the deciding factor for the Committee to send a Task Force led by Agent Alabaster to investigate its Research Sites.\n\nHowever, information on Research Sites X, Y, and Z were highly classified with their names and locations being the only indication as to their existence. Many specialists would pore over these documents and discover the implied the existence of a fourth Research Site whose true purpose couldn’t be ascertained. Most theorized that it was linked to the Lifeline, an ostensibly out of place prewar subway system, yet only direct examination could uncover the truth."
+
+  SIY_plagued_lands:0 "Plague, Misery, and Death"
+  SIY_plagued_lands_desc:0 "Many of the locations scattered throughout the wastes betray their namesakes. The Plaguelands does not. Its cordon sanitaire is filled to the brim with infested tunnels of plague-stricken monsters, robots slaughtering every living creature they came into contact with, and groups of survivors desperately clinging to fanatic ideologies.\n\nAfter the entrance of the Initiative’s Task Force into the Quarantine Zone, they would soon find that it pays to be prepared. The sealed frames of their scarce power armor from McCoy would see far more use in combat than originally intended. Despite their sizable supply of medical supplies, it will take some time before they become acclimated to this hostile environment."
+
+  SIY_resourceful:0 "Making Do"
+  SIY_resourceful_desc:0 "Being recent arrivals to the Plaguelands, we have to be careful with how we manage our resources. Every member of our expedition is carefully assigned to make the most of our limited numbers. Our expedition is also forced to make do with supplies wherever we find them, even if that includes those of fallen adversaries and forgotten caches in the clutches of the Plaguelands."
+
+  SIY_successful_expedition:0 "Successful Expedition"
+  SIY_successful_expedition_desc:0 "Once breached and thoroughly searched, the research sites of the Nebraska Quarantine Zone were all empty and we haven’t been able to reestablish contact with Rochester. Many questions were left unanswered, and many more were raised. The picture is still incomplete. Puzzle pieces are missing... or perhaps they haven’t even been made yet.\n\nRegardless, the entirety of the Plaguelands and its fate now rests in our hands in the face of insurmountable odds. We have much work to do, so let’s make the most of this situation.\n\n§RThe contents of Site Y and other locations will be implemented in a future update.§!"
+
+  #### Events
+  nf_siy.1.t:0 "Systems Reboot"
+  nf_siy.1.d:0 "Agent Alabaster and a detachment of his Task Force equipped with airtight power armor gathered in front of the large blast door bisecting the underground section of Site Y. A faint red light illuminated the corridor, indicating that the sector ahead of them was still in emergency lockdown. They checked their gear for what seemed like the hundredth time and set up at their planned defensive locations around the door. The rear guard shut the doors behind them leading to their makeshift outpost and then aimed their weapons towards the main blast door.\n\nAfter a while, the emergency lights shut off for a few tantalizing seconds that seemed to last a lifetime before the facility suddenly rumbled to life. The door’s locks clicked open and the lights overhead flickered on, temporarily blinding the group before their eyes were forced to adjust.\n\nThe group waited before the blast door with bated breath before Alabaster's order to proceed was given."
+  nf_siy.1.a:0 "..."
+
+  #nf_siy.1.t:0 "Systems Reboot"
+  #nf_siy.1.d:0 "Agent Alabaster and the experienced soldiers within his ranks gathered in front of the large blast door bisecting the underground section of Site Y. A faint red light illuminated the corridor, indicating that the sector ahead of them was still in emergency lockdown. They checked their gear for what seemed like the hundredth time and set up at their planned defensive locations around the door. The rear guard shut the doors behind them leading to their makeshift outpost and then aimed their weapons towards the main blast door.\n\n“Task force in place,” Agent Alabaster said into the group’s bulky transmitter with apprehension, “reboot the facility’s security systems”.\n\nThe emergency lights shut off for a few tantalizing seconds that seemed to last a lifetime before the facility suddenly rumbled to life. The door’s locks clicked open and the lights overhead flickered on, temporarily blinding the group before their eyes were forced to adjust. The group waited before the blast door with bated breath."
+  #nf_siy.1.a:0 "§RAn unaccounted factor would spell their end.§!"
+  #nf_siy.1.b:0 "Every precaution had been taken."
+
+  #### Decisions
+  form_upsilon_initiative:0 "Form the Upsilon Initiative"
+  form_upsilon_initiative_desc:0 "The perpetual gunfire and explosions that have echoed throughout the walls of the Nebraska Quarantine Zone have now been brought to an end. Our once meager Task Force has consolidated control of the Plaguelands and unified its once disparate groups. At long last, it's time for us to form a new Committee to rehabilitate the Plaguelands and uncover its secrets once and for all."
+
+  ### Tooltips
+  SIY_plaguelands_conquered_tt:0 "§YThe Plaguelands§!: All core land of §YThe Plaguelands§! is owned by §YSite Y§!, their subjects, or their allies."
+  SIY_core_plaguelands_tt:0 "§GCores§! all owned states also cored by §YThe Plaguelands§!."
+
+  #### Cosmetic Tag
+  SIY_initiative_elites:0 "Upsilon Initiative"
+  SIY_initiative_elites_ADJ:0 "Initiative"
+  SIY_initiative_elites_DEF:0 "the Upsilon Initiative"
+  SIY_initiative_ruler:0 "Upsilon Initiative"
+  SIY_initiative_ruler_ADJ:0 "Initiative"
+  SIY_initiative_ruler_DEF:0 "the Upsilon Initiative"
+  SIY_initiative_people:0 "Upsilon Initiative"
+  SIY_initiative_people_ADJ:0 "Initiative"
+  SIY_initiative_people_DEF:0 "the Upsilon Initiative"
+  SIY_initiative_intellectuals:0 "Upsilon Initiative"
+  SIY_initiative_intellectuals_ADJ:0 "Initiative"
+  SIY_initiative_intellectuals_DEF:0 "the Upsilon Initiative"
+
+  ### Party Names
+  SIY_ruler_party:0 "Task Force Omega"
