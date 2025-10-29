@@ -1,0 +1,220 @@
+﻿l_english:
+# Focuses
+  var_april_queen:0 "Queen Of The Dead"
+  var_april_queen_desc:0 "I have arrived in a strange land. I do not know where I am, I cannot feel my Legion, and my head is spinning. I must collect myself, lest I be swept away by the oncoming Orc horde. The Queen of the Dead will not be taken so easily."
+
+  var_april_iron:0 "The Iron Hand"
+  var_april_iron_desc:0 "Filthy Orcs. I may be without my Legion and Acolytes, but I am still the foremost sorceress in the world! You shall not take my life. Instead, I shall take yours, and from your corpses a new Legion will rise."
+
+  var_april_legion_undead:0 "Birth Of The Undead Legion"
+  var_april_legion_undead_desc:0 "Once, my Legion was the strongest army in the world. All feared the unending tide of the Dead. Though I am in a new land, it too will learn to fear the sound of the Dead marching to war. My Legion will rise again."
+
+  var_april_shadow_oregon:0 "A Shadow Casts Itself Upon Oregon"
+  var_april_shadow_oregon_desc:0 "My armies are ready. The peoples of this land, “Oregon” they call it, do not expect my Legion to come. But it does come, and soon, all lands will cower in my shadow. First, however, are the lands to our north, littered with the bones of the dead. This shall be fun."
+
+  var_april_ghost:0 "The Past Belongs To The Past"
+  var_april_ghost_desc:0 "This land has its secrets, its horrors from a time long lost to this world. Though we have defeated the people who call it home, I have yet to understand what it is they have guarded. In the end, it matters not. This land is now my own, and the past matters not for my future."
+
+  var_april_salem:0 "The Town Of Salem"
+  var_april_salem_desc:0 "Another tribe resides northwest, in a town called Salem. They speak of an unbreaking chain stretching back centuries. I believe it is high time that this chain was shattered, its remains ground under my heel."
+
+  var_april_bend:0 "The Dead Comes To Bend Ralley"
+  var_april_bend_desc:0 "I have heard of another sorceress, capable of bending minds to her will. Such power may pose a threat to my ambitions, though I also sense an opportunity. The dead will march on Bend Ralley, and I shall see what this Mesmeralda has to offer."
+
+  var_april_salem_trials:0 "Their Own Trials"
+  var_april_salem_trials_desc:0 "We have broken the Rib Breakers, their chain shattered beyond repair. Another tribe falls before my growing Legion of the dead, their number growing with every enemy slain. Here is no exception. The broken breakers now serve me in death."
+
+  var_april_mesmeralda:0 "An Audience With Mesmeralda"
+  var_april_mesmeralda_desc:0 "My Legion has smashed the thralls of Mesmeralda, wiping the name Marrow Drinkers from the face of the earth. As for the Gorgon herself, she was brought to me in chains, her tools of domination presented before me. We speak long into the night, before I send her back to her cell. I will see if she bends the knee in the morning."
+
+  var_april_new_esthil:0 "New Esthil"
+  var_april_new_esthil_desc:0 "The realm of Esthil was my personal domain. All within served me, and all within were subject to my will. Although it is now lost to me, its name will live on. Arise, New Esthil, my new realm. Soon, all of Oregon will be conquered in its glory."
+
+  var_april_life_again:0 "Life Again Anew"
+  var_april_life_again_desc:0 "The ruins of Salem have been left in their state since my Legion swept through the Rib Breakers. While the dead still walk the streets, it is time they are put to use. Life will begin again, even if I have to raise it myself."
+
+  var_april_riches_salem:0 "The Riches In The Remains Of Salem"
+  var_april_riches_salem_desc:0 "The town of Salem has somewhat been restored by my followers and servants, who now occupy and work its workshops. Yet the locals speak of a cache of riches in the town. The Dead will excavate the ruined structures in the town's centre, and these riches shall be mine."
+
+  var_april_acolytes:0 "The First Of The New Acolytes"
+  var_april_acolytes_desc:0 "I resumed my audience with Mesmeralda, and am pleased with the outcome. With merely a demonstration of my craft, she submits to me, begging for me to teach her. I shall teach her; she will be the first of my new Acolytes in this world, leading my armies across its wastes."
+
+  var_april_mesmeralda_gifts:0 "Mesmeraldas Gifts"
+  var_april_mesmeralda_gifts_desc:0 "It seems my new Acolyte has had something to offer me as well. Her artifacts possess a great power to bend a mind to her will. Although the dead are my most numerous servants, having living slaves would certainly be of use. I have given the Gorgon my blessing to use her gifts as she's fit."
+
+  var_april_to_the_sea:0 "To The Sea, Where The Stars Reflect"
+  var_april_to_the_sea_desc:0 "The west lays a great ocean, vast and unending. Some people in this land claim there is another land across its vast waves, others claim that it is an unending expanse of water. I know that tribals who worship false gods along its coasts will be crushed by my Legions."
+
+  var_april_to_the_east:0 "To The East, On The Path Of Vice And Villainy"
+  var_april_to_the_east_desc:0 "To the East I hear rumours of a great city, filled with vice and sin. Such a prize will be the jewel in my crown, and the raider gangs in my way shall be forced to bend the knee. My Legion shall show them the truth of my reign."
+
+  var_april_monsters:0 "Killing Monsters"
+  var_april_monsters_desc:0 "The Mirelurk tribe are a group of heretics who dare worship a giant overgrown crustacean. Their folly will be their end. I will force them to watch as I cook their god for my victory feast, and laugh as I smash its eggs against the ground."
+
+  var_april_be_it:0 "Be It Castellos, Or The Ruddy Man"
+  var_april_be_it_desc:0 "The heretics who call themselves The Apostles dare worship some false god in the face of my power. My Legion will show them what a true god looks like, and the power that I wield over death itself."
+
+  var_april_profession:0 "Is A Profession Dear To Us"
+  var_april_profession_desc:0 "With the last egg destroyed, the heretics of the Mirelurk Tribe are forced into submission. My Acolytes and myself will enjoy feasting on crab meat for the next week, while my Legion grows from the dead they foolishly sacrificed to the crab."
+
+  var_april_god:0 "The Only God Left, Is Me"
+  var_april_god_desc:0 "The Apostles have been baptised in the fire of my Legion, those falling adding to its endless number. The cult of the Ruddy Man has been broken, and now all of Oregon will see that I am the only one who shall be worshipped."
+
+  var_april_old_cap:0 "The Old Capital Of Oregon"
+  var_april_old_cap_desc:0 "The Bone Dancers are another stupid tribe of raiders, following pitiful belifes and customs. My Legion will have no trouble destroying them, though there is one amongst them that I am interested in. Some sort of man called the Odious King. I shall have him brought to me in chains."
+
+  var_april_road_nevada:0 "The Barrier On The Road To Nevada"
+  var_april_road_nevada_desc:0 "The gang hiding out in Chemalt Station, whatever a station is, stands in the way of me and the City of Sin. Their pitiful traditions, no matter how ancient, stand no chance in the face of my craft. Nor my Legion of the dead."
+
+  var_april_no_rest:0 "No Rest For The Wicked"
+  var_april_no_rest_desc:0 "The Bone Dancers dance no more, and my Legion continues to grow, though I must admit that their cannibalistic ways have provided me with a huge source of bodies to raise. As for the Odious King, he is bound in a cell, awaiting an audience with me. Let us see what makes him special."
+
+  var_april_dark_night:0 "A Dark Night Sets Upon The Station"
+  var_april_dark_night_desc:0 "The gang was no match for my endless Legion, it was almost embarrassing how quickly we overran them. The survivors held up in some sort of metal carriage, boarding the doors up in a hopeless attempt to save themselves. I enjoyed setting it alight and listening to their screams."
+
+  var_april_odius_king:0 "The Odious King"
+  var_april_odius_king_desc:0 "The Odious King is an intriguing man. He appears to have a mastery over sound and an obsession with melodies, I can sense the psychic energy emanating from him. He was even easier to sway into my services than I thought, mumbling something about a master race. He will be of use, even if he does smell..."
+
+  var_april_new_acolytes:0 "The Birth Of The New Acolytes"
+  var_april_new_acolytes_desc:0 "It appears that the Odious King is eager to prove his worth. Using those glowing barrels that the Orcs had collected, he is able to create more of what he calls psykers. These magic users are weak compared to my power, yet have potential to assist me in controlling the dead."
+
+  var_april_first_last:0 "The First New Days Of Chemult"
+  var_april_first_last_desc:0 "Chemult Station is a dumb of rusted metal and rotten wood, though I can see the potential in the land. After clearing the land of its debris, new workshops can be built in its place. Chemult shall become an industrial heart for my empire."
+
+  var_april_road_south:0 "The Road South"
+  var_april_road_south_desc:0 "Oregon is a sparse land, devoid of both people and resources. The lands south however, have an abundance of both. I must make sure the roads are developed enough to allow my army to advance unhindered. I wouldn't want to give my enemies time to prepare now would I?"
+
+  var_april_warfare_oregon:0 "The Warfare Of Oregon"
+  var_april_warfare_oregon_desc:0 "My defeat of The Apostles has shown me what to expect from war in this world. It is hard, fast, bloody, and difficult. These blasted wastes make everyone into a warrior, just to survive for another day. With this knowledge, none will be able to match my Legion in warfare."
+
+  var_april_arago:0 "The Citizens Of Arago"
+  var_april_arago_desc:0 "The town of Arago, much like most settlements in this world, is nothing special. However, its location on the southern reaches of my empire make it a strategic location. The locals, former members of The Apostles, will be granted mercy in exchange for clearing the land and expanding the town."
+
+  var_april_crowlands:0 "The Wicked Of The Crowlands"
+  var_april_crowlands_desc:0 "My conquest of the Mirelurk Tribe has presented itself as an unexpected opportunity. During my invasion, the Mirelurks that the heretics worshipped proved themselves to be effective hunters, especially in the water. It would not take much to raise them and add them to my Legion."
+
+  var_april_bounty:0 "The Bounty Of The Tribe"
+  var_april_bounty_desc:0 "With the Mirelurks pacified and raised into my Legion, my followers can now exploit these lands for my benefit. The land will be cleared for new buildings and industry, while the fresh water sources will be tapped for my use. "
+
+  var_april_desires:0 "The City Of Our Desires"
+  var_april_desires_desc:0 "When I was transported to this world, the Necronomican was pulled away from me, though I know its location. In a ruined city to the north, hidden deep within an underground complex, it lies. Calling for me. I will take this city, and it shall be my crowning jewel."
+
+  var_april_esthil_doc:0 "Esthil's New Doctrine Of Warfare"
+  var_april_esthil_doc_desc:0 "My time in this world has taught me much, much of it in regards to matters of war. As my Legion has expanded my empire, I have refined my techniques and stratagems. From this, I will create a new doctrine of warfare, one that will path the way for my rise."
+
+  var_april_new_mesmeralda:0 "Mesmeraldas Gifts And Our New Acolytes"
+  var_april_new_mesmeralda_desc:0 "Mesmerelda and the Odious King, my strongest Acolytes in this new world, have both given me great gifts. Combining their gifts, I will be able to create a group of psychic servants able to control groups of the Dead. They shall be the first ones worthy of calling themselves my Acolytes."
+
+  var_april_midnight:0 "The Clock Strikes Midnight"
+  var_april_midnight_desc:0 "My Legion is ready, its number reaching into the thousands. My new Acolytes stand behind me, awaiting my order. As we stand on the northern edge of my empire, the clock strikes midnight, and give the order. Seattle will be mine, and these Northern Knights will not be able to stop me."
+
+  var_april_black_demense:0 "The Black Demense Reborn"
+  var_april_black_demense_desc:0 "At last, victory is mine! Seattle has fallen, my Legion walking its ruined streets. The Northern Knights proved no match for my servants or my craft. Now, there is no doubt of my power. My empire is reborn!"
+
+  var_april_empire:0 "The Citadel Of Our Empire"
+  var_april_empire_desc:0 "Even in its ruined state, Seattle is still the greatest city I have seen in this world. Using my servants, I shall restore it to its former glory. It shall become my Citadel, a monument to both my power and my empire."
+
+  var_april_knights:0 "The Knowledge Of The Knights"
+  var_april_knights_desc:0 "I first assumed that these Knights were no different to the ones of my world, but I was mistaken. Their armour and weaponry is unlike any I have ever seen before. With their knowledge, I will be able to arm my Legion in the most advanced equipment in this world."
+
+  var_april_neco_regained:0 "The Necronomicon"
+  var_april_neco_regained_desc:0 "At last! I have found it! The Necronomicon! Using the towers across Washington to amplify my power, I have located the Necronomicon. It is located in some underground dungeon called “Vault 6”. I shall tear that place apart to find it."
+
+  var_april_knowledge:0 "The Secrets Of The World Laid Bare"
+  var_april_knowledge_desc:0 "The Necronomicon is finally mine, as are the secrets within its pages. By reading through its ancient texts, I will learn all that there is to know. No power in this world will be able to defeat me, for the power of Death and Knowledge are mine to command!"
+
+  var_april_sun_america:0 "The Sun Sets On America"
+  var_april_sun_america_desc:0 "The Necronomicon is finally mine, as are the secrets within its pages. By reading through its ancient texts, I will learn all that there is to know. No power in this world will be able to defeat me, for the power of Death and Knowledge are mine to command!"
+
+  var_april_brazing:0 "Brazing The Legion For Our Unending Conquest"
+  var_april_brazing_desc:0 "Before I can truly begin my conquest, I must address the state of my Legion. The first step is increasing the rate in which the dead are risen. The people of this world are not used to my magic, and this decision may cause some unrest, but I care not. I have a world to conquer."
+
+  var_april_man_walks:0 "Man Walks Again And Again"
+  var_april_man_walks_desc:0 "The Dead of this world, shall we say, less than desirable. Whatever tragedy befell the land has weakened the people, and thus, I am forced to spend more and more time resurrecting the dead. On the bright side, my craft has improved immensely. Now all I have to do is raise a finger and the dead walk."
+
+  var_april_tradition:0 "New Traditions?"
+  var_april_tradition_desc:0 "This world is vastly different from my own, and that is most evident when it comes to weaponry. It may be wise to comprehend the nature of armaments in this world, and see if any of it can be of use to my Legion. After all, any weapon is better than none."
+
+  var_april_dead_fear:0 "The Dead Does Not Fear Death"
+  var_april_dead_fear_desc:0 "The benefit of using the Dead for my Legions is that they do not fear what will happen to them. They are my unquestioning, unwavering, fearless soldiers, who will stop at nothing to achieve my goals. This allows me to simply send them off with no fear of the consequences. "
+
+  var_april_circle_life:0 "The Circle Of Life Broken"
+  var_april_circle_life_desc:0 "It seems that repeated use of my magics on my Legion has changed them. The dead I raise now return stronger, faster, and can take more damage before they are destroyed. Through my craft, the circle of life itself has been broken. Truly I am the most powerful being to walk this world, that nature itself bows before me."
+
+  var_april_deep_battle:0 "Deep Battle Tactics"'
+  var_april_deep_battle_desc:0 "Though my Legion is large and powerful, it does not mean that it deploys no tactics. In order to break an enemy, one must overwhelm him at every stage of the battle. Through these tactics, my Legion will be able to crush any enemy effortlessly."
+
+  var_april_masse:0 "Levee En Masse"
+  var_april_masse_desc:0 "My Legion is unstoppable, the largest army in all the wastes. No enemy can hope to withstand the endless horde that approaches them, and thus I shall send all I can at them. The Dead do not complain as they are cut down, and no matter how hard they try, no defender can hope to kill them all."
+
+  var_april_pincer:0 "Pincer Attacks"
+  var_april_pincer_desc:0 "My tactical understanding grows every greater as I command my Legion. Now, through the use of deep strikes and holding actions, I can outflank my enemy and crush their resistance. The fear in their eyes as they see my Dead emerge from all around them is delicious."
+
+  var_april_raise_em:0 "I'll Raise Em Again As Long I Have Too"
+  var_april_raise_em_desc:0 "I care not how many of my forces are destroyed when facing my enemies. My numbers are endless, my will unbreakable, no enemy can hope to match this. And I care not if my Legion is cut down. I will raise them as many times as is needed to destroy my foes."
+
+  var_april_warfare_unchained:0 "Warfare Unchained"
+  var_april_warfare_unchained_desc:0 "Finally, after months of refining and perfecting, my Legion is perfect. None can hope to match its number, its weaponry, its tactics, its ferocity. All shall be crushed underfoot of my Legion, and all shall fear my name!"
+  var_april_warfare_unchained_deep_battle_choice_tt:0 "§YIf you chose§! §GDeep Battle Tactics§!§Y:§!"
+  var_april_warfare_unchained_masse_choice_tt:0 "§YIf you chose§! §RLevee En Masse§!§Y:§!"
+
+  var_april_escanni:0 "Escanni Warfare Traditions"
+  var_april_escanni_desc:0 "Bah, why should I bother to understand what this world considers an effective weapon. The weapons of old Castanor served my Legion well enough before, and shall do so again. I need no “firearm” when solid steel is all it takes to kill a man."
+  var_april_escanni_tt:0 "§Y1.00k§! units of Esthil §YMelee Weaponry§! is added to the national stockpile."
+
+  var_april_warfare:0 "New World Warfare"
+  var_april_warfare_desc:0 "This world certainly knows how best to kill. These firearms are almost as deadly as my own magic, yet require no practice or study to use. With these, my Legion will not only be unstoppable, but able to match my enemies man for man. All it takes is one shot to kill."
+
+  var_april_horde:0 "The Unending Horde"
+  var_april_horde_desc:0 "My Legion will swarm the wasteland, an tide of the Dead stretching back as far as the eye can see. No force can hope to match my numbers, for the Dead are limitless, especially in this broken world. My Legion will be an unending Horde of unwavering soldiers."
+
+  var_april_firepower:0 "Overwhelming Firepower"
+  var_april_firepower_desc:0 "I have mastered all there is to know about firearms, and through me has my Legion. They shall fire an unending barrage at my enemies, their firepower able to crack through even the strongest defences. None shall be able to withstand this overwhelming firepower at my disposal."
+
+  var_april_civ:0 "Bringing Civilization Back To Where There Is None"
+  var_april_civ_desc:0 "The Warren is, to be frank, a dump. The Orc population had no regard for structure or class, not understanding of civilization. Body parts hang everywhere, and these open barrels of mysterious green goo litter the place like trash. With them gone, this place can be turned into a true place of living. Perhaps, in time, it can become a new home..."
+
+  var_april_necroeco:0 "The Introduction Of Necronomics"
+  var_april_necroeco_desc:0 "Now that I have established my realm, with both my followers and local peasants living in service to me, I can implement what I call “Necronomics”. In my lands, even the dead can help turn a profit."
+
+  var_april_spoils_war:0 "The Spoils Of War"
+  var_april_spoils_war_desc:0 "Fortune smiles on myself. Our war with the Rib Breakers has exposed a series of weapons workshops in their land. Though I do not know exactly what a “firearm” or “Bumper Sword” is, my Legion can be equipped with them and become all the more deadlier."
+
+  var_april_new_morg:0 "New Morgurax"
+  var_april_new_morg_desc:0 "Finally, we have cleansed this hovel of its filth and grime, established the basics of production within its walls, and brought in enough followers and servants to work its trades. Now, it's worthy of being called a home. My fortress... New Morgurax."
+
+  var_april_reach:0 "The Northern Reach"
+  var_april_reach_desc:0 "New Morgurax is my fortress, the heart of my empire of the Dead. Yet, it could be greater. The lands my Legion has conquered to the north will be levelled to make way for my growing city. New Morgurax will be the greatest city in all of Oregon."
+
+  var_april_nothing:0 "To Create Life Out Of Nothing"
+  var_april_nothing_desc:0 "My land is vast, though it is not prosperous. Whatever armageddon defiled this world has left most of it barren and dead. Thankfully, I am the mistress of the dead, and through my craft, I shall breathe life back into the wasteland. All in service to me."
+
+  var_april_new_reach:0 "The Cities New Reaches"
+  var_april_new_reach_desc:0 "Though the core land of New Morgurax is developed in service to me, there is still more land available. My dead servants will build new cities, and my followers will live within and worship my name. My empire will grow, in service to me. "
+
+  var_april_hotel:0 "Welcome To Hotel Oregon"
+  var_april_hotel_desc:0 "Though the core land of New Morgurax is developed in service to me, there is still more land available. My dead servants will build new cities, and my followers will live within and worship my name. My empire will grow, in service to me. "
+
+  var_april_camp:0 "Salvaging The Camp"
+  var_april_camp_desc:0 "My forcess have found some sort of camp belonging to what I believe to be a fallen empire called “America”. From what I understand, they were responsible for killing this world. Now their workshops equip my Legion in my efforts to rule the Wastes."
+
+  var_april_culp:0 "Excavating Culp Creek"
+  var_april_culp_desc:0 "After destroying the heretics of the Mirelurk tribe, we now rule their lands. Some locals, in exchange for their lives, have revealed to me the location of wealth of material resources, located under Culp Creek. I have already ordered my Legion to excavate the Creek, for the Dead do not need air or protection."
+
+  var_april_dancers:0 "The Lands Of The Dancers"
+  var_april_dancers_desc:0 "The lands that the Bone Dancers, much like the rest of this world, are dead wastelands. In parts of it, the very air itself will try to kill you. The locals call it “Rads”, some kind of magical curse I have yet to master. Alas, the dead don't seem to be affected by it, so they shall be put to work fortifying the land for future settlement."
+
+  var_april_wicked:0 "The Dead Needs No Rest"
+  var_april_wicked_desc:0 "As my policy of Necronomics, the Dead are the main workforce in my realm. They are tireless, need no food or water, and, most importantly, need no rest. They will help build the industry needed to build my Empire."
+
+  var_april_death:0 "Even Death Has A Tax"
+  var_april_death_desc:0 "All who have died are my potential servants, no matter who they were in life. However, some peasants do not wish to have their families raised to fight in my Legion. Alas, Necronomics has a solution. All who die must pay a tax in life if they wish to stay dead. Those who can't pay, shall rise."
+
+  var_april_not_even_death:0 "Not Even Until Death Does Us Apart"
+  var_april_not_even_death_desc:0 "At last, I have perfected Necronomics. In every corner of my realm, the Dead work to enrich me. Soon, I shall be the head of the richest empire in history, and I will be the envy of all that is still living! "
+
+  var_april_riches_maw:0 "Riches Of The Maw"
+  var_april_riches_maw_desc:0 "Since our war with the Northern Knights and their pirate thralls, we have come into possession of a large port city. The Maw is a dirty pirate den, yet its slave population serves as a ready made work force. They will deliver to me the richest of The Maw, either in life or in death."
+
+  var_april_crowshaven:0 "Newfound Wealth In Crowshaven"
+  var_april_crowshaven_desc:0 "Thanks to our previous efforts, the lands in and around Crowshaven can be rebuilt and settled by my followers. They shall work in the new workshops that will equip my army, arming the Dead with the highest quality weapons and armour. All in my name."

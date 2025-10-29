@@ -1,0 +1,48 @@
+﻿l_english:
+
+ # building town
+  VSH_building_city:0 "Rebuilding Safehaven!"
+
+  invite_planners_and__builders:0 "Invite Builders!"
+  utilize_vault_water:0 "Utilize Vault Water Resources!"
+  set_up_water_trade:0 "Set Up Water Trade!"
+  bring_dwellers_up:0 "Introduce Dwellers to the Surface!"
+  clean_up_rubbish:0 "Clean Up Safehaven!"
+  set_up_jobs:0 "Vitalize the Job Market!"
+  bring_the_vault_above_ground:0 "Scrap the Vault!"
+  finalize_plans:0 "Finalize Safehaven's Re-establishment!"
+  caps_give:0 "Send Out Water Merchants!"
+
+  vsh_cascadian_authority_decision_cat:0 "Guess Who's Back, Back Again..."
+  vsh_cascadian_authority_decision_cat_desc:0 "Seattle was ours years ago. For every street, ten Wardens stood tall on patrol, keeping the peace as was demanded of us. Then, men in power armored suits came out of the Blizzard, and we were forced to retreat. In the chaos, raiders poured in from the coast, carving out whatever they could of Portland for themselves. We were left embarrassed and afraid, running from our territory with our tails tucked between our legs. \n\nSome of us escaped south to join the raiders in Port Maw, hoping to strike a new life amongst liars and thieves. Others ran north, into Bellingham, where ropes now hold them from trees. Us? We fled east, into the hills. We found solace and purpose again in helping the people of Safehaven, but times changed and opportunities arose. We took our numbers and we made our due. \n\nWe're in charge, but we're far from back. Our men have scattered and our command structure never recovered. If we want to call ourselves the protectors of Cascadia again, we'll need to earn it."
+
+  vsh_washington_reconstruction_authority:0 "Washington Infrastructure Initiative"
+  vsh_washington_reconstruction_authority_desc:0 "We've been choked out of the region time and time again. This time, we need to be able to mobilize as quick as things go awry. We can't get caught sporting our proverbial boxers again."
+  vsh_washington_controlling_water:0 "Bar the Water"
+  vsh_washington_controlling_water_desc:0 "People need water. It's the base of any real civilization. So if we take all of it that we can get, they'll have to come to us again."
+  vsh_washington_contact_victoria:0 "Reach Out to New Victoria"
+  vsh_washington_contact_victoria_desc:0 "New Victoria's been able to grow and grow more in our absence-- so much so that we can't just ignore them like we used to. Making a mutually beneficial alliance would be greatly in both of our favors."
+  vsh_washington_recruit_new_blood:0 "Conscript New Blood"
+  vsh_washington_recruit_new_blood_desc:0 "We've lost a lot these past few years to the winter or to comically imbalanced odds. Taking in new blood, willing or otherwise, will allow us to solidify our position in the north once and for all."
+  vsh_washington_assert_warden_authority:0 "Assert Warden Authority"
+  vsh_washington_assert_warden_authority_desc:0 "We aren't just some morons running around in the Whiteout anymore. Now, we're a government, just like we used to be-- and the people are gonna listen."
+
+  #merc decisions
+  vsh_merc_economy_cat:0 "Mercenary Revenue Spending"
+  vsh_merc_economy_cat_desc:0 "Through our investments, we may be able to make Safehaven the most wealthy nation on the planet."
+  holy_caps:0 "Invest Into Construction Companies"
+  capping_all_over:0 "Pump Commerce Into The Economy"
+  rebranding_the_initiative:0 "Rebranding Ourselves"
+  build_infrastructure:0 "Build Infrastructure"
+  private_schools:0 "Build Private Schools"
+  private_clubs:0 "Build Private Clubs"
+  erect_statue:0 "Erect a Statue, Commemorating Citizens"
+  establish_television:0 "Establish Television in Safehaven Territory"
+  swim_in_cap_pools:0 "Swim in a Caps Pool!"
+  eat_extravagantly:0 "Organize a Feast!"
+  purchase_golden_toilet:0 "Purchase a Golden Toilet!"
+  Refurbish_Safehaven_capitol:0 "Refurbish Our Capital"
+  realize_mistakes:0 "Reflect on Poor Purchases..."
+  make_a_broadcast:0 "Broadcast Apologies..."
+  vsh_join_KOM:0 "Ask to Join The Kingdom's Pact, for a Price..."
+  vsh_join_coalition:0 "Ask to Join The Second Coalition, for a Price..."

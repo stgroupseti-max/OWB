@@ -1,0 +1,279 @@
+﻿l_english:
+  unb_old_money_old_treasure:0 "Old Money, Old Treasure"
+  unb_old_money_old_treasure_desc:0 "Hard as it may be to believe, Craw hasn't always been the handsome, intelligent, respectable, smart, beautiful, cunning and witty raider boss that he is now. He was, in fact, born, just like you and me. One might even say that without being born Craw would never have become the man he is today."
+  
+  unb_dreams_of_terror:0 "Dreams of Terror"
+  unb_dreams_of_terror_desc:0 "Even surrounded by the deaths of your fellow gang members, life has a way of giving you reason to go on. Craw certainly didn't get stopped by the massacre of his gang."
+  
+  unb_we_all_end_up_somewhere:0 "We All End up Somewhere"
+  unb_we_all_end_up_somewhere_desc:0 "A history of theft and duplicity has brought Craw to a present of theft and duplicity. But unfortunately all good things come to an end sometime, and theft and duplicity are only tolerated for so long."
+
+  unb_controlling_williston:0 "Controlling Takeoff"
+  unb_controlling_williston_desc:0 "Takeoff's climate can be uninviting even in the best of times, but it's our home all the same. We'd best treat it as such."
+
+  unb_compel_gunsmiths_to_cooperate:0 "Compel Gunsmiths to Cooperate"
+  unb_compel_gunsmiths_to_cooperate_desc:0 "Takeoff's weapons merchants should be reminded of their place. If they want to enjoy the benefits of polite society, they'd better keep it an armed one."
+
+  unb_controlling_the_well:0 "Controlling the Well"
+  unb_controlling_the_well_desc:0 "Sure, when you're busy getting in a frenzied drug high for hours every day, irrigation isn't going to be your main hobby. Water's as precious a commodity as any up north, though, and the riverline grants us an abundant supply. If we wish to establish ourselves here for the long haul, we should leverage this."
+ 
+  unb_connecting_scobey:0 "Connecting Scobey"
+  unb_connecting_scobey_desc:0 "The flatlands north of the Missouri are prime for quick travel, and clearing debris off Route 2 would provide road access not far from Scobey. It's time we declare the highway open to ride once again."
+  
+  unb_ramshackle_fortifications:0 "Ramshackle Fortifications"
+  unb_ramshackle_fortifications_desc:0 "You'd be surprised how far some plywood and improvised nails could get you."
+  unb_ramshackle_fortifications_tt:0 "One level of §YOutposts§! will be built along Scobey's border.\n"
+  
+  unb_secret_arms_depot:0 "Secret Arms Depot"
+  unb_secret_arms_depot_desc:0 "We prefer the term \"indefinitely borrow\"... I mean, we left an IOU!"
+  
+  unb_refurbish_the_old_shipyard:0 "Refurbish the Old Shipyard"
+  unb_refurbish_the_old_shipyard_desc:0 "Were our town's docks not in disrepair, we could have started seeing what lies down the river ages ago. So many merchants unplundered... it's time that we rectify this. Besides, I've always wanted a kayak."
+    VICTORY_POINTS_13572_UNB:0 "Craw-Ford"
+  
+  unb_the_river_toll:0 "The River Toll"
+  unb_the_river_toll_desc:0 "To: <TAXPAYER NAME> As of <notice date>, we have not received your overdue tax for navigation of the Upper Missouri after sending several \"notices\" to you. You must pay your balance by <due date> or we may levy (seize) your assets. If you do not meet this date, we will consider your noncompliance an active choice and you could face consequences via property reclamation and fatal blunt trauma to the head."
+  
+  unb_culbertson_steel:0 "Landing Steel"
+  unb_culbertson_steel_desc:0 "It seems Landing's previous occupants failed to salvage much of the machine parts and building materials of the ruined homes on its east side. Doing so would provide us with an abundant metal supply to turn into beautifully pointy scrap weapons of all shapes and sizes."
+  
+  unb_a_prosperous_town:0 "A Prosperous Town"
+  unb_a_prosperous_town_desc:0 "We aren't often keen on urban living but... turns out with a little love, care and slave-maintained infrastructure this place ain't half bad."
+  
+  unb_a_reputation_for_honesty:0 "A Reputation for Honesty"
+  unb_a_reputation_for_honesty_desc:0 "Not all thieves, bandits, and raiders will lie and cheat at every opportunity. The term "honour among thieves" is often bandied around, but sometimes it really is the case."
+
+  unb_a_goodbye_to_marro:0 "A Goodbye to Marro"
+  unb_a_goodbye_to_marro_desc:0 "Marro has been a raider for longer than most people in the wasteland have been alive. He's been a vigorous and devious fighter for all his life, but age is starting to catch up with him. It's time for him to retire, a rare opportunity in the Wasteland and even more rare for raiders."
+
+  unb_know_thy_neighbor:0 "Know Thy Neighbour"
+  unb_know_thy_neighbor_desc:0 "We've received something of an unsavoury reputation in our stretch of the wasteland. They call us bandits, murderers, and thugs only obsessed with our own wealth.\n\nIt's true, but that doesn't mean we shouldn't be careful."
+
+  unb_how_difficult_could_leading_be:0 "How Difficult Could Leading Be?"
+  unb_how_difficult_could_leading_be_desc:0 "Marro has finally stepped down, leaving a rather obvious vacancy in our army's command structure. Craw has always seen himself as a leader who stays far (far!) from the frontline, but it can't be that hard, can it?"
+  unb_how_difficult_could_leading_be_tt:0 "§Y$UNB_CRAW_NAME$§! becomes a Commanding Officer.\n§LLevel§!: §Y5§!\n§RAttack Skill§!: §Y3§!\n§GDefense Skill§!: §Y3§!\n§PPlanning Skill§!: §Y2§!\n§MLogistics Skill§!: §Y4§!\n§gTraits§!: §tIntelligent§!, §tStrong§!, §tConqueror§!\n\n"
+  
+  unb_reclaim_the_old_radar_station:0 "Reclaim the Old Radar Station"
+  unb_reclaim_the_old_radar_station_desc:0 "There's an old radar station near Takeoff, presumably once used by the US Army to detect Chinese fighters in North Dakotan airspace. Or maybe it was a weather station. Who gives a shit! It's ours, and it turns out that this button makes a horrible screech on most radio frequencies!"
+
+  unb_sign_up_eager_volunteers:0 "Sign Up Eager Volunteers"
+  unb_sign_up_eager_volunteers_desc:0 "The promise of wealth and power is an appealing one (that's how we all became the Unbound after all) and the life of the Unbound is one of freedom that most wastelanders can only aspire to. It's no wonder some youngsters from Culberston want to join in on the fun."
+  unb_sign_up_eager_volunteers_tt:0 "Three volunteer units from §YCulberston§! will be raised for our army, ready to ride.\n"
+
+  unb_hit_the_homesteads:0 "Hit the Homesteads"
+  unb_hit_the_homesteads_desc:0 "Moosejaw claim they want to live "peaceful" and "unassuming" lives. What a load of crock. Their homesteads must have plenty of loot if they've no desire to get more, and if we play this right we can blame the horde of ferals nearby."
+
+  unb_a_heart_of_coal:0 "A Heart of Coal"
+  unb_a_heart_of_coal_desc:0 "The Coal Consortium presents a wonderful opportunity. They need protection constantly due to, well, other raiders, and we need money and coal! It's a win-win!"
+  unb_a_heart_of_coal_focus_tt:0 "Four Heavy Infantry units will be sent to §Y[CPK.GetNameWithFlag]§! in exchange for some of their supply.\n"
+
+  unb_it_mustve_been_ferals:0 "It Must've Been Ferals"
+  unb_it_mustve_been_ferals_desc:0 "It's not hard to frame a horde of feral ghouls for attacking the homesteads. Frankly, planting a bunch of ghoul bodies on the scene and cutting off parts that were clearly shot to look eaten might be making it too obvious."
+
+  unb_the_second_mouse_gets_the_cheese:0 "The Second Mouse Gets the Cheese"
+  unb_the_second_mouse_gets_the_cheese_desc:0 "Moosejaw and the Rad Hazards have had a bit of a falling out. It seems like the right thing to do to step in and stop their squabbling... and the fun thing to do to steal all their shit while we're at it."
+
+  unb_capture_new_merchandise:0 "Capture New Merchandise"
+  unb_capture_new_merchandise_desc:0 "The further west we go, the more we seem to uncover all this weird consumer stuff with labels saying Middlemark. The further east we go, the more this stuff seems to be worth. It doesn't take a genius to put two and two together, and flog off all the stuff we stole from Moosejaw."
+
+  unb_negotiating_with_the_stampede:0 "Negotiating with the Stampede"
+  unb_negotiating_with_the_stampede_desc:0 "The Stampede is powerful and dominates the Albertan steppe, but they've got their own problems to deal with and probably don't want to mess with us. We can offer an agreement, we promise not to attack them and they give us a small tribute.\n\nOf course, there's nothing stopping us from attacking them anyway later."
+  unb_proposal_to_stampede_tt:0 "We will send an offer of a non-aggression pact to [STA.GetNameDef]. If they accept, they will pay us §G200k§! caps. If they refuse, we will automatically set up new gangs."
+
+  unb_set_up_a_gang_in_swiftcurrent:0 "Set Up New Gangs"
+  unb_set_up_a_gang_in_swiftcurrent_desc:0 "We're better off not dealing with the Stampede. If we're willing to attack them anyway later on, what's to say they won't do the same to us? So instead we should get some of our lads set up in our new territories. Fortifying our borders just in case the Stampede choose to try it can't hurt."
+  unb_forts_on_stampede_border_tt:0 "One level of §YOutposts§! will be built along our border with [STA.GetNameDef].\n"
+
+  unb_renaming_fort_peck:0 "Renaming Fort Peck"
+  unb_renaming_fort_peck_desc:0 "The name "Fort Peck" kinda seems like a slap in the face to Craw, huh?"
+
+  unb_smashing_safehaven:0 "Smashing Safehaven"
+  unb_smashing_safehaven_desc:0 "Vault-dwellers can't be trusted as far as they can be thrown, and this lot seem to have some sort of an agreement with a bunch of local mercenaries. Their burgeoning city, their "Safehaven", would look better without all those vault suits."
+
+  unb_people_for_horses:0 "Caps for Horses"
+  unb_people_for_horses_desc:0 "The Great Stampede have lots of horses, animals that were apparently around before the war but have since died out. The couple ain't exactly willing to deal with us, but not everyone in the Stampede listens to the couple. A few rustlers are all we need."
+  unb_stampede_pact_accepted:0 "[STA.GetNameDef] accepted our offer for a non-aggression pact"
+
+  unb_welcome_the_fallen_tribe:0 "Welcome the Fallen Fighters"
+  unb_welcome_the_fallen_tribe_desc:0 "Conquest is common across Canada, and through all of them soldiers will find their homes suddenly belonging to another, or no home to come back to at all. Many become raiders, and many don't get along with the Stampede. This is a winning combination, at least for us."
+
+  unb_a_more_defensible_hideout:0 "A More Defensible Hideout"
+  unb_a_more_defensible_hideout_desc:0 "The former Fort Peck, now [1292.GetCapitalVictoryPointName], is a pretty damn good place for a proper hideout. It'll need some fortifying, but it'll give Craw and his cronies room to fly."
+  unb_a_more_defensible_hideout_tt:0 "Three levels of §YOutposts§! will be built in a circle surrounding the capital.\n"
+
+  unb_the_holotape:0 "The Holotape"
+  unb_the_holotape_desc:0 "Something was found in [1292.GetCapitalVictoryPointName]... a holotape containing some very, very intriguing data."
+
+  unb_prepare_the_homecoming:0 "Prepare the Homecoming"
+  unb_prepare_the_homecoming_desc:0 "It's been a long time coming, but a change is gonna come. It is time for us to look to the lands of [MTC.GetNameDef], and decide just how we plan on crashing their party."
+
+  unb_trust_in_sabotage:0 "Trust in Sabotage"
+  unb_trust_in_sabotage_desc:0 "Computers are unreliable and untrustworthy. It's easier to simply raid some supply depots than trust a computer virus to wreak havoc, and this way our boys can have a little fun while they're at it. Those [MTC.GetAdjective] suckers won't know what hit 'em."
+  unb_trust_in_sabotage_tt:0 "§YWe will destroy half of [MTC.GetNameDef]'s energy cells.§!"
+
+  unb_upload_the_terror_algorythm:0 "Upload the Terror Algorithm"
+  unb_upload_the_terror_algorythm_desc:0 "We live in an age of evolving wasteland warfare, where computers and factories are just as important as men with guns. By sabotaging their factories and control systems, we may not see immediate results, but they may be more devastating in the long run."
+
+  unb_access_the_mainframe:0 "Access the Mainframe"
+  unb_access_the_mainframe_desc:0 "The MANIFEST facility in Regina harbours all sorts of intriguing secrets, but it's going to take some time for us to crack their security and access the mainframe. Once we do, however, who knows what treasures we may find?"
+
+  unb_reach_out_to_brandon:0 "Reach Out to Manitoba"
+  unb_reach_out_to_brandon_desc:0 "Manitoba have a vested interested in seeing [MTC.GetNameDef] fall. They want to destroy the breakaway state that humiliated them in battle, and may be willing to aid our own efforts. There's no harm in reaching out, after all."
+  unb_suggest_splitting_metis_tt:0 "We will send an offer to §Y[BRA.GetNameWithFlag]§! or §Y[DLN.GetNameWithFlag]§! to divide [MTC.GetName]'s lands between us. This will cause a scripted peace deal if they accept.\n\n"
+
+  unb_the_west_marches:0 "The West Marches"
+  unb_the_west_marches_desc:0 "The society of the Kingdom of Manitoba is undoubtedly a wealthy one - or at least, their nobles are. There is no greater honour than joining a powerful and rich kingdom and sharing in their wealth. Even if we betray them in the end, we can profit for a while. They're used to betrayal by now, they probably won't even notice."
+  unb_made_peace_deal_tt:0 "We must have made an agreement with the kingdom"
+
+  unb_analyze_combat_performance:0 "Analyse Combat Performance"
+  unb_analyze_combat_performance_desc:0 "Using our robots to study our human soldiers, and using our humans to study our robot soldiers, means that we can effectively discover how each portion of our army can improve themselves and adopt the methods of the other. A genius system."
+
+  unb_augmented_workforce:0 "Augmented Workforce"
+  unb_augmented_workforce_desc:0 "Most of our workforce probably don't like the idea of being cyborgs very much. Most humans are scared of progress like that. But by doing it, whether they like it or no, we can improve productivity drastically, and in the end isn't that what's important?"
+
+  unb_reuse_the_scrap:0 "Reuse the Scrap"
+  unb_reuse_the_scrap_desc:0 "Hundreds of wrecked robots lay strewn about within our borders, at the MANIFEST facility and surrounding area, simply rusting away with valuable components looted. But we know better, we know that every part of the robot is valuable. We should gather up these pieces and assemble new combat-ready robots from the pieces."
+
+  unb_upgraded_generals:0 "Upgraded Generals"
+  unb_upgraded_generals_desc:0 "The MANIFEST facility contains data on some simple AI that could be repurposed to serve our needs. While they're no Destiny or Hope, Justice and Liberty still react faster than any human and carry out their missions with calculated efficiency. Plus, unlike most raiders, they can be bothered to figure out supply lines and other boring stuff like that."
+  unb_upgraded_generals_tt:0 "§Y$UNB_LIBERTY_NAME$§! and §Y$UNB_JUSTICE_NAME$§! become Unit Leaders.\n\n§Y$UNB_LIBERTY_NAME$§!:\n§LLevel§!: §Y3§!\n§RAttack Skill§!: §Y2§!\n§GDefense Skill§!: §Y1§!\n§PPlanning Skill§!: §Y2§!\n§MLogistics Skill§!: §Y3§!\n§gTraits§!: §tCharismatic§!, §tAgile§!, §tInspirational§!\n\n§Y$UNB_JUSTICE_NAME$§!:\n§LLevel§!: §Y3§!\n§RAttack Skill§!: §Y3§!\n§GDefense Skill§!: §Y1§!\n§PPlanning Skill§!: §Y3§!\n§MLogistics Skill§!: §Y1§!\n§gTraits§!: §tPerceptive§!, §tEnduring§!, §tInspirational§!\n\n"
+
+  unb_reactive_the_steel_legions:0 "Reactivate the Steel Legions"
+  unb_reactive_the_steel_legions_desc:0 "There are hundreds if not thousands of robots in the Regina MANIFEST facility simply deactivated, rather than destroyed or disassembled. With our hackers becoming familiar with the facility's systems, it seems like we finally know how to turn them back on and, even better, have them fight for us instead."
+  unb_reactive_the_steel_legions_tt:0 "Three §YMANIFEST Robo-Corps§! will join our army.\n"
+
+  unb_grasp_the_skies:0 "Reach for the Skies"
+  unb_grasp_the_skies_desc:0 "The skies have always been within our reach. But now, it is time for us to truly fly."
+
+  unb_the_gurkhan_of_alberta:0 "The Gurkhan of Alberta"
+  unb_the_gurkhan_of_alberta_desc:0 ""
+  unb_unlock_horse_master_tt:0 "Beating §Y[STA.GetNameDef]§! will unlock the §gEquestrian§! trait. If we already have, completing this focus will unlock it instead."
+
+  unb_the_heir_to_the_throne:0 "The Heir to the Throne"
+  unb_the_heir_to_the_throne_desc:0 ""
+  unb_unlock_emperor_tt:0 "Beating §Y[BRA.GetNameDef]§! will unlock the §gEmperor of Manitoba§! trait. If we already have, completing this focus will unlock it instead."
+
+  unb_the_scourge_of_the_chapter:0 "The Scourge of the Chapter"
+  unb_the_scourge_of_the_chapter_desc:0 ""
+  unb_unlock_king_tt:0 "Beating §Y[MNC.GetNameDef]§! will unlock the §gKing of Thieves§! trait. If we already have, completing this focus will unlock it instead."
+
+  unb_a_titan_amongst_mortals:0 "A Titan Amongst Mortals"
+  unb_a_titan_amongst_mortals_desc:0 "None can challenge us now. Craw truly is supreme."
+  unb_defeat_middlemark_tt:0 "Beating §Y[MDM.GetNameDef]§! will give us a final event."
+
+  unb_set_a_common_goal:0 "Set a Common Goal"
+  unb_set_a_common_goal_desc:0 "The Unbound are an unruly lot, and many of the raiders just want to do their own thing, raid who they want, and pillage what they like. It's not hard, however, to unify a bunch of money-obsessed scumbags towards a common goal - assuming there's wnough money for everyone, that is."
+
+  unb_the_pathologically_high_spirited:0 "The Pathologically High-Spirited"
+  unb_the_pathologically_high_spirited_desc:0 "The wasteland is only a place of doom and gloom if you let it get to you. Just charge in and don't think about it, and things have a way of turning out well for the most violent and ruthless."
+
+  unb_gifted_criminals:0 "Gifted Criminals"
+  unb_gifted_criminals_desc:0 "The raiders of the Unbound are united by their love of freedom and wealth - and there's no one better to fight for their own freedom and wealth than a bunch of raiders. Settlers fight for their homes or nations, tribals fight for their cultures and traditions, but we fight for ourselves. Tell me, who would fight harder?"
+
+  unb_the_aldermen_spirit:0 "The Aldermen Spirit"
+  unb_the_aldermen_spirit_desc:0 "Even a bunch of unruly, freedom-loving raiders need people to direct them to the best loot. Our Aldermen are a motley collection of "officers" who "lead" our "soldiers" on their raids. Better coordination can only make our raids more effective, after all."
+
+  unb_a_home_for_scum_and_villainy:0 "A Home for Scum and Villainy"
+  unb_a_home_for_scum_and_villainy_desc:0 "You'll never find a more wretched hive of scum and villainy than Takeoff. Our notoriety and love of freedom draws thousands of raiders from across the wasteland to our cause. It's hard not to feel proud of the gang of lowlifes we've rustled up."
+
+  unb_capacity_for_brutality:0 "Capacity for Brutality"
+  unb_capacity_for_brutality_desc:0 "While some oppressed settler might see a rag-tag gang of poorly-equipped raiders as being easy to overthrow, their odds become far worse the better equipped those raiders are. The Aldermen have taken to wearing the best armour they can find, and have found that this simple action makes settlers that much more intimidated. Something for our rest of our forces to pick up."
+
+  unb_lightning_raiders:0 "Lightning Raiders"
+  unb_lightning_raiders_desc:0 "Our raiders are, of course, some of the finest that ever lived, but even the best soldier can be overwhelmed by superior numbers. While these blazes of glory may be appealing to some, most people would rather just save their own skin. That means in and out, as fast as we can, and there's no faster way than using a vehicle."
+
+  unb_marauding_strategies:0 "Marauding Strategies"
+  unb_marauding_strategies_desc:0 "As time goes on, the wasteland becomes smaller. Not in the literal sense, idiot, but in the sense that the world becomes more... organised. Unfortunately for us, settlers organising makes them harder to raid, so we in turn must become more organised as well. It's a vicious cycle."
+
+  unb_getting_our_boys_rocket_launchers:0 "Getting our Boys Rocket Launchers"
+  unb_getting_our_boys_rocket_launchers_desc:0 "Unfortunately for us, some settlers like using vehicles, robots, or even suits of power armour. These make the settlers a bit harder to kill, to be honest, but there's never been a problem that a concentrated barrage of rockets can't solve."
+
+  unb_ex_nihilo:0 "Ex Nihilo"
+  unb_ex_nihilo_desc:0 "Fostering nihilism among our raiders might seem like a terrible idea, but if they can break past the bad stuff they can realise that there's no point in not fighting to the end. After all, what's the point of life if not to enjoy yourself, and what's not to love about shooting as many people as you can before you die?"
+
+  unb_welcome_the_fallen_paladin:0 "Welcome the Fallen Paladin"
+  unb_welcome_the_fallen_paladin_desc:0 "A paladin has come to us from the Montana Chapter of the Brotherhood of Steel. Not to try to kill us, as might be expected, but instead because he wants to join us! What better way to live life than fighting for yourself and your life, after all? Even better, this Paladin Proditor has brought with him dozens of his brethren who feel the same way!"
+  unb_recruit_the_fallen_paladin_tt:0 "§Y$UNB_FALLEN_PALADIN_NAME$§! becomes a Unit Leader.\n§LLevel§!: §Y2§!\n§RAttack Skill§!: §Y3§!\n§GDefense Skill§!: §Y1§!\n§PPlanning Skill§!: §Y2§!\n§MLogistics Skill§!: §Y2§!\n§gTraits§!: §tStrong§!, §tAgile§!, §tPain Train§!\n\n§Y$UNB_FALLEN_PALADIN_NAME$§! will also bring a unit of former Brotherhood soldiers in power armour.\n"
+
+  unb_bringing_the_gang_back_together:0 "Bringing the Gang Back Together"
+  unb_bringing_the_gang_back_together_desc:0 "Our lads have scattered across the wastes in pursuit of wealth and power, but it's time to call them back in. There's no power or wealth that a group of like-minded scumbags can't steal for themselves if they simply work together."
+
+  unb_brutally_cunning:0 "Brutally Cunning"
+  unb_brutally_cunning_desc:0 "The best way to ensure that our raids go well is to ensure that the most cunning of our soldiers lead them. Many raiders don't even have a cunning bone in their body, but the special few who excel should be given the respect they deserve."
+
+  unb_make_due:0 "Make Due"
+  unb_make_due_desc:0 "There's lots of old technology scattered around the wasteland, if you know where to look. While our best and brightest aren't particularly good or bright, there's not much a dash of raider ingenuity can't at least patch together."
+
+  unb_explosive_expertise:0 "Explosive Expertise"
+  unb_explosive_expertise_desc:0 "There are actually a lot of explosive experts out there! It's not hard to see why, lots of raiders just like to watch things blow up."
+
+  unb_new_toys:0 "New Toys"
+  unb_new_toys_desc:0 "It's becoming increasingly clear that, while some of our boys aren't exactly the sharpest spoons in the drawer, many of them have a knack for making all sorts of wacky and powerful weapons - especially where explosives are involved. Most of these weapons fall apart after one use (if they even survive that long) but it's not a hard process to take the ones that survive and figure them out. More explosives for everyone!"
+
+  unb_you_cant_spell_laughter_without_slaughter:0 "You Can't Spell Slaughter Without Laughter"
+  unb_you_cant_spell_laughter_without_slaughter_desc:0 "Raiders simply love figuring out the best and most fun ways to kill people. There's a simple joy in watching a group of raiders try out a new weapon one of them designed to brutally kill some poor wastelander."
+
+  unb_violence_is_the_answer:0 "Violence is the Answer"
+  unb_violence_is_the_answer_desc:0 "There's nothing quite so satisfying as running up to someone and hitting them with a sharp object. As time goes on, the objects simply become sharper and sharper, and the hitting becomes more and more fun. What a wonderful world."
+
+  unb_energy_siphon_trick:0 "Energy Siphon Trick"
+  unb_energy_siphon_trick_desc:0 ""Hey look! It's actually really easy to steal their fuel!""
+
+  unb_on_track:0 "On Track"
+  unb_on_track_desc:0 "Big things are, generally speaking, harder to break. Some raider had the bright idea that big cars would be really hard to break, and even harder if they were covered in lots of hard stuff. Some other (smarter) raider pointed out that that was a tank, and they already exist, but that we clearly don't have enough of them."
+
+  unb_a_true_kleptocracy:0 "A True Kleptocracy"
+  unb_a_true_kleptocracy_desc:0 "Kleptomania is what drives society. Those fancy settlers in suits and dresses might talk about abstract concepts, like the rule of law or equality, but we know they're all after money and power just like us. All governments are kleptocracies, we're just the ones willing to admit it."
+
+  unb_tools_of_procurement:0 "Tools of Procurement"
+  unb_tools_of_procurement_desc:0 "In a kleptocracy, the more things you have the better! Of course, sometimes the things you get are broken or malfunctioning, or otherwise not as valuable as they should be. An easy fix! Force someone else to repair it, and it'll be as valuable as it ever was."
+
+  unb_set_harsh_quotas:0 "Set Harsh Quotas"
+  unb_set_harsh_quotas_desc:0 "Things things things! We need 'em, and we need 'em fast. Possessions make the man, and Craw is going to be a very important man indeed. All we need is to get these lowlifes working harder, and punish those who don't work hard enough."
+
+  unb_blackmarket_deals:0 "Blackmarket Deals"
+  unb_blackmarket_deals_desc:0 "The idea of a black market is a bit strange for most of the Unbound: why wouldn't all this stuff be sold everywhere? But there are places that make things that we can't, and these places have black markets. While everything may be allowed here, by setting up contacts in other places we make more things able to be allowed here."
+
+  unb_mandate_double_shifts:0 "Mandate Double Shifts"
+  unb_mandate_double_shifts_desc:0 "More more more! Always more! Hop to it, you layabouts, you'll get twice the work and trickle down economics will sort you out for life! Of course, Craw has no intention of letting anything trickle out of his own hands..."
+
+  unb_give_them_false_hope:0 "Give Them False Hope"
+  unb_give_them_false_hope_desc:0 "By "promoting" workers out of the factories and into civilised life we can inspire hope in the workers still in the factories. Of course, what they don't know is that we're simply moving them between factories. There's probably a problem here somewhere, but it's nothing a little application of force and greed won't solve."
+
+  unb_honor_among_thieves:0 "Honour Among Thieves"
+  unb_honor_among_thieves_desc:0 "The wasteland is a harsh place and trinkets are tempting, but we should look after our own. Every member of our gang is important, and every one should be valued. That way, they'll be inspired to fight all the harder."
+
+  unb_reward_capable_craftsmen:0 "Reward Capable Craftsmen"
+  unb_reward_capable_craftsmen_desc:0 "Our craftsmen don't work an exciting or glorious job, at least in the eyes of most raiders, but their work is just as vital, perhaps even more so, than that of the raiders themselves. Their weapons, armour, ammo, and other equipment are what allows a society like ours to really thrive. We need to cultivate their trust and skills."
+
+  unb_work_towards_sustainability:0 "Work Towards Sustainability"
+  unb_work_towards_sustainability_desc:0 "Taking everything we can is easily and naturally applied to most things, but in the case of agriculture it can be damaging in the long run. At least, that's what we're told. Our farmers tell us that by continuously making only the most profitable crops we damage the soil, which will lead to fewer profitable crops in the long run. Fore-sightedness is uncommon among raiders, but perhaps we should exercise it."
+
+  unb_adopt_construction_methods:0 "Adopt Construction Methods"
+  unb_adopt_construction_methods_desc:0 "It's safe to say most raiders don't know enough about construction to put together a simple shed, let alone a house that can be lived in. But we're not the only ones in this wide wasteland, and settled societies put a lot of effort into figuring out the best way to build things. It should be easy enough to copy them."
+
+  unb_improving_their_lives:0 "Improving Their Lives"
+  unb_improving_their_lives_desc:0 "It turns out that all this effort we've been making to make life easier has paid off! Our people now live (more) comfortable lives in houses that don't leak with food that, while not plentiful, is enough to stop starvation. They're happy, which actually makes things easier for us."
+
+  unb_dig_a_new_channel:0 "Dig a New Channel"
+  unb_dig_a_new_channel_desc:0 "Digging is largely unexciting work, even in the exciting and dangerous wasteland. But by digging channels and waterways across our land we'll make water more accessible, leading to better lives for our citizens and more efficient agriculture. Digging may be unexciting, but it can be important work all the same."
+
+  unb_stolen_technology:0 "Stolen Technology"
+  unb_stolen_technology_desc:0 "Raiders are, by and large, not the most innovative people on the planet - at least where non-violent things are concerned. But we should avoid falling behind technologically as we could easily find ourselves outgunned and underprepared. The solution is easy and builds on what we're good at: theft."
+
+  unb_accept_savages_into_our_ranks:0 "Accept Savages Into our Ranks"
+  unb_accept_savages_into_our_ranks_desc:0 "Tribals exist across the wasteland and many of them can be just as violent and savage as the most bloodthirsty raiders. This, of course, makes them excellent potential raiders, and it turns out their way of life does carry its advantages. Many tribals understand the wasteland in a way that others simply can't."
+
+  unb_raiders_in_the_sky:0 "Make My Way Back Home When I Learn to Fly"
+  unb_raiders_in_the_sky_desc:0 "Craw once saw the Storm Mongers in action: crazed raiders taking to the skies. Ever since, he has been obsessed with taking to the skies himself. Finally it seems we may have the building blocks to build more than just gliders: Soon, we will build proper planes, and the wasteland will fear the skies."
+
+  unb_historian_refugees:0 "Historian Refugees"
+  unb_historian_refugees_desc:0 "The Historians are an unusual group in the wasteland, obsessed with the past but not caught up in the Old World Blues the same way as the Brotherhood or the Enclave. The tragic downfall of their society has led to a mass exodus, and many come to settle in our lands. They are wise scholars and can provide us with undoubtedly useful knowledge."
+
+  unb_a_mysterious_flower:0 "A Mysterious Flower"
+  unb_a_mysterious_flower_desc:0 "While expanding our agricultural network, an unusually studious farmer discovered a flower he couldn't recognise, not just from his experience as a farmer, but from any books he had. Unfortunately, it ate him. Now, a few hundred more farmers later, we think we can control these flowers - at least, enough to guide them to our enemies."
+
+  unb_a_society_of_warriors_and_scholars:0 "A Society of Warriors and Scholars"
+  unb_a_society_of_warriors_and_scholars_desc:0 "The other nations of the wasteland may be surprised to see the transformation that has occurred within the Unbound: a surprising and growing appreciation for knowledge and the value of the citizen. Of course, it is still a violent and martial society, but one in which both scientists and soldiers can coexist."
+
+  unb_event_trigger_tt:0 "This focus will be §Ycompleted via event§!"

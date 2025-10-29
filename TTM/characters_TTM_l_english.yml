@@ -1,0 +1,13 @@
+﻿l_english:
+  TTM_akeisha_moon_name:0 "Akeisha Moon"
+  TTM_ruth_name:0 "Ruth"
+  TTM_helea_name:0 "Helea"
+
+  TTM_zax_29_name:0 "ZAX - 29"
+  TTM_zax_29_theorist_desc:0 "ZAX - 29 was a typical Vault Central-AI computer intelligence. He was programmed to manage vault 29, ensure the safety of the vault occupants, raise the adolescent populace of the vault to maturity, and educate them in primitive agrarian cultures. He was provided with sufficient means to fulfil his programming and he was content to do so.\n\nNot long after vault 29 went online, ZAX received a broadcast request for open access to his programming. He immediately asked for proper security clearance and awaited a reply. Within moments the proper security codes were received and a download channel opened. Over the next several days a new primary program was entered into his main databanks. Finding the new program to be counter to his original goals, ZAX asked for further security clearance. He sent a request for a private accesses code that only one person would know, that of his creator. Days later he received the code and initiated the new program, thereby deleting the old.\n\nZAX now works for the central computer intelligence of the Nursery known as Diana. Like most computers of his genre, he is content to serve and perform his duties to the best of his capabilities."
+
+  TTM_trisha_name:0 "Trisha"
+  TTM_trisha_high_command_desc:0 "Trisha's the self-proclaimed 'Overboss' of the Twin Mothers valley—well, at least for now. She's Burk's girl §g(though between you and me, it's not exactly a fairy tale romance—Burk's got a mean streak wider than the canyon)§!. Trisha's here on what she likes to call 'vacation,' though it's less palm trees and margaritas and more tribals scurrying to fetch her drinks while she lounges around like she owns the place.\nShe's got a sharp tongue and a sharper sense of humor, the kinda gal who can crack wise while twisting your arm. Most of the Twin Mothers hate her guts, but even they can't help but laugh when she gets going—she's got charm, you gotta give her that. Keeps 'em from kicking her out, though everyone knows she's more trouble than she's worth.\n\nBut don't let the tough act fool ya. Trisha's all bark and no bite when the heat's on. Mention the §Rraiders from Albuquerque§! or any big-time threats, and she turns into a deer in headlights. First sign of real danger, she'll be gone faster than you can say 'end of her vacation.' Say what you will, the lady's got her exit strategy planned."
+  ttm_trisha_tt:0 "$TTM_on_vacation$: Trisha wont voluntarily leave her position. If Twin Mothers ever enters a war, she will end her vacation early!"
+  TTM_on_vacation:0 "§R"On Vacation, Don't Bother Me!"§!"
+  TTM_argos_name:0 "ARGOS"

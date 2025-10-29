@@ -1,0 +1,56 @@
+﻿l_english:
+
+  nf_var.1.t:0 "Unexpected arrival"
+  nf_var.1.d:0 "The swirling portal disorientates Varina as she travels through it, yet she does not lose sight of her goal. The Necronomicon was within her grasp. She just had to reach forward a bit more. Suddenly, the portal ends and disposes of Varina onto a stone table. Grunting in pain, she looks up and sees a group of four giant green beings. Confusion quickly turns to rage, as Varina’s hate for Orcs fills her mind. Before the group of “Orcs” can react, Varina uses her craft and slaughters them all. Once she is done, she hears more in the halls. These caves will run red with Orc blood."
+  nf_var.1.a:0 "Tremble, oh Oregon, for a new terror has arrived."
+
+  nf_var.2.t:0 "Queen of the Undead"
+  nf_var.2.d:0 "I am Varina. I am the Queen of the Dead. In the land of Esthil, after the horrors of the Greentide, I was chosen to lead the survivors. I forged the small town into the seat of a mighty Kingdom, with myself as its Queen. It was then that I turned my attention to my craft. I swore that I would master the very nature of death itself, as the Sorcerer King had done before me. Through years of trial and tribulation, I succeeded. Death can no longer rip me from this mortal coil, yet even then I sought more power over the Dead. My search for forbidden knowledge led me to Necronomicon, in the city of Alda Ordas. My Legion sieged the royal city, its walls crumbed beneath the power of my craft, and the Dead swarmed the streets. I was victorious, none in Anbennar could challenge my rule. Yet, with the Necronomicon within my grasp, it was cast into a portal. I shall follow it and claim my rightful prize."
+  nf_var.2.a:0 "Now, about those Orcs."
+
+  nf_var.3.t:0 "The Iron Hand"
+  nf_var.3.d:0 "With a wave of her hand, another Orc drops dead at Varina's feet, its head charred and smoking. These Orcs were different from the ones she had faced before. They seemed more Human, and wielded strange weapons of fire and steel. Despite these, they proved no match for the power of a master sorceress such as Varina. Already she had slain dozens of the Greenskins, burning them out of their tunnels and hovels. Before long, the only breathing thing was Varina. She made her way into a central chamber, and found a cage full of dead humans. Smiling, she called out an enchantment and watched as her new Legion rose to serve its Queen."
+  nf_var.3.a:0 "Varina calls, and the Dead answer."
+
+  nf_var.4.t:0 "Birth of the Undead Legion"
+  nf_var.4.d:0 "Varina observed the small undead force before her. This was her Legion? A small group of malnourished humans and orcs? It was an embarrassment, an insignificant speck compared to what she once commanded. Yet, Varina could sense the dead of this world. Thousands, if not millions, lay awaiting her call to rise. Smiling, she turned to face the north, ordering her Legion forward. Soon, this land will know her power."
+  nf_var.4.a:0 "The Legion marches."
+
+  nf_var.5.t:0 "The Riches in the Remains of Salem"
+  nf_var.5.d:0 "Varina watched as the Dead tolled in the rubble, pulling away debris and digging into the earth beneath. The locals had claimed that a great source of riches lies beneath these ruins, having been trapped there centuries ago. Willing her servants to dig faster, Varina wondered what kind of treasure awaited her. Perhaps a store of precious gems and gold. Or maybe an armoury of power weapons and magic armour. Both options would be to her liking, showing her power and wealth over the wasteland. When the underground structure was finally breached, and Varina rushed in to claim her prize, her excitement was left unfulfilled."\n\nInstead of a trove of treasure and riches, all she found was damaged books and historical artefacts. Varina scowled as she learnt what these trinkets had to say, learning pieces about the fallen empire of America and its power. Despite her disappointment, she did find the information useful. Nevertheless, that did not stop her from burning what was left.
+  nf_var.5.a:0 "Such a disappointment."
+
+  nf_var.6.t:0 "Mesmeralda's Gifts"
+  nf_var.6.d:0 "“So, tell me, Mesmeralda, how does your power work?”\n\nVarina sat on her throne, mild interest on her face as Mesmeralda withdrew a strange object and pointed it at an undead and a chained human that had been taken prisoner in a battle.\n\n“My Queen, with this artefact, I can bend the minds of lesser people to my will. They are powerless to resist, and must follow every order. Watch”\n\nShe activates the device, causing a blue ring of energy to burst out and strike both the human and the undead. The human shakes his head in confusion, while the undead's eyes glow blue. Mesmeralda steps forward to them, and with a short order, makes them both bow before Varina. Turning back to her Queen, she speaks again.\n\n“With this power, my Queen, the living will follow your every command as loyally as the dead. This is my gift to you, in exchange for learning your craft.”\n\nShe bows before Varina, who is studying the undead closely. While having living slaves would certainly be usefull, she was more interested in how Mesmeralda was able to command the undead. Waving her hand, Varina ordered the undead to stand, but it refused to do so until the blue glow faded from its eyes. An idea began to form in Varina's mind."
+  nf_var.6.a:0 "“I am impressed, Mesmeralda. Use your gifts as you see fit in battle. You have my blessing.”"
+
+  nf_var.7.t:0 "Her Majesty's Kingdom Returns!"
+  nf_var.7.d:0 "The realm of Esthil was my personal domain. All within served me, and all within were subject to my will. Although it is now lost to me, its name will live on. Arise, New Esthil, my realm reborn. Soon, all of Oregon will be conquered in its glory."
+  nf_var.7.a:0 "The Kingdom Of The Undead Has Returned!"
+
+  nf_var.8.t:0 "To Even Outshine The Sorcerer King"
+  nf_var.8.d:0 "Before my rise to power in Anbennar, there was a realm that once spanned its entirety. Led by the powerful Lich Sorcerer King, the Black Demesne stood on the precipice of total domination. Now, in this world, with the lands of Oregon and Washington conquered before me, The Black Demesne is reborn!"
+  nf_var.8.a:0 "Complete Hegemony of this land is within sight!"
+
+  nf_var.9.t:0 "Necronomicon Located"
+  nf_var.9.d:0 "At last! I have found it! The Necronomicon! Using the towers across Washington to amplify my power, I have located the Necronomicon. It is located in some underground dungeon called “Vault 6”. I shall tear that place apart to find it."
+  nf_var.9.a:0 "To Vault 6!"
+
+  nf_var.10.t:0 "Arrival at vault 6"
+  nf_var.10.d:0 "Varina stood before the large cog door of Vault 6, buried deep within a mountain. With a wave of her hand, the metal door is ripped from its holdings and flung into the cave wall. The deafening noise shakes the mountain around her, but she is unfazed. The Necronomicon was so close, she could feel its energy calling to her within the Vault. Entering the ruined and dark hallways, Varina made her way through. The dirty and maze-like paths threatened to leave her lost, but the dark call of the tome guided her onwards. She felt feverish, her heart pounding in anticipation at the secrets she would learn, the magics she would master.\n\nFinally, she entered a small room overlooking a central hall, and there, laying on a ruined desk, was her prize. Slowly reaching over, Varina let out a gasp of awe as she held the Necronomicon, feeling the dark power through her fingers. Finally, it was hers, after all this time. Soon, the very laws of the world would be hers to understand. Soon, she will master all that there is to master. Soon, the secrets of the world will be laid bare to her."
+  nf_var.10.a:0 "All hail Varina, Mistress of Death, Keeper of the Necronomicon."
+
+  nf_var.11.t:0 "Sightings of Half-Men"
+  nf_var.11.d:0 "Over the past several days, many people have come forward saying there have been mysterious sightings of what can only be described as "half-men" who are half the size of regular men. While some have said they are simply lost children, this doesn't explain why there are so many of them or why they seem to have fully grown beards. To figure out what was going on, a band of soldiers decided to travel to the outskirts of Gimli and find these half-men. What they found instead was unlike anything they had seen before. It appears that they are actually dwarves from a place called Silverforge! No one quite believes it, but the men have taken the dwarves back to Gimli and allowed them to stay there, with some even saying they are a gift from the maker. Tensions are high as the dwarves are confused and angry, but they believe they can work out a compromise with the Gimlites, who are apparently forgemasters."
+  nf_var.11.a:0 "'Dwarves? I don't believe it!'"
+
+  nf_var.12.t:0 "Hotel Oregon"
+  nf_var.12.d:0 "Varina stood outside a refurbished building, the letters above its entrance spelling out “Hotel Oregon” and glowing with light caused by some sort of magic she was unfamiliar with. The Acolytes she had left in charge of the city stood around her, looking for her approval for their actions. One stood forward, his head bowed, and spoke.\n\n“Oh Mistress, does this please you. We have spent many days refurbishing the entire city. Soon, people from all over Oregon will come here.”\n\nVarina looked down at the man that spoke, causing him to look away to avoid her intense gaze.\n\n“And what purpose does this serve?”\n\nThe man shifted uncomfortably, the rest of the group looking to each other. He spoke again\n\n“T-the people will come here and spend their caps, M-mistress. W-we can collect tribute for you, to use as you desire.”\n\nUnderstanding dawned on Varina's face, looking back at the flickering signage. An unending flow of wealth. All for her to use as she saw fit.\n\n“Truly my wisdom knows no bounds, to have created such a scheme. This endeavour will prove most useful.”\n\nThe bowing Acolyte looked up, stuttering how this was his creation. Before he could properly protest, she grabbed his shoulder and with but a thought, reduced him to ash. Wiping her hand on her dress, she turned to leave, her remaining Acolytes watching the smouldering ash pile in fear."
+  nf_var.12.a:0 "Unending wealth is mine and mine alone."
+
+  #Party names
+  VAR_undead_party:0 "The Undead Legion"
+  VAR_undead_party_long:0 "The Undead Legion"
+  #Laws stuff
+  var_undead_legions:0 "The Legion of the Undead"
+  var_undead_legions_perfected:0 "The Legion of Doom"

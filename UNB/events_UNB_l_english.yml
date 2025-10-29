@@ -1,0 +1,97 @@
+﻿l_english:
+  nf_unb.1.t:0 "Craw's Journal, Page 1"
+  nf_unb.1.d:0 "IF YOU'RE READING THIS, I'LL FUCKING KILL YOU. \n\nMomma always said I'd have to make something of myself in my life, especially with how 'smarts' I am. She annoyed me so I killed her, but now I've been thinking about that a lot. What the fuck am I gonna amount to? A nameless deserter who joined up with a raider gang? Fuck that shit. I have dreams, aspirations, and all that. These boys who I joined up with understand me. We get each other. I was wasting my time as a soldier, fighting for a shit cause I didn't give a fuck about. Here, with these boys, we do whatever the fuck we want. Living life to the edge. As a matter of fact, we have plans to ditch this Manitoba joint entirely– the boss has plans. Keeps saying we'll head out to some shitheap named Missoula out west, rife with caps and weak as hell. We'll knock their shit out can't fucking wait, and then no son of a bitch can call me a deserter or coward. Especially if I'm at the top! I wonder what kinda shit I might learn from this though, maybe..?"
+  nf_unb.1.a:0 "How to build shit good!"
+  nf_unb.1.b:0 "The best way to steal!"
+
+  nf_unb.2.t:0 "Craw's Journal, Page 30"
+  nf_unb.2.d:0 "Beauty, I... have witnessed true beauty, glory, awe, the most amazing gift from a god I am unsure of's existence. True power has been shown to me, the true genius of ingenuity that could grant my ascension to something greater, something more powerful than I could have hoped for: The skies and the power that is held over the battlefield that lies in them. \n\nThrough my gang's destruction at the hands of the Storm Mongers, I think that's their name– at least that's what the local screamed as they tore him apart, I had a revelation of this very destiny I will take upon. I will ascend to the skies, and I will wreak terror upon those that I wish to from them. \n\nI'm heading back to Manitoba, this gang's good as gone and I'm tired of playing grunt. There are some good old-heads I know that'd jump at the chance to join a new gang anyway– firstly I'll teach them of the Storm Mongers..."
+  nf_unb.2.a:0 "Torment"
+  nf_unb.2.b:0 "Rough ingenuity"
+
+  nf_unb.3.t:0 "Craw's Journal, Page 168"
+  nf_unb.3.d:0 "So, Journal, I've been home for a good bit now. Got some of the older raiders from when everyone was all about this biz'; some of them were even a part of the big gangs! Course most of the kids of the dead ones wanted to come along too so now we've got a big ol' happy raider family- a tribe even! I don't even wanna kill them when they do mean shit to me neither! Cuz they know I'm in charge! \n\nUp until recently we had a good thing going too. We found some fellas calling themselves revolutionaries in [UNB.Capital.GetName] and knocked some heads thinking this would be a great base for us; found a buncha uniforms and figured it was time we went professional. But then the people of the area starting bringing us stuff! Guess that means we've been hired as mercenaries for the Kingdom!\n\nThat is until the revolutionaries we were hired to fight came and started messing with us; what a pain in the ass. \n\nSo far we've been using the people that we turned into our gang for..."
+  nf_unb.3.a:0 "Building some guns!"
+  nf_unb.3.b:0 "Slaving!"
+
+  nf_unb.4.t:0 "Craw's Journal: Goodbye, Till The Marro!"
+  nf_unb.4.d:0 "If there's something I know I can rely on from my boys, it's loyalty. If I say jump, they don't even need to ask how high, they already know. I'll never tell them this, but it almost brings a tear to my eye. Which is why today is a bit hard for me. Marro's retiring. Funny idea, ain't it? A raider retiring. He's got a good head on his shoulders, and we can all attest to him saving us at least once. Tomorrow, he's gone. But until then we're gonna throw him the best damn party this side of the north. It's the least he deserves."
+  nf_unb.4.a:0 "Bye Marro!"
+  unb_marro_retires_tt:0 "Marro, the old bastard, is finally retiring. Let's hope he gets a retirement as peaceful as he wants it to be."
+
+  nf_unb.5.t:0 "Strange... No, Stupid Signals"
+  nf_unb.5.d:0 "Radio frequencies in the Great Shield have been all locked up for the past couple of days because of that horrible din coming out of every channel. It's gotten so bad that the sounds are even coming out of our forks and bedsprings, as if they're picking up the frequency too. No engineer's seen anything this bad before, whether it's sabotage or misconduct has yet to be determined, but what we do know is that it's bad."
+  nf_unb.5.a:0 "PZZZAATeechh"
+
+  nf_unb.6.t:0 "Craw's Journal: A Sneaky Plan"
+  nf_unb.6.d:0 "The raids on Moosejaw's fancy houses have been going well, although they're not as rich as we thought those peace loving assholes do have a good few things to swipe. \n\nWe've been using the ghouls down in Fort Peck for this, luring 'em away from that Gabba guy, stupid nice guy, does make pretty nice signs though. \n\nGood thing I'm one smart fucker, getting real good at making it look like the ghouls are responsible for this shit."
+  nf_unb.6.a:0 "Stupid Moosefuckers"
+
+  nf_unb.7.t:0 "A Ghoul Problem"
+  nf_unb.7.d:0 "Ferals have always been a pest but never a problem for Moosejaw, that changed today. Locals found the vestige of a small town littered with the remains of ghoul and man. Bodies of both parties had been devoured with little care to the sanctity of the dead, a telltale sign of feral ghouls. The ghouls have always tended to keep to themselves, something to do with the cold, but if this battle is anything to go by that's changing. The settlers will have to do their best to drive them off and keep them from their borders, through force if necessary."
+  nf_unb.7.a:0 "Goodbye Gabba-Ghoul!"
+  nf_unb.7.b:0 "Wait what? We've been framed!"
+
+  nf_unb.8.t:0 "Coal Consortium Trade"
+  nf_unb.8.d:0 "Our mines have been getting attacked more frequently as of late. Maybe bandits are starting to realize that our guards' lungs are too rotted to permit them to give chase. The unbound gang sent an offer for us to alleviate our concerns, all they require is a cut of the coal and a salary and we'll have their protection. While they're not the most pleasant folk around, they'll help make our workers feel safe enough."
+  nf_unb.8.a:0 "Now get back to work!"
+  unb_a_heart_of_coal_event_tt:0 "Four §Y[UNB.GetNameWithFlag] Enforcers§!, sent up the Missouri by Craw, have arrived near The Bank in exchange for some of our supplies.\n"
+
+  nf_unb.9.t:0 "A Message from the... Unbound"
+  nf_unb.9.d:0 "We got a signal today on one of our old computers, one detailing that should we send 100 thousand caps to the raiding bastards down south they'll promise not to attack us, a non-aggression pact. Amy and I both think it's quite pathetic, the actions of either an idiot or a coward, coloured up and down with greed at the same time. But there is credence to this threat of theirs. \n\nOh… they also said they like our 'horseys', how funny."
+  nf_unb.9.a:0 "I like the horses as well."
+  nf_unb.9.b:0 "Buncha Chumps"
+
+  nf_unb.10.t:0 "Craw's Journal: New Fort for King Craw!!!"
+  nf_unb.10.d:0 "Fort peck. What a stupid fucking name. Decimated all the boys who stood in my way, and yet all I can think about is the name. Peck– Peck, Peckity Peck… Fucking stupid I'll tell you… Pisses me off and I don't know why… \n\nI keep coming back to this fucking page, why does this shit bother me so much? It's not like the world is going to end if the name is Peck, right? \n\nFUCK WHOEVER NAMED THIS STUPID FUCKING FORT. I'M CHANGING ITS FUCKING STUPID FUCKING NAME. \n\nFUCK ! ! ! !"
+  nf_unb.10.a:0 "Errrr… Crawtown?"
+  nf_unb.10.b:0 "KLEPTOMANIA!!!"
+
+  nf_unb.11.t:0 "Craw's Journal: The Terror Algorithm"
+  nf_unb.11.d:0 "WE GOT A SCORE. While scavenging through the old fort, one of the boys picked up some nasty-looking holotape. It's called the terror algorithm, how cool is that? Anyway me and the boys have been coming up with some ideas on how to use it. The Métis have been throwing around their weight for a while. I reckon we knock them down a peg. Although it came with a report on some kinda science project… Fenrir? Ah whatever fuck it, it'll help me beat those assholes."
+  nf_unb.11.a:0 "Might excite the boys too."
+
+  nf_unb.12.t:0 "Craw's Journal: I Am Not a NERD!"
+  nf_unb.12.d:0 "Alright so I've figured out of this computer shit, deleted the mean weird shit on the holo so it doesn't have that weird medical stuff on it. Kept the corrupted thing though, keeps eating through data, which I like. I like that a lot; even if it means it'll eventually eat itself. \n\nNow I just gotta figure out how I oughta upload it to their systems, or at least one of them. It seems that it can jump from electronics like that. I snapped just so you know. \n\nHmm, weapons or logistics... which one?"
+  nf_unb.12.a:0 "Aha!"
+  nf_unb.12.b:0 "Eureka!"
+
+  nf_unb.13.t:0 "Our Energy Cells!"
+  nf_unb.13.d:0 "Electricians across our country awoke in the night to the sound of hundreds of energy cells bursting and catching flame. Once the fires had been extinguished, the factories began to whimper and their walls cracked and broke. The source of this devastation was located to a single holotape loaded into an old, forgotten terminal. The damage isn't irreparable but it'll take time to get things back in working order. "
+  nf_unb.13.a:0 "What a headache"
+  unb_trust_in_sabotage_fuel_destroyed_tt:0 "§R[UNB.GetName] has destroyed half of our energy cells!§!"
+
+  nf_unb.14.t:0 "Our Machines!"
+  nf_unb.14.d:0 "Citizens and government members alike awoke this morning across our country to find every manufacturing line and logistics radio malfunctioning. Motors smoldered and pulleys tumbled down from the heights. The source of this devastation was located in a single holotape loaded into an old, forgotten terminal. The damage isn't irreparable but it'll take time to get things back in working order."
+  nf_unb.14.a:0 "What a headache"
+
+  nf_unb.15.t:0 "Craw's Journal, Page 700: Time for Another Journal!"
+  nf_unb.15.d:0 "A long time ago, I remember writing in this journal that I was worried about my future. That I had dreams and aspirations, things I wanted to amount to. Well, now I'm glad to say that I was always smarter than my enemy, till the very end \n\nEven though most of the boys have been replaced by bots, a lot of them sit at the top with me; enjoying lavish meals and other finer bits of life. A good reward for those that could see that I was destined for great shit, an even better one for those that stayed loyal. \n\nTurns out though I don't REALLY have to do much anyway! I re-wired Penny to be a loyal manager to me and only me; so far she's been doing it so well I don't even really have to think about it! \n\nAs of now, I'm giving my boys the ability to raid whatever, whoever, and whenever. What that means, I'm not sure! But as long as they stay loyal, don't fuck my shit up, and I get to keep on making bots, I don't care! Under the Unbound banner, everyone can do whatever the fuck they want. I've really made the strongest tribe; one to rival the 'mongers. Hell, we can even fly! Books running outta space so I'll leave you with this; Goodbye journal and..."
+  nf_unb.15.a:0 "God, I love robots"
+
+  nf_unb.16.t:0 "An Unexpected Envoy"
+  nf_unb.16.d:0 "Earlier today, an unexpected event unfolded at the gates of the royal palace. A weathered man in aged armor, claiming to represent the Unbound, a southern raider clan, attempted to force his way into the palace grounds. The guards, understandably, were quick to dismiss him. However, his mention of being from the Unbound caught the attention of onlooking royal advisers.\n\nGiven the rising tensions between the Kingdom and its former territories, news of a potential war was on everyone's mind. The man's proposal, inspired by Gunn I's historic diplomatic success with the warlords of Manitoba, suggested that the Unbound could be convinced to join forces with Manitoba against the Métis and the Republic of Three Rivers.\n\nThis proposal sparked a heated debate within the King's court. While some vehemently opposed the idea, arguing that aligning with raiders would tarnish Manitoba's reputation, others saw it as a strategic opportunity to gain powerful allies in the upcoming conflict."
+  nf_unb.16.a:0 "What an interesting plan..."
+  nf_unb.16.b:0 "...one that we'll have to decline"
+  unb_peace_deal_with_bra_tt:0 "Accepting this will cause a scripted peace deal when §Y[MTC.GetNameDef]§! is defeated, handing some of the westernmost states to §Y[UNB.GetNameWithFlag]§!."
+
+  nf_unb.17.t:0 "Manitoba Accepted"
+  nf_unb.17.d:0 "HAHA THEY ACCEPTED!!!! THOSE IDIOTS!!!!\n\nTIME TO FUCK SHIT UP!\n\nI hear Brandon is nice this time of year, maybe I should go?"
+  nf_unb.17.a:0 "They're sure to make me king!"
+
+  nf_unb.18.t:0 "Manitoba... Refused"
+  nf_unb.18.d:0 "They... Refused? Someone must've spilled the beans. Not very happy about that, but oh well. They're not even the real royalty!\n\nThere's never been a bunch of settlers we could beat without help."
+  nf_unb.18.a:0 "Still, this sucks"
+
+  nf_unb.19.t:0 "They Spat in Our Faces"
+  nf_unb.19.d:0 "Our emissary was laughed out of court. Their new chief king or whatever, [DLN.GetLeader], has a stick up his ass and accused us of being jumped up raiders.\n\nWell, we are, but still."
+  nf_unb.19.a:0 "That's a bit harsh"
+
+  nf_unb.20.t:0 "Rustlers in the Stampede"
+  nf_unb.20.d:0 "A group within our land decided to sell some of our horses to a group of raiders. A large sum of caps was procured in exchange for the steeds, a sum which we confiscated from the rustlers. While it would be hopeless to try to retrieve the horses, perhaps we could use this new wealth to buy some much needed things."
+  nf_unb.20.a:0 "Maybe some new horseshoes?"
+
+  nf_unb.21.t:0 "Craw's Journal: Crossroads SUCK!"
+  nf_unb.21.d:0 "The Wasteland is a strange and shitty place, no argument there. But when you've been around as long as I have, and you've done as much, you think you would have seen it all by now. Apparently not!!! \n\nToday, while roaming around with some of my boys, we came across some giant fucking robots on wheels. They asked us to follow them, so we did. They took us to some robot lady on a screen named Penny, who then tried to sell us bobbleheads! You can't make this shit up. I walked away thinking 'I'm totally going to destroy this place' but then I had a chat with some of the muscle up there. People who call themselves the Miscounts. Raiders who wear furniture as armor. Their main guy wore a fucking TV on his head. So then I thought..."
+  nf_unb.21.a:0 "You guys need some friends"
+  nf_unb.21.b:0 "I'm DEFINITELY gonna destroy this place"

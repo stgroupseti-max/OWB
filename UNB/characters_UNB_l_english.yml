@@ -1,0 +1,26 @@
+﻿l_english:
+  UNB_CRAW_NAME:0 "Craw the Eviscerator"
+  UNB_COUNT_CRAW_NAME:0 "Count Craw"
+  UNB_CRAW_DESC:0 "Even a raider can have dreams of something great and pure, and Craw’s dreams are not small ones. Apart from his ambitious hopes of molding the Unbound into a raider clan to be feared all across the Great Shield, Craw dreams of soaring amongst the clouds. Inspired by the high-flying riders of the storm and their gifts, the Eviscerator hopes one day to ascend as they have with or without the rest of the gang. Doesn’t really matter to him who has to die along the way to make these dreams come true."
+  UNB_MARRO_NAME:0 "Marro the Old"
+  UNB_MARRO_DESC:0 "Not many raiders can claim to have lived past the age of 40, but Marro is now closer to 80. Still a man of remarkable vigour and aggression, age is finally starting to catch up to him after all these years. It won't be long until he must retire fully, and leave the hard work of raiding and pillaging to his younger compatriots. When he retires, it will be the end of an era."
+  UNB_FALLEN_PALADIN_NAME:0 "Paladin Proditor"
+  UNB_LIBERTY_NAME:0 "LIBERTY"
+  UNB_JUSTICE_NAME:0 "JUSTICE"
+
+  # Traits
+  unb_harbringer_of_destruction:0 "Harbinger of Destruction"
+  unb_harbringer_of_destruction_locked:0 "§gHarbinger of Destruction (Locked)§!"
+  unb_harbringer_of_destruction_locked_tt:0 "Unlocked by completing §Y\"Reach for the Skies\"§!"
+  unb_master_of_horses:0 "Equestrian"
+  unb_master_of_horses_locked:0 "§gEquestrian (Locked)§!"
+  unb_master_of_horses_locked_tt:0 "Unlocked by completing §Y\"The Gurkhan of Alberta\"§!"
+  unb_emperor_of_manitoba:0 "Emperor of Manitoba"
+  unb_emperor_of_manitoba_locked:0 "§gEmperor of Manitoba (Locked)§!"
+  unb_emperor_of_manitoba_locked_tt:0 "Unlocked by completing §Y\"The Heir to the Throne\"§!"
+  unb_king_of_thieves:0 "King of Thieves"
+  unb_king_of_thieves_locked:0 "§gKing of Thieves (Locked)§!"
+  unb_king_of_thieves_locked_tt:0 "Unlocked by completing §Y\"The Scourge of the Chapter\"§!"
+
+  UNB_aging_officer_trait:0 "Aging Officer"
+  UNB_aging_officer_trait_desc:0 ""

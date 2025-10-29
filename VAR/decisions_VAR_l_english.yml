@@ -1,0 +1,27 @@
+﻿l_english:
+
+  #Categories
+  var_locating_the_necronomicon_decisions:0 "Locating the Necronomicon "
+  var_locating_the_necronomicon_decisions_desc:0 ""
+
+  #Decisions
+  var_weather_tower_restoration_decision_1:0 "Restore the Maw Weather Tower"
+  var_weather_tower_restoration_decision_1_desc:0 ""
+
+  var_weather_tower_restoration_decision_2:0 "Restore the Portland Weather Tower"
+  var_weather_tower_restoration_decision_2_desc:0 ""
+
+  var_weather_tower_restoration_decision_3:0 "Restore the Spokane Weather Tower"
+  var_weather_tower_restoration_decision_3_desc:0 ""
+
+  var_weather_tower_restoration_decision_4:0 "Restore the Capitol Hill Weather Tower"
+  var_weather_tower_restoration_decision_4_desc:0 ""
+
+  var_find_the_necronomicon_decision:0 "Find the Necronomicon"
+  var_find_the_necronomicon_decision_desc:0 ""
+
+  var_vault_6_expedition_decision:0 "Mount an Expedition to Vault 6"
+  var_vault_6_expedition_decision_desc:0 ""
+
+  #Flags
+  restoring_weather_tower:0 " §RWe are already restoring a weather tower§!"

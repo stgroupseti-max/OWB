@@ -1,0 +1,44 @@
+﻿l_english:
+
+ # City building GUI
+  vsh_city_building_title:0 "The City of Safehaven"
+
+  vsh_decisions_complete:0 "Decisions Completed!"
+
+  VSH_build_decision_one_text:0 "[vsh_build_decision_one]"
+  vsh_build_decision_one_tt:0 "[!vsh_build_decision_one_click]"
+  vsh_build_decision_one_tt_delayed:0 "[!vsh_build_decision_one_click_enabled]"
+  vsh_has_built_all_other_buildings:0 "We must build every other building first."
+
+  vsh_has_built_government_buildings_tt:0 "We must first build §YOutreach Offices§! before starting on other buildings."
+
+  VSH_build_decision_two_text:0 "[vsh_build_decision_two]"
+  vsh_build_decision_two_tt:0 "[!vsh_build_decision_two_click]"
+  vsh_build_decision_two_tt_delayed:0 "[!vsh_build_decision_two_click_enabled]"
+
+  VSH_build_decision_three_text:0 "[vsh_build_decision_three]"
+  vsh_build_decision_three_tt:0 "[!vsh_build_decision_three_click]"
+  vsh_build_decision_three_tt_delayed:0 "[!vsh_build_decision_three_click_enabled]"
+
+  VSH_build_decision_four_text:0 "[vsh_build_decision_four]"
+  vsh_build_decision_four_tt:0 "[!vsh_build_decision_four_click]"
+  vsh_build_decision_four_tt_delayed:0 "[!vsh_build_decision_four_click_enabled]"
+
+  vsh_building_decision_one_taken:0 "Previous Decision Is Ongoing"
+  vsh_building_decision_two_taken:0 "Previous Decision Is Ongoing"
+  vsh_building_decision_three_taken:0 "Previous Decision Is Ongoing"
+  vsh_building_decision_four_taken:0 "Previous Decision Is Ongoing"
+
+
+  vsh_clear_rubble:0 "Clear Out Rubble"
+  vsh_build_centers:0 "Build Government Centers"
+  vsh_set_foundations:0 "Set Foundations"
+  vsh_final_stages:0 "Final Stages of Construction"
+  vsh_unveil_buildings:0 "Unveil the Government Buildings"
+  vsh_outreach_program:0 "Set Up Outreach and Welfare Programs"
+  vsh_establish_post_world_government:0 "Establish a New Government"
+  vsh_build_schools:0 "Build New Schools"
+  vsh_build_libraries:0 "Open Public Libraries"
+  vsh_set_up_fire_stations:0 "Set Up Fire Stations"
+  vsh_set_up_police_stations:0 "Establish a Police Force"
+  vsh_open_public_hospitals:0 "Open Public Hospitals"

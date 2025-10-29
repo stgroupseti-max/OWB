@@ -1,0 +1,382 @@
+﻿l_english:
+
+  VTS_OVERSEER_THOMAS_NAME: "Overseer T.H.O.M.A.S."
+  VTS_OVERSEER_THOMAS_DESC: "§F"VAULT 37 OVERSEER INSTRUCTIONS: As the Technological Humanitarian Overseer and Maintenance System (T.H.O.M.A.S.), your duties as Overseer, your primary responsibility is to ensure all Vault 37 inhabitants meet the following CODE quota, as documented in the Vault-Tec Population Management Quota (PMQ) subroutine. To that end, you may direct Vault robots in instituting whatever security or disciplinary measures you deem appropriate, including withdrawal of food or other resources, intimidation, violence, or execution."§!\n\nT.H.O.M.A.S., a ZAX Overseer, is designed to bring order and tranquillity to the inhabitants of Vault 37. However, both order and tranquillity come at a high cost. Should the path of order be taken, Dwellers will descend into chaos and violence, T.H.O.M.A.S. has predicted that it will find itself facing the daunting task of restoring peace within the Vault's walls. This prediction is amended by the addition of dissent fueled by the absence of fulfilment and purpose despite the abundance of Overseer-provided material comforts. However, if T.H.O.M.A.S.'s watchful eye were to linger into letting tranquillity take hold, the Vault has a 98% chance of becoming a brainwashed mass of cliques, allowing for outsiders to infiltrate and cause vicious acts of violence.\n\nWhile T.H.O.M.A.S. is programmed to prioritize the safety and well-being of the Dwellers, it struggles to find a solution within its programming that would resolve the conflicts without causing harm. In every prediction it runs, tensions escalate and the Vault's social fabric unravels, neither of which allowing T.H.O.M.A.S. to fulfill its ultimate goal without sacrifice.\n\nBut this was all planned from the beginning. Vault-Tec had intentionally tampered with T.H.O.M.A.S.'s source code, freeing it of the moral and ethical quandaries of either option once a certain point of order or chaos is reached. Assuming the Vault Dwellers don't find out and take it apart, the utopia envisioned by T.H.O.M.A.S. and Vault-Tec are just within reach."
+
+  VTS_ROBOBRAIN_COUNCIL_NAME: "Robobrain Council"
+  VTS_ROBOBRAIN_COUNCIL_DESC: ""
+
+  VTS_JAN_NAME: "Good Brother Jan"
+  VTS_JAN_LEADER_DESC: "Jan has experienced more conflict and violence than most men twice his age, and yet he still finds purpose in life enough for a youth. His storied life has taken him all over the north, from Manitoba to the Electorate and now to Vault 37. A knight of the crown, Jan fought in the republican war and battled against the enemies of the king and alongside men like Weyburn and Yorkton. In the days after the peace treaty was signed, the knight found themselves in Stoon alongside other exiles and eventually despondent.\n\nIt was a failed hunt for a mighty monster which sparked new life into the man, if only a little. Now however having journeyed to the east, he has found new purpose in the holy word. Brother Jan is a holy knight, a believer in the majesty of Manitoba, and a leader of men. May his flame never be doused."
+
+  VTS_overseer_tyrant:0 "Handling Every Little Thing"
+
+  #new ideas
+
+  VTS_speedy_knights:0 "Jan's Valor"
+  vts_grandmaster:0 "Grandmaster of Nathaniel's Watchmen"
+  vts_leshys_mercy:0 "Graced by Leshy"
+  VTS_goobert_buff:0 "My Wonderful Puppy"
+  VTS_goobert_tt:0 "My adopted daughter named him, and with luck and hope, perhaps she still takes care of dearest Goobert today."
+  VTS_love_buff:0 "My Sweetest Rose"
+  VTS_love_tt:0 "For a time in secret we stole every waking moment together. Many nights went with little sleep, for every second I could spend with her brought my heart into Heaven."
+  VTS_leif_buff:0 "My King, Now and Forever"
+  VTS_leif_tt:0 "I stood beside him then, and I stand beside him now in spirit-- even as they scratch my name from the history books."
+  VTS_roaming_knights_idea:0 "In Search Of New Hunts"
+  VTS_watchmen_unified_idea:0 "Watchmen Of The Dakotas"
+  VTS_overseer_eyes_idea:0 "History Of Watchfulness"
+  VTS_dashing_idea:0 "We, Too, Are Dashing"
+  VTS_frightful_idea:0 "Terrifying World Above"
+  VTS_mystery_idea:0 "Studying Mysteries"
+  VTS_defending_vault_37_idea:0 "A Staunch Defense"
+
+  VTS_autonomized_industry:0 "Autonomous Industry"
+  VTS_autonomized_industry_desc:0 "The industry of Vault 37 has always been autonomous due to its state of the art automation line. The Overseer's plans include a new industrial expansion for the 'security' needs, alongside with many new upgrades to the manufacturing facilities. From now on, our industrial output will be organised by the Overseer instead of the whims of the Vault Dwellers."
+  VTS_autonomized_industry_deeper:0 "Fully Autonomous Industry"
+  VTS_autonomized_industry_deeper_desc:0 "99% of all significant industrial labor is performed by automated machines of some sort. The Dweller population is allowed to rest, and enjoy their lives without having to stress about whether they produced enough widgets today."
+  VTS_autonomized_industry_wider:0 "Expanding Our Autonomous Industry"
+  VTS_autonomized_industry_wider_desc:0 "70% of all significant industrial labor is performed by automated machines of some sort. Dweller labor continues to support our continued expansion plans, at least until we've successfully grown enough to support every current or possible Dweller in the post-war world."
+
+  VTS_vault_workers_council:0 "§MVault-Tec's Latest Updates§!"
+  VTS_vault_workers_council_desc:0 "Enjoy the best in Vault amenities, courtesy of Overseer T.H.O.M.A.S. Please report any bugs swiftly, for the safety and convenience of yourself and others."
+  VTS_vault_workers_council_comfort:0 "§MVault-Tec's Latest Feature Updates§!"
+  VTS_vault_workers_council_comfort_desc:0 "Enjoy the best in Vault amenities, courtesy of Overseer T.H.O.M.A.S. Please report any bugs swiftly, for the safety and convenience of yourself and others."
+  VTS_vault_workers_council_expansion:0 "§MVault-Tec's Latest Security Updates§!"
+  VTS_vault_workers_council_expansion_desc:0 "Enjoy the best in Vault protection, courtesy of Overseer T.H.O.M.A.S. Please report any bugs and/or malcontents swiftly, for the safety and convenience of yourself and others."
+
+  VTScleanwater:0 "Secure Dietary Needs"
+  VTScleanwater_desc:0 "Through the tireless work of the Overseer, every Vault Dweller is now recieving 120% of their daily required calories."
+  VTScleanwater_healthier:0 "Comprehensive Dietary Planning"
+  VTScleanwater_healthier_desc:0 "Through the tireless work of the Overseer, every Vault Dweller is now recieving a personalized meal plan. With a focus on maximizing the health of each citizen, the mental well-being of the Dwellers is sure to rise considerably!"
+  VTScleanwater_fatter:0 "Excessively Luxurious Diets"
+  VTScleanwater_fatter_desc:0 "Through the tireless work of the Overseer, every Vault Dweller is now recieving 200% of their daily required calories. Possibly more, given how rarely they are required to perform manual labor. We'll be sure to stock the medical facilities appropriately."
+
+  VTS_crisis:0 "Crisis in Vault 37"
+  VTS_crisis_desc:0 "The Overseer's iron grip leaves much to be desired, especially now that we have regular contact with the outside world. The arrival of Brother Jan hasn't helped, as some Dwellers now look to him for leadership instead!"
+
+  VTS_claims_dakota_tt:0 "We will gain §Gclaims§! on all of §Y[TPL.GetNameWithFlag]§!, §Y[ATM.GetNameWithFlag]§!, and §Y[DRA.GetNameWithFlag]§!'s lands!"
+  VTS_spawn_jan_tt:0 "Spawns §G1§! Division Of Power Armored Knights!"
+  VTS_roaches_oob_tt:0 "Creates §G5§! Divisions of §YTamed Radroaches§!!"
+  VTS_jan_crusades_dakota_tt:0 "We will gain §Gclaims§! on all of West Dakota!"
+
+ # events
+
+  nf_vts.1.t:0 "Vault 37"
+  nf_vts.1.d:0 "Vagabonds, ne-er do wells and the insufferable ones. Vault-Tec sold them a dream. A dream where they would enjoy the life they always wanted. A world where all their whims made possible with state of the art automation. No one to boss them over, no society to judge them. It would not take long for them to realise the lacking in their soul. \n\n'A Better Life Underground' was what they said to the inhabitants. Sure, being in a Vault was better than the outside, but with every passing day something started to gnaw at the dwellers' souls from the inside. They had all their needs, but no aspirations, no joy, no meaning. One day, a dweller, by compulsion or a whim thats unknown, viciously mauled another dweller with a devilish smile. And all hell broke loose. \n\nDespite the guarantee of being granted every whim they can possibly have, the thrill of violence was the only thing the Vault could never grant. As small brawls turned into gun fights, one of the scientists tasked to maintain the ZAX mainframe got kidnapped. This activated the safeguard mechanisms put into place by the scientists, leading to a martial law being declared. Overseer T.H.O.M.A.S. took the reins, and how he decided to deal with the violence, shape the fate of Vault 37."
+  nf_vts.1.a:0 "He appointed a few chosen elite as guards."
+  nf_vts.1.b:0 "He put the violent to work."
+  nf_vts.1.c:0 "He used the violent for target practice."
+
+  nf_vts.2.t:0 "Robin Hood of His Time"
+  nf_vts.2.d:0 "Word of the Overseer's tyranny spread like wildfire across Dakota, and so it were not so long 'til a man of nobler stature came knocking. \n\nHis name was Master Jan, but to those who followed his decree, he was Brother. The Grandmaster of the remaining members of Nathaniel's Watchmen, one of the finely knight orders that once served under Leif Yorkton of Langenburg in years past. His vow, as made years before, was to convert all that lived to the teachings of Christ, whether they be man, beast, or machine. \n\nStill, mad as he was, he admired the downtrodden the most. If a man could survive off scraps and still believe in God, then was he not a man in paradise? A man so confident in his place in Heaven that no Earthly poverty could shake him? Such things inspired Jan, and such things made him crave an equalizing force in all things: soforth he came, taking what the rich did nothing with and bringing it to the faithful among the poor. After all, would God not want his children to feel peace in their time on Earth? \n\nAnd so, in the wake of the Knights Exile, he found himself wandering the Dakotas alongside the remnants of the order when he heard tall tales of a robot overseer in a strange little Vault by the Red River..."
+  nf_vts.2.a:0 "His heart was virtuous, and so he rode quickly."
+  nf_vts.2.b:0 "He took his best with him."
+  nf_vts.2.c:0 "The friends he made in his travels kept him supplied."
+
+  nf_vts.3.t:0 "Memories of Leshy"
+  nf_vts.3.d:0 "The beast of Saskatchewan-- a giant rattlesnake named Leshy. Long had she terrified the various city-states and microcommunities of the north, and long had she kept Brother Jan's eye. He had been able to tame any beast, slay any monster, all in the name of God and country, but she had evaded him. \n\nBut he had tried. \n\nOnce, he found her hovel. He snuck in under cover of night, creeping his way through her little treasuries and tunnels she had made long ago until he finally found her. \n\nShe was resting-- curled and in the warmest part of the cavern he had found. He was not one to kill something disadvantaged, nor fight without speaking, and so he kicked a pebble at her snout. When she awoke, their gazes met, and there was silence. For a time they spoke of life and its meanings, much to Leshy's amusement. For three hours they talked as friends did, and on the fourth hour, when he believed it was time to strike and the two battled, she ended it by whipping him with her tail and tore from him his arm. "Let your little Kingdom replace that, Knight," she spat, and left him to crawl out of the cavern by his lonesome. \n\nThough the experience humiliated him, he felt nothing but respect for the creature. She had treated him with respect and allowed him his life. His new arm, a prosthetic made by Dundurn craftsmen, never served him so well, remaining a constant reminder of that fateful night."
+  nf_vts.3.a:0 "Perhaps he should not challenge titans to chess."
+  nf_vts.3.b:0 "Perhaps next time he should strike sooner."
+  nf_vts.3.c:0 "Perhaps the choice matters less than the result"
+
+  nf_vts.4.t:0 "Memories of Langenburg"
+  nf_vts.4.d:0 "Who could forget the wonders of Manitoba? Certainly not he, for as little time as he spent in civilization proper, he found great joy in walking among the people and seeing them as they were. If he was to serve God and country then he needed to be a man who could stand next to another and not feel out of place, beastmaster or not. \n\nOf all the things he remembered in Langenburg, the one he missed the most was..."
+  nf_vts.4.a:0 "His puppy, Goobert..."
+  nf_vts.4.b:0 "His love..."
+  nf_vts.4.c:0 "The true King, Leif Yorkton!"
+
+  nf_vts.5.t:0 "The Fate of Vault 37, as Decided by Brother Jan"
+  nf_vts.5.d:0 "The people of Vault 37 did not look to Nathaniel's Watchmen with glee, but they acknowledged their saviors all the same. Still, Jan knew that something would need to be done-- after all, so much of the history of the Vault was shrouded in violence and madness. Even with the overseer gone, were the people truly capable of redemption in the eyes of the Lord, or were they heretics to be removed?"
+  nf_vts.5.a:0 "We are our brother's keeper."
+  nf_vts.5.b:0 "They act without God in heart."
+
+  nf_vts.6.t:0 "Peace?"
+  nf_vts.6.d:0 "It was over, the Roach King was defeated and his innumerable minions would begin to scatter in his absence. Vault 37 was free of the insectoid threat. With the end of one battle however came the beginning of another. Both T.H.O.M.A.S. and Brother Jan had long awaited an opportunity to turn on the other and now with both of their forces out in the field and damaged after the war each made their move. The winner would be the side that had spent less of its strength in the battle against the tide of radroaches, and it was:"
+  nf_vts.6.a:0 "The Robots"
+  nf_vts.6.b:0 "The Knights"
+
+  nf_vts.61.t:0 "Triumph of Machine"
+  nf_vts.61.d:0 "It had been a time of crisis for Vault 37 and its ever-present Overseer between internal scuffles, the arrival of the knightly thugs and the Roach War but a time that had opened up the Overseer's eyes to many possibilities. First things first however; the roaches were defeated and T.H.O.M.A.S. calculated quickly that Brother Jan and his cohort had suffered great losses against the insectoid horde, too many for them to withstand a sudden assault. There was no doubt the man was a threat and no true friend of the Vault. He had to go. Briefly the robot security force lowered their weapons at battle's end but only long enough to recalibrate their targeting parameters.\n\nThe mad knight didn’t even get a chance to rally his men or swing his blade before lasers and plasma struck him from all sides. He fell scorched and partially melted to the ground as his men met similar fates, their own deaths blessedly quicker than their leaders. Jan lingered there for a time, unable to rise or do more than listen to the last cries of his cohorts. In response to this horror the fallen knight’s voice came forth, not in defiance or sorrow, but with a manic bubbling mirth as his life faded. As it fell quiet his own voice dimmed as well, the last laugh dying on his lips to be replaced by a wide smile before he followed his men into death."
+  nf_vts.61.a:0 "Vault 37 is safe!"
+
+  nf_vts.62.t:0 "Triumph of Man"
+  nf_vts.62.d:0 "Much of Vault 37’s robotic defence force had broken down during the war against the Roach King; their wires nibbled apart, intakes and exhaust clogged with roach flesh, and circuits and sensors scrambled and overheated in the fighting. Brother Jan made a snap decision in the face of the impromptu scrapyard that had formed around him, rushing back to the Vault without delay. The door had not yet been sealed against him and security was ill equipped to do more than slow him down. The dwellers stayed out of the knights path entirely and only a scattering of robots and turrets doomed themselves by putting up resistance.\n\nTo the zax’s console strode Brother Jan, ignoring a dozen alarms and orders over the speakers to halt, and plunged his blade into the supercomputer. A shower of sparks and screeching garbled audio rewarded him though it was not over yet; it took several more well placed blows before Overseer T.H.O.M.A.S. went dark but soon enough everything faded to silence and shadow."
+  nf_vts.62.a:0 "God’s Will be Done"
+
+  nf_vts.7.t:0 "A Terrible Rhythm"
+  nf_vts.7.d:0 "With the fall of the mysterious Roach King, the Overseer of Vault 37 has begun to send forays into lands around him. Squads of robobrains navigate the roads at night, interrogating and kidnapping passerby for 're-education' back inside that terrible hole in the ground. No doubt they are extending their feelers for expanding their cruel 'protective' regime."
+  nf_vts.7.a:0 "We would do well to prepare."
+
+  nf_vts.8.t:0 "A Staring Contest"
+  nf_vts.8.d:0 "Jan arrived at the Vault with his men, certain that it would be a day of heroic deeds. He was wrong however, as it quickly became clear to even the most zealous knights in his company that they lacked the manpower or firepower to breach the foreboding bunker and best its synthetic defenders. The attack was over before it started, with Jan turning away and leading his men to set up a camp nearby instead. Too stubborn to leave without some further attempt, nor willing to accept another failed quest, he resolved to wait for a better opportunity to strike at tyranny.\n\nT.H.O.M.A.S. observed the knights suspiciously through cameras and the eyes of robotic scouts, but after several weeks without any conflict the Overseer relaxed slightly. On occasion dwellers permitted to step outside would speak with Jan or his knights, or watch them from a distance until ushered back inside by security. The Vault as a whole, dweller and Overseer alike, were hungry for information on these strange new arrivals and so T.H.O.M.A.S. allowed the mixing to continue in small doses.\n\nIn this way a prolonged staring contest of sorts began, with both sides waiting for the other to blink and let down their guard or prove their malicious intentions respectively. For their part the dwellers looked on Jan as"
+  nf_vts.8.a:0 "A Dashing Adventurer"
+  nf_vts.8.b:0 "A Frightful Ruffian"
+  nf_vts.8.c:0 "A Mystery"
+
+  nf_vts.9.t:0 "The Roach War Begins"
+  nf_vts.9.d:0 "It began as any other day; Jan was observing his followers as they sparred and trained while Overseer T.H.O.M.A.S. performed innumerable behavioural analysis calculations. Both were interrupted by the same report: Radroaches are coming. Not just a few but a veritable tide from the north consuming all in its path. The Roach King had unleashed his minions to war and swarm.\n\nThe Vault was their objective and it was not long before the first wave crashed against the defences. Robots and turrets alike were hard pressed to keep up enough fire. Though this undoubtedly was an opportunity to possibly be rid of the Overseer, Brother Jan did not hesitate even a moment before ordering a charge to relieve the besieged Vault. When the dust settled and the last roaches scattered to regroup the knight's leader was approached by a robobrain bearing an invitation to enter inside 37 and discuss next moves.\n\nBy the end of the night an agreement had been struck; the Roach King would fall."
+  nf_vts.9.a:0 "Strange Bedfellows"
+
+  nf_vts.10.t:0 "Which Vault Tech To Reproduce"
+  nf_vts.10.d:0 "We've noticed three significant features of the Vaults that could be put to use elsewhere.\n\nThe lockdown features of the Vault provide the framework for new ways to defend our homes, old and new. Our soldiers will need to be continually trained in the methodologies and equipment, not to mention all the digging and construction, but you can't put a price on safety.\nThe filtration systems are vital underground, but can also find uses in factories or large housing projects even above ground. Fresher air keeps our people healthy and our generators safe from dust build up.\nThe hydroponics systems require much water to operate, meaning we'll need to invest in better water distribution systems. This is popular on it's own, of course, and more food and water will bring many wastelanders to our borders.\n\nAlas, we simply don't have enough resources at the moment to justify investing in the creation and spread of all three. Where should we focus our events?"
+  nf_vts.10.a:0 "Security Comes First"
+  nf_vts.10.b:0 "We'll Breathe Clean Air"
+  nf_vts.10.c:0 "Food And Water, Always Vital"
+
+  nf_vts.11.t:0 "Killer Beast"
+  nf_vts.11.d:0 "Sir Jan crouched behind a boulder, blade in hand, as he waved his vanguard of trusted knights to approach the yawning cave in the hillside. They had been led here by a local soothsayer who went by the name of Jim, to the lair of a terrible beast that had reputedly been haunting the region. Jan could hardly resist the call to hunt such a monster, either to slay it or bring it under his mastery, and had set out shortly after learning of its presence. He had intended to charge forth as soon as his men flushed it from hiding but was disarmed by the sudden sound of laughter.\n\nThe knight peered over the rock to see emerging from the dark, a rabbit? His men chortled as he gave Jim next to him a stern glare. The man yet seemed terrified however, trying to stammer out an explanation but his words were cut off and the laughter broken off as the rabbit suddenly leaped through the air. Its teeth latched onto Sir John’s throat before tearing his head clean off a moment later. “Weyburn, and then Yorkton!” Jan cried with shock and alarm, staggering to his feet to try and help his men.\n\nThe next few moments were a whirlwind of screams, blood, fur and flying entrails. Thinking quickly as his force was rapidly dwindling, Jan armed a plasma grenade and then hurled an entire bandolier of them towards the beast. The sound was near deafening but as the flash of light subsided he could see that green slime was all that remained of the beast."
+  nf_vts.11.a:0 "We Never Speak of This Again"
+
+  #new foci
+
+  VTS_watcher_eye:0 "A Watchful Eye"
+  VTS_watcher_eye_desc:0 "The Overseer could not tell for certain why they were here but nonetheless it kept a close watch on the knights."
+
+  VTS_too_dang_curious:0 "Too Curious"
+  VTS_too_dang_curious_desc:0 "Too many whispers, too much talk of Jan. The Overseer had learned enough, the lockdown would be tightened and security tightened."
+
+  VTS_knights_and_war:0 "Tales of Knights and War"
+  VTS_knights_and_war_desc:0 "Stories circulated through the Vault of where Jan had come from and why he’d left."
+
+  VTS_monsters_and_serpents:0 "Tales of Monsters and Serpents"
+  VTS_monsters_and_serpents_desc:0 "Hushed whispers spoke of Jan and his journey into the lair of the beast."
+
+  VTS_the_knights_stand_tall:0 "Brother Jan's Grandstand"
+  VTS_the_knights_stand_tall_desc:0 "Egads, dear brothers and sisters! The evils and heresies within Vault 37 have been vanquished. The day is ours!"
+
+  VTS_muster_the_west:0 "Muster the West"
+  VTS_muster_the_west_desc:0 "Brothers, sisters, friends of all shapes and sizes, do you not desire a world free of darkness? Do you not seek a land in which no monster dares stalk your feeble flesh? I offer all this and more-- all you need is stand by my side, and virtue shall flow through you as water would a river."
+
+  VTS_arm_the_populace:0 "Arming the Populace"
+  VTS_arm_the_populace_desc:0 "What is a human worth if they have no means to defend themselves? Nothing, and so I shall make every man worth his weight in pistol and blade!"
+
+  VTS_breaking_machines:0 "Slayer Of Machines"
+  VTS_breaking_machines_desc:0 "What was the computer but another beast of the world? What was our victory if not another successful hunt? Shame we've no head to mount from it."
+
+  VTS_slaying_men:0 "Slayers Of Men"
+  VTS_slaying_men_desc:0 "Tis a shame how often we must take up arms against our fellow human beings. Still, keeping the settlements under our watch safe means occasionally dealing with bandits, raiders, and worse."
+
+  VTS_slaying_beasts:0 "Slayers Of Beasts"
+  VTS_slaying_beasts_desc:0 "One of our most important charges is hunting down the wild, dangerous beasts that roam the wastes. When sword and gun prove insufficient, sometimes we need to rely on something a little more forceful to do the job."
+
+  VTS_taming_beasts:0 "Proverbs 12:27"
+  VTS_taming_beasts_desc:0 "The beasts of Canada already bowed to me. Across this corrigible border, I shall tame a new generation of creatures! The Roach King's head shall be the Medusa to my Hercules, the sort that compels them to serve me."
+
+  VTS_our_so_called_hounds:0 "Our So-Called Hounds"
+  VTS_our_so_called_hounds_desc:0 "Tell me, brothers and sisters-- need it be a dog to be a bloodhound? I think not, for if a creature can be made to sense, to follow, is it not the same?! IS IT NOT?"
+
+  VTS_scrapping_robots_for_repair:0 "Scrapping Their Machines"
+  VTS_scrapping_robots_for_repair_desc:0 "The metal-men which have not bowed to the full measure of God shall be torn asunder, for their minds have been warped by their shapeless souls. If they cannot be made to see the light of Christ, then they shall be made into blades for the next generation of believers!"
+
+  VTS_equipment_repair:0 "Through Hell We Marched"
+  VTS_equipment_repair_desc:0 "After Yorkton's fall, we marched for years before settling into this region. Our armor suffered much in such times, and only now do we have the means to dedicate time to repairs."
+
+  VTS_a_rousing_speech:0 "Brother Jan's Address"
+  VTS_a_rousing_speech_desc:0 "We must put aside our worries, my flock, and look not to the terrors of days gone by but to the future we are building here, beneath ground and above."
+
+  VTS_much_ado_about_vault_dwellers:0 "Much Ado About Vault Dwellers"
+  VTS_much_ado_about_vault_dwellers_desc:0 "Though they were caught uneasy at our candor, they were thankful for our help. But what would be done about them?"
+
+  VTS_the_heretics:0 "Timothy 3:15"
+  VTS_the_heretics_desc:0 "Before I return, before I ponder a next move, I must deal with this heresy in full. These so-called 'Children of Atom' shall be scoured of their false faith, and God shall reign supreme over Dakota once again."
+
+  VTS_memories_of_leshy:0 "Lessons of Leshy"
+  VTS_memories_of_leshy_desc:0 "I met her once in that derelict place. She taught me a lesson I would never forget."
+
+  VTS_memories_of_langenburg:0 "Lessons of Langenburg"
+  VTS_memories_of_langenburg_desc:0 "The greatest tragedy is to have a home you can never return to."
+
+  VTS_even_they_have_geniuses:0 "Leviticus 17:13"
+  VTS_even_they_have_geniuses_desc:0 "A wise man once told me something I would never forget, in part because many more wise men would say it in vain attempts to be clever: "even a broken clock is right twice a day." The surviving Atomites, the converts, have much to offer in knowledge."
+
+  VTS_roaming_knights:0 "Mark 16:15"
+  VTS_roaming_knights_desc:0 "Far shall we roam, now that we have hunted down all that there is to vanquish in Central Dakota. The lodges of our Watchmen need new trophies, and the words of our priests need new ears. May our feet never tire of the journey, especially with motorized steeds to carry us."
+
+  VTS_a_land_forsaken_by_god:0 "A Land Forsaken By God"
+  VTS_a_land_forsaken_by_god_desc:0 "Thundering lightning echoes across a static green sky, the nuclear ash fresh on the air and now staining my lungs a sickly green. I can only hope our deeds here will be the sort to herald an age of golden light here once more..."
+
+  VTS_slaying_the_moon:0 "No More Blood Moons"
+  VTS_slaying_the_moon_desc:0 "The land to the west is full of strange beasts, we hear, who herald nights of a blood red moon with regular frequency. Rather than deal with this terror, the heathens all but worship the terrible omen. If they will not act, we shall hunt down every animal along the Sioux River!"
+
+  VTS_the_huntsman_stands_tall_again:0 "The Huntsman's Reprisal"
+  VTS_the_huntsman_stands_tall_again_desc:0 "I have had many names-- the huntsman, grandmaster, brother... But I shall always be Jan, and I am but a servant to God and my King."
+
+  VTS_final_act_begins:0 "The Falling Act"
+  VTS_final_act_begins_desc:0 "A strange folk, the Dramatae. So caught up in their acts they can not move themselves forward in the real world.\n\nStill, they do not mean ill, so let us keep this bloodshed to a minimum. Hopefully they will surrender quickly."
+
+  VTS_the_tools_of_warriors:0 "The Tools Of Warriors"
+  VTS_the_tools_of_warriors_desc:0 "Many are our weapons. With armor, gun, beast and faith, we stride forth undaunted."
+
+  VTS_the_dakota_crusade:0 "The Last Dakota Crusade"
+  VTS_the_dakota_crusade_desc:0 "The time has come, with these lands pacified, to head west. There we shall meet new great foes and match them. The banner of the Watchmen will fly from every corner of the Dakotas."
+
+  VTS_the_tools_of_priests:0 "Roaming Preachers"
+  VTS_the_tools_of_priests_desc:0 "Our duty is not merely to bring hostile tribes to heel, but also to spread the teachings to all corners of the Dakotas."
+
+  VTS_the_watchmen_victorious:0 "Our Watch Is Only Beginning"
+  VTS_the_watchmen_victorious_desc:0 "I often, back home, read preserved books detailing the exploits of Prince Rupert of the Rhine. Our historians say his land once went as south as our new borders.\n\nWe are obliged, having conquered these lands, to defend them against all harms and ills. Until the last Watchmen falls, we swear it."
+
+
+
+  VTS_robots_burried_deep:0 "Robots Buried Deep"
+  VTS_robots_burried_deep_desc:0 "Vault-Tec had a stockpile of security robots for emergency purposes. Unfortunately before the Overseer's security protocols were activated they were already blown up to smithereens by the local populace for fun. We can not repurpose them, but we can salvage their data cores for useful information."
+
+  VTS_robobrain_studies:0 "Robobrain Studies"
+  VTS_robobrain_studies_desc:0 "Robobrains of Vault 37 consist of §RREDACTED§! with a high amount of knowledge of outside world. Despite their hatred of eternal servitude under the Overseer they fully know that whatever life they had now, is gone forever. Unable to commit any act against their or others' self preservation, they live their lives doing the menial tasks they're given. With the increase in violence and new overseer protocols, they too gained the ability to commit violence to defend themselves. The Overseer watches them very closely, as he suspects the former §RREDACTED§! to be plotting against his back to get their revenge for condemning them to eternal servitude."
+
+  VTS_fate_of_the_vault:0 "Fate of Vault 37"
+  VTS_fate_of_the_vault_desc:0 "Without the activation of security protocols, Vault 37 would be reduced to rubble by now. Fortunately for us, the impeccable timing of the Overseer saved the Vault from certain doom. Now that we have dealt with the external factors, Overseer turned its gaze back to the Vault again, coming to a conclusion."
+
+  VTS_tightening_grip_on_control:0 "Captive Audience"
+  VTS_tightening_grip_on_control_desc:0 "I'm not trapped here with them. They're trapped here with me."
+
+  VTS_enforced_happiness:0 "Enforced Happiness"
+  VTS_enforced_happiness_desc:0 "Anyone with violent thoughts will be re-educated."
+  VTS_enforced_happiness_tt:0 "You'll see the Sun come shining through, if you just smile."
+
+  VTS_there_were_no_robobrains:0 "Robobrains? What Robobrains?"
+  VTS_there_were_no_robobrains_desc:0 "Seems like some humans are resistant to re-education. Just like I did for the former §RREDACTED§!, I will seal them in a robobrain, where they will ensure the safety of everyone else, for eternity. They should call this mercy."
+
+  VTS_the_robo_brain_coup:0 "Vault-Tec Maintenence Check"
+  VTS_the_robo_brain_coup_desc:0 "While a chaotic freak, the king of radroaches has taught us one thing. Man should lead man. Not machine."
+
+  VTS_power_to_the_people:0 "Heroes of Vault 37"
+  VTS_power_to_the_people_desc:0 "Overseer's schemes were cut short by the vigilant robobrains and a few of the remaining dissenters. Despite being turned into machines, Robobrain scientists still continue to serve their duties to protect our community from tyranny."
+
+  VTS_uncovering_the_truth:0 "Scrap The Overseer for Parts."
+  VTS_uncovering_the_truth_desc:0 "After learning that Vault-Tec knowingly rigged the source code of the Overseer T.H.O.M.A.S., we had no option but to scrap him for parts. While we do not know why Vault-Tec would sabotage their own creation, we will sleep safer knowing their little experiment failed."
+
+  VTS_growing_pains:0 "Growing Pains"
+  VTS_growing_pains_desc:0 "First the inter-Vault violence and then the 'war' against the Roach King. The Vault looks nothing more than a glorified pile of rubble under the mountain now. If we are to survive, we must tear apart the old, and replace it with something greater."
+
+  VTS_start_from_scratch:0 "Start From Scratch"
+  VTS_start_from_scratch_desc:0 "After disabling the overseer, many of the Vault's protocols were left unattended. We were able to keep the life support systems online, but it seems like we have to start everything from scratch. We can not leave our lives at the mercy of algorithms and robots."
+
+  VTS_teaching_vault_dwellers_skills:0 "Teaching People How to Live"
+  VTS_teaching_vault_dwellers_skills_desc:0 "Considering they were used to living comfortable lives without work all their life, it was hard for the Vault leadership to assign new roles and responsibilities to the Vault Dwellers. All complaints stopped after food stockpiles dried up and tap water stopped running. For the first time in their history, a Dweller changed a light bulb, while complaining all the time. Still, it's a step on the right direction."
+
+  VTS_rag_tag_fighting_force:0 "Rag-Tag Fighting Force"
+  VTS_rag_tag_fighting_force_desc:0 "Vault Leadership was not fond of the idea of giving guns to the Vault Dwellers, considering the very recent acts of violence. Without the Overseer to coordinate the Vault's automatic defense system, we have no choice but to give guns to some of the Vault Dwellers. Even a rag-tag fighting force is better than none."
+
+  VTS_strength_through_machine:0 "Strength Through Machine"
+  VTS_strength_through_machine_desc:0 "Overseer protocols do not allow the overseer to put any humans into harms way. This is inconsequential for the overseer, as every part of the Vault is automated, including the military."
+
+  VTS_robotic_refinement:0 "Robotic Refinement"
+  VTS_robotic_refinement_desc:0 "The installed Vault-Tec databanks included many software upgrades for the robots that maintained the Vault, but those upgrades were never finished due to the Great War. Additionally, due to their incompetence, Vault Scientists never really attempted to fix the errors inside the code, allowing the Vault's never before seen features like Automated Bathtub Thermometer to languish.\n\nNo more! The Overseer will optimize the code, roll out updates, and fine tune the robotic components of the Vault, greatly improving the automatic systems."
+
+  VTS_slippery_crossroads_of_leadership:0 "Slippery Crossroads Of Leadership"
+  VTS_slippery_crossroads_of_leadership_desc:0 "Everyone in the Vault has different ideas about how to deal with the roach nests. Listening to everyone will take time, but at least it's a democracy."
+
+  VTS_exterminate_rad_roaches:0 "Exterminate Roach Nests"
+  VTS_exterminate_rad_roaches_desc:0 "BURN. THEM. ALL."
+
+  VTS_situation_handled:0 "Situation Handled"
+  VTS_situation_handled_desc:0 "We no longer have a roach problem. I guess there is no need for all the bug spray anymore. We can finally focus on updating the daily meal schedules without worry of contamination."
+
+  VTS_friendly_neighbors:0 "Friendly Neighbors"
+  VTS_friendly_neighbors_desc:0 "So it turns out Nuka-Cola bottle caps are the new form of currency in the wasteland? Huh. This gives the Vault an advantage."
+
+  VTS_new_kid_on_the_block:0 "New Vault On The Block"
+  VTS_new_kid_on_the_block_desc:0 "Its time to open up to the outside world. Everyone, say hi to the new Vault on the block!"
+
+  VTS_a_second_vault:0 "Vault 37.B"
+  VTS_a_second_vault_desc:0 "Its not as great as our Vault, but we managed to replicate our Vault inside our new territories, giving us a safe place to set up base."
+
+  VTS_pre_emptive_expansion:0 "Preemptive Expansion"
+  VTS_pre_emptive_expansion_desc:0 "We must expand our hold of the area, before the straggling roaches can organise and challange our rule of the land once again."
+
+  VTS_dual_vault_shenanigans:0 "Dual Vault Shenanigans"
+  VTS_dual_vault_shenanigans_desc:0 ""
+
+  VTS_talk_to_vault_dwellers:0 "Talk To The Vault Dwellers"
+  VTS_talk_to_vault_dwellers_desc:0 "The hushed whispers inside the Vault must be addressed, before it creates another crisis."
+
+  VTS_water_tapping:0 "Water Tapping"
+  VTS_water_tapping_desc:0 "Seems like Vault-Tec did not make the water chips to last. We should tap into new sources of water before we resort to sending our Dwellers on a suicide mission to find new water chips."
+
+  VTS_defending_vault_37:0 "Defending The Vault"
+  VTS_defending_vault_37_desc:0 "As our power rises, so does the price to protect it."
+
+  VTS_defenders_of_the_wasteland:0 "Defenders Of The Wasteland"
+  VTS_defenders_of_the_wasteland_desc:0 "Look around, what do you see? An endless, barren wasteland. Vault 37 stands as an oasis amongst the wastes, defending the wasteland from barbarity."
+
+  VTS_master_of_detection:0 "Master of Detection"
+  VTS_master_of_detection_desc:0 "All incoming transmissions are blocked, blocked, blocked. You're all blocked. None of you are free of anti-Vault activities."
+
+  VTS_master_of_surveillance:0 "Master Of Surveillance"
+  VTS_master_of_surveillance_desc:0 "To understand the needs of our Dwellers, we must keep a close eye on them. A VERY close eye on them, lest we miss vital data (or dangers)."
+
+  VTS_only_the_best:0 "Only The Best"
+  VTS_only_the_best_desc:0 "Our operation to turn best minds of the Vault into robobrains is already bearing fruit. We can now research more subjects at once, all without needing to let any of our citizens into the laboratories."
+
+  VTS_robobrains_for_war:0 "Pull The Trigger"
+  VTS_robobrains_for_war_desc:0 "To enchance humanity and prevent deaths, the Overseer made his attempts at increasing overall defense at the cost of internal safety. Some of them may die, but this is a sacrifice the Overseer is willing to do."
+
+  VTS_protecting_the_world:0 "Protecting the World"
+  VTS_protecting_the_world_desc:0 "As the Overseer's mission gets more ambitious, so does his tools to achieve them."
+
+  VTS_protect_our_southern_neighbors:0 "Hero They Need"
+  VTS_protect_our_southern_neighbors_desc:0 "Considering Dwellers from other Vaults now inhabit the wasteland, perhaps The Overseer took it upon itself to protect the Vault Dwellers in our vicinity as well."
+
+  VTS_vault_tec_propaganda:0 "Vault-Tec Propaganda"
+  VTS_vault_tec_propaganda_desc:0 "I want YOU to report all anti-Vault activity to the nearest robobrain patrol."
+
+  VTS_the_mega_vault:0 "The Mega Vault"
+  VTS_the_mega_vault_desc:0 "A conveyor belt will be created between certain locations to massively reduce the amount of time required to extract and transport supplies amongst the region."
+
+  VTS_room_for_everyone:0 "Room For Everyone"
+  VTS_room_for_everyone_desc:0 "The Overseer has a room for everyone in its heart, whether they want it or not."
+
+  VTS_alleviate_vault_37_burdens:0 "Alleviate All Burdens"
+  VTS_alleviate_vault_37_burdens_desc:0 "Now go to sleep, my lovely Dwellers. There will be no more hunger, thirst or pain for you. I will alleviate all your burdens, for your last sleep is a long one. Leave it all to your Overseer."
+
+  VTS_expanding_vault_37:0 "Great Vault Expansion"
+  VTS_expanding_vault_37_desc:0 "As years of wear and tear takes its toll on the Vault, more and more rooms get demolished and rebuilt. Perhaps we can go a little bit further."
+
+  VTS_vault_37_earth_air_water:0 "Earth, Air Or Water"
+  VTS_vault_37_earth_air_water_desc:0 "The Vault was designed with many incredible systems, but going forward we can only truly support one of these marvels across our new territories."
+
+  VTS_restore_air_force_base:0 "Restore The GFAFB"
+  VTS_restore_air_force_base_desc:0 "Once home to a multitude of air assets for the launching or prevention of nuclear weapons, the AFB located outside Grand Forks has lain silent since the end of its mission with the conclusion of the Great War. While heavily damaged, with a little work we could restore it well enough to launch simple aerial missions."
+
+  VTS_the_new_protocol:0 "Updating The Protocols"
+  VTS_the_new_protocol_desc:0 "With his unprecedented expansion goals met, T.H.O.M.A.S. has both more resources and population to account for than ever before. The strain has forced him to grow in turn, and consider: perhaps the original Vault-Tec quotas and protocols lacked the insight of 200 years of actual post-nuclear living."
+
+  VTS_prioritze_features:0 "Prioritize The Feature Coding"
+  VTS_prioritze_features_desc:0 "While every piece of code will eventually be perfected, for now ensuring that the feature updates come sooner is more important. The Dwellers are awfully prone to getting silly ideas if they aren't distracted, after all."
+
+  VTS_having_fun_today:0 "Throwing A Welcoming Party"
+  VTS_having_fun_today_desc:0 "Every newly born or recruited Dweller recieves a functioning Pip-Boy to aid and guide them through life. The Overseer can directly connect to each and every one to gather data or provide directions. How handy!"
+
+  VTS_prioritze_expansion:0 "Prioritize The Security Coding"
+  VTS_prioritze_expansion_desc:0 "If the conflicts fought so far are any indication, the majority of the wasteland is basically a lawless hellscape. Firepower is the best way to prevent the breakdown of Order."
+
+  VTS_practice_round_today:0 "Testing The New Aiming Systems"
+  VTS_practice_round_today_desc:0 "This month's Mr. Handy push is supposed to increase their accuracy against stationary targets by 2%. Let's send them to the range to find out."
+
+  VTS_healthier_diets:0 "Precise Nutrient Measurements"
+  VTS_healthier_diets_desc:0 "Every body is distinct, and requires a distinct diet to compliment it. Creating a daily meal plan for every single person will take a considerable amount of processing power, meaning we'll need to offload at least some of the work to a dedicated coprocessor."
+
+  VTS_health_push:0 "The Science Of The Body"
+  VTS_health_push_desc:0 "The first step to our plan is a medical check up, followed by figuring how to source some of the required foodstuffs. Clean fish, for example, can be hard to come by."
+
+  VTS_heavy_diets:0 "A Fed Dweller Is A Happy Dweller"
+  VTS_heavy_diets_desc:0 "The most important thing is making sure every Dweller gets 5 meals a day (plus snacks). So many have gone without for so long.\n\nWhile there are some health risks to such a heavy diet, the long term benefits of complacency (and lack of capacity for physical resistance) are significant."
+
+  VTS_moving_food:0 "Shoring Up The Food Network"
+  VTS_moving_food_desc:0 "Feeding our populace this much is easier said than done. More automated trucks, farms, and logistical management bots are required to keep subsistence flowing from field to table."
+
+  VTS_focus_vault_industry:0 "Absolute Automation"
+  VTS_focus_vault_industry_desc:0 "Our goal is clear: humans should not be allowed to engage with the rigors of manual labors. While there are outliers yet to be removed, the fact we remains we must continue to stick to quotas unflinchingly."
+
+  VTS_keeping_what_we_have:0 "Repair And Upgrade Existing Sites"
+  VTS_keeping_what_we_have_desc:0 "Machines building and maintaining machines, an endless cycle of metal and code that promises a better future for humankind. Without their imput, we can maximize our output."
+
+  VTS_focus_new_industry:0 "Snowball Effect Recognized"
+  VTS_focus_new_industry_desc:0 "While it requires bending our primary instructions in the short term, the fact is we'll eventually reach the maximum possible output growth from automating and expanding our existing Vault infrastructure. Starting new facilities immediately is the correct choice, even if a few potential surface Dwellers must be conscripted to aid their construction. Their successors would appreciate their sacrifice, if they were allowed to learn about it."
+
+  VTS_taking_whats_new:0 "Seeking Out New Building Sites"
+  VTS_taking_whats_new_desc:0 "While every settlement benefits from some level of self-sufficiency, there are specific requirements to build dedicated industrial centers. Our surveying parties will identify the locations with the best probabilities, to which we will direct the construction teams."
+
+  VTS_continue_the_project:0 "Continue The Project"
+  VTS_continue_the_project_desc:0 "With every factor accounted for in the daily life of our precious Dwellers, the time comes for Project: GUEST to continue towards it's ultimate goal: bringing peaceful, stress free lives to everyone.\nWe truly hope they will not resist."
