@@ -1,0 +1,312 @@
+﻿l_english:
+  dln_langenburg_army:0 "The Langenburgian Army"
+  dln_langenburg_army_desc:0 "The War of the Republican Coalition imparted Langenburg with a valuable lesson: when anarchy reigns, might makes right. The Duchy was destined to stand alone in future crises, a realisation that would guide the economy in a decisively more militaristic direction. By 2275, this shifting cultural mindset was reflected in the Langenburgian Army, a force whose sheer quality more than makes up for its dwindling numbers."
+
+  dln_university_speed:0 "The Grand University of Langenburg"
+
+  dln_zappers:0 "Langenburgian Zappers"
+
+  dln_allotment:0 "Behind Every Door There Is A Soldier!"
+
+  dln_small_professional_army:0 "Small Professional Army"
+
+  dln_kingdom_army:0 "The King's Army"
+  dln_kingdom_army_desc:0 "On the road to greatness, some sacrifices must be made. What we lost in the nimbleness of professionalism of Langenburg's army, we have gained with the sheer breadth of Manitoba's standing force, and its tried and tested military doctrines. The brass will learn to adapt all the same."
+
+  dln_hegemonial_army:0 "Hegemonial Army"
+
+  dln_imperial_army:0 "The Imperial Army"
+
+  dln_anger_court:0 "The Anger Court"
+
+  dln_royal_order:0 "The Royal Knights Order"
+  dln_frozen_throne:0 "The Frozen Throne's Guardians"
+  dln_welcome_home:0 "Welcome Home!"
+  dln_welcome_home_desc:0 "Subjects of the old Crownlands are flocking to the Kingdom in droves. Word travels quick in the North; their families back home know that the Kingdom shall treat them as one of their own - once the faux regimes are brought to justice anyway."
+
+  dln_warwick_ideas:0 "The Spark In Your Hand!"
+  dln_warwick_ideas_desc:0 "By taking in some of the brightest minds behind the Duchy of Warwick's prowess in robotics, we are at last positioned to convert this precious asset into more than a mere novelty."
+
+  dln_mechanics_universalis:0 "Mastery Of The Machine!"
+
+  dln_grand_imperial_city:0 "The Imperial Capital"
+
+  dln_merchant_center:0 "The Trade Capital of Manitoba"
+
+  dln_imperial_university:0 "The Imperial University"
+  dln_imperial_university_desc:0 "The young men and women of today were raised on the tales of their parents' wild adventures and glory days at the University of Langenburg. It is little surprise that the admission officers are already swamped this early into the institution's grand-reopening."
+
+  dln_imperial_palace_funds:0 "Imperial Palace Funds"
+  dln_imperial_palace_funds_desc:0 "Most of our prized institutions in Winnipeg were left to rot under the Republicans. Restoration efforts will be pricey, but it is a pill we must nevertheless swallow."
+
+  dln_academy_funds:0 "University Funds"
+  dln_academy_funds_desc:0 "Most of our prized institutions in Winnipeg were left to rot under the Republicans. Restoration efforts will be pricey, but it is a pill we must nevertheless swallow."
+
+  dln_industrial_grants:0 "Industrial Grants"
+  dln_industrial_grants_desc:0 "Most of our prized institutions in Winnipeg were left to rot under the Republicans. Restoration efforts will be pricey, but it is a pill we must nevertheless swallow."
+
+  dln_winnipeg_airforce:0 "With Inspiration From Winnipeg"
+  dln_winnipeg_airforce_desc:0 "A slight black mark to have to rely on the Republicans' achievements in aviation to kickstart our own programme. And yet, what greater insult to their legacy is there?"
+
+  dln_imperial_airforce:0 "A New Royal Airforce"
+  dln_imperial_airforce_desc:0 "Even when in the air, slow and steady wins the race."
+
+  dln_airforce_supremacy:0 "Manitoba From Above as Below"
+  dln_airforce_supremacy_desc:0 "When the drums of war are beating, every dweller of the North shall be cast in shadow."
+
+  dln_imperial_airforce_perfection:0 "In A League Of Their Own"
+  dln_imperial_airforce_perfection_desc:0 "Our airforce is the envy of the world; an inspiration for Manitobans; and the bane of our enemies."
+
+  dln_winnipeg_perfection:0 "A New Sun"
+  dln_winnipeg_perfection_desc:0 "Our airforce is the envy of the world; an inspiration for Manitobans; and the bane of our enemies."
+
+  dln_army_economy:0 "An Army With A State"
+  dln_army_economy_desc:0 "During recent times Langenburg has been described as an army with a state, and from looking at it from the inside of the Duchy it is pretty much just that. The Duchy's industry for better or worse currently exists just to serve the Duchy's capability to field a larger army then it should possibly be able to do otherwise. It will most likely require a radical change of circumstances to end this."
+
+  dln_decentralized:0 "A Decentralized Fleet"
+  dln_decentralized_desc:0 "By spreading naval production load across the various settlements around Dawfin, we have successfully streamlined many of our manufacturing operations, driving up efficiency."
+
+  dln_staple_port:0 "The Staple Port Of Dawfin"
+  dln_staple_port_desc:0 "Even after all it has gone through, the Royal Port of Dawfin retains the foundational infrastructure that made it the heart of our naval production efforts to begin with."
+
+  dln_economical_integration:0 "Economic Integration Of The Kingdom"
+  dln_economical_integration_desc:0 "Time is of the essence. We must be seen pouring everything we have into the revitilisation of the realm. We will NOT rule our own home as conquerors."
+
+  dln_staple_port_mark_2:0 "The Royal Staple Port of Dawfin"
+  dln_staple_port_mark_2_desc:0 "By reworking some of our tried-and-tested naval production operations, Dawfin once again reigns supreme as the source of the Kingdom's naval prowess."
+
+  dln_decentralized_mark_2:0 "Manitoba's Fleet"
+  dln_decentralized_mark_2_desc:0 "Working off of brand-new blueprints is always a tricky affair. With the first batch of new ships out in the open and most manufcaturing hiccups dealt with, production can finally pick up some speed."
+
+  dln_anger_hospital:0 "Royal Institute of Medicine"
+  dln_anger_hospital_desc:0 "Students and researchers alike are already thriving in an environment fraught with danger and fascinating discoveries in equal measure."
+
+  river_merchant:0 "River League Merchant"
+
+  custodian:0 "The Custodian"
+
+  dln_hudson_company:0 "Hudson Bay Company"
+  dln_hudson_company_desc:0 "The Hudson Bay Company has been allowed to do as it pleases for well over too long. Under the new regime, they will be kept on a tight leash, used primarily as a a friendly facade for the business and trade wing of the Treasury."
+
+  dln_hudson_company_sale:0 "Hudson Bay Company Sale Profits"
+  dln_hudson_company_sale_desc:0 "The Hudson Bay Company was always more trouble to deal with than was worth. Let the highest bidder take the reins, things can only improve - we shall continue to tax them regardless."
+
+  dln_atoine_bane:0 "Atoine's Bane"
+  dln_atoine_bane_desc:0 "Leif Yorkton is a man Atoine Beausoleil has learned to fear. After the events of the War, the mere fluttering of Langenburg's banner over the hill would be enough to send the Métis commanders into complete disarray."
+
+  dln_joran:0 "The Military Ideas of Joran Yorkton"
+  dln_joran_desc:0 ""Plan appropriately, and the battle will be won before it even commences.""
+
+  dln_leif:0 "The Military Ideas of Leif Yorkton"
+  dln_leif_desc:0 ""My soldiers, to me!""
+
+  dln_eleanor:0 "The Military Ideas of Eleanor Yorkton"
+  dln_eleanor_desc:0 "Remember the fundamentals."
+
+  dln_warwick:0 "Mechanical Know-How"
+  dln_warwick_desc:0 "The Duchy of Warwick boasted a proud tradition of woodworking thanks to the lush forests littering its lands. The resulting business needs would go on to inspire the development of increasingly advanced robotics to assist in harvesting, manufacturing and security operations."
+
+  dln_absalon:0 "Street Pendler Skills"
+  dln_absalon_desc:0 "Absalon's merchants were quick to take advantage of the neighbouring Saskatchewan to build out an extensive trade networks out West. Following the fall of the Duchy, many of those same merchants went on to find refuge in our court, bringing some of that expertise to Langenburg."
+
+  dln_anger:0 "Royal Etiquette"
+  dln_anger_desc:0 "Nobles from across the Kingdom would regularly flock to the gorgeous, quiet shores of Lake Winnipeg, be it over official matters or lavish state parties. Much of Angers's court has, as a result, been trained to provide as hospitable an experience to outsiders as possible, making the Duchy the unofficial seat of Manitoban diplomacy."
+
+  dln_dawfin:0 "Enterprising Ship Builder"
+  dln_dawfin_desc:0 "Pick out any one Crown Servant in Dawfin and they would be able to talk naval affairs and ship designs for hours on end. The destruction of the Royal Port meant that many of them would find a new home in Langenburg. The occasional mind-numbing conversation at state receptions is a small price to pay for the getting this level of technical expertise on board."
+
+  dln_absalon_merchants:0 "The Manitoban Trade Network"
+  dln_absalon_merchants_desc:0 "If it did not take long for Manitoban trade outposts to litter the entire length of the Saskatchewan. The tribes out West have learned that at the end of the yellow brick road, lies the emerald city of their dreams."
+
+  dln_absalon_trade_never_ends:0 "The Lords Of The Canadian Dollar itself"
+
+  dln_manitoban_project:0 "The Manitoban Project"
+  dln_manitoban_project_desc:0 "Having recognised the rot undermining the foundations of the Manitoban state, Queen Yorkton has thrown herself into an ambitious programme of reforms. Many of her more radical proposals will no doubt prove irksome to the Old Guard. The young regent will need to decide just how far she can take her ambitions in a storied monarchy dating back countless generations."
+
+  dln_dam:0 "Grand Rapids Dam"
+  dln_dam_desc:0 "With the right infrastructure in place, the naturally flowing waters of Lake Winnipegosis become a real treasure trove of cheap electricity for our businesses."
+
+  dln_resistance:0 "National Home Guard"
+  dln_resistance_desc:0 "Many of our decomissioned soldiers can count on years' worth of battlefield experience. They will play a crucial role in assisting with pacification efforts in some of the more troublesome settlements."
+
+  dln_resistance_cph:0 "Fort Cap Hell Police Force"
+
+  dln_manifest_research:0 "The Will of MANIFEST"
+  dln_manifest_research_desc:0 "Destiny's memory card speaks of another trace of the MANIFEST project currently residing in Pleasantdale. Lucky enough, it also came with a handy topographical map of the town and its surroundings. Once me make our move, we shall have the upper hand."
+
+  dln_pax_britannia_idea:0 "Pax Britannia"
+  dln_pax_britannia_idea_desc:0 "If you have done no wrong... you have nothing to fear."
+
+  dln_anger_ideas:0 "Making It Right"
+  dln_anger_ideas_desc:0 "The visit to Summer Court has only reaffirmed Yorkton's convictions; come what may, the men and women of Manitoba will not rest unti the humiliations of the past are corrected."
+
+  dln_hudson_company_two:0 "Subsidising the Hudson's Bay Company"
+  dln_hudson_company_two_desc:0 "The impact of the Hudson's Bay Company on the economic development of the Northern frontier cannot be overlooked. It is crucial that we guide it through its expansion plans, ensuring that the wellbeing of our subjects takes precedence over profit."
+
+  dln_hudson_company_three:0 "The Backbone of our Trinkets and Bobbles"
+  dln_hudosn_company_three_desc:0 "With the expansion of our operations further into the North, we'll be piling more work onto The Hudson Bay Company. Just as well - soon, every dweller in the white expanse will flock to the Kingdom to try out our wares and crumpets."
+
+  dln_last_will_and_test:0 "Last Will and Testament"
+  dln_last_will_and_test_desc:0 "Langenburg is united behind Marshal Yorkton, the beloved Duchess's endorsement transcending any and all lingering loyalties for King Gunn II. But legacy can only carry one so far. As the duchy's losses mount, the people's faith will be tested. The Sword of the North will have to move quickly if his uprising is to succeed."
+
+  dln_illegitimate:0 "Illegitimate Claimant"
+  dln_illegitimate_desc:0 "With Sophie's Will having never been given out we are seen in the eyes of our subjects as just some military strongman that is trying to stake his bid for a part of Manitoba's corpse.\n\n§G(This debuff will be removed when you complete §Y"The Count That Became King".)§!"
+
+  dln_lack_army_cohesion:0 "Integrating the Manitoban Armed Forces"
+  dln_lack_army_cohesion_desc:0 "While the majority of the Brandon nobility's forces were quick to accept the pardons our Lord so gracefully offered them it will sadly take quite some time to fully integrate our new forces and bring them up to our standards."
+
+  ###Tooltips
+  dln_eleanor_angry:0  "Eleanor will not forget about this for some time."
+  dln_archangel_tt:0 "§YTwo units from the Order Of The Archangel§W will be raised and given onto our command!"
+  dln_militia_tt:0 "§YFour Units Of Militia§W will be raised and rallied to our banner!"
+  dln_infantry_tt:0 "§YTwo Units Of Infantry§W Men will be raised and rallied to our banner!"
+  dln_wartime_men_tt:0 "§YFive Units Of Militia§W will be raised and rallied to our banner!"
+  dln_sophie_dead:0 "The Duchess is Dead"
+  dln_this_home:0 "§gThese effects will apply once the focus: "We're Home" has been completed:§!"
+  dln_imperial_palace_nick:0 "§YRuins Of The Imperial Palace§! is renamed to §YThe Imperial Palace§!."
+  dln_academy_nick:0 "§YStart Of The Imperial University§! is renamed to §YThe Imperial University§!."
+  dln_imperial_city_effect:0 "The City of Winnipeg will gain the "§YImperial Capital§!" modifier. While it currently has no effect, should the city be returned to its former splendor one can only speculate what great fortunes it could provide."
+  dln_imperial_city_bonuses:0 "The §YImperial Capital§! is modified by:\n§G+50%§! Max Factories in State\n§G+20%§! Local Construction Speed\n§G+40%§! Factory Repair Speed\n§G+20%§! Development Income"
+  dln_consequenses:0 "§GThe effects of this focus hinge on your prior decisions!§!"
+  dln_will_must_be_done:0 "If Last Will And Testament is not completed, it will have serious consequenses for our ability to wage war during the rebellion and will make us appear illegitimate in the eyes of our people!"
+  dln_manitoba_waits:0 "Yorkton's Rebellion!"
+  dln_knight_orders:0 "The Status of the Royal Knight Orders of Manitoba"
+  dln_knight_orders_desc:0 "The Order of the Archangel has been restored.\n\n[ROOT.DLN_knight_george].\n\n[ROOT.DLN_knight_nathaniel].\n\n[ROOT.DLN_knight_dante]."
+  dln_st_george:0 "Restore the Order of Saint George"
+  dln_watchmen:0 "Restore Nathaniel's Watchmen"
+  dln_dante:0 "Find out about the fate of the Last Crusade"
+  DLN_order_of_st_george_restored:0 "The Order of Saint George has been restored to its former glory"
+  DLN_order_of_st_george_missing:0 "The Order of Saint George is currently braving the horrors of the Electorates"
+  DLN_nathaniel_order_restored:0 "Nathaniel's Watchmen has been restored to its former glory"
+  DLN_nathaniel_order_missing:0 "Brother Jan's Crusade is still being waged in Dakota"
+  DLN_dante_order_restored:0 "There can be no hope in that hell"
+  DLN_dante_order_missing:0 "The fires rage on"
+  dln_banners_raise_tt:0 "§YThree Units Of The Imperial Banner§! will be raised to assist in our reclamation of Winnipeg!"
+  dln_imperial_airforce_tt:0 "§GIf the focus "The Quality of the Kingdom" has already been completed, our former national spirits will be consolidated into:§!"
+  dln_winnipeg_airforce_tt:0 "§GIf the focus "With Inspiration From Winnipeg" has already been completed, our former national spirits will be consolidated into:§!"
+  dln_unlock_conscription:0 "§GWith the integration of The Kingdoms armies the Langenburgian army system has more or less fallen apart, while this will allow us to mobilize a larger armed forces it also means that we will no longer enjoy the benefits of our former professionalism.§!"
+  dln_change_tt:0 "Our Duchy will need to acquire new lands to help stabilise the economy."
+  DLN_fleet_tt:0 "Courtesy of the §YRoyal Company§! with financial help from the §YRoyal Treasury§! a new fleet will be constructed for us to watch over Lake Winnipeg."
+  DLN_royal_tt:0 "The §YRoyal Company§!, a navy design company, will receive some funding from the crown, making it possible for it to operate on a national scale."
+  dln_staple_port_tt:0 "§GIf the focus "Rely On The Imperial City" has been completed before our former national spirits are be consolidated into:§!"
+  dln_decentralized_tt:0 "§GIf the focus "A Decentralized Fleet" has been completed before our former national spirits are be consolidated into:§!"
+  dln_unlock_eco:0 "§GWith us taking over the administration of The Kingdom, we will also have to re-connect Langenburg's economic infrastructure with that of the Crownlands. While this will present challenges, it will finally allow us to normalise our economy.§!"
+  dln_core_creation_cost_manitoba:0 "With imperial control restored, we will gain a §G50% core cost reduction§! to lands which once belonged to the §YKingdom of Manitoba§!."
+  dln_land_regain:0 "We will §Gannex§! any land historically held by the Kingdom of Manitoba that is currently owned by our puppets or allies, with the exception of the §YArborg Junta§!."
+  DLN_yorkton_arms_tt:0 "§YYorkton Arms§!, an arms company, will receive some funding from the crown, making it possible for it to operate on a national scale."
+  dln_eleanor_promise:0 "§GYou have promised Eleanor that you will show leniency to the former Queen.§!"
+  DLN_nathaniel_restored:0 "Nathaniel's Watchmen has been restored to its former glory!"
+  DLN_george_restored:0 "The Order of Saint George has been restored to its former glory!"
+  DLN_dante_restored:0 "We have found the final fate of Dante's Crusade."
+  dln_all_restored:0 "All Manitoban Knight Orders have been restored"
+  dln_eric_yorkton_general:0 "§YEric Yorkton§! becomes a Unit Leader.\n§LLevel§!: §Y3§!\n§RAttack Skill§!: §Y2§!\n§GDefense Skill§!: §Y1§!\n§PPlanning Skill§!: §Y2§!\n§MLogistics Skill§!: §Y3§!\n\n"
+  dln_eric_yorkton_advisor:0 "§GEric Yorkton becomes an Economic Advisor!§!"
+  dln_eleanor_yorkton_general:0 "§YEleanor Yorkton§! becomes a Unit Leader.\n§LLevel§!: §Y4§!\n§RAttack Skill§!: §Y2§!\n§GDefense Skill§!: §Y3§!\n§PPlanning Skill§!: §Y2§!\n§MLogistics Skill§!: §Y3§!\n\n"
+  dln_eleanor_advisor:0 "§GEleanor is transfered from the Kingdom of Manitoba to us as an advisor!§!"
+  dln_alecander_general:0 "§YAlecander Weyburn§! becomes a Unit Leader.\n§LLevel§!: §Y4§!\n§RAttack Skill§!: §Y4§!\n§GDefense Skill§!: §Y1§!\n§PPlanning Skill§!: §Y2§!\n§MLogistics Skill§!: §Y3§!\n\n"
+  dln_river_gaurds:0 "§YOne Unit of River Guards§! will join us!"
+  dln_exiles_tt:0 "§YOne Unit of Kingdom Exiles§! will join us!"
+  dln_cph_advisors:0 "§GColonel Reynolds and Colonel Daniels become Advisors!§!"
+  dln_grand_rector_advisor:0 "§GThe Grand Rector of The University of Langenburg becomes a Cultural Advisor!§!"
+  dln_bellores_advisor:0 "§GDuchess Bellores becomes a Naval Advisor!§!"
+  dln_anger_advisor:0 "§GDuke Angers becomes a Naval Advisor!§!"
+  dln_reynolds_general:0 "§YColonel Reynolds§! becomes a Unit Leader.\n§LLevel§!: §Y3§!\n§RAttack Skill§!: §Y1§!\n§GDefense Skill§!: §Y2§!\n§PPlanning Skill§!: §Y3§!\n§MLogistics Skill§!: §Y2§!\n\n"
+  dln_daniels_general:0 "§YColonel Daniels§! becomes a Unit Leader.\n§LLevel§!: §Y2§!\n§RAttack Skill§!: §Y2§!\n§GDefense Skill§!: §Y2§!\n§PPlanning Skill§!: §Y1§!\n§MLogistics Skill§!: §Y1§!\n\n"
+  DLN_hudson_company_tt:0 "§GThis may lead to some unforeseen advantages in the future.§!"
+  dln_minorities_tt:0 "If we ceded §YThe Pass§! in: §YCan Imperalism Wait?§!, we will invite the §YIron Confederacy§! to the Royal Accord. If they no longer exist, or if we chose not to hand over §YThe Pass§!, we will instead gain a §G25% Core Creation Cost Reduction§! on their lands!"
+  dln_metis_tt:0 "We will gain a §G25% Core Creation Cost Reduction§! on the former lands of the §YMetis Congress§!."
+  dln_rrr_tt:0 "We will gain a §G25% Core Creation Cost Reduction§! on the former lands of §YThe Blighted Woods§!."
+  dln_tpa_tt:0 "We will gain a §G25% Core Creation Cost Reduction§! on the former lands of §YThe Gateway§!."
+  dln_a_day_tt:0 "§RFor now this story remains untold.§!"
+  dln_their_day_tt:0 "§GTheir day will come.§!"
+  dln_manitoba_project_tt:0 "The §YManitoban Project§! is modified by:"
+  dln_manitoba_project_pp_negative_tt:0 "  §R-0.05§! Political Power Gain"
+  dln_manitoba_project_pp_small_tt:0 "  §G+0.05§! Political Power Gain"
+  dln_manitoba_project_pp_med_tt:0 "  §G+0.1§! Political Power Gain"
+  dln_manitoba_project_research_tt:0 "  §G+8.00%§! Research Speed"
+  dln_manitoba_project_monthly_tt:0 "  §G+20.00%§! Monthly Population"
+  dln_manitoba_project_cultural_tt:0 "  §G-25.00%§! Cultural Advisor Cost"
+  dln_manitoba_project_army_tt:0 "  §G+0.05§! Army Experience Gain Daily"
+  dln_manitoba_project_stability_small_tt:0 "  §G+5.00%§! Stability"
+  dln_manitoba_project_stability_med_tt:0 "  §G+10.00%§! Stability"
+  dln_manitoba_project_stability_negative_tt:0 "  §R-5.00%§! Stability"
+  dln_manitoba_project_caps_tt:0 "  §G+10.00%§! Caps Income"
+  dln_manitoba_project_advisor_tt:0 "  §G-10.00%§! Advisor Cost"
+  dln_manitoba_project_war_off_tt:0 "  §G+20.00%§! Offensive War Penalty Stability Modifier"
+  dln_manitoba_project_war_def_tt:0 "  §G+20.00%§! Defensive War Penalty Stability Modifier"
+  dln_eleanor_tt:0 "§GEleanor is crowned Queen Regnant!§!"
+  dln_eleanor_queen_crowning:0 "§GThe crown has been passed to Eleanor§!"
+  dln_regency_dec:0 "§gA Regency under Leif Yorkton has been declared, to endure until Sophie's will is settled. This has set off a countdown to Yorkton's Rebellion. When the timer runs out, we will go to war with the Kingdom of Manitoba.§!"
+  dln_yorkton_abdication:0 "§YLeif Yorkton§! must have decided to §Rabdicate§! from power."
+  dln_yorkton_grander:0 "§YLeif Yorkton§! must have decided to take up the mantel of the largest Empire which has ever existed!"
+  dln_yorkton_empire:0 "§GThe Empire has been proclaimed!§!"
+  dln_dam_tt:0 "If the §GArborg Junta§! is our subject, it too will receive the §YGrand Rapids Dam§! national idea!"
+  dln_claim_canada:0 "§GWe will claim every province in Canada not owned by us or our allies!§!"
+  dln_core_cost_stampede:0 "We will gain a §G25% Core Creation Cost Reduction§! on §YThe Great Stampede§!."
+  dln_hope_advisor:0 "§GHope becomes an Advisor§!"
+  dln_end_hope:0 "§GHope has made the ultimate sacrifice§!"
+  dln_something_greater:0 "§YHope has completed MANIFEST's mission§!"
+  dln_eleanor_unlock:0 "In order to unlock §GEleanor's path§!, you must have completed all of the §YEnding Duchy Focuses§! and §YA Life Time Of War§!"
+  dln_dawfin_upgraded:0 "From Lake to Lake"
+  dln_dawfin_upgraded_desc:0 "The restoration of Dawfin and the Royal Fleet are at last complete. The settlements along the coast can rest easy knowing they lie under the watchful eye of the mightiest frigates the Kingdom has ever seen."
+  dln_the_duel:0 "A Duel with the Emperor"
+  dln_related_duchy_idea:0 "§GIf you have chosen the related starting Duchy idea, it will be made stronger!§!"
+  dln_race_against_time:0 "The Race Against Time"
+  dln_race_against_time_desc:0 "It will not take long for news of the marshal's insubordination to reach Brandon - and even less for the King to muster arms. It falls to Yorkton to decide how to best prepare for what is ahead - before the Kingdom's war drums begin to sound."
+  dln_all_restored_orders:0 "Restore The Knights Council"
+  dln_core_trr_outside_tt:0 "§GCores§! all states also cored by §Ythe Republic Of Three Rivers§! outside of the city of §YWinnipeg§!."
+  dln_core_trr_inside_tt:0 "§GCores§! the three states making up the city of §YWinnipeg§!."
+
+  ###Scripted Effects
+  dln_absalon_req_tt:0 "To pursue this focus, you need to own: all the starting territory of the Blighted Woods and The Gateway Gang, plus the states of Porcupine Hills and Wadena."
+  dln_langenburg_req_tt:0 "To pursue this focus, you need to own: the states of Langenburg, Jedburgh and Earl Grey."
+  dln_brandon_req_tt:0 "To pursue this focus, you need to own: all the starting territory of The Kingdom of Manitoba, except the state of Porto Prarie."
+  dln_merc_req_tt:0 "To pursue this focus, you, or an ally need to own: all the starting territory of The Arborg Junta."
+  dln_anger_req_tt:0 "To pursue this focus, you, or an ally need to own: all the starting territory of The Arborg Junta and The Damned."
+  dln_warwick_req_tt:0 "To pursue this focus, you need to own: all the starting territory of The Métis Congress"
+  dln_dawfin_req_tt:0 "To pursue this focus, you need to own: the states of Dawfin, Riding Mountain, Winnipegosis and Duck Mountain."
+
+  #New effects
+  dln_the_knights:0 "Knightly Prowess"
+  dln_the_knights_desc:0 "News of the Archangel's return have travelled far and wide. The Knights shall come home in droves, ready to live up to the oath taken long ago."
+  dln_the_knights_honor:0 "The Knights' Honour Restored"
+  dln_the_knights_honor_desc:0 "Thanks to Alecander's stewardship and an open-purse policy, the Knights have quickly been restored to the formidable fighting force they once were."
+  dln_the_knights_prowess:0 "A New Age of Chivalry"
+  dln_the_knights_prowess_desc:0 "As our Knights marches forward the evil and wicked scatters for the shadows, as long as our people can see the shinning light of our Knights armour they will know they are safe."
+  dln_manitoba_restructure:0 "Restructuring of the Imperial Army"
+  dln_manitoba_restructure_desc:0 "The brass reforms are already bearing fruit. The last batch of successful applicants were quick to introduce new ideas to maximise the efficiency of our existing squad tactics."
+  dln_manitoba_banners:0 "Return of the Imperial Banners"
+  dln_manitoba_banners_desc:0 "Squad leaders rage on unshackled by red tape while donning the imperial crest upon their mantle. Our enemies will learn to fear that symbol."
+  dln_the_imperial_standard:0 "The Imperial Standard"
+  dln_the_imperial_standard_desc:0 "Every Man, a Leader."
+  dln_the_imperial_standard_joran:0 "Golden Age Warfare"
+  dln_the_imperial_standard_leif:0 "The Eternal Army"
+  dln_the_imperial_standard_eleanor:0 "The Custodians of Manitoba"
+  DLN_yorkton_party:0 "Yorkton's Loyalists"
+  DLN_yorkton_party_long:0 "Yorkton's Loyalists"
+  DLN_eleanor_party:0 "Winter Rose Monarchy"
+  DLN_eleanor_party_long:0 "Winter Rose Monarchy"
+
+  #Advisor effects
+  DLN_eleanor_research:0 "The Daugther of Modern Warfare"
+  DLN_eleanor_cultural:0 "The Golden Mind of Manitoba"
+  DLN_captain:0 "Captain"
+  DLN_earl_grey_army:0 "Rapid Advancement Specialist"
+  earl_grey_profits:0 "The Earl Grey Company"
+  DLN_knights:0 "Grandmaster"
+  DLN_recon_master:0 "Recon Master"
+  DLN_knights_armour:0 "Armorsmith"
+  DLN_sylvi_artist:0 "Nightingale"
+  DLN_sylvi_scav:0 "Resilient Scavenger"
+  DLN_trader:0 "Northern Routes CEO"
+  DLN_sobrek_drunk:0 "Professional Drunkard"
+  DLN_rector_cultural:0 "Professor of Everything"
+  DLN_farmer:0 "Face of The Farmers"
+  DLN_wardens:0 "Head Warden"
+  DLN_prison_labour:0 "Chain Gangs Proponent"
+  DLN_shock:0 "Explosive Specialist"
+  DLN_bellores_naval:0 "Dawfin Designs"
+  DLN_anger_naval:0 "Anger Designs"
+  DLN_poetry_master:0 "Renowned Poet"
+  DLN_sundell_lockheart:0 "Sundell&Lockheart Ingenuity"
+  DLN_eliza_air:0 "Born To Take Flight"

@@ -1,0 +1,233 @@
+﻿l_english:
+  #localization by Zusk on New Years Eve AAAAAAAAAAAAAAAAAAAAAAAA :((
+  #Colorado Focuses
+  #Shamelessly rewritten from the Wyoming Shared Tree
+  colorado_1:0 "Roots in the Rockies"
+  colorado_1_desc:0 "From towering peaks to winding rivers, our story began here, where the rugged Rockies shaped our spirit and resolve."
+
+  colorado_2:0 "Climbing Every Mountain"
+  colorado_2_desc:0 "Through avalanches of hardship and valleys of despair, we have fought to find our footing in this unforgiving terrain."
+
+  colorado_3:0 "Rocky Mountain High"
+  colorado_3_desc:0 "With the sky as our limit and the mountains as our guide, we strive to carve out a brighter, bolder future for all."
+
+  colorado_left_opener: "The Plateaus of Colorado"
+  colorado_left_opener_desc: "Colorado stretches wide with untamed plateaus, winding canyons, and fertile valleys waiting to be tilled. Opportunity beckons, and if we seize it, future generations will reap the rewards of our labor."
+
+  colorado_caps_1: "Bottling the Past"
+  colorado_caps_1_desc: "Amidst the ruins lies an old Nuka-Cola bottling plant. Time and decay have not stripped it entirely of value. Caps, machinery, and perhaps a forgotten bottle of the good stuff await those brave enough to scavenge its rusted halls."
+
+  colorado_caps_2: "Canyon Caravans"
+  colorado_caps_2_desc: "The winding canyons of Colorado make for treacherous routes, but also unparalleled opportunities for trade. With well-armed caravans and trusted guides, commerce can thrive even in the harshest gulches."
+
+  colorado_manpower: "The Call of the High Plains"
+  colorado_manpower_desc: "The serene peaks and open plains of Colorado call to wanderers and settlers alike. Word of our efforts spreads, and with it, new faces arrive, seeking stability amidst the wild."
+
+  colorado_manpower_dos: "Winds Through the Passes"
+  colorado_manpower_dos_desc: "The mountain winds carry whispers of fertile valleys and secure walls. Travellers and drifters linger longer, some choosing to stay and make this place their home."
+
+  colorado_waterways: "Pure Waters, Foul Rivers"
+  colorado_waterways_desc: "Colorado's rivers once sustained entire cities. Though tainted now, their potential remains. With determination and salvageable purifiers, we can turn poisoned streams into life-giving waters."
+
+  colorado_factory_1: "Refineries of the Old World"
+  colorado_factory_1_desc: "Industrial relics dot the plains and valleys—rusted towers and long-silent machinery. With enough effort and ingenuity, we can breathe new life into these monuments of progress."
+
+  colorado_plants: "Fertile Valley Farms"
+  colorado_plants_desc: "Even the harshest wasteland must eat. The fertile soil of Colorado's valleys offers us a chance to grow crops and secure our people's survival."
+
+  colorado_research: "Secrets of the Rockies"
+  colorado_research_desc: "The Rockies have always hidden secrets in their shadowy peaks and deep caves. If we can uncover them, knowledge and progress will follow."
+
+  colorado_escapes: "Refuge in the Highlands"
+  colorado_escapes_desc: "Some arrived here fleeing chaos; others stayed because they found peace. Whatever their reasons, these settlers are quick to share stories, knowledge, and kinship with newcomers."
+
+  colorado_power: "Restarting the Grid"
+  colorado_power_desc: "The skeletal remains of power stations stand scattered across Colorado. If we can coax electricity back into their veins, we'll have light, warmth, and a brighter future."
+
+  colorado_tools: "Tools of the Trade"
+  colorado_tools_desc: "Every society begins with a scavenger. With the right tools and preparation, they'll bring back scrap and salvage that can build a home—or a future."
+
+  colorado_comp: "Foundations of Civilization"
+  colorado_comp_desc: "Industry grows not from desire but from preparation. The scavengers' tools, the sparks of power—these will form the backbone of our growing settlements."
+
+  colorado_electronics: "Whispers from the Machines"
+  colorado_electronics_desc: "The faint glow of ancient monitors hums softly in dusty rooms. Computers and terminals offer more than nostalgia—they hold the key to innovation."
+
+  colorado_industrial_power: "Smoke and Steel"
+  colorado_industrial_power_desc: "The skyline begins to change as smokestacks rise and industry stirs to life. Colorado's wilderness gives way to a new era of progress."
+
+  colorado_big_iron: "Iron and Ambition"
+  colorado_big_iron_desc: "Discipline and bravery win battles, but it's the iron in our hands that secures victory. Better weapons mean better odds."
+
+  colorado_support_tech: "Versatility in Chaos"
+  colorado_support_tech_desc: "In a world as unpredictable as ours, flexibility often matters more than raw strength. Jack of all trades, master of survival."
+
+  colorado_vehicle_tech: "Canyon Roads and Dust Trails"
+  colorado_vehicle_tech_desc: "The canyons echo with the rumble of engines. Vehicles aren't just transport—they're lifelines, weapons, and symbols of power."
+
+  colorado_right_opener: "Fires Across the Plateau"
+  colorado_right_opener_desc: "The frontier grows restless. Whether from ambition, necessity, or desperation, change is coming. We must be ready."
+
+  colorado_army_exp: "Hunting Shadows in the Wilds"
+  colorado_army_exp_desc: "Colorado's untamed wilderness hides dangers both mutated and mundane. Learning to hunt them sharpens both blade and mind."
+
+  colorado_war_support: "Hearts and Horizons"
+  colorado_war_support_desc: "A people prepared to defend their home will stand united, no matter the cost."
+
+  colorado_right_assymmetry: "Guerrillas of the Rockies"
+  colorado_right_assymmetry_desc: "The mountains and canyons are our home, our fortress. We know every pass, every ridge. Any invader will find themselves ensnared in our web."
+
+  colorado_arms_fact_2: "Factories for the Folks"
+  colorado_arms_fact_2_desc: "A reasonable society is formed off of a system of mutually-agreed tasks. The wasteland is a harsh place, and many folks crave some sort of purpose. To protect ourselves and to brighten the minds of our people, we will facilitate the construction of new workshops across Colorado."
+
+  colorado_training_idea: "Armed and Ready"
+  colorado_training_idea_desc: "A rifle means little in the hands of the untrained. Drills and discipline will make every citizen a capable defender."
+
+  colorado_planning: "Guided by Purpose"
+  colorado_planning_desc: "Victories are earned through preparation, not just courage. Careful planning will ensure every effort counts."
+
+  colorado_cute_idea: "Friendly, Yet Fierce"
+  colorado_cute_idea_desc: "A smile can open doors, but a claw can close them. Diplomacy and caution will guide our interactions."
+
+  colorado_arms_fact_1: "Forging the Future"
+  colorado_arms_fact_1_desc: "In the heart of workshops and factories, the tools of survival and conquest are crafted. Each hammer strike echoes with purpose."
+
+  colorado_homeland_idea: "Mountain Fortress Doctrine"
+  colorado_homeland_idea_desc: "Let the world rage around us. In the shadow of the mountains, we will endure."
+
+  colorado_expansion_idea: "Wanderers Beyond the Ridge"
+  colorado_expansion_idea_desc: "Safety lies not just in defense but in action. We will strike outward before danger strikes inward."
+
+  colorado_idea_coalesce: "The Spirit of Colorado"
+  colorado_idea_coalesce_desc: "These mountains, these plains—they are home. And we will ensure they remain so, forever."
+
+  colorado_research_1:0 "Mastering the Land"
+  colorado_research_1_desc:0 "Colorado's landscapes are as unforgiving as they are beautiful. To thrive here, we must understand every acre of soil, every source of water, and every seed we plant."
+
+  colorado_research_mutual_1:0 "Securing the Waters"
+  colorado_research_mutual_1_desc:0 "Water flows where it wills, but with careful planning and engineering, we can guide it to sustain our crops and our people."
+
+  colorado_research_mutual_2:0 "Foundations of Renewal"
+  colorado_research_mutual_2_desc:0 "The ruins of the old world are more than just relics; they are blueprints for renewal. With effort, we can rebuild what was lost and improve upon it."
+
+  colorado_research_mutual_3:0 "Strength in Adaptation"
+  colorado_research_mutual_3_desc:0 "Nature thrives despite adversity, and so must we. By studying how life persists in the harshest corners of the land, we can unlock our own resilience."
+
+  colorado_research_slot_uwu:0 "Echoes of Innovation"
+  colorado_research_slot_uwu_desc:0 "The old world was a place of invention and ambition. Though much has been lost, what remains can still teach us how to rebuild, refine, and reimagine our future."
+
+  colorado_consolidated:0 "Dominion Over Sky and Stone"
+  colorado_consolidated_desc:0 "The vast skies and flowing rivers of Colorado are more than scenery—they are opportunities. With careful planning, we can turn them into assets that will secure our future."
+
+  colorado_air_base:0 "Commanding the Skies"
+  colorado_air_base_desc:0 "The skies above Colorado stretch endlessly, offering both freedom and danger. Establishing aerial command will ensure we rule the heights."
+
+  colorado_naval_base:0 "The Lifeblood of Rivers"
+  colorado_naval_base_desc:0 "The rivers that cut through Colorado carry trade, water, and life itself. Securing their flow is securing our survival."
+
+  colorado_air_1:0 "The Call of the Wind"
+  colorado_air_1_desc:0 "To command the skies, we must first understand them. The wind, the weather, and the endless horizon—all are tools in our hands."
+
+  colorado_air_2:0 "Horizons Without End"
+  colorado_air_2_desc:0 "The skies stretch far beyond the eye can see, and so too must our ambitions. We will not be confined to the ground."
+
+  colorado_air_3:0 "Precision from Above"
+  colorado_air_3_desc:0 "Flight is not just about soaring; it is about control, timing, and precision. Every movement must have purpose."
+
+  colorado_air_4:0 "Strength in Every Wing"
+  colorado_air_4_desc:0 "Our pilots are not just operators; they are guardians of the skies. With better tools and training, they will secure our dominion."
+
+  colorado_air_5:0 "Masters of the Sky"
+  colorado_air_5_desc:0 "With every engine fine-tuned and every wing reinforced, we will command the heavens with unwavering dominance."
+
+  colorado_air_6:0 "Engines of Progress"
+  colorado_air_6_desc:0 "The roar of engines overhead signals not just power, but progress. Colorado will rise on steel wings and unyielding resolve."
+
+  colorado_navy_1:0 "Flowing Lifelines"
+  colorado_navy_1_desc:0 "Rivers are more than water; they are lifelines, connecting our people and carrying our hopes downstream."
+
+  colorado_navy_2:0 "Safe Currents"
+  colorado_navy_2_desc:0 "Trade, travel, and survival depend on secure waters. We will ensure that our rivers remain ours."
+
+  colorado_navy_3:0 "Bridging the Divide"
+  colorado_navy_3_desc:0 "Boats are not just tools of war; they are bridges, linking distant shores and isolated communities."
+
+  colorado_navy_4:0 "Fleet of the Rapids"
+  colorado_navy_4_desc:0 "Swift, sturdy, and ever vigilant—our boats will patrol the waterways and ensure nothing threatens our lifelines."
+
+  colorado_navy_5:0 "Discipline on the Water"
+  colorado_navy_5_desc:0 "Every sailor and every vessel must be ready. Routine drills and discipline will ensure we are never caught unprepared."
+
+  colorado_master_of_rivers_and_rain:0 "Mastery Over Rivers and Rain"
+  colorado_master_of_rivers_and_rain_desc:0 "From the vast skies to the winding rivers, Colorado's dominion spans every horizon. By commanding both air and water, we will secure our legacy and shape the course of our future."
+
+  colorado_sightseeing:0 "Colorado Sightseeing"
+  colorado_sightseeing_desc:0 "Colorado is home to a number of wonderful and curious locations! Both pre-war, and post-war wonders rest in the nestled valleys between the rockies. Lets go explore!"
+
+  colorado_paradise:0 "Paradise"
+  colorado_paradise_desc:0 "Paradise is a marvel of pre-war engineering, designed to preserve the natural fauna of the old world during the Great War. This self-contained nursery stands as a testament to humanity's foresight and desperation to ensure Earth's biodiversity could endure. Diana, the Goddess of this place, resides here with a benevolent hand, watching your every step."
+
+  colorado_the_big_top:0 "The Big Top"
+  colorado_the_big_top_desc:0 "Once the site of the infamous Tibbet's Prison, The Big Top has been transformed into a bustling settlement. Numerous settlers now call this place home, thriving amidst the ruins of its turbulent past. The once desolate prison yard is now a lively hub of trade, culture, and resilience."
+
+  colorado_circle_junction:0 "Circle Junction"
+  colorado_circle_junction_desc:0 "Circle Junction is a modest but vital town nestled within Colorado's rugged terrain. It serves as a crossroads for travelers and traders, connecting various communities in the region. The Iron Rivers tribe has made their home here, adding a unique cultural layer to the settlement."
+
+  colorado_vault_0:0 "Vault 0"
+  colorado_vault_0_desc:0 "Vault 0 is a place steeped in history, where a fabled battle between the Midwestern Brotherhood of Steel and the Menace from the West once raged. Its halls echo with the remnants of advanced technology and the scars of war. Though abandoned by its creators, the vault still holds secrets waiting to be uncovered."
+
+  colorado_robot_city:0 "Robot City"
+  colorado_robot_city_desc:0 "Robot City is a unique settlement, home to countless robots that have banded together in quirky communes known as 'Friendship Clubs.' These robots exhibit surprising independence, breaking past their original programming thanks to Doki's mysterious influence. Despite their mechanical nature, they exhibit creativity and camaraderie that rival any human community."
+
+  colorado_boulder_dome:0 "Boulder Dome"
+  colorado_boulder_dome_desc:0 "The Boulder Dome is a colossal pre-war research facility built to study and contain the New Plague. Its reinforced walls and advanced systems have withstood the test of time, but the dangers within have kept most explorers at bay."
+
+  colorado_vault_29:0 "Vault 29"
+  colorado_vault_29_desc:0 "Vault 29, once a place of worship for the Twin Mothers tribe, is now overrun with lush green vegetation. The vault's unique ecosystem has turned it into a haven for flora, making it stand out among its counterparts. Its walls hold the stories of a bygone era when faith and survival intertwined."
+
+  colorado_ouroboros:0 "Ouroboros"
+  colorado_ouroboros_desc:0 "Founded by Hecate, the Dark Mother, as a sanctuary for her people, Ouroboros is a post-war marvel. A city rising from the earth on the mysterious Umbral Hill. Built almost entirely of a synthetic obsidian-like material, its architecture exudes a haunting yet captivating aura."
+
+  colorado_denver:0 "Denver"
+  colorado_denver_desc:0 "Denver, once nicknamed Dog City, is now a shattered relic of its former self. Its ruins are fiercely contested by scavenger groups, who claim and defend small territories known as 'claims.' Despite its fractured state, Denver remains a hub of activity, its pre-war remnants fueling the ambitions of those who dare to stake their claim."
+
+  colorado_senator_petersons_bunker:0 "Senator Peterson's Bunker"
+  colorado_senator_petersons_bunker_desc:0 "This bunker, once the refuge of Senator Peterson, is a marvel of pre-war engineering designed to withstand the Great War unscathed. Previously occupied by a gang called 'The Suits,' it now stands as a relic of power and privilege. Its reinforced walls and high-tech facilities offer both safety and untapped potential."
+
+  colorado_mesa_verde:0 "Mesa Verde"
+  colorado_mesa_verde_desc:0 "Mesa Verde is the spiritual and intellectual home of the Ciphers, a group dedicated to studying and preserving pre-war schematics. Nestled within its stunning cliffs, the settlement combines natural beauty with technological devotion. The Ciphers' rituals and practices center around understanding the old world's engineering marvels."
+
+  colorado_new_sterling:0 "The New Sterling"
+  colorado_new_sterling_desc:0 "Home of the Iron Arrows, New Sterling grew steadily in the shadow of their conflicts - and exploded in both size and wealth when they united beneath the iron tread of the Bulleteater. As their mercenaries ply their trade far and wide, the coffers of caps and loot they return with attracts merchants and desperate laborers to the city's dangerous streets."
+
+  colorado_broke_wheel:0 "Colorado's Victory"
+  colorado_broke_wheel_desc:0 "The Centurion Paullus felt himself invincible when he marched into Colorado. It's here, his troops crowded while marching through a mountain passage, that he learned the truth. Beaten down by the Sun Dogs, the wreckage of the Legion chariots and broken armor litters the ground for a mile. While Paullus himself escaped, scavengers leave memorials to his failure."
+
+  colorado_seen_all_sights:0 "Seen It All"
+  colorado_seen_all_sights_desc:0 "An old fact book claims Colorado had not 4 sides, but 697. While the borders aren't so easy to define anymore, we reckon we've memorized just about everything in the wastes of the state. As our borders have grown, so has our love of the land, and nothing - not Centurions, mutant hordes, robotic overlords, mad scientists, cultists - nothing will take it from us."
+
+  ##Colorado Ideas
+  colorado_sightseers_idea:0 "Post-War Travel Checklist"
+  colorado_sightseers_idea_desc:0 "There's so many things to see, so little time. Use the restroom now, no stops til Dog City. If we split up at the I-25, we might just be able to hit two goals by Saturday..."
+  colorado_sightseers_idea_2:0 "Lay Of The Land"
+  colorado_sightseers_idea_2_desc:0 ""
+  colorado_resources:0 "From The Valleys"
+  colorado_resources_desc:0 ""
+  colorado_resources_upgrade:0 "To The Peaks"
+  colorado_resources_upgrade_desc:0 ""
+  colorado_air_hands:0 "Sky Teams"
+  colorado_air_hands_desc:0 ""
+  colorado_night_skies:0 "Guardian Wind"
+  colorado_night_skies_desc:0 ""
+  colorado_building_boats:0 "Rocky River Riding"
+  colorado_building_boats_desc:0 ""
+  colorado_training:0 "Prepared For Conflicts"
+  colorado_training_desc:0 ""
+  colorado_defense:0 "Open Hand, Big Stick"
+  colorado_defense_desc:0 ""
+  colorado_homeland_doctrine:0 "Like A Mountain"
+  colorado_homeland_doctrine_desc:0 ""
+  colorado_expansion_doctrine:0 "Mesa Roads"
+  colorado_expansion_doctrine_desc:0 ""
+  colorado_idea_coalescence:0 "Spirit Of Colorado"
+  colorado_idea_coalescence_desc:0 ""

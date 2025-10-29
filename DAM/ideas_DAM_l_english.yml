@@ -1,0 +1,51 @@
+﻿l_english:
+  dam_idea_bustinmakesmefeelgood:0 "Bustin' Makes Me Feel Good"
+  dam_idea_bustinmakesmefeelgood_desc:0 "While the [DAM.GetName] were once generous is aiding nearby settlements with their engineering knowledge, the realities of scarcity and isolation drove them to demand more and more from their neighbors until the finally began taking from others by force. Nowadays they're know for their love to fight, especially out of the safety of their dam; a nigh impregnable fortress they can retreat to should the tide turn against them. \n\nThey regularly provoke the [LAP.GetName] in particular, believing them to be dangerous considering they hold territory directly in the shadow of Oahe."
+
+  dam_idea_powerhouseofthenorth:0 "Powerhouse of the North"
+  dam_idea_powerhouseofthenorth_desc:0 "Oahe Dam had been one of the main sources of reliable power in the northern United States before the bombs fell. It was important enough to see it secured by a detachment of the Corps of Engineers when the Nebraska Quarantine was put into effect to continue providing power to areas outside the cordon sanitaire. While it has slowly fallen apart over the last two centuries despite the best efforts of the Dam Busters, even today it produces more power than any raider could dream of."
+  
+  dam_idea_powerhouseofthenorth_2:0 "Powerhouse of the North, Restored"
+  dam_idea_powerhouseofthenorth_2_desc:0 "Now restored to its full pre-war might, the Oahe Dam produces power thought lost to the ages, enough to fuel the entirely of Nebraska and beyond."
+
+  dam_idea_organization:0 "Organization Focus"
+  dam_idea_organization-desc:0 ""
+
+  dam_idea_breakthrough:0 "Breakthrough Focus"
+  dam_idea_breakthrough_desc:0 ""
+
+  dam_idea_planning:0 "Strategy Focus"
+  dam_idea_planning_desc:0 ""
+
+  dam_idea_lap_attack:0 "Emphasis on Raids"
+  dam_idea_lap_attack_desc:0 ""
+
+  dam_idea_lap_defence:0 "Emphasis on Entrapment"
+  dam_idea_lap_defence_desc:0 ""
+
+  dam_idea_lap_breakthrough:0 "Emphasis on Assault"
+  dam_idea_lap_breakthrough_desc:0 ""
+
+  dam_idea_compliance_gain:0 "Lakota Crack Down"
+  dam_idea_compliance_gain_desc:0 ""
+
+  dam_idea_build_quickly:0 "Rapid Construction Order"
+  dam_idea_build_quickly_desc:0 ""
+
+  dam_idea_reading_raiders:0 "Reading Raiders"
+  dam_idea_reading_raiders_desc:0 ""
+
+  dam_idea_embrace_the_new_world:0 "Embrace the New World"
+  dam_idea_embrace_the_new_world_desc:0 ""
+
+  dam_idea_fighter_cost_reduction:0 "Applied Aerospace Engineering"
+  dam_idea_fighter_cost_reduction_desc:0 ""
+
+  dam_idea_cas_cost_reduction:0 "Applied Aerospace Engineering"
+  dam_idea_cas_cost_reduction_desc:0 ""
+
+  dam_paying_tribute_idea:0 "Paying Tribute to [DAM.GetName]"
+  dam_paying_tribute_idea_desc:0 ""
+
+  dam_paying_weapons_idea:0 "Providing Weapons to [DAM.GetName]"
+  dam_paying_weapons_idea_desc:0 ""

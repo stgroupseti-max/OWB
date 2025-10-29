@@ -1,0 +1,101 @@
+﻿l_english:
+  nf_dam.0.t:0 "Entering the Plaguelands"
+  nf_dam.0.d:0 "As the Old World government established the Plaguelands and fortified it against escape attempts it became clear that its residents were in desperate need of aid. Nebraska had little infrastructure prior to the Plaguelands, and the influx of population strained its resources to the taxing point. An entirely volunteer brigade from the Corps of Engineers was drawn up and sent into the Plaguelands. Once there, they focused on..."
+  nf_dam.0.a:0 "Saving lives"
+  nf_dam.0.b:0 "Planting seeds"
+  nf_dam.0.c:0 "Building homes"
+
+  nf_dam.1.t:0 "Liaisons"
+  nf_dam.1.d:0 "The spirit of the Corps changed after the Great War. Without incoming supplies and government support, many realized that their position in the Plaguelands was unsustainable. At first, the better angels of their nature won out. Yet as time went on they began to realize their power over the residents that relied on them. They began to raid and pillage areas that refused to give them tribute, quickly becoming a feared name in the Plaguelands.\n\nStill in need of support, engineering teams were sent out into areas the newly christened Dam Busters were unable to conquer. In exchange for caps or weapons, these teams would create new infrastructure in the areas they visited."
+  nf_dam.1.a:0 "Onwards and outwards"
+
+  nf_dam.2.t:0 "The Horde Arrives"
+  nf_dam.2.d:0 "The arrival of the Great Horde couldn't have been prepared for. They swept through the Dam Busters' towns and garrisons with an unmatched ferocity, quickly closing in on the Oahe Dam itself. In a decision reminiscent of the old Corps of Engineers, civilians and soldiers alike were rushed into the safety of the Dam's structure. Huddled within the creaky metal walls while wild howling raged outside, the survivors began to set to work on their new home."
+  nf_dam.2.a:0 "They built workshops to make their lives easier"
+  nf_dam.2.b:0 "They made weapons to defend themselves"
+  nf_dam.2.c:0 "They constructed fortifications in every hallway"
+
+  nf_dam.3.t:0 "The Lakota-Buster Grudge"
+  nf_dam.3.d:0 "While the Dam Busters had been forced to cower within the Oahe, the Lakota people were content to sit across the river and watch them suffer and starve. True, the Dam Busters had a long history of raiding and enslaving the Lakota, but this was different. The Horde was a threat to every human, and in the minds of the Dam Busters that was enough to set aside old rivalries.\n\nThe Lakota did not agree, and now the Dam Busters will never forgive or forget."
+  nf_dam.3.a:0 "Remember the siege!"
+
+  nf_dam.4.t:0 "Reclamation"
+  nf_dam.4.d:0 "As the Horde retreated the farmers trapped inside the Dam began to return to their homes. Abandoned fields were slowly reclaimed and life began anew. For the first time since the Horde arrived, hope sprung anew around the Oahe Dam."
+  nf_dam.4.a:0 "The work begins"
+
+  nf_dam.5.t:0 "The Engineering Corps"
+  nf_dam.5.d:0 "The rush to resettle farmers inside the Dam ultimately occupied what little space had been excavated within it. As the refugees began to return to their homes the Dam became largely empty. Breaker Jones, a bright young engineer, saw a unique opportunity: the Dam could be used as a hub of industry, manufacturing goods and weapons for the Dam Busters' larger operations."
+  nf_dam.5.a:0 "Renew the Dam"
+
+  nf_dam.6.t:0 "Victory over the Lakotas"
+  nf_dam.6.d:0 "For the first time, our raids against the Lakota have resulted in complete military domination. Controlling their territory will be no easy task, but it is now ours by right of conquest. The Lakota people will no doubt begin to resist our rule, even if their tribal councils have officially surrendered."
+  nf_dam.6.a:0 "Dam Busters! Dam Busters! Hooah!"
+
+  nf_dam.7.t:0 "Underhanded Farmers"
+  nf_dam.7.d:0 "Some of our electrical engineers recently concluded an investigation into heavier than average power draw from distinct sectors of our territory. After interrogating some of the locals they discovered that a number of farmers had secretly begun to tap our power lines and draw electricity for their personal use. Removing their lines could increase our overall power output, but allowing them to continue would certainly win their gratitude."
+  nf_dam.7.a:0 "Allow them to continue"
+  nf_dam.7.b:0 "Cut off their access"
+
+  nf_dam.8.t:0 "The New Strand"
+  nf_dam.8.d:0 "Our doctors have begun to report a new strand of the virus among the patients they treat. The virus seems more deadly and dangerously effective than the known strands, causing concern across the Plaguelands."
+  nf_dam.8.a:0 "Frightening"
+
+  nf_dam.9.t:0 "Human Engineering"
+  nf_dam.9.d:0 "Our people are experts at working with machines, not humans. However, this new strain has required a more flexible response than previously imagined. Some of our engineers, now calling themselves human engineers, have volunteered to act as a mobile team of doctors similar to our existing engineering teams. In light of the threat the new strain poses, this seems like a great way to make a few caps."
+  nf_dam.9.a:0 "Profit!"
+
+  nf_dam.10.t:0 "Containment Broken"
+  nf_dam.10.d:0 "The original concept of the Plaguelands had been that of a forced quarantine upheld by an army of robots guarding the area's perimeter. Last week, we received word that someone had managed to deactivate the robotic army, allowing communication between the Plaguelands and the outside world for the first time in 200 years. The full ramifications are not yet clear, but one thing is immediately obvious: our engineering teams can now explore the entire wasteland."
+  nf_dam.10.a:0 "Freedom at last"
+
+  nf_dam.11.t:0 "Launching a Fleet"
+  nf_dam.11.d:0 "The old robot guardians had been quick to destroy any ships launched from our territory. Their destruction has heralded us into a new age of shipbuilding. None among us have any firsthand experience with seafaring, but the lure of the river waters has created immense interest in it. This is a new dawn for the [DAM.GetName], with exciting new possibilities."
+  nf_dam.11.a:0 "Hard to port!"
+
+  nf_dam.12.t:0 "Victory - Equipment Recovered"
+  nf_dam.12.d:0 "Our raiders secured a mass of guns and support equipment from our attack on our targets. These guns will soon be sent to reinforce our men, granting further success in the field."
+  nf_dam.12.a:0 "Essayons!"
+
+  nf_dam.13.t:0 "Victory - Slaves Taken"
+  nf_dam.13.d:0 "Our raiders returned today leading a convoy of slaves taken from our targets. An inspiring victory!"
+  nf_dam.13.a:0 "Essayons!"
+
+  nf_dam.14.t:0 "Victory - Experience Increased"
+  nf_dam.14.d:0 "Our raid was a major success. While the physical material we recovered was low, our troops have taken minimal casualties and heightened their combat prowess because of it. Our generals are already redrawing tactics based on the lessons learned."
+  nf_dam.14.a:0 "Essayons!"
+
+  nf_dam.15.t:0 "Defeat on the Dam"
+  nf_dam.15.d:0 "The best efforts of our troops failed to stem the enemy's offensives in our most recent clash. Our bravery managed to halt our losses from this battle, but it seems that our foe has clearly emerged as the victor."
+  nf_dam.15.a:0 "Next time..!"
+
+  nf_dam.16.t:0 "An Engineer Team Arrives"
+  nf_dam.16.d:0 "Recently, an engineering team from [DAM.GetName] arrived in our territory. Offering to improve our infrastructure and build new power stations near our capital, they are making quite the tempting offer. There is a price attached, but they are quite flexible in terms of payment plans."
+  nf_dam.16.a:0 "Pay them in caps"
+  nf_dam.16.b:0 "Give them spare guns"
+  nf_dam.16.c:0 "Send them away"
+  nf_dam.16.do:0 "Offer them workshop equipment instead"
+  nf_dam.16.e:0 "Offer them military equipment instead"
+
+  nf_dam.17.t:0 "Engineers Sent Us Caps"
+  nf_dam.17.d:0 ""
+  nf_dam.17.a:0 "Into the vault!"
+
+  nf_dam.18.t:0 "Engineers Sent Us Guns"
+  nf_dam.18.d:0 ""
+  nf_dam.18.a:0 "Hey Steve, check this out!"
+
+  nf_dam.19.t:0 "Victory - Doctrine Developed"
+  nf_dam.19.d:0 "Our raiders found themselves in a precarious position in their last attack. Taking heavy losses and under immense pressure, our field commanders devised an ingenious new strategy to rout the enemy. This new tactic will no doubt prove useful in our future encounters."
+  nf_dam.19.a:0 "Essayons!"
+
+  nf_dam.20.t:0 "Engineers Return With a Capacitor"
+  nf_dam.20.d:0 ""
+  nf_dam.20.a:0 "A fine addition to our collection."
+
+  nf_dam.21.t:0 "Victory - Mechanical Plans Stolen"
+  nf_dam.21.d:0 "Our targets held a number of pre-War mechanical engineering documents and blueprints. Previously unknown to our engineers, these new technologies will increase our industrial output dramatically."
+  nf_dam.21.a:0 "Essayons!"
+
+  nf_dam.22.t:0 "Victory - Weapons Plans Stolen"
+  nf_dam.22.d:0 "Our targets held a number of pre-War weapons documents and blueprints. Previously unknown to our engineers, these new technologies will increase our weapons output dramatically."
+  nf_dam.22.a:0 "Essayons!"

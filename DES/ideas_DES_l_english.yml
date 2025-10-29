@@ -1,0 +1,111 @@
+﻿l_english:
+  #spellcheck_ignore: knighttactics,slayinggiants,rangerslegionwar,rangersnewthreat
+
+  desertrangers:0 "Desert Rangers"
+  desertrangers_desc:0 ""
+
+  DES_wasteland_preparedness:0 "Desert Training"
+  DES_wasteland_preparedness_desc:0 "The Desert Rangers are adept at handling the harsh summers of the American Southwest. Ever since the birth of their organization, their training has heavily emphasized developing the knowledge and endurance required to survive and operate under hostile weather or extreme environments. This does of course mean more effort is required to induct newcomers into their ranks in a proper fashion, but these skills translate exceptionally to putting down tyrants and evildoers under the beating desert sun."
+
+  # If editing description, please also edit DES_ranger_treaty_defied_2_desc as the two are meant to be identical
+  DES_ranger_treaty_defied:0 "Hardship and Uncertainty"
+  DES_ranger_treaty_defied_desc:0 "Four years have passed since the Unification Treaty with the New California Republic, when the Desert Rangers let go their fight for the downtrodden and picked up the fight for the Bear. Had Abigail and the rangers that were so appalled by this decision lacked courage in their convictions, they would have never taken the risk they did in abandoning their commitment to the NCR. However, self-righteous anger, be it justified or not, has proven to be a poor substitute for a well-rounded philosophy of governance. \n\nThe Rangers were never concerned with much more than their duty, but prior to 2271 they never needed to be: the goodwill of the settlers they protected was enough to get by modestly, their honorable reputation and the gratitude of those they served earning most a few good meals and some nights with a roof over their heads. Now that they've fled to the far more vacant Esmeralda County, though, where rivals are numerous and settlements scarce, this symbiotic relationship they previously depended on has been unreliable at best. And with the Rangers still nominally traitors hiding from a hulking military power, the once unwavering discipline and cohesion of their ranks also shows its cracks as morale grows increasingly hard to maintain. \n\nMaking a self-sufficient state out of the Rangers has proven to be an arduous task, and one which will likely remain incomplete until they can assert authority over the region as a whole--for one master or another."
+
+  # If editing description, please also edit DES_ranger_treaty_defied_desc as the two are meant to be identical
+  DES_ranger_treaty_defied_2:0 "Recovering Strength"
+  DES_ranger_treaty_defied_2_desc:0 "Four years have passed since the Unification Treaty with the New California Republic, when the Desert Rangers let go their fight for the downtrodden and picked up the fight for the Bear. Had Abigail and the rangers that were so appalled by this decision lacked courage in their convictions, they would have never taken the risk they did in abandoning their commitment to the NCR. However, self-righteous anger, be it justified or not, has proven to be a poor substitute for a well-rounded philosophy of governance. \n\nThe Rangers were never concerned with much more than their duty, but prior to 2271 they never needed to be: the goodwill of the settlers they protected was enough to get by modestly, their honorable reputation and the gratitude of those they served earning most a few good meals and some nights with a roof over their heads. Now that they've fled to the far more vacant Esmeralda County, though, where rivals are numerous and settlements scarce, this symbiotic relationship they previously depended on has been unreliable at best. And with the Rangers still nominally traitors hiding from a hulking military power, the once unwavering discipline and cohesion of their ranks also shows its cracks as morale grows increasingly hard to maintain. \n\nMaking a self-sufficient state out of the Rangers has proven to be an arduous task, and one which will likely remain incomplete until they can assert authority over the region as a whole--for one master or another."
+
+  raiderconscripts:0 "Raider Conscripts"
+  raiderconscripts_desc:0 ""
+
+  rangercores:0 "Ranger Corps"
+  rangercores_desc:0 ""
+
+  rangerintervention:0 "Ranger Intervention"
+  rangerintervention_desc:0 ""
+
+  nevadarecruitment:0 "Nevada Recruitment"
+  nevadarecruitment_desc:0 ""
+
+  knighttactics:0 "Knight Tactics"
+  knighttactics_desc:0 ""
+
+  rangersworkbench:0 "Ranger's Workbench"
+  rangersworkbench_desc:0 ""
+
+  wastelandprotect:0 "Wasteland Protect"
+  wastelandprotect_desc:0 ""
+
+  rangersquartermaster:0 "Ranger Quartermaster"
+  rangersquartermaster_desc:0 ""
+
+  rangersmechanic:0 "Rangers Mechanic"
+  rangersmechanic_desc:0 ""
+
+  rangersrecruiter:0 "Rangers Recruiter"
+  rangersrecruiter_desc:0 ""
+
+  rangerspropaganda:0 "Rangers Propaganda"
+  rangerspropaganda_desc:0 ""
+
+  rangersoutreach:0 "Rangers Outreach"
+  rangersoutreach_desc:0 ""
+
+  rangersarmouries:0 "Rangers Armouries"
+  rangersarmouries_desc:0 ""
+
+  rangerdepot:0 "Ranger Depot"
+  rangerdepot_desc:0 ""
+
+  rangersaviation:0 "Rangers Aviation"
+  rangersaviation_desc:0 ""
+
+  standingtall:0 "Standing Tall"
+  standingtall_desc:0 ""
+
+  reorganizedrangers:0 "Reorganized Rangers"
+  reorganizedrangers_desc:0 ""
+
+  ncrfunding:0 "NCR Funding"
+  ncrfunding_desc:0 ""
+
+  opjericho:0 "Operation Jericho"
+  opjericho_desc:0 ""
+
+  rangerslegionwar:0 "Rangers-Legion War"
+  rangerslegionwar_desc:0 ""
+
+  rangermarch:0 "Ranger March"
+  rangermarch_desc:0 ""
+
+  ncrhonours:0 "NCR Honours"
+  ncrhonours_desc:0 ""
+
+  nationalguard:0 "National Guard"
+  nationalguard_desc:0 ""
+
+  armyrangers:0 "Army Rangers"
+  armyrangers_desc:0 ""
+
+  acceptcrim:0 "Accepted Criminals"
+  acceptcrim_desc:0 ""
+
+  acceptpetty:0 "Accepted Petty Criminals"
+  acceptpetty_desc:0 ""
+
+  kickcrim:0 "Kicked out Criminals"
+  kickcrim_desc:0 ""
+
+  rangerinterventionism:0 "Ranger interventionism"
+  rangerinterventionism_desc:0 " "
+
+  DES_army_corps_of_engineers:0 "Army Corps of Engineers Origins"
+  DES_army_corps_of_engineers_desc:0 ""
+
+  DES_protectors_guarantee:0 "Protector's Guarantee"
+  DES_protectors_guarantee_desc:0 "§GThe Rangers' protect northern Nevada from the Eighties, but they will not protect it from each other!§!"
+
+  DES_the_guarantees:0 "The Guarantees"
+  DES_the_guarantees_desc:0 "§GYour guarantees will allow you to protect northern Nevada from the Eighties, but this will NOT allow you to intervene on the side their side against any other wars they fight.§!"
+
+  threaten_nevada:0 "Threaten Nevada"

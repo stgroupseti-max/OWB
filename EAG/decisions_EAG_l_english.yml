@@ -1,0 +1,85 @@
+﻿l_english:
+  #
+
+  borders_mormon_alliance_passably:0 "Has a §Yborder§! with any member of §Y$mormon_alliance$§! through passable states §g(Impassable states don't count)§!."
+  # Branch Office Decisions
+  eag_branch_office_decisions:0 "Setting up Branch Offices"
+  eag_branch_office_decisions_desc:0 "Establishing §YBranch Offices§! throughout the wasteland in notable trade nodes will allow our airship merchants to better buy and sell §YItems§! and §YResources§! for Eagle Rock.\n\nEach §YBranch Office§! that is set up will provide us with an extra Passive Bottle Caps Income of §G5.0§!k plus the §YTrade Node's Level§! as well as §Gunlocking certain focuses§!.\n\nCurrently, we have §Y[?EAG.eag_markets] Branch Offices§! providing us with §G+[?EAG.eag_market_income].0§!k Passive Caps Income.\n"
+
+  eag_utah_branch_office:0 "Utah Branch Office"
+  eag_colorado_branch_office:0 "Colorado Branch Office"
+  eag_arizona_branch_office:0 "Arizona Branch Office"
+  eag_nevada_branch_office:0 "Nevada Branch Office"
+  eag_california_branch_office:0 "California Branch Office"
+  eag_texas_branch_office:0 "Texas Branch Office"
+  eag_idaho_branch_office:0 "Idaho Branch Office"
+  eag_mexico_branch_office:0 "Mexico Branch Office"
+  eag_dakota_branch_office:0 "Dakota Branch Office"
+  eag_manitoba_branch_office:0 "Manitoba Branch Office"
+  eag_columbia_branch_office:0 "Columbia Branch Office"
+
+  # Regular Market Decisions
+  eag_market_decisions:0 "Buying Goods"
+
+  eag_pipe_guns:0 "Pipe Guns"
+  eag_medicine:0 "Medicine"
+  eag_textbooks:0 "Textbooks"
+  eag_laborers:0 "Laborers"
+  eag_rations:0 "Rations"
+  eag_breaching_equipment:0 "Breaching Equipment"
+  eag_machinery:0 "Industrial Machinery"
+
+  eag_try_to_join_ncr:0 "Try to Join the $new_california$"
+  eag_try_to_join_ces:0 "Try to Join $caesars_legion$"
+  eag_no_caesar:0 "§Y$CES_CAESAR_NAME$§! is not the country leader, or they are at war with the §Y$new_california$§!.\n   §g$CES_CAESAR_NAME$ has little interest in working with American remnant forces, but might be willing to comprimise if he is fighting his greatest foe!§!"
+  eag_try_to_join_ncn:0 "Try to Join the $mormon_alliance$"
+  eag_try_to_join_tex:0 "Try to Join the $texan_economic_union$"
+  eag_try_to_join_rrg:0 "Try to Join the $rio_pact$"
+
+  eag_scrap_metal:0 "Scrap Metal"
+  eag_slaves:0 "Slaves"
+  eag_gambling:0 "Gambling"
+  eag_brahmin:0 "Brahmin"
+  eag_double_barrel_shotguns:0 "Double Barrel Shotguns"
+  eag_steam_cores:0 "Steam Cores"
+  eag_research:0 "Research"
+  eag_gauss_rifles:0 "Gauss Rifles"
+  eag_market_airships:0 "Airships"
+  eag_convoys:0 "Convoys"
+
+
+  # Unique Market Decicions
+  eag_unique_market_decisions:0 "Buying Unique Goods"
+
+  eag_water_chip:0 "Water Chip"
+  eag_geck:0 "G.E.C.K."
+  eag_geck_desc:0 "A Garden of Eden Creation Kit."
+  eag_vault_tech:0 "Vault Tech"
+  eag_mini_nuke:0 "Mini Nuke"
+  eag_advanced_electronics:0 "Advanced Electronics"
+  eag_zax:0 "ZAX Supercomputer"
+  eag_advanced_industry:0 "Advanced Industry"
+  eag_advanced_weapons:0 "Advanced Weaponry"
+  eag_plasma_weapons:0 "Plasma Weaponry"
+  eag_gauss_weapons:0 "Gauss Weaponry"
+  eag_implants:0 "Cybernetic Implants"
+  eag_vertibird:0 "Vertibird Schematics"
+
+  # Piracy
+  eag_piracy:0 "Piracy"
+  eag_pirates:0 "Pirates"
+
+  # Hiring Mercenaries
+  eag_hiring_mercenaries:0 "Hiring Mercenaries"
+  eag_hiring_mercenaries_desc:0 "Each §YMercenary Company§! that we hire will increase our expenses by §R-25.0§!k Passive Bottle Caps Income for a year."
+
+  eag_brotherhood_offshoots:0 "Hire Brotherhood Offshoots"
+  eag_brotherhood_offshoots_desc:0 "Over the many years she spent serving as a Paladin, Lieutenant Durand became disillusioned with the Brotherhood of Steel. They were supposed to protect the people of the wastes from the shortcomings of their ancestors by preserving knowledge and technology.\n\nHowever, she saw the Brotherhood as hypocrites, using the very thing they sought to destroy to subjugate the people of the wastes rather than helping them. She gathered like-minded Paladins, Knights, and Scribes in her chapter, and deserted the Brotherhood, becoming outcasts in search of a nobler cause."
+  eag_desert_rangers:0 "Hire Desert Rangers"
+  eag_desert_rangers_desc:0 "For years, the Arizonan Desert Rangers fought tooth and nail against the rising threat of Caesar's Legion in an attempt to preserve freedom and liberty in the wastes. However, they were ultimately unsuccessful and were defeated at the hands of the Malpais Legate.\n\nAfterwards, the remnants of the Desert Rangers were divided on what course of action they should take. Some integrated into the NCR, others stayed in Arizona, and Ranger Allaway fled North to build up the Rangers' strength in hopes that one day, they can avenge their fallen comrades."
+  eag_enforcers:0 "Hire Enforcers"
+  eag_enforcers_desc:0 "After instability tore his community apart, Dedrick became convinced that the harsh enforcement of laws at the street-level was necessary for a prosperous society. He gathered what he could from his crumbling hometown and along with remnants of the town guard they sold their services to countries who needed pacification in their cities.\n\nThey became well-known to dispense justice in their own way while wearing suits of metal armor and wielding blunt weapons. They've even at time clashed raider groups and small warlord armies in defense of smaller communites, for a price of course."
+  eag_robots:0 "Hire Robots"
+  eag_robots_desc:0 "Formerly part of a military robotics warehouse, E-22 awoke long after the Great War when the warehouse's power systems eventually failed. Without connection to the government's high command or given any sort of directives, E-22 had no specified course of action to take.\n\nWith this newfound free will, E-22 decided to rally the rest of the robots in the warehouse and set off into the wastes for some semblance of purpose, whether that be searching for remnants of the United States military or disptaching raiders harassing groups of settlers."
+  eag_wasteland_tanks:0 "Hire Wasteland Tanks"
+  eag_wasteland_tanks_desc:0 "Operator Ross knew that the Eighties could not take on the New California Republic. When he voiced his concerns to Flagman, he simply laughed and promptly kicked him out of the tribe. Fortunately, many others felt the same way he did and escaped the Eighties' senselessness.\n\nOperator Ross felt down on his luck, that is until he came across a prewar tank manufacturing center. He was able to cobble together unfinished tank parts and his scavenged vehicles to create hulking war machines, the Wasteland Tanks. Look who's laughing now, Flagman."

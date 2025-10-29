@@ -1,0 +1,90 @@
+﻿l_english:
+ nf_eagle_rock.1.t:0 "A Legacy of Aviation"
+ nf_eagle_rock.1.d:0 "Eagle Rock was founded after the Great War by members of the United States Air Force who were stationed in the numerous air bases in Colorado.\n\nAlthough Denver and the surrounding cities did suffer from nuclear bombardment, the Rocky Mountains served as a natural barrier to such destruction. The USAF remnantas tried to return to the city after the nuclear fallout had cleared, however, scavangers, most notably the Hangdogs, forced them out of the city.\n\nThis led to the survivors traveling West and building a community in the relatively protected town of Eagle Rock. As fate would have it, the town would have intact airfields that would later be used and maintained by the remnants."
+ nf_eagle_rock.1.a:0 "Aviation runs in our blood."
+
+ nf_eagle_rock.2.t:0 "The Town of Eagle Rock"
+ nf_eagle_rock.2.d:0 "When the USAF remnants arrived in Eagle Rock, the town wasn't entirely uninhabited. They were confronted by a group of settlers who were initially hostile towards them, but upon learning that they weren't raiders, allowed them to stay.\n\nInspired by the Free State secession movement before the Great War, this group made extensive preparations of canned food and arms, leading to them being able to survive the nuclear winter and subsequent raiders.\n\nDespite the anti-US government sentiment, the residents of Eagle Rock and the USAF remnants were able to come together with the common goal of survival in mind. They were even able to restore some semblance of democracy through the Eagle Rock town council.\n\nIn these early years, what did the community focus most of their efforts on?"
+ nf_eagle_rock.2.a:0 "Preparing scavenging expeditions."
+ nf_eagle_rock.2.b:0 "Rebuilding their town's infrastructure."
+
+ nf_eagle_rock.3.t:0 "Airship Primacy"
+ nf_eagle_rock.3.d:0 "When the residents of Eagle Rock began to construct aircraft of their own, they made the decision to prioritize the creation of blimps rather than conventional fixed-wing aircraft.\n\nThey figured that the wasteland's ruined infrastructure wouldn't be able to support fixed-wing aircraft due to them requiring large, flat runways. Additionally, airships were highly versatile and useful when their numbers were limited. They would be able to transport goods long distances, conduct aerial reconnaissance, and could even be used offensively.\n\nConstructing blimps, however, was a very resource and research intensive process. How much emphasis did we place on such construction projects?"
+ nf_eagle_rock.3.a:0 "A reasonable amount."
+ nf_eagle_rock.3.b:0 "A great deal."
+
+ nf_eagle_rock.4.t:0 "Airship Piracy"
+ nf_eagle_rock.4.d:0 "Our airship merchant expeditions were going fairly well, however, we have heard multiple reports of our airships being shot at by raiders or being hijacked when landing to trade. We must address this issue as fast as possible or else it will persist and make our trade expeditions very unprofitable!\n\nOur engineers have already suggested arming our airships and hiring mercenaries to protect them, so this is what we should immediately focus on.\n\n§RA ticking 60 day mission will continually remove manpower, stability, and war support unless this airship piracy comes to an end through completing certain national focuses.§!"
+ nf_eagle_rock.4.a:0 "Understood."
+
+ nf_eagle_rock.5.t:0 "New Canaan"
+ nf_eagle_rock.5.d:0 "Utah Trade Expedition Log —\n\nWe are already acquainted with the town of New Canaan along the coast of the Great Salt Lake in Utah. They have their sent Morman missionaries and caravans to surrounding towns, which includes Eagle Rock. However, we're far enough away that they aren't able to influence our populace too much.\n\nNevertheless, they will be good trade partners with our improved access to them. However, there are rumors of a potential danger from a tribe called the White Legs to their South. I worry that trade may be less profitable in the future if these rumors are true..."
+ nf_eagle_rock.5.a:0 "Acknowledged."
+
+ nf_eagle_rock.6.t:0 "Dog City"
+ nf_eagle_rock.6.d:0 "Colorado Trade Expedition Log —\n\nThis is most unfortunate.\n\nIt seems like the scavengers that kicked our ancestors out of Denver have only grown in strength. They now call Denver \"Dog City\", a disgrace to say the least.\n\nRegardless, trade with the Hangdogs is still profitable due to the riches they find across the city."
+ nf_eagle_rock.6.a:0 "Acknowledged."
+
+ nf_eagle_rock.7.t:0 "Flagstaff"
+ nf_eagle_rock.7.d:0 "Arizona Trade Expedition Log —\n\nCaesar's Legion: A vast empire that stretches from Arizona to New Mexico. They are constantly expanding, and Denver is one of their targets.\n\nThey deal with raiders and other dissidents with extreme brutality, which is good for us traders.\n\nTheir main resource at the moment seems to be the large amount of slaves they hold. The Legionaries assure me that their slaves aren't unnecessarily mistreated, but I have my doubts."
+ nf_eagle_rock.7.a:0 "Acknowledged."
+
+ nf_eagle_rock.8.t:0 "New Vegas"
+ nf_eagle_rock.8.d:0 "Nevada Trade Expedition Log —\n\nAs we approached Nevada during the night, we saw a spire of light and neon signs in the distance. As we drew nearer, we saw a bustling metropolis with mostly intact buildings and plently of traders.\n\nWelcome to New Vegas. The Silver City... or the City of Sin, depending on who you ask.\n\nThere are plently of goods to be bought here, but the main attraction are the countless casinos that line the Vegas Strip. However, rest assured, I've limited the amount of caps the crew can waste at such attractions."
+ nf_eagle_rock.8.a:0 "Acknowledged."
+
+ nf_eagle_rock.9.t:0 "Shady Sands"
+ nf_eagle_rock.9.d:0 "California Trade Expedition Log —\n\nAh, the New California Republic, a shining example of democracy in the wasteland. Or so it seems.\n\nWe arrived in Shady Sands after flying over large swathes of land dedicated to herds of brahmin. Good sources of meat and leather. They also have some rather extensive agricultural and industrial centers too.\n\nBut of course, nothing is ever perfect. Setting up a branch office here was a royal pain. I've never had to do so much paperwork in my life, never mind the exorbitant taxes."
+ nf_eagle_rock.9.a:0 "Acknowledged."
+
+ nf_eagle_rock.10.t:0 "Lone Star"
+ nf_eagle_rock.10.d:0 "Texas Trade Expedition Log —\n\nWell, I didn't expect Texas to be this much of a downright friendly place, although it is still somewhat strange in some cases.\n\nThere are a few good trade nodes here such as Houston and the TAA Estate, but the most impressive one is Lone Star. The city's population has outgrown the prewar infrastructure, so new buildings and roads have been built around the old city.\n\nLet's just hope this whole idea of a \"Provisional Texas Republic\" actually works out with the danger that is those super mutant armies down South."
+ nf_eagle_rock.10.a:0 "Acknowledged."
+
+ nf_eagle_rock.11.t:0 "Heaven's Gate"
+ nf_eagle_rock.11.d:0 "Idaho Trade Expedition Log —\n\nWell, it seems we've waltzed into some sort of a religious schism.\n\nSeveral factions are vying for power here, but it seems the one in control of most of the trade here is Heaven's Gate. We were able to set up a branch office, but we sorta had to accept their faith.\n\nPutting the whole schism thing aside, it's strange to see a community in the wastes using steam cores over fusion ones."
+ nf_eagle_rock.11.a:0 "Acknowledged."
+
+ nf_eagle_rock.12.t:0 "Gloria"
+ nf_eagle_rock.12.d:0 "Mexico Trade Expedition Log —\n\nAllegedly, the Republic of the Rio Grande is a prewar nation that still continues to survive in the nearly 200 years since the Great War.\n\nAs such, they have a solid political and, more importantly for us, economic base. Although we can't exactly speak Spanish—though some of our merchants are certainly trying to learn to barter more effectively—our branch office has been successfully set up.\n\nLet's just hope that freaky AI in the South doesn't cause too much trouble."
+ nf_eagle_rock.12.a:0 "Acknowledged."
+
+ nf_eagle_rock.13.t:0 "Bismarck"
+ nf_eagle_rock.13.d:0 "Dakota Trade Expedition Log —\n\nGoing North might not have been the brightest idea for the well-being of our airships. I've never heard them creak so much.\n\nNevertheless, we've arrived in the town of Bismarck. Seems like they have the knowledge to build, or at least maintain, powerful weapons known as gauss rifles. We've got to get our hands on some of those.\n\nAn interesting fact I found out though, a lot of the people here have ties to other continents outside of North America through their ancestors. I wonder how they've weathered the Great War."
+ nf_eagle_rock.13.a:0 "Acknowledged."
+
+ nf_eagle_rock.14.t:0 "The North End"
+ nf_eagle_rock.14.d:0 "Manitoba Trade Expedition Log —\n\nWell, it only gets colder up North.\n\nAnyways, we do have some rather interesting news. It seems the Republic of Three Rivers up here makes extensive use of airships just like us. We had virtually no problems setting up a branch office here.\n\nThis country, however, does seem to have some tension with a large kingdom to the  West. Hopefully things don't get too crazy up here."
+ nf_eagle_rock.14.a:0 "Acknowledged."
+
+ nf_eagle_rock.15.t:0 "New Victoria"
+ nf_eagle_rock.15.d:0 "Columbia Trade Expedition Log —\n\nOn our way here, we saw fleets of pirates roaming the Canadian Coast, which worried us as we certainly wouldn't be able to trade with them. Luckily, a constitutional monarchy here known as New Victoria has been holding firm against them.\n\nSeems they were having trouble trading with other countries as those pirates were plundering any vessel without remorse. A branch office would be a great opportunity, for both us and them."
+ nf_eagle_rock.15.a:0 "Acknowledged."
+
+ nf_eagle_rock.17.t:0 "Political Strife"
+ nf_eagle_rock.17.d:0 "Though Eagle Rock has enjoyed relative peace, discontent simmers beneath the surface.\n\nDoubts are growing about the legitimacy of the Council. Critics argue it no longer reflects the will of the people, with calls for a more open and democratic method of selecting its members.\n\nOthers go further, demanding the Council be scrapped altogether in favor of a strong, decisive leader. Their favored candidate? A fiery orator known only as 'The Air Marshal'—a man with dreams of conquest and a vision of a resurgent Colorado under Eagle Rock’s banner.\n\nIn the end, it was decided that..."
+ nf_eagle_rock.17.a:0 "...the Council would remain a voice of the people!"
+ nf_eagle_rock.17.b:0 "...commerce would lead us into tomorrow!"
+ nf_eagle_rock.17.c:0 "...we would raise our banners and reclaim the frontier!"
+
+ nf_eagle_rock.18.t:0 "Setting up Branch Offices"
+ nf_eagle_rock.18.d:0 "Establishing Branch Offices in trade nodes throughout the wasteland is vital to the prosperity of Eagle Rock. They will allow our airship merchants to better buy and sell Items and Resources for Eagle Rock.\n\nEach Branch Office that is set up will provide us with an extra Passive Bottle Caps Income of 5.0k plus the Trade Node's Level as well as unlocking certain focuses.\n\nBranch Offices can either be set up through on-map decisions or the scripted GUI in the decisions tab."
+ nf_eagle_rock.18.a:0 "Acknowledged."
+
+ nf_eagle_rock.19.t:0 "A Downturn in Piracy"
+ nf_eagle_rock.19.d:0 "Our efforts to militarize our blimps and hire mercenaries to prevent our airships from being attacked have been successful. It seems raiders don't stand a chance against our airships now."
+ nf_eagle_rock.19.a:0 "Acknowledged."
+
+ eag_uin_unification.1.t:0 "Unification Proposal"
+ eag_uin_unification.1.d:0 "We have received a unification proposal from [EAG.GetNameDef] in response to growing hostilities both at home in Utah and from across the Colorado. [EAG.GetNameDef] promised economic prosperity with the combination of their airship trading fleet and our natural resources. Our shared interests in aviation would also benefit from shared research and production methods."
+ eag_uin_unification.1.a:0 "We will accept [EAG.GetName]'s offer."
+ eag_uin_unification.1.b:0 "We will accept [EAG.GetName] into [UIN.GetName]."
+ eag_uin_unification.1.c:0 "This deal is not in our favor."
+
+ eag_uin_unification.2.t:0 "Unification Proposal Accepted"
+ eag_uin_unification.2.d:0 "[UIN.GetNameDefCap] has agreed to our unification proposal, promoting economic prosperity and better protecting our people from warmongering countries in the region. Efforts to combine our militaries and political systems have already begun with Strikes-True and other influential [UIN.GetAdjective] leaders being given seats on the Eagle Rock Council."
+ eag_uin_unification.2.a:0 "Excellent!"
+
+ eag_uin_unification.3.t:0 "Unification Proposal Refused"
+ eag_uin_unification.3.d:0 "[UIN.GetNameDefCap] have refused our unification proposal citing such a deal to be heavily favored against them. Nevertheless, [UIN.GetLeader] still emphasizes the importance of continued friendly relations, both economically and militarily."
+ eag_uin_unification.3.a:0 "Acknowledged."

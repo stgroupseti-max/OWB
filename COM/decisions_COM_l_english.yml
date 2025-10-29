@@ -1,0 +1,34 @@
+﻿l_english:
+
+COM_rg_police_force: "Provisional Intelligence Agency"
+COM_rg_police_force_desc: "A small nationwide task-force tasked with working with local departments to hold nationwide issues. As of late, they are tasked with hunting down the CPLA terrorists. However, limited funding allows for only seven full time agents."
+
+COM_og_police_force: "Commonweath Military Police Corps"
+COM_og_police_force_desc: "Instead of building a new agency for our police needs, we have decided to empower the existing Military Police structure. Stationed mostly within Red Deer, the Military Police will have to start expanding into the outlying regions if they wish to finally taken down the CPLA."
+
+COM_lha_police_force: "Project Omni"
+COM_lha_police_force_desc: "We have decided to hand over our duties for enforcing the peace to the League. In repsonse they have put into action Project Omni. It consists of a new robotic police force set to go nationwide and start combing for the CPLA."
+
+COM_WHC_occupation: "§3Whitecourt Occupation Governance§!"
+COM_WHC_occupation_desc: "The new Whitecourt Occupation Zone has brought forward the need for some oversight. The special zone will have its own local governing authority, wherein we will be able to direct the sources of funding. In addition, we will create a project of own for the region."
+
+COM_STA_occupation: "§3Greystable Occupation Governance§!"
+COM_STA_occupation_desc: "The new Greystable Occupation Zone has with it a new governing body. Now the people of the former territories of the Great Stampede will be given the chance for their voices to be heard. To achieve full integration, we must invest directly into the vast plains before any ballots can be casted."
+
+COM_MDM_occupation: "§3Calgary Occupation Governance§!"
+COM_MDM_occupation_desc: "The new Calgary Occupation Zone was founded in the ashes of the local tribals. We are now tasked with investing into the region with a new road system and a military defense force. The hope is that that this will, in time, lead to integration."
+
+COM_vault_tec_program: "Project Granite"
+COM_vault_tec_program_desc: ""
+
+com_territorial_management:0 "Territorial Management"
+com_cede_syn_to_cac:0 "Cede §Y[SYN.GetFlag] [SYN.GetNameDef]§!'s land to §Y[CAC.GetFlag] [CAC.GetNameDef]§!"
+com_cede_kam_to_cac:0 "Cede §Y[KAM.GetFlag] [KAM.GetNameDef]§!'s land to §Y[CAC.GetFlag] [CAC.GetNameDef]§!"
+com_cede_whi_to_cac:0 "Cede §Y[WHI.GetFlag] [WHI.GetNameDef]§!'s land to §Y[CAC.GetFlag] [CAC.GetNameDef]§!"
+com_cede_dre_to_cac:0 "Cede §Y[DRE.GetFlag] [DRE.GetNameDef]§!'s land to §Y[CAC.GetFlag] [CAC.GetNameDef]§!"
+com_cede_brk_to_cac:0 "Cede §Y[BRK.GetFlag] [BRK.GetNameDef]§!'s land to §Y[CAC.GetFlag] [CAC.GetNameDef]§!"
+com_cede_bel_to_cac:0 "Cede §Y[BEL.GetFlag] [BEL.GetNameDef]§!'s land to §Y[CAC.GetFlag] [CAC.GetNameDef]§!"
+com_cede_hai_to_cac:0 "Cede §Y[HAI.GetFlag] [HAI.GetNameDef]§!'s land to §Y[CAC.GetFlag] [CAC.GetNameDef]§!"
+com_cede_vic_to_cac:0 "Cede §Y[VIC.GetFlag] [VIC.GetNameDef]§!'s land to §Y[CAC.GetFlag] [CAC.GetNameDef]§!"
+com_close_category:0 "Close §YTerritorial Management§!"
+com_governing_new_lands_tt:0 "Unlocks £decision_icon_small §YDecisions§! to cede conquered Cascadian territories to §Y[CAC.GetFlag] [CAC.GetNameDef]§!"
