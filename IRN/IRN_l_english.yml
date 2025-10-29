@@ -1,0 +1,52 @@
+﻿l_english:
+  IRN_powderkeg_wars:0 "Secure the Territory of [FROM.GetNameWithFlag]"
+  IRN_assist_lanius:0 "Assist [LAC.GetLeader] with Fighting [FROM.GetNameWithFlag]"
+
+  irn_focus:0 "Echoes of the Forge"
+  irn_focus_desc:0 "The iron speaks, and we listen. Through fire and hardship, our path is revealed—not by prophecy, but by pressure and flame. The Disjunction changed the world, but it also revealed it; what we lost in fire, we may recover in steel."
+
+  irn_plaguelands_1:0 "Whispers of the Plaguelands"
+  irn_plaguelands_1_desc:0 "The muses grow quiet as we look northward. Something deeper than death hangs over that land—scarred not by war alone, but by a silence that rejects even the spirit. If the Disjunction touched that place, it did not bless it."
+
+  irn_plaguelands_2:0 "Trade with the Last Redoubt"
+  irn_plaguelands_2_desc:0 "Beyond the Cordon Solitaire lies the Last Redoubt, a lone voice on the edge of the silence. Here, behind ancient barriers meant to trap the Disjoined, trade flows cautiously. Even our muses fall silent in its shadow, but still we endure, drawn by the iron pulse of distant roots."
+
+  irn_houndlands_1:0 "Calamity Beyond Denver"
+  irn_houndlands_1_desc:0 "The Hangdogs now rule the ashes of Denver, and from that ruin, caravans and strangers flood our gates. They bring coin, culture, and chaos. We hear their stories of ghosts and ruin—whispers of Disjoined souls that still prowl the highways."
+
+  irn_houndlands_2:0 "Trade with the Baggers"
+  irn_houndlands_2_desc:0 "They call themselves Baggers, hailing from the NCR heartland—orderly, skeptical, and heavy with gold. They scoff at our rites and refer to the Disjunction as mere superstition, calling it the 'Great War.' But gold is gold, and their caravans are welcome—so long as they pay tribute to iron."
+
+  irn_new_sterling_1:0 "New Sterling, City of Flame"
+  irn_new_sterling_1_desc:0 "Housing a great forge once claimed by the mythical Menace from the West, New Sterling is more than our capital—it is our crucible. The Acme Forge lives again, and from it we shape our legacy in fire and steel. Some say the forge is haunted—but we say it’s *awakened*."
+
+  irn_new_sterling_2:0 "Temples of the Iron Cult"
+  irn_new_sterling_2_desc:0 "Within the hissing pipes and ringing anvils, the Iron Cult hears muses sing. They have carved temples from old workshops and sanctified smelters with oil and soot. The spirit of the forge speaks through flame, and the Disjunction's echo guides our hands like an unseen smith."
+
+  irn_livewires_1:0 "Contact with the Live Wires"
+  irn_livewires_1_desc:0 "Eastward, the Live Wires rise—a Reaver Movement born of pain and invention. Now they seek to build. Their reverence for circuitry mirrors our own for steel, and their tales of the Whachutu Shaman echo myths once told by our elder wanderers."
+
+  irn_livewires_2:0 "Shared Myths, Shared Metal"
+  irn_livewires_2_desc:0 "The Live Wires believe in the Disjunction, just as the Iron Cult does. Their shamans speak of machine-spirits and broken skies, just as our own do. Between us, perhaps a future can be forged—one of luminous schematics, whispering muses, and iron communion."
+
+  irn_help_the_legion:0 "Arms to Flagstaff"
+  irn_help_the_legion_desc:0 "The Legion calls for steel. Though they disdain technology, warlords cannot afford to ignore efficiency. Our muses scoff at their superstition, but our forges do not discriminate—so long as their coin glints like steel, we will feed their war."
+
+  irn_blackrock_federation:0 "Join the Blackrock Federation"
+  irn_blackrock_federation_desc:0 "The Blackrock Federation claims the mesas and canyons to our west. Though their vision is peace, they know peace must be armed. The Iron Cult sees promise in their diplomacy; perhaps in unity, the muses will find new vessels to bless."
+
+  irn_powderkeg:0 "The Powderkeg Ignites"
+  irn_powderkeg_desc:0 "The west stirs, greedy for our strength and envious of our muses. Let them come. If the Disjunction taught us anything, it is that chaos births new order—and we are the hammer to shape that fire-born future."
+  irn_powderkeg_tt:0 "Unlock §Ydecisions§! to get claims on and wargoals against §Y[WHD.GetNameWithFlag]§!, §Y[BAG.GetNameWithFlag]§!, and §Y[LUM.GetNameWithFlag]§!."
+
+  irn_iron_legion:0 "The Iron Pact"
+  irn_iron_legion_desc:0 "The Legion hungers, and we feed that hunger—not with ideology, but with alloy. In Flagstaff, they may worship Mars. But here, they pay homage to Iron, and the spirits that dwell within it—whether they believe or not."
+
+  irn_deal_with_new_epsilon:0 "Midwestern Trade"
+  irn_deal_with_new_epsilon_desc:0 "Through the Live Wires, the old roads to Epsilon open once more. From the ashes of Kansas to the Midwestern bastions, our forges now speak across great distances—if not in voice, then in trade. The spirits of the forge recognize their kin in those distant lands."
+  irn_deal_with_new_epsilon_funny:0 "§gBulleteater once looked east from New Sterling and saw... nothing — just a thousand miles of busted fences, dead highways, and the faint scent of boiled corn. 'Isn't that peculiar,' he muttered, 'You'd think someone would've finished the map by now.'§!"
+  irn_our_own_path:0 "Journey to the Plaguelands"
+  irn_our_own_path_desc:0 "New Sterling was never meant to be the end—for Bulleteater, the journey stretches north, into lands choked by silence and scarred by plague. He speaks little of what drives him, only that the muses whisper still from within the storm.\n\nLet this be his pilgrimage—not to reclaim, but to confront. If the Disjunction left something buried there, he will face it, clad in iron and guided by fire."
+
+  irn_platte_trade_league:0 "Guardians of the Platte"
+  irn_platte_trade_league_desc:0 "To the west lies the Platte Trade League, a fragile web of merchants. Their weakness invites war—but if we offer them steel, and sanctuary, we may build peace instead. The forge remembers every strike, and if the Disjunction broke the world, perhaps trade will mend it."

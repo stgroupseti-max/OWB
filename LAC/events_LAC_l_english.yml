@@ -1,0 +1,422 @@
+﻿l_english:
+  has_turned_down_dianas_offer_tt:0 "§RHas rejected the light.§!"
+  doesnt_have_war_with_neighbor_tt:0 "Does not have §Rwar§! with a §Yneighbour§! country."
+  nf_lanius_ces_relations.1.t:0 "Caesar's Orders"
+  nf_lanius_ces_relations.1.d:0 "Four months ago, Caesar summoned Lanius to appear within his tent-citadel at Flagstaff. There, he gave an important order to the renowned Legate.\n\n\"Lanius, I need you to take Dog City. I'm going to need the wealth that Denver has to offer if I am to cross the Colorado and take the dam.\nI'm going to entrust you with a handful of cohorts and trust that in five years, you will accomplish this mission. Take any longer and I am going to consider you a failure and mark you for death as anyone who has failed me would.\nShow those profligates no mercy.\""
+  nf_lanius_ces_relations.1.a:0 "\"Yes, my Caesar.\""
+  nf_lanius_ces_relations.1.a.tt:0 "[CES.GetFlag]§YCaesar§! has given [LAC.GetFlag]§YLanius§! a direct order to conquer [HAN.GetFlag]§YDog City§! and return before §YJanuary 1st, 2280§!.\nIf that date passes and [LAC.GetFlag]§YLanius§! still has not accomplished this he will be branded as a §Rtraitor and marked for death, causing Lanius's Cohort to leave the faction.§!"
+
+  nf_lanius_ces_relations.2.t:0 "The Faithful Butcher"
+  nf_lanius_ces_relations.2.d:0 "Four months ago, Caesar summoned Lanius to appear within his tent-citadel at Flagstaff. There, he gave an important order to the renowned Legate.\n\n\"Lanius, I need you to take Dog City. I'm going to need the wealth that Denver has to offer if I am to cross the Colorado and take the dam.\nI'm going to entrust you with a handful of cohorts and trust that in five years, you will accomplish this mission. Take any longer and I am going to consider you a failure and mark you for death as anyone who has failed me would.\n\nShow those profligates no mercy.\""
+  nf_lanius_ces_relations.2.a:0 "My Will Be Done."
+  nf_lanius_ces_relations.2.a.tt:0 "[CES.GetFlag]§YCaesar§! has given [LAC.GetFlag]§YLanius§! a direct order to conquer [HAN.GetFlag]§YDog City§! and return before §YJanuary 1st, 2280§!.\nIf that date passes and [LAC.GetFlag]§YLanius§! still has not accomplished this he will be branded as a §Rtraitor and marked for death, causing Lanius's Cohort to leave the faction.§! \n\nCaesar can provide Lanius with equipment and manpower, but will not control Lanius directly due to the distances involved."
+
+
+  nf_lanius_ces_relations.3.t:0 "The East No Longer Answers"
+  nf_lanius_ces_relations.3.d:0 "Lanius was sent to subjugate the East, and subjugate it he did—swiftly, brutally, and without mercy. But now, when the time has come to return the fruits of that conquest, he has instead sent us a wooden crate filled with soil and a jug of river water. Nothing else.\n\nA second courier came days later bearing a parchment marked with blood. In it, Lanius writes only: 'Let these suffice. If you wish for more, take it with your own hands.'\n\nThis is not rebellion in the manner of cowards or traitors. This is something stranger—colder. As if he no longer speaks the language of command, but of ritual and dominion. We do not yet understand what he has become."
+  nf_lanius_ces_relations.3.a:0 "Concerning."
+
+  nf_lanius_ces_relations.4.t:0 "The East Hangs Quiet"
+  nf_lanius_ces_relations.4.d:0 "Caesar bid Lanius bring New Mexico and Arizona to heel—and now the deserts whisper only His name. The streets of Albuquerque run red with history, and every cross that lines the roads into Tucson bears the weight of defiance broken.\n\nNo city stood twice. No warband rose again. With a mailed fist and wordless wrath, Lanius razed resistance and sewed obedience into the soil. Now, with the East pacified, he returns not in triumph, but in silence. A weapon, sheathed only when Caesar commands.\n\nSome feared he might grow wild, unbound by Flagstaff's firelight. But what is a blade without a hand to wield it? He kneels. And so the East kneels with him."
+  nf_lanius_ces_relations.4.a:0 "He has done as commanded. He will again."
+
+
+
+
+  nf_lac.2.t:0 "Loyal Reinforcements"
+  nf_lac.2.d:0 "Lanius's rallying cry has not gone unanswered! From across the pretender's lands, loyal soldiers have come flooding in to support our righteous cause, fed-up with Caesar's old lackies and their devotion to the interloper. Many among their ranks are seasoned veterans, and they bring with them hordes of legionaries willing to fight for what's right.\n\nBut that's not all they bring with them, with the advancing armies comes news of dastardly schemes being laid out by the new leader of Flagstaff; plans for supposed progress and stability. We see through his lies! This dimensional demon hiding within the skin of man seeks to rid the earth of the righteous embrace of Mars, and we shall have no part in it!\n\nRather, we will die fighting against it!"
+  nf_lac.2.a:0 "Caesar may be gone, but his followers remain."
+
+  nf_lac.3.t:0 "The Legacy of Caesar"
+  nf_lac.3.d:0 "Caesar was a wise man gifted to us by Mars, a scholar who used his knowledge to revolutionize the art of war and take Arizona in his hands. He conquered tribe after tribe in seemingly impossible fashion as if it were as easy as breathing... and we mourn his loss each day.\n\nBut in his absence we still retain his knowledge, his tactics, and his faith in us; his ever loyal legions. With his advanced understanding of war drilled into the hearts and minds of our soldiers, how could we lose? We will conquer, conquer, and conquer some more... we'll turn the whole Wasteland red with blood and the banner of Caesar's Legion!"
+  nf_lac.3.a:0 "He taught us well, and we would do well to remember."
+
+  nf_lac.4.t:0 "The Pen or the Sword?"
+  nf_lac.4.d:0 "Long has the Legion grappled with the reality of our military inferiority in the face of advanced technology. We bested the Brotherhood once in Arizona, but our losses were many, and some amongst us cried out in anger at Caesar's seeming indifference to our suffering. They were crucified. But now with Caesar gone we need ask ourselves; is our way of life truly right?\n\nWhile Caesar was right to criticise the Old World's over-reliance on advanced technology, and his thesis on its downfall as a result is resolute, are we not the perfect society to arm itself with the trappings of America's corpse?\n\nOthers might exploit such riches, we would surely use them properly... but on the other hand, none but us could achieve the perfect balance between advanced weapons and traditional living. If we abandon our principles, are we sullying Caesar's legacy?\n\nThe question facing us is one as old as written history... the pen, or the sword?"
+  nf_lac.4.a:0 "§RThe sword!§!"
+  nf_lac.4.b:0 "§OThe... pen?§!"
+
+  nf_lac.5.t:0 "A Mere Book Signing"
+  nf_lac.5.d:0 "§bThere's a man in front of you. He's telling you about a book, but you feel like you know him. \"I'm a priest of Mars\" he tells you, his body shuddering beneath a deep red robe. \"We've long advocated for the adoption of The Pen. The time is right, so why not pick It up, and write your name in the annals of history?\"\n\nYou look down at the book he's put on the table. It doesn't look like a history book, but you've never read a book, so who are you to judge? You feel something alien in your hand. It's The Pen. You look at it curiously, then look at the man. \"It can be difficult to Write, can't it? Do you know how to spell your name?" You nod. You've known your name since you were born, obviously.\n\nHe opens the book for you, how nice of him. He guides you to the right page, right where you need to write your name. Your men look at you curiously, expectantly, hungrily. They want you to do this, to do something. It's been difficult since the Kaiser arrived, things feel off somehow. The air tastes more alive, you think.\n\nThe book is looking up at you in the room. You don't look like the Son of Mars, but it doesn't know about religion, so what would it know? All it knows is that you need to write in it NOW.\n\nDo you remember what to write?§!"
+  nf_lac.5.a:0 "§R...§!"
+  nf_lac.5.b:0 "§R...§!"
+
+   nf_lanius.1.t:0 "The Beast of the East"
+   nf_lanius.1.d:0 "Lanius was the greatest warrior of the Hidebarks, one of the greatest foes the Legion face. Or was he born a slave, whose natural talents let him become a legionary at the age of 12? Is it true that he slaughtered all the males of his tribe? Or were they assimilated into the Legion? Only Caesar and Lanius know for sure, and they aren't talking. What is undeniable is that Lanius is among the greatest leaders of the Legion. Some call him a savage brute, but there may be more to the man behind the mask than they know..."
+   nf_lanius.1.a:0 "He is a natural leader of men."
+   nf_lanius.1.a_tt:0 "\nLanius is Charismatic"
+   nf_lanius.1.b:0 "He moves like the wind."
+   nf_lanius.1.b_tt:0 "\nLanius is Agile"
+   nf_lanius.1.c:0 "Some are born lucky. Lanius was lucky to be born."
+   nf_lanius.1.c_tt:0 "\nLanius is Lucky"
+   nf_lanius.1.e:0 "Some wonder whether he is smarter than Caesar himself...."
+   nf_lanius.1.e_tt:0 "\nLanius is Intelligent"
+
+   nf_lanius.2.t:0 "Swift, Honest, Purchased With Blood"
+   nf_lanius.2.d:0 "The Legion's resources are vast, but not infinite. Lanius had to choose who to bring with him to the east. Some said the strongest, skilled with firearms. Some said a horde of fanatics, ready to kill and be killed. And some said the swiftest. But the decision was Lanius' alone."
+   nf_lanius.2.a:0 "A well equipped expedition."
+   nf_lanius.2.b:0 "The survivors will gain skill."
+   nf_lanius.2.c:0 "The chariots thunder across the plains."
+
+   nf_lanius.3.t:0 "Forging A Vast, Razor-Sharp Scythe. "
+   nf_lanius.3.d:0 "When Lanius occupied Fort Summers, he had to decide what to do with its inhabitants of this spirited little village."
+   nf_lanius.3.a:0 "Form them into a army of slaves."
+   nf_lanius.3.b:0 "Steal their riches and seize their fortunes."
+
+   nf_lanius.4.t:0 "Woe to the Vanquished!"
+   nf_lanius.4.d:0 "The Lambda Tribe of New Mexico were enslaved without mercy, much like the Hidebarks were. To show his victory, Lanius named their chief village the Staging Grounds. As for the tribe itself?"
+   nf_lanius.4.a:0 "Behold, more slaves!"
+   nf_lanius.4.b:0 "They joined the Legion's ranks."
+   nf_lanius.4.c:0 "They were taught the virtue of industria."
+
+
+
+   nf_lanius.6.t:0 "Turning The Page"
+   nf_lanius.6.d:0 "The monasteries of Santa Fe have fallen; the bones of Leibowitz are ash. And yet... there is a lot of learning in this place, hallowed tomes which are worth studying. The monks have hoarded not just the words of their dead god, but books on crafting, healing, and more. And even their scrivenings, of a carpenter and another Caesar, may be worth studying. "
+   nf_lanius.6.a:0 "How can one be a fisher of men?"
+   nf_lanius.6.b:0 "Let the monks serve the Legion."
+
+
+   nf_lanius.7.t:0 "Raiders of the Lost Vault"
+   nf_lanius.7.d:0 "Plainsrunners grew fat upon the loot of the Executives, but Lanius' conquest left him with a choice. He could take their slave population for his own, and direct them to farm the banks of the Pecos for the Legion. Or he could preserve the Executives in a position of honour, that they might use their arts for the Legion."
+   nf_lanius.7.a:0 "We have no need for metal men."
+   nf_lanius.7.b:0 "We can find more slaves elsewhere."
+
+   nf_lanius.8.t:0 "Magics"
+   nf_lanius.8.d:0 "Roswell's settlers did not tell us by what means their tools and spells worked,. Perhaps we can learn their secrets by raiding the temple of Ef-Bee-Eye?"
+   nf_lanius.8.a:0 "Strip the place for metal."
+   nf_lanius.8.b:0 "Scavenge the rare metals."
+
+   nf_lanius.9.t:0 "The Fruits of Victory"
+   nf_lanius.9.d:0 "The Mescalero survived the Great War on the heart of the Mescal plant, and quenched their thirst on the sweet fruit of the yucca tree under the burning sun. They prospered despite the Great War and its aftermath, forging a home in the Wasteland. \n\nNow the survivors tended their orchards under the eyes of the Legion, another in the line of their would-be conquerors. But Lanius would learn much from his foes, and even the Mescalero's former leader Lozen would admit he was not without  wisdom. For the Beast from the East believed imitation was the sincerest form of flattery."
+   nf_lanius.9.a:0 "The Apache's nomadic ways will serve us well."
+   nf_lanius.9.b:0 "We can learn much from their warriors."
+
+
+   nf_lanius.10.t:0 "The Land of Heart's Desire"
+   nf_lanius.10.d:0 "Before the War, some called New Mexico the Land of Enchantment. But Lanius thought of it by an older name. Lanius learned to fight and conquer in Arizona; but it was in New Mexico he learned to rule. \n\nIt was not enough to crush an enemy in battle. Lanius learned what came after. Butchering a town would leave no one to feed the Legion; and slaves could not glory in his conquests. To that end, Lanius took the collar from Colorados' neck, and let the Executives' craftsmen forge new guns for the Cohort. And over time, the thoughts behind his mask began to change."
+   nf_lanius.10.a:0 "Building, like conquest, has a pleasure of its own."
+   nf_lanius.10.b:0 "But that cannot happen if they still resist."
+
+   nf_lanius.11.t:0 "All Exist to Test the Strength of the Legion"
+   nf_lanius.11.d:0 "For generations the tribe of the Painted Rock had painted history upon it, telling of their glories and triumphs. Lanius looked at it, the tales of hopes and fears, terrors and triumphs, without comment. After a moment, he looked at the man who knelt before him. 'Which of that blood, Dyed Blood, is your own? And which was from the Legion?' The man remained silent. 'Do not despair at your defeat, for you will be purified into something greater. Your men fought well and honourably, and shall find a new life! Your warriors have earned a place in my army; you shall serve us as part of something greater. And like me, you will look back, years from now, and wonder at how much of your life you wasted.' \n\nAs they watched, Legionaires poured red paint upon the rock. the history of a people vanished beneath the tide of red."
+   nf_lanius.11.a:0 "Arise, sons of Mars!"
+
+
+   nf_lanius.12.t:0 "Counting Down"
+   nf_lanius.12.d:0 "'So this is the home of the Brotherhood?' asked Lanius. 'A hole in the ground, where they can hide from an honorable combat?' Lanius walked forward. 'Paladin Andrea! I know you can hear me, and I know you think you can outlast us. And perhaps, in another time, you might be right.' Lanius' mask remained motionless as he continued. 'We have found the tubes that bring air into your bunker. Too small for any of us, perhaps. But even as we speak, a gas is seeping into your bunker. Can your sons and daughters survive that? Or will you end your days with the corpses of your children, waiting for your suits to grow cold and take you too. Make your choice.'"
+   nf_lanius.12.a:0 "They will find new lives in the Legion."
+   nf_lanius.12.b:0 "Oh, we aren't stopping the gas."
+
+   nf_lanius.13.t:0 "Equal Rites"
+   nf_lanius.13.d:0 "Great Caesar has never allowed women to serve as warriors, restricting their roles to healers, midwives, and scribes. But in his conquest of the East, Lanius has conquered many warrior women: Lozen of the Mescalero; Morrison of the Summer; and Brixley of the Brotherhood. They have fought at least as well as the tribes of Arizona, and there is no shame in falling to the Legion. Perhaps, wonders Lanius, he can use women for other roles? But as scouts? Spies, who do not pass word of Lanius' doings to Vulpes? As honoured scribes, who fight with words instead of weapons?"
+   nf_lanius.13.a:0 "Caesar would never condone this!"
+   nf_lanius.13.b:0 "Lanius shall have his Ministras."
+
+   nf_lanius.14.t:0 "Judgment in Dog City"
+   nf_lanius.14.d:0 "Night has fallen on Denver, but you would not know it. The fires rise high, painting the ruins in gold and crimson, casting long shadows that dance like spirits of the slain. Beneath the shattered overpasses and the blackened towers of Dog City, the light of the blaze gleams across the mask of Lanius.\n\nHe says nothing as he wipes blood from the edge of his battered bumper sword, its weight still warm with death. Around him, the sounds of battle fade into cries and whimpers—dogs without masters, men without tribes.\n\nDragged before him are the last of the Hangdogs. They fought like animals cornered, and now they kneel like them too—trembling, panting, staring up at the figure who unmade their world. Their loyalty, though twisted, was absolute. It could yet be forged anew in Caesar’s image… or ground out entirely beneath the yoke."
+   nf_lanius.14.a:0 "Their devotion will be reshaped. Let them serve as beastmasters."
+   nf_lanius.14.b:0 "The leash is too good for them. Enslave the remnants."
+
+   nf_lanius.15.t:0 "The Legend of the Butcher"
+   nf_lanius.15.d:0 "Lanius has returned to us! If only for a while. He went to the Apache. He besieged Roswell. He crossed Vault-Tec. And the Apache fell! And Roswell was sacked! And the vaults were broken! This is a great day for the Legion, and if some of Caesar's followers are concerned about the Eastern Cohort, well, Caesar will keep him in line. \n\nAs long as he lives. "
+   nf_lanius.15.a:0 "Remember, you are mortal."
+
+
+   nf_lanius.16.t:0 "A Dog for a King"
+   nf_lanius.16.d:0 "We have found a faithful companion, who we shall call Rex. For is this dog not a king of his breed? He is a good boy, a very good boy. Yes he is!"
+   nf_lanius.16.a:0 "If anyone asks, he sleeps with me for protection."
+   nf_lanius.16.b:0 "Perhaps Caesar can use a companion?"
+   nf_lanius.16.b_tt:0 "This will lower Caesar's stress."
+
+
+   nf_lanius.17.t:0 "The Treasure of Dog City"
+   nf_lanius.17.d:0 "Lanius has sent us a mighty ally from Dog City, a majestic hound he calls Rex. We shall honour Rex, and let him have the finest scraps from our table. (And perhaps seconds)."
+   nf_lanius.17.a:0 "You could learn from him Vulpes."
+   nf_lanius.17.a_tt:0 "This will lower Caesar's stress."
+
+   nf_lanius.18.t:0 "More Plunder!"
+   nf_lanius.18.d:0 "Is there any place Lanius can't conquer? What started as a small expedition has snowballed into the birth of an empire! Wait... aren't we already an empire? That's somewhat concerning."
+   nf_lanius.18.a:0 "It's fine, right?"
+
+
+   nf_lanius.19.t:0 "The Duel of Fates"
+   nf_lanius.19.d:0 "The blade stood poised at Shale's throat, the mask impassive. Blade against blade, blow for blow, Lanius beat the super-mutant warlord into submission, in a fight that would only grow in the telling. 'There is no shame in falling,' declared the Legate. 'Many graves in the East are filled with those with those who stood against me. Must I dig another?'  The super-mutants who watched their leader's next words would debate what happened next. Was Shale quiet? \n\nOr was it the loudest noise they had ever heard?"
+   nf_lanius.19.a:0  "Welcome to the Legion, Prodigium."
+
+
+   nf_lanius.20.t:0 "Don't Change that Channel!"
+   nf_lanius.20.d:0 "And now ladies and gentlemen, let's give you an update on how those rebels against the Legion are faring, and ooh, it looks like another one has died on a cross! Truly, given the fate that awaits all who oppose Lanius, who would dare challenge his rule? And coming up next, we'll have a gladiator match between two tribals. Only one of them will be worthy of a role in the Legion, and who will be! But first, a word from our sponsors."
+   nf_lanius.20.a:0  "Perhaps this was a mistake."
+
+   nf_lanius.21.t:0 "Caesar's Will is Made Truth Through Me"
+   nf_lanius.21.d:0 "Caesar's death shows what we knew all along; that even a god can die. Now his followers back west fight for the scraps, and we must decide what to do. We could help any of them, save Vulpes, whose treachery is no way to rule. But perhaps we should let them fight amongst each other? The Legion needs strength, and we could make the grave mistake of putting a weak ruler in place if we intervene.."
+   nf_lanius.21.a:0  "Malpais, my old friend."
+   nf_lanius.21.b:0  "Aurelius' ferocity will prevail."
+   nf_lanius.21.c:0 "Lucius knew Caesar best."
+   nf_lanius.21.e:0 "Let them prove their strength!"
+
+
+   nf_lanius.22.t:0 "True to Caesar"
+   nf_lanius.22.d:0 "[LAC.Getleader] has sent aid to help us in the Civil War! With his assistance, we will surely prevail. Although some in our council would have preferred direct intervention, it is probably best to keep the Butcher away from our holdings, lest his aid become orders."
+   nf_lanius.22.a:0  "Ave!"
+
+   nf_lanius.23.t:0 "To the End of the World"
+   nf_lanius.23.d:0 "It is said that when Lanius reached the Gulf, he wept, for there were no more worlds to conquer. Our loyal servant has completed his task, and brought the east under the banner of the Bull. Brotherhood weapons, Roller Girl slaves, and Tubehead tehcnicians pour into Flagstaff as tribute, and we honour him with a triumph. \nBut some whisper that perhaps the Butcher has grown too powerful. Surely we have nothing to fear, right?"
+   nf_lanius.23.a:0  "Remember, you are mortal."
+
+
+   nf_lanius.24.t:0 "The Father and the Son"
+   nf_lanius.24.d:0 "The triumph had been spectacular, with all the plunder of the east stretched before the Legion. The former head of the Alamo Chapter, paraded in chains, the wagons of treasure pulled by super mutants... it was enough to take one's breath away. But in a tent with Caesar, Lanius felt free to speak his mind. 'The East was a hard-fought campaign. Even now, you draw too much of the Legion's blood needed there for Vegas. The Legion does not need Hoover Dam, or California. We can strike south, into Mexico. We can finish the Texans. Or we can bide our time for a couple of years, and strike for Chicago, at the last of the Old World!' \n\nLanius never spoke of Caesar's reaction, but it was undisputed that in the months to come, more advisors came east. Not just frumentarii; but technicians, scribes, those who could turn the East from a frontier into an empire. The Legion was here to stay."
+   nf_lanius.24.a:0  "We have seized it in our jaws and will not let go."
+
+
+   nf_lanius.25.t:0 "The Fate of the Legion"
+   nf_lanius.25.d:0 "Lanius mourned Caesar's death, but his passing gave new opportunities and raised questions. What right did [CES.GetLeader] have to rule the Legion? Lanius carved an empire in the East, but now [CES.GetLeader] thought he was a successor to Caesar? There would have to be some changes. At the very least, we will cease paying tribute to Flagstaff, although we honour the Legion. At most, should we not lead the Legion?"
+   nf_lanius.25.a:0  "End The Tribute."
+   nf_lanius.25.b:0  "Demand Tribute."
+   nf_lanius.25.c:0  "The Legate Shall Lead."
+
+   nf_lanius.26.t:0 "Render Unto Caesar"
+   nf_lanius.26.d:0 "[LAC.GetLeader] has demanded that he cease paying tribute to Flagstaff, although he will remain our ally. This will hurt us, but do we dare to go to war to fix this?"
+   nf_lanius.26.a:0  "End the tribute."
+   nf_lanius.26.b:0  "He's as mad as the dogs of Denver. Let's put him down."
+
+   nf_lanius.27.t:0 "The Equal of the West"
+   nf_lanius.27.d:0 "[CES.GetLeader] has agreed to our demands. Henceforth, we shall rule as equals. Let [CES.GetLeader] have the west; it is in the East where the Legion paint its name in red across the course of history."
+   nf_lanius.27.a:0  "To the victor!"
+
+   nf_lanius.28.t:0 "The Hubris of [CES.GetLeader]"
+   nf_lanius.28.d:0 "[CES.GetLeader] mocks our conquests, thinking they bear Caesar's mantle just because they sit in Flagstaff. They now claim we must pay tribute to Flagstaff as we are are slaves instead of comrades in arm for the Legion. So be it. Let us march west, and toss [CES.GetLeader]'s name into the Grand Canyon. Let his strike his name from the Legion's rosters. Let us make his world die."
+   nf_lanius.28.a:0  "All Exist to Test the Strength of the Legion"
+
+
+   nf_lanius.29.t:0 "The Turn of the Wheel"
+   nf_lanius.29.d:0 "Lanius controls a vast empire, stretching from Colorado to the Gulf. Now he suggests that the Western Legion should pay him for 'protection' against nebulous, unnamed threats to the east. Lanius claims mad machines lurk in the dark; ghosts of the eagle, who wish to pick the world clean; and a brotherhood. (We're fairly convinced he ran out of ideas when he said there's another one of those). We can give into Lanius' demands, given the size of his army, or we can shoot him like the cur he is. What will it be?"
+   nf_lanius.29.a:0  "The better part of valour is discretion."
+   nf_lanius.29.b:0 "Let him try to butcher us."
+
+   nf_lanius.30.t:0 "The West Folds"
+   nf_lanius.30.d:0 "[CES.GetLeader] has recognized that the Legion belongs to the strongest. Although they can serve as our viceroy in the west, dominion over the Bull now belongs to us! The riches of the West shall adorn our new capital, and we can prepare to drive on the Missisissipi.  \n\nFor there are yet more worlds to conquer."
+   nf_lanius.30.a:0  "Imagine thinking the Mojave mattered."
+
+   nf_lanius.31.t:0 "The Wayward Brother"
+   nf_lanius.31.d:0 "[CES.GetLeader] refused our request. I guess we must march to Flagstaff ourself and restore the unity of purpose that Caesar brought."
+   nf_lanius.31.a:0  "I come not to bring peace, a sword."
+
+
+   nf_lanius.32.t:0 "Lanius Demands We Kneel"
+   nf_lanius.32.d:0 "Lanius demands that we become his puppet and dance to the strings of a butcher. This is almost as offensive as the size of his well trained Legion. What shall we do? "
+   nf_lanius.32.a:  "We served Caesar, we can serve another."
+   nf_lanius.32.b:0 "Who is he, to command us?"
+
+   nf_lanius.33.t:0 "The Hidden Folk"
+   nf_lanius.33.d:0 "Via interrogation of former board members of the Blue Rose Society, Lanius was eventually able to grasp the location of one prominent location of note. A vault - one that was unfinished before the Great War, but one that was, at one point settled since then.\nIt was known as "Vault 86-b" on their heathen maps.\n\nIn military tactics, Vaults have always been a simple conquest, solitary in nature, lazy in demeanor and foolish enough to believe that their iron walls would keep Mars at bay.\nWe were finally directed to the location of the vault following the guidance and directions of the board member.\nAgainst Lanius's expections, rather than finding a vault filled with lazy profligates for slaughter they instead found an empty husk! what was left was a painted series of empty corridors, the vaults iron hallways coated in an undecipherable and alien profligate script, the usual written word mutated into a code of strange cryllic characters. Before Lanius executed him, the Board Member was able to translate one of the words when pressed, stating that the inhabitants of the vault were known as the \"Esiibii\"."
+   nf_lanius.33.a:0 "It was a waste of time to come here."
+
+   nf_lanius_vulpes_scheme.1.t:0 "Schemes in the Dust"
+   nf_lanius_vulpes_scheme.1.d:0 "Vulpes Inculta, the fox hidden in the underbrush, offers his aid to Lanius's new cohort. Where Centurion Paulus faltered in the advance toward Denver, Vulpes believes subtlety and subterfuge may ensure success.\n\nThough his methods run counter to Lanius’s creed of open war, the Legate must decide if Caesar’s will is best served by steel alone—or if, this once, the dagger may clear the path for the sword."
+   nf_lanius_vulpes_scheme.1.a:0 "§RLet the fox scheme as he wishes.§!"
+   nf_lanius_vulpes_scheme.1.b:0 "§gGet out of my sight, trickster.§!"
+
+   lanius_has_vulpes_support:0 "Lanius accepted [CES.GetFlag] Vulpes's help."
+   lac_has_sent_frumentarii_north:0 "[CES.GetFlag] Vulpes sent his frumentarii north to New Sterling."
+
+   vulpes_will_help_us_during_our_campaign_tt:0 "§R[CES.GetFlag] Vulpes will assist our campaign! Occasionally, he will offer us schemes as to help us reach our goals.§!"
+   vulpes_will_not_help_us_tt:0 "§g[CES.GetFlag] Vulpes stands aside. We do not need his help.§!"
+
+   nf_lanius_vulpes_scheme.2.t:0 "The Pass Must Tremble"
+   nf_lanius_vulpes_scheme.2.d:0 "The mountain folk of the Pass have long memories—and short spines. When Centurion Paulus once marched through their lands, they offered no resistance. Vulpes now advises a display of power: the razing of minor settlements, controlled chaos, and whispered threats.\n\nLet the fires be seen from afar, he says. Let them remember why they fear the Bull."
+   nf_lanius_vulpes_scheme.2.tt:0 "§RHeavily damage [MES.GetAdjectiveCap] units in the state!§!"
+   nf_lanius_vulpes_scheme.2.a:0 "§RLet the fires burn.§!"
+   nf_lanius_vulpes_scheme.2.b:0 "§gSlaughtering civilians is a waste of time.§!"
+
+   nf_lanius_vulpes_scheme.3.t:0 "The Iron Accord"
+   nf_lanius_vulpes_scheme.3.d:0 "Rumors have long whispered of an arrangement between the Iron Alliance and our agents—iron for denarii, schematics for silence. Vulpes suggests formalizing this shadowy friendship. His frumentarii would travel to New Sterling ahead of our cohort, offering coin, favor, and the promise of future spoils.\n\nIf the Iron Alliance can be bought, let them be bought. If not—at least we will know the lay of their forges."
+   nf_lanius_vulpes_scheme.3.a:0 "§RSend the frumentarii north.§!"
+   nf_lanius_vulpes_scheme.3.b:0 "§gWe do not need them.§!"
+
+   nf_lanius_vulpes_scheme.4.t:0 "The Fox Disappears"
+   nf_lanius_vulpes_scheme.4.d:0 "The frumentarii have vanished over the horizon, bound back for Flagstaff. Among Lanius's loyalists, unease stirs—some claim his efforts were never about helping us, but rather about scouting our neighbors in New Mexico.\n\nIs Vulpes truly an ally... or is he keeping Caesar's leash taut?"
+   nf_lanius_vulpes_scheme.4.a:0 "Let the fox wander."
+
+  nf_lanius_vulpes_scheme.5.t:0 "A Monster is Coming"
+  nf_lanius_vulpes_scheme.5.d:0 "They came cloaked in dust and secrecy—the frumentarii of Vulpes Inculta, Caesar's eyes and ears. With soft words and sharper smiles, they revealed the true reason for their arrival: Lanius rides for Denver.\n\nThey speak of Centurion Paulus’s failure, and of Lanius’s hunger to succeed where others fell. The Legion, they say, remembers the iron sold to them in secret, and now wishes to make that bond overt. When the Red Bull marches north, will the Iron Alliance stand beside him—or apart?"
+  nf_lanius_vulpes_scheme.5.a:0 "§RWe will walk with war.§!"
+  nf_lanius_vulpes_scheme.5.b:0 "§gLet the Bull march alone.§!"
+  nf_lanius_vulpes_scheme.5.tt:0 "Unlocks Decisions that we can use to join §YLanius§!'s wars, if he attacks a northern Colorado country!"
+
+  nf_lanius_vulpes_scheme.6.t:0 "Iron Joins the Bull"
+  nf_lanius_vulpes_scheme.6.d:0 "The Iron Alliance has agreed to support our campaign. Their forges will burn, and their mercenaries will walk beside our legionnaires when Denver falls."
+  nf_lanius_vulpes_scheme.6.a:0 "Let the fires be stoked."
+
+  nf_lanius_vulpes_scheme.7.t:0 "The Forge Refuses"
+  nf_lanius_vulpes_scheme.7.d:0 "New Sterling stands apart. The Bulleteater has declined our offer. The forges of Colorado will not burn for Caesar—at least not yet."
+  nf_lanius_vulpes_scheme.7.a:0 "So be it."
+
+
+   #nf_lanius.34.t:0 "The conquest of the Painted Rock"
+   #nf_lanius.34.d:0 "After the defeat of the metal men we are left with the challenge of dealing with their allies. These so called Hummingbirds have openly declared hostility on us and must be dealt with before we can march north to deal with Dog City, but they cannot be reached. Lanius has ordered for the Painted Rock tribe to be integrated into his cohort so that they may be used to attack the weaklings."
+   #nf_lanius.34.a:0 "And the Cohort grows stronger."
+
+   #conquest events##
+   lac_conquest_events.1.t:0 "A Victory for the Legion!"
+   lac_conquest_events.1.d:0 "Another of the Eastern peoples have fallen to the Legion. Their widows and husbands weep as the slave collars tighten around their neck, and Lanius looks upon impassively. Already, his eyes are set on the horizon, for a new world to conquer."
+   lac_conquest_events.1.a:0 "We need only conscript a few of them."
+   lac_conquest_events.1.b:0 "Conscript a reasonable number of them."
+   lac_conquest_events.1.c:0 "Conscript them all, and burn the rest." #the mask impassive.
+   lac_conquest_events.2.t:0 "A Fresh Stock of Slaves"
+   lac_conquest_events.2.d:0 "Through our conquest, the profligates will earn the value of honest work and labour. And Lanius may keep some of the finest for himself."
+   lac_conquest_events.2.a:0 "Take a handful of slaves."
+   lac_conquest_events.2.b:0 "Enslave resisters."
+   lac_conquest_events.2.c:0 "They do not deserve freedom."
+
+
+   lac_conquest_events.3.t:0 "Plunder"
+   lac_conquest_events.3.d:0 "Legionaries do not take wealth for themselves. They take it for Caesar and his will, and our new subjects have no rights but those we grant. How much shall we take as spoils of war?"
+   lac_conquest_events.3.a:0 "Caesar is a just lord."
+   lac_conquest_events.3.b:0 "We cannot skin the brahmin we milk."
+   lac_conquest_events.3.c:0 "Woe to the vanquished."
+
+  lac_conquest_events.4.t:0 "A Desert or Peace?"
+   lac_conquest_events.4.d:0 "Neither Lanius nor Caesar wish to rule a pile of corpses. The Legion will save mankind and forge a better world from the wastes of the old. To do so, we can add our foes to our ranks. \nOr we can nail them to a cross to watch their world die."
+   lac_conquest_events.4.a:0 "Fetch the timber."
+   lac_conquest_events.4.b:0 "The Legion welcomes you."
+
+   lac_conquest_events.5.t:0 "Upon a Cross"
+   lac_conquest_events.5.d:0 "Having chosen to crucify our enemies, we must decide how many to crucify. Although some Wastelanders may blanch at this much death, this is how we remind the world to obey the Legion."
+   lac_conquest_events.5.b:0 "Crucify half the officers corps."
+   lac_conquest_events.5.a:0 "Make an example of a few commanders.``"
+   lac_conquest_events.5.c:0 "Crucify their families too."
+
+   lac_conquest_events.6.t:0 "To Serve the Legion"
+   lac_conquest_events.6.d:0 "Lanius is not the first to swear fealty to Caesar, and why should the latest foes be different? Some of them fought honourably, and now they can serve Lanius, as Lanius serves Caesar. In this way the glory of the Eagle spreads across the world."
+   lac_conquest_events.6.b:0 "Crucify half the officers corps."
+   lac_conquest_events.6.a:0 "Make an example of a few commanders.``"
+   lac_conquest_events.6.c:0 "Crucify their families too."
+
+   nf_lanius_revolter.1.t:0 "The Moon Looked Down On Me"
+   nf_lanius_revolter.2.t:0 "The Moon Looked Down On Me"
+   nf_lanius_revolter.2.d:0 "When the lights shone in from all directions Lanius found himself face to face with an immaculate, perfect presence. A figure of true beauty, of regret and triumph and love. It was Victory incarnate.\n§B-... My my,§! §RApollo§!§B? Took you long enough.§!\\n\nLanius was confused. §RThat was not his name.§! He tried to speak, yet his throat held shut through some unseen force. He tried to breathe, yet his lungs were empty. He tried to look away, but there was nothing else.\n\n§BIt has been so long. Causing trouble down in Arizona I see? You know that Pallus already did enough damage to those wayward children.§!\n\nWith some hesitancy, Lanius would try to explain himself... but it wasn't to the woman mantled in gold. It was instead to the lights behind her.\n\nThe light was doing this, that uncontrolled, dominating, sinister light. Was this woman even aware of what it was doing to people? He would explain his 'mission' to the light, how Caesar had entrusted him with the conquest of the northern tribes.\n\nIt did not reply, but the woman spoke in turn. §BHaha! It's not like you to get involved in gambits§! §RApollo§!§B. You are getting distracted.§!\n§RDistractions are bad for the mind.§!\n§BLet me help you, so you can remake yourself into something better. Remind you of your place at my side, remind you of the hero you were always meant to be.\n\nOh weary hero, just tell me your name. That is all I need.§!'"
+   nf_lanius_revolter.2.a:0 "Fight against the compulsion!"
+   nf_lanius_revolter.2.b:0 "§RTELL HER YOUR NAME§!"
+
+   nf_lanius_revolter.3.t:0 "Rejecting the Light"
+   nf_lanius_revolter.3.d:0 "Lanius knew a trickster when he saw one. Diana might be divinity -.. but these machines? These wires? That §Rsinister light?§! It has corrupted her, just has it corrupted all of her \"children\"".\n\nA short battle would ensue at the \"Temple\"" - really just another Vault in disguise. Legionary soldiers fighting with the cruel tribals to allow Lanius's escape from the compound.\n\nThis wouldn't be the last they have heard of the Legion."
+   nf_lanius_revolter.3.a:0 "Maybe she was never a god in the first place?"
+   nf_lanius_revolter.3.b:0 "Even if she is a god, she has to be stopped!"
+   nf_lanius_revolter.3.ttm:0 "Lanius Fights Out!"
+
+   nf_lanius_revolter.4.t:0 "A Fuzzy Feeling"
+   nf_lanius_revolter.4.d:0 "It was a strange feeling walking out of that compound and returning to base camp. My soldiers looked at me with odd gazes - it was as if they expected that I would have asked them to destroy that place.\n\nWhere did I even go? I know they know something happened, but they dare not speak their grievances to my face.\n\nWell -.. Let them leave. If they have no interest fighting in my cohort they can fight alongside Caesar instead.\n\nI need time to figure out what happened while I was in that compound."
+   nf_lanius_revolter.4.a:0 "More importantly..\nWhat is my name?"
+
+   nf_lanius_revolter.4.t.ttm:0 "Lanius Returns South."
+   nf_lanius_revolter.4.d.ttm:0 "After their short meeting together, Lanius would head south, leaving the valley and returning to his camp. Diana's and Lanius's conversation was 'strange' for a lack of a better term. It never seemed like Lanius was talking to her directly, but instead to something \"behind her\".\nIn the past during some occasions, something like this had come up as well. Perhaps its worth a little investigation?"
+   nf_lanius_revolter.4.a.ttm:0 "I need to get to the bottom of this."
+
+   nf_lanius_revolter.5.t:0 "Disappointed Auxiliaries Return Home"
+   nf_lanius_revolter.5.d:0 "I thought it would go away in a few days, a challenge of the mind waiting to be conquered. It seems, rather, that this cloud that hangs over my shoulders is here to stay.\nI never wanted it here. People call me \"Lanius\", people say I need to go north and obey my Caesar, it all just sounds wrong though.\nWhy am I doing that? Why should I listen to someone like that? I have my own strength, why should I bend to him?"
+   nf_lanius_revolter.5.a:0 "Perhaps I will need to find a new Legatus."
+
+   nf_lanius_revolter.5.t.ttm:0 "ZAX - 29's Shenanigans"
+   nf_lanius_revolter.5.d.ttm:0 "When pressed for questions it didn't take long to find the culprit behind Lanius's odd mood. It turns out that ZAX - 29, the central intelligence in charge of affairs at Vault 29 interferred on our behalf, using CODE personality arrangement software to try to institute some sort of identity crisis in the Legate.\nDiana was furious at first - but the intelligence would justify its actions in a forward manner; stating that it was the option that poised the highest likelyhood of survival for the residents of Vault 29."
+   nf_lanius_revolter.5.a.ttm:0 "I didn't ask you to do this!"
+
+   nf_lanius_revolter.6.t:0 "Growing Concerns"
+   nf_lanius_revolter.6.d:0 "It was a strange feeling walking out of that compound and returning to base camp. My soldiers looked at me with odd gazes - it was as if they expected that I would have asked them to destroy that place.\n\nWhere did I even go? I know they know something happened, but they dare not speak their grievances to my face.\n\nWell -.. Let them leave. If they have no interest fighting in my cohort they can fight alongside Caesar instead.\n\nI need time to figure out what happened while I was in that compound."
+   nf_lanius_revolter.6.a:0 "I am my own man."
+
+   nf_lanius_revolter.7.t.lac:0 "Returning to the Light"
+   nf_lanius_revolter.7.d.lac:0 "Eventually I just couldn't take it anymore. The voices in my head were growing worse and worse. I ordered what remained of my cohort to return to the north - to confront that tribe once again, perhaps they will have answers to what has happened to me.\n\nWhen I returned to the valley of the Twin Mothers my host was celebrated like a triumph of old. Horns, cheering and festivals. The entire tribe met me to cheer me in in unison for something. At first, I didn't know what it was for. It soon dawned on me when I listened to the words of a red-robed oracle of Diana, standing atop a high pedestal.\nThis was for me.\n§R\"The nameless warrior has returned! Are you ready to accept what is owed to you? Your place in the annals of history - rather than being Caesar's slave?\n\nAre you ready to cross the Rio Grande, strike down Caesar and build a legacy with us that will last a thousand years? Are you ready to accept your true name?\nWe have forged you a new suit of armor, shed your old self and dawn the armor of the tribe. Apollo, we grant you this!\"§!"
+   nf_lanius_revolter.7.a.lac:0 "§R...My name!§!"
+
+   nf_lanius_revolter.7.t.ttm:0 "A Coronation Celebration"
+   nf_lanius_revolter.7.d.ttm:0 "This isn't the situation I wanted, but it's not one I am willing to throw away either.\nOn one hand what ZAX - 29 did was truly evil, stripping another person of their identity. It was no better then what Caesar does to his own men.\n\nStill, it would be crueler still of me to let this go, I have the chance to put an end to Caesar's tyranny. If stripping a monster of his claws is the way to do it? So be it.\nUtilitarian philosophy would state that helping tens of thousands of slaves break from their shackles is better then the sanctity of one mans life. Still, being in that dilemna in the first place - being the trolley driver over the fate of thousands - has filled me with dread.\nHopefully some celebrations wil put things into order? Lanius is coming tonight to accept his place at my side against Caesar, \"The Cult of Apollo\" the tribes thinking of calling it.\n\nMaybe together me and this Apollo's new alliance will turn out good for the wasteland after all."
+   nf_lanius_revolter.7.a.ttm:0 "...Can a nursery bot throw some wine into my brain casing?"
+
+   nf_lanius_revolter.8.t:0 "Lanius Betrays Caesar! Takes on New Name!"
+   nf_lanius_revolter.8.d:0 "In a shocking turn of events, the feared and fabled Legate Lanius and the Legion forces directly under his command fell under a witch's slay.  He seems to believe he can unite the Wasteland instead of Caesar, and and told our frumentarii that he will show us what strength is. Is he mad?"
+   nf_lanius_revolter.8.t.ces:0 "Our Legatus Allies with Profligates!"
+   nf_lanius_revolter.8.t.ttm_lac:0 "The New Cult of Apollo"
+
+
+  nf_lanius_revolter.20.t:0 "Speaker to Dogs"
+  nf_lanius_revolter.20.d:0 "Lanius' original mission was to conquer the Hang Dogs and seize Denver, but to what end? Perhaps it would be better to offer them an alliance with the Legion, for while dogs do not speak, they know how to listen."
+  nf_lanius_revolter.20.a:0 "A useful buffer to the north."
+  nf_lanius_revolter.20.b:0 "The Legion does not take in strays."
+
+  nf_lanius_revolter.21.t:0 "The First Victim of Caesar"
+  nf_lanius_revolter.21.d:0 "Hecate and Ulysses are among the only survivors of the Twisted Hairs, but while he joined the Legion, she fled north and found comfort in the arms of a Mother. She pursued her own, mad, eugenics plan against the Legion, seeking to test her strength against our own. But perhaps now, with the Legion gone, she can rest and learn to let go?"
+  nf_lanius_revolter.21.a:0 "The grief will drive you mad, Hecate..."
+  nf_lanius_revolter.21.b:0 "Let's not work with the crazy witch."
+
+
+  nf_lanius_revolter.211.t:0 "Hello Again Mother"
+  nf_lanius_revolter.211.d:0 "Lanius and Diana defeated the Legion and have, perhaps, brought peace to the Wasteland. But now they want to work with me - - -what should I do?  What do the Daughters of Hecate do now?"
+  nf_lanius_revolter.211.a:0 "The grief will drive you mad, Hecate..."
+
+  nf_lanius_revolter.30.t:0 "The Sack of Flagstaff"
+  nf_lanius_revolter.30.d:0 "Lanius' men looted Flagstaff for three days, as is custom.  A sack made all the more tragic by how little there was to loot. There was the Legion's treasuries, and armouries; but none of the icons of Santa Fe; none of the woollens of the Navajo; none of the perfumes from Lonestar. If Diana was right, and all empires fall, and are judged by what they left behind, the Legion was, truly, a dead end."
+  nf_lanius_revolter.30.a:0 "A lifetime to build the Legion, an hour to destroy it."
+
+  nf_lanius_revolter.31.t:0 "Look to the West"
+  nf_lanius_revolter.31.d:0 "Do you think Caesar ever regretted the roads that led him to Kou? Did he ever wonder if the Followers were wiser than he knew? If he ever had such thoughts, he never wrote them down- and Lanius never cared to ask."
+  nf_lanius_revolter.31.a:0 "Let him write his own history."
+
+  nf_lanius_revolter.32.t:0 "The Island in the Sun"
+  nf_lanius_revolter.32.d:0 "The Legion's escorts carried their old god east, down the Mississippi, to a Mayan vessel. The Mayans, in turn, took their 'guest' to to Havana, where he was a distinguished delegate to the Military Maritime Fleet. For what better way for Caesar to end his days, then shrouded in the crimson he loved so dear?"
+  nf_lanius_revolter.32.a:0 "Let us burn the flag, and begin again."
+
+  nf_lanius_revolter.33.t:0 "The Unlikely Marriage"
+  nf_lanius_revolter.33.d:0 "Did a move that no one across the wastes could have predicted, the Legate, Caesar's second-in-command, has defected from the Legion and has joined forces with the leader of the Twin Mothers, Diana. While the reasons for this defection remain unclear to the forces around the wastes, the Legion under Caesar now faces a new threat on their eastern border as well as the New California Republic to the west."
+  nf_lanius_revolter.33.a:0 "Perhaps Caesar should not have sent a man who only respects strength East."
+
+  nf_lanius_revolter.34.t:0 "And the Earth Will Speak To You"
+  nf_lanius_revolter.34.d:0 "We have worked with Caesar as the best of all possible options in the East. But now from the East comes word from Lanius and the old woman of the Mountain. The two invite us to rise up against Caesar with them, which would open a valuable new front for them. And while we have prospered with the aid of Caesar.... maybe we would prefer a future that's not bound to someone reenacting a long dead Empire?"
+  nf_lanius_revolter.34.a:0 "A rocky vinyard does not need a prayer, but a pick ax."
+  nf_lanius_revolter.35.a:0 "They will clearly die, sorry."
+
+  nf_lanius_revolter.35.t:0 "The Navajo Said No."
+  nf_lanius_revolter.35.d:0 "Despite our best efforts, the Navajo rejected our bid to join our revolt. Fair enough, but do they think Caesar's Legion has a happy ending?  Still, some of their warriors fled East to join our revolt. So there's that at least."
+
+  nf_lanius_revolter.36.t:0 "The Gordian Knot"
+  nf_lanius_revolter.36.d:0 "Although Diana has persuaded Lanius that Caesar's destruction of his people was not, in fact, a sign of strength, he still seeks to carve an empire. To that end, the Legate sets eyes upon the Maxson Chapter. Crushing a Brotherhood of Steel faction would be a mighty victory for Lanius.  But it would also be bloody, and might exhaust the East when it comes time to crush Caesar. \n\nDiana proposes a different path. Why not ally with the Brotherhood? Caesar owes them a blood debt for his destruction of the Phoenix Detachment, and in exchange for lands along the Arkansas River they might join in the war against Caesar. Instead of a protracted conflict, Lanius could turn the Brotherhood's army west."
+  nf_lanius_revolter.36.a:0 "What need have I for power armor mercenaries?"
+  nf_lanius_revolter.36.b:0 "There is wisdom in your words, woman of the East."
+
+  nf_lanius_revolter.37.t:0 "The Tribal's Proposal"
+  nf_lanius_revolter.37.d:0 "The Eastern Legion warlord, Lanius, rose up against Caesar and now marches his own path. Although we thought he would come against us with his armies, it appears he has a different goal. Lanius instead asks us to join him in the fight against Caesar when he marches west. In return, he shall give us the lands in Colorado he now controls. Although we will not serve Lanius in any wars of conquest, we cannot deny that Caesar butchered our Arizona brethrenn. And the resources of the Arkansas Tributary would be most useful to us. \n\nWe can of course say no, but that might make Lanius view us as a threat."
+  nf_lanius_revolter.37.a:0 "We accept your terms, Legate."
+  nf_lanius_revolter.37.a_tt: "\nShould war break out §R[CES.GetName]§! and §B[LAC.GetName]§!, we will join the East's cause."
+  nf_lanius_revolter.37.b:0 "Why would we die for Flagstaff?"
+
+  nf_lanius_revolter.38.t:0 "The Gordian Knot"
+  nf_lanius_revolter.38.d:0 "Leading the Hidebarks was never just about brutality or strength. The man known as Lanius was a leader through cunning, wisdom, and foresight. And so while the Legate would never have made a proposal to the Brotherhood, a Prinnceps would. And so the Maxson Chapter will join the fight against the Legion, augmenting Lanius' armies. For not all problems need be solved with a sword."
+  nf_lanius_revolter.38.a:0 "Fear and Fellowship are the best wheels of a chariot."
+
+  nf_lanius_revolter.39.t:0 "The Gordian Knot"
+  nf_lanius_revolter.39.d:0 "As Lanius expected, the Maxson Chapter refused his proposal. On the upside, this will provide a new test for the Legate's troops."
+  nf_lanius_revolter.39.a:0 "The simplest way to break a knot? Cut it."
+
+  nf_lanius_revolter.40.t:0 "The Treachery of the Hidebarks"
+  nf_lanius_revolter.40.d:0 "Mighty Caesar, it appears that Lanius betrayed us! The expedition we sent east revolted and formed a pact with the Witch of Colorado to seize the East for himself! Although Lanius mouths honeyed words to woo his new subjects, his goal is clear - to seize the Arizona for himself and his crone. Although we are tied up in commitments elsewhere, we must prepare to march east to stop him in two years."
+  nf_lanius_revolter.40.a:0 "I will drag his corpse behind my chariot."
+
+  nf_lanius_revolter.41.t:0 "A Visit from Hastseoltoi"
+  nf_lanius_revolter.41.d:0 "We've told tales of the Huntress since the bombs fell; the mysterious machine witch to the East who haunts the databanks and warns away outsiders. Now some of her robots have come to us with an offer. According to the Huntress, she has persuaded the warlord Lanius to rise up against Caesar, and asks us to join them. Together, we may stand a chance."
+  nf_lanius_revolter.41.a:0 "Well, I've heard worse ideas."
+  nf_lanius_revolter.41.b:0 "We will not ally with a computer program and a warlord."
+
+
+  nf_lanius_revolter.42.t:0 "The Navajo Accept"
+  nf_lanius_revolter.42.d:0 "Thanks to Diana's aid as a conduit to the Navajo, they will join our revolt against Caesar. Together, we shall stand a chance."
+  nf_lanius_revolter.42.a:0 "The rocky vineyard needs no prayer, but a pickaxe."
+
+  nf_lanius_revolter.43.t:0 "The Navajo Refuse"
+  nf_lanius_revolter.43.d:0 "It appears [NAV.GetLeader] is more cowardly than I expected. They will not join our revolt against Caesar."
+  nf_lanius_revolter.43.a:0 "Nothing is as eloquent as a rattlesnake's tale."
+
+  #### Ideas
+
+  lac_engineers:0 "Fiat Voluntas Tua"

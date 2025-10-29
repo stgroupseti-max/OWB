@@ -1,0 +1,1206 @@
+﻿l_english:
+ # originally by david, re-written/adapted by Happy, re-rewritten for 5.0 by Tar
+ # restarted by violet, lusa, aida, ironvanguard, and tran for 5.0 following tar's departing of the team. we love and miss you, tar.
+ # finished by Aida.valuna, IronVanguard and Anapostrophe. we love and miss you, Violet.
+
+  #War Council
+
+  KHA_khan_war_council:0 "War Council"
+  KHA_khan_war_council_desc:0 "As the cold war between the Montana Brotherhood and Macarthur Enclave rages on, those stuck in-between the clash of giants have a limited window of opportunity. If we act fast, we may consolidate our power before we face the wrath of two powers."
+
+  KHA_ncr_teachings:0 "Old Foe"
+  KHA_ncr_teachings_desc:0 "Khans still remember the victories we had against the fledgling republic. In fact, Shady Sands cowered in fear of our mighty warriors for years. Day by day, the Republic grew, evolved and surpassed our might. In our hubris, we refused to be anything but petty raiders, thinking we could hold the wasteland hostage for decades. While some yearn for the good old days, some are intelligent enough to realize, another defeat may be the last one for the Khans."
+  KHA_ncr_teachings_tt:0 "§MAtraris' studies about NCR military will grant us insight on how to raise a modern army from scratch.§! \n\n §REsen wants to reform our military to our glory days under Darion and to remind what happened to those who messed with the Khans.§!"
+
+  KHA_ces_teachings:0 "New Ally"
+  KHA_ces_teachings_desc:0 "We know little about the Legion, outside of being allies of convenience. Despite their numerous ranks and ferocious loyalty, legionnaires are no match for a Khan. At least on a fair fight, that is. Legion employ cowardly practices such as sabotage and trickery coupled with human wave tactics. While many of these practices go against our traditions, we can learn from our new "allies"."
+  KHA_ces_teachings_tt:0 "§MAtraris knows the importance of military intelligence. Completing this focus under his rule will give bonuses to our intelligence agency.§! \n\n §REsen, who helped Legion on taking out some NCR camps on Mojave, wants to employ the terror tactics Legion utilizes at Mojave. Completing this focus under her rule will grant bonuses to our planning.§!"
+
+  KHA_war_logistics:0 "New Supply Routes"
+  KHA_war_logistics_desc:0 "We are newcomers to the area, which made us easy pickings for those who knew the lay of the land. But our scouts identified few safe routes for our supply caravans to pass through. With a small investment, we can ensure proper logistical support for our troops."
+
+  KHA_conquer_ranchers:0 "Southern Expansion"
+  KHA_conquer_ranchers_desc:0 "We need more resources, more land and more manpower for our growing empire. We will seize it with force."
+
+  KHA_use_ranches:0 "Utilize the Ranches"
+  KHA_use_ranches_desc:0 "Khans are not really good at farming. If we can ensure the loyalty of the ranchers, we can ensure a steady supply of food for our empire."
+  KHA_use_ranches_tt:0 "§MWe do not sow, our slaves do.§!"
+
+  KHA_initiate_rancheros:0 "Initiate the Rancheros"
+  KHA_initiate_rancheros_desc:0 "Instead of being shephards of cattle, Ranchers who are strong enough to be initiated will serve in our ranks as glorious warriors."
+
+  KHA_conquer_north:0 "Shut Their Mouths"
+  KHA_conquer_north_desc:0 "Elizaveta, the schemer, is trying to rile other factions against us. We have to foil her plans before she can cause more harm."
+
+  KHA_khan_implants:0 "War And Peace"
+  KHA_khan_implants_desc:0 "The Schemer and their half-tin can friends are dealt with. Atraris sees the benefits of peace, instead of mindless destruction. Perhaps we can convince them of our good intentions."
+
+  KHA_initiate_metalmen:0 "Cyborg Khans"
+  KHA_initiate_metalmen_desc:0 "While we do not know whether it was their martial culture or their implants granting them extra endurance, most of the Metal Mouths survived the initiation and ready to serve in our ever-growing army."
+
+  KHA_new_khan_cohorts:0 "New Cohorts"
+  KHA_new_khan_cohorts_desc:0 "With our unprecedented expansion, we can now organise a significant portion of our population to new cohorts, bolstering our ranks."
+
+  KHA_lone_tree:0 "Lone Tree's Fruits"
+  KHA_lone_tree_desc:0 "A country sparsely populated by settlers and ruled by a paranoid ruler who prepares for an invasion that will never come, Lonetree is an easy target for our warbands. Lets show them how hiding behind walls and traps will not save them from our raids."
+
+  KHA_plagued_lands:0 "Plagued Lands"
+  KHA_plagued_lands_desc:0 "We lost few of our men on our way to Wyoming to the automated defences of the Plagued Lands. If we can send a small raiding party to the Plagued Lands, we can scavenge high-tech weapons that could aid us in our future battles."
+
+  KHA_conquer_marshall:0 "Another Republic to Lay Waste To"
+  KHA_conquer_marshall_desc:0 ""
+
+  KHA_ranch_economy:0 "Ranch Economy"
+  KHA_ranch_economy_desc:0 "Marshall's economical system is far more advanced than ours. Perhaps we can learn from them."
+
+  KHA_marshall_the_troops:0 "Marshall the Troops"
+  KHA_marshall_the_troops_desc:0 "Marshall had their own standing 'army' comprised of inadequately trained conscripts, mercaneries who had murky allegiances and local militias. It is up to us to separate the wheat from the chaff."
+
+  KHA_conquer_east:0 "History Repeating Itself"
+  KHA_conquer_east_desc:0 "The 'historians' should've seen a horde coming to invade their lands from far away. This is not an invasion, this is just history repeating itself."
+
+  KHA_khan_common_ground:0 "Common Ground"
+  KHA_khan_common_ground_desc:0 "Historians are not a warmongering people, relying on mercaneries for protection. What sets them apart from others is their desire to help others and nurture everything around them. They could be persuaded to aid our populace if we promised them safety. They can resent us from shadows, but they can not deny the order we brought to Wyoming."
+
+  KHA_written_by_victors:0 "Written By Victors"
+  KHA_written_by_victors_desc:0 "History is written by the victors. Historians will go down in history like any other who fell to those who are superior to them."
+
+  KHA_conquer_center:0 "Forgotten Citizens of A Bygone Country"
+  KHA_conquer_center_desc:0 ""
+
+  KHA_khan_patriots:0 "Khan Patriotism"
+  KHA_khan_patriots_desc:0 "Patriots wanted a purpose, something to die for. While so many of them died in our initiation trials, those who survived now serve their country with fervent patriotism instead of worshipping centuries old idols."
+
+  KHA_war_industry:0 "Expert Gunsmiths"
+  KHA_war_industry_desc:0 "Both the Jacksons and the Fourfathers had gunsmithing traditions that spanned generations. We can utilize their expertise to fuel our war effort."
+
+  KHA_no_rock_left_standing:0 "Leave No Rock Standing"
+  KHA_no_rock_left_standing_desc:0 "While our relations with the Sioux were amicable due to sharing the same enemies, we can no longer disregard the ever-growing militarism of the Sioux. We have to deal with them, one way or another."
+
+  KHA_war_for_survival:0 "War For Survival"
+  KHA_war_for_survival_desc:0 "For years Khans fought to raid, pillage and loot. But this time, we're fighting for our right to exist. We're fighting for our future, for our children. We are going to war to say we're not going to die' to those who want to kill us. Khans never die!"
+
+  KHA_war_for_survival_2:0 "War For Survival"
+  KHA_war_for_survival_2_desc:0 "For years Khans fought to raid, pillage and loot. But this time, we're fighting for our right to exist. We're fighting for our future, for our children. We are going to war to say "we're not going to die" to those who want to kill us. Khans never die!"
+
+  KHA_cutting_supply:0 "Time to Pay the Bills"
+  KHA_cutting_supply_desc:0 "Coal Consortium supplies the Brotherhood with the coal, which they use to power up their gear. If we can strike at the source, we can gain a significant advantage at the upcoming war."
+
+  KHA_bos_tin_cans:0 "Tin Cans"
+  KHA_bos_tin_cans_desc:0 "Without power to run them, Brotherhood soldiers are nothing but walking tin cans. We have a limited window of opportunity. We must finish the Brotherhood off before they can find alternative sources for fuel."
+
+  KHA_legion_tactics:0 "Legion Tactics"
+  KHA_legion_tactics_desc:0 "Legion fought with the Brotherhood before, and they managed to rout the Brotherhood despite all the odds. Now that we have the numbers, we can use Legions tactics once again."
+
+  KHA_steelbreakers:0 "Steelbreakers"
+  KHA_steelbreakers_desc:0 "With the war with the Brotherhood and the Enclave looming ever closer, we will deploy the Steelbreakers, a squad of veteran Khans who can match the ferocity of Power Armor."
+
+  KHA_promise_revenge:0 "Promise Them Revenge"
+  KHA_promise_revenge_desc:0 "Jacksons under our rule have feuded with the Colonel's rule for a long time. If we promise them revenge, we can get their full support."
+
+  KHA_enclave_connections:0 "Enclave Connections"
+  KHA_enclave_connections_desc:0 "Not all families are content with the Colonel's rule. Jacksons are now activating their sleeper cells inside MacArthur base, giving us a window opportunity to strike, while the Enclave is distracted."
+
+  KHA_homeland_for_us:0 "Feels Like Home"
+  KHA_homeland_for_us_desc:0 "Now that we secured our position in Montana and Wyoming, we can finally rest and rebuild our strength. After everything we've been through, Khans now finally have a place to call home."
+
+  #Atraris Diplomacy
+
+  KHA_the_pen_the_sword:0 "The Pen and the Sword"
+  KHA_the_pen_the_sword_desc:0 "They say those who live by the sword, die by the sword. Atraris sees the futility of trying to build an empire through coercion and force. Too many empires fell not to cannons, but the dissent of its own populace. Perhaps it's time for Khans to learn the intricacies of diplomacy."
+
+  KHA_horse_not_brahmin:0 "The Dark Horse"
+  KHA_horse_not_brahmin_desc:0 "For the average wastelander, a horse is nothing more than a wasteland oddity. Few people know their pre-war origins, and even fewer know how they were the backbone of civilizations for centuries. We will show them why many, many armies fell before the horse and its master."
+
+  KHA_horsemasters:0 "Horsemasters"
+  KHA_horsemasters_desc:0 "Atraris may have read them from the books, but the Sioux have their own techniques on how to tame and ride a horse. Lets learn from their example."
+
+  KHA_encourage_ranches:0 "Encourage Ranches"
+  KHA_encourage_ranches_desc:0 "Horses, at least the domesticated and fit for the military duties are hard to come by. We should encourage the ranches to increase the number of herds."
+
+  KHA_reorganise_ranchers:0 "Reorganise the Ranchers"
+  KHA_reorganise_ranchers_desc:0 ""
+
+  KHA_old_natives_new_natives:0 "Victims of Imperialism"
+  KHA_old_natives_new_natives_desc:0 ""
+
+  KHA_going_west:0 "Going West"
+  KHA_going_west_desc:0 ""
+
+  KHA_purpose_for_elisaveta:0 "A Purpose for Elizaveta"
+  KHA_purpose_for_elisaveta_desc:0 ""
+
+  KHA_work_with_historians:0 "Work With the Historians"
+  KHA_work_with_historians_desc:0 ""
+
+  #Esen's Warpath
+
+  KHA_khans_carry_their_own:0 "Khans Carry Their Own"
+  KHA_khans_carry_their_own_desc:0 ""
+
+  KHA_picking_their_corpses:0 "Picking Their Corpses"
+  KHA_picking_their_corpses_desc:0 "Implants are hard to come by in the wasteland. We can not allow such precious equipment go to waste."
+
+  KHA_dead_tell_no_tales:0 "Dead Tell No Tales"
+  KHA_dead_tell_no_tales_desc:0 "Elizaveta, the schemer, ran out of places to hide and spread her venomous words. We'll see if she can ruminate her way back to life."
+
+  KHA_this_does_put_smile:0 "This Does Put A Smile On My Face"
+  KHA_this_does_put_smile_desc:0 "Perhaps Elizaveta was right, at least partially. The greatest happiness in the world is to vanquish your enemies, to chase them before you, to rob them of their wealth, to see those dear to them bathed in tears, not sitting idly while world around you burns."
+  KHA_this_does_put_smile_tt:0 "§GLook from the bright side Elizaveta, at least the Khans ruminated to riches.§!"
+
+  KHA_contact_mongols:0 "Contact the Mongols"
+  KHA_contact_mongols_desc:0 "Mongols, as they call themselves, are a group of ruthless raiders who descended from the biker gangs of the old. Their numbers dwindled in the recent year and their power waned. If we offer them an alliance, we can benefit from their ferocity."
+
+  KHA_one_percenters:0 "One Percenters"
+  KHA_one_percenters_desc:0 "All Mongols are great riders, but not all Mongols are 'one percenters'. Chosen from the best of the best, they are feared by many. Some say the roar of their vehicles instill fear on the Eighties themselves!"
+
+  KHA_drugs_on_wheels:0 "Chems on Wheels"
+  KHA_drugs_on_wheels_desc:0 "Why do drug runs when you can deliver them in masse with vehicles? With our mastery over the motor, we can now deliver enough chems to supply a city."
+
+  #Bitter Springs Subtree
+
+  KHA_when_springs_run_bitter:0 "When Springs Run Bitter"
+  KHA_when_springs_run_bitter_desc:0 "News of a massacre in Bitter Springs reached all the way to Wyoming. It can not be that bad, right?"
+
+  KHA_out_out_brief_candle:0 "Out, Out Brief Candle"
+  KHA_out_out_brief_candle_desc:0 "Then the boy saw all — Since he was old enough to know, big boy \n Doing a man’s work, though a child at heart — \n He saw all spoiled. “Don’t let them take our lives, \n The NCR, when they come. Don’t let them, sister!” \n So. But he was gone already."
+
+  KHA_becoming_better:0 "Introspection"
+  KHA_becoming_better_desc:0 "Maybe this is not that big of a deal. Maybe if we did not raid the NCR, this would not happen. Maybe we could've been a better people. Maybe we could've prevented this in some ways. What if they didn't really mean it? What if it was a communication mistake? They can not be hateful enough to gun down unarmed civilians right?"
+
+  KHA_iwill_fight_some_more_forever:0 "I Will Fight Some More Forever"
+  KHA_iwill_fight_some_more_forever_desc:0 "§RA day will come when they will think themselves safe and happy, and suddenly their joy will turn to ashes in your mouth, and they'll know the debt is paid.§!"
+
+  KHA_khan_resilience:0 "Khan Resilience"
+  KHA_khan_resilience_desc:0 "In the endless plains of Wyoming, the Great Khans endure. Perhaps it's time to accept our losses, and move on. We will move out of the harms way, until we have the power to deliver justice for all thats happened."
+
+  #Misc
+
+  KHA_focus_great_hunts:0 "Great Hunts"
+  KHA_focus_great_hunts_desc:0 "In the past we’ve taken to hunting when times were quiet. The hides and meat of the Geckos and Bighorners can serve our people well—and the hunt itself is such a thrill!"
+
+  KHA_focus_camp_armouries:0 "Camp Armouries"
+  KHA_focus_camp_armouries_desc:0 "Our warriors should not be purely dependent on the labour of slaves to create and maintain their weapons, vehicles and armour. Each warrior should be capable of building and maintaining their own, and each camp should maintain the facilities to do so."
+
+  KHA_focus_arms_workshops:0 "Arms Workshops"
+  KHA_focus_arms_workshops_desc:0 "Camp armouries alone won't be able to cut it for the scale of weaponry production we need—instead, we should set up workshops solely devoted to the production of weapons."
+
+  KHA_focus_slave_workshops:0 "Slave Workshops"
+  KHA_focus_slave_workshops_desc:0 "Slaves in arms workshops has long been a part of the production line, but we should now ensure they are tightly woven into the production system. This will ensure only increasing productivity!"
+
+  KHA_focus_warrior_scholars:0 "Warrior Scholars"
+  KHA_focus_warrior_scholars_desc:0 "When we are not fighting, hunting, building or maintaining our gear, we should not sit back and rest our laurels. Instead we should study, ponder and learn. Anything we can learn from the wasteland is useful—it may just save lives one day."
+
+  KHA_focus_overwhelming_firepower:0 "Overwhelming Firepower"
+  KHA_focus_overwhelming_firepower_desc:0 "We don't have the men to match either the NCR or the Legion, but we can sure as hell match them in the size of our heavy guns."
+
+  KHA_focus_warrior_training:0 "Warrior Training"
+  KHA_focus_warrior_training_desc:0 "Our new guns are only as good as the soldiers that can fire them—we should therefore ensure every Khan is trained to be able to fire any weapon they find in their hands!"
+
+  KHA_focus_reuse_old_factories:0 "Reuse Old Factories"
+  KHA_focus_reuse_old_factories_desc:0 "The wasteland is filled with old, desolate factories—many still containing semi-useable equipment—that we can, and should, quickly make use."
+
+  KHA_focus_lessons_of_history:0 "Lessons from our History"
+  KHA_focus_lessons_of_history_desc:0 "Throughout our existence, we have won numerous victories—and recovered from many defeats. All of these battles should influence how we wage war—and manage ourselves in peace—going forwards."
+
+  KHA_focus_on_the_move:0 "On The Move"
+  KHA_focus_on_the_move_desc:0 "The Khans never stop moving. To do this effectively, we must be able to live off what the land provides and ensure our industry is always able to follow us."
+
+  KHA_focus_synthesise_our_own_chems:0 "Synthesise Our Own Chems"
+  KHA_focus_synthesise_our_own_chems_desc:0 "The Followers of the Apocalypse, when they came, gave us gifts of technology and taught us how to make many weapons. However, they also taught us to synthesise our own chemicals—and oh boy were they a step up from the natural opioids we have grown used to."
+
+  KHA_focus_founders_of_the_chem_trade:0 "Founders of the Chem Trade"
+  KHA_focus_founders_of_the_chem_trade_desc:0 "Few crops grow in Redrock Canyon—fortunately the foundation plants of many chemicals are amongst some of the few that do. As a result, many Mojave gangs rely on us for their supply of chems—earning us the title of the 'founders' of the chem trade."
+
+  KHA_focus_old_friends:0 "Old Friends"
+  KHA_focus_old_friends_desc:0 "Some of the old raider groups which we left the vault with depend on us for new and exciting drugs. We should take advantage of this for as long as we can—it will only see us prosper, and may even make them easy pickings in the future."
+
+  KHA_focus_crimson_caravan_trade_deals:0 "Crimson Caravan Trade Deals"
+  KHA_focus_crimson_caravan_trade_deals_desc:0 "The NCR officially has a ban on addictive drugs, but both the Crimson Caravan and many of the wealthy, independent merchants that make up the NCR frequently turn a blind eye in order to make a profit. This allows us to spread our influence throughout the corrupt elite of the NCR!"
+
+  KHA_focus_the_logical_path:0 "The Logical Option"
+  KHA_focus_the_logical_path_desc:0 "Few in the wasteland are worthy of even the consideration of an alliance with the Khans, but across the Colorado a very similar beast awaits. The Legion maintains many of the same views we do—including an undying hatred of the NCR—and so we should cozy up with them. Who knows? We may even crush the NCR together."
+
+  KHA_focus_a_friend_of_the_legion:0 "A Friend of the Legion"
+  KHA_focus_a_friend_of_the_legion_desc:0 "The Legion may be closely aligned with us on many issues of policy, but we do not currently have many diplomatic ties—indeed, some of the Legion's leadership sees us as little more than tribal savages! (Honestly! Us, savages! Our soldiers wash twice a fortnight—that's twice as much as they do!) We should seek to enlighten them about our heritage and culture, so that our two civilizations may intertwine."
+
+  KHA_focus_caesars_advisor:0 "Caesar's Advisor"
+  KHA_focus_caesars_advisor_desc:0 "As a symbol of our growing friendship, Caesar sent to us one of his most trusted advisors—a frumentarii who goes by the name of Karl. He will undoubtedly be reporting back to Caesar himself, so we must ensure we both take his advise onboard, and teach him a thing or two about how we make war."
+
+  KHA_focus_join_the_legion:0 "Join the Legion"
+  KHA_focus_join_the_legion_desc:0 "A grand military alliance between us and the Bull across the Colorado is the logical progression to our current relationship with the Legion. All we need to do is ask for it."
+
+  KHA_focus_ideas_of_the_legion:0 "Ideas of the Legion"
+  KHA_focus_ideas_of_the_legion_desc:0 "More than one thing has spread when we began adopting some of the Legion's tactics and organisation—namely, their rejection of all things automated. It's a view we'll have to accept if we want further benefit from the alliance."
+
+  KHA_focus_legion_slave_trade:0 "Legion Slave Trade"
+  KHA_focus_legion_slave_trade_desc:0 "Both the economy of the Legion and our own economy rely heavily on the trading of slaves. We should, as a result, attempt to combine our slave pools—giving us more access to the kinds of slaves we need the most."
+
+  KHA_focus_a_bastion_across_the_colorado:0 "A Bastion Across the Colorado"
+  KHA_focus_a_bastion_across_the_colorado_desc:0 "Whilst we're technically in a military alliance with the Legion, it's more or less taken for granted they will be unable to assist us directly should the NCR invade. Consequentially, we must build up our own defences to fend off said threat."
+
+  KHA_focus_war_with_ncr:0 "Prepare for War with the Bear"
+  KHA_focus_war_with_ncr_desc:0 "It will not be long now before we have our pound of flesh, but we are in need of some more fighting men to fill our ranks! Let us call the warbands back home."
+
+  KHA_focus_avenge_bittersprings:0 "Avenge Bitter Springs"
+  KHA_focus_avenge_bittersprings_desc:0 "The drums of war have been sounded. We will not be pushed back. We will never relent. We must drive these dogs back to where they came from. Never again will they massacre our innocent women and children! To arms!"
+
+  KHA_focus_legion_industry:0 "Legion Industrial Ideas"
+  KHA_focus_legion_industry_desc:0 "Advisors from the Legion have explained to us several techniques to improve our industrial capacity through better use of slave labour and more efficient metal working. These shall undoubtedly help us increase our output to newfound heights!"
+
+  KHA_focus_legion_weapons:0 "Legion Weapons"
+  KHA_focus_legion_weapons_desc:0 "Caesar himself has ordered that we be supplied with several tonnes of weapons, ammunition, explosives, and other equipment, so that we may be able to better hold our own against the NCR. We should graciously accept."
+
+  KHA_focus_fake_neutrality:0 "A Facade of Neutrality"
+  KHA_focus_fake_neutrality_desc:0 "Whilst the protection the Legion offers is appealing, they demand too much from us in return. Instead, we should do things our own way—though it is obvious which side we favour in the clash between the Bear and the Bull."
+
+  KHA_focus_our_own_slave_trade:0 "Our Own Slave Trade"
+  KHA_focus_our_own_slave_trade_desc:0 "Slaves run many economies in the wasteland—ours included. We should prioritise enslaving as many people as we can to increase our industrial capacity."
+
+  KHA_focus_backhand_support:0 "Cloak and Dagger"
+  KHA_focus_backhand_support_desc:0 "Directly engaging the NCR troops on our borders would only lead to waves of troopers sent against us. Instead, we should send some of our elite troops to the Legion to assist them in their fight—allowing us some oh so sweet revenge whilst not jeopardizing the lives of our women and children yet again."
+
+  KHA_focus_khan_addicts:0 "Synthetic Opioids"
+  KHA_focus_khan_addicts_desc:0 "With new technology our own people have shifted from use of the old natural opioids to much, much stronger synthetic opioids—jet and psycho. Only an idiot would step in the way of one of these drug addicted brutes."
+
+  KHA_focus_khan_overdose:0 "Doped Up Khans"
+  KHA_focus_khan_overdose_desc:0 "By giving out a larger amount of chems before battle, we will be able to \"dope up\" our men—putting them in a fit of rage and giving them a significant attack bonus at the cost of organisation."
+
+  KHA_focus_upgrade_the_arsenal:0 "Upgrade the Arsenal"
+  KHA_focus_upgrade_the_arsenal_desc:0 "No matter how courageous our forces are in battle, they can't defeat an NCR trooper with a laser musket when only equipped with a knife. We should upgrade our weaponry so that our prowess can shine."
+
+  KHA_focus_a_khan_holds_their_own:0 "A Khan Can Hold His Own"
+  KHA_focus_a_khan_holds_their_own_desc:0 "In order to even join the Khans, a warrior must prove he can hold his own in one-on-one battle. Many of our enemies don't receive the same training."
+
+  KHA_focus_cheap_firearms:0 "Cheap Firearms"
+  KHA_focus_cheap_firearms_desc:0 "The wasteland is a treasure trove of abandoned weapons and other equipment. We must exploit this!"
+
+  KHA_focus_impale_the_enemy:0 "Impale Our Enemies"
+  KHA_focus_impale_the_enemy_desc:0 "A true Khan warrior is one that does not cower when directly in the face of his enemy, event when outgunned and outnumbered. They instead pull together and destroy anyone who opposes them against all odds—well, and the thermic lance they wield sure helps."
+
+  KHA_focus_deal_with_gun_runners:0 "A Deal with the Gun Runners"
+  KHA_focus_deal_with_gun_runners_desc:0 "A loosely-knit band of Boneyard dwellers, the Gun Runners have had a long past in the business that bears its name. They take pride in constructing only the finest, and highest-quality weapons. Although located primarily in the Boneyard the Gun Runners operate several small factories on the outskirts of New Vegas, and like every other dirty merchant they would be willing to supply us with arms for caps."
+
+  KHA_focus_the_khan_arena:0 "The Khan Arena"
+  KHA_focus_the_khan_arena_desc:0 "A large arena resides in the canyon where multiple Khans hone their melee fighting abilities. Inside the arena, Khans fight in great competitions to determine the ultimate warriors—and the winners of these competitions are usually snapped up to become leaders of warbands."
+
+  KHA_focus_weapon_manafacturing_quantity:0 "Mass Production"
+  KHA_focus_weapon_manafacturing_quantity_desc:0 "Whilst every Khan can fight well unarmed, this is not always feasible—especially when facing down NCR troopers armed to the teeth with guns. We should focus on making weapons!"
+
+  KHA_focus_new_tactics:0 "New Tactics"
+  KHA_focus_new_tactics_desc:0 "Whilst our clashes with the NCR have meant we know a thing or two about how they fight, it also means they know a thing or two about how we fight. We need to stay unpredictable!"
+
+  KHA_focus_iron_steeds:0 "Iron Steeds"
+  KHA_focus_iron_steeds_desc:0 "Genghis Khan led his warriors across the vast steppes on the backs of grand warhorses. We will lead ours on the backs of something much faster, and much sexier—the motorbike."
+
+  KHA_focus_war_path:0 "The Great Warpath"
+  KHA_focus_war_path_desc:0 "All those who stand between us and our ambitions must fall to their knees before us. To war!"
+
+  KHA_focus_agricultural_development:0 "Agricultural Development"
+  KHA_focus_agricultural_development_desc:0 "We have always been a people of many origins. With those many origins come many ideas on how to survive in these hard untamed lands—a prominent one of them being agriculture."
+
+  KHA_focus_construction_techniques:0 "Construction Techniques"
+  KHA_focus_construction_techniques_desc:0 "Now that we have decided to settle down, we must refine our methods of construction to allow more rapid production of abodes and factories."
+
+  KHA_focus_build_a_weapons_stockpile:0 "Create a Stockpile"
+  KHA_focus_build_a_weapons_stockpile_desc:0 "While the going is easy, we must always be preparing for time when the going gets tough. Stockpiling weapons will at least give us something to fall back on..."
+
+  KHA_focus_scavenger_outposts:0 "Scavenger Outposts"
+  KHA_focus_scavenger_outposts_desc:0 "Scavenger outposts provide us a source of important materials which are otherwise hard to come by in the wastes."
+
+  KHA_focus_improved_housing:0 "Improved Housing"
+  KHA_focus_improved_housing_desc:0 "While Khans may traditionally live in tents, it may be greatly beneficial to begin development of permanent residences—even if it is just for the women and children at first."
+
+  KHA_focus_old_world_civilization:0 "Old World Civilization"
+  KHA_focus_old_world_civilization_desc:0 "Raiding is not the only way to make ends meet in the wasteland—indeed, farming, hunting and gathering can be just as lucrative."
+
+  KHA_focus_one_community:0 "Tribal Spirit"
+  KHA_focus_one_community_desc:0 "The Great Khans are one big family—everyone cares for each other, and someone is always there to catch you if you fall. We have our fights, but we always work out our differences. This is perhaps our greatest asset."
+
+  KHA_focus_fire_support:0 "Fire Support"
+  KHA_focus_fire_support_desc:0 "The key to defending ourselves is through heavy duty explosives—we should focus on implementing them into our armies."
+
+  KHA_focus_enhanced_tactics:0 "Enhanced Tactics"
+  KHA_focus_enhanced_tactics_desc:0 "The world around us is filled with new battles fought with new tactics. We should write our own doctrines to better aid us in battle."
+
+  KHA_focus_military_planning:0 "Careful Planning"
+  KHA_focus_military_planning_desc:0 "Total war was never a viable strategy for the Khans—we were too few and stretched too far. Instead, we should plan our assaults so that each attack deals maximum damage."
+
+  KHA_focus_medical_advancements:0 "Medical Advancements"
+  KHA_focus_medical_advancements_desc:0 "When the Followers first came to us they aided us in the form of technological advancements—one of the most important lessons they taught us was how to make our own medication, helping us tend to the battle-wounded."
+
+  KHA_focus_electronic_technology:0 "Electronic Technology"
+  KHA_focus_electronic_technology_desc:0 "While the knowledge the Followers of the Apocalypse granted to us is extensive, it lacks the knowledge on how to reproduce technology in significant quantities or how to introduce improvements. That's where we come in..."
+
+  KHA_focus_industrial_aid:0 "Industrial Aid"
+  KHA_focus_industrial_aid_desc:0 "The Followers are famous for the help they give our small frontier communities. It is time that we embrace the old world technology the Followers use."
+
+  KHA_focus_our_own_innovations:0 "Our Own Innovations"
+  KHA_focus_our_own_innovations_desc:0 "The Followers of the Apocalypse have provided us with the building blocks of our future. It is our job now to keep building."
+
+  KHA_focus_trained_field_medics:0 "Field Medics"
+  KHA_focus_trained_field_medics_desc:0 "Although the Followers are pacifists in nature, we can adapt the help they gave us in order to save our warriors on the fields of battle."
+
+  KHA_focus_settle_the_wasteland:0 "Settle the Wasteland"
+  KHA_focus_settle_the_wasteland_desc:0 "The Khans have been on the move since their founding, but no more shall we run. It is time to settle down and establish a permanent power base."
+
+  KHA_focus_the_long_house:0 "The Long House Council"
+  KHA_focus_the_long_house_desc:0 "The Long House sits at the center of the clan, and all the important decisions are made here. By cherrypicking the best advisors from the warbands that make up the Khans, we will ensure we can never go wrong."
+
+  KHA_focus_chance:0 "Chance"
+  KHA_focus_chance_desc:0 "Chance is a member of the Great Khans and a survivor of the Bitter Springs Massacre. He is considered by many a veteran of the clan, and a ruthless warrior, showing no remorse as he cuts his foes down one by one."
+
+  KHA_focus_mcmurphy:0 "McMurphy"
+  KHA_focus_mcmurphy_desc:0 "McMurphy was born member of the Khans, and has bags of experience leading small bands of the clan members on raiding missions deep into enemy lands."
+
+  KHA_focus_the_armorer:0 "The Armourer"
+  KHA_focus_the_armorer_desc:0 "The Armourer of the Great Khans is considered one of the best in the wasteland, and with little more than a scrap of metal she has been known to forge the finest breast plates and body armour."
+
+  KHA_focus_oscar_velasco:0 "Oscar Velasco"
+  KHA_focus_oscar_velasco_desc:0 "Oscar Velasco was one of the few soldiers at Bitter Springs the day of the massacre, and fought bravely with his fellow Khans until they were totally overwhelmed. Oscar managed to survive due to his unique sniper abilities, allowing him to cut down the NCR troopers who attempted to follow him up the narrow mountain passes. His skill will be of great use to us—as will the regiments of survivors he can call upon."
+
+  KHA_focus_melissa_lewis:0 "Melissa Lewis"
+  KHA_focus_melissa_lewis_desc:0 "Melissa is a courier for the Great Khans and knows all the tricks of the business. She wasn't born into the tribe but instead underwent grueling training—and she shows true potential."
+
+  KHA_focus_desmond_lans:0 "Desmond Lans"
+  KHA_focus_desmond_lans_desc:0 "Desmond has never forgotten the Bitter Springs massacre, and believes it's high time the Khans have their revenge on the NCR for their atrocities."
+
+  KHA_focus_jack:0 "Jack"
+  KHA_focus_jack_desc:0 "Jack is an easy going drug dealer, or \"drug supplier\" as he prefers, you can often find him and Diane together. The pair run a drug trafficking ring in the Mojave, and supply the Great Khans with drugs as well. Jack learned chemistry from the Followers of the Apocalypse."
+
+  KHA_focus_diane:0 "Diane"
+  KHA_focus_diane_desc:0 "Diane is a drug dealer and member of the Great Khans. You can often find her and Jack together, although it seems to be mostly Jack who follows her around rather than a mutual friendship."
+
+  KHA_focus_anders:0 "Anders"
+  KHA_focus_anders_desc:0 "Anders is and always has been a Khan, making a name for himself as Diane's most trusty drug runner. Together the trio of Diane, Jack and Anders control the vast majority of the Great Khans' drug trade."
+
+  KHA_focus_jerry_the_punk:0 "Jerry The Punk"
+  KHA_focus_jerry_the_punk_desc:0 "When Jerry was a child, the Followers of the Apocalypse came to Red Rock Canyon with pre-War books. Jerry used to spend hours reading these books, especially poetry books, and has consequentially grown into the role of the Great Khan's poet—writing epics about the victories of the Khans."
+
+  KHA_focus_emma_winslow:0 "Emma Winslow"
+  KHA_focus_emma_winslow_desc:0 "Emma was one of the original Followers of the Apocalypse to make contact with the Great Khans, and dedicated her time to helping the clan—even beginning to embrace its culture. By inviting her to the Long House we may be able to convince her people that we are not so bad."
+
+  KHA_focus_dalia:0 "Dalia"
+  KHA_focus_dalia_desc:0 "Dalia is more than just a pretty face, and her way with words combined with her keen political awareness make her a great motivational speaker."
+
+  KHA_focus_new_lands:0 "New Lands"
+  KHA_focus_new_lands_desc:0 "Our numbers grow by the day, but our territory does not. We need new resources, new settlements and new slaves—so we must take them!"
+
+  KHA_focus_a_new_home:0 "A New Frontier"
+  KHA_focus_a_new_home_desc:0 "Somewhere out there is a home for the Khans.\nWe just have to find it."
+  KHA_focus_a_new_home_tt:0 "§RHelp the Khans travel somewhere new in a future update.§!"
+
+  KHA_focus_expand_northwards:0 "Push for Area 51"
+  KHA_focus_expand_northwards_desc:0 "The Sky Reavers to our north currently occupy Area 51, a highly prized pre-war military facility that seems to have so far remained immune to marauding raider bands. Surely great prizes must lie within the base, and not to mention the multitude of settlements an occupation of Sky Reavers land would give us."
+
+  KHA_focus_a_new_silk_road:0 "Supply the Shady Sands Black Market"
+  KHA_focus_a_new_silk_road_desc:0 "Now that we have more or less direct access to Shady Sands through our various settlements in and around Area 51, we can easily push our drugs, narcotics and weapons into Shady Sands itself. Sure enough, the political elite are begging for an escape from the cumbersome democracy that the NCR has transformed into."
+
+  KHA_focus_enslave_the_west:0 "Enslave the West"
+  KHA_focus_enslave_the_west_desc:0 "The Western lands of the Sky Reavers is ripe with settlements and resources, but also ripe with resistance. It must be crushed if we are to continue our work in the area."
+
+  KHA_focus_integrate_the_west_reavers:0 "Create Khan Outposts"
+  KHA_focus_integrate_the_west_reavers_desc:0 "Now that Western Nevada is purged of enemies, we should move a small group of Khans into the canyon and set up outposts. This land is now rightfully ours, and soon we will begin recruiting Khans from the area."
+
+  KHA_focus_explore_a51:0 "Initiate an Area 51 Expedition"
+  KHA_focus_explore_a51_desc:0 "The military facility at Area 51 was badly mauled by missiles in the Great War, but there remain large underground areas entirely sealed off. Many of these areas haven't seen the light of day in decades, and must contain vast riches. Or grave dangers..."
+
+  KHA_focus_enslave_the_east:0 "Enslave the East"
+  KHA_focus_enslave_the_east_desc:0 "Eastern Nevada has a large civilian population left, despite the drawn-out war. We should put the populace to work in the factories and the mines!"
+
+  KHA_focus_integrate_the_east_reavers:0 "Integrate the Springs"
+  KHA_focus_integrate_the_east_reavers_desc:0 "Whilst our fight with the Sky Reavers was bloody, many of the locals in settlements we have captured are sympathetic to our way of life. Indeed, many wish to join the Khans. We should exploit this to raise even more warbands!"
+
+  KHA_focus_press_advantage:0 "Press Our Advantage"
+  KHA_focus_press_advantage_desc:0 "The tribes and raider gangs of Nevada have been wholly unprepared for our rapid conquest of the Sky Reavers, and the expansion of our drug running networks into markets far and wide. We must press on before they can mount a defence!"
+
+  KHA_focus_expansion_rangers:0 "Crush the Rangers"
+  KHA_focus_expansion_rangers_desc:0 "The Rangers to our North have been a constant plague to our drug running operations. Obsessed with their pathetic ideals of helping the poor and defenceless, they clash with our warbands constantly. It's time to end them once and for all."
+
+  KHA_focus_reno_drug_trade:0 "Access the New Reno Drug Trade"
+  KHA_focus_reno_drug_trade_desc:0 "New Reno is crawling with drugs, and we need somewhere safe to sell from. Fortunately, we have a recently vacated 'citadel' that is prime real estate..."
+
+  KHA_focus_recruit_lowlifes:0 "Recruit the Scum of the Earth"
+  KHA_focus_recruit_lowlifes_desc:0 "We lord over a large amount of territory that just isn't part of the Great Khans. As a result, we struggle to draw recruits from these areas normally. Maybe we should change tactics, and focus on recruiting those vulnerable to 'persuasion'..."
+
+  KHA_focus_backstab_wht:0 "Crush the White Legs"
+  KHA_focus_backstab_wht_desc:0 "The White Legs and their vast empire pose a direct threat to our land. We must deal with them, before they become a threat to us and our allies."
+
+  KHA_focus_utah_client_states:0 "Create Tributary States in Utah"
+  KHA_focus_utah_client_states_desc:0 "We will be severely overextended if we reach our territory into Utah proper, and so we should seek to create tributary states amongst local tribes and settlements."
+  KHA_tributary_effect_tt:0 "This focus has several outcomes:\n\nIf you own all the core lands of the §YSorrows§!, §YTimekeepers§!, or §YTar Walkers§! you will §GPuppet§! them directly.\n\nOtherwise you will gain §YWargoals§! on any nation that owns their core land you don't own. \n\nIf the §YSorrows§!, §YTimekeepers§!, or §YTar Walkers§! are in a faction with you they will become your §Gpuppet§!.\n\nOtherwise you will gain a §RPuppet wargoal§! against them."
+
+  KHA_focus_raise_new_wht_hosts:0 "Raise White Leg Hosts"
+  KHA_focus_raise_new_wht_hosts_desc:0 "Many tribals of the White Legs are not fanatical followers of either Caesar or the Mormons. Indeed, many are willing to serve any master on the promise of loot and glory. They'll make easy recruits."
+  kha_raise_wht_warbands:0 "A division of §RKhan Footrunners§! will be raised in every controlled state that is a core of [WHT.GetNameWithFlag]."
+
+  KHA_focus_integrate_wht:0 "New Khan Members"
+  KHA_focus_integrate_wht_desc:0 "Many of the people within the White Legs were never opposed to joining the Khans, and also have significant experience at surviving in the wastes. We mustn't let this talent go to waste!"
+
+  KHA_focus_enslave_wht:0 "Make Them Slaves"
+  KHA_focus_enslave_wht_desc:0 "The White Legs have been our enemies, and as such we can never trust them to join the warbands. We should instead put them in shackles and send them to the factories and mines!"
+
+  KHA_focus_khan_culture_1:0 "Means of Production"
+  KHA_focus_khan_culture_1_desc:0 "The Khans have always been on the move, producing what they need wherever they are. We should follow suit with these traditions."
+
+  KHA_focus_khan_culture_2:0 "Social Darwinism"
+  KHA_focus_khan_culture_2_desc:0 "Only the strongest survive in Khan culture, and through this our whole people have become strong!"
+
+  KHA_focus_khan_culture_3:0 "Able Bodies"
+  KHA_focus_khan_culture_3_desc:0 "Every Khan who is able-bodied is a warrior. This may have a strain on our production, as we have no real dedicated mechanics, but it means that every Khan can defend themselves, and those around them."
+
+  KHA_focus_khan_culture_4:0 "Hit & Run Tactics"
+  KHA_focus_khan_culture_4_desc:0 "We'll never be able to field a large army, so we must develop our own tactics to make the best of what we have."
+
+  KHA_focus_khan_culture_5:0 "Permanent Structures"
+  KHA_focus_khan_culture_5_desc:0 "A nomadic lifestyle is fine for making ends meet by raiding, but if we are to become prosperous we need to find somewhere to settle down."
+
+  KHA_focus_khan_culture_6:0 "Ideas of the Future"
+  KHA_focus_khan_culture_6_desc:0 "Khan culture has always been defined as primitive, but as we settle down we are able contemplate new ways of life."
+
+  KHA_focus_khan_culture_7:0 "Permanent Residence"
+  KHA_focus_khan_culture_7_desc:0 "By having a place of permanent residence, we also have a place of permanent saftey—providing we keep it well defended."
+
+  KHA_focus_khan_culture_8:0 "Defensive Strategies"
+  KHA_focus_khan_culture_8_desc:0 "We should broaden our defensive capabilities beyond Red Rock Canyon and defend all we deem is ours."
+
+  KHA_establish_the_drug_runners:0 "Establish the Drug Runners"
+  KHA_establish_the_drug_runners_desc:0 "While we can produce more drugs than we currently are selling. To expand our business we would require dedicated drug runners to bring in the dough."
+
+
+  ######REGIS PATH#######
+
+  khan_regis_intro:0 "The Great Khan"
+  khan_regis_intro_desc:0 "Regis arrived as a stranger in a strange land, but what wasn’t all that strange to him were the Northern Khans. Though their chief Amgalan has adopted a light touch, it’s clear that forty years apart haven’t made the rest of the Khans all that different. Welcomed with open arms, Regis already holds an outsized amount of influence among the Khans and has the freedom to act as chief in all but name. Might be in name soon too."
+
+  khan_meet_amgalan:0 "Good Man's Word"
+  khan_meet_amgalan_desc:0 "Amgalan has given Regis a very long tether, unwilling to go against the clear popularity he holds amongst the Khans. The old chief has much to say though, and Regis was always good at listening."
+
+  khan_the_followers:0 "Our Old Acquaintances"
+  khan_the_followers_desc:0 "The Khans of the Mojave were once friends to the Followers of the Apocalypse, though they eventually parted ways due to certain disagreements about how to use their teachings. It’s different here though and Regis can see that courting the Followers favour is only going to help from here on out."
+
+  khan_open_initiations:0 "Open Initiations"
+  khan_open_initiations_desc:0 "The Great Khans have never been very strict about where we come from, anyone can be a Khan if they’re capable enough and want to be. Putting out word that our doors are open should draw in some folks to fill out our ranks."
+
+  khan_our_heritage:0 "Our Heritage"
+  khan_our_heritage_desc:0 "The Khans past is one of struggle, of ambition and willingness to spit in the face of those who’d control us, of getting back up when we’re knocked down. It didn’t always work out too well, but it’s who we are for better or worse."
+
+  khan_meet_esen:0 "The Warrior"
+  khan_meet_esen_desc:0 "Esen is a relative newcomer to the Khans but her fiery spirit and determination to protect her new tribe has garnered her more than a few admirers. If Regis is to one day wield the full might of the Khans warriors, he’ll need her respect."
+
+  khan_mojave_guns:0 ""Shooting Sticks""
+  khan_mojave_guns_desc:0 "In the Mojave the Khans had to fight frequently, whether it was raiding the NCR or facing off against cazador swarms. Many of our people learned gunsmithing on the side to keep us stocked and giving them better workshops to practise in will give us a leg up in supplying our fighters."
+
+  khan_bigger_motors:0 "Bigger Motors"
+  khan_bigger_motors_desc:0 "Out in these open plains and steppes there’s a lot of ground to cover. Motorcycles have been enough so far but it’s time to see about getting some of these old cars moving again."
+
+  khan_our_spirit:0 "Our Spirit"
+  khan_our_spirit_desc:0 "To be a Khan is to be a warrior, not many of us can’t take a punch and give one right back. That willingness to get right back into the fight when we take one on the chin is the Khan spirit."
+
+  khan_the_present_and_the_past:0 "The Present and The Past"
+  khan_the_present_and_the_past_desc:0 "A question has been on Regis’ mind in recent days, as he gets to know his northern kin better and assesses the situation. ‘Who are the Khans?’ He knows some of the answer without a doubt, but the rest of it might be up in the air. He’ll have to figure it out soon though."
+
+  khan_the_present:0 "The Promising Future"
+  khan_the_present_desc:0 ""There’s a chance out here for the Khans to reinvent themselves, start playing a different tune. To a point. Amgalan isn’t wrong when he says we don’t need to spill so much blood or raid the neighbours anymore." - Regis"
+
+  khan_back_to_the_beginnings:0 "Let's Start Again"
+  khan_back_to_the_beginnings_desc:0 "If we’re to settle things down a bit, we’re gonna need a good place to do it in. A few places actually. Time to put down the gun for a while and pick up the hammer. The Followers will help, I’m sure."
+
+  khan_who_are_the_khans:0 "Who Are the Khans?"
+  khan_who_are_the_khans_desc:0 "Regis once asked himself ‘Who Are The Khans?” Well he’s thought long and hard about it and come up with something of an answer. The Khans are the masters of this land, not just raiders or squatters in the ruins. That means something. It means that it’s the Khans job to keep this land safe and sound."
+
+  khan_blowing_off_steam:0 "Blowing Off Steam"
+  khan_blowing_off_steam_desc:0 "We’ve settled down a bit and staked our claim to this land but that doesn’t mean all the Great Khans are satisfied. Some of our people crave a good fight, and what better way to take advantage of that than with some mercenary work? Anyone would be lucky to have the Khans on their side, even if it’s just a handful of us."
+
+  khan_yellowstone_science:0 "A Walk in the Park"
+  khan_yellowstone_science_desc:0 ""I went with Amgalan and a few others to see Yellowstone with my own eyes. It’s a hell of a place, I didn’t think they had forests like that anymore. You should see it sometime. The Follower lady, Justine, was more excited about some of the old labs hidden in the place than the trees though." -Regis"
+
+  khan_expanding_our_bag:0 "Expanding Our Bag of Tricks"
+  khan_expanding_our_bag_desc:0 "Justine and Emma found a few more things in their explorations of Yellowstone than expected, alerting us to hidden stockpiles of various weaponry as well as formulas for a few new types of chems. Putting it all to use will take time, but it’ll be worth it."
+
+  khan_four_fathers_tribe:0 ""The Fathers""
+  khan_four_fathers_tribe_desc:0 "The Four Fathers are strange perhaps, and their religion stranger, but they are nothing if not straightforward. As long as they are allowed access to their gods at Rushmore they should make for trustworthy allies."
+
+  khan_the_past:0 "The Proud Past"
+  khan_the_past_desc:0 ""The Khans are who they’ve always been. We’re fighters and we don’t give up. Doesn’t matter where we are, we’re gonna make the most of it. Don’t forget it." - Regis"
+
+  khan_jackson_family:0 "Exiles, Just Like Us"
+  khan_jackson_family_desc:0 "The Jacksons are a fiery clan, burning with spite and thirst for revenge. While that makes them dangerous neighbours, it also means that it’s simple to negotiate with them. If we swear to aid them in returning to their old homes, they will help us in return."
+
+  khan_metal_mouths:0 "Metal Men"
+  khan_metal_mouths_desc:0 "To the north are a gang of raiders quite unlike any we’ve met before; with limbs of steel and faces filled with machinery they’re an imposing sight. Their boss, a brutal man by the simple moniker of Steel Joe, is willing to deal with us however. As long as we don’t hold him back we can be allies, though probably never friends."
+
+  khan_drugs_as_a_part_of_culture:0 "Drugs As A Part of Culture"
+  khan_drugs_as_a_part_of_culture_desc:0 ""You can’t go this far, we’re not going to stand by and help as you start peddling drugs to every poor soul around. This is a betrayal of our mission!" Justine was furious and Amgalan was silent.\n\n"Your mission. We’re just giving people what they want and getting paid for it. Sorry if you can’t handle that, but we’re the Great Khans not the Khans of the Apocalypse." Regis kept his tone even but Justine grew redder in the face with each word until finally she stormed out of the room."
+
+  khan_family_business:0 "Just a Family Business"
+  khan_family_business_desc:0 "We’re more than just fighters, we’re arms makers and traders in our right. We can take both of those things and make a real industry of it, if we try hard enough. We’ll have more guns at the end of the day at least and that’s worth it."
+
+  khan_gun_without_target:0 "A Gun Without a Target"
+  khan_gun_without_target_desc:0 "We’ve got our arms production ramping up but as we stockpile weapons it does beg a question; who are we gonna use them on? Might be time to start taking a serious look at the neighbours and see if we can’t answer that question."
+
+  khan_money_rolls_in:0 "The Money Rolls In"
+  khan_money_rolls_in_desc:0 "Diane has been hard at work expanding our network of clients and the Khan’s products are known now from the Black Canyon to Calgary and everywhere in between. Jack and the other chem brewers can barely keep up as demand increases, but you can’t argue with how much money it’s bringing in."
+
+  khan_honour_the_promise:0 "Honour the Promise"
+  khan_honour_the_promise_desc:0 "A promise was made, and the Jacksons patriarch has come calling. Neil expects us to return their rightful lands to them, and in exchange we will be given their home in exile. Never let it be said a Khan’s word is false."
+
+  khan_what_lies_beyond:0 "What Lies Beyond"
+  khan_what_lies_beyond_desc:0 "We didn’t get this far without a fight, and there’s no chance we’re gonna keep going without a few more. We’ll need to be ready for whatever’s on the horizon, even if it’s wearing a whole lot of power armour."
+
+  khan_our_heavies:0 "The Heavies"
+  khan_our_heavies_desc:0 "Most of the Great Khans know their way around a fight, but some live for it. They’re some of our biggest and strongest, and putting those heavies in the right place is sometimes all it takes to end a fight. It would be smart to get them some of the best gear we’ve got."
+
+  khan_papa_khan_legacy:0 "In The Name of Papa Khan"
+  khan_papa_khan_legacy_desc:0 "The Khans of the south still bear the wounds of their defeat in the Mojave, the greatest of which being the loss of their Papa. Most had never known any other leader, and while his death was heroic they grieve nonetheless. Regis has proposed to raise a memorial to the man, and to change the name of old Darion to something more meaningful."
+
+  khan_far_son:0 "Moles in the Yard"
+  khan_far_son_desc:0 "Just to the south, raspy breathed monsters in black coats and brandishing metal claws have been forming into a horde that threatens everyone. It’s only a matter of time before their beady eyes are turned towards us, we shouldn’t give them the chance."
+
+  khan_great_stampede_assault:0 "Collision Course"
+  khan_great_stampede_assault_desc:0 "As we expanded to the north another force was expanding to the south. Calling themselves the Great Stampede, they’re a proud, warlike and strong people with a history of defying their neighbours. They’re practically Khans, and that means we’re not likely to stay at peace for long. Better to get in the first swing when they’re not looking."
+
+  khan_montana:0 "The Winning Hand"
+  khan_montana_desc:0 "The Brotherhood of Steel have never been friends of the Khans, and just like steel-clad cockroaches they seem to be everywhere in the wasteland. Montana seems to be no different. This time though it’s our turn to send them packing."
+
+  khan_middlemark:0 "Closing Time"
+  khan_middlemark_desc:0 "So it’s a giant store, filled with guns and pre-war goods, run by a robot and a bunch of jackasses with price guns? How has no one else hit this place yet?"
+
+  khan_macarthur:0 ""The Bug Men""
+  khan_macarthur_desc:0 "Tales of the Enclave from back west have survived our long journeys from old California, of the black-clad bug men who wanted to kill everyone and take over the world. These ones aren’t on an oil rig but they don’t seem too different. We’d be doing everyone a favour if we did a little exterminating."
+
+  khan_united_identity:0 "The One Tribe"
+  khan_united_identity_desc:0 "The line between the Khans of the north and those of the south has gotten blurry over the past months. Despite the decades we’re all still kin. There really aren't north and south Khans anymore, just us."
+
+  khan_the_true_heir:0 "The True Heir"
+  khan_the_true_heir_desc:0 "Regis never expected when he led the flight from Bitter Springs to end up here, but here he is nonetheless. Amgalan has made it clear he will step down and make Regis’ authority official, and the Khans themselves are more than ready for it. The Khans have a Papa once more."
+
+  khan_great_stampede:0 "The Horsemen"
+  khan_great_stampede_desc:0 "Riding a horse is quite different from driving a motorcycle or moving on foot, the beasts have a mind all their own and not everyone is capable of mastering the skill. That being said, they are fine companions and there are many amongst our people jealous of those who have access to them. We must double our efforts to capture and tame the herds roaming the plains and steppes."
+
+  khan_come_join_our_fire:0 "Come Join Our Fire"
+  khan_come_join_our_fire_desc:0 "The Niitsitapi folk are honest and proud with their own history of trials. The kind of people we can respect and understand. They are welcome to join the Council if they wish."
+
+  khan_macarthur_lab_equipment:0 "New Possibilities"
+  khan_macarthur_lab_equipment_desc:0 "The Enclave were a bunch of bastards but they knew a thing or two about technology. Their labs and engineering bays are chock full of stuff for us to pick apart for our own use. Maybe we can finally perfect UltraPsycho?"
+
+  khan_expand_the_drug_business:0 ""Genghis""
+  khan_expand_the_drug_business_desc:0 "In a time so far back it may as well not exist, there were other Khans. Khans who conquered half the world from horseback, and did it without guns! Their Khan of Khans was named Genghis, and we’ll prove worthy of the name."
+
+  khan_the_worthy_heir:0 "The Worthy Heir"
+  khan_the_worthy_heir_desc:0 "There’s no use in pretending anymore, with the Followers giving us the cold shoulder and most of our kin happy to follow Regis’ lead, Amgalan’s influence amongst the Khans is all but spent. It's time to make it official. Regis is the true Khan of Khans."
+
+
+
+  ######REGIS PATH#######
+
+  # The Mad Baron Tree For the April Fools 2022
+
+  KHA_focus_tmb_1:0 "The Saviour"
+  KHA_focus_tmb_1_desc:0 "It seems our saviour is suffering amnesia from his fight with the foul courier. He spouts nonsense about being a man who died 354 years ago."
+
+  KHA_focus_tmb_2:0 "Search For 'Horses'"
+  KHA_focus_tmb_2_desc:0 "Our Khan ordered us to find a mythological beast called 'horse'. We could not find anything about horses other than the fact that they live in the mythical lands of Equestria and Wyoming. We're searching for the land of Equestria, as even the Khans know Wyoming does not actually exist."
+
+  KHA_focus_tmb_tengri:0 "Under the Power of Eternal Heaven"
+  KHA_focus_tmb_tengri_desc:0 "Our laws will be simple, as Tengri intended: never forget your debts, never kill women or children, never run from your foes and never betray your Khan."
+
+  KHA_focus_tmb_3:0 "Call of the Khan"
+  KHA_focus_tmb_3_desc:0 "Following the Call of the Khan, many Khans formed cavalry brigades. All will tremble before the Horde."
+  KHA_focus_tmb_3_tt:0 "10 units of cavalry units wait for the command of the Great Khan."
+
+  KHA_focus_tmb_vegas:0 "Blood For the Sky God"
+  KHA_focus_tmb_vegas_desc:0 "Tengri ordained us with the power to exact our revenge against the heathen House. With our newfound strength, streets of Vegas will be cleansed with blood."
+
+  KHA_focus_tmb_temple:0 "Fire and Blood"
+  KHA_focus_tmb_temple_desc:0 "We took what was ours, with fire and blood. The city was purged of its sins and became a city worthy of one true God of the Sky."
+
+  KHA_focus_tmb_skyreavers:0 "'Sky' Reavers"
+  KHA_focus_tmb_skyreavers_desc:0 "Heathens to our north clutch on to gifts from the skies. We will take what is ours with force."
+
+  KHA_focus_tmb_enterprise:0 "USS Enterprise"
+  KHA_focus_tmb_enterprise_desc:0 "Seems like a ship from the stars are buried underneath the Area 51 facility. While the ship, called the USS Enterprise, is deserted, it brings up many questions. No one recalls US having a space force, or any starship for that matter. Perhaps we should investigate."
+
+  KHA_focus_tmb_wrath:0 "Wrath of the Khan"
+  KHA_focus_tmb_wrath_desc:0 "The ship was deserted by its crew, as we only found one prisoner inside the ship, demanding to be released. He claims to be a 'Khan' and wants to take his revenge. Seems good for us."
+  KHA_focus_tmb_wrath_tt:0 "This will unlock §MKhan Noonien Singh§! as a commander."
+
+  KHA_focus_tmb_north:0 "I Khan't Believe This"
+  KHA_focus_tmb_north_desc:0 "Nobody khan believe how fast we conquered all these lands. Lets khantinue to push forward."
+
+  KHA_focus_tmb_rangers:0 "Like A Khancer, We Spread"
+  KHA_focus_tmb_rangers_desc:0 "We will swarm over them."
+
+  KHA_focus_tmb_tech:0 "Ungernomics"
+  KHA_focus_tmb_tech_desc:0 "Wise policies of our Khan led to a dramatic increase in our economy, coupled with technological advancements."
+
+  KHA_focus_tmb_avenge_bitter_springs:0 "Avenge Bitter Springs"
+  KHA_focus_tmb_avenge_bitter_springs_desc:0 "We found some nukes around Ashton. Perhaps we can have a communications mistake and drop it on them, accidentally."
+
+  #Ideas
+
+  KHA_idea_tengri:0 "Under the Power of Eternal Heaven"
+
+  KHA_idea_genetic_soldiers:0 "Genetically Enchanced Soldiers"
+
+  april_fools_communist_vegas:0 "Communism With Elvis Characteristics"
+  april_fools_communist_vegas_desc:0 "When I was a child, ladies and gentlemen, I was a dreamer. I read comic books and I was the revolutionary in the comic book. I saw movies and I was the revolutionary in the movie. So every dream I ever dreamed has come true a hundred times...I learned very early in life that: ‘Without communism, the workday would never end; without communism, a man ain’t got a comrade; without communism, the road would never bend - without communism.' So I keep crushing capitalism. Goodnight. Thank you.."
+
+
+  #Military Buildup Focuses
+  khan_warriors:0 "The Khan's Warriors"
+  khan_warriors_desc:0 "The very heart of our tribe is a proud warrior culture. Their place in society must regularly be respected, lest they grow unruly."
+
+  khan_way_of_the_land:0 "The Way of the Land"
+  khan_way_of_the_land_desc:0 "Water is the very essense of life. A precious commodity that all wasteland societies must have. So, to strengthen our position and secure our future we will dig more wells."
+
+  khan_way_of_the_earth:0 "The Way of the Earth"
+  khan_way_of_the_earth_desc:0 "Cold steel bathed in warm blood. That's an image that's been replaying itself for thousands of years now. Even long after the destruction of humanity's greatest works, the need for metal makes itself known again."
+
+  khan_new_workshops:0 "New Workshops"
+  khan_new_workshops_desc:0 "Tribalistic, cottage industry will you serve you well, provided you're satisfied producing a gun every week or so! No, many hands means a need for many weapons, and only dedicated workshops will be able to sate such a need."
+
+  khan_biking_bonus:0 "Wheeled Steeds"
+  khan_biking_bonus_desc:0 "Our ancestors rode from Xanadu to Kiev on mounts of flesh and blood. We will ride from Mariposa to New York on mounts of steel and oil."
+
+  khan_biking_bonus_2:0 "Hell on Two Wheels"
+  khan_biking_bonus_2_desc:0 "The thunder of motors rings out over the plains once more, and it heralds worse than lightning. When the Khans ride, others fall."
+
+  khan_horsies_pretty:0 "Our Little Ponies"
+  khan_horsies_pretty_desc:0 "The horse is a hardy beast, a wasteland horse moreso than that. Our equine friends enjoy a place at our side during both peacetime, and war."
+
+  khan_horsies_better_gear:0 "Blazing Saddles"
+  khan_horsies_better_gear_desc:0 "The quality of a horses' equipment can make or break a rider during combat. It's important to settle only for the finest; craftsman barding, artisan saddlebags, hand carved bits, and more. Someone on patrol even claimed to have found a Pip-boy made to fit on the foreleg of a horse! What a horse would need with a Pip-boy, we're not sure."
+
+  khan_experience:0 "Tribal Drills"
+  khan_experience_desc:0 "Inaction causes decay. True for the muscles, true for the mind. Only with regular drilling will our warriors keep in peak condition."
+
+  khan_warrior_idea_1:0 "From Boys to Men"
+  khan_warrior_idea_1_desc:0 "Millennia ago, during the reign of the Old Khans, boys would be trained in the ways of a warrior from a young age. Archery, horse-riding, campaigning. It meant that the very day they became men, they were already well versed in the art of combat. We can emulate this to reduce the amount of formal training needed."
+
+  khan_warrior_idea_2:0 "Form the Officer Corps"
+  khan_warrior_idea_2_desc:0 "A dedicated officer corps is necessary for streamlining both training, and organization. The Mongols understood this, and so do we. \n\nI am the very model of an Ancient Major-General \nI've information vegetable, animal, and mineral \nI know the Khans of Kublei, and I quote the fights historical \nFrom Yehuling to Daohuigu, in order categorical."
+
+  khan_new_khans:0 "New Khans"
+  khan_new_khans_desc:0 "Being a Khan isn't all about blood! There are hundreds of tough, tribal folk that'd fit right in with out flock. All we need to do is lay out the welcome mat, and before long they'll come knocking."
+
+  khan_weapon_prod_idea_1:0 "Artisan Weaponsmiths"
+  khan_weapon_prod_idea_1_desc:0 "Weapons are a unique kind of product; it's the barrier between life and death. Being dispassionate about the craft won't just make people upset; it'll get them killed. So, out with the lazy smiths and in with the driven ones."
+
+  khan_mil_industry_2:0 "New Forges"
+  khan_mil_industry_2_desc:0 "Our efforts to attract artificers have borne the fruit of many skilled hands. Now, all they need is a place to work. The least we can do is provide such."
+
+  khan_weapon_prod_idea_2:0 "Further Refinement"
+  khan_weapon_prod_idea_2_desc:0 "With skilled hands and working forges, we're running out of ways to make our equipment better. The final thing to consider is material; weak alloys and impure metals should be weeded out, leaving only the purest steel."
+
+  khan_new_khans_2:0 "Never Another Home Lost"
+  khan_new_khans_2_desc:0 "Our preperations are complete and our warbands stand better equipped than ever. Nevermore will foreign armies march onto our soil and butcher our people! Any who try will find themselves at the wrong end of a rifle."
+
+  khan_khanate_rangers:0 "Rangers of the Khanate"
+  khan_khanate_rangers_desc:0 "The NCR humiliated us, but that doesn't mean we can't learn from them. The concept of a "Ranger" was foreign to much of our tribe before our encouter with the Bear, but hour darkest hour revealed much of how they held such a tight grip on the wasteland. Their finest warriors are given the best equipment, the best training, and the most dangerous missions. "Special Forces", they're called....yes, special indeed."
+
+  khan_doctrine_bonus:0 "The Art of War"
+  khan_doctrine_bonus_desc:0 "Wars are won firstly in the camp, secondly in the field. Without developing a doctrine for war, how could ever hope to beat an organized enemy? The simple answer is that we can't."
+
+  khan_using_our_tricks:0 "Using Our Tricks"
+  khan_using_our_tricks_desc:0 "Generations of sparring with neighbor tribes have sharpened the tactical edge of our people. Of course, modern war asks much more of a divisional commander; but that doesn't mean we can't get up to our old tricks, every once in a while."
+
+  khan_raider_rangers:0 "Raider Rangers"
+  khan_raider_rangers_desc:0 "The NCR is strict on who gets to be a ranger, notably they don't take raiders, bandits, or marauders into their ranks. Sure, the more civilized folk can turn their noses up at the idea, but who knows fighting better than someone who's always had to fight?"
+
+  khan_spec_ops_go_go:0 "Like A Knife In The Ribs"
+  khan_spec_ops_go_go_desc:0 "Any army worth its salt is gonna have those warriors who rise above the rest. They are the ones who can jab into just the right spot and twist in the enemy's gut. We need to make sure those kind of special soldiers get the best possible gear for inflicting maximum damage."
+
+  khan_khanate_raiders:0 "An Army of Raiders"
+  khan_khanate_raiders_desc:0 "Our greatest failures weren't at the hands of incompetence, or a lack of organization, or any high minded nonsense like that! The worst thing to plague our forces was a lack of strength, raw power! But who knows more about strength than those putrid rejects of the wasteland? Those brutal warriors that society forgot to scoop up during its rebirth?"
+
+  khan_assymetric_bonus:0 "Guerilla Warfare"
+  khan_assymetric_bonus_desc:0 "We don't have to meet the enemy in the field, nor do we have to honor any supposed "rules" of war. No, we'll make crossing our turf like crawling across a pile of nails! Death by a thousand cuts! A war of never ending attrition! Drugged up partisans around every corner! Hahaha! It'll be fuckin' beautiful!"
+
+  khan_raider_upgrade:0 "Death of the Ego"
+  khan_raider_upgrade_desc:0 "The wasteland's spent about the last two hundred years trying to convince us that its monsters are the most brutal, unforgiving, fucked up things on the planet. Y'know what I say to that? Hold my Jet! That's a goddamn challenge, if we've ever seen one, and we'll be damned if we let the wasteland win another bet!"
+
+  khan_raider_upgrade_AGAIN:0 "Reign of the Id"
+  khan_raider_upgrade_AGAIN_desc:0 "We've done it! Rounded up every jet-huffing, molerat-clubbing, settler-flaying, caravan-melting, hobo-robbing raider in this godforsaken state; now all we need is somebody to let loose against! Course, it'd be nice to march this living hellfire up to Shady Sands, but we've got more important business..."
+
+ #focus
+
+  khan_1:0 "I Left My Heart in California"
+  khan_1_desc:0 "We once lived in the vast deserts of the west. For many of us, our hearts and minds still rest with the wasteland heat. Now, we yearn for that same warmth in the mountains of Wyoming."
+
+  khan_2:0 "Home on the Frontier"
+  khan_2_desc:0 "Despite all the odds, despite the horrors that had been thrown our way, we had made it across the wasteland into a land of salvation, bountiful and plenty in its riches. Our future was to be here — of this, not a soul did doubt."
+
+  khan_3:0 "The Last Sun-Gazer"
+  khan_3_desc:0 "They called her a "Sun-Gazer," a tribe that once was native to this area-- displaced, or destroyed by a Brahmin Baron. It seems some things you can't just run away from, after all."
+
+  #focus - diplomacy
+
+  khan_diplomacy:0 "A Home Away From Home"
+  khan_diplomacy_desc:0 "Montana, Wyoming, Dakota-- these lands are new to us. Many, if not all, of our own have never graced the harsh winters of the Rockies or the beautiful fields of Montana. Friends in such places, especially with our status as newcomers, could come a long way."\
+
+  khan_the_brotherhood_diplo:0 "The Montana Expedition"
+  khan_the_brotherhood_diplo_desc:0 "We thought we had left them behind in California, then Nevada, but it seems that no matter where we go they're already there in some form. Our relations to them will be key to our future."
+
+  khan_send_delegate:0 "Amgalan's Delegation"
+  khan_send_delegate_desc:0 "Though her tribe was peaceful, Esen has a fighting spirit like no other. Amgalan wondered-- would sending her to fight alongside the Sisters help her? Perhaps there, she could find kinship, and with us, a commonality."
+
+  khan_brotherhood_experience:0 "Brotherhood Tactics"
+  khan_brotherhood_experience_desc:0 "Whether it's from fighting them in the wild or working alongside them, we stand to learn much from the savagery of the Brotherhood here. Let's make sure we understand their tactics, and ask ourselves how we can apply them to our own."
+
+  khan_come_follow_me:0 "Meeting At Midnight"
+  khan_come_follow_me_desc:0 "We always have a choice in life between making friends and making enemies. The Khans have throughout the years been experts at the latter, but that doesn’t always have to be the way. There are good folks out there who we can stand together with, to create a Union with."
+
+  khan_join_sisters:0 "Honourable Warriors Of Montana"
+  khan_join_sisters_desc:0 "The rumors of the Brotherhood of California are far from us here. A woman calling herself Honour has taken control of some local detachment, having transformed Fort Verity into their own oasis. Our interactions so far have been peaceful: maybe they would be willing to share aid and watch each others backs?"
+
+  khan_knight_advisor:0 "Help From A Sister"
+  khan_knight_advisor_desc:0 "The Sisterhood has been quick to befriend us. As such, they have offered Knight Avery to serve as both representative and friend to our inner circle. May she serve us well, and us her."
+
+  khan_honours_pride:0 "Honour's Pride"
+  khan_honours_pride_desc:0 "Sentinel Honour has offered a contingent of her finest to stand watch over our borders as auxillaries to our own. With their prowess, defending our lands will be more trivial than not."
+
+  khan_ambercozas_unbroken:0 "The Unbroken"
+  khan_ambercozas_unbroken_desc:0 "With the Sisters collapse and Esen's authority affirmed, a scorned contingent of sisters under Paladin Ambercoza have pledged themselves to Esen, clearly hoping for newfound purpose."
+
+  khan_standing_rock_diplo:0 "The Tired Tribes"
+  khan_standing_rock_diplo_desc:0 "The natives of Standing Rock are firm; driven. Our interactions with them should be careful, lest we capture their ire."
+
+  khan_join_marshall:0 "Midnight Marshalls"
+  khan_join_marshall_desc:0 "The Marshalls to our East can be an ornery bunch, their survival skills and Power Armor means they'd make great allies. Plus their "live and let live" attitude means they'd get along great with our own ideals."
+
+  khan_join_highland:0 "Night Watch"
+  khan_join_highland_desc:0 "Securing the southern border could be as easy as reaching out to the folks of Rawlins. With their recent victory over the men from beneath the earth, they're recovering and not overly eager for conflict. A firm handshake might seal the deal."
+
+  khan_join_ruminators:0 "Sharing Smiles"
+  khan_join_ruminators_desc:0 "Elizaveta of the Ruminators is an odd soul, but she's anything but unfriendly. So long as we talk without getting too cynical with them (and listen to their explanations why we'd live better with a copy of their book), the Ruminators seem like they'd make fine friends on the other side of the mountains."
+
+  khan_hellshark_monroe:0 "Hellshark Monroe"
+  khan_hellshark_monroe_desc:0 "We’ve been approached in recent days by a woman come out of the wasteland wearing painted power armor adorned with gecko hides. Calling herself the Hellshark, she claims to be a deserter from the enclave’s MacArthur post and the faded insignias on her armor seem to fit the bill. She’s offered to join us, saying she likes “our style”. May as well give her a chance."
+
+  khan_khanate_protectorate:0 "Teachings From A Wasteland Wanderer"
+  khan_khanate_protectorate_desc:0 "Monroe didn’t actually come alone; he arrived with a small pack of Geckos that he’s managed to tame. He’s offered to show us how to befriend the little beasties as well, and why not? The creatures of the wasteland are a resource like any other, and they are kinda cute."
+
+  khan_auto_armor:0 "Clad In Steel"
+  khan_auto_armor_desc:0 "Our allies have proven willing to share some of their secrets, specifically those of making and repairing power armour. It won’t be a quick process to train our folks in its use or to produce a meaningful amount of suits, but we have to start somewhere."
+
+  khan_power_armor:0 "Armor Diagrams"
+  khan_power_armor_desc:0 "We’ve secured detailed diagrams of several of the more common types of power armour, thanks to a little wheeling and dealing and a lucky card game. With these our mechanics should have a much easier time recreating them and making repairs."
+
+  khan_power_armor_2:0 "Questioning Scribes"
+  khan_power_armor_2_desc:0 "No one knows power armour quite like the Brotherhood, unless it’s maybe those other guys in the black armour. Getting a few scribes to teach us some of the tricks of the trade can only improve our efforts."
+
+  khan_power_armor_3:0 "Rigourous Testing"
+  khan_power_armor_3_desc:0 "You can never test your wargear enough, even if our engineers would really like to get some sleep. They can sleep after another dozen rounds of live fire tests."
+
+  khan_khanate_elite:0 "Our Best Suits"
+  khan_khanate_elite_desc:0 "As it turns out you can overload the fusion cores powering a suit of power armour and cause an explosion. Which can cause a chain reaction if one of your engineers has been installing them incorrectly. On the bright side we have a brand new junkyard and learned a lot about what not to do."
+
+  khan_resource_exchange:0 "Exchanging Resources"
+  khan_resource_exchange_desc:0 "Our tribes have much we can offer to one another. Why don't we begin to trade?"
+
+  khan_str_experience:0 "Working Side-by-Side"
+  khan_str_experience_desc:0 "Our Khans can work with the finest warriors of Standing Rock. No matter where you hail from, there is always more to learn about the many styles of war."
+
+  khan_fire_council:0 "Lighting The Fires"
+  khan_fire_council_desc:0 "The Khans are more than capable of standing alone, but even the strongest warrior benefits from companionship. We can look to those neighbours who have a similar spirit and invite them to share our fire and each other's burdens. "
+
+  khan_fire_council_str:0 "Stoking the Fires of Civilization"
+  khan_fire_council_str_desc:0 "Under Regis, the Khans have made steady friends in the tribes of Standing Rock. For the Khans and the tribes of Standing Rock, the future has always been an uncertainty. Together, however, they may be able to change their fate by force."
+
+  khan_str_puppet:0 "The Warriors Will Bow"
+  khan_str_puppet_desc:0 "The tribes will not bow so easily to a conqueror. Though we must assure that they will not take arms up against us again, releasing them to do as they please would be to our benefit... And hopefully, foster a more peaceful relation, even if by force."
+
+  khan_horses_for_my_khanate:0 "My Khanate for a Horse"
+  khan_horses_for_my_khanate_desc:0 "The horse is an animal unfamiliar to us outside of legends of yore. While we certainly don't come from a legacy of animal husbandry, we stand to benefit immensely if the horses can be integrated into our own methods of war and life."
+
+  khan_ruminators_diplo:0 "Smiling Friends"
+  khan_ruminators_diplo_desc:0 "The Ruminators are a friendly sort, even if they have less-than-savory folks within their territory. Further cooperation between ourselves and them would be more than adequate."
+
+  khan_industrial_coop:0 "Elizaveta's Love"
+  khan_industrial_coop_desc:0 "Elizaveta didn't seem to take the idea of "cooperation" as literally as we would have imagined. Instead, she's sent some of her own assets to help us acquaint ourselves into The Stretch."
+
+  khan_jaye:0 "Jaye's Expertise"
+  khan_jaye_desc:0 "Ranger Jaye saw us through much of the troubles across the Western United States. Though they entered some form of retirement after we arrived in Wyoming, they're more than happy to offer themselves up however needed, for us or for Elizaveta's Ruminators."
+
+  khan_friends_of_elizaveta:0 "Friends of Elizaveta"
+  khan_friends_of_elizaveta_desc:0 "Elizaveta has done nothing but be kind to us since we've arrived into the region. Many of our Khans believe in her cause; why don't we have them work with her more directly?"
+
+  #focus - followers/chems
+
+  khan_the_followers_of_the_apocalypse:0 "Cooperating with the Followers"
+  khan_the_followers_of_the_apocalypse_desc:0 "The Followers of the Apocalypse saw us through a great deal of our trek to Wyoming. It was through their sympathies that we have survived to this day."
+
+  khan_follower_workshops:0 "Follower Crowdsourcing"
+  khan_follower_workshops_desc:0 "The Followers were quick to impress the locals, even if we were quick to scare. More are willing to share what they have with us."
+
+  khan_follower_doctorates:0 "Follower Doctorates"
+  khan_follower_doctorates_desc:0 "The Followers aren't shy to share their knowledge with many of our former chem producers. With any luck, maybe, they'll be able to put their skills to more medicinal practices as opposed to pleasurable ones."
+
+  khan_follower_medicinal:0 "Turn them to Medicine"
+  khan_follower_medicinal_desc:0 "Chems are part of our history, and with that comes a history of addiction. Many of our people are in bad shape and the Followers are more than willing to help."
+
+  khan_follower_medicinal_2:0 "Clearing Addictions"
+  khan_follower_medicinal_2_desc:0 "Though we're a long ways away from weaning the Khans away from drug addiction, the foundations for it have been set up, and the crisis has been averted-- at least, on the grand scale."
+
+  khan_amgalans_pilgrimage:0 "Amgalan's Pilgrimage"
+  khan_amgalans_pilgrimage_desc:0 "Amgalan was not always such a kind and charitable soul. Many followed him off of stories they had heard of a younger, fiery man, only to be disappointed or disillusioned with what he had become."
+
+  khan_papas_march:0 "The March of Papa Khan"
+  khan_papas_march_desc:0 "While Amgalan's fires cooled and settled, the man who came to be known as "Papa Khan" took his Great Khans to the Mojave with a fire in his heart."
+
+  khan_remembering_darion:0 "The Lessons of Darion"
+  khan_remembering_darion_desc:0 "Darion was one of the most notorious Khans in the old days. Taking lessons from his folly, whether they be ill or not, has become a commonality."
+
+  khan_weapons_of_war:0 "What Once Was Home"
+  khan_weapons_of_war_desc:0 "Vault 15 was once home to our ancestors and many others, including some of our worst enemies. There is humility in origination."
+
+  khan_enemies_of_the_ncr:0 "Enemies of the NCR"
+  khan_enemies_of_the_ncr_desc:0 "A constant threat to our way of life across the years was civilization-- our greatest foe being the New California Republic. In avoiding their growing power, we had to learn many tricks to survive."
+
+  khan_ranger_training:0 "The Ranger Way"
+  khan_ranger_training_desc:0 "Jaye had much to show us, and we had much to learn. The Rangers were proficient, warriors of the modern world-- had we their discipline in times gone by, maybe things would have been different."
+
+  khan_our_ancestors_ways:0 "Our Ancestors Ways"
+  khan_our_ancestors_ways_desc:0 "We come from a lineage of highwaymen; raiders. Through them, we have taken much: knowledge of weapon maintenance, and teachings of... Resourcefulness."
+
+  khan_underground_workshops:0 "Where The Weapons Come From"
+  khan_underground_workshops_desc:0 "We can't make a living taking our weapons from external sources. We have to be able to make and maintain our own."
+
+  khan_infantry_bonus:0 "They Called Us Survivors"
+  khan_infantry_bonus_desc:0 "Throughout our long history, the Khans have had one consistency: we are survivors. We've picked up knowledge as we needed and adapted to our surroundings."
+
+  khan_chem_trade:0 "The Chem Trade"
+  khan_chem_trade_desc:0 "Chems are a part of the Khan lifestyle. We can't just shirk them-- they're a foundation of our tribe. Amgalan and his cronies can't force the Great Khans to do anything."
+
+  khan_chem_trade_2:0 "Embracing Chems in Proper"
+  khan_chem_trade_2_desc:0 "Chems, and the sale of such, are how we've always done things. We're not stopping just because someone asked us nicely to knock it off."
+
+  #focus - society / development
+
+  khan_alone_in_the_mountains:0 "Alone in the Mountains"
+  khan_alone_in_the_mountains_desc:0 "We're far from settled into the region at this stage. Many of us have never felt such cold; a blessing and a curse. It won't stay that way forever though. Already we're making contacts to get more supplies up into Darion, and the occasional settler too."
+
+  khan_ralston_workshop:0 "Moving Into Ralston"
+  khan_ralston_workshop_desc:0 "Ralston's people are peaceful; enough so that they tolerate even the most brutal of Khans. We should use the make the most of this opportunity, and seek developments in the town."
+
+  khan_the_steady_hand_of_amgalan:0 "The Steady Hand of Amgalan"
+  khan_the_steady_hand_of_amgalan_desc:0 "Amgalan's knowledge of nature and his diplomatic nature have allowed us to work alongside farmers in northern Wyoming."
+
+  khan_mutant_advisors:0 "Approach the Super Mutants"
+  khan_mutant_advisors_desc:0 "It’s not very clear to us what started this struggle, but it is clear that we’ll have no peace until it’s resolved. The mutants are like us, travelers from far off California, and anyone who said they didn’t find the Men-Of-The-Wood creepy would be lying anyway. Amgalan has volunteered to meet with the mutant leader and offer aid."
+
+  khan_large_brothers:0 "Lend Our Large Brothers a Hand"
+  khan_large_brothers_desc:0 "Mogul, the mutant leader, is more than willing to accept our aid. He tells us that what he lacks is both able bodies and the weapons to arm them. While we prepare to get more directly involved, those Khans already spoiling for a fight can be sent ahead to help now."
+
+  khan_hunt_down_jackalope:0 "Hunt Down the Jackalope"
+  khan_hunt_down_jackalope_desc:0 "It’s time to put an end to this and stop the bloodshed. Alongside Mogul and his people a warband of Khans will march to the Men-of-the-Woods lair. If those fanatics won’t leave, then we’ll have little choice but to put them down."
+
+  khan_giant_gratitude:0 "A Giants Gratitude"
+  khan_giant_gratitude_desc:0 "The Cult of the Jackalope is dead or scattered into the hills, and the mutants are mostly ready to lay down their arms. Mogul himself seems quite happy to have someone to work alongside and has offered us all the spoils of the cult as well as his personal support. "
+
+  khan_men_of_the_wood:0 "Approach the Woods"
+  khan_men_of_the_wood_desc:0 "It’s becoming increasingly difficult to ignore the fighting in our hinterlands, with our hunters and trappers often getting caught in the crossfire. Esen has put forth a plan to put things to an end by courting the favor of the cult’s leader. They may be strange and off putting, but she believes they can be of use."
+
+  khan_giantkillers:0 "Giantkiller Khans"
+  khan_giantkillers_desc:0 "The cult master, Skeeter the Raved, has met with Esen but has demanded a test of our skills before they will consider an alliance. The heads of twenty five mutants must be delivered to the Men-of-the-Woods. He will see us no more until then. Ballsy of him to make demands, but the Khans have had their share of scraps with mutants in the past. Let’s do this."
+
+  khan_they_might_not_be_giants:0 "Land of Giants No More"
+  khan_they_might_not_be_giants_desc:0 "The fanatics have accepted Esen as a friend, though they are leery of the rest of us. Already she makes plans to lead them to a final victory over the mutant band. Their time is over."
+
+  khan_uneasy_friendships:0 "An Uneasy Friendship"
+  khan_uneasy_friendships_desc:0 "The Men-of-the-Wood have taken our aid as a form of divine blessing, pledging themselves to our cause in whole. While worrying, they are many, and we still uncover more enclaves and caches of their supplies even months after our arrival. This alliance will be beneficial, if not... Uncomfortable."
+
+  khan_ralston_power:0 "Ralston Power Plant"
+  khan_ralston_power_desc:0 "There's an old power plant hooked up to a nearby factory. If Jaye's reports are right, it wouldn't take too much elbow grease to get it back up and running."
+
+  khan_nuka_cola_workshop:0 "Nuka-Cola Bottling Plant"
+  khan_nuka_cola_workshop_desc:0 "Fate is on our side after all. An old Nuka-Cola plant out in the countryside had an immense stockpile within it, like a treasure we simply stumbled upon. There's plenty of scrap and Nuka-Cola to go around."
+
+  khan_ralston_construction:0 "Ralston Construction Projects"
+  khan_ralston_construction_desc:0 "Facilitating growth within Ralston will be mutually beneficial for the locals and our own endeavors in the region. Let's clear what we can and see what happens!"
+
+  khan_ralston_construction_part_dos:0 "Pushing Ralston Forwards"
+  khan_ralston_construction_part_dos_desc:0 "Clearing the way is one thing, but we ought to make sure we know what we're doing first. Let's let the boys get cracking and see what they come up with."
+
+  khan_better_tech_uwu:0 "What We Can Use"
+  khan_better_tech_uwu_desc:0 "Gathering resources is key to any future here in Wyoming. Knowledge of it, as well, is paramount."
+
+  khan_tech_factories_1:0 "Industrial Means"
+  khan_tech_factories_1_desc:0 "Setting up industry across our land is always nice."
+
+  khan_tech_factories_2:0 "Industrial Capacities"
+  khan_tech_factories_2_desc:0 "Pushing for exponential growth, in such troubled times, will lead us to better days."
+
+  khan_peace_in_our_time:0 "Peace Upon The Steppes"
+  khan_peace_in_our_time_desc:0 "The Baron had been dealt with, and his people now answer to us. Their future is in our hands, now."
+
+  khan_ezekiel_henries:0 "A New Khan, From Under the Baron"
+  khan_ezekiel_henries_desc:0 "A former goon under the Baron, Ezekiel Henries took to us and our authority fast-- and so far, people are more than happy to work with him!"
+
+  kha_the_matter_of_state:0 "Matters of a New State"
+  kha_the_matter_of_state_desc:0 "The Baron's leftovers aren't going to go easy. We'll need to make our next move calculated."
+
+  kha_barons_daughter:0 "The Baron's Daughter"
+  kha_barons_daughter_desc:0 "It turns out the Baron wasn't as soulless as we thought. The question on everyone's minds, however, is does it run in the family?"
+
+  kha_ranching:0 "Saunders Ranch"
+  kha_ranching_desc:0 "The Saunders are a family that lived under the Baron for years. While they're not exactly peaches themselves, they're willing to work with us, and have the hearts of many locals."
+
+  khan_rancher_gunsmiths:0 "The Wyoming Gunsmiths"
+  khan_rancher_gunsmiths_desc:0 "Weaponcrafting is taken incredibly seriously by the Wyoming locals, so much so that almost every weapon under the Baron's staging is in near-mint condition. No doubt his assets will serve us well in upkeeping our own resources."
+
+  kha_a_friend_in_need:0 "Putting Out A Fire"
+  kha_a_friend_in_need_desc:0 "Fighting has broken out in Riverton, between some of our people and the locals. Samool has volunteered to crack some heads until it’s over."
+
+  khan_the_path_earned:0 "A Path Earned"
+  khan_the_path_earned_desc:0 "After much ado, we have earned the trust and collaboration of the people of the Eyrie. Our position has been solidified in Wyoming; unchallenged. We need only brace for the future to come."
+
+  khan_the_grand_workshops:0 "The Grand Workshops"
+  khan_the_grand_workshops_desc:0 "In building any form of society, you must be able to depend on yourself in order to serve the interests of both people and state. A preemptive step to introduce larger reform will show our determination like never before."
+
+  khan_worland_infra:0 "The Battle of Meeteetse"
+  khan_worland_infra_desc:0 "Locals claim that much of Meeteetse was torn apart in a great skirmish between strange "Men-of-the-Woods" and a local group of Super Mutants. Perhaps we could benefit-- either from earning their trust or simply helping ourselves-- in repairing the local infrastructure?"
+
+  khan_biking_technology:0 "Lone Wanderers"
+  khan_biking_technology_desc:0 "Wyoming is a large, beautiful land. Some of our Khanate think it is too large; these same crafty individuals have begun to restore motorcycles from an old automotive production facility. Perhaps this is the start of something new?"
+
+  khan_angered_populace:0 "The Day the Thunder Was Silent"
+  khan_angered_populace_desc:0 "Khans and clear judgment have sadly never been a commonality. Now, with one of our own's life in jeopardy thanks to these "Saints," the Khanate calls for drastic action."
+
+  khan_outriders:0 "Esen Musters A Troupe"
+  khan_outriders_desc:0 "Amgalan has counseled for cooler heads and patience, but insults like these are too grave to be ignored. Esen shall storm into the Ruminators land and demand retribution. The Saints will reap what they have sown."
+
+  khan_bloody_woods:0 "Blood Stained Woods"
+  khan_bloody_woods_desc:0 "Violence has only intensified in the Bighorner Woodlands, as small bands of Saints clash with Khan warriors. They cannot match us face to face but they’re as honorless and crafty as raiders come. If we want a quick end to this, we need to commit to a more decisive strike."
+
+  khan_third_street_saints:0 "The Saints Back Down"
+  khan_third_street_saints_desc:0 "Esen has returned, bloodied but triumphant. Having discovered the Saints hideout in the Woodlands, she personally stormed the place and put anyone she found there to the knife. Archie’s goons have retreated back to their country clubhouse with their tails between their legs and left us a welcome pile of spoils. It will do."
+
+  khan_saints_diplomacy:0 "Holding Back the Storm"
+  khan_saints_diplomacy_desc:0 "Our people are furious and already many act independently in pursuit of revenge. Even Amgalan struggles to swallow his rage, but he knows that if further bloodshed is to be averted he must move quickly. First, he must convince his kin to wait and give him a chance."
+
+  khan_amgalans_trials_and_tribulations:0 "Amgalan’s Trial"
+  khan_amgalans_trials_and_tribulations_desc:0 "It is with Archie and his Saints that our grievances lie, but the Ruminators are a peaceful and loving people. They would jump at the chance to mediate the conflict and help Amgalan find a less bloody solution. Elizaveta already is on her way and she can be trusted."
+
+  khan_ruminator_reparations:0 "Reparations from Ruminators"
+  khan_ruminator_reparations_desc:0 "Elizaveta was true to her word and ideals, moving quickly to secure an end to the violence. She has convinced Archie to back down and return to his lair, and even put together a gift for our people to smooth things over. Don’t know what we’re going to do with 50 copies of Ruminating to Riches however."
+
+  khan_industry_boom:0 "Pushing Forward"
+  khan_industry_boom_desc:0 "Restoring vehicles does not come easy. Taking measures to prepare a greater industrial platform will allow our bikers to get on the go quicker."
+
+  khan_khanate_tool_research:0 "Khan Tools"
+  khan_khanate_tool_research_desc:0 "Tools are the backbone of any industry, and of any intentions of maintenance, too. We'll want to make sure we have the best tools and as many as we can, whether we need to make them ourselves or discern which ones are worth saving from the junkyards."
+
+  khan_the_working_tribe:0 "Clearing Bighorn Lake"
+  khan_the_working_tribe_desc:0 "To our east, Bighorn Lake lies infested with raiders. They've built themselves a small fortress that we can repurpose for further operations, should we choose to pursue it."
+
+  khan_roads_focus_because_theyarecool:0 "The Open Road"
+  khan_roads_focus_because_theyarecool_desc:0 "For our bikers to continue to ride as fast and as free as they have been, we need to fix the roads! We will send out work teams to ensure that they are befitting of our newfound oil-hungry stallions."
+
+  khan_khanate_tool_tech:0 "The Better Way"
+  khan_khanate_tool_tech_desc:0 "With our auto care techniques, we've learned to make better accommodations for it across the board. Now our factories will be able to supply and even better work with our materials!"
+
+  khan_rock_em_sock_em_bike_em:0 "Roaring Through Wyoming"
+  khan_rock_em_sock_em_bike_em_desc:0 "Our dominance in Wyoming has scared off a lot of the local raiders, with great thanks to the ripping and roaring of a motorbike engine. Now, we ride free and we ride together across the steppes, without so much of a care."
+
+  khan_khans_of_the_road:0 "Opening Auto Shops"
+  khan_khans_of_the_road_desc:0 "If we are to continue biking around the land, why not open up little shops for us to repair and refuel at?"
+
+  khan_esen_intro:0 "Return Our Eyes Skyward"
+  khan_esen_intro_desc:0 "Amgalan was a fool to think his methods would get the Khans anywhere.  The Followers' wisdom has softened him—his bones unfit for the reality of war and his mind drowned in idealistic fantasies.  The sun glares upon weakness, and Esen, rallied by the majority of like-minded Khans, demand to return to the old ways. \n\n To the ways of §YThe True Khans.§!"
+  khan_scavenging_4:0 "Grazing Forgotten Fields"
+  khan_scavenging_4_desc:0 "Old bladed towers stand still in the fields of Greenway.  When the wind howls, the blades pick up, slicing the gales that pass.  An old Followers' scripture say that energy can be generated this way.  Esen dares to try."
+  khan_scavenging_5:0 "The Sun And The Soldier"
+  khan_scavenging_5_desc:0 "The resources accrued is near enough to satisfy a lifetime, but it takes more to put scrap and energy to good use.  Under the sun, a war is always fought.  Those who prepare are those who win."
+
+  khan_scavenging_1_desc:0 "The lands of Meeteetse hold treasures buried under the ruins of the war.  Cleaning up the land might strike us with some fortune, if not useful scrap."
+  khan_scavenging_2_desc:0 "Abandoned facilities scatter the plains of Warland.  The Khans are known for their craftiness, even if crude.  What better way to exhibit these talents than to bring these facilities back to life?"
+  khan_scavenging_3_desc:0 "The True Khans revel in the heat of the black smoke.  Nothing feels as clean, or as exciting, as tossing scrap into the fire, watching as it melts into something red and new.  'More!' The True Khans cry.  Esen complies."
+  khan_tributaries:0 "Tributes To The Call"
+  khan_tributaries_desc:0 "Dead weight spells for casualty, and every cap ensures the wellbeing of the True Khans.  §R'For the family,'§! Esen explained, before harking orders that any possession of little use be thrown to the pile to sell off to merchants and travellers."
+  khan_consulting_the_book:0 "The Pretty Horses"
+  khan_consulting_the_book_desc:0 "A book detailing the ancient history of an Empire long ago was found hidden away in a Followers' cache.  Esen was enraged that the keys to their prosperity were buried away, but like all good leaders, she redirected her anger to her weapons."
+  khan_esenist_doctrines:0 "Esen's War Path"
+  khan_esenist_doctrines_desc:0 "Before her charge, Esen was known as one of the New Khan's greatest strengths.  Whenever a door needed knocking, she tore it down.  When a gun jammed, she broke it apart and assembled something new.  This strength must be taught—a leader is nothing if their people cannot rely on themselves."
+  khan_the_path_of_glory:0 "A Golden Glade"
+  khan_the_path_of_glory_desc:0 "“When I was a girl, I liked to lose myself in the golden glades.  It was a marsh of tall yellow grass and brush—parts of the ground sunken by craters of yore.  Dividing the field was a lonely railway track.  In one direction, it pointed towards where I belonged.  In the other direction, where I wanted to be.” —Esen"
+  khan_esen_capstone_tran_dont_shoot_me:0 "Maiden Of The Dawn"
+  khan_esen_capstone_tran_dont_shoot_me_desc:0 "Under Esen's leadership, the True Khans are emboldened.  The new stream of motion and ambition in their lives has given each one something to fight for—something to cry for.  Each day means something new to prove.  The dawn has never been more eagerly awaited."
+  khan_esens_workshop:0 "Arm Your Hand Or Lose It"
+  khan_esens_workshop_desc:0 "Esen's insistence to prepare for war—vague as it is—has riled both determination and fear in the hearts of the Khans.  For every hand, a weapon, and for every weapon, a life."
+  khan_building_a_khanate:0 "Building a Khanate"
+  khan_building_a_khanate_desc:0 "Those who graze the soil first will carry burdens that the stories will omit.  But so long as a foundation is built for the next of kin, weakness will be a temporary, and a Khanate forever strong."
+  khan_to_want_it_all:0 "Ours To The Stake"
+  khan_to_want_it_all_desc:0 "“Amgalan had asked me thrice before; §Y'Why would you do this?'§!. \n\n I held his gaze steadily.  Even with this newfound strife between us, I still loved him like my father, and so I told him, §R'Because the weak had it coming.  When our family is of the last, only then are we safe.'§!”"
+  khan_pay_mind_to_the_old_ways:0 "Hark, Sunborn And Sunbreaker"
+  khan_pay_mind_to_the_old_ways_desc:0 "While Sun-Gazers consisted mostly of Sunborn, there were instances where passing nomads would be welcomed into the tribe.  Those who passed the Scorch Trials—of long days sitting still on cliff sides with little food or water—were monikered Sunbreakers.  To Esen, every Khan under her is a Sunbreaker, and with that she passes on old traditions."
+  khan_a_warrior_like_myself:0 "A Warrior Like Myself"
+  khan_a_warrior_like_myself_desc:0 "Esen and her band of True Khans had stalked what they believed was a wayward Brotherhood expedition.  To her surprise, the armoured squad posed no fight.  Their leader unhelmed herself; a woman sullen and lost, outcasted by her own Chapter and now bargaining for a peaceful resolution.  Curious and intrigued, Esen presented a choice; join or die."
+  kha_metalmouths_goal:0 "Bite The Dust"
+  kha_metalmouths_goal_desc:0 "Amgalan had eyed the Metal Mouths before.  'Danger brewing,' he called it, before jotting down notes on the best approach.  Despite her weary eyes, Esen could see they were nothing good; the lowest of scum. \n\n And so she rallied the Khans for war."
+  khan_lumber:0 "Wood For The Fire"
+  khan_lumber_desc:0 "And as the True Khans scourged the heart of the Metal Mouths, the wilds were caught in the crossfire.  Flames engulfed the bracken and spindled trees overnight.  Nothing was left behind; perfect for a new beginning."
+  khan_scrapping_metalmouths:0 "Scrapping The Metal Mouths"
+  khan_scrapping_metalmouths_desc:0 "From one leader to another, Esen had granted Steel Joe the mercy which was never extended to her; their lives, so long as they left the land.  But as she turned her back, Steel fired his gun, and it was then that he lost both his hand and the lives of his men."
+  kha_montana_chapter_goal:0 "Montana's Final Page"
+  kha_montana_chapter_goal_desc:0 "The Montana Chapter is an enigma to outsiders.  Little is known about their recent arrival, and much less of their purpose.  But the important detail stands; they horde what could be used by the Khans—a stockpile of dreams left to collect dust.  Let's give them a wake up call."
+  khan_in_search_of_coal:0 "In Search Of Coal"
+  khan_in_search_of_coal_desc:0 "Before her charge, Esen would often gaze out to the horizon.  The billowing smoke from the Coal Consortium had clouded the otherwise clear northern skies.  Winters ago she would dream of its warmth... \n\n §R'And as the next winter approaches, a dream will be made real.'§! —Esen."
+  khan_a_woman_goes_to_war:0 "Wrath Of The Midday"
+  khan_a_woman_goes_to_war_desc:0 "As a commander under Amgalan, Esen had faced her share of scrutiny, and now as leader those concerned voices rise again.  She has much more to prove now, and an even greater pool of anger. The Khans will have to listen. \n\n §R'Understand or leave.  Simple as,'§! —Esen."
+  kha_marshall_wargoal:0 "Fall Of The Republic"
+  kha_marshall_wargoal_desc:0 "The Marshall Republic is rich in resources, evident in the way that their people have survived this long by just living off the land.  The land could do much more under the hands of the Khans.  It is unfortunate that the Republic cannot say the same."
+  khan_four_fathers_wargoal:0 "Blood On The Cobble"
+  khan_four_fathers_wargoal_desc:0 "Word of the True Khan's victory over the Marshall Republic has rung throughout Montana.  The smart ones have sheltered themselves away.  The others have begun stepping out of line—barking more than they can bite.  The Four Fathers are such fools, and the Khans yearn for the next victory."
+  khan_ashes_of_the_free_states:0 "Ashes Of The Free States"
+  khan_ashes_of_the_free_states_desc:0 "Amgalan and Esen stood beside each other as they gazed upon the crackling cinders of what once was a capital. §Y'Is this what you wanted?'§!  Amgalan asked, shying away from the smouldering ashes. \n\n The embers drowned in Esen's pale, murky eyes.  §R'It's everything and more.'§!"
+  khan_basalt_caravan_company:0 "Roses In Rozet"
+  khan_basalt_caravan_company_desc:0 "The peaceful quiet after warfare was an unspoken comfort to Esen.  Victory to her meant another day to live and grow without fear.  Now it's time to rebuild the land that was reaped.  Press forward; with the heart of the Sun and the strength of a Khan!"
+  kha_standing_rock_wargoal:0 "The Weathering Storm"
+  #kha_standing_rock_wargoal_desc:0 "The warriors of Standing Rock are a worthy foe, not too different from us. It is a shame that we cannot stand as companions in battle, but it was likely inevitable that two conquerors would come to blows. May their defeat be a glorious one."
+  kha_standing_rock_wargoal_desc:0 "§R'Shappa is a warrior like I,'§! Esen had noted.  §R'A shame that we share too much in common.'§! \n\n Sightings of Standing Rock's warbands have increased in waves.  As a like-minded foe draws nearer with each conquest, war is without question.  And once the ash settles, the truest birthright will rise."
+  khan_stretching_the_stretch:0 "Conquering The Stretch"
+  khan_stretching_the_stretch_desc:0 "The Stretch is an odd region.  Despite having kept to themselves, their in-fighting echoes all across the land.  Esen had tolerated it for Amgalan's sympathy for the Ruminators, but the ruckus and messy aftermaths show no sign of stopping, and now she wishes for silence."
+  khan_saul_advisor:0 "The Last Firefly"
+  khan_saul_advisor_desc:0 "With the Ruminators disassembled and, by Amgalan's request, absorbed into the Khans, they toil away at menial tasks to keep the quality of life of the Khans afloat.  Though one Ruminator in particular stood out to Esen; a Firefly named Saul."
+  khan_integrating_saints:0 "What Defines A Saint"
+  khan_integrating_saints_desc:0 "Despite their cleanish front, the Saints act like any other raider band—loyal to the strongest.  Serving Archie the boot had brought back peace and quiet to the Stretch. \n\n Finally."
+  khan_assemble_the_horde:0 "The Sun-Kissed Marauders"
+  khan_assemble_the_horde_desc:0 "After the rows of victories—of spilt blood and spoils, Esen reflects.  Her spirit continues to burn, and the True Khans set their sights on the east and the west."
+  khan_the_western_approach:0 "The Western Approach"
+  khan_the_western_approach_desc:0 "§C'Took my look around.  Nasty folks of all sorts of walk lie up west,'§! Ezekiel murmured, flicking his piece onto the map.  §C'What's your move?'§! \n\n Esen huffed, half-smiling.  The answer was simple; a planted knife in the heart of the western region."
+  khan_storm_monger_1:0 "Touch The Sky"
+  khan_storm_monger_1_desc:0 "The land of the Storm Mongers leaves an awful taste in the mouths of visitors who live to tell the tale.  The fields are caked in bodily rust.  Remains strewn about in the name of a higher entity. \n\n Heresy, Esen proclaims, for the sky shares room for only one Sun."
+  khan_storm_monger_2:0 "The Clouds Are With Us"
+  khan_storm_monger_2_desc:0 "The Storm Monger's fall has brought a bounty like no other; technology from an older time where the sky welcomed larger shadows. It is only a matter of mastering the craft."
+  khan_storm_monger_3:0 "And So The Sky Smiles"
+  khan_storm_monger_3_desc:0 "“And so we took to the skies.  The wind was pleasant through my hair.  I was swept away by the clouds, my lungs chilled, but I felt it there. \n\n  In the fine line between the world and the cosmos. \n\n I felt the Sun smile.”—Esen"
+  khan_macarthur_esen:0 "The Fabled Enclave"
+  khan_macarthur_esen_desc:0 ""Amgalan had told me stories of the ghosts of California.  Of a dark page in history that refused to turn.  Scouts and skirmishes tell that a leftover fraction of this ghost rests up in the mountains... \n\n §RA siege against hellfire and snow sounds as fine as any.§!" —Esen"
+  khan_macarthur_weapons:0 "The Hidden Caches"
+  khan_macarthur_weapons_desc:0 "The mountains were picked apart after the success of the True Khans' war.  Some caches were found hidden away in the snow or locked tight with profound security measures.  Some time may be needed to crack open each one..."
+  khan_macarthur_munition:0 "Hellfire In Our Palms"
+  khan_macarthur_munition_desc:0 "The night ended in fire and armoured coffins buried in the snow.  The mountains were coated in an everlasting amber and a thick haze that burned to swallow.  It spelled death to the weak, and a new beginning for the Khans."
+  khan_yellowstone:0 "Scouring The Valley"
+  khan_yellowstone_desc:0 "Old scripture illustrates that Yellowstone was once one of the largest natural systems of the Earth.  While how much was lost is unknown, the potential resources within the heart of the valley call out to Esen.  Those who protest be damned."
+  khan_bounty_of_the_scourge:0 "Bounty Of The Scourge"
+  khan_bounty_of_the_scourge_desc:0 "“The park, once we claimed it for ourselves, is much more quiet than I realised.  I'll continue to send Khans out to scavenge and reap what they can, but for a moment I'll enjoy the peace.  It feels like home.” —Esen"
+  khan_they_call_it_hephaestus:0 "They Call it Hephaestus"
+
+  khan_the_eastern_approach:0 "The Eastern Approach"
+  khan_the_eastern_approach_desc:0 "§C'Nothing but cults and ruins and simple-folk up east,'§! Ezekiel said with a huff of his cigar.  §C'What's your thoughts on it, hoss?'§! \n\n Esen jammed her knife into the centre of the eastern region on the map.  §R'We ride east,'§! she murmured, eyes glazed."
+  khan_the_scourging_of_bismarck:0 "There Were Many Like You. Shame."
+  khan_the_scourging_of_bismarck_desc:0 "“Henry reminded me of Amgalan.  A man who travelled here and there, acting as a force of compromise, that of which ultimately led to his failure.  It was in that respect that I spared his life once Bismarck was reduced to a ruin.  Though it disheartens me nonetheless—to see the efforts of a tired man reduced to ash.” —Esen"
+  khan_dramatae:0 "Esen's Closing Act"
+  khan_dramatae_desc:0 "The Jester is a particular character.  While others ran he remained, requesting an “audition” before proceeding to hold Esen's enthused attention for an hour with antics and performances. \n\n §R'He can stay,'§! Esen declared."
+  khan_red_moon_never_falls:0 "The Red Moon Never Falls"
+  khan_red_moon_never_falls_desc:0 "The red moon had gazed upon the Two Peoples for days upon days.  Presumably, they had taken it as a prophecy, and soon waves of people approached the True Khans, requesting their guidance.  Under the glare of the red moon, Esen accepted each and every would-be warrior."
+  khan_the_children_of_atom:0 "Heretics No More"
+  khan_the_children_of_atom_desc:0 "Recent silos on the lands of the True Khans have been hit—tampered with, even.  For some time the culprit had been a mystery, but word of a cult that worships silos has painted a well needed picture..."
+  khan_secrets_of_the_silo:0 "Secrets Of The Silo"
+  khan_secrets_of_the_silo_desc:0 "“It's been some time since we dismantled the church.  These silos meant something, and out of disinterest we've left them alone.  I cannot help but wonder now, and it's been eating at me; do these silos actually contain secrets?” —Esen"
+  khan_atomic_technologies:0 "Atomic Technologies"
+  khan_atomic_technologies_desc:0 "A stock of energy weapons was found after the victory against the Church of the Silo.  Many of which were in prime condition, and more arranged in display cases.  While many rejoiced in the spoils, Esen was disgruntled; §R'They held back on us?'§!"
+  khan_ruins_of_vault_37: "The Ruins of Vault 37"
+  khan_ruins_of_vault_37_desc:0 "Vault 37 and their particular overseer were a type of foe the Khans had never faced in their lifetime.  What harm can bolts and lasers do that humans haven't already?  May the question be answered in our favour..."
+  khan_slaughtering_roaches:0 "Down Goes Our Heel"
+  khan_slaughtering_roaches_desc:0 "“A man who can control the mutated wilds and roaches has no place on this earth.  Eradicating the Roach King is the only way to ensure peace and safety for our family.  I wish Ezekiel could have mentioned this in his observations...” —Esen"
+  khan_vault_workshops:0 "Time Catches Up With Us"
+  khan_vault_workshops_desc:0 "After having paved the way clear from bots and bugs, Esen relishes in a moment of peace; a pause in battle to rebuild what was lost."
+
+  khan_khanate_reborn:0 "A Khanate Reborn: The Vessel Of War"
+  khan_khanate_reborn_desc:0 "The blood spilt across the lands has nourished the soil for something new to grow.  Something that will last the Khans a lifetime.  Esen has earned more scars than she can count, and as she looks upon the land she had wrangled in the name of family, she welcomes plenty more."
+
+  khan_amgalan_intro:0 "Following The Future"
+  khan_amgalan_intro_desc:0 "It is a hopeful day for Amgalan, the Followers and the Khans. It has taken much effort, all his wits and a little luck, but Amgalan’s position is truly secured now. His kin, both of north and south, have both accepted his wisdom and now give him the chance to truly prove that his vision for the future is best. Maybe Amgalan can get a little sleep now."
+
+  khan_necessity_is_the_root_of_all_misdeeds:0 "Slayer Of Sisters"
+  khan_necessity_is_the_root_of_all_misdeeds_desc:0 "The Sisterhood is gone, dead at the hands of a madwoman who’s hands drip red with blood. Even if the Sisters had not been friendly with us, there was never any chance we’d be friendly with someone like Hayman. Get your guns."
+
+  khan_the_unyielding_hero:0 "The Unyielding Hero"
+  khan_the_unyielding_hero_desc:0 "Amgalan refused to surrender his ideals or hopes for the future and in time that led his kin to see him in a new light. The peace he sought was not the hiding place of a weak man, but the hard to reach goal of a strong one. Their respect for him grows by the day."
+
+  khan_caravan_upgrade:0 "Caravan Expansion"
+  khan_caravan_upgrade_desc:0 "With stability comes people, and with people comes trade. As we build up our new home in the north we find ourselves getting more of both, thanks to the increasing number of caravans coming through. We can of course encourage things along by setting up a few of our own as well."
+
+  khan_amgalans_travels:0 "Amgalan's Travels"
+  khan_amgalans_travels_desc:0 ""Even as my people put down roots around me, the call of the road rings loudly in my ears. I must see this land, and those lands beyond, and learn what there is to learn and meet who there is to meet. Don’t worry though, I’ll always come back." -Amgalan"
+
+  khan_a_home_for_all:0 "A Home for All"
+  khan_a_home_for_all_desc:0 "Justine laid out a crude map of the neighbouring lands, with red markings to show recent wars and battles. "Wherever we go, war never seems to change."\n\nAmgalan nodded and laid out another map, this time of Darion and the surrounding land. "There are ever those who seek to escape it. We can make room for them.""
+
+  khan_a_home_for_all_2:0 "A Wealth of Goods"
+  khan_a_home_for_all_2_desc:0 "The Followers more and more are integrating their operations into ours, building workshops, wells and scrap recycling centres. They’re not shy of sharing the fruits of such labours either, luckily for us."
+
+  khan_amgalan_factory_2:0 "Artisan Goods"
+  khan_amgalan_factory_2_desc:0 "There are many among the Khans who are skilled craftsfolk, able to create beautiful and useful things alike. Before they often made do with leftovers and scavenged resources, in tents that needed to be ready to move at any time. Now we can afford the luxury of building them proper workspaces and providing supplies to work with."
+
+  khan_build_a_better_place:0 "Building a Better Place"
+  khan_build_a_better_place_desc:0 "Falaya, one of our best and brightest, has long studied everything the Followers could teach her about the art of building and construction. Now however there is nothing left for her to learn from them, and she’s even started teaching them a few things. With her at the head of our building efforts our homes will one day be the envy of the wasteland."
+
+  khan_factorio_is_too_expensive:0 "Industrial Machinery"
+  khan_factorio_is_too_expensive_desc:0 "We’ve reclaimed a number of old industrial manufacturing parts from pre-war factories that have been scavenged recently. With a little help from the Followers we might be able to repair them for our own use and get some factories of our own."
+
+  khan_realm_of_diana:0 "The Realm of Diana"
+  khan_realm_of_diana_desc:0 ""To the south I found a place unlike any I could have imagined. A valley inhabited by the strongest and healthiest people I’ve ever seen, watched over by a mother named Diana. We spoke over several days, and she gave me gifts to share with you all." -Amgalan"
+
+  khan_healthy_gang:0 "Strength in Health"
+  khan_healthy_gang_desc:0 ""I met with Diana once more and she taught me much, secrets of medicine and conditioning even the Followers could only dream of. In exchange I have offered her the services of any of our warriors who wish to volunteer. Are there any among you who wish to see the valley?" - Amgalan"
+
+  khan_follower_research:0 "Advancements in Medicine"
+  khan_follower_research_desc:0 "Many Khans, both of the north and south, proved for better or worse to be quick learners in the field of chemistry and most have the Followers to thank for it. The Followers are always working to improve their craft however and if we encourage our own chem makers to lend them a hand who knows what breakthroughs we might make together?"
+
+  khan_followers_support:0 "Putting Book Learning Into Practice"
+  khan_followers_support_desc:0 "We need more than theoreticals to survive rad storms, plagues and droughts. Turning our knowledge into practical inventions is a necessary step of our development. Even if some of the Khans still want to use it to make weapons...."
+
+  khan_followers_science:0 "Accumulated Research"
+  khan_followers_science_desc:0 "The pursuit of knowledge didn’t stop when the bombs fell, working out of small labs and with scavenged goods the scientists of the post apocalyptic world marched on. The Followers were always keen to record and archive any advances they caught wind of and that’s still true today."
+
+  khan_followers_laboratories:0 "Follower Laboratories"
+  khan_followers_laboratories_desc:0 "A scientist needs a lab, though most these days could only generously be called ‘modest’. The Followers have better technology at their disposal than most though and still have much to teach. Computers make quite the difference."
+
+  khan_followers_lost_medical_knowledge:0 "Lost Medical Sciences"
+  khan_followers_lost_medical_knowledge_desc:0 "Melissa and Esen returned one day from exploring some of the more forgotten corners of our lands, with tales of an old pre-war research hospital still mostly intact. News that it was full of Stingwing nests did not hamper the Followers excitement over the find. They’re already making plans for reclaiming whatever knowledge it holds."
+
+  khan_followers_ralston_manufacturing_plant:0 "Ralston Manufacturing Plant"
+  khan_followers_ralston_manufacturing_plant_desc:0 "As our work in researching medicine and chems alongside the Followers continues, we’re finding that we need better facilities for actually making them. Converting an old plant in Ralston should be enough to start manufacturing more and more medicine from the local flora."
+
+  khan_followers_agricultural_division:0 "Follower Agriculture"
+  khan_followers_agricultural_division_desc:0 "Chemistry isn’t the only science the Followers study, far from it. One field in which their knowledge exceeds ours is agriculture. The Khans have never been known as farmers, but as we continue to settle down more and more of us have taken to the soil. If they’re willing to teach we’re willing to learn."
+
+  khan_agricultural_advancements:0 "Agricultural Advancements"
+  khan_agricultural_advancements_desc:0 "We’ve learned fast, faster than the Followers expected. Old farmland left fallow by the end of the world is rapidly being revived by our farmers thanks in no small part to the Followers knowledge. Feels a little odd though to ride a tractor instead of a motorcycle."
+
+  khan_work_with_dealers:0 "Cutting a Deal"
+  khan_work_with_dealers_desc:0 "Jack and Diane shared a seat as Justine heard the former make his pitch. "Check it lady, what you’re doing is totally cool, with the making meds and everything. We wanna help, we know all about getting the good stuff to whoever wants it. Just put in a good word for us with the A-man, tell him to be cool." \n\nJustine frowned briefly before shrugging her shoulders with a sigh. "Fine.""
+
+  khan_force_dealers_out:0 "Chem Rehabilitation"
+  khan_force_dealers_out_desc:0 "Diane took a long drag on her cigarette as she watched Amgalan open the first chem rehab clinic who knows how many miles. "This is gonna fuck our business over you know."\n\nJack shrugged from the old lawn chair he lounged in. "Maybe it’s time for a new business ya know? I can make other stuff, maybe make some scientastical stuff for the Followers." Diane shrugged in response, already thinking of ways to keep them in caps."
+
+  khan_field_medics:0 "Field Medics"
+  khan_field_medics_desc:0 "Nowhere does quick access to medical treatment make a bigger difference than on the battlefield. Training some of our people in field medicine and kitting them out for the job should ensure as many Khans as possible come home from the battles to come."
+
+  khan_healthy_gang_2:0 "Potent Antidotes"
+  khan_healthy_gang_2_desc:0 "There’s no shortage of critters in the wasteland dripping poison from somewhere or lack of toxic chemicals leftover from the old world. For every poison however there is an antidote, and we’ve gotten quite adept at figuring them out."
+
+  khan_natural_stimpaks:0 "Natural Stimpaks"
+  khan_natural_stimpaks_desc:0 "Stimpaks are a wonder of the old world but not one that is impossible to recreate. With the right plants and compounds we can make our own version, just as good if not better."
+
+  khan_meds_will_be_spread:0 "Medicine Distribution"
+  khan_meds_will_be_spread_desc:0 "There’s always more to learn but we’ve just about hit the limit for what we’re reasonably capable of in the field of medicine. Now all that remains is to put that learning to use. Distributing medical supplies to our people as well as our friends will make for a better future for all."
+
+  khan_followers_spread:0 "Exchanging Knowledge"
+  khan_followers_spread_desc:0 "Knowledge is the brightest light we have in these darkened days, and the Followers have more than most. They are generous friends however, sharing with us what they know. We can follow that example and pass it along to our allies as well."
+
+  khan_followers_established_bonuses:0 "Spreading Humanitarianism"
+  khan_followers_established_bonuses_desc:0 "Our patronage and protection has allowed the Followers of the Apocalypse to grow and expand freely, more than they ever could back in California or the Mojave. With that growth comes a greater influence over the people they aid, but that’s a small price to pay."
+
+  khan_capstone_1:0 "The Khan of Khans"
+  khan_capstone_1_desc:0 "The time of debate and dispute is over; the khans have spoken loud and clear in support of our new path. While today is only the beginning of what is to come, it marks an important day nonetheless. A toast!"
+
+  khan_capstone_2:0 "An Age of Prosperity"
+  khan_capstone_2_desc:0 "We’ve had a lot of hard times, no one can deny that whether they’re a khan of the north or the south. Those times might just be coming to an end now though. We’re stronger than we ever were and it’s time to enjoy it."
+
+  khan_capstone_3:0 "Paid in Kind"
+  khan_capstone_3_desc:0 "We’re the masters of this land now, and that means we get a cut of whatever action goes down in it. Call it tribute, call it taxes, actually screw taxes; call it tithes."

@@ -1,0 +1,174 @@
+﻿l_english:
+    irc_lost_souls_in_a_blizzard:0 "Lost Souls, Tethered to a Blizzard"
+    irc_lost_souls_in_a_blizzard_desc:0 "With so many warring powers in Canada, there was no room for us anymore. They had won-- they pushed us to an impossible brink. Now, we're nothing more than ghosts."
+
+    irc_howling_wolf_will_find_a_way:0 "Howling Wolf Will Find a Way"
+    irc_howling_wolf_will_find_a_way_desc:0 "The time for hope had long since passed. The Scarlet Blizzard carved away what desperation remained. All that was left was a long, cold, nothing. \n\nBut Howling Wolf remains determined. She won't let nihilism destroy her. She will find a way out of this or die trying."
+
+    irc_the_tipis:0 "The Tipis"
+    irc_the_tipis_desc:0 "There is little in the way of hide here. Tipis are made of tattered U.S. military tarps and the flesh of shapeless beasts without meaning. \n\nWith this harsh reality, we must continue to fight for our warmth."
+
+    irc_empty_flesh:0 "Empty Flesh"
+    irc_empty_flesh_desc:0 "The only creatures to lurk this deep in the Scarlet Blizzard are Umbravores, tattered remnants of failed experiments from MANIFEST North still clinging to life. \n\nOur people move with ancient meaning without purpose. They carve empty flesh into food and home, leaving us malnutritioned and shattered. The Umbravore flesh may keep us from starvation, but it is what little fish we can gather from the nearby lakes that keep us alive. We cannot go on like this."
+
+    irc_the_ones_we_lost:0 "Remember The Ones Lost"
+    irc_the_ones_we_lost_desc:0 "A hunter will go into the woods, hoping to bring home food for his family and survive the blood-red frost littering the air. He never comes home. Everyone knows where he is-- that forsaken place, MANIFEST North. If he's lucky, he will never emerge again. If not, his flesh and others will fuel another generation of Umbravores."
+
+    irc_our_identities:0 "Our Identities"
+    irc_our_identities_desc:0 "When you are all trapped in an endless blizzard, what good are names anymore? In [IRC.Capital.GetName], tribes no longer matter beyond distant memories. To most, we're fools but clinging to dead dreams. \n\nWe can't bring back our lost history. But we can make new stories. We just need a way."
+
+    irc_pursue_lost_children:0 "Pursuing Lost Children"
+    irc_pursue_lost_children_desc:0 "The barbaric nobles of Pleasantdale have dealt us many wrongs, taking some of our best and youngest in the night for their vile programs. Dire as it may sound, they are still alive, even if they've been changed. Howling Wolf will return who she can."
+
+    irc_newfound_scavenging_cultures:0 "A History of Foraging Repeated"
+    irc_newfound_scavenging_cultures_desc:0 "Our ancestors foraged for berries and resources of the land to stay alive. We salvage metal and melt it down to help keep us warm."
+
+    irc_fighting_for_our_lives:0 "Fighting for Our Lives"
+    irc_fighting_for_our_lives_desc:0 "Umbravores are not easy quarry to take down. They vary in size, personality, and comprehension. Every one is unique, but they are all united by one thing: aggressiveness. Our hunters have to wear power armor to ensure they aren't rendered in half by stray talons or spewing acid."
+
+    irc_ice_fishing:0 "Ice Fishing"
+    irc_ice_fishing_desc:0 "For centuries, our people have gathered fish from the ice. With the Inuit's help, we've been able to renew these skills and better feed our people."
+
+    irc_manifest_junkyards:0 "MANIFEST Junkyards"
+    irc_manifest_junkyards_desc:0 "Manifest left behind many dumping grounds of past assets. We can use these to repair our weapons and armor-- with luck, maybe our shelters, too."
+
+    irc_salvaging_from_fallen_hunters:0 "Fallen Hunter Salvage"
+    irc_salvaging_from_fallen_hunters_desc:0 "Many of our hunters do not survive sustained encounters with Umbravores. Their bodies must be retrieved after the body of the beast has been brought home-- we cannot let them rot alone in the blizzard. They would assuredly become food for the creatures."
+
+    irc_matters_of_medicine:0 "Matters of Medicine"
+    irc_matters_of_medicine_desc:0 "While we have significant chem stockpiles, we primarily rely on natural medicines. Typical ingredients are hard to come by, but the one thing the Umbravores are good for is their unique biological makeup. With each one varying so much, their unstable mass sometimes contains unique properties that are medicinal in nature. In that, we are very lucky."
+
+    irc_our_friends_south:0 "The Métis"
+    irc_our_friends_south_desc:0 "The Métis have been allies to us for centuries. Even now, we remain friends, though our struggles have differed greatly. Reestablishing proper routes of contact would be an excellent start."
+
+    irc_i_remember_burned_tongue:0 "I Remember Burned Tongue"
+    irc_i_remember_burned_tongue_desc:0 "When the Canadian People's Front fought to tear us apart and mold us into loyal citizens, Burned Tongue stood defiant. Though he was not alone, it was by his word that dozens of Cree, Ojibwe, and Nakoda stood together once more in the post-nuclear world, fighting a decades-long battle against the CPF that split the nation into two unsustainable halves. His actions allowed us to continue surviving as the world decided once more that there was no room for us."
+
+    irc_the_old_names:0 "Do Well To Remember The Old Names"
+    irc_the_old_names_desc:0 "There is a bitter hatred in many of our peoples hearts-- the sort that cannot be nursed with goodwill and happy memories. Ours is a history of violence and loss, the sort that men like Poundmaker and Big Bear strived so hard to prevent. This hatred may never fully go away, for it has shaped our people as much as the land had once before; it is immutable, for if it goes, we may forget what once was, and become content with what is wanted."
+
+    irc_wuttunees_legacy:0 "Wuttunee's Legacy"
+    irc_wuttunees_legacy_desc:0 "Chief Wuttunee stood against the tyranny of the U.S. government where the Canadian government had failed. It is from his deeds, even two hundred years ago, that we now sustain our current high-standard equipment. We would do well to honor him further by ensuring its continuation."
+
+    irc_refurbished_plant:0 "The Old Refinery"
+    irc_refurbished_plant_desc:0 "Recently, our hunters had cleared out an Umbravore-infested refinery near one of the old Manifest scrapyards that contained several bits of machinery and equipment that had been preserved under the layers of frost. With some rejiggering, we may be able to get it back up and running-- and perhaps our dreams of production will at last be met."
+
+    irc_new_age_braves:0 "New Age Braves"
+    irc_new_age_braves_desc:0 "With refurbished power armor, we are able to outfit a new generation of hunters and warriors."
+
+    irc_metis_artisans:0 "Métis Artisans"
+    irc_metis_artisans_desc:0 "By sharing crafting techniques between our nations, both sides prosper."
+
+    irc_renewed_allegiance:0 "Renew Our Allegiance"
+    irc_renewed_allegiance_desc:0 "Just as Big Bear and Poundmaker stood with the likes of Louis Riel, so too shall we throw in our lot with the Métis once more. The world may have pushed us away, but it is with open arms that they will receive us."
+
+    irc_shared_buff:0 "Remembering Louis Riel"
+    irc_shared_buff_desc:0 "Louis was a soul who resonated with our own. Together, we are stronger, and together, our fortunes rise."
+
+    irc_finding_the_little_treasures_facility:0 "Finding the Little Treasures Facility"
+    irc_finding_the_little_treasures_facility_desc:0 "The 'Little Treasures' laboratory is named with the intention of delusional love, but all it has ever been is a indoctrination wing intended to create the perfect protectors for the nobles of Pleasantdale. Too many of our people were sequestered here, turned into something they weren't by men who had no right imposing themselves upon them. If we can find their records, we can find their Faerie identifiers. \n\nThey can still come home."
+
+    irc_search_and_rescue:0 "Search and Rescue"
+    irc_search_and_rescue_desc:0 "The Faeries of Pleasantdale retain scant memories. While their vocal cords have been hampered, the mind of a child still reigns supreme-- and a child knows the love of a mother like no other. With the records retrieved from Little Treasures, we can return each and every Faerie back to whom they were stolen from."
+
+    irc_faerie_tactics:0 "Faerie Strategem"
+    irc_faerie_tactics_desc:0 "The Faeries, while children at heart, are ruthless and incredibly physically capable in combat. Learning from them isn't an exact experience, but there is a sort of dark, scientific precision that could be used to our benefit in their liberation."
+
+    irc_repurpose_little_treasures:0 "Repurpose Little Treasures"
+    irc_repurpose_little_treasures_desc:0 "Little Treasures was a powerful facility in its time, once ran by HOPE herself. While we care not for the sibling of an American Ghost, some among us think Little Treasures power can be used to further our own hopes. Perhaps we can bring goodwill where once there was none?"
+
+    irc_destinys_eyrie:0 "This Is Not Her Land"
+    irc_destinys_eyrie_desc:0 "For too long we have bowed to Destiny just to stay alive in a land that was once ours. We are tired of giving of our own to the ghost of American exceptionalism. \n\nOur story will not be the one that ends here."
+
+    irc_gathering_survivors:0 "Gathering the Survivors"
+    irc_gathering_survivors_desc:0 "Even now, dozens of people were being kept within MANIFEST North's holding areas. Innocent people swooped up from Manitoba, Pakoseyimowin, the Electorals, or even the thought-lost reservations in the area have been here this whole time-- some of them having been so for years. Though many of them are in no condition to do so immediately, many more arewilling to help us in our causes. Even through so much suffering, to Howling Wolf, it goes to show that there is still light to be found in darkness."
+
+    irc_the_fate_of_manifest_north:0 "The Fate of MANIFEST North"
+    irc_the_fate_of_manifest_north_desc:0 "Manifest North was used for heinous experimentation for the better half of two hundred and a half years. It has inside its halls a great amount of still-intact machinery that could be used to our benefit, but it was also used for truly damning things, especially against our people. Is it right, then, to perhaps turn it into a force for good? Or should it be destroyed, and buried?"
+
+    irc_vision_quests:0 "Vision Quests"
+    irc_vision_quests_desc:0 "It was Chief Rolling Thunder's decision to stop the youngest of our men from going on Vision Quests. The Umbravores, blizzard, and Destiny's deputies made going out on such ventures too dangerous to consider-- but now, with Howling Wolf's leadership, times are changing for the better. With our newly grounded selves, we may now once again allow our boys to become men as they were meant to."
+
+    irc_snowshoes:0 "Old-Fashioned Snowshoes"
+    irc_snowshoes_desc:0 "Once, our ancestors employed laced-framed snowshoes to better weather the blizzard. Not everyone can wear a gigantic suit of powered armor to weather the storm-- this sort of proper footwear will improve our quality of life significantly. Though simple in practice, it may help some of the elders cope with our situation, too."
+
+    irc_no_more_surviving:0 "No More Surviving"
+    irc_no_more_surviving_desc:0 "All of our lives, we have 'survived.' In what we thought to be a neverending whiteout, even we too called ourselves survivors. Chief Howling Wolf is done with that idea-- survivors implies a lack of strength, a strength we are finding once again. We may have lost so much, but we are bringing ourselves forward. Whatever threats may be brought our way, be they Destiny or otherwise, we will not 'survive' them. We will endure them, for we are undeniable."
+
+    irc_dammed_no_longer:0 "Dammed No Longer"
+    irc_dammed_no_longer_desc:0 "The Dammed are a small community of raiders and settlers under one peculiar man known as Gristle. They've prevented us from scavenging too close to their namesake's Dam, keeping us from both electricity and supply. In this desolation, they scorned us and refused to share. Why should we treat them with any respect when they refused us ours?"
+
+    irc_hunting_stations:0 "Hunting Stations"
+    irc_hunting_stations_desc:0 "Too many have been lost to the Blizzard. We need to establish proper posts and camps for our warriors to be safe in when they're away from home."
+
+    irc_pathfinders:0 "Seasoned Hunters"
+    irc_pathfinders_desc:0 "Our most stalwart of hunters have spent so long fighting for their lives in both frost and in hunts that they can now navigate the blizzard on a level hitherto unprecedented. We move as ghosts through the whiteout, hunting Umbravores and avoiding Destiny's deputies with dexterous skill."
+
+    irc_the_first_rad_moose:0 "The First Radmoose in So Long"
+    irc_the_first_rad_moose_desc:0 "After so long of eating just Umbravores, it is easy to forget the comfort of actual meat. Though the wasteland itself has not been kind to what once was just a mere Moose, its historical significance and nature of not being the product of a factory's rejected line has brought a smile to many of our faces. Things are looking up again."
+
+    irc_spectral_cabal:0 "The Followers of Fenrir"
+    irc_spectral_cabal_desc:0 "Superstitious locals in the Electorals pay homage to a mysterious 'wolf god' named Fenrir. Though the nature of their god is suspicious, seemingly being tied to Manifest, the actual practices they teach are not as dangerous as they may initially seem. Perhaps we could welcome them into our fold?"
+
+    irc_ending_manifests_legacy:0 "Ending MANIFEST's Legacy"
+    irc_ending_manifests_legacy_desc:0 "While Manifest's horrors stretch across the prairies, their greatest bastion has always been that of MANIFEST North. With it in our hands, we can ensure it is never used for such vile things ever again. The Ghost of American Exceptionalism died, and we are the bearers of its carcass."
+
+    irc_sun_dancing:0 "Sun Dancing"
+    irc_sun_dancing_desc:0 "With the fall of Destiny, Howling Wolf saw something truly profound: in the days after the lights in the MANIFEST facility turned off, hope had reentered her peoples hearts so thoroughly that once again that in secret they had prepared a Sun Dance, the first of its kind that she could remember. Our songs flew through the wind as the birds once did, in celebration and prayer for a new generation of warriors grueling tests."
+
+    irc_the_dark_woods:0 "Into the Darkwood"
+    irc_the_dark_woods_desc:0 "Even with our peoples newfound joy, there were still remnants of Destiny's foul power. Smiling Jack, and the Blighted Woods still persevered. If we are to banish the horrors, we must in turn lay Smiling Jack to rest once and for all."
+
+    irc_ending_the_experiments:0 "Ending the Faerie Program"
+    irc_ending_the_experiments_desc:0 "The Electorals did whatever they could to abuse our presence when we were there. Now, standing back up on our feet, we must ready ourselves for a reprisal: never again shall they take any youth for their dark schemes. \n\nIf not us, then who will stop them?"
+
+    irc_restoring_the_woods:0 "Life Returns to Hudson Bay"
+    irc_restoring_the_woods_desc:0 "Though what once was shall never be again, with Smiling Jack's fall, the Frostlurks he befriended have since gone back to water. Radmoose and other creatures of the modern world have begun to filter back in, the forest now once again green and not scarlet."
+
+    irc_memory_of_poundmaker:0 "Poundmaker Stood For Us"
+    irc_memory_of_poundmaker_desc:0 "We credit Wuttunee and Burned Tongue with much, but our elders tell us of other stories: heroes from centuries ago whose faces are lost to records we do not retain. Legends of Poundmaker, Big Bear, Wandering Spirit-- they dance among the words of our children like that of comic book heroes. They stood so Wuttunee and Burned Tongue could walk; now, it is our turn to run."
+
+    irc_build_construct:0 "We Are Of the Earth, And So It Abides"
+    irc_build_construct_desc:0 "As the old stories so call, we are of the Earth, and so too we must know it as well as it may grow to know us. Our warriors know the lay of the land like no other, and thus we are immutable: undeniable."
+
+    irc_coring_dam:0 "The Dam, Secured"
+    irc_coring_dam_desc:0 "With the Dam now under our control, we may reroute such power and salvage to our people. Never again shall our children know cold or starvation. Never again will our warriors suffer from a lack of supply. We are the last of our kin, and we will do anything to protect our lineage-- just as the heroes of old did."
+
+    irc_mercenaries_must_die:0 "The Mercenaries Must Die"
+    irc_mercenaries_must_die_desc:0 "Men of Fortune hold no place as government here or anywhere. They oppress, rattle, and racketeer the locals and would happily do the same to us given the chance. As if we needed any more reasons, they support the Kingdom of Manitoba. They must go. We will not suffer those who supplant tyrants."
+
+    irc_recognized:0 "Howling Wolf's Legacy"
+    irc_recognized_desc:0 "In raising her children, Howling Wolf often thought of her father and his actions-- the sorts that led them to the Scarlet Blizzard. He chose to resist the urge to fight for his people, instead wasting away in a dead land that held no bounty. Though she loved her father, she wondered more what her children would think if she continued his tribute to Destiny. What would they think, watching their mother sell their people out for another day of life in hell? \n\nShe chose to fight, so they too would know the weight of what one can do with enough belief in their heart. It is in that that she found her truths, and where she would hope they would, too."
+
+    irc_the_land_of_kings:0 "We Have Had Enough of British Rule, Thanks"
+    irc_the_land_of_kings_desc:0 "The Kingdom of Manitoba is founded on triumphs that did not belong to them. It was Burned Tongue who gave Gunn the position to form his rebellion, and it was Burned Tongue who enabled that crown to go on the ghoul king's head. If he saw this, he would roll in his grave. Whomever sits on the throne is irrelevant. What matters is that Burned Tongue's legacy does not go unspoken. \n\nWe will sing it through fire and sword."
+
+    irc_welcome_new_warriors:0 "Welcome New Warriors"
+    irc_welcome_new_warriors_desc:0 "In our travels, various other warriors have joined with us. They come from tribes from as far as Newfoundland and as far west as Vancouver, but they seek nothing other than to offer their hand in brotherhood. We will welcome them the same as any other, for we are an umbrella of the scorned."
+
+    irc_wont_somebody_tell_me:0 "Remember The Second Iron Confederacy"
+    irc_wont_somebody_tell_me_desc:0 "The first Iron Confederacy was formed for a variety of reasons, but the foremost was for protection. It is in this second Iron Confederacy where we do the same. We sought to preserve cultures the rest of the world threw to the wayside, that were abused by men who held imaginary power enforced by brutes and highwaymen. We have lost much, but in these times, we have grown. We can never reclaim what once was, but we can pass what remains-- and empower our youth to forge new ones, too."
+
+    irc_renovations_are_needed:0 "Renovations Most Deserved"
+    irc_renovations_are_needed_desc:0 "Though Destiny tried to destroy us, we rebounded in ways our ancestors dreamt of. The combined might of our various tribes and warriors stood the test of time, and now, we are forever. Let us prepare the land, so that we may embrace a new generation of our kin."
+
+    irc_battleford:0 "Foul Fools"
+    irc_battleford_desc:0 "Prince Albert and the men of Battleford hold much of our history in their lands. Where once heroes fought for our independence is now nothing more than a haven of bandits and ex-Manitoban militants. This cannot be allowed to stand."
+
+    irc_cab_vultures:0 "Last Ride of the Motor-Families"
+    irc_cab_vultures_desc:0 "The Cab Vultures are a controversial society. They are artists, they are raiders, they are criminals-- but they fought side-by-side with Burned Tongue all those years ago, loyal to the bitter end. Though they were a flame burnt out by the families of the Stampede, the man called Madvillain still stands. He would hear us out, should we seek diplomacy."
+
+    irc_cab_vultures_release:0 "Let Them Ride Again!"
+    irc_cab_vultures_release_desc:0 "The Cab Vultures are a controversial society. They are artists, they are raiders, they are criminals-- but they fought side-by-side with Burned Tongue all those years ago, loyal to the bitter end. Though they were crushed all but totally by the Stampede, they say one calling himself Madvillain yet rides the northern frontiers. Who could say if he is the original man, but we could surely use him to revive our once allies."
+
+    irc_renewed_belief:0 "Age of Renewal"
+    irc_renewed_belief_desc:0 "It is easy to see the morale of our people improve, for anything is an improvement from dying in a blizzard under the watchful machine. Our people laugh, sing, and dance again. Our warriors stand taller than they ever have. We are mighty, and it is more than earned."
+
+    irc_powwow:0 "A Powwow, In Memory of All We Have Suffered"
+    irc_powwow_desc:0 "In times of glory, it is easy to forget what once was-- where we came from, what happened to those who fought to get us here. Many have died. It is important, then, that we remember: so that our children may know why we fight."
+
+    irc_birch_bark:0 "Mazinibaganjigan"
+    irc_birch_bark_desc:0 "Now that we are out of the Scarlet Blizzard, our people have once again begun to cut bark from the trees, fashioning it into beautiful art. New stories are carved as the old ones, with quiet respects paid to the tree for allowing us such wonders."
+
+    irc_kanata:0 "Kanata"
+    irc_kanata_desc:0 "The root of Canada is from the tongues of those who came before European settlers, coming from the Iroquiosian word meaning village, settlement, etc. \n\nThe CPF, Stampede, and other groups fought every attempt of ours to stake a claim after centuries of fighting. We survived, the British, the French, the Nuclear Holocaust, and we survived all these wayward petty tyrants. We will gladly survive anything else. \n\nPerhaps, with time, Kanata can be ours, and would be as it once was."

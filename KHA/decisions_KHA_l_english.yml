@@ -1,0 +1,32 @@
+﻿l_english:
+ #Khan Support system localisation, in tandem with the scripted localisation
+ #Square bracketed sections in the description's loc are the names of the 3 "defined text" entries in the scripted loc file
+ KHA_support_category:0 "Khan Authority"
+ KHA_support_category_desc:0 "Control over §L[KHA.GetFlag] the Northern Khans§! is tumultuous and uncertain.\n\nWithin a few years the situation will change and there will be an opportunity to settle on a path for the future.\n\nIf someone's support is at least §Ysubstantial§!, then when the time comes, they will still have a chance at leadership.\n\nOnly time will tell who will lead §g[GKH.GetFlag] the rest of the Khans§! to their future here in Wyoming... \n\n[KHA_amgalan_support][KHA_regis_support][KHA_essen_support]"
+
+ # The 3 lines below were included in the original legion glory loc. I could not find what they are used for but left them here in case anything breaks with them gone -Tran
+ # KHA_amgalan_support_text:0 "Amgalan's Support: [?amgalan_support_variable|0]\n"
+ # KHA_regis_support_text:0 "Regis's Support: [?regis_support_variable|0]\n"
+ # KHA_essen_support_text:0 "Essen's Support: [?essen_support_variable|0]\n"
+
+ # Below is the localisation for every localisation key in the scripted loc file. These will replace the defined text in the description depending on the conditions
+ KHA_amgalan_support_text_low:0 "Support for §CSettling Down§! is §Rlow§!.\n"
+ KHA_amgalan_support_text_modest:0 "Support for §CSettling Down§! is §Omodest§!.\n"
+ KHA_amgalan_support_text_moderate:0 "Support for §CSettling Down§! is §8moderate§!.\n"
+ KHA_amgalan_support_text_high:0 "Support for §CSettling Down§! is §Ysubstantial§!.\n"
+ KHA_amgalan_support_text_very_high:0 "Support for §CSettling Down§! is §7high§!.\n"
+ KHA_amgalan_support_text_massive:0 "Support for §CSettling Down§! is §Gmassive§!.\n"
+
+ KHA_regis_support_text_low:0 "Support for the §YOld Ways§! is §Rlow§!.\n"
+ KHA_regis_support_text_modest:0 "Support for the §YOld Ways§! is §Omodest§!.\n"
+ KHA_regis_support_text_moderate:0 "Support for the §YOld Ways§! is §8moderate§!.\n"
+ KHA_regis_support_text_high:0 "Support for the §YOld Ways§! is §Ysubstantial§!.\n"
+ KHA_regis_support_text_very_high:0 "Support for the §YOld Ways§! is §7high§!.\n"
+ KHA_regis_support_text_massive:0 "Support for the §YOld Ways§! is §Gmassive§!.\n"
+
+ KHA_esen_support_text_low:0 "Support for a §ONew Khanate§! is §Rlow§!.\n"
+ KHA_esen_support_text_modest:0 "Support for a §ONew Khanate§! is §Omodest§!.\n"
+ KHA_esen_support_text_moderate:0 "Support for a §ONew Khanate§! is §8moderate§!.\n"
+ KHA_esen_support_text_high:0 "Support for a §ONew Khanate§! is §Ysubstantial§!.\n"
+ KHA_esen_support_text_very_high:0 "Support for a §ONew Khanate§! is §7high§!.\n"
+ KHA_esen_support_text_massive:0 "Support for a §ONew Khanate§! is §Gmassive§!.\n"

@@ -1,0 +1,186 @@
+﻿l_english:
+  KOT_jaina_april_fools:0 "Jaina Proudmoore"
+  KOT_jaina_april_fools_desc:0 "Lady Jaina Proudmoore is the daughter of Daelin and Katherine Proudmoore, and sister of Derek and Tandred. She is considered one of the finest mages in all Azeroth and the most powerful human sorceress alive. She is the Lord Admiral of Kul Tiras, the former leader of the Kirin Tor of Dalaran, and of the port-city of Theramore.\n\nTrained as the personal agent of Archmage Antonidas, the late leader of the Kirin Tor and Dalaran, she was sent to investigate the plague of undeath with Prince Arthas Menethil, her childhood friend and one-time romantic interest. She witnessed the first stages of the fall of Lordaeron during the Third War firsthand and, guided by a mysterious prophet later revealed as Medivh, Jaina rallied what survivors she could find and fled across the sea to Kalimdor...\n\nBut she didn't quite end up in Kalimdor, did she? What is this strange land.."
+  KOT_elites_ADJ:0 "Theramore"
+  KOT_elites_DEF:0 "the Kingdom of Theramore"
+  KOT_elites:0 "Kingdom of Theramore"
+  KOT_intellectuals_ADJ:0 "Theramore"
+  KOT_intellectuals_DEF:0 "the Kingdom of Theramore"
+  KOT_intellectuals:0 "Kingdom of Theramore"
+  KOT_people_ADJ:0 "Theramore"
+  KOT_people_DEF:0 "the Kingdom of Theramore"
+  KOT_people:0 "Kingdom of Theramore"
+  KOT_ruler_ADJ:0 "Theramore"
+  KOT_ruler_ADJ_ruler_DEF:0 "the Kingdom of Theramore"
+  KOT_ruler_ADJ_ruler:0 "Kingdom of Theramore"
+  kot_mana_daily:0 "Additional Mana Gain"
+  KOT_REMOVE_MANA:0 "Remove §R"
+  KOT_ADD_MANA:0 "Gain §G"
+  KOT_HAS_MANA:0 "Has at least §Y$VALUE$§! Mana"
+  KOT_CHANGE_MANA:0 "$CHANGE$ $VALUE$§! Mana"
+  KOT_powerful_mage:0 "Powerful Mage"
+  KOT_powerful_mage_2:0 "$KOT_powerful_mage$"
+  KOT_comfy_shirt:0 "Comfy Shirt"
+  KOT_all_mana:0 "Full Mana"
+  KOT_no_mana:0 "No Mana"
+  KOT_middling_mana:0 "Middling Mana"
+  KOT_mana_bop:0 "Mana"
+  KOT_negative_mana:0 "Negative Mana"
+  KOT_put_on_shirt:0 "Put on a Shirt"
+  KOT_put_on_shirt_desc:0 "It's cold out here!"
+  completed_KOT_spell_evocation_flag:0 "Has completed the §YBalance of Power§! decision §Y"$KOT_spell_evocation$"§! at least once."
+  KOT_mana_level_0:0 "Level 1"
+  KOT_mana_level_1:0 "Level 2"
+  KOT_mana_level_2:0 "Level 3"
+  KOT_mana_level_3:0 "Level 4"
+  KOT_mana_level_4:0 "Level 5"
+  KOT_mana_level_5:0 "Level 6"
+  KOT_mana_level_6:0 "Level 7"
+  KOT_mana_level_7:0 "Level 8"
+  KOT_mana_level_8:0 "Level 9"
+  KOT_mana_level_9:0 "Level 10"
+  KOT_mana_level_10:0 "Level 11"
+  KOT_mana_level_11:0 "Level 12"
+  KOT_mana_level_12:0 "Level 13"
+  KOT_mana_level_13:0 "Level 14"
+  KOT_mana_level_14:0 "Level 15"
+  KOT_mana_level_15:0 "Level 16"
+  KOT_mana_level_16:0 "Level 17"
+  KOT_mana_level_17:0 "Level 18"
+  KOT_mana_level_18:0 "Level 19"
+  KOT_mana_level_19:0 "Level 20"
+
+  kot_1:0 "The Culling"
+  kot_1_desc:0 "Stratholme burned, and with it, the last thread tying her to the prince she once trusted. Jaina turned away—not out of cowardice, but to follow a path less soaked in blood. That path led her somewhere far stranger than she could have imagined."
+
+  kot_2:0 "Chasing Visions"
+  kot_2_desc:0 "A voice, ancient and urgent, spoke of doom and deliverance. She followed the warning across a sea of light and noise, believing it to be Kalimdor. What awaited her was no mere continent—it was another world entirely."
+
+  kot_3:0 "Daughter of the Sea"
+  kot_3_desc:0 "Shipwrecked on alien shores, the sea still sings her name in unfamiliar winds. The people here do not know her—nor she, them—but the burden of leadership remains. Jaina Proudmoore will build something from the wreckage."
+
+  kot_ind:0 "Portal in Peasants"
+  kot_ind_desc:0 "These people are strange, but they work the land with familiar resolve. A few tools, some bread, and clear orders—and suddenly, a workforce begins to take shape. 'Off I go, then,' they mutter, unaware of the magic they echo."
+
+  kot_ind_1:0 "Trade across the Sea"
+  kot_ind_1_desc:0 "Kul Tiran instinct runs deep; even in this broken land, goods still flow from hand to hand. Ships may be scarce, but caravans and wagons suffice. If there's coin to be made, we'll find a way to earn it."
+
+  kot_ind_2:0 "Vintage Dalaran Noir"
+  kot_ind_2_desc:0 "Glass bottles, faintly glowing—curious. They're relics from the East, cherished like arcane tomes. Even here, the remnants of a lost world hold power when dressed as nostalgia."
+
+  kot_mil:0 "Portal in Footman"
+  kot_mil_desc:0 "Steel and discipline—some things carry across all worlds. With a shield in hand and orders on their tongue, our men march once more. 'What do you need?' they ask, ready to serve."
+
+  kot_mil_1:0 "Dwarven Cannons"
+  kot_mil_1_desc:0 "These tinkerers call themselves 'scrappers' and 'junkmen,' but the craft is familiar—explosives, gears, and grit. With a few adjustments, our cannons thunder just as they did in the Highlands. 'Locked and loaded!' indeed."
+
+  kot_mil_2:0 "Enchanted Arms"
+  kot_mil_2_desc:0 "The enchanted equipment we brought from our own lands still hums with magic—stronger here, as if the world itself were more vulnerable to its influence. Even something simple, like a leather belt enchanted for strength and stamina, grants immense power in this broken realm. Our arms are not just relics—they are relics of conquest."
+
+  kot_wg_on_dis:0 "Landfall"
+  kot_wg_on_dis_desc:0 "We came ashore to find a wild and war-torn coast. The locals hide in the swamps, praying to things older than sanity. If this is to be our home, we must carve our place through them."
+
+  kot_wg_on_mlt:0 "Riders on the Storm"
+  kot_wg_on_mlt_desc:0 "Farther up the coast, we encountered zealots draped in storm-soaked symbols. They do not speak our tongue, but their eyes gleam with purpose—and madness. We may have found kin... or enemies even magic cannot reach."
+
+  kot_wg_on_arr:0 "Enemies at the Gate"
+  kot_wg_on_arr_desc:0 "Southward lies a tribal camp, wary and hostile. Communication failed, and weapons spoke in our place. It seems this world answers every question with violence."
+
+  kot_establish_the_kingdom:0 "A Destiny of Flame and Sorrow"
+  kot_establish_the_kingdom_desc:0 "So many have been lost—soldiers, sailors, friends. But from the ashes of failure and war, we have raised something new. A city, a banner, a kingdom of exiles."
+
+  kot_wg_on_umb:0 "The Hunter of Shadows"
+  kot_wg_on_umb_desc:0 "The Umbra stalk through twilight forests, silent as ghosts and swift as cats. They remind us of jungle trolls—feral, proud, and fiercely territorial. If we are not careful, their knives will find our throats."
+
+  kot_wg_on_mxs:0 "The Long March"
+  kot_wg_on_mxs_desc:0 "Shackled and silent, prisoners walk a trail older than memory. Their pain echoes through the dust. We will break their chains—and win their loyalty in the act."
+
+  kot_wg_on_eur:0 "Digging up the Dead"
+  kot_wg_on_eur_desc:0 "The people of Eureka wear masks of civility, but something festers beneath. They guard ancient halls and mutter old names with reverence. These are not survivors—they are relics, clinging to a rotten past."
+
+  kot_wg_on_pac:0 "Under the Burning Sky"
+  kot_wg_on_pac_desc:0 "They live in the open, under a sky that should kill them. They laugh, trade, even smile—as if the world weren’t on fire. They deserve better... and we can give it to them."
+
+  kot_wg_on_fou:0 "Trudging through the Ashes"
+  kot_wg_on_fou_desc:0 "A lonely town clings to survival like moss to stone. They will not last a season alone—but with us, they may yet thrive. Their trust will not be given freely, but it will be earned."
+
+  kot_capstone:0 "Eternity's End"
+  kot_capstone_desc:0 "We have fought monsters, mourned friends, and bled into strange soil. But through it all, we endured. This may not be Azeroth—but it is home now."
+
+  kot_ind_l:0 "New Lands, New Wealth"
+  kot_ind_l_desc:0 "The riches of this land are subtle—hidden in soil, story, and scrap. With open eyes and clever hands, we can unearth them. Gold is not the only treasure worth seeking."
+
+  kot_ind_l_1:0 "Nat Pagle's Guide to Extreme Anglin'"
+  kot_ind_l_1_desc:0 "Strangely, someone named Nat Pagle left behind notes that match the fishing conditions here perfectly. With his guidance, we've hauled creatures out of the water that shouldn’t even exist. The locals are both amazed... and afraid."
+
+  kot_ind_l_2:0 "Gnomish Gyrocopters"
+  kot_ind_l_2_desc:0 "They fly—barely—and belch smoke like hearth forges, but they're airworthy. With a few gnomish tweaks, these scavenged contraptions can be made reliable. The sky may yet belong to us again."
+
+  kot_ind_l_3:0 "Newfound Breakthroughs"
+  kot_ind_l_3_desc:0 "Every ruin has a secret, every dust-caked circuit a spark of promise. The more we study, the more we reshape our place in this world. These discoveries could change everything."
+
+  kot_ind_r:0 "New Lands, New Ideas"
+  kot_ind_r_desc:0 "This world is unfamiliar, but it inspires thought in ways Dalaran never could. The rules are different here—but perhaps that’s what we need. Let tradition bend and see what it makes possible."
+
+  kot_ind_r_1:0 "Study this World's 'Paladins'"
+  kot_ind_r_1_desc:0 "These 'Paladins' speak of justice and strength, but without the Light? Their power draws from something else—something raw. We must understand them before they become enemies... or allies."
+
+  kot_ind_r_2:0 "Introduce Gold Coins"
+  kot_ind_r_2_desc:0 "Gold is hoarded, traded, and worshipped—but rarely mined. A curious oversight. If we introduce coinage, we might control the very concept of wealth here."
+
+  kot_ind_r_3:0 "Build Mage Towers"
+  kot_ind_r_3_desc:0 "The ley lines here are untouched—wild, but potent. We will tame them, channeling their strength into new mage towers. Magic will root itself once more."
+
+  KOT_spell_evocation:0 "Evocation"
+  KOT_spell_evocation_desc:0 ""
+
+  KOT_spell_conjure_refreshments:0 "Conjure Refreshments"
+  KOT_spell_conjure_refreshments_desc:0 ""
+
+  KOT_spell_portal_in_peasants:0 "Portal in Peasants"
+  KOT_spell_portal_in_peasants_desc:0 ""
+
+  KOT_spell_portal_in_blacksmiths:0 "Portal in Blacksmiths"
+  KOT_spell_portal_in_blacksmiths_desc:0 ""
+
+  KOT_spell_conjure_magic_weapons:0 "Conjure Magic Weapons"
+  KOT_spell_conjure_magic_weapons_desc:0 ""
+
+  KOT_spell_conjure_mirror_images:0 "Conjure Mirror Images"
+  KOT_spell_conjure_mirror_images_desc:0 ""
+
+  KOT_spell_arcane_intellect:0 "Arcane Intellect"
+  KOT_spell_arcane_intellect_desc:0 ""
+
+  KOT_spell_time_warp:0 "Time Warp"
+  KOT_spell_time_warp_desc:0 "Let's do the time warp again!"
+
+  KOT_spell_ice_block:0 "Ice Block"
+  KOT_spell_ice_block_desc:0 ""
+
+  kot_spell_war_magic:0 "War Magic in [FROM.GetName]"
+  kot_spell_war_magic_desc:0 ""
+
+  KOT_THERAMORE:0 "Theramore"
+  APRIL_FOOLS_2025_NEW_CONTENT_LABEL:0 "§RNEW CONTENT§!\n\nPlay as §YMacArthur§!, §YApostles§!, §YPort Maw§!, or §YLoid's Ministry§! to try something new!\n\nThis content can be disabled by toggling off the §YRed Alert!§! or §YOrcs vs Humans§! gamerules (found above the difficulty buttons!)"
+
+  nf_kot.0.t:0 "Landfall"
+  nf_kot.0.d:0 "The head shaman sways by the firepit, smoke dancing into the evening air. A scout has returned from the cliffs, breathless and wild-eyed. She speaks of ships—dozens of them—creeping from the mists like ghosts, but brimming with life. Strangers walk their decks, their armor gleaming like shards of the sun, their words strange and heavy with power. The shaman mutters of omens. Of prophecies. Of endings.\n\nThe strangers have come from the sea.\n\nAnd they bring magic with them."
+  nf_kot.0.a:0 "We are doomed!"
+  nf_kot.0.b:0 "§MFor Theramore!§!"
+  nf_kot.0.tt:0 "§gWe will play as [KOT.GetNameWithFlag]!§!"
+  nf_blg.0.tt:0 "§gWe will play as [BLG.GetNameWithFlag]!§!"
+  nf_orc.0.tt:0 "§gWe will play as [ORC.GetNameWithFlag]!§!"
+
+  nf_kot.1.t:0 "\"I'm sorry, Arthas.\""
+  nf_kot.1.d:0 "I still remember the fire. Not the flames themselves, but the look in his eyes as they caught the light. Cold. Certain. I tried to stop him, but the plague had already taken root—in the city, and in his heart.\n\nStratholme burned. And I turned away.\n\nThat was the day I lost him. The day I understood that I could not save someone who did not want saving."
+  nf_kot.1.a:0 "I won't make that mistake again."
+  nf_kot.1.a.tt:0 "§gSpend mana by casting spells through Balance of Power decisions!§!"
+
+  nf_kot.2.t:0 "Meeting with the Guardian"
+  nf_kot.2.d:0 "He appeared as if from nowhere, wrapped in feathers and stars, the weight of centuries pressing down in every word. Medivh.\n\nHe spoke of Kalimdor—a land far to the west, beyond horizon and hope. A place of survival, of destiny. He spoke of the end of all things, unless we left.\n\nAnd I listened."
+  nf_kot.2.a:0 "We must go west."
+
+  nf_kot.3.t:0 "A Blinding Light"
+  nf_kot.3.d:0 "As the ships fled from the Eastern Kingdoms, heading towards our destiny.. The skies split.\n\nWaves rose like walls, lightning raked the heavens, and the winds screamed with voices not meant for mortal ears. At the heart of the storm floated something that shouldn't be there. He called himself Med'an—half-shaman, half-mage, and something far stranger. Power twisted around him, reality buckling under the strain. His arms stretched toward the void as if pleading... or commanding.\n\nHe called out—not to us, but to something beyond the weave of time. The storm answered.\n\nWe were unmoored. The sea was gone. The stars changed.\n\nAnd when the storm passed, we found ourselves adrift in a dead world, Theramore beached upon unfamiliar shores. Azeroth was behind us. Or perhaps... it had never been at all."
+  nf_kot.3.a:0 "Where are we?"

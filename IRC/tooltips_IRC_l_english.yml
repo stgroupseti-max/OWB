@@ -1,0 +1,9 @@
+﻿l_english:
+
+    destiny_massacre_flag:0 "§RDestiny has struck at us!§!"
+    finding_little_treasures_tt:0 "§gFinding Little Treasures may take a few weeks...§! §GUnless we already own Pleasantdale§!§g, in which case it should be much§! §Cswifter§!§g.§!"
+    metis_faction_join_tt:0 "§gWe will join in either§! §YThe Second Coalition§! §gor§! §YNorthern Congress§! §gdepending on what the§! §G[MTC.GetNameWithFlag]§! §ghave chosen... If either!§!"
+    reduce_coring_cost_rrr_tt:0 "§gWe will §Olower the resistance§! §gof§! §Y[RRR.GetNameWithFlag]§!§g's lands.§!"
+    form_kanata_unlock_tt:0 "§gWe will§! §Gunlock a decision§! §gto form§! §YKanata§!!"
+    irc_little_treasures_found_flag:0 "§YLittle Treasures§! §gmust be found.§!"
+    irc_releasing_the_vultures_tt:0 "We will release the §HCab Vultures§! as a puppet with the city of §HBattleford§! as well as every state we own on the §HAlbertan Steppe§!!"

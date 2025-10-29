@@ -1,0 +1,116 @@
+﻿l_english:
+  LOI_CIVIL_WAR_LEADER_NAME: "Tanker Commune"
+
+  LOI_CIVIL_WAR_EKATERINA_REPLACEMENT_NAME: "Emergency Council"
+
+  LOI_ERIC_ROSE_NAME: "Eric Rose"
+  LOI_ERIC_ROSE_DESC: "A frontiersman by heart, Eric Rose believes in the ideals of the ancient law enforcement group, the mounties. Patrolling the freezing terrain of Loid’s Minister, Eric aims to keep the law and order in the small towns and cities while the nation’s government hashes it out."
+
+  LOI_DANIEL_MOUNTAINBACKER_NAME: "Daniel Mountainbacker"
+  LOI_DANIEL_MOUNTAINBACKER_DESC: "A relatively quiet individual when it comes to the ideals of the tankers or the clergy, Daniel Mountainbacker believes that a quick and hard strike against the foes of Loidminster is the way to go. These ideas can be traced back to those of the Mounties which Daniel has followed as he finds himself in a frozen land strife with infighting."
+
+  LOI_GRIGORY_TEMAN_NAME: "Grigory Teman"
+  LOI_GRIGORY_TEMAN_DESC: "Family man and husband to Jill Teman, Grigory is one of the few people within the Loidminster who has a concept of naval tactics. Studying old books that he found in old libraries of Marwayne, Grigory takes what he has learned and tries to apply it to the few crewmembers that man the ships of the Spear’s naval forces."
+
+  LOI_DUKOV_NAME: "Sava Dukov"
+  LOI_DUKOV_DESC: ""
+
+  LOI_SHARED_AIR_NAME: "Konstantin Kovalyov"
+  LOI_SHARED_AIR_DESC: "§F"Making Gagarin Proud."§!\n\nThe Head Chief of what Loid calls its “Air Force”, Konstantin is a descendant of the original Soviet Pilots that were sent to instruct the resistance fighters how to properly operate an aircraft. Holding to their teachings, Konstantin continues to teach the younger generations how to operate what remains of their airforce, whether it is through demonstrations or throwing the book at an aspiring pilot."
+
+  LOI_RECKERS_ADVISOR_NAME: "Jack Reckers"
+  LOI_RECKERS_ADVISOR_DESC: "A native to Battleford, Jack Reckers was outcast after being rejected multiple times from militias due to his thoughts on keeping an organized force. Ending up in Loid’s Ministry, he has taken up organizing the local militias of Wainwright to help keep order and prepare for the eventual conflict that will shake their nation."
+
+  LOI_VERA_NAME: "Vera Morozova"
+  LOI_VERA_DESC: "The lighter side of the coin when it comes to the reputations of the clergy and tankers, Vera Morozova aims to maintain these relations, unlike her opposite, Varinka. A firm believer, she is closely connected to the clergy, but takes an apathetic approach to the government as a whole. "
+
+  LOI_YELENA_NAME: "Yelena Alexeeva"
+  LOI_YELENA_DESC: "Often referred to as the “Almost Glowing”, Yelena is a native of a village that sits outside of Pikes Peak with an interest in mechanical engineering. With the power plant in Thunderchild and Pikes Peak leaking radiation, Yelena’s been tasked with making sure the radiation gets under control and doesn’t contaminate the farms that reside near the plants."
+
+  LOI_THERESA_NAME: "Theresa Lynn"
+  LOI_THERESA_DESC: "Theresa Lynn’s appearance in Loidminster is a strange one to begin with. Originally a missionary sent by Heaven's Gate to convert the north, Lynn’s extended stay in Loidminster resulted in her conversion to the Christian-Communist ideals, but the militant nature of Heaven's Gate still lingers in her behaviour."
+
+  LOI_BOB_NAME: "Bob Danger"
+
+  LOI_PUMP_NAME: "Pump the Shark"
+
+  LOI_NIGHTKIN_NAME: "Lou Gond"
+
+  LOI_SOLOMON_NAME: "Solomon"
+  LOI_SOLOMON_DESC: "§6The Pilgrim.\nThe Patriarch.\nThe Father of the Nation.§!\nThe name Solomon Bouchard is known far and wide among those who still dare to believe in these desperate times, an old man preaching the good word of Christ while holding speeches to rival those of the past.\nA former citizen of the atheist Canadian Peoples Front, Solomon dared to give the people hope as it all came crumbling down around them, offering services to the damned and delirious out of the own good of his heart. As his work continued, he started to gain a following, and when the CPF finally broke down, he elected to bring the people to salvation in the ramshackle town of Loidminster.\nYears followed, and Loidminster remains a haven for the wayward.\n\n§6But with Solomon driven to isolation through grief and apathy, one must wonder if it will continue to stay that way.§!"
+  LOI_SOLOMON_CAPSTONE_DESC: "§CThe Patriarch.\nThe Paragon.\nThe Northern Protector.§!\nThe name Solomon Bouchard is still known far and wide among those who dream for a better world.\nAfter Ekaterina's coup and the subsequent destruction of St. Lenin's church, Solomon knew that to defend his home, he would have to take up arms.\nWhile not entirely abandoning his pacifist beliefs, he remilitarized Loidminster and its sister cities, prepared to charge into head first into the belly of the beast. And victorious they were, armed with cobbled suits of armor, a rifle in one hand, and the good book in the other, they ceased Amy Teresee's tyranny, for good.\nIn the coming months, Solomon managed to do what he saw as impossible, he cleared out the corrupt and decadent, he brought stability back to the clergy"
+  #LOI_SOLOMON_OLD_DESC: "In Lloydminster there stands an old man preaching the good word of Christ while holding speeches to rival those of the past. The name Patriarch Solomon is known far and wide among those who still dare to believe in these desperate times, but people also speak of that he diverges from the Christ most people know. While most of the communists within the shattered parts of the Canadian People’s Front looked to China it is said Solomon looks to the old bastion. Where many people speculate this is why his version of Christ differs from the one of old, and also why his version of communism is so different from that of his peers."
+  LOI_SOLOMON_BOUCHARD_NAME: "Solomon Bouchard"
+  LOI_SOLOMON_ADVISOR_DESC: ""
+
+  LOI_REYNAULD_NAME: "Reynauld"
+  LOI_REYNAULD_DESC: ""
+
+  LOI_INQUISITOR_NAME: "Alexander Symonds"
+  LOI_INQUISITOR_DESC: "A tight religious upbringing and a sense of paranoia has always lingered in Symonds mind as his position of Inquisitor allows for him to fully fulfill his purpose of spreading the word of the Christian-Marx society to those in need, whether it is by subversion or with a soft hand."
+
+  LOI_DANIIL_NAME: "Daniil Antonov"
+  LOI_DANIIL_DESC: "With the ever growing divide between the clergy and the tankers, there hasn’t been a more noticeable distrust towards the tankers such as the farmers of Thunderchild and Pikes Peak. When the call came to form a militia against the tankers, Daniil was happy to oblige and lead the pack of true believers"
+
+  LOI_ILYA_NAME: "Ilya Mikhaylov"
+  LOI_ILYA_DESC: "A local judicial member, Ilya Mikhaylov has firmly believed in the ideas of law and order, not just from the old law books that lay around, but from the communist ideals that the CPF believed. Always making sure that the laws were enforced, Ilya has a hands-on approach when it comes to upholding the ideals of the Catholic-Marxist control of The Ministry."
+
+  LOI_LISETTE_NAME: "Lisette Lane"
+  LOI_LISETTE_DESC: "Being a mix of a journalist and a spy didn’t pan out how Lisette Lane wanted her life to be after being sent to Loidminster to spread propaganda and gain intelligence on the state, with her life being threatened if she defected. Seeing that her chances were better if she remained in Loidminster, Lisette decided to stay and contribute to the community with her publishing skills."
+
+  LOI_CAMILLE_NAME: "Camille Patenaude"
+  LOI_CAMILLE_DESC: "Fellow schemer and friend of Kazidir Maxim, Camille acted as the main reason why so many funds went “missing” and why they somehow ended up “living a comfortable life”. Even though she has settled in Loid, her old ways may start to come into the light in order to keep up with logistical mechanisms of Loidminster."
+
+  LOI_YAKOV_NAME: "Yakov Sokolo"
+  LOI_YAKOV_DESC: "§4"The trains no longer run on time so it’s time to scrap ‘em and give their parts life."§!\n\nSometimes referred to as “The Yard Master of Wainwright”, Yakov has the critical task of scrapping the hulking remains of trains and railcars that sit on the tracks and rail lines, rotting from when the bombs fell. Whether it is furniture, tools, or just extra parts, Yakov’s dedication to his job keeps the scrap supply of Loidminster plentiful as there are always more trains to scrap."
+
+  LOI_BORIS_NAME: "Boris Polpov"
+  LOI_BORIS_DESC: "A resident of Vermilion and local gunsmith, Boris is a descendant of Soviet immigrants to the area before the bombs fell. Raised in a primary catholic neighbourhood, his firm belief in the Catholic-Marxist faith that has taken root in Loid’s Ministry was a warm welcome to him as he now provides arms for the surrounding militias."
+
+  LOI_LOID_NAME: "Loid IV"
+  LOI_LOID_DESC: "§N"That's The Name, Don't Wear It Out!§!"\n\nA descendant of a group of immigrants who migrated to Loidminster before the fall, Loid IV is the current head of what remains of that family. A charismatic individual, Loid IV tries his best to help the people of Loidminster, taking no sides in the divide that has hit the state."
+
+  LOI_EKATERINA_NAME: "Ekaterina"
+  LOI_EKATERINA_DONSKOYA_NAME: "Ekaterina Donskoya"
+  LOI_EKATERINA_DESC: "§tThe Heir.\nThe Daughter.\nThe Flame of the Revolution.§!\nEkaterina might be the closest the world will ever see of a proper heir to the father of communism after the world was sent ablaze those 200 years ago.\nBoth her past and her parents largely unknown, having either died or departed long ago, Lydia took over as her de facto mother and role model. After her death, Ekaterina became the chief commander of the CPF's Spear §g(new name pending)§! and she's garnered quite the name for herself.\nBut nonetheless, Youth may bring zeal, but it also brings clumsiness and instability.\n\n§tWith one like Ekaterina in charge, people may begin to wonder if the brightest flame might burn the fastest.§!"
+  LOI_EKATERINA_UNIFIER_DESC: "§RThe Heir.\nThe Flame.\nThe Unifier.§!\nEkaterina is the closest the world will ever see of a proper heir to the father of communism after the world was sent ablaze those 200 years ago.\nAfter her ascension to chairwoman in 2275, she went on to right the wrongs of the CPF by smiting the bloated corpse that called itself the 'Strathcommune'.\n\nShortly after their return to Redmond and the speech that followed, Ekaterina followed up on her vision by enacting the Unification Campaign, to return all that was once lost, and to get a head start on her master plan. After the east was secured, she moved to the coast.\n\nWith a spyglass in hand, standing atop an oil tanker, she sailed to the promised land and back with not a single injury, returning with secrets once deemed unobtainable, and a few new friends\n\n§RThe flame burns brighter than ever.§!"
+  LOI_EKATERINA_MERCIFUL_DESC: "§6The Stoic.\nThe Sovereign.\nThe Merciful.§!\nEkaterina might've been the closest the world will ever see to a proper heir to the father of communism.\nAfter her ascension to chairwoman in 2275, she went above and beyond the call of duty, retaking Redmond, securing The Casket, and pushing the Americans from Red Deer.\nShe was fierce, fiery, and determined to commit to her grand plan, ready to announce it during her speech.\nBut then, in that moment, she realized what she had done.\nTo Solomon.\nTo the clerics.\nTo the people.\nSo she did what she thought was just. She cast out her plan in favor of defending their true home of Alberta.\nIn the aftermath of her decision, Ekaterina's resolve remained unyielding, her demeanour masking the turmoil within. As the weight of her responsibilities pressed upon her, she embraced her role with unwavering determination. Despite the sacrifices and challenges ahead, her now merciful nature shone through in every decision she made, always striving to protect and serve her people.\n\nUnder her leadership, Alberta flourished, a beacon of stability in a world ravaged by chaos. Ekaterina's legacy as a §6stoic§!, §6sovereign§!, and §6merciful§! leader endured, etching her name into the annals of history as a true protector of the North."
+  #LOI_EKATERINA_OLD_DESC: "The Young Flame of the Revolution. Ekaterina might be the closest the world will ever see of a proper heir to The Father of Communism and his ideals, holding the same dreams as he once did. If there ever was any real hope of a lasting workers utopia in Canada it lies with her."
+
+  LOI_JILL_TEMAN_NAME: "Jill Teman"
+  LOI_JILL_TEMAN_DESC: "A loyal member of the Spear, Jill Teman has been an advocate for reform within Loid’s Ministry as she aims to help stabilize the nation. With speeches to local crowds and inspiring talks to some of the tankers, she aims to keep the pieces of the nation together."
+
+  LOI_ELIS_MIKOSHI_NAME: "Elis Mikoshi"
+  LOI_ELIS_MIKOSHI_DESC: "Whether it is from the back of a scrap truck or the seat of a motorcycle, Elis Mikoshi has always believed in the idea that “An army on the move cannot be stopped.” A firm advocate for mobile warfare, Mikoshi and the tankers have always had a tight knit relationship when it comes to fighting across the frozen north."
+
+  LOI_MIKHAIL_VOLKOV_NAME: "Mikhail Volkov"
+  LOI_MIKHAIL_VOLKOV_DESC: "A shadowy figure within the Spear, Mikhail has always found that the cloak and dagger approach to any situation, whether it is internal or external, is the most effective way possible. Even at the cost of Loid’s Ministry internal stability, Mikhail will do whatever it takes to root out the problem."
+
+  LOI_MILUNKA_NAME: "Milunka Adge"
+
+  LOI_ARTYOM_ADVISOR_NAME: "Artyom Lebedev"
+  LOI_ARTYOM_ADVISOR_DESC: "§g"The incompetence of these tankers still shakes me to the core."§!\n\nArtyom Lebedev was one of the tankers that was sent with the CPF to Loidminster with Lydia, mainly acting as a chaperone for the younger military staff. With the running history of negligence amongst the tankers, mainly forgetting if there was fuel in the tank, Artyom’s main goal is to keep the younger ones under control while trying to make sure nobody blows themselves up in the process."
+
+  LOI_NATALIA_ADVISOR_NAME: "Natalia Bell"
+  LOI_NATALIA_ADVISOR_DESC: "Nicknamed after Lydia’s tank battalion before she died, “Czarskaya’s New Mother” Natalia Bell was commander of the Spear as Ekaterina was too young to take over and nobody else was able to fit the role. Leading the Spear until Ekaterina became of age, Natalia stood as a hardline member and backed up the beliefs and freedom of Loid’s Ministry with the iron beasts of the Spear."
+
+  LOI_VARINKA_NAME: "Varinka Guseva"
+  LOI_VARINKA_DESC: "A stout believer in the CPF and its roots, Varinka acts as quite the opposite to her compatriot, Vera, as she believes in the ability of the Spear to govern Loid’s Ministry. Not one to side with the catholic beliefs, she takes an atheistic approach to her ideals."
+
+  LOI_KAZIDIR_NAME: "Kazidir Maxim"
+  LOI_KAZIDIR_DESC: "Kazidir, better known by his moniker "Logistical Mastermind", gained his reputation from his ability to somehow materialize supplies out of thin air. However, the rumours of his ingenious use of managing supplies goes back to his days in the Strathcommune, embezzling funds to finance his enterprise."
+
+  LOI_PRAIRIE_PUPPET_LEADER_NAME: "Autonomous Facility"
+
+  LOI_SUCESSOR1_NAME: "PLACEHOLDER"
+
+  LOI_SUCESSOR2_NAME: "PLACEHOLDER"
+
+  LOI_SUCESSOR3_NAME: "Tokarev"
+  LOI_SUCESSOR3_DESC: ""
+
+ # Dyanmic Country Leader Names
+  LOI_GPAER_NAME: "G.P.A.E.R."
+  LOI_ADVISORY_COUNCIL_NAME: "Advisory Council"
+  LOI_MINISTERIAL_ADVISORY_COUNCIL_NAME: "Ministerial Advisory Council"
+  LOI_GOVERNOR_EKATERINA_NAME: "Governor Ekaterina"
