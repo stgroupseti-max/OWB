@@ -1,0 +1,54 @@
+﻿l_english:
+  res_gates_idea:0 "Tartarian Gate"
+  res_gates_idea_desc:0 "Before me things create were none, save things\nEternal, and eternal I endure.\nAll hope abandon ye who enter here."
+
+  res_leaked_reactor_idea:0 "Leaking Reactor"
+  # res_leaked_reactor_idea_desc:0 ""
+
+  res_revanchism_idea:0 "Revanchism"
+  res_revanchism_idea_desc:0 "" #TODO
+
+  res_new_society_idea:0 "New Society"
+  res_new_society_idea_desc:0 "" #TODO
+
+  res_ghoul_heaven_idea:0 "Ghoul Haven"
+  res_ghoul_heaven_idea_desc:0 "" #TODO
+
+  res_level_1_idea:0 "Sub-level 1"
+  res_level_1_idea_desc:0 "The true size of the Reservation is hidden from outsiders and even amongst the Ghouls there are few that can judge the full size of its population, living and working in the artificial light of Sub-level 1."
+
+  res_ammo_idea:0 "Colonel Green's Secret Stash"
+  res_ammo_idea_desc:0 "Leaders win through logistics. Vision, sure. Strategy, yes. But when you go to war, you need to have both toilet paper and bullets at the right place at the right time."
+
+  res_armor_idea:0 "Betty’s Favourites"
+  res_armor_idea_desc:0 "All armor has its weaknesses. That doesn't mean you should stop wearing it. The same can be said about Betty, while she will make sure to give her finest pieces to the Ghouls that manage to get on her good side, that doesn’t mean her other works should be ignored."
+
+  res_crusade_idea:0 "The Great Conversion"
+  res_crusade_idea_desc:0 "Rise up, ghoul brethren! The time has come for us to reclaim the land, which is rightfully ours. We shall show the true way to smoothskins. And eliminate anyone foolish enough to resist."
+
+  resg_fortifying_our_positions_idea:0 "Rapid Fortifications"
+  resg_fortifying_our_positions_idea_desc:0 "" #TODO
+
+  resg_ghoul_army_idea:0 "An Army of Ghouls"
+  resg_ghoul_army_idea_desc:0 "" #TODO
+
+  resg_bear_hunting_idea:0 "Slaying the Beast"
+  resg_bear_hunting_idea_desc:0 "" #TODO
+
+  resg_stand_against_bull_idea:0 "By the Horns"
+  resg_stand_against_bull_idea_desc:0 "" #TODO
+
+  resg_old_world_knowledge_idea:0 "Old World Knowledge"
+  resg_old_world_knowledge_idea_desc:0 "" #TODO
+
+  resg_army_with_spirit_idea:0 "Military Administration"
+  resg_army_with_spirit_idea_desc:0 "" #TODO
+
+
+  # Crutch for Navajo AI
+  res_help_for_navajo:0 "Righteous Anger"
+  res_help_for_navajo_desc:0 "Our scouts have managed to uncover the horrific truth that lies at the rotten heart of the Reservation, all ongoing disputes and tribulations have been put on hold, until the last trace of Dr Clark has been erased from the wasteland."
+
+  # Dynamic modifiers
+  res_sub_level_2_dynamic_modifier:0 "Sub Level 2"
+  res_sub_level_2_dynamic_modifier_desc:0 "Lovingly nicknamed Brimstone by the slaves that have to inhabit it, the dirty corridors of Sub-level 2 are haunted by clouds of unfiltered smog and the lights of the continuously burning furnaces that is reflected of its steel plated walls."

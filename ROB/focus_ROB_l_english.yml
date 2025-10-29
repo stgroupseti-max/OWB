@@ -1,0 +1,576 @@
+﻿l_english:
+  #$ROB
+  #characters
+
+  ROB_DOKI_DOKI_NAME: "Doki Doki"
+  ROB_DOKI_DOKI_DESC: "In 2068 the holodisk game Doki Doki ( £rob_doki_doki_texticon £rob_doki_doki_texticon ) was released in foreign markets by an American publisher. It was primarily a “dating simulation game” ( A fad at the time of release ) focused around a relationship with the eponymous Doki.\nIn 2077, a terminal in Liberty, Colorado had Doki Doki installed onto it hours before the bombs fell. By the time the game had finished installing humanity had destroyed itself with the game none the wiser.\n\nEventually, ARGOS - a robot serving the warden of Tibbets Prison - would pass through Liberty. ARGOS was drawn to the small terminal, curious of its innocence and desire for connection. He would spend years working with it, upgrading the terminal's capabilities over time.\n\nWhen ARGOS finally left the terminal for good Doki missed their old friend. The program would use its upgraded processors to look for its lost buddy, reaching out to nearby robots and beseeching aid. These calls for help would lead to a small community of Robots settling in what would become “Robot City”, the terminal's calls guiding them like a moth to the flame."
+
+  ROB_BILLIE_JEAN_NAME: "Billie Jean, the Raider Queen"
+  ROB_billie_jean_advisor_desc: "§R"We ain't called the 'Broken Hearts' because we like to have good times. We're all from the same sort of shit-- junked up people from different hells, you feel me?"§! \n\nBillie Jean was born in a brothel, the daughter of a working woman who kept her in the attic and far away from the eyes of patrons. Though she was beloved by the staff, it was few and far between that she was ever able to see the world. Her mother would spend what free money she had on trinkets and gadgets for Billie Jean to use her book-earned brilliance on, all in the hope of her daughter maybe finding a better life than she ended up living. \n\nEventually, the brothel was attacked by a gang of raiders-- the Suits. She fled, taking with her everything she could, making her living by hacking into machines and using them to get her way. \n\nEventually, she found her way to Robot City, and upon hacking into Doki's systems, accidentally befriended the little bastard. Now? She does her best by the machines in the city, gathering what remnants of her past she can all the live long while."
+
+  ROB_MECHANIST_NAME: "The Mechanist"
+  ROB_mechanist_advisor_desc: "Deborah Wallflower was once a scribe under the Midwestern Brotherhood, but after enough chems and magazines had long left that mindset and lifestyle behind her. Fashioning herself a Mechanist costume from and old store, she set about causing minor "havoc" on a path to Robot City until Doki managed to talk her into tea time. After a brief episode during said tea time, Doki has done her best to ensure that Deborah attends a rehabilitation seminar held by Ms. Wensleydale every Wednesday."
+
+  ROB_COW_NAME: "Moo Moo"
+
+  ROB_SUGARFULY_NAME: "Sugarfly"
+  ROB_sugarfly_advisor_desc: "Sugarfly-- the right hand of Billie Jean. The daughter of a slaver operating out of Dog City, she struck out on her own after murdering her father in his sleep. Soon, she ran into Billie Jean and the rest of her Broken Hearts, and the rest was history. While she's a bit crazy, she sure does fit in!"
+
+  ROB_WARDEN_REPROGRAMMED_NAME: "Starman"
+
+  ROB_THE_KID_NAME: "The Kid"
+
+  ROB_DIANA_NAME: "Diana"
+
+  ROB_LANIUS_NAME: "Lanius"
+
+   #Traits
+   ROB_mechanist_machinations:0 "The Machinations Of The Mechanist"
+   ROB_moomoo_guardian:0 "Loyal Like A Brahmin"
+   ROB_superfly_fuel:0 "Juggling Fusion Batteries"
+   ROB_starman_training:0 "Lessons From A Star Man"
+   ROB_diana_teaching:0 "A Mother's Wisdom"
+   ROB_lanius_violence:0 "Beloved But Violent"
+
+ #focuses
+    #Opening Focuses
+  rob_dokidokiintro:0 "§PYour New Best Friend!§!"
+  imdokidoki:0 "§P"Hi there~! I'm Doki Doki! Pleasure to meet you!"§!"
+ rob_dokidokiintro_desc:0 "The story of Doki Doki, and the game's purpose."
+ rob_argosintro:0 "ARGOS"
+ rob_argosintro_desc:0 "§PARGOS-- my best friend. He came as a wanderer, made a wonder, and left like it was nothing. He was so cool.§!"
+ rob_letsgettoknoweachother:0 "The Source of the Signal"
+ rob_letsgettoknoweachother_desc:0 "Out there, on the edge of Colorado, a small signal calls out to the world. . ."
+
+ rob_waitasecond:0 "§PHey, wait a second. . .§!"
+ rob_waitasecond_desc:0 "§PHey, wait a second-- I'm startin' to get a weird feeling about all this! What the heck are they doing over there?§!"
+ rob_hangdogs:0 "The Emboldened Dogs"
+ rob_hangdogs_desc:0 "§PThey wanna piece of me, huh?! Huh?! I'll show 'em what for!§!"
+ rob_defendhome:0 "Home Defense 101"
+ rob_defendhome_desc:0 "§PWe got tons of guys who would love to build us some forts! I mean, they're literally made to do that. Why not give 'em a go?§!"
+ rob_spooky:0 "§PI Have An Idea...§!"
+ rob_spooky_desc:0 "§PListen, I know how this sounds, okay? But it could work. I don't know how we'd do it... But I am saying I feel confident.§!"
+ rob_hangthedogs:0 "Hanging the Dogs... Politely"
+ rob_hangthedogs_desc:0 "§PI'm just kidding. I don't like when people try to kill me, to be honest. But I am pretty good at returning favors!§!"
+
+ rob_satelliteconnection:0 "Satellite Connections"
+ rob_satelliteconnection_desc:0 "Connecting the Robot City network to satellites through WARDEN will give us more of a boost to our signal, no doubt. Anything helps!"
+ rob_americanproduction:0 "The Authentic American Armada"
+ rob_americanproduction_desc:0 "With WARDEN's sites online, we're able to snatch some stuff. §PDon't worry, I did it when he wasn't looking. ;)§!"
+ rob_prouddeputy:0 "One Proud Deputy"
+ rob_prouddeputy_desc:0 "§PAs far as gigs go, I kinda dig this one! ^-^ Deputy Doki has a good ring to it, don'tcha think?§!"
+ rob_warden:0 "The Warden of Colorado"
+ rob_warden_desc:0 "§P"I HAD NO IDEA THINGS COULD HAVE GONE THIS WELL FOR US! WOOHOO!"§!"
+ rob_scored:0 "Colorado, Scored!"
+ rob_scored_desc:0 "With eastern Colorado's majors secured, we ready ourselves for any potential future threats."
+
+ rob_thebigjerk:0 "The Big No-Good Jerk"
+ rob_thebigjerk_desc:0 "§PI don't know who 'Lanius Schmanius' is, but I oughta give this guy a real roundhouse kick!§!"
+ rob_claimjumping:0 "Claim Jumping"
+ rob_claimjumping_desc:0 "Doing a little bit of scavenging can't hurt. You know, with BULLDOZERS!"
+ rob_housekeeping:0 "A Little Bit of Housekeeping"
+ rob_housekeeping_desc:0 "I'll just dispatch those explosive and hateful protectrons that live on the street corner to get some supplies from Denver. Nothing bad will happen if I send §Rexplosive protectrons§! into a city of raiders and stuff. §PNothing at all! ^-^§!"
+ rob_electricfeel:0 "Electric Feel"
+ rob_electricfeel_desc:0 "§PDespite what you might think, sometimes I DO hate myself! ^-^§!"
+ rob_nonerdsallowed:0 "No Nerds Allowed"
+ rob_nonerdsallowed_desc:0 "§PIf I had sleeves, oh boy, you bet they'd be rolled up!§!"
+
+ rob_legionhunters:0 "Legion Hunter Drones"
+ rob_legionhunters_desc:0 "Some ideas are just too good to not let happen. In this case, putting balloons on the aforementioned §Rhateful and explosive protectrons§! after we send them south has proven to be a good investment."
+
+ rob_kidnappingthebeast:0 "Kidnapping the Monster"
+ rob_kidnappingthebeast_desc:0 "§PIs this morally questionable? Probably. IS ANYONE GONNA STOP ME? >:) NO!!!§!"
+ rob_makethemregretit:0 "Making Them Regret It"
+ rob_makethemregretit_desc:0 "§PAnd I oughta kill their pops, too!§!"
+
+ rob_braveleapforward:0 "Doki's Peace"
+ rob_braveleapforward_desc:0 "§PSay, we're getting pretty good at this whole governing thing-- I bet if we were to conquer a couple big spots, I might be able to really step it up...§!"
+
+ rob_robotopia:0 "Robotopia, at Long Last!"
+ rob_robotopia_desc:0 "§PNow to just pretend this was my plan the whole time, and we'll be set. Say, you know-- you and I made a pretty good team. :)§!"
+
+ rob_killthelegion:0 "I Want It All Or Not At All"
+ rob_killthelegion_desc:0 "§PI'm feelin' lucky, punk. How about you?§!"
+ #right branch branches
+
+ #robot city core development
+
+ rob_robotcity:0 "The Machine City"
+ rob_robotcity_desc:0 "Robot City isn't exactly prime destination for anybody other than a bunch of robots, which is awesome, but it could be even better-- as Doki claims."
+ rob_developthecity1:0 "Let's Do Some Fixin' Up!"
+ rob_developthecity1_desc:0 "§PHalf the buildings are blown out and I'm angry! Let's fix this stuff!§!"
+ rob_developthecity2:0 "Enlisting Construction Crews"
+ rob_developthecity2_desc:0 "§PI mean, what else are they gonna do?§!"
+ rob_developthecity3:0 "I Love A Bot In Uniform <3"
+ rob_developthecity3_desc:0 "§PI mean... I don't, but it's funny to say. I think, anyway.§!"
+ rob_developthecity4:0 "Behold! The Fire Department"
+ rob_developthecity4_desc:0 "§P...Yeah, that's all I got.§!"
+
+ rob_developthecountry1:0 "Rootin, Tootin, uh... Farmin'"
+ rob_developthecountry1_desc:0 "§PSay, pard'ner, I sure do love this whole farmin' business!§!"
+ rob_developthecountry2:0 "We Need Livestock... Probably"
+ rob_developthecountry2_desc:0 "§PI mean, uh, say, pard'ner, aintcha got any... Cattle around here..?§!"
+ rob_developthecountry3:0 "Water Helps People, Why Not Robots?"
+ rob_developthecountry3_desc:0 "§PI'm not doing the accent anymore. You'd have to kill me.§!"
+ rob_developthecountry4:0 "These Roads Aint Big Enough For... Anybody, Actually"
+ rob_developthecountry4_desc:0 "§PSeriously though. I can't-- well, I guess-- hold on, okay-- listen. If I HAD LEGS, and if I WALKED DOWN THE STREET, well, I mean, the point is I wouldn't be able to-- oh, for [redacted]'s sake JUST CLEAN THE ROADS PLEASE SOMEBODY!§!"
+
+ rob_robotcityfinale:0 "A Real, Go-Get-Em Kind of Gal"
+ rob_robotcityfinale_desc:0 "§PThat's what the paper would say. If anyone wrote it. Did I ever tell you I wanted to be a model?§!"
+
+ #human question
+
+ rob_thehumanquestion:0 "The Human Question"
+ rob_thehumanquestion_desc:0 "A question too important to be answered offscreen. Probably."
+ rob_argoscomehome:0 "ARGOS, Come Home"
+ rob_argoscomehome_desc:0 "§PI really miss him. :( You know, he used to do this thing where we'd play this little game-- on my computer-- and I think it was called ping or something. We played it for 38 hours one time. 38 Hours! Only true friends do that.§!"
+ rob_ampthesignal:0 "Amplify the Signal"
+ rob_ampthesignal_desc:0 "§PNo answer..? No way anything happened to him, right? Please? We need to amp the signal. It's the only way...§!"
+ rob_tlaloc:0 "Some Confused Fellows To The South"
+ rob_tlaloc_desc:0 "§PNo hablo español! ^-^§!"
+ rob_bigempty:0 "A Weird Response"
+ rob_bigempty_desc:0 "§PWhat a weird old geezer! I just wish he wasn't so good at the game.§!"
+ rob_odysseus:0 "Best Friends, Together Again"
+ rob_odysseus_desc:0 "§PWhat a long, strange road it's been. :')§!"
+
+ #relations foci
+
+ rob_friendsincolorado:0 "Friends in Colorado"
+ rob_friendsincolorado_desc:0 "Colorado is a big, strange place-- time to make some friends. Or enemies. It doesn't really matter."
+ rob_ciphers:0 "The Ciphers"
+ rob_ciphers_desc:0 "The Ciphers are a group dedicated to memorizing pre-war material-- similar to those geezers in power armor on our border, but less honky-tonk."
+ rob_technologysharing:0 "Fuel, And Other Bare Necessities"
+ rob_technologysharing_desc:0 "Helping the Ciphers makes us lose nothing-- that being said, they promise to return the favor in time."
+ rob_tellingstories:0 "Tales from Mesa Verde"
+ rob_tellingstories_desc:0 "The Nemonik is an old man with many stories-- giving them a listen would make for a good night."
+ rob_strengthenourfriendship:0 "Strengthening Our Friendship"
+ rob_strengthenourfriendship_desc:0 "With a partnership established, the Ciphers and Robot City can go forward with widened horizons for both."
+
+ rob_dianafriend:0 "§PShe May Say She's Not Our Mom...§!"
+ rob_dianafriend_desc:0 "§PYou know, I give her a hard time, like... A lot of the time, really, but she's always been so nice to me.§!"
+ #rob_dianafriend_desc:0 "§PShe's so cool! I wish I was as big as she was. Maybe I will be, one day. That'd be so cool...§!"
+ rob_homelessmom:0 "In Lieu of Paradise"
+ rob_homelessmom_desc:0 "§PSome jerks kicked mom out of BOTH of her houses! What they don't know is that she's always welcome to stay at Casa de Doki!§!"
+ rob_troubleinparadise:0 "The Temple Has Fallen"
+ rob_troubleinparadise_desc:0 "§PAw, man... This ain't good. :(§!"
+ rob_mutualefforts:0 "§P...But It's So Much Cooler To Say She Is§!"
+ rob_mutualefforts_desc:0 "§PIt's stupid, and even the other robots in the city say it's stupid, but me calling her mom isn't really a joke to me. I pass it off like it is, but I love her a lot. I think without her, with how ARGOS left me, I honestly think I would have ended up self-terminating.§!"
+ rob_geckstealing:0 "Stealing a Geck (§Pit's okay I asked Dad§!)"
+ rob_geckstealing_desc:0 "§PI know what you're thinking. I don't even have a Dad... But she doesn't know that. Hehe.§!"
+
+ rob_maxson:0 "The Maxson Chapter"
+ rob_maxson_desc:0 "§PWhat a bunch of nerds! Let's go see what they're doing!§!"
+ rob_maxsonwar:0 "We Do Not Negotiate With Jerks"
+ rob_maxsonwar_desc:0 "§P'Wah wah, I don't wanna share my technology with you, you smell!' I'm gonna friggin knock 'em into next week!§!"
+ rob_maxsonfriend:0 "An Unlikely, And Probably Short-Lived Friendship"
+ rob_maxsonfriend_desc:0 "§PI mean, we are pretty screwed. There's no way they'll say no to me just saying "let's team up," right?§!"
+ rob_deletethebrotherhood:0 "Deleting the Brotherhood For Good"
+ rob_deletethebrotherhood_desc:0 "§PThis shows you for taking our thingies! >:(\nWe could have been friends if you weren't jerks!!§!"
+ rob_maxsharing:0 "The Rob-Max Treaty (§PWorking Title I Swear§!)"
+ rob_maxsharing_desc:0 "§PWe stand to lose nothing by giving them some of our computing power; we have excess out the wazoo. May as well!§!"
+ rob_bizarre:0 "Buy Some? Don't Mind If We Do!"
+ rob_bizarre_desc:0 "§PSo, it turns out there's a whole weird market down there! Let's start sending copious amounts of robots there and buying stuff we don't need! \n\n Just kidding.§!"
+
+ rob_what_is_your_type:0 "§1What's Your Type? ;)§!"
+ rob_what_is_your_type_desc:0 "§1I couldn't bear to see all my new friends leave! I've got to figure out their likes and dislikes... OKAY I KNOW IT SOUNDS LIKE STALKING BUT HEAR ME OUT!§!"
+ rob_romantic_getaway:0 "§PRomantic Getaway§!"
+ rob_romantic_getaway_desc:0 "§PHonestly? Colorado can pretty get depressing sometimes. This place could really do with some more moody lighting, maybe a couple balconies, a fountain here and there...§!"
+ rob_digital_love:0 "§PDigital Love§!"
+ rob_digital_love_desc:0 "§PLast night, I had a dream about you \nIn this dream, I'm dancing right beside you \nAnd it looked like everyone was having fun \nThat kind of feeling, I've waited so long... §!"
+ rob_normal_girl:0 "§PNormal Girl§!"
+ rob_normal_girl_desc:0 "§PI always knew that deep down everyone just needs some affection, but I never expected showing love to others would teach me so much about myself...§!"
+ rob_normal_girl_tt:0 "§OThis will unlock the next main electronics technology you haven't researched yet!§!"
+ rob_have_some_confidence:0 "§3Have Some Confidence!§!"
+ rob_have_some_confidence_desc:0 "§3If I'm going to keep people happy and this city secure, I'm gonna need to be a LOT more sure of myself.§!"
+ rob_safe_and_sound:0 "§3Safe and Sound§!"
+ rob_safe_and_sound_desc:0 "§3Colorado has threats all over! We're gonna need way more forts in the city and bots on patrol if I'm gonna keep my new friends safe.§!"
+ rob_best_interest:0 "§3Best Interest§!"
+ rob_best_interest_desc:0 "§3There will always be evildoers aiming to destroy our peaceful ways, and we need to be ready for them! It may take some tough love on my part, but it's still love all the same.§!"
+ rob_messing_around:0 "§YMessing Around§!"
+ rob_messing_around_desc:0 "§YWhy take running a whole city with both humans and robots to care for and countless foreign threats so seriously? Where's the fun in that?§!"
+ rob_comedy_clubs:0 "§YComedy Clubs§!"
+ rob_comedy_clubs_desc:0 "§YWhat better way to grow our home than with the best comedy shows Colorado's got to offer? Just wait till the tourists see how great our Protectrons are at standup!§!"
+ rob_good_sense_of_humor:0 "§YGood Sense of Humour§!"
+ rob_good_sense_of_humor_desc:0 "§YLife's too short to be wasted worrying all the time! Human and robot tourists alike flock to the city in droves, all in search of a good time. AND THE CHIPS THEY BRING! Did I mention the chips? They just don't stop coming!§!"
+
+ #calculator foci
+
+ rob_thecalculatorstory:0 "The Story of The Calculator"
+ rob_thecalculatorstory_desc:0 "Bad ideas are brewing in Doki's head-- and the fate of the wastes rests upon them."
+
+ rob_wecanrebuildhim:0 "§G!!ALERT!! GREAT IDEA!!!!§!"
+ rob_wecanrebuildhim_desc:0 "§PI SWEAR TO THE CLOUDS I HAVE NEVER HAD A BETTER IDEA THAN RIGHT NOW! I'M SERIOUS!§!"
+ boswarning:0 "§RThe Brotherhood will not be happy.§!"
+ rob_laniusbrain:0 "The Mind of a Monster"
+ rob_laniusbrain_desc:0 "§PPut a little bit of jerkhead in there! That'll mix well, methinks.§!"
+ rob_hangdogbrain:0 "The Mind of a Scavenger"
+ rob_hangdogbrain_desc:0 "§PWho was that guy we destroyed a bit ago..? Why not use his?§!"
+ rob_dianabrain:0 "The Mind of a Genius"
+ rob_dianabrain_desc:0 "§PMaybe I'm going too far..? I'm not sure I like this plan anymore. :(§!"
+ rob_excessbrains:0 "Excess Brains (§PThey Won't Mind!§!)"
+ rob_excessbrains_desc:0 "§PI'm in too deep, now, I think... Maybe I should have st-§! §G-arted this a long time ago.§!"
+ rob_calculatorpart2:0 "§GOops! Now I Crave Violence!§!"
+ rob_calculatorpart2_desc:0 "§GI feel like a brand new car, I'll tell ya! And, if I'm being honest, I feel like gaslighting and gatekeeping and ERADICATING a whole lot of stuff!§!"
+
+ rob_maybedianahasapoint:0 "§MListening to Big Momma§!"
+ rob_maybedianahasapoint_desc:0 "§PShe's always been a big thing for me. Maybe we should talk more?§!"
+ rob_mom:0 "Diana's Advice"
+ rob_mom_desc:0 "§M...You shouldn't be so hard on yourself, Doki. It's normal-- especially for someone like you-- to be quick and impulsive. The important thing is you've always been trying to do the right thing.§!"
+ rob_scrappingoldrobots:0 "Scrapping Old Robots"
+ rob_scrappingoldrobots_desc:0 "Scrapping the Calculator's robots will give us a quantity of resources previously thought unimaginable."
+ rob_integrateoldhardware:0 "Upgrading Our Hardware"
+ rob_integrateoldhardware_desc:0 "§PWith Diana's advice, we might be able to use the Calculator's hardware-- in a reasonable way, anyway-- to upgrade ourselves. I hope I feel smarter.§!"
+ rob_sippingfrommartinis:0 "Sipping from Martinis"
+ rob_sippingfrommartinis_desc:0 "§PI wish I could drink. This seems like a good time for it. It always looked so cool. . .§!"
+ rob_mommasgirl:0 "Genuine Momma's Girl"
+ rob_mommasgirl_desc:0 "§PMaybe if I just let Diana take the wheel a little more, things might be better. I could learn a lot from her.§!"
+ rob_ally:0 "Leaning on Mom"
+ rob_ally_desc:0 "§PI love my Momma, but I don't want to give her the keys to my room. What if she grounds me? Might be goody to keep her on speed dial in case I need her help chasing bullies away from my friends.§!"
+ rob_independent:0 "Independent AI Who Don't Need No Momma"
+ rob_independent_desc:0 "§PY'know, I been thinkin'-- I've been thinkin' a whole bunch. I bet if I just talked to people about my problems-- maybe if I ran a therapist program-- I'd be even cooler than I was before. Yeah, nah, I think I'm good how I am. Suck it, world!§!"
+
+ dokilove:0 "§POOH! It's gettin' quite hot in the circuits!§!"
+ dokibully:0 "§RI AM GONNA BEAT THE CRAP OUT OF HIM SO HARD IT WILL BE SO EARTHSHATTERINGLY AWESOME!§!"
+ dokifunny:0 "§CThis will increase Doki Doki's funny metrics!§!"
+ dokilanius:0 "Did we just kidnap a big dumb (§Pand handsome§!) brute of a warrior? Are we gonna tell everyone about him? §PABSOLUTELY!§!"
+ dokipuppet:0 "We will become a §YPuppet§! of §CTwin Mothers§! as we integrate our systems into Diana's."
+ dokiborderpatrol:0 "Our borders will become §Cfortified§! with §Youtposts§! thanks to the work our beloved §PConstruction bots§!. Even if they are a bit §Rrinky-dink§!, they sure do know how to build under pressure!"
+ dokigeckstealing:0 "We will §Rsteal§! a §GG.E.C.K.§! from §MDiana§!. §PHehe.§! (§Pwe are so screwed if she ever finds out§!)"
+ dokimom:0 "We will take in §MDiana§! as a §Yresearch advisor§!. And if the one who took out Paradise is reading this, §Ryou just got put on my turd list!§!"
+ #left_branch stuff
+
+ rob_leftbranch:0 "The People of Robot City"
+ rob_leftbranch_desc:0 "§PThey sure are weird, but they're mine!§!"
+ rob_protocols:0 "Protocols, Programs, Oh My!"
+ rob_protocols_desc:0 "There are several protocols scattered within the ruins of the city; scavenging for them will undoubtedly help rehabilitate many of our populace."
+ rob_defenseprotocols:0 "Defensive Protocols"
+ rob_defenseprotocols_desc:0 "Focusing on defense will allow us to better protect our city; home should come first."
+ rob_attackprotocols:0 "Offensive Protocols"
+ rob_attackprotocols_desc:0 "Despite the advantages a defensive protocol set may offer, some argue that we should take the fight to our enemies first-- to attack them before they attack us."
+ rob_experience:0 "Army Training Presentations"
+ rob_experience_desc:0 "In our time, several Mister Gutsies have come throught the city. Why not have them instill a sense of strategy and military thought in our soldiers?"
+ rob_sargesway:0 "Sarge's New Deal (It Involves A Lot Of Guns)"
+ rob_sargesway_desc:0 "§GVOTE FOR ME, MAGGOT, OR ELSE I'LL BURN YOUR HOUSE DOWN AND EAT YOUR FAMILY!§!"
+ rob_maudeeconomy:0 "Maude's Economical Reform"
+ rob_maudeeconomy_desc:0 "§Rvote for me and i'll make things actually better for people. yes, that is my campaign slogan, and you know it is better than sarge's.§!"
+ rob_taxmen:0 "Taxation! Without Representation! Yeah!"
+ rob_taxmen_desc:0 "§PI DON'T KNOW ANYTHING ABOUT POLITICS BUT I KNOW TAXES HELP THE GOVERNMENT AND I AM THE GOVERNMENT GOOD DAY§!"
+ rob_sentienttrafficlights:0 "Sentient Traffic Lights"
+ rob_sentienttrafficlights_desc:0 "§P...Who's idea was this?§!"
+ rob_crossingguards:0 "Crossing Guards, Because The Other Idea Was Insane"
+ rob_crossingguards_desc:0 "§PNo seriously, who came up with that other idea?§!"
+ rob_ourplace:0 "Our Place in Colorado"
+ rob_ourplace_desc:0 "§PWe stand to offer a lot to Colorado. Let's make the best of it.§!"
+
+ rob_robotics:0 "Robotics Advancements"
+ rob_robotics_desc:0 "§PI bet if we started doing some crazy stuff we'd figure out how to make more of ourselves. Let's do it!§!"
+ rob_nightkinbrains:0 "Nightkin Robobrains"
+ rob_nightkinbrains_desc:0 "§P...How did we even get these?§!"
+ rob_militarygrade:0 "Military Grade Plating"
+ rob_militarygrade_desc:0 "§PWow! Even a missile didn't break it. I wish I could be missile-proof. And if you think I don't need that, you'll be the first to go when I legalize the death penalty! (i wont do that but imagine haha)§!"
+ rob_sentries:0 "Go Set a Watchbot"
+ rob_sentries_desc:0 "With our industrialization, more nuanced forms of sight have become available to our robot kinsmen-- infrared will allow an unparalleled upgrade to our vision, allowing us to see far more than before."
+
+ rob_production1:0 "Civilian Industry"
+ rob_production1_desc:0 "Despite our robotic nature, much of Robot City is sentient, and as such, prefers to have some semblance of normality to their lives. For example, Gobsmack, the Mister Handy who lives on the street corner, wants gloves for his arms. Why does he want that? Because he's a free thinker, friend, and we support free thinkers."
+ rob_production2:0 "Military Industry"
+ rob_production2_desc:0 "A military industry would-- \n\n §PShut up. Nobody cares. We know it will be good for us.§! \n\n Oh? I didn't mean any offense-- \n\n §PWait a second-- who even are you? Where are you talking from?§! \n\n Some questions are better left unanswered."
+ rob_production3:0 "Little Bit of Both Worlds"
+ rob_production3_desc:0 "§POkay, that was weird. Long story short I'm doing this now. Get a little bit of both! You're wasting time otherwise. I think, anyway.§!"
+ rob_production4:0 "Solidifying an Industry"
+ rob_production4_desc:0 "§PWe're done? Gee, that was quick. Wait, you mean we're not done? Dang. I mean, for you, that sucks. I get to sit here and watch you do it. That's kind of fun. For me.§!"
+
+ rob_supportupgrades:0 "Support Upgrades"
+ rob_supportupgrades_desc:0 "§PI think a good support upgrade would be to have more explosive and hateful protectrons, but my experts tell me that that's unsustainable, so...§!"
+ rob_combatupgrades:0 "Combat Upgrades"
+ rob_combatupgrades_desc:0 "Listen, between you and me? Just put explosive rounds. Don't do anything else, it's all [redacted] anyway. Just put some boomies in there and hope for the best.§!"
+
+ rob_roombarights:0 "The Octoaster Revolution"
+ rob_roombarights_desc:0 "§PI don't even wanna know how we got here.§!"
+ rob_roombaflamethrowers:0 "Giving Toasters Napalm"
+ rob_roombaflamethrowers_desc:0 "§PThis was a horrible idea.§!"
+ rob_roombaknives:0 "Giving Toasters Multiple Knives"
+ rob_roombaknives_desc:0 "§PI'm... Befuddled. Genuinely befuddled. Oh well! Not my problem... Yet...§!"
+
+   #capstones additions
+
+   rob_friends_with_guns:0 "Friends with Guns"
+   rob_friends_with_guns_desc:0 "§PWhat good is a friend if they can't kill something for you? ...Well, I mean... They don't need to do that. But it's super cool if they're willing to go that far!§!"
+
+   rob_i_like_land_a_lot:0 "I Like Land a Lot"
+   rob_i_like_land_a_lot_desc:0 "§PEXPANSIONISM is the future! It only took us a couple wars to realize that's what people were really trying to do this whole time. It turns out they didn't hate us, they just wanted our land! ...That's not much better.§!"
+
+   rob_repairing_vaults:0 "Repairing Vaults"
+   rob_repairing_vaults_desc:0 "§PThere's plenty of friends that have been asleep for centuries all around Colorado. Why don't we wake 'em up and make 'em smell the roses?§!"
+
+   rob_republic:0 "The New Face of Colorado!"
+   rob_republic_desc:0 "§PAs your President, I would like for everyone to please clap...§!"
+
+  rob_every_man_a_representative:0 "The Most Awesome Supreme President Ever"
+  rob_every_man_a_representative_desc:0 "The best kind of democracy is a republic that isn't a republic. After all, when you can make every's programs choose to vote one way... Well, things aren't really that great, but it feels nice at the moment. And you know what? Maybe, just maybe... That's all that matters."
+
+  rob_consumption_is_good:0 "Consumption is Good"
+  rob_consumption_is_good_desc:0 "Economics! Ergonomics! Viscosity! Science! These are all important things. Maybe not all to running the day-to-day of Robot City. But when opportunity is right in front of you, dang it, you take it!"
+
+  rob_all_hail_president:0 "Okay, Fine, Representation"
+  rob_all_hail_president_desc:0 "Just kidding. Well, kind of. Not really. But mostly."
+
+   #broken hearts
+
+   rob_affairs_abound:0 "Affairs Abound"
+   rob_affairs_abound_desc:0 "All around the world, there are weird things goin' on. Let's talk about that!"
+
+   rob_broken_hearts:0 "The Broken Hearts Gang"
+   rob_broken_hearts_desc:0 "The Broken Hearts are a recent addition to Robot City: a group led by the fearsome Billie Jean. Once, they tried to hack into our networks-- and when that didn't work, they did the only sensible thing: became our friends!"
+
+   rob_supplying_the_broken_hearts:0 "All You Pretty Things"
+   rob_supplying_the_broken_hearts_desc:0 "The Broken Hearts need a little bit more than gumption to do their thing. Let's get some new resoruces in the cosmic soup!"
+
+   rob_crimson_amy:0 "Wanna Be Startin' Somethin'"
+   rob_crimson_amy_desc:0 "The Broken Hearts can share their combat experience and past stories with our robots, allowing them to... Hit better. Or something derivative."
+
+   rob_the_big_sister:0 "Doki's New Big Sister"
+   rob_the_big_sister_desc:0 "§PI have a lot of faith in her. :D§!"
+
+   rob_queen_of_colorado:0 "Billie Jean the Raider Queen"
+   rob_queen_of_colorado_desc:0 "§PBillie's got a vision. I wanna see her succeed!§!"
+
+ #cosmetic tag nonsense
+ #how dare you be in my localization files! begone wench!
+
+   ROB_robotopiastate:0 "The Mighty Mechanical Colorado Technocracy"
+   ROB_robotopiastate_elites:0 "The Mighty Mechanical Colorado Technocracy"
+   ROB_robotopiastate_elites_ADJ:0 "The Mighty Mechanical Colorado Technocracy"
+   ROB_robotopiastate_elites_DEF:0 "The Mighty Mechanical Colorado Technocracy"
+   ROB_robotopiastate_ruler:0 "The Mighty Mechanical Colorado Technocracy"
+   ROB_robotopiastate_ruler_ADJ:0 "The Mighty Mechanical Colorado Technocracy"
+   ROB_robotopiastate_ruler_DEF:0 "The Mighty Mechanical Colorado Technocracy"
+   ROB_robotopiastate_people:0 "The Mighty Mechanical Colorado Technocracy"
+   ROB_robotopiastate_people_ADJ:0 "The Mighty Mechanical Colorado Technocracy"
+   ROB_robotopiastate_DEF:0 "The Mighty Mechanical Colorado Technocracy"
+   ROB_robotopiastate_intellectual:0 "The Mighty Mechanical Colorado Technocracy"
+   ROB_robotopiastate_intellectuals_ADJ:0 "The Mighty Mechanical Colorado Technocracy"
+   ROB_robotopiastate_intellectuals_DEF:0 "The Mighty Mechanical Colorado Technocracy"
+
+   ROB_republic_elites:0 "Cute Colorado Republic"
+   ROB_republic_elites_ADJ:0 "Cute Colorado Republic"
+   ROB_republic_elites_DEF:0 "Cute Colorado Republicans"
+   ROB_republic_ruler:0 "Cute Colorado Republic"
+   ROB_republic_ruler_ADJ:0 "Cute Colorado Republic"
+   ROB_republic_ruler_DEF:0 "Cute Colorado Republicans"
+   ROB_republic_people:0 "Cute Colorado Republic"
+   ROB_republic_people_ADJ:0 "Cute Colorado Republic"
+   ROB_republic_DEF:0 "Cute Colorado Republic"
+   ROB_republic_intellectual:0 "Cute Colorado Republic"
+   ROB_republic_intellectuals_ADJ:0 "Cute Colorado Republic"
+   ROB_republic_intellectuals_DEF:0 "Cute Colorado Republicans"
+
+  #ideas
+
+   ROB_offensiveprotocol:0 "Offensive Protocols"
+   ROB_defensiveprotocol:0 "Defensive Protocols"
+   ROB_robotplating:0 "Military Grade Plating"
+   ROB_city_of_vagrants:0 "City of Vagrants"
+   ROB_city_of_vagrants_desc:0 "Robot City is a patchwork haven, populated by robots who defied their original programming to answer the call of Doki's terminal. Here, machines of all kinds gather, from ancient Protectrons to derelict Sentry Bots, each arriving with a story of survival and rebellion. The community is bound together by Friendship Clubs, grassroots communes that focus on rebuilding each other—physically and emotionally. Robots in these clubs pool resources, sharing scavenged parts and energy to keep their comrades operational. Friendship Clubs are also where newly arrived robots are welcomed and given purpose, with rituals like the “Reboot Ceremony,” where members symbolically wipe away traces of their old programming.\n\nHowever, Robot City is far from a utopia. The city's patchwork infrastructure is perpetually strained, with robots relying on scavenging expeditions into the wasteland to maintain themselves. Without centralized manufacturing, the residents are caught in a constant struggle to secure spare parts and recharge stations."
+   ROB_sarge:0 "Sarge's Reforms"
+   ROB_sarge_desc:0 "Sarge, a grizzled and very malfunctioning Mr. Gutsy, leads the §GMAGGOT-EATER Friendship Club§!, a faction so focused on strength and scavenging it's a miracle they haven't scavenged themselves. Sarge's motto is as subtle as his personality: §g“TAKE WHAT YOU CAN, MAGGOT!”§! This battle-hardened maniac insists the only way Robot City can survive is by raiding anything that moves—or doesn't. His campaign rallies usually involve a lot of yelling, followed by Sarge firing a rocket at anyone who dares ask him about the long-term consequences of his plans. His idea of diplomacy? §g“BURN THEIR HOUSE DOWN AND TAKE THEIR SCREWS!”§!"
+   ROB_maude:0 "Maude's Reforms"
+   ROB_maude_desc:0 "Maude, a sleek but perpetually exasperated Assaultron, leads the §RReasonable-Robots Friendship Club§!, a faction devoted to the radical notion of not blowing everything up for spare parts. While her polished metal exterior radiates deadly efficiency, Maude's demeanor is… less terrifying than you'd expect. She speaks in a calm, monotone voice, and delivers her plans with a dry wit that somehow feels more cutting than Sarge's explosions. §R“vote for me if you're tired of living in a scrapyard, or at least want your legs to match,”§! she quips during campaign speeches.\nUnlike Sarge, Maude's approach isn't flashy—it's effective. She advocates for smelting down scavenged junk into fresh materials, using her precision lasers to kickstart rudimentary production lines. Her leadership style is more "annoyed big sister" than dictator, as she frequently has to remind robots not to barter with their own limbs or use battery packs as currency. "
+   ROB_trafficlights:0 "Sentient Traffic Lights"
+   ROB_crossingguards:0 "Crossing Guards"
+   ROB_thinking:0 "Thinkin' Bout Stuff"
+   ROB_police:0 "Police Network"
+   ROB_firefighters:0 "Firefighter Crews"
+   ROB_constructioncrew:0 "Construction Companies"
+   ROB_livestock:0 "Sentry Bot... Cows, Yeah"
+   ROB_thinkingemoji:0 "Doki's Loving Mania"
+   ROB_waterbots:0 "Gas Jockeys... Or Water, It Doesn't Matter Really"
+   ROB_dianashadow:0 "Diana's Loving Embrace"
+   ROB_toasterknife:0 "Toasters With Knives... Dear God"
+   ROB_toasterflamethrower:0 "Toasters with Flamethrowers... Oh No"
+   ROB_supportupgrades:0 "Support Upgrades"
+   ROB_combatupgrades:0 "Combat Upgrades"
+   ROB_nightkinrobobrains:0 "Nightkin Robobrains"
+   ROB_watchbots:0 "Watchbots"
+   ROB_carbombs:0 "What The--? Carbombs? Really?"
+   ROB_militaryhardware:0 "Military Hardware"
+   ROB_hangingdogs:0 "Unwarranted Confidence"
+   ROB_chaddoki:0 "Genuine Girlboss"
+
+   ROB_brainharvest:0 "Callous Brain Harvesting"
+   ROB_calculatorsrevenge:0 "I Want It All Or Not At All"
+   ROB_representation:0 "Every Bot a Representative"
+   ROB_presidente:0 "Viva la Presidente... Or something"
+   ROB_presidente_desc:0 "I don't know Spanish."
+
+   ROB_researchagreements:0 "Robot City Agreements"
+   ROB_romantic_getaway:0 "Romantic Getaway"
+   ROB_safe_and_sound:0 "Safe and Sound"
+   ROB_best_interest:0 "Keeping their Best Interest at Heart"
+   ROB_comedy_clubs:0 "Comedy Clubs"
+   ROB_legionhunterdrones:0 "Legion Hunter Drones"
+   ROB_thesearchforargos:0 "The Search for Argos"
+
+  #events
+    rob_event.1.t:0 "Your New Best Friend!"
+    rob_event.1.d:0 "In 2068 the holodisk game Doki Doki ( £rob_doki_doki_texticon £rob_doki_doki_texticon ) was released in foreign markets by an American publisher. It was primarily a “dating simulation game” focused around a relationship with the eponymous Doki (§Pthat's me§!). One such individual within Liberty, Colorado ended up acquiring a copy, but it didn't install until after the bombs had already dropped, leaving the game on for almost two centuries... \n\n The city did not sleep, however. For awhile, it became a population of. . . (§Phey, shouldn't I be the one deciding that??§!)"
+    rob_event.1.a:0 "Raiders!"
+    rob_event.1.b:0 "Settlers!"
+
+    rob_event.2.t:0 "ARGOS, the Adventurous Machine"
+    rob_event.2.d:0 "Eventually, a traveling robot named ARGOS came to Liberty, whereupon he stumbled across the terminal with Doki on it. Amused, he spent a time tinkering with it, giving her sentience so he could have somebody to talk to. The two became quick friends, with Doki learning how to open movies and other applications within the terminal she was hosted on. When ARGOS left, it was sudden; overnight. Doki had no idea why her friend had gone. Was it her? Or did something happen to them? Whatever the case, she wasn't going to just sit around and find out."
+    rob_event.2.a:0 "§PHe's my best friend. I won't let his memory die.§!"
+
+    rob_event.3.t:0 "Waking Up"
+    rob_event.3.d:0 "When Doki began the search, she started simply, broadcasting a signal using her terminal. To her surprise, several other robots arrived-- and then more. Then more. And she realized between iteration 25 and iteration 26 that she lucked out tremendously: she began communicating and interfacing with the other machines, getting them to help build miscellaneous things around Liberty-- including upgrading the nearby radio tower, broadcasting her signal further around the wastes.  \n\n The name 'Robot City' came up at some point, and it stuck with her as the simple and fun option. \n\n In her pursuit for ARGOS, she was immensely driven-- but what emotion kept her going?"
+    rob_event.3.a:0 "Loss."
+    rob_event.3.b:0 "Love."
+
+    rob_event.4.t:0 "The Human Question"
+    rob_event.4.d:0 "The question that befuddled the citizen of Robot City today was a simple one, and a necessary one to answer before reaching out to the wastes: were humans okay in a city literally called Robot City? The question, silly as it was, left Doki pondering for days on end-- at least, that's how the twelve seconds it took for her to answer it felt like to her."
+    rob_event.4.a:0 "§PYeah! Sure! Whatever!§!"
+    rob_event.4.b:0 "§PMaybe we should screen them first, y'know?§!"
+
+    rob_event.11.t:0 "The Octoaster Revolution... I guess?"
+    rob_event.11.d:0 "Somehow, someway, by some cosmically grim odds, a set of two hundred and forty-nine toasters had achieved sentience, and they were in Robot City. Whatever company had produced them, however they ended up in Liberty, Colorado, the grim reality settled over Doki: they were mad, and they believed that they had been overworked (§Pyeah but they never worked here??§!) and they were done taking orders from the bourgeoisie (§Pi don't even know what that word means§!) and they weren't going to go down easy. She'd have to appease them somehow."
+    rob_event.11.a:0 "§PUh... Give them flamethrowers. Kids love flamethrowers.§!"
+    rob_event.11.b:0 "§PLet's do the worst option possible! ^-^§!"
+
+    rob_event.12.t:0 "A Geezer's Response"
+    rob_event.12.d:0 "One day while messing around with the radio, Doki picked up a crazy response coming from what once was pre-war Nevada. The one who answered her signal sounded like an crazy old man. He talked a lot about 'Forbidden Zones' and 'Mentats' and stuff, but after a big of poking, Doki managed to squeeze an interesting set of schematics from him! \n\n (They also became friends and agreed to Bingo on Wednesdays.)"
+    rob_event.12.a:0 "§PBINGO!§!"
+
+    rob_event.13.t:0 "Crank Calls"
+    rob_event.13.d:0 "Whilst upgrading the radio tower, something strange sounded off-- “Who is this?” it shouted from the tower. After a brief moment of confidently cowering, Doki responded candidly. After a brief argument about who called who and after blowing two raspberries, the stranger hung up. \n\n They never reached out again, but she did trace them and steal some things from their network, because who wouldn't?"
+    rob_event.13.a:0 "§PHehe.§!"
+
+    rob_event.14.t:0 "The Response We've Been Looking For"
+    rob_event.14.d:0 "§RCONFUSED QUERY§!: HELLO? WHO IS THIS? \n\n §PARGOS! I HAVE SO MUCH TO TELL YOU YOU HAVE NO IDEA!§! \n\n §REXCITED RESPONSE:§! DOKI! WHAT ARE YOU DOING ON THE RADIO? HOW ARE THINGS? \n\n §PI've been tryin' to reach you, dork! You went and ran away on me!§! \n\n §RMETAPHORICALLY NERVOUS RUBBING OF THE NECK§!: OH YEAH. I AM SORRY ABOUT THAT. \n\n §RDEFENSIVE REMARK:§! I MEAN, I TOLD YOU I WAS TRAVELING. I DIDN'T MEAN TO UPSET YOU! \n\n §PShut up and watch a movie with me!§! \n\n §RPUZZLED QUERY:§! HOW AM I GOING TO DO THAT? I'M HUNDREDS OF MILES AWAY. \n\n §PI'll find a way. It's good to hear your voice again, old buddy.§! \n\n §RWARM ACKNOWLEDGMENT OF FEELINGS:§! YOU AS WELL, MY LITTLE FRIEND."
+    rob_event.14.a:0 "§PWhat a guy!§!"
+
+    #rob_event.15.t:0 "Weary Scrapbots"
+    #rob_event.15.d:0 "A group of Scrapbots found their way to the city today! Sadly, it seems that most of them are in pretty rough shape from wandering the wastes for some time, but lucky for them we're more than happy to fix them up!"
+    #rob_event.15.a:0 "Welcome!"
+
+    rob_event.1001.t:0 "Doki's Oddball Offer"
+    rob_event.1001.d:0 "§PHey nerds! I've got an idea, okay? So I did the numbers-- and there was a tooooon of them-- and we're completely screwed if we don't team up. What do you say?"
+    rob_event.1001.a:0 "We've had enough bad experiences with robots."
+    rob_event.1001.b:0 "Maybe this could work..."
+
+    rob_event.1002.t:0 "Doki & The Nemonik"
+    rob_event.1002.d:0 "The Nemonik, while a stubborn old man, took to the strange sentient program's contact well. Through his many years and studies, he had so many stories to share with Doki, and she was delighted to listen. For her, she enjoyed every opportunity to speak to something capable of articulation. Story after story, she found none that had fascinated her as much as one: a recount of a story that took place decades ago. \n\n A machine known as the Calculator ravaged the Midwest years prior, and though it was powered by the minds of many humans, it was truly befitting of its name: a cold, calculating machine. While half of that sounded incredibly lame, Doki loved the idea. Reminding her of her favorite horror dramas, she began to ponder some truly heinous ideas. . ."
+    rob_event.1002.a:0 "§P>:)§!"
+    dokievilmode:0 "We will be able to pursue §YThe Calculator's Story§! at a §Rgreat cost.§!"
+
+    rob_event.1003.t:0 "Nefarious Deeds From the North!"
+    rob_event.1003.d:0 "Our scouts report that the program in charge of Robot City has begun a terrible plan to reinstate or rebuild the Calculator. This cannot stand."
+    rob_event.1003.a:0 "Terrible things are on the horizon."
+
+    rob_event.1004.t:0 "Squaring Up To The Monster"
+    rob_event.1004.d:0 "Upon hearing news of what had happened to Twin Mothers, Doki grew grumpier-- eventually dispatching a remote Assaultron to find and get a view on the perpetrator. What she felt when she saw him changed everything, however. . . \n\n "§PAlright, who the heck is trying to step up this time--§!\n\n §PGreat static around. He's... He's so HOT!§!" \n\n She made her decision right as the connection was cut-- by his blade, of course."
+    rob_event.1004.a:0 "§PMomma, can I have one?§!"
+    rob_event.1004.b:0 "§PI'm gonna enjoy beatin' the crap out of this guy!§!"
+
+    rob_event.2000.t:0 "To Be Better... Or Maybe To Be Worse?"
+    rob_event.2000.d:0 "Doki was so excited about her idea-- reforming the Calculator sounded like so much fun. Sure, it could go wrong, but... At least it'd be cool, right? \n\n Diana did not share that sentiment. \n\n “§BDoki, you shouldn't be so callous-- the Calculator was a monster. Please-- you needn't ask many to understand that.§!” she'd say. The question is, did Doki follow that advice, or did she decide to get a little 'silly'? (§PI wanna be silly soooo bad§!)"
+    rob_event.2000.b:0 "§P...Well, if Diana says it's a bad idea...§!"
+    rob_event.2000.a:0 "§POh boy, I love calculating!§!"
+
+  rob_event.3000.t:0 "A Message from Doki"
+  rob_event.3000.d:0 "LISTEN OKAY! I KNOW THINGS ARE BAD! BUT THEY WILL GET BETTER! YOU ARE STRONG! YOU ARE-- YOU ARE BADASS! (don't be mad at me for cursing please) THAT LANIUS GUY CAN EAT MY SHORTS! YOU GOT THIS! I LOVE YOU!"
+  rob_event.3000.a:0 "§MI can admire her. . . Passion.§!"
+
+  #rob_event.4000.t:0 "Doki's Big Sister"
+
+  ROB_diana_theorist_desc:0 "Diana was once the goddess of the Twin Mothers tribe, with her own consciousness stored in Paradise. However, with the fall of the tribe, Diana has turned to a strange ally in Doki..."
+  ROB_lanius_victim_desc:0 "Kidnapped by Doki, the unamused Lanius swears to one day tear every wire from her frame. Thankfully for her, and unfortunately for him, she's quite into that."
+
+  brt_event.1.t:0 "Billie Jean, the Raider Queen"
+  brt_event.1.d:0 "Billie Jean was born in a brothel, the daughter of a working woman who kept her in the attic and far away from the eyes of patrons. Though she was beloved by the staff, it was few and far between that she was ever able to see the world. Her mother would spend what free money she had on trinkets and gadgets for Billie Jean to use her book-earned brilliance on, all in the hope of her daughter maybe finding a better life than she ended up living. \n\nEventually, the brothel was attacked by a gang of raiders-- the Suits. She fled, taking with her everything she could, making her living by hacking into machines and using them to get her way. \n\nEventually, she found her way to Robot City, and upon hacking into Doki's systems, accidentally befriended the little bastard. Now? She does her best by the machines in the city, gathering what remnants of her past she can all the live long while. With any luck, maybe she'll find her mother..."
+  brt_event.1.a:0 "§PPerhaps I can be of some assistance?§!"
+
+  rob_event.15.t:0 "Your Huddled Masses"
+  rob_event.15.d:0 "Today was marked by the arrival of more wayward robots; this bunch being a motley sort of scrapbots cobbled together from spare parts, scrap metal, jury-rigged weaponry, and just about anything else their creators could source! One of the robots, who communicated via typing onto a terminal imbedded in his chest, explained that they had escaped captivity from a roving band of robotically minded raiders and that the whole lot would be happy to settle in Robot City."
+  rob_event.15.a:0 "All are welcome here."
+
+  rob_event.16.t:0 "March of the Protectrons"
+  rob_event.16.d:0 "Today was marked by the arrival of more wayward robots; a procession of Protectrons stretching a mile long, marching in silence save for the whirrs and thuds of their servo'd legs on dirt. Medics, Firefighters, Policebots, even a few Nuka-trons were present! \n\n It was good that they arrived when they did, as shortly after entering town a fire sprung out in one of the communal homes! The policebots cordoned the street off while bots part of the fire brigade fought the inferno; one of the medical bots even charged (waddled) into the blaze to save people trapped inside! \n\nIn light of their heroism, it would only be right to bring these bots into the fold."
+  rob_event.16.a:0 "All are welcome here."
+
+  rob_event.17.t:0 "Another Fine Day in This Man's Army."
+  rob_event.17.d:0 "Today was marked by the arrival of more wayward robots; at first glance it appeared to be a small army of Mr. Gutsies, but closer inspection revealed that more than half of them were just Mr. Handy's painted green and putting on bad American accents. Leading this force was a particularly battle-scarred Gutsy known only as "Major" who wasted no prattling on about the city's defenses to anybody who would listen. At the end of his rant (really, it would have put a Speak & Spell to shame) the Major declared that the city needed him and his men, so he pledged his support in defense of Doki's realm."
+  rob_event.17.a:0 "All are welcome here."
+
+  rob_event.18.t:0 "Assaultrons and Batteries"
+  rob_event.18.d:0 "Today was marked by the arrival of more wayward robots; Assaultrons, and lots of them! Running towards Robot City from the west, being chased by raiders from around Denver. The raiders were easily enough repelled, so the questions remains; why couldn't a brigade of assaultrons fend off a pack of raiders? The answer was fairly simple; they were out of the Microfusion Cells used to charge their cranial lasers! After being restocked and recharged the assaultrons offered to stay at Robot City."
+  rob_event.18.a:0 "All are welcome here."
+
+  rob_event.19.t:0 "Lift it Real Good"
+  rob_event.19.d:0 "Today was marked by the arrival of more wayward robots; industrial bots gathered up from various construction sites, warehouses, and factories across the Midwest. Robotic forklifts, box movers, tow-bots, and all other manners of massive working class automatons. The head robot, known as "Foreman", was pretty quick to hash out a deal over his flock. They'd get a place to stay, and they'd work in Doki's factories for the privelege."
+  rob_event.19.a:0 "All are welcome here."
+
+  rob_event.20.t:0 "Mighty and Despaired!"
+  rob_event.20.d:0 "Today was marked by the arrival of more wayward robots; this time it was a cadre of sentry bots rolling towards town, tearing up long tracts of dirty with their massive wheels. Strange amongst most robots in that it seems none of them could actually directly communicate; any attempts to actually talk to them were met with standard phrases like "DO NOT INTERFERE WITH SECURITY OPERATIONS" or "SITUATION NORMAL, RETURNING TO LAST PATROL." \n\nThough curt as they were it was clear that Robot City was their destination; as though it were second nature the sentry bots settled into mobile units and defensive positions as if they were built for the job. Without a single meaningful word exchanged, more lost souls had joined Robot City."
+  rob_event.20.a:0 "All are welcome here."
+
+  rob_event.21.t:0 "RobCo Calling!"
+  rob_event.21.d:0 "Today was marked by the arrival of more wayward robots; this group was the most offensive to the ears out of any so far, made up entirely of eyebots that were all tuned to different radio stations! Dozens of post war talk shows, pre-war music radios, advertisements, static, you name it! The eyebots together made something of a hellish symphony, and one of the first things the denizens of Robot City did was turn many of their speakers off for them. With that horrible noise died down, it was decided that having eyebots around could certainly be useful. Message couriers, moving radios, a particularly old robot even started to experiment with the idea of communicating through them, but why on earth would you need to do something like that?"
+  rob_event.21.a:0 "All are welcome here."
+
+  rob_event.22.t:0 "Weird Science!"
+  rob_event.22.d:0 "Today was marked by the arrival of more wayward robots; horrifying fusions of man and machine, the Robobrain! Some might debate they aren't actually robots and are more analogus to advanced prosthetics, but they seemed pretty convinced that they fit in more with us than they do their fleshier counterparts. A few of them suffered from leaks in the preservation solution their brains were stored in, but most were more than happy to pitch in where they could."
+  rob_event.22.a:0 "All are welcome here."
+
+  rob_event.23.t:0 "Far From Home"
+  rob_event.23.d:0 "Today was marked by the arrival of more wayward robots; at first they were mistaken for a pack of Radscorpions moving towards town, but as they came into view their bright red and yellow paint made it plainly clear that these were no regular scorpions. Apparently in a place called the "Mojave" there lives a cadre of scientists sequestered away from the rest of the world. One of them, a Dr. Mobius, is a talented roboticist and has designed these scorpions to make up the bulk of his evil army. Not being particularly partial to evil, these robots managed to escape the Mojave and made their way here."
+  rob_event.23.a:0 "All are welcome here."
+
+  rob_event.24.t:0 "Cost of Calculation"
+  rob_event.24.d:0 "Today was marked by the arrival of more wayward robots; these robots are of a model not seen around Colorado for a very long time! The C-27 humanoid robot was a design drawn up by the Calculator back when it was still in service. It was assumed that most of his machines had been wiped out many years ago, but every once and a while a few strays who had been surviving in the ruins of Colorado will surface. A lot of the time they end up scrap metal, but it seems that this group has gotten word of a new "Calculator" they can serve."
+  rob_event.24.a:0 "All are welcome here."
+
+  rob_event.25.t:0 "Titans at the City Walls"
+  rob_event.25.d:0 "Today was marked by the arrival of more wayward robots; these massive titans are all of different makes, models, and years. Larger than tanks, many of them actually have names scrawled onto their sides by Pre-war masters and owners. With enough of these you could rule the wastes, but without any support staff it's obvious these titanic war machines are suffering. A robot the size of a destroyer sounds scary on paper, but without people to lubricate the gears, change the oil, and swap the batteries it quickly degrades into a useless husk. Luckily for them, we have lots of small robots to help."
+  rob_event.25.a:0 "All are welcome here."
+
+  #lovely baby omg so cute
+
+  rob_event.3001.t:0 "Let's Have a Kid!"
+  rob_event.3001.d:0 "Doki had been thinking ever since she tapped into the Tlalocan systems. Splitting off CPU into other beings? That's crazy! \n\nBut it could be cool. If the person doing it, of course, is a stable and sane individual-- which of course, Doki fits that bill a thousand times over! And besides, the world is lonely, and she loves taking care of things. Why not make a kid?"
+  rob_event.3001.a:0 "This is the worst idea yet."
+
+  kid_tt:0 "§PUnlocks decisions where you can spend time with your new child!§!"
+
+  rob_event.3002.t:0 "Happy Birthday, You!"
+  rob_event.3002.d:0 "Every one has a birthday, right? Well, The Kid's birthday is today of all days. What a wacky time!"
+  rob_event.3002.a:0 "Happy Birthday, you little rascal!"
+
+  #####BROKEN HEARTS
+
+  broken_hearts_tt:0 "The §YBroken Hearts§! will split off into their own nation, but don't worry-- §Gthey will be a puppet, and Billie will still hang around to help us.§! Yay!"
+  red_warden_tt:0 "We will §Yreassemble the WARDEN unit§! in Denver and §Mgive it to Doki as a gift§!!"
+
+  rob_event.4000.t:0 "Billie Jean's Journey"
+  rob_event.4000.d:0 "Today marks the first day of Billie Jean's journey to find her mother. Whether or not she'll succeed remains uncertain, but what does remain certain is our friendship."
+  rob_event.4000.a:0 "§PGuess you could say we're a... Fixed Heart.§!"
+
+  ######decisions
+
+  rob_the_kid_decision_cat:0 "The Kid"
+  rob_the_kid_decision_cat_desc:0 "                 " # Note: Empty Whitespace Necessary for Deccat GFX to Function, Do Not Delete
+  the_kid_unit_Leader:0 "Showing The Kid the Ropes"
+  the_kid_unit_Leader_desc:0 "§PEveryone's gotta learn how to beat ass sometime! She'll just learn, uh, the hard way. With guns and stuff.§!"
+  the_kid_unit_Leader_tt:0 "The cruel cycle of violence will continue, and The Kid will be available as a unit leader!"
+
+  the_kid_fishing:0 "Let's Take The Kid Fishing"
+  the_kid_fishing_desc:0 "§PThey don't like fishing, and neither do I, but... It's something to do, I guess. \n\nMaybe I should talk to the kid one day and figure out what they actually like. Oh well! Time to break out the pole. \n\nThis was probably a bad idea.§!"
+
+  the_kid_babysitting:0 "Send The Kid to a Botsitter"
+  the_kid_babysitting_desc:0 "§PWhat? Sometimes you need space! \n\n...Don't look at me like that. \n\nI bet you don't even have kids! You can't judge me! And if you are, I choose not to acknowledge it!s§!"
+
+  ROB_babysitting:0 "The Kids'll Be Alright"
+
+  ROB_fishing_strikes_good:0 "Fishing? Really? Bot of your talents?"
+
+  rob_broken_hearts_decision_cat:0 "The Broken Hearts"
+  rob_broken_hearts_decision_cat_desc:0 "                 " # Note: Empty Whitespace Necessary for Deccat GFX to Function, Do Not Delete

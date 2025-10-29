@@ -1,0 +1,25 @@
+﻿l_english:
+  # decisions
+  SHI_infiltration_category:0 "Chinese Infiltrators"
+  SHI_infiltration_category_desc:0 "Our people come from a long line of spies and expert assassins. Covert operations run in our blood, and the wasteland is ill prepared for our ferocity."
+  SHI_infiltration_focus:0 "Build a Spy Network"
+  SHI_mandate_over_california:0 "§tMandate Over California§!"
+  SHI_establish_mandate:0 "Establish the Mandate"
+  SHI_dragon_call:0 "Call Back the Dragon Home"
+  SHI_ncr_wp_category:0 "NCR White Peace"
+  SHI_ncr_wp_category_desc:0 "We do all we can to resist the Bear, but we can't hold forever!\nWe need to push for peace as soon as the NCR shows signs of tiring!"
+  SHI_wp_focus:0 "Contact NCR Negotiators"
+  SHI_bos_smuggling_category:0 "The Shi Trail"
+  SHI_bos_smuggling_category_desc:0 "We have an opertunity to smuggle reasources into Shi territory!\nWe only have enough connections to guarentee a single mission.\n\nWhat should we send?"
+  SHI_bos_pa:0 "Send Our Armor"
+  SHI_bos_lg:0 "Send the Second Best Gift..."
+  SHI_bos_mp:0 "Send Our Trusted Personnel"
+  SHI_bos_cp:0 "Send... Some Caps..."
+
+  500_inf_50_pp: "£rifle_texticon §H500§! £pp_texticon §H50§!"
+  500_inf_50_pp_blocked: "£rifle_texticon §R500§! £pp_texticon §R50§!"
+  500_inf_50_pp_tooltip: "It costs $500_inf_50_pp_blocked$ to take the decision"
+
+  100_mp_50_pp: "£manpower1_texticon §H100§! £pp_texticon §H50§!"
+  100_mp_50_pp_blocked: "£manpower1_texticon §R100§! £pp_texticon §R50§!"
+  100_mp_50_pp_tooltip: "It costs $100_mp_50_pp_blocked$ to take the decision"

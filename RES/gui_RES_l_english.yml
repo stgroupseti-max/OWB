@@ -1,0 +1,66 @@
+﻿l_english:
+  res_total_machines_text: "Free Workshops: §G[?level_2_factories_free]§!"
+  res_weapons_machines_text: "Workshops producing weapons: §M[?level_2_factories_weapons]§!"
+  res_armor_machines_text: "Workshops producing armor: §O[?level_2_factories_armor]§!"
+  res_ghoul_machines_text: "Workshops supplying the project: §P[?level_2_factories_ghoul]§!"
+
+  RES_TOTAL_MACHINES_TT: "Total amount of free workshops in §YSub-Level 2§!"
+  RES_TOTAL_MACHINES_TT_DELAYED: "Free workshops work as off-map factories, so we can produce all sorts of goods on them."
+
+  RES_WEAPON_MACHINES_TT_DELAYED: "These workshops are producing [?level_2_factories_weapons_tt] §MAdvanced Energy Weaponry§! monthly."
+  RES_ARMOR_MACHINES_TT_DELAYED: "These workshops are producing [?level_2_factories_armor_tt] §ORiot Gear§! monthly ."
+  RES_GHOUL_MACHINES_TT_DELAYED: "These workshops are producing [?level_2_factories_ghoul] units of §Psupplies§! monthly."
+
+  RES_SL2_PICTURE_TT_DELAYED: "Lovingly nicknamed Brimstone by the slaves that have to inhabit it, the dirty corridors of §YSub-level 2§! are haunted by clouds of unfiltered smog and the lights of the continuously burning furnaces that is reflected of its steel plated walls."
+
+  res_add_workshops_tt: "Add [?workshops_to_add] §Y[GetRESworkshop]§! to §YSub-Level 2§!"
+  res_workshop: "workshop"
+  res_workshops: "workshops"
+
+  # Sub Level 3
+  res_supplies_text: "§GSub-Level 3§! has [?project_supplies|1] units of §psupplies§!. This month [?new_supplies_tt|1] were produced."
+  RES_SUPPLIES_TT_DELAYED: ""
+
+  res_project_speed_text: "The Newborns can process [?monthly_process_tt|1] units of the §psupplies§! our workshops in §YSub-Level 2§! produce monthly. This month [?monthly_progress_tt|1] were processed."
+
+  RES_PROGRESSBAR_TT_DELAYED: "Project is completed by §p[?res_progress]%§!"
+
+  RES_MAX_PROGRESS_TT: "This marks our maximum project progress, which can be increased via certain focuses. \n\nOur current maximum is §p[?res_project_max_progress_display]%§!"
+
+  # Newborn ghouls
+  CIVILIAN_NEWBORN_TEXT: "Building a new society"
+  CIVILIAN_NEWBORN_TT_DELAYED: "Dr Clark envisioned a future where his chosen people would inherit the earth, his tireless work however left him with little time to iron out the minor details for his grand vision. The result being that the task of managing the day to day lives of the Reservations citizens as well as to build the foundations for this grand society has fallen on to the shoulders of his children."
+  MILITARY_NEWBORN_TEXT: "Aiding in our defence"
+  MILITARY_NEWBORN_TT_DELAYED: "The Reservation faces potential enemies around every corner, the wasteland is positively crawling with smooth skins that wish to see us dead, our riches plundered and the salvation for ghoulkind forever wiped of the earth. Colonel Green has done an excellent job of protecting our settlements, but best not to burden one Ghoul alone with the protection of our future."
+  PROJECT_NEWBORN_TEXT: "Realising the Project"
+  PROJECT_NEWBORN_TT_DELAYED: "Deep down in the bowels of the Reservation rests a weapon of devastating potential, undisturbed for decades it still waits to fulfil its true purpose. The pre-war engineers that designed it couldn't have imagined  the existence of Ghouls, much less that their construction would be the key to their success."
+
+  res_newborn_name: "[GetNewbornName]"
+  res_newborn_tt: "[GetNewbornTT]\n\n\n[GetNewbornEffectTT]"
+  res_newborn_1_name: "Measles"
+  res_newborn_1_tt: "Measles is a gifted fighter. If Dr. Sebastian can be considered Dr Clarks right hand man, then Measles can be considered his left fist. Despite his unassuming appearance, Measles possess the strength of a born ghoul, which he wields with terrifying efficiency. When not carrying out the good doctor's orders he aids his team in their research, having become their leading epidemiologist."
+  res_newborn_1_effect_tt: "§YCivilian Bonuses:§!\n    §YRequired Garrisons:§! -15%\n\n§OMilitary Bonuses:§!\n    §ODivision Attack:§! +10%\n    §OArmy Experience Gain:§! +5%\n\n§pProject Bonus:§!\n    §pProject Progression Speed:§! 0.5"
+
+  res_newborn_2_name: "Belle"
+  res_newborn_2_tt: "Belle is often considered to be the pinnacle achievement of Dr. Clarks research, stunningly beautiful, intelligent and physically strong enough to stop a charging big horner. Blessed with so many gifts people naturally expect great things from her and while she herself never desired power over others, but having been entrusted with a leadership position she dutifully does her part to aid the Reservation and its ghoul residence."
+  res_newborn_2_effect_tt: "§YCivilian Bonuses:§!\n    §YStability:§! +10%\n    §YConstruction Speed:§! +5%\n    §YFree Repair:§! +30%!\n\n§OMilitary Bonuses:§!\n    §OMilitary Factory building speed:§! +10%\n\n§pProject Bonus:§!\n    §pProject Progression Speed:§! 0.5"
+
+  res_newborn_3_name: "Athos"
+  res_newborn_3_tt: "Athos is the first successfully born ghoul to see the light of day on §GSub-Level 3§!. Due to his sickly disposition however he has been kept out of the limelight, leading to his true nature as a born ghoul not being common knowledge among the residents. Still aiming to earn his spot amongst Dr Clark's children, Athos has become the Reservations finest gun smith and his designs are particularly sought after by Legionaries."
+  res_newborn_3_effect_tt: "§YCivilian Bonuses:§!\n    §YConsumer Goods Factories:§! -3%\n\n§OMilitary Bonuses:§!\n    §OProduction Efficiency growth:§! +5%\n    §OFactory Output:§! +10%\n\n§pProject Bonus:§!\n    §pProject Progression Speed:§! 0.5"
+
+  res_newborn_4_name: "Lopata"
+  res_newborn_4_tt: "From an early age Lopata has always been interested in the world outside of the Reservations walls, which has lead to him being one of the few ghouls to regularly interact with outsiders. He even went as far as to employ smooth skins in his construction works on surface settlements, letting them go after its completion and paying them handsomely. However as he himself stresses this was merely to ensure morale amongst the working crew, rather than genuinely harboured sympathies for non ghouls."
+  res_newborn_4_effect_tt: "§YCivilian Bonuses:§!\n    §YResource Gain Efficiency:§! +20%\n    §YFaction trade deal opinion factor:§! +50%\n\n§OMilitary Bonuses:§!\n    §OMilitary Factory building speed:§! +5%\n    §YProduction Efficiency Retention:§! +5%\n\n§pProject Bonus:§!\n    §pProject Progression Speed:§! 0.5"
+
+  res_newborn_5_name: "Nephtys"
+  res_newborn_5_tt: "Nephtys has taken to shadowing her \"sister\" Belle and generally acts as her polar opposite, where Belle is cheerful and outgoing Nephtys is quiet, often standoffish. She posses an unnerving presence, which has kept other ghouls from keeping their distance, except when Belle is around, which is likely the reason for their close connection, despite their apparent differences. Nephtys after some encouragement from Belle has taken to working with Horatio, the one other ghoul seemingly unaffected by her disposition and presence does its part to break in the new arrivals."
+  res_newborn_5_effect_tt: "§YCivilian Bonuses:§!\n    §YPassive Caps Income:§! +5\n\n§OMilitary Bonuses:§!\n    §ORecruitable Population:§! +2%\n\n§pProject Bonus:§!\n    §pProject Progression Speed:§! 1.0"
+
+  res_newborn_6_name: "Flask"
+  res_newborn_6_tt: "Dr. Sebastian's protege Flask, even by Reservation standards is considered to be unreasonably cruel. His methods seem to yield success however or at least he keeps receiving more live and material for his often times twisted experiments. At one point one of his less than willing test subjects tried to assassinate him, throwing a vile of acid into his face. However his superior born ghoul saved him at least physically and he has since taken to his experiments with renewed vigour."
+  res_newborn_6_effect_tt: "§YCivilian Bonuses:§!\n    §YThis guy is a nutjob§!\n\n§OMilitary Bonuses:§!\n    §OReinforce Rate:§! +1%\n    §OMinimum Training Level:§! -10%\n    §OResistance Target:§! -10%\n\n§pProject Bonus:§!\n    §pProject Progression Speed:§! 1.0"
+
+  res_newborn_7_name: "Septimus"
+  res_newborn_7_tt: "The 7th \"son\" of Dr. Clark is the only ghoul that can officially claim to have fought as part of Caesar's Legion. Originally sent out to observe the effectiveness of Reservation weapons in the field, the hot headed ghoul ended up taking a more active role during the raid of Paulus into New Mexico. He was famously the last soldier to retreat from Sun Dogs territory as he alongside a few brave legionaries covered Paulus escape, killing any warrior foolish enough to pursue them. Since then he is often seen engaging in heated debates with Colonel Green about how to best to protect the Reservation."
+  res_newborn_7_effect_tt: "§YCivilian Bonuses:§!\n    §YProduction Efficiency Base:§! +5%\n    §YProduction Efficiency Cap:§! +3%\n\n§OMilitary Bonuses:§!\n    §ODivision Organisation:§! +15%\n\n§pProject Bonus:§!\n    §pProject Progression Speed:§! 0.5"

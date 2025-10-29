@@ -1,0 +1,24 @@
+﻿l_english:
+  RCK_sanity_balance:0 "Roach King's Sanity"
+  RCK_sergeant_roach_control:0 "Sergeant Roach's Control"
+  RCK_sergeant_roach_firm_control:0 "Firm Control"
+
+  RCK_insane:0 "§RInsanity§!"
+  RCK_nearly_insane:0 "Nearly Insane"
+  RCK_losing_it:0 "Losing It"
+  RCK_slipping_into_insanity:0 "Slipping Into Insanity"
+  RCK_its_just_a_bad_day:0 "Just a Bad Day..."
+  RCK_sound_of_mind:0 "Sound of Mind"
+  RCK_mentally_sound:0 "Mentally Sound"
+  RCK_sane:0 "Sound of Mind"
+
+
+  RCK_its_over:0 "§RGame over§!"
+  RCK_clock_is_ticking:0 "The End is Near"
+  RCK_get_a_move_on:0 "Get a Move On"
+  RCK_get_a_move_on_two:0 "Alarm Bells Ringing"
+  RCK_losing_control:0 "Clock is Ticking"
+  RCK_alarm_bells_ringing:0 "Losing Control"
+  RCK_good_control:0 "lackluster Control"
+  RCK_firm_control_max:0 "Firm Control"
+  RCK_lost_control:0 "§RGame Over§!"

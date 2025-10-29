@@ -1,0 +1,48 @@
+﻿l_english:
+  # Focus tt
+  unlock_advisor_hank_tt:0 "Unlocks Hank as an Economic Advisor."
+  unlock_advisor_betty_tt:0 "Unlocks Betty as a Cultural Advisor."
+  unlock_advisor_horatio_tt:0 "Unlocks Horatio as a Military Advisor."
+
+  res_colonel_green_tt:0 "§Y$COLONEL_GREEN_NAME$§! becomes a Commanding Officer.\n§LLevel§!: §Y4§!\n§RAttack Skill§!: §Y3§!\n§GDefense Skill§!: §Y5§!\n§PPlanning Skill§!: §Y2§!\n§MLogistics Skill§!: §Y4§!\n§gTraits§!: §tStrong§!, §tEnduring§!, §tIntelligent§!, §tRad Apprentice§!\n\n"
+  res_increase_production_tt:0 "§YSub-Level 2§! production rate: §G+30%§!"
+  res_decrease_mp_drain_tt:0 "Decrease monthly manpower usage of §YSub-Level 2§! by §G10§!."
+
+  RES_PROJECT_QUARTER_TT:0 "Increase maximum project progress by 25%."
+  RES_UNLOCK_CORING_TT:0 "§YUnlock unique ghoul coring system§!"
+  RES_START_CRUSADE_TT:0 "§RThe Crusade shall start!§!"
+
+  res_completed_project_tt:0 "§pThe Project is completed§!"
+
+  res_added_nuke_tt:0 "A pre-war cannon, the §pNuclear Nellie§!, will be added to our stockpiles. We can arm and use it when the time comes."
+  res_armed_nuke_willem_tt:0 "§pNuclear Nellie§! will be §Rarmed§! and moved into firing position for select targets §Oin Arizona and New Mexico§!."
+
+  RES_crusade_started_flag:0 "The war on humanity has started"
+  res_nellie_dynamic_modifier:0 "Dirty Bomb Devastation"
+  res_coring_dynamic_modifier:0 "Salvation Delivered"
+  res_coring_effect_tt:0 "§YDeliverance:§! When cored, available population in the state will be §Rhalved§!, though what remains will mobilize faster. Such is the price of their §Gsalvation§!."
+  res_nellie_unit_damage:0 "\n§YEnemy units§! in the state will suffer §Rheavy damage§!."
+
+  res_add_newborn_tt:0 "§Y[GetChosenNewbornName]§! joins our efforts!\nNewborns can be assigned to various tasks via the §NNuclear Symbol§! found on the §YPolitical Tab§!"
+
+  RES_green_nf:0 "Colonel Green Focus Tree"
+
+  # Modifiers
+  sl3_progress_speed_flat:0 "Project Progression Speed"
+  sl3_progress_speed_factor:0 "Project Progression Speed Increase"
+
+  # Faction names
+  RES_FACTION_NAME:0 "Resurrection"
+  RES_FACTION_NAME_WW:0 "A uniquely shaped in a way, not yet know to man, conglomerate of various people of different cultures and professions, united together by a binding power, coming not from the outside or from god's vision, but from fabric of this universe itself, an appellation, which traverses the minds of humans around the globe"
+
+  ## Green ##
+  # Focus tt
+  resg_nav_reduce_resistance_tt:0 "Reduce the §RResistance Target§! by §G20%§! in each §Y[NAV.GetName]§! state owned by us."
+  resg_nav_add_compliance_tt:0 "Add §G50§! §Ycompliance§! in each §Y[NAV.GetName]§! state owned by us."
+  resg_ghoul_friendly_arizona_tt:0 "Every state in §YArizona§! controlled by our allies gets additional §G500§! §Ypopulation§!. The states we own in §YArizona§! get §G1000§!."
+  resg_navajo_compromise_tt:0 "§gAn§! §Oelite band§! §gof§! §2[NAV.GetNameWithFlag] Skinwalkers§! §gwill join our ranks as a token of our§! §Rsolidarity§!§g.§!"
+  resg_hoover_tt:0 "§gTwo additional turbines inside the§! §OHoover Dam§! §gare brought§! §Yonline§!§g, increasing power output.§!"
+  resg_is_ally_with_tooltip_workaround_tt:0 "\n" # Needed for a trigger that lacks a proper escape sequence and therefore makes the autogenned tooltip look bad
+  res_armed_nuke_green_tt:0 "§pNuclear Nellie§! will be §Rarmed§! and moved into firing position for select targets §Yjust west of the Colorado River§!."
+  resg_war_colorado_tt:0 "War has broken out along the Southern Colorado River"
+  resg_remove_sub_level_2_tt:0 "§GColonel Green§! §gwill free the last of the ghouls trapped in§! §YSub Level 2§! §gand shut down the project's remaining operations§! §Rfor good§!§g.§!\n\n§YSub-Level 2§! §gwill§! §Glose its Weekly Manpower reduction§! §gat the cost of§! §R-5% Factory Output§! §gand§! §R-10% Production Efficiency Growth§!§g.§!\n\n"

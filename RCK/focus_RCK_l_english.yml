@@ -1,0 +1,454 @@
+﻿l_english:
+ # Focuses #HEY! IF YOU SEE IT MEANS YOU ARE HELPING ME WITH LOC, THANK YOU! #If you're not, welcome to the Roach King focus tree loc file. Enjoy your stay.
+   rck_roach_war:0 "Roach Disposal"
+  rck_roach_war_desc:0 "The history of the Roach King does not begin in Grifton. Does not begin with Father Newman. It certainly didn't begin with Crookston. That last person, however, is a good place to start."
+  rck_hero_of_roach:0 "The King's Speech"
+  rck_hero_of_roach_desc:0 "It took some time for the Roach King to awaken, and in that time, word spread of a man who could convert the Wasteland's least-liked pests into something much more approachable. An ambition which was not entirely appreciated by Father Newman at first."
+  RCK_the_roach_to_victory:0 "The Roach to Victory"
+  RCK_the_roach_to_victory_desc:0 "Grifton had problems before the coming of Roach King. His arrival has acted as a catalyst for either something very good, or very problematic to this rag tag community."
+  rck_roach_king_the_brave:0 "Roach King the Brave"
+  rck_roach_king_the_brave_desc:0 "The Roach King is a man filled with bravery and courage. So says Father Newman, proselytizing what it takes to redeem and make good the unclean."
+  RCK_roach_king_the_wise:0 "Roach King the Wise"
+  RCK_roach_king_the_wise_desc:0 "The Roach King does not have the highest intelligence in the wasteland. Crookston, however, knows some people in Grifton who could put ideas together. Combining the brightest minds in Grifton may lead to a nasty surprise in level of expertise, but enough of it has to be legit to help."
+  RCK_leading_the_people:0 "Leading Grifton"
+  RCK_leading_the_people_desc:0 "The people of Grifton are caught up in Roach King mania, but it surely will not last forever. Putting some people to work in something not farming or passing off junk as treasure will create a large group of folks that will keep their loyalty to the Roach King when the populace cools to his sight."
+  RCK_leading_the_roaches:0 "Leading Radroaches"
+  RCK_leading_the_roaches_desc:0 "The radroaches obey the Roach King, but their obedience also allows proxies to delegate. More people will need to be trained to handle daily interaction with these remarkable creatures. Less we put all our eggs into one Roach King shaped basket."
+  RCK_its_a_start:0 "Triumph of Grifton"
+  RCK_its_a_start_desc:0 "Grifton has shown great loyalty and subservience to the Roach King, a triumph of Roach King's strength and receptive ideals of safety and prosperity shall be displayed. No more rag tag radroach swarms. The time of organized Radroach Patrols is here!"
+  RCK_among_a_roach:0 "Question of Loyalty"
+  RCK_among_a_roach_desc:0 "To lead a radroach to greatness requires great bravery and courage. With enough trust, they'll gladly sacrifice themselves for the Roach King. As the Roach King would do for them. We're still a bit away from unquestioned loyalty, however."
+  RCK_water_wells:0 "Ruins and Water Wells"
+  RCK_water_wells_desc:0 "Grifton is positioned close by to a large, seemingly endless river. This position is perfect for providing clean drinking water to the Roach King's growing radroach army."
+  RCK_salvage_scraps:0 "Salvage Scrap"
+  RCK_salvage_scraps_desc:0 "Many wonder how the Wasteland can produce metal tools. There's quite the abundance of scrap metal lying around from 200 years of degradation brought on by an event similar to mass extinction. While not the most efficient tools, Father Newman claims that the resulting cleaning of the streets will make the King more popular with the settlements outlying Grifton."
+  RCK_a_worthy_leader:0 "A Worthy King"
+  RCK_a_worthy_leader_desc:0 "The Roach King has proven he's willing to work hard for the community of Grifton. With great sacrifice and privledges thrown their way. The people of Grifton have shown rare loyalty in the wasteland for his cause."
+  RCK_fight_the_power:0 "Fight the Power!"
+  RCK_fight_the_power_desc:0 "When your back is against the wall, or you find yourself contained to a tiny pocket of the Northern Commonwealth, every inch of ground becomes worth fighting for."
+  RCK_the_king_is_dead:0 "§RThe King is Dead§!"
+  RCK_the_king_is_dead_desc:0 "§RThe Roach King is dead. His radroach army left leaderless. What madness have you brought upon the world?§!"
+  RCK_to_the_capital_wasteland:0 "§YYour Story Doesn't End Here§!"
+  RCK_to_the_capital_wasteland_desc:0 "§gBroken, Battered, Wounded. The Roach King has no home. No allies, no respect. There's nothing left to do but flee, and rebuild. A departure east seems most fitting. Let us see where he ends up.§!"
+  RCK_vault_war:0 "§YVault War§!"
+  RCK_vault_war_desc:0 "The Roach King's first conquest lies to the south. Grifton is fine... okay, it sucks, but nowhere in the Wasteland holds the same value as a Vault. A Vault that has been kidnapping people for as long as can be remembered? That value is priceless."
+  RCK_roach_burrows:0 "Roach Burrows"
+  RCK_roach_burrows_desc:0 "A radroach doesn't need a warm home or loving family. Any hole in the ground is good enough to suffice. Perhaps some well prepared Roach Nests can boost our number of radroaches in the army?"
+  RCK_grafton_army_depot:0 "Grifton Army Depot"
+  RCK_grafton_army_depot_desc:0 "Grifton has deteriorated into a collection of hamlets and outposts since the days of prewar Grafton. But there's still a thriving marketplace. We can aquire some weapons to pierce a robotic army!"
+  RCK_vault_cracking:0 "§MThe Legend Begins§!"
+  RCK_vault_cracking_desc:0 "With Vault 37 breached, the Roach King has an empire within his reach. With the AI overseer deactivated, and the false knight deposed, the people need a new ruler. Within this chaos, a legend begins. \n §MThe Legend of Roach King§!"
+  RCK_shatter_vault_tech_security:0 "Shatter Vault Tec Security"
+  RCK_shatter_vault_tech_security_desc:0 "An army of robots keeping its population hostage. Quite dystopian. If we're to be seen as liberators, let's dispose of these boogeymen, roaches are much easier to handle... Let's keep the schematics though. Just in case!"
+  RCK_treasure_trove:0 "Treasure Trove"
+  RCK_treasure_trove_desc:0 "Any vault untouched by nuclear fire is a treasure trove of riches. Vault 37 has many resources, treasures, and holotapes lying around. Deactivated robots litter the halls, surely something here has to be useful, right? Let's look around."
+  RCK_cleaning_up_the_scraps:0 "Your Liberator! Your hero!"
+  RCK_cleaning_up_the_scraps_desc:0 "Vault 37's dwellers are a bunch of large beach balls that refuse to understand the outside world. According to Father Newman, it's our duty to bring them in line and understand what awaits, no matter how difficult it gets. Crookston was concerned, but ultimately, the Roach King decided that tough love would do."
+  RCK_roaches_expansion:0 "Overseer Roach King"
+  RCK_roaches_expansion_desc:0 "My friends, subjects, radroaches. I won't hurt any of you! I am the hero of this story! I've come to save you all from this tyranny! All you have to do is listen to me."
+  RCK_building_a_throne:0 "Throne For A King"
+  RCK_building_a_throne_desc:0 "The Roach King has had one goal since his proclamation of being the king of radroaches. But a throne, a throne to sit on and watch over his subjects? That suits him nicely."
+  RCK_great_roach_forward:0 "Great Roach Forward"
+  RCK_great_roach_forward_desc:0 "We're on the up and up! No longer is Roach King confined to a small pocket of the Northern Commonwealth, why, he may rise to rule over the entire north! The time of the radroach is here!"
+  RCK_northern_roaches:0 "Northern Roaches"
+  RCK_northern_roaches_desc:0 "The Roach King's empire lays on the outskirts of a mighty winter. Up north is far too cold for a roach to survive. Even within the walls of Grifton, it's not uncommon to see roaches shrivel up and freeze. If the Roach King wants to expand into the snow, He must use other forces."
+  RCK_assimilate_the_vault_dwellers:0 "Assimilate Vault Dwellers"
+  RCK_assimilate_the_vault_dwellers_desc:0 "We've been given the unique situation of having the most unskilled workforce in the entire wasteland. These people can't even paint a wall without having to sit down for ten minutes. On the bright side, integration should be extremely easy as they're grateful to have any job at all. We just have to keep them away from the Vault's food sources for a long, long time."
+  RCK_church_crashing:0 "Silo Crashing"
+  RCK_church_crashing_desc:0 "These guys are a ticking time bomb, literally! Look at what they're sitting on top of. It's not neighborly, but these guys need to be brought under control before their leader does something desperate and reckless."
+  RCK_hivemind_of_roach:0 "Hivemind of Roach"
+  RCK_hivemind_of_roach_desc:0 "The hivemind of roach is an anomaly in nature. These roaches huddle, eat, and fight together. Truly useful in organizing an attack on the enemy."
+  RCK_winter_warfare:0 "Winter Warfare"
+  RCK_winter_warfare_desc:0 "Winter warfare is unnatural to roaches. It is incredibly damaging but mandatory for anyone who plans on surviving in the great white north."
+  RCK_raiders_to_our_north:0 "Careful, It's Cold Up There"
+  RCK_raiders_to_our_north_desc:0 "War, terror, and hegemony, that's the only result of heading north. It's a foolish gambit. Let them destroy each other. And if they come knocking, well. We'll be ready."
+  RCK_all_roads_lead_to_roach_king:0 "All Roads Lead To Roach King"
+  RCK_all_roads_lead_to_roach_king_desc:0 "The Roach King's realm is transitioning from a pile of trash inproperly placed in the wrong receptacle to a bastion in the north. All roads lead to Roach King, as long as we heed Father Newman's predictions."
+  RCK_welcome_home:0 "Welcome Home"
+  RCK_welcome_home_desc:0 "We have no reason to harm the citizens of the Church. Crashing the Church was primarily metaphorical - a simple change in management, one might say."
+  RCK_the_churches_teachings:0 "The Silo's Teachings"
+  RCK_the_churches_teachings_desc:0 "The Children of Atom posses extensive knowledge of warfare and radiation. A perfect combination for the rad-resistant radroaches. We could surely use the training."
+  RCK_use_your_wings:0 "Use Your Wings"
+  RCK_use_your_wings_desc:0 "The Roach King wonders what it would be like to glide in the sky. To fly amongst his roaches into battle. Well, with a little backyard brewery. We can make this dream a possibility. The King will fly with his radroaches!"
+  RCK_breed_more_roaches:0 "Life Finds a Way"
+  RCK_breed_more_roaches_desc:0 "The Roach Nests we invested into years ago is proving to be deeply effective in creating new radroaches for Roach King's army. It seems no matter where, and under what conditions. Life always finds a way."
+  RCK_two_people:0 "Divide and Conquer"
+  RCK_two_people_desc:0 "The two peoples posses land along two sides of a great river. They seem divided by internal tribal politics, heh, fools. They're ripe for the picking!"
+  RCK_prospering_roaches:0 "Prospering Roaches"
+  RCK_prospering_roaches_desc:0 "Our new citizens are under the protection of an army of Radroaches. This has allowed the development of specializations. A Radroach does not want caps! Our army is cheap and efficient, allowing the people's lives to improve more than if they had to handle their own defense."
+  RCK_expanding_vault_37:0 "Expanding Vault 37"
+  RCK_expanding_vault_37_desc:0 "Vault 37 is not exactly the most spacious Vault, even if one discounts how much space the residents take up. Documents from the previous Overseer suggests they planned on using Vault-Tec Protectrons to excavate a new set of rooms and hallways to the west. This plan's still ready to go."
+  RCK_tools_of_the_trade:0 "Tools of The Trade"
+  RCK_tools_of_the_trade_desc:0 "Vault 37 is home to a rather robust amount of industrial equipment. Crookston's been harping on about making copies, and he's probably right as to why we should."
+  RCK_vault_tech_scientists:0 "Vault-Tec Scientists"
+  RCK_vault_tech_scientists_desc:0 "The Vault-Tec Scientists that remained after the Vault War are quite grateful. Going from one iron fisted ruler to another on paper would be hell. But for these scientists, it was a liberation, the lack of corn dogs aside. On another note, Crookston is quiet about what goes into a corndog."
+  RCK_salvage_salvage_salvage:0 "Overseer Tato Battery"
+  RCK_salvage_salvage_salvage_desc:0 "With the Overseer unplugged, the Roach King has ordered the Vault-Tec scientists to recycle it into a science experiment for the Vault's children. One child has managed to wire it up to a §YTato Plant§! and has managed to create an electricty source! Well done child!"
+  RCK_vault_tec_secrets:0 "Vault-Tec Secrets"
+  RCK_vault_tec_secrets_desc:0 "Vault-Tec is no angel service. That much is evident from the stories the Roach King was told as a child. What they do possess is a great library of experimental data and thousands of lines of computer code taken directly from the overseer himself. Perhaps we can recycle some?"
+  RCK_revitalize_the_vault:0 "Revitalize The Vault"
+  RCK_revitalize_the_vault_desc:0 "Vault 37 was designed to be a paradise. Robotic manufacturing litters the Vault, along with the creation of a horrible way to live. Let us show the residents of Vault 37 how the world really functions."
+  RCK_crown_jewel:0 "Crown Jewel"
+  RCK_crown_jewel_desc:0 "Finally, the Roach King has his throne. Sitting in the Overseer's office, the Roach King orders man and roach with a large smile. The people love him. The roaches worship him. Finally, he's been accepted as the ruler Father Newman always knew he could be."
+  RCK_cold_acclimization:0 "Cold Acclimatization"
+  RCK_cold_acclimization_desc:0 "Roaches were not bred for the cold. But even still. They've managed to thrive in the endless winter of the North. They seem to be acclimizing themselves well to the cold. Interesting."
+  RCK_clear_pathway:0 "Approach With Caution"
+  RCK_clear_pathway_desc:0 "It's dangerous up north. We are vulnerable to any attack at any time. Perhaps we could use this to our advantage? Regardless. We need to play defensive. There's only so many radroaches this far north."
+  RCK_a_fellow_kingdom:0 "An Uncomfortable Arrangement"
+  RCK_a_fellow_kingdom_desc:0 "It's a nervewracking feeling. The feeling of anxiety. The Roach King knows conflict up north is inevitable. The Three Rivers declared as such from their vehement opposition to the 2274 Grifton-Roach King treaty. Let's prepare, now."
+  RCK_a_fellow_kingdom_desc:0 "It's a nervewracking feeling. The feeling of anxiety. The Roach King knows conflict up north is inevitable. The Three Rivers declared as such from their vehement opposition to the 2274 Grifton-Roach King treaty. Let's prepare, now."
+  RCK_dramathat:0 "Don't be Dramatic"
+  RCK_dramathat_desc:0 "A strange people, actors and theatrics, a most refined and alien culture. They seem incomprehensible to understand at first glance. One must wonder what is going on within their walls. We must learn!"
+  RCK_roach_war_games:0 "War Game: Roach Sprawl"
+  RCK_roach_war_games_desc:0 "A Roach Sprawl! A truly fascinating concept! Hypothetically, without the Roach King's presence, the radroaches who are ever so loyal to Roach King would lose their minds! They would revert to their uncontrolled animalistic nature, and sprawl out to conquer and devour as much as they can. While this should be prevented, it wouldn't hurt to learn a little."
+  RCK_revitalize_roaches:0 "Revitalize The Roaches"
+  RCK_revitalize_roaches_desc:0 "Our roaches are growing more independent of their handlers. This is very, very bad. Perhaps a visit from the Roach King will steer them back in the right direction."
+  RCK_vault_dweller_recruitment:0 "Renounce the Treaty"
+  RCK_vault_dweller_recruitment_desc:0 "The Roach King's conquests have brought wealth and prosperity to the city of Grifton, more importantly, the Roach King no longer uses the small town as his base of operations, making the previous treaty largely irrelevant and no longer needed."
+  RCK_vault_dweller_recruitment_desc:0 "The Roach King's conquests have brought wealth and prosperity to the city of Grifton, more importantly, the Roach King no longer uses the small town as his base of operations, making the previous treaty largely irrelevant and no longer needed."
+  RCK_remember_who_were_fighting_for:0 "Remember Who We're Fighting For"
+  RCK_remember_who_were_fighting_for_desc:0 "The Roach King was more then a man. He was an idea."
+  RCK_calling_all_roaches:0 "Calling All Roaches"
+  RCK_calling_all_roaches_desc:0 "The few remaining holdouts of feral roaches can always get behind some combat! Tonight, they feast!"
+  RCK_the_beast_awakens:0 "The Beast Awakens"
+  RCK_the_beast_awakens_desc:0 "Sergeant Roach's leadership is showing results, radroach aggression is growing more and more powerful. Let's take advantage of this."
+  RCK_enter_sergeant_roach:0 "Everything is Falling Apart!"
+  RCK_enter_sergeant_roach_desc:0 "With the Roach King deposed, the once peaceful relations with Grifton are gone. The Roaches no longer have industrial capabilities. All they can do is survive."
+  RCK_enter_sergeant_roach_desc:0 "With the Roach King deposed, the once peaceful relations with Grifton are gone. The Roaches no longer have industrial capabilities. All they can do is survive."
+  RCK_everything_is_falling_apart:0 "Enter: Sergeant Roach"
+  RCK_everything_is_falling_apart_desc:0 "The Roach King may be gone, but his ideals outlive him. Sergeant Roach still stands firm. And the various roaches have begun following its lead."
+  RCK_art_of_the_deal_desc:0 "Our defensive web of alliances is beginning to bear fruit! The Region is beginning to prosper with the lack of incentive for war. A great peace is beginning to form in this frozen wasteland. The power of diplomacy is here! Nobody can take us down!"
+  RCK_unkempt_rage:0 "§RUnkempt Rage§!"
+  RCK_unkempt_rage_desc:0 "§RWith no Roach King, there's nothing holding back the roaches from crossing borders. Their land, your land, our land- it's all land to them.§!"
+
+  RCK_fate_of_brother_jan:0 "Fate of Brother Jan"
+  RCK_fate_of_brother_jan_desc:0 "Vault 37's greatest strength, the man who calls himself Brother Jan, remains in chains. Locked in a vacant room in Vault 37. The Roach King has scheduled a meeting with him."
+
+  RCK_fate_of_overseer_thomas:0 "Fate of Overseer THOMAS"
+  RCK_fate_of_overseer_thomas_desc:0 "The AI Overseer of Vault 37 has been defeated, Roach King has bested his greatest rival. Let's see the Roach King get his revenge."
+
+  RCK_useful_electronics:0 "Useful Electronics"
+  RCK_useful_electronics_desc:0 "Taste the electricty, that right there is authentic Vault 37 power right there. Straight from a fusion core deep in the vault. This baby right here can power a vault for generations still to come. And now it's ours! Haw-Haw!"
+
+  RCK_his_secret_stash:0 "Jan's Secret Stash"
+  RCK_his_secret_stash_desc:0 "Brother Jan had a secret stash hidden somewhere in this vault. There should be enough to create a handful of power armored divisions! For humans to use, not radroaches..."
+
+  RCK_elusive_water_pump:0 "The Elusive Water Chip"
+  RCK_elusive_water_pump_desc:0 "There's multiple benefits to now being the ruler of this Vault. For one, we now have substantially more water to gather more radroaches! No more dirty puddles! Nice!"
+
+  RCK_repurposing:0 "Repurposing Efforts"
+  RCK_repurposing_desc:0 "Why shatter Vault Tec Security completely? We can still use their equipment for ourselves. We do have humans in the Roach Patrols too you know."
+
+  RCK_this_is_something_alright:0 "This Is Something Alright"
+  RCK_this_is_something_alright_desc:0 "This vault alleviates a substantial amount of burdens plaguing the Roach King from catching up his various neighbors. No longer does he suffer a lack of everything substantial. We now have a foundation to work with."
+
+  RCK_change_of_victory_conditions:0 "§MChange of Victory Conditions§!"
+  RCK_change_of_victory_conditions_desc:0 "The Roach King sits upon his throne in the Overseer's office of Vault 37. Our nation is vulernable to attack from a stronger opponent. A new strategy must be developed to ensure a longterm peace in the region."
+
+  RCK_roach_king_the_diplomat:0 "Are Those Really Your Friends?"
+  RCK_roach_king_the_diplomat_desc:0 "Gaslighting, a tried and true method to unravel someone. Let's see... a little bird tells me your allies aren't quite as loyal as they seem. Is it true? Who knows!"
+
+  RCK_rag_tag_group_of_nobodies:0 "Just Take A Moment And Listen"
+  RCK_rag_tag_group_of_nobodies_desc:0 "That's right that's right! It's all true! If anything, we're looking out for you! You wouldn't want to attack someone lending a helping hand right?... What did we ever do..."
+
+  RCK_one_big_sour_apple:0 "One Big Sour Apple"
+  RCK_one_big_sour_apple_desc:0 "Before Roach King, Grifton was a close ally of the Republic of Three Rivers, as a result of their treachary, no amounts of diplomacy can repair the damaged relations between our two nations. That coalition is breathing down our necks every second. We must create a massive deterrence for war."
+  RCK_one_big_sour_apple_desc:0 "Before Roach King, Grifton was a close ally of the Republic of Three Rivers, as a result of their treachary, no amounts of diplomacy can repair the damaged relations between our two nations. That coalition is breathing down our necks every second. We must create a massive deterrence for war."
+
+  RCK_befriend_rocks:0 "Rocks and Radroaches"
+  RCK_befriend_rocks_desc:0 "The most militarily capable of our western neighbors. Having the Standing Rock come to our aid in the event of an unjust invasion would be a massive advantage. We hear of conflict brewing in Montana coming this way, ensuring peace in their east gives us a fair bit of leverage. Let's hope they feel the same way."
+
+  RCK_befriend_the_crow_people:0 "Crows and Marshes"
+  RCK_befriend_the_crow_people_desc:0 "These people serve an important role of containing the horrors that reign to our south. They claim they are immune to a great disease of some kind. A mutual defense treaty is the only sensible solution."
+
+  RCK_befriend_unbound:0 "Cleptomaniacs and Thievery"
+  RCK_befriend_unbound_desc:0 "The Unbound are a... strange bunch. Their culture of thievery has made them no friends. I'm sure they will gladly accept an alliance... Just as long as they can be kept outside of arms reach! They seem just as vulnerable as us."
+
+  RCK_negotiating_trade_agreements:0 "A Healthy Exchange of Ideals"
+  RCK_negotiating_trade_agreements_desc:0 "Those Old Believers sure do seem to promote an interesting religion. Perhaps one day we can explore it fully. The Roach King has a highly diverse population, multiple different religions are beginning to take root. It would be very foolish to attempt to stomp them out."
+
+  RCK_unstable_borders_of_an_unstable_region:0 "A Sirius Strategy"
+  RCK_unstable_borders_of_an_unstable_region_desc:0 "Man, we sure threw them for a loop! Mind games! That's how you win wars! With a good plan in hand, and allies by our side. We're sure to survive anything that comes our way!"
+
+  RCK_the_jester_recruit:0 "The Jester"
+  RCK_the_jester_recruit_desc:0 "What a strange thing he is. When the fighting stopped and a ceasefire reached. The Masquerade seemed to return to a state as if nothing had even happened. This alien behavior is truly fascinating. The Roach King has offered to bring him into his ranks. Giving him much authority for city planning, entertainment, and local authority of Radroaches."
+
+  RCK_make_war_an_impossibility:0 "The Anchor to Canadian Aggression"
+  RCK_make_war_an_impossibility_desc:0 "Our defenses are built, our Roaches are ready, our people love us. We are ready for total warfare against an unjust Canadian Invasion. The ball is in their court now."
+
+  RCK_statue_of_sergeant_roach:0 "Statue of the Golden Radroach"
+  RCK_statue_of_sergeant_roach_desc:0 "Sergeant Roach, the greatest radroach, the Roach King's second in command. The Golden Radroach, deserves a monument befitting his legacy."
+
+  RCK_statue_in_her_honor:0 "Statue of the Brightest Star"
+  RCK_statue_in_her_honor_desc:0 "The Brightest Star, the Roach King's greatest strength, the one who gave him the bravery to continue when all seemed loss."
+
+  RCK_finally_caught_up:0 "Statue of the Greatest King"
+  RCK_finally_caught_up_desc:0 "A king of radroaches, a leader of men. A hero to all. The legend of the Northern Commonwealth, The Roach King."
+
+  RCK_moment_of_clarity:0 "Stars In The Night Sky"
+  RCK_moment_of_clarity_desc:0 "The Roach King awakens from his slumber, and takes a step outside, a chance to gaze upon the night sky once more. The chaos is largely over, and now brings a moment of reflection."
+
+  RCK_more_than_just_a_roach_king:0 "More Than Just a Roach King"
+  RCK_more_than_just_a_roach_king_desc:0 "A farewell to the swarms of Radroaches storming underprepared defenses. If we wish to have long term strength. We must diversify our military capabilities."
+
+  RCK_look_what_we_found:0 "Look What We Found"
+  RCK_look_what_we_found_desc:0 "This land along the river is filled with untold treasures. Not really. It's mostly small farms. But there's the occasional large town that will fall under our protection."
+
+  RCK_so_many_new_friends:0 "So Many New Friends!"
+  RCK_so_many_new_friends_desc:0 "The Roach Kings brings security, economic prosperity, and no worry of military concscription. The masses are flocking in our support. Resistance remains over the river, however."
+
+  RCK_losing_sanity:0 "§RLosing Sanity§!"
+  RCK_losing_sanity_desc:0 ""My mind... my mind begins to slip. Something terribly wrong is happening. It wasn't supposed to be this way. Enemies, enemies surround us, no one can be trusted. No one. Nobody!""
+
+  RCK_roach_king_the_conqueror:0 "Roach King the Conqueror"
+  RCK_roach_king_the_conqueror_desc:0 "A tale as old as time. A warlord forming an empire."
+
+  RCK_saving_the_wasteland:0 "Saving The Wasteland"
+  RCK_saving_the_wasteland_desc:0 ""I'll save you! I'll save you all! I'll save you from the tyrannies you all find yourselves in!""
+
+  RCK_under_new_management:0 "Under New Management"
+  RCK_under_new_management_desc:0 "I won't hurt you. I just want to see what you have. There's really nothing to fear! It's better this way!"
+
+  RCK_the_river_crisis:0 "The River Crisis"
+  RCK_the_river_crisis_desc:0 "The River, It's the river that's our greatest vulnerability. Send a diplomatic envoy at once! That river will be ours!"
+
+  RCK_blast_open_that_damn_door:0 "Blast Open That Damn Door!"
+  RCK_blast_open_that_damn_door_desc:0 "I've had enough! Enough searching! Enough waiting! This has gone on too long! I refuse to wait anylonger. Grab me some dynamite. Let's blow that damn door open."
+
+  RCK_for_their_own_protection:0 "For Their Own Protection"
+  RCK_for_their_own_protection_desc:0 "The border south contains a horror unlike anything seen before. The weak and powerless to our south cannot properly maintain their borders in the region. We must take over their role as border security. Radroaches are immune to whatever disease is spreading there. It's for their own good."
+
+  RCK_preparations_and_tribulations:0 "Preparations and Tribulations"
+  RCK_preparations_and_tribulations_desc:0 "Let them come. Let them come! We're ready! We can take them! They will PAY if they think they can defeat the Roach King!"
+
+  RCK_on_top_of_the_world:0 "On Top of The World"
+  RCK_on_top_of_the_world_desc:0 "No one dares stand against the powerful might of the Roach King. A new empire is forming, it's time we act the part."
+
+  RCK_special_forces_training:0 "Special Forces Training"
+  RCK_special_forces_training_desc:0 "It's in the name really. An overhaul of our elite human divisions is desperately needed to maintain long term security. One day, the Roach King will die. And what will become of his radroach army? We must prepare in the present, to not doom our future."
+
+  RCK_wait_a_minute_we_have_robots:0 "Wait a Minute. We have robots!"
+  RCK_wait_a_minute_we_have_robots_desc:0 "Wait. What are we doing?! We have an entire previously AI ran vault at our disposal. We have dozens of hyper specific robots just collecting dust in storage. Why don't we use them?"
+
+  RCK_prepared_for_the_worst:0 "Bulletstreams Into the Sky"
+  RCK_prepared_for_the_worst_desc:0 "There are plenty of abandoned air fields overgrown with shrubbery. North Dakota was home to plenty of Anti-Air defenses before the war. How devastating would it have been to have your silos unguarded? While we can't restore them to pre-war condition. There's still something left to salvage here."
+
+  RCK_the_warpath_of_industry:0 "Warpath of Industry"
+  RCK_the_warpath_of_industry_desc:0 "Our military industry remains hopelessly behind other regional powers in our area. The now overcrowded Vault 37 aches with the constant flurry of machines and workshops that have taken form there. We must expand outwards. Perhaps a return to Grifton is in order?"
+  RCK_the_warpath_of_industry_desc:0 "Our military industry remains hopelessly behind other regional powers in our area. The now overcrowded Vault 37 aches with the constant flurry of machines and workshops that have taken form there. We must expand outwards. Perhaps a return to Grifton is in order?"
+
+  RCK_a_kings_ransom:0 "Spoils of Conquest"
+  RCK_a_kings_ransom_desc:0 "Throughout the Roach King's many conquests, he hasn't been afraid to loot the treasures that can be found throughout the North. After accounting the value for all the caps, jewelery, and weapons he is now in sole possesion of. His own personal wealth has skyrocketed to that of a small pre-war country. Turns out having the majority of your soldiers be radroaches is good for the payroll!"
+
+  RCK_new_weapons_new_toys:0 "New Weapons, New Toys"
+  RCK_new_weapons_new_toys_desc:0 "A daring proposition. The Roach King's conquests have given access to numerous amounts of new weaponry at our disposal. We can severely upgrade our human soldier's arsenals with them."
+
+  RCK_fighting_disease:0 "Fighting Disease"
+  RCK_fighting_disease_desc:0 "An unfortunate byproduct with creating a society centered around any animals is that diseases tend to spread fairly rapidly. Radroaches likely aren't the best long term animal partner to have as a greatest strength. But, that can all be alleviated soon enough."
+
+  RCK_learning_from_our_adversaries:0 "Learning From Our Fallen Enemies"
+  RCK_learning_from_our_adversaries_desc:0 "Just how did we get here? What mistakes were made along the way? What can we do to train our radroaches for the future? An interesting thought to dwell on. Let's hit the drawing board to think up new combinations for our radroaches."
+
+  RCK_the_greatest_celebration:0 "The Sound of Wedding Bells"
+  RCK_the_greatest_celebration_desc:0 "A marvelous, luxurious celebration for the Roach King's greatest achievement."
+
+  RCK_the_power_of_light:0 "The Power of Light"
+  RCK_the_power_of_light_desc:0 "Bright lights are a sign of wealth and prosperity in this new world we find ourselves in. And we're lacking in it! Unreal!"
+
+  RCK_transforming_society:0 "Transformation of Society"
+  RCK_transforming_society_desc:0 "The Roach King's land is no longer an empty wasteland with its only strength being radroaches. We have land now! We have the resources!"
+
+  RCK_un_orthodox_farming_techniques:0 "Unorthodox Farming Techniques"
+  RCK_un_orthodox_farming_techniques_desc:0 "Vehicles, vehicles are nice. They make transportation faster. Faster then brahmin. But more importantly, north dakota has plenty of old farming vehicles. Our enormous civilian population can learn to work on and fix them up."
+
+  RCK_push_to_industry:0 "Push to Industry"
+  RCK_push_to_industry_desc:0 "The push to industry is a long and arduous goal. We won't double our factories overnight. But through proper investment and oversight from the Roach King. We can get the ball rolling."
+
+  RCK_river_trade_expansion:0 "River Trade Expansion"
+  RCK_river_trade_expansion_desc:0 "Controlling our rivers is the first step in creating a maritime trading empire. For now our focus has been on land. But perhaps a next step for our nation's growth is on the rivers? Highly likely."
+
+  RCK_im_brilliant_bloody_brilliant:0 "I'm Brilliant, Bloody Brilliant!"
+  RCK_im_brilliant_bloody_brilliant_desc:0 "Technology, isn't it incredible? Who would've thought a man named "Roach King" would be on top of the world like this."
+
+  RCK_another_industry_focus:0 "Deeper Wells, Deeper Deposits"
+  RCK_another_industry_focus_desc:0 "Digging deep leads to benefits. More underwater caves, more mineral deposits. This land is rich in both."
+
+  RCK_new_factories_old_land:0 "New Factories, Old Land"
+  RCK_new_factories_old_land_desc:0 "What's the point in renovating old abandoned shacks to live in? Why not build our own houses? Our own structures? The great plains are vast, flat, and empty. We have plenty of room."
+
+  RCK_not_quite_a_crown:0 "Not Quite A Crown"
+  RCK_not_quite_a_crown_desc:0 "The Roach King is a monarch sure, but he's no tyrant. A crown is not his style. The most powerful set of Power Armor found by his scavenging teams so far on the other hand..."
+
+  RCK_laying_ground_work:0 "Laying Groundwork"
+  RCK_laying_ground_work_desc:0 "An overhaul of the society we currently have is going need a proper foundation to build off of. Luckily, Vault 37 just so happens to have given us the resources needed to do just that!"
+
+  RCK_the_great_conflict:0 "The Great Conflict"
+  RCK_the_great_conflict_desc:0 "A conflict is brewing in the North, We should prepare to strike at the most opportune of moments... Hurry Roaches! To the training fields!"
+
+  RCK_death_of_the_brightest_star:0 "Celestial Collapse"
+  RCK_death_of_the_brightest_star_desc:0 "The end is near. Sergeant Roach can't pull anymore strings. The roaches are dying, fleeing, and losing interest. The Reign of Radroaches was brief, but now. It's time to rest."
+
+  RCK_stop_the_bleeding:0 "Stop the Bleeding"
+  RCK_stop_the_bleeding_desc:0 "Stop the bleeding. Stop the bleeding. Stop the bleeding. Stop the Bleeding."
+
+  RCK_no_such_thing_as_industry:0 "No Such Thing as Industry"
+  RCK_no_such_thing_as_industry_desc:0 "A radroach cannot work in a factory, but a radroach does not need to hold a gun, all a radroach needs is food, and water."
+
+  RCK_funeral_pyre:0 "Funeral Pyre"
+  RCK_funeral_pyre_desc:0 "With Sergeant Roach at the helm, he's organized one final ritual to honor the Roach King's legacy. He's pulled the Roach King's corpse into the middle of an overrun Roach nest, this is final resting place."
+
+  RCK_tale_of_revenge:0 "Tale of Revenge"
+  RCK_tale_of_revenge_desc:0 "We are scared, alone, and afraid. There is no more roach King, Sergeant Roach's fury is unrivaled. We will get our revenge."
+
+  RCK_revenge_against_the_vault:0 "Revenge Against the Vault"
+  RCK_revenge_against_the_vault_desc:0 "It was Vault 37 that caused the Roach King's death. It is Vault 37 that will pay for the pain they have caused."
+
+  RCK_endless_waves:0 "Endless Waves"
+  RCK_endless_waves_desc:0 "An endless swarm of radroaches, crush one, 3 more present themselves. Our only strength is numbers."
+
+  RCK_direct_control:0 "Direct Control"
+  RCK_direct_control_desc:0 "Sergeant Roach knows best, the Roach King's most trusted Radroach, we must rely on him to lead the roach swarms."
+
+  RCK_sergeant_roachs_war_cry:0 "Sergeant Roach's War Cry"
+  RCK_sergeant_roachs_war_cry_desc:0 "Sergeant Roach has regained control, some semblence of control at least. With Sergeant Raoch's strength, they will listen."
+
+  RCK_lump_sum:0 "Lump Sum"
+  RCK_lump_sum_desc:0 "A lump sum of radroaches, there's still untouchede radroach nests in the region. Sergeant Roach can pull strings and gain control over their radroaches."
+
+  RCK_think_of_the_garrisons:0 "Think of the Garrisons!"
+  RCK_think_of_the_garrisons_desc:0 "But what of the garrisons! So what if we have designated Radroach units! What good is it if the people will just revolt! We must ensure the eradication of resistance, even at the expense of territorial expansion."
+
+  RCK_the_first_wave_begins:0 "The First Wave Begins"
+  RCK_the_first_wave_begins_desc:0 "News of the fall of Vault 37 is spreading across the wasteland. Refugees are pouring into settlements across the Northern Commonwealth. Our rapid expansion into Vault 37 territory has forced our immediate neighbors to come to an unprecedented agreement: The radroach threat must be crushed and eliminated."
+
+  RCK_reclaiming_the_mantle:0 "Reclaiming the Mantle"
+  RCK_reclaiming_the_mantle_desc:0 "We've reclaimed Grifton, we've conquered Vault 37. Well, not the vault itself, but the land surrounding it. This hunger isn't satisfied... We must have more!"
+  RCK_reclaiming_the_mantle_desc:0 "We've reclaimed Grifton, we've conquered Vault 37. Well, not the vault itself, but the land surrounding it. This hunger isn't satisfied... We must have more!"
+
+  RCK_snow_wont_stop_us:0 "Snow Won't Stop Us"
+  RCK_snow_wont_stop_us_desc:0 "How can snow stop the radroach? We aren't humans. Wherever there's food, we will survive."
+
+  RCK_the_left_hand:0 "The Left Hand"
+  RCK_the_left_hand_desc:0 "The Left Hand reaps dark rewards."
+
+  RCK_the_right_side:0 "The Right Way"
+  RCK_the_right_side_desc:0 "Someway, somehow. Sergeant Roach influences his subjects. Perhaps the Roach King trained him well."
+
+  RCK_the_hammer_comes_crashing_down:0 "The Hammer Comes Crashing Down"
+  RCK_the_hammer_comes_crashing_down_desc:0 "Sergeant Roach is not the Roach King, there is no mercy, no assimiliation, no freedom for our subjects. We will have our revenge."
+
+  RCK_momentum_is_gaining:0 "Momentum is Gaining"
+  RCK_momentum_is_gaining_desc:0 "Momentum, Inertia, Work. All used in acceleration. All evidence of the Roach Swarm's rise."
+
+  RCK_buying_time:0 "Buying Time"
+  RCK_buying_time_desc:0 "Sergeant Roach's grip is weakening. But that doesn't mean it can be regained. This isn't the end. It's just the beginning."
+
+  RCK_hive_mind_of_roach_two:0 "Hivemind of Roach"
+  RCK_hive_mind_of_roach_two_desc:0 "Well. Not quite. Greater coordination and anger breeds animosity and a combined effort to tear down our enemies."
+
+  RCK_until_the_bitter_end:0 "Until the Bitter End"
+  RCK_until_the_bitter_end_desc:0 "We will fight for you Roach King, for the legacy you left behind, for the ideals you prioritized. We will fight for you, until the bitter end."
+
+  RCK_reign_of_radroaches:0 "Reign of Radroaches"
+  RCK_reign_of_radroaches_desc:0 "No more humans, no more mutans, no more robots, no more ghouls. It's time for a new reign. A new hegemony. The Reign of Radroaches is here."
+
+  RCK_idk_im_out_of_ideas:0 "New Generation of Radroaches"
+  RCK_idk_im_out_of_ideas_desc:0 "Any new radroaches born will immediately be pressed into the swarm. Our advance cannot afford to stop. Our rage cannot diminish. Every radroach matters."
+
+  RCK_any_river_will_do:0 "Any River Will Do"
+  RCK_any_river_will_do_desc:0 "polluted, irradiated, it doesn't matter. Wherever there's water, we will survive."
+
+  RCK_resistance_eradication:0 "Resistance Eradication"
+  RCK_resistance_eradication_desc:0 "Resistance is going to be the end of us. We cannot realistically destroy the humans. We must do our best to supress resistance. Through fear and terror."
+
+  RCK_phase_two:0 "Phase Two"
+  RCK_phase_two_desc:0 "This is a bad idea..."
+
+  RCK_mass_scale_duplication:0 "Mass Onslaught"
+  RCK_mass_scale_duplication_desc:0 "It never ends, we will never die. We will never die. We will never die. We will never die!"
+
+  RCK_echos_of_roach_king:0 "Echoes of Roach King"
+  RCK_echos_of_roach_king_desc:0 "Sometimes, we hear him. The laughter, the madness, the orders. A memory we will never forget. The legacy of what gave us this strength."
+
+  RCK_from_all_sides:0 "From all Sides"
+  RCK_from_all_sides_desc:0 "We are surrounded, attacked, alone and afraid. But nothing will dislodge us! Nothing will defeat us!"
+
+  RCK_scraping_the_barrel:0 "Scraping the Barrel"
+  RCK_scraping_the_barrel_desc:0 "We are beginning to run out of steam. The world has united against us. And we are feeling the pain. No radroach shall remain independent."
+
+  RCK_last_minute_alterations:0 "Last Minute Alterations"
+  RCK_last_minute_alterations_desc:0 "Before things get bad. Let's quickly reorganize. before it's too late."
+
+  RCK_grasping_at_straws:0 "Grasping at Straws"
+  RCK_grasping_at_straws_desc:0 "Things are really beginning to go off the rails. Sergeant Roach is losing control. The End is near."
+
+  RCK_manpower_ig:0 "The Last Stragglers"
+  RCK_manpower_ig_desc:0 "The last few stragglers we could find. There's no more left outside the war machine. things are looking dire."
+
+  RCK_glory_to_sergeant_roach:0 "Glory To Sergeant Roach"
+  RCK_glory_to_sergeant_roach_desc:0 "The Savior of Radroaches, the Golden Radroach, the hero we needed. A legendary radroach. Sergeant Roach."
+
+  RCK_death_of_an_overseer:0 "Exodus of Grifton"
+  RCK_death_of_an_overseer_desc:0 "Vault Tec Security has fled from Grifton, evacuating entire settlements and bringing all the residents deep into Vault 37 before sealing the doors shut." 
+
+  RCK_hidden_holotape:0 "Hidden Holotape"
+  RCK_hidden_holotape_desc:0 "What were you doing hiding around here?"
+  RCK_one_terrible_day:0 "One Terrible Day"
+  RCK_one_terrible_day_desc:0 "The source of this chaos."
+  RCK_the_king_rises:0 "The King Rises"
+  RCK_the_king_rises_desc:0 "The makings of a mad man, or a savior?"
+  RCK_i_promise_to_save_you:0 "I Promise To Save You"
+  RCK_i_promise_to_save_you_desc:0 "But will he be able to?"
+  RCK_emergency_key_card_access:0 "Emergency Keycard Override Code"
+  RCK_emergency_key_card_access_desc:0 "< !!! >"
+  RCK_reunited_at_last:0 "Reunited At Last"
+  RCK_reunited_at_last_desc:0 "The Darkness fades, and with it, comes the beauty of light."
+
+ RCK_the_hidden_door:0 "§LThe Hidden Room§!"
+  RCK_the_hidden_door_desc:0 "The Roach King has not yet found a way inside this room. It appears to be locked from the inside. A blueprint of the vault reveals this should be the location of an "Emergency Escape Preparation Room" that leads to the surface. There are written orders to have it stocked with plenty of supplies. I'm sure it would be very beneficial to get inside."
+
+  RCK_the_hidden_door_open:0 "§RBREACH!§!"
+  RCK_the_hidden_door_open_desc:0 "The door is open! We finally have a way inside! Quickly! Get the hell in there!"
+
+
+  RCK_glory_to_the_roach_king:0 "A Legend Never Dies"
+  RCK_glory_to_the_roach_king_desc:0 "The journey was over before we knew it, after all."
+
+
+RCK_radroaches_in_the_enclave:0 "Radroaches In The Enclave?"
+RCK_terror_of_the_capital_wasteland:0 "Terror of the Capital wasteland"
+
+RCK_stars_of_regret:0 "Stars of Regret"
+RCK_stars_of_regret_desc:0 "I still remember... The thoughts... They.. speak to me. I'm losing my mind. But I still live...? What is this feeling? What is this... emptiness? My Star... I miss you. Where did you go?"
+RCK_dynasty_of_many_crowns:0 "Dynasty of Many Crowns"
+RCK_dynasty_of_many_crowns_desc:0 "Nothing can stop us! Your hero is defeated! your savior deposed! No one will ever dare dethrone the Roach King once more!~"
+
+
+RCK_descent_into_madness:0 "I Hear Voices"
+RCK_descent_into_madness_desc:0 "It's been a long journey to wherever this place is. Not every piece of Roach King seems to have made it."
+
+RCK_oh_how_far_weve_fallen:0 "Oh How Far We've Fallen"
+RCK_oh_how_far_weve_fallen_desc:0 ""Where did they go? Where are my radroaches! Sergeant Roach... Where on earth did you go?!""
+
+RCK_a_humbling_experience:0 "A humbling Experience"
+RCK_a_humbling_experience_desc:0 "Losing everything doesn't leave you with a whole lot to be grateful for. This has been a pretty bad year. No more mistakes. No more setbacks. Not letting this happen twice. No more second chances."
+
+RCK_welp_back_to_the_grind:0 "Back To The Grind"
+RCK_welp_back_to_the_grind_desc:0 "It's not all bad... is it? there's still some radroaches left... Oh. Only 3..? really? Well. That's problematic."
+
+RCK_the_new_throne:0 "The New Throne"
+RCK_the_new_throne_desc:0 "Kheee! First, build throne. Then take rocket. Kheee! Some of my shiny friends help me. What time is it? Scuttle-and-bustle time. Kheee! The sun is hot. But the throne is cool. Khee-akaahhh-kuhhh... oh, me insides don't feel right. Sleepy time. Kheee!"
+
+RCK_we_have_some_dopplegangers:0 "We Have Some Dopplegangers"
+RCK_we_have_some_dopplegangers_desc:0 "Well well well, look at these fools! such petty conflict. Don't they see the might and power of the all powerful Roach King?! It's time to intervene in this childish affair!"
+
+RCK_the_antagonizer:0 "The Antagonizer"
+RCK_the_antagonizer_desc:0 "A queen of Ants? How curious! She would make an excellent ally to rebuild the Roach King's forces! Let us crush that Robotic Rodent!"
+
+RCK_the_robot_man:0 "The Mechanist"
+RCK_the_robot_man_desc:0 "A man of Metal? How Wise! Securing the support of Canterbury Commons would make an excellent base for building a new Radroach Kingdom! Let us join forces and crush that Arrogant Ant!"
+RCK_sergeant_roach:0 "Sergeant Roach"
+RCK_sister_roach:0 "Sister Rose"
+
+RCK_rotten_holotape:0 "Rotten Holotape"
+RCK_rotten_holotape_desc:0 "It appears we left something behind after uncovering the §YTreasure Trove§! of new material found in vault 37...\n\nPerhaps in another life, this would've led to a different outcome?"

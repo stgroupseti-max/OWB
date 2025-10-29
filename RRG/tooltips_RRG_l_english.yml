@@ -1,0 +1,21 @@
+﻿l_english:
+  SENATORS_SUPPORT_MORA_MAXED_tt_NOT:0 "This state's senators do not fully support Mora"
+  SENATORS_SUPPORT_GUERRA_MAXED_tt_NOT:0 "This state's senators do not fully support Guerra"
+  SENATORS_SUPPORT_ROSADO_MAXED_tt_NOT:0 "This state's senators do not fully support Rosado"
+  DEPUTY_SUPPORT_MORA_MAX_tt_NOT:0 "This state's deputies do not fully support Mora"
+  DEPUTY_SUPPORT_GUERRA_MAX_tt_NOT:0 "This state's deputies do not fully support Guerra"
+  DEPUTY_SUPPORT_ROSADO_MAX_tt_NOT:0 "This state's deputies do not fully support Rosado"
+  three_star_fleet_tt:0 "We will gain 3 Ships with §YLongboat Hulls§! in §YNuevo Laredo§!"
+  rrg_ask_best_friend_tt:0 "§gSince Katherine managed to beat Santa Anna herself, I'll just ask her nicely to give me his territory in exchange of resource rights.§!"
+  guerra_friendship_notifications_tt:0 "§Y We will no longer receive notifications of Rio Grande's policies strengthening Mexico. Any benefits will still apply.§!"
+  guerra_guaranteed_nations_targeted:0 "The guaranteed nations will learn who else Rio has offered to protect."
+  rrg_arm_keys_handover_tt:0 "Santa Anna will hand us the keys that he currently holds."
+
+  #Unit leaders
+  MILLER_TT:0 "\n§Y$RRG_senior_scribe_miller_name$§! becomes a Unit Leader.\n§LLevel§!: §Y4§!\n§RAttack Skill§!: §Y2§!\n§GDefense Skill§!: §Y3§!\n§PPlanning Skill§!: §Y3§!\n§MLogistics Skill§!: §Y2§!\n§gTraits§!: §tPerceptive§!, §tAwarness§!, §tUrban Assault Specialist§!\n\n"
+  PAULLUS_TT:0 "\n§Y$RRG_paullus_name$§! becomes a Unit Leader.\n§LLevel§!: §Y3§!\n§RAttack Skill§!: §Y2§!\n§GDefense Skill§!: §Y2§!\n§PPlanning Skill§!: §Y2§!\n§MLogistics Skill§!: §Y2§!\n§gTraits§!: §tCharismatic§!, §tStrong§!\n\n"
+  VERONICA_GUERRA_TT:0 "\n§Y$RRG_veronica_guerra_name$§! becomes a Unit Leader.\n§LLevel§!: §Y3§!\n§RAttack Skill§!: §Y1§!\n§GDefense Skill§!: §Y2§!\n§PPlanning Skill§!: §Y3§!\n§MLogistics Skill§!: §Y2§!\n§gTraits§!: §tCharismatic§!, §tLocal Leader§!, §tAgile§!\n\n"
+  DANTE_GUERRA_TT:0 "\n§Y$RRG_DANTE_GUERRA_NAME$§! becomes a Commanding Officer.\n§LLevel§!: §Y3§!\n§RAttack Skill§!: §Y4§!\n§GDefense Skill§!: §Y2§!\n§PPlanning Skill§!: §Y2§!\n§MLogistics Skill§!: §Y1§!\n§gTraits§!: §tEnduring§!, §tIdiot Savant§!, §tLucky§!\n\n"
+  LEONARDO_MORA_TT:0 "§Y$RRG_LEONARDO_MORA_NAME$§! becomes a Commanding Officer.\n§LLevel§!: §Y6§!\n§RAttack Skill§!: §Y4§!\n§GDefense Skill§!: §Y3§!\n§PPlanning Skill§!: §Y4§!\n§MLogistics Skill§!: §Y3§!\n§gTraits§!: §tCharismatic§!, §tIntelligent§!, §tInspirational§!\n\n"
+  RAFAEL_ORTEGA_TT:0 "§Y$RRG_rafael_ortega_name$§! becomes a Commanding Officer.\n§LLevel§!: §Y4§!\n§RAttack Skill§!: §Y3§!\n§GDefense Skill§!: §2§!\n§PPlanning Skill§!: §Y3§!\n§MLogistics Skill§!: §Y2§!\n§gTraits§!: §tPerceptive§!, §tEnduring§!\n\n"
+

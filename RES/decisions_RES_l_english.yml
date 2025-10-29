@@ -1,0 +1,40 @@
+﻿l_english:
+  res_sublevel_2: "§YSub-Level 2§!"
+  res_sublevel_2_desc:0 "§YSub-Level 2§! is the beating industrial heart of Los Alamos. It is here that stations for the production of various goods are built using industrial machinery disassembled and relocated from the surface above.\n\nGun and armor smiths can be assigned to create small quantities of §MAdvanced Energy Weaponry§! and §ORiot Gear§! using Pre-War schematics, which can be traded away or used to arm our own forces.\n\n§PSupplies§! for the Project in §GSub-Level 3§! are also assembled here before being sent down for processing."
+
+  convert_factory_to_level_2_decision: "Relocate Workshops to §YSub-Level 2§!"
+  convert_factory_to_level_2_decision_desc: "To boost our preparations we shall concentrate our industry in the heart of Reservation Town, where it will be safe."
+
+  boost_production_slaves_level_2_decision: "Send More Slaves"
+  boost_production_slaves_level_2_decision_desc: "In order to boost our production efforts we will have to spare some slaves and send them to §YSub-Level 2§!."
+
+  res_sublevel_3: "§GSub-Level 3§!"
+  res_sublevel_3_desc:0 ""
+
+  # Reservetion town
+  res_town_category: "Reservation Town"
+  res_town_category_desc:0 "Built to enable trading with those unable, or at least unwilling, to risk the radiation closer to Los Alamos, Reservation Town serves as our primary meeting point with traders of all stripes: not least of all Legion slavers. Exchanging weapons and caps for their latest hauls will be necessary to supply ourselves a steady supply of laborers."
+
+  military_exercise_descision: "Perform Military Exercises"
+  military_exercise_descision_desc: ""
+
+  buy_ces_slaves_decision: "Buy slaves from the Legion"
+  buy_ces_slaves_decision_desc: "The slaves we can get from the west are already broken in and of decently high quality, unfortunately they seem to be in high demand within the legion as well, forcing us to pay a larger sum in order to secure the highest bid."
+
+  buy_lac_slaves_decision: "Buy prisoners from the East"
+  buy_lac_slaves_decision_desc: "Lanius conquest has resulted in large quantities of slaves, however most of them still lack proper training, with the legionaries offering them up at a discount if we choose to break them in ourselves."
+  buy_lac_slaves_decision_riot_gear_trigger: "At least §Y30§! of §YRiot Control Gear§! stored in stockpile"
+
+  sell_drucius_decision: "Selling guns to the Legion Emissary"
+  sell_drucius_decision_desc: "We would usually reserve our best products for our own troops, however for our good friend Caius Drusus we can make an exception."
+  sell_drucius_decision_advanced_energy_weapon_trigger: "At least §Y50§! of §YAdvanced Energy Weaponry§! stored in stockpile"
+
+  buy_nav_slaves_decision: "Request Additional Shipments from Navajo"
+  buy_nav_slaves_decision_desc: ""
+
+  # Nuke
+  res_launch_nuke_category: "Nuclear Arsenal of Reservation"
+  res_launch_nuke_category_desc: "From the depths of Reservation Vault a pre-war Howitzer cannon emerges. Armed with a dirty bomb, the §pNuclear Nellie§!, it is ready to rain devastation on any smoothskin sity. All it awaits is Clarks command."
+
+  res_launch_nuke_decision: "Launch §pNuclear Nellie§! on [FROM.GetName]."
+  res_launch_nuke_decision_desc: "Let's bomb the hell out of this city"

@@ -1,0 +1,146 @@
+﻿l_english:
+
+  pmr_1:0 "Hard Times in Port Maw"
+  pmr_1_desc:0 "So here's how this whole story started..."
+
+  pmr_2:0 "Granger's Law"
+  pmr_2_desc:0 "And then it only got worse from there, listen..."
+
+  pmr_3:0 "Hope, or Perhaps Negligence"
+  pmr_3_desc:0 "But at least the ending isn't written yet, after all..."
+
+  nf_pmr.1.t:0 "Hard Times in Port Maw"
+  nf_pmr.1.d:0 "Wasn't always this bad here new fish; Port Maw used to be a, well, not a nice place I guess but it wasn't like this. There wasn't any organization or nothin' back then really, just folks. Most of those folks were just trying to live their lives, hold onto their little patch of dirt or sea shore and survive. We did have a mayor who set himself up, a fella named Dace, who was trying to get people to help him rebuild the old ruins and make something out of it but no one really paid him much mind. Who could really blame us though? The countryside was lousy with raiders and pirates and if you went too far south you'd find yourself in some cannibal's stew pot! \n\nIn those days we could survive because the different gangs fought each other as much as they fought anyone else. The gang that robbed you on a Tuesday would be eaten by cannibals on Thursday and so on and so on. That changed though when Granger and her crew started to make waves. They came up from the south and started making it real clear that they planned on making a new home of the Maw. It wasn't the first pirate crew who'd done so, and we didn't take it seriously enough. She'd probably have kicked our asses anyway, but she had help;"
+  nf_pmr.1.a:0 "The Rillbugs shelled us with a damn cannon!"
+  nf_pmr.1.b:0 "Peck's Poachers lured a Mirelurk Queen into town!"
+  nf_pmr.1.c:0 "The Prophet's snuck in and murdered Dace in the night!"
+
+  nf_pmr.2.t:0 "Granger's Law"
+  nf_pmr.2.d:0 "After Granger sailed in and knocked our heads together, she didn't waste much time. Just about anyone who wasn't raider material was taken as a slave and put to work on various projects to outfit her crew for the next conquest. And she was smart, I'll give her that. She did something no one else really had; she picked sides. The Rillbugs blew up the Cross Crew, the Clam Sons hunted down the last of the Broadsiders, Tilla's Pride sank to the bottom of the sea while Tom Toms laughed it up on the radio with his boys; all with the blessing and help of Granger Storm the new Queen of Port Maw. Wasn't long before she had an army of raider gangs all following her lead. \n\nShe kept up with her kingmaker game as she went along the coast, and soon her armies and fleets were scooping up all the little independent towns around. Tillamook, Longview, Beaverton, and even chunks of Portland were all soon flying her flag, and the regular folks all ended up in chains. Wasn't long before even some of the cannibals to the south were playing nice and not trying to take too many nibbles out of her merchandise. Only the bigger maneater clans to the south and the black armored ghosts of Washington gave her pause. While her soldiers got to rest, we weren't given the same opportunity. I remember them making us build"
+  nf_pmr.2.a:0 "Weapons for Two Months Straight"
+  nf_pmr.2.b:0 "A Pleasure Barge for her Lieutenants"
+  nf_pmr.2.c:0 "Dozens of Chem Labs"
+
+  nf_pmr.3.t:0 "Strange Things are Afoot in Port Maw"
+  nf_pmr.3.d:0 "Granger and the other bosses settled in once they ran out of easy targets, spending their days bickering about how to divvy up the spoils between each other and not much else. It's like they've just been riding that victory high for a while, maybe literally considering all the chems they're blowing through. That hasn't stopped the slavers from sending out raiding parties to nab folks like you or cracking the whip though. They've had us working our asses off nonstop when they're not looking to sell us off to folks like the Washington ghosts or worse, the cannibals. As bad as things are though, it seems like things might be looking up, at least a little. \n\nCome in closer, I don't want anyone else to hear. Word is someone's been trying to help us, bumpin' off slavers and screwing with their stuff. The other slaves are calling them The Free Spirit, saying they're some kind of hero trying to free us all. I don't really know how true it all is but stories about them have been on everyone's lips for the last couple months. A friend told me that their brother saw the Spirit punch a slaver's head clean off before tossing a grenade into one of their booze halls. I even overheard one of the guards saying that"
+  nf_pmr.3.a:0 "A whole gun shop went up in smoke last week"
+  nf_pmr.3.b:0 "Boss Hacko was just found face down in his Sugar Bombs"
+  nf_pmr.3.c:0 "Twenty slaves went 'missing' yesterday"
+
+  pmr_explosives_gang:0 "Explosive Victory"
+  pmr_explosives_gang_desc:0 "The Rillbugs earned a prominent seat at Maw's table after hammering the Maw's defenses with their prized explosives. To this day, they remain ready to hold their spot with a flash and a bang."
+  pmr_savage_gang:0 "Savage Victory"
+  pmr_savage_gang_desc:0 "Peak's Poachers has always had a knack for handling wasteland beasts, but their work drawing out a Mirelurk Queen was truly a stroke of brilliance that justified Granger's favor for them."
+  pmr_quiet_gang:0 "Quiet Victory"
+  pmr_quiet_gang_desc:0 "The Prophets have ever been feared for their willingness to take on the riskiest of infiltrations, just to slit a single throat."
+  pmr_slaves_escaped:0 "The Spirit Is Freeing Slaves"
+  pmr_slaves_escaped_desc:0 "Whoever the Spirit really is, they can't truly think Granger won't catch up to them! Releasing our work gangs is making it difficult to get things put together."
+
+
+  ### Pirate events the starting four
+
+  nf_pmr_april.1.t:0 "Our Rivals."
+  nf_pmr_april.1.d:0 "Our story starts on a small group of islands out in what we now know as the "Pacific Ocean", since time immemorial us pirates have raided, swashbuckled, and and stole all across the one sea! (That we knew about, anyway.) \n\n We did what we want, took what we wanted, and lived how we pleased, and it was good! \n\n Until Donkey Kong and his meddling crew of mediocre monkeys started messing with us! Him and his lousy bunch harassed our ships, stole our loot, and booby-trapped our booty! \n\n He's been a pain in our butt forever now, and we were just about to stop him, with a plan to.."
+  nf_pmr_april.1.a:0 "Torch the fruit trees they depended upon"
+  nf_pmr_april.1.b:0 "Use the cover of night to our advantage"
+
+  nf_pmr_april.2.t:0 "The Arrival of the Boys in Blue."
+  nf_pmr_april.2.d:0 "Our plans, ingenious as they were, were cut short by the arrival of a group calling themselves "The American Government" to our isle. They seemed relatively uninterested in us or the DK crew at first, but it quickly became clear that they saw us as irradiated mutants in need of study. They ran a vicious campaign of capturing our entire crew, and the monkeys too! \n\n The experiments they ran on us for months after will haunt us eternally, we didn't even get a lollipop at the end like a normal doctor's visit. That time taught us an important lesson..."
+  nf_pmr_april.2.a:0 "The importance of willpower"
+  nf_pmr_april.2.b:0 "The safety of isolation"
+  nf_pmr_april.2.c:0 "The value of self-reliance"
+
+  nf_pmr_april.3.t:0 "Our Escape!"
+  nf_pmr_april.3.d:0 " This experimentation would not last for long, however, as our captors made the fatal mistake of putting us in charge of an enclave vessel, to see if we could run it! The look on their faces when we sailed straight through the doors on the harbour were priceless! We were home free, and set sail east, in the same direction the Americans had come from. We couldn't save our island from them, but maybe we could get a little payback in turn! There was loads of booty on the ship aswell, including...."
+  nf_pmr_april.3.a:0 "Blueprints for a rip off of our robot KAOS!"
+  nf_pmr_april.3.b:0 "Blueprints for glider suits based on Kopters!"
+
+  nf_pmr_april.4.t:0 "The Heist!"
+  nf_pmr_april.4.d:0 "When we arrived in "America" we found something we never expected, our worst fears come true. \n\n The DK Crew was here, and here first! They'd also escaped the islands from the Enclave and sailed East, and were posted up on an island just off the coast! \n\nIn a stunning display of tact, King K. Rool planned an expert heist on their banana vault! \n\n First we attacked at night, stuffing Donkey Kong into a barrel and rolling him down a hill, then we broke into the vault with a comically large stick of dynamite, then we packed all the bananas we could onto our ship and sailed south, finding a new home...here. In "Port Maw.""
+  nf_pmr_april.4.a:0 "And that's where we are, now!"
+
+  ### duh ideas
+
+
+  pmr_april_start_1:0 "Our Hated Enemy"
+  pmr_april_start_1_desc:0 "It all started in a faraway land..."
+
+  pmr_april_start_2:0 "The Bit about the Enclave"
+  pmr_april_start_2_desc:0 "It wasn't long before our bitter rivalry was stepped in upon by none other than Encrabe..."
+
+  pmr_april_start_3:0 "The Grand Escape!"
+  pmr_april_start_3_desc:0 "Can't keep a good pirate down!"
+
+  pmr_april_start_4:0 "The Raid!"
+  pmr_april_start_4_desc:0 "I love stealing! I'm a thief! A pickpocket! A kleptomaniac!"
+
+
+
+  pmr_april_redistribute_booty:0 "Booty For The Masses"
+  pmr_april_redistribute_booty_desc:0 "There's one thing a swashbuckler loves more than anythin', and that's booty! \n Not that kind of booty, you grog-drinker! Money! Guns! Bananas! Course, around here it seems the local folk use bottle caps...well, if it's good enough for the taverns, it's good enough for me!"
+
+  pmr_april_blunderbuss_designs:0 "Blunderbuss Designs"
+  pmr_april_blunderbuss_designs_desc:0 "Now, the single shot frontloaders have seen us through hundreds of raids by now, but the locals have shown us that we can do BETTER! Pump action blunderbusses, double barreled blunderbusses, automatic blunderbusses, ROTARY blunderbusses! The K in K. Rool stands for Karnage!"
+
+  pmr_april_only_room_for_one:0 "This Coast Ain't Big Enough"
+  pmr_april_only_room_for_one_desc:0 "To our south lies a foul bunch indeed. Cultists devoting themselves to the worship of sea creatures, SEA CREATURES! Back in my day we'd crack open crabs and cook 'em over an open fire, but these people build shrines to 'em! It won't stand! We're putting crab back on the menu!"
+
+  pmr_april_galleon_surface_fleet:0 "Green Water Navy"
+  pmr_april_galleon_surface_fleet_desc:0 "The realities of sailing the glowing oceans and rivers of this strange place are troublesome for our ships, to say the least. A little pirate ingenuity and a whole lot of material is going to have to go into putting us back on top of the naval scene."
+
+  pmr_april_tasty_egg_snack:0 "A Few Eggs As A Treat"
+  pmr_april_tasty_egg_snack_desc:0 "Lots of us are worried about how we're going to run all this new turf, but what's REALLY concerning is what we're going to do with all these eggs! Omlettes? Poached? Boiled? Deviled? Boggles the egg. I mean- Boggles the mind."
+
+  pmr_april_klaptrap_in_your_pocket:0 "Pirate's (Other) Best Friend."
+  pmr_april_klaptrap_in_your_pocket_desc:0 "The trusty Klaptrap has seen us through thick and thin, fat and lean, soft and hard! They're the ultimate companion and they're a few shores tougher than most of the shambling nonsense people call "wildlife" around here. 'Bout time they started coming with us on raids."
+
+  pmr_april_sticks_and_stones:0 "Sticks and Stones"
+  pmr_april_sticks_and_stones_desc:0 "That's the cultists done and dusted, but it's not like a pirate to rest on his corals! Er, laurels. To the east lies a motley crew of super mutants who think they know better than we do, and we can't be havin' that in these waters. King K. Rool is meaner, greener and lea- Well, he isn't really leaner.."
+
+  pmr_april_kong_kollege:0 "Kong Kollege"
+  pmr_april_kong_kollege_desc:0 "Reading! T'aint something most pirates can do, but there's some value in it! The first mate was just showing the crew the other day a book all about tying knots...and half of them couldn't even read the pictures! Need to do somethin' about it, so we'll put together the "Swanky Sailors Swashbuckling School for the Stupid.""
+
+  pmr_april_element_of_surprise:0 "The Element of Surprisium"
+  pmr_april_element_of_surprise_desc:0 "Now that we've been doing a bit more reading, some of our lot have found a few lost books about fightin' and smashin' and winnin'. A whole lot of 'em talk about kickin' the hell out of the other guy before he even knows he's being attacked! That sounds pretty smart to me!"
+
+  pmr_april_gym_session:0 "Gym Sessions"
+  pmr_april_gym_session_desc:0 "The body is a temple, and a temple cannot be built out of grog, bananas, and sitting around all day. Pirates need to be in peak physical performance to crush their enemies, and we're going to start going to the Gym to get it!"
+
+  pmr_april_helicopter_packs:0 "Air Piracy"
+  pmr_april_helicopter_packs_desc:0 "Sure, you can rule the waves and bomb the shores in a boat...but what about the skies? We need flying machines, and lots of them. Emblazoned with skulls, and checkers, and flags, and all sorts! It'll be the coolest damned thing you've ever seen!"
+
+  pmr_april_salem_party:0 "The Salem Which Trials"
+  pmr_april_salem_party_desc:0 "The town of Salem is a weird place indeed, lots of signs everywhere about this place "not being the one with the witches." I don't really care for geographical specifici-ties, so we're gonna pretend this is that place anyhow."
+
+  pmr_april_kackle_resurrection:0 "Kackle King"
+  pmr_april_kackle_resurrection_desc:0 "These "carcass walkers" were in for a nasty surprise when we let loose our Kackles! Give it an afternoon and this place will look like Crocodile Isle in no time."
+
+  pmr_april_horrors_beyond_comprehension:0 "Big Feet Means Big Shoes."
+  pmr_april_horrors_beyond_comprehension_desc:0 "Turns out all these mutants are pretty agreeable once you tell 'em they can go back to smashing, stealing, and making strange little meat bags. The _really_ big ones will mean trouble for anybody we go after next, for sure!"
+
+  pmr_april_new_mekanos:0 "New Mekanos!"
+  pmr_april_new_mekanos_desc:0 "Mekanos was the greatest island in all the realm when it came to industry. Nothin' like that lies around here, but we sure can try to make things a little more like home..."
+
+  pmr_april_revive_kremkroc_industries:0 "Revive Kremkroc Industries"
+  pmr_april_revive_kremkroc_industries_desc:0 "Factories, conveyer belts, stamping, pressing, lathes galore! All can be found in the recently refurbished Kremkroc factory. This time around it's been built to be 100% monkey proof!"
+
+  pmr_april_disorder_in_court:0 "Disorder in the Court!"
+  pmr_april_disorder_in_court_desc:0 "The Apostles to our south have gotten a little itchy at us ripping to shreds all their "brothers" in the mirelurk tribe. Seems to us like they might even attack, if somethin' ain't done about it. Why not beat them to the punch?"
+
+  pmr_april_perks_of_mathematical_ineptitude:0 "Mathematical Ineptitude"
+  pmr_april_perks_of_mathematical_ineptitude_desc:0 "These "Marrow Drinkers" out east are a strange bunch. They use odd machines to control the other humans that live near them....machines that don't work on us! About time we did a little "neighborly appropriation.""
+
+  pmr_april_killing_in_the_name:0 "Kicking Our Feet Up"
+  pmr_april_killing_in_the_name_desc:0 "It gets easier every time. One these little humans figured out that we're here to stay...and have all those fancy mesmetrons we stole from that witch, they pretty much gave up the goose. Time to enjoy the perks of being in charge..."
+
+  pmr_april_you_again:0 "Our Greatest Raid!"
+  pmr_april_you_again_desc:0 "Our Rivals! Those Apes! Those Monkeys! Those Simians! I'm sick of them sitting up there, planning our demise! It's time we take the fight to them!"
+
+  pmr_april_dishonor_among_thieves:0 "Dishonor Among Thieves"
+  pmr_april_dishonor_among_thieves_desc:0 "We did it! We got those pesky little kongs and we have every last one of their bananas, too! We're rich! WE'RE RICH!"
+
+  pmr_april_empower_loyal_krew:0 "Empower Loyal Krew"
+  pmr_april_empower_loyal_krew_desc:0 "In a pirate Krew, the only thing that really matters is how loyal you are to the boss!"
+
+  pmr_april_honest_living:0 "Honest Living"
+  pmr_april_honest_living_desc:0 "Some of our older Krew have decided they want to "settle down" and live "normal lives." They can be as normal as they want in a cement plant."

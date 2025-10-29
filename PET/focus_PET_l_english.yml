@@ -1,0 +1,139 @@
+﻿l_english:
+  ### All localization Revised by Ardor, June 2025 ###
+  PET_the_war:0 "The First B’aykruptsi"
+  PET_the_war_desc:0 "The first lesson the Anholists taught the people was that of The First B’aykruptsi, a wave of fire and brimstone that swept the world after those who came before defied and angered the Zheiroldas."
+  PET_the_aftermath:0 "Unification of El Bord"
+  PET_the_aftermath_desc:0 "The second lesson the Anholists taught the people was that of the Unification of El Bord, where the most intelligent and pious descendents of The First B’aykruptsi joined together to restore and operate the great machines left to the Petro-Chicans by the Zheiroldas."
+  PET_the_future:0 "The Fourth Quarter"
+  PET_the_future_desc:0 "The third lesson the Anholists taught the people was that of the Fixxelear and the Quarters, the cycle where the Zheiroldas periodically speak to select Anholists to portend the future and ensure that the Petro-Chicans operate in a way that furthers their holy interests."
+  ###I made this so it'd go left to right! :D hope it helps #$# Hell yeah violet you the girlboss #$#
+
+  #left branch - 1
+
+  PET_department_of_warfare:0 "Department of Security"
+  PET_department_of_warfare_desc:0 "While we are blessed to have such a profitable part of the Mexican peninsula, our bountiful resources are bound to attract local intervention. Proactivity is one of the greatest virtues shared by the Zheiroldas, and protecting ourselves is key to survival."
+  PET_security_patrols:0 "Brand Loyalty Protocols"
+  PET_security_patrols_desc:0 "It is important to ensure that every one of our security officers is fully compliant and happy with the standards and protocols of El Bord and the Kompenni, lest they get poached by one of our competitors and sabotage our consolidation measures."
+  PET_spearhead_doctrine:0 "Strategy Review Meetings"
+  PET_spearhead_doctrine_desc:0 "While El Bord would never state it publicly, El Seeyo’s form of warfare is little more than throwing men and metal at the enemy until they give up. This works in domestic scuffles, but when facing off with the Mexican powers, new doctrines are needed."
+  PET_special_ops:0 "The Best of the Petro-Chicans"
+  PET_special_ops_desc:0 "We do not have the means to give every security officer the best equipment and training, but the development of a small professional corps to achieve key strategic objectives is an effort El Bord guarantees will pay dividends in the conflicts to come."
+  PET_defense_of_the_homeland:0 "Protecting Our Share"
+  PET_defense_of_the_homeland_desc:0 "While hostile takeovers are commonplace in this post-B’aykruptsi world, El Bord cannot afford to solely focus on offense. It is key that our security personnel have the knowledge and strategies to secure our market share against outside aggressors."
+  PET_defense_of_the_homeland_tt:0 "§OCoastal forts will be constructed next to each river crossing in the north.§!"
+  PET_machine_guns:0 "A Hail of Lead"
+  PET_machine_guns_desc:0 "It doesn’t take a genius to operate an automatic weapon, so giving more of them to our security officers should increase our efficacy during combat without our personnel requiring much more training than they already receive."
+
+  #left branch - 2
+
+  PET_offshore_department:0 "Department of Offshore Operations"
+  PET_offshore_department_desc:0 "Many of the great colossi that were left to us by the Zheiroldas remain in the great sea. El Bord thinks that it would be profitable to try and restore the machines in order to cement a greater market share and compete with local navies."
+  PET_dockyards:0 "Floating Shipyards"
+  PET_dockyards_desc:0 "By the grace of the Zheiroldas, many of the sea platforms remain intact and are suitable for constructing, maintaining, and retrofitting ships for our use. These platforms also are an excellent place to hide our navy from our competitors until we can muster enough dominance to begin the acquisitions process in full."
+  PET_rusted_wrecks:0 "Executive Requisitioning Order"
+  PET_rusted_wrecks_desc:0 "“Order of El Seeyo Number Twenti Too - All hires that are not making gunz, boolets, petro-liam, or food are to raport to the beetch for jobs finding lost shipps.” - Note posted to every door in a day’s walking distance of El Seeyo’s dwelling"
+  PET_dredging_operation:0 "Restoring Gulf Production"
+  PET_dredging_operation_desc:0 "“Board Report No. 537: Completion of Aquatic Repairs - Three of the drilling platforms that were not otherwise used for shipyards or scrapped were able to be repaired, and should begin production within the month. Many thanks to the Zheiroldas.” - Engineer-Captain of Great Rig 6"
+  PET_heavy_vessels:0 "Constructing the Paper Tiger"
+  PET_heavy_vessels_desc:0 "There’s no way we will currently be able to compete with our local rivals for naval dominance, but if we can make them think that our navy is larger or more advanced than theirs, maybe we can buy ourselves some time."
+
+  #left branch - 3
+
+  PET_shipping_department:0 "Department of Fulfillment"
+  PET_shipping_department_desc:0 "Why produce something if no one is going to consume it? While the Kompenni is largely self-sufficient, our excess resources do not always make it to where they are needed or wanted most. If we can bypass the treacherous jungles and mountains of Mexico using the sky we may be able to more efficiently meet the desires of the consumer, foreign or domestic."
+  PET_runway_clearing:0 "Petro-Aire"
+  PET_runway_clearing_desc:0 "The long, flat stretches of land needed to launch aircraft are rare in our corner of Mexico, but if we can manage to make some, then our aviation ambitions may yet come to fruition... if they can get off of the ground, of course."
+  PET_light_aircraft:0 "Puddlejumpers and Whirlybirds"
+  PET_light_aircraft_desc:0 "There are few, if any hires within our market share that have experience with aviation engineering. El Bord suggested beginning small, and with much trial and error, some of El Seeyo’s smartest friends may have somehow created basic working airplanes."
+  PET_heavy_aircraft:0 "Brahmin of the Heavens"
+  PET_heavy_aircraft_desc:0 "The miraculous success of our first small prop airplanes has caused El Bord to invest more resources into the aviation program, directing development to focus on flying haulcraft so that our resources are less vulnerable to local raiders on the ground."
+  PET_extra_funding:0 "The Great Convoy in the Sky"
+  PET_extra_funding_desc:0 "“Board Report No. 616: Formation Flights - After weeks of practice, our pilots have managed to assemble some loose formations that allow us to protect shipped products as well as conduct scouting and strikes on local raider populations. More funding is requested so that we may build on this idea and develop a proper Air Corps.” - Chief Aviator of Asset Protection Group 2"
+
+  #cincinnati reds branch *(mid)
+
+  PET_board_of_directors:0 "El Bord de Direction"
+  PET_board_of_directors_desc:0 "Before El Bord, the Anholists and the Kompenni were not much better than the raiders and empires that surrounded them. El Bord brought stability, wealth, and knowledge to the Petro-Chicans, and were happy to allow El Seeyo to continue his leadership as long as their portfolio remained profitable."
+  PET_yearly_report:0 "Bean Counters"
+  PET_yearly_report_desc:0 "A balanced budget is everything when you are the only thing standing between the world and B’aykruptsi. One of the primary responsibilities of El Bord is to record and manage the funds of the Kompenni to ensure that all remains running smoothly."
+  PET_industrial_investments:0 "Investing in Ourselves"
+  PET_industrial_investments_desc:0 "El Bord knows we don’t have many opportunities to diversify our portfolio, so we should hedge our bets on who we expect to win big in the coming years: us!"
+  PET_military_investments:0 "Automatics for the People"
+  PET_military_investments_desc:0 "“What is military-industrial complex? Making things to kill people is very simple.” - El Seeyo"
+  PET_united_portfolio:0 "Distributed Dividends"
+  PET_united_portfolio_desc:0 "We must continue to grow if we are to keep pace with our local competitors. Focusing on just one effort is a folly, we must invest in all of the opportunities available to boost our domestic industry as much as possible!"
+  PET_small_refining_efforts:0 "What We Do Best"
+  PET_small_refining_efforts_desc:0 "Petro-Chico is built upon the extraction of petro-liam, (it’s even in the name!) and there’s not yet any reason to change. May as well continue improving our extraction and utilization of our resources while we have the ability to. It must be what the Zheiroldas want, or else they would not have left us such opportunities here!"
+  PET_retrofitted_power:0 "Gas, Gas, Gas Power!"
+  PET_retrofitted_power_desc:0 "Petro-liam is a miracle substance, but one of its greatest current uses is the production of electricity! We should use our plentiful reserves to increase our electrical generation capacity in order to get ahead of our future consumption. Besides, it’s not like we’ll ever run out of the stuff, right? It comes out of the ground - it’s natural!"
+  PET_smelting_salvage:0 "Reusing the Remains"
+  PET_smelting_salvage_desc:0 "Unfortunately, not all of the titanic machines left to us by the Zheiroldas were capable of being repaired. To continue to honor the Zheiroldas, we will smelt down the skeletons for use in other holy projects to prove our devotion to their profits."
+  PET_index_the_complexes:0 "A Report to the Zheiroldas"
+  PET_index_the_complexes_desc:0 "The time has come - El Seeyo must present a report of all of our recent efforts to the Anholists and the Zheiroldas, and all we can do is hope that the Zheiroldas find our methods and outcomes acceptable. Hopefully he doesn’t screw it up."
+  PET_tech:0 "Profits of the Faith"
+  PET_tech_desc:0 "“My tribe, dun’t worry! I think we did ‘pretty good job, and I wud know that more than any’un else!” -El Seeyo"
+
+  #right branch - 1
+
+  PET_scientific_board:0 "Department of Innovation"
+  PET_scientific_board_desc:0 "The survivors of the First B’aykruptsi were blessed by their intelligence, piety, and force of will. We will continue that legacy by creating a department to ensure that we do not stagnate and allow our competitors to surpass us in scientific and commercial innovation."
+  PET_fund_research:0 "Beans for the Eggheads"
+  PET_fund_research_desc:0 "“Innovation Progress Report No. 1: Asset Allocation - While we are grateful to El Seeyo for opening his caches and funds to us, respectfully, I don’t know what he expects us to do with this junk. If El Bord wants us to make any real progress, we need a large infusion of proper funds and resources immediately.” - Captain of the Research Corps"
+  PET_additional_funding:0 "Development Incentives"
+  PET_additional_funding_desc:0 "“Re: Innovation Progress Report No. 1: Asset Allocation - While El Bord appreciates your concern and enthusiasm, it is important to recall that they are your superiors and should be spoken to with respect. In regards to your funding issue, we would be glad to allocate as many funds as you require so long as your research follows our guidelines. Deviation from this will be considered corporate espionage and you will be subject to disciplinary action.” - Secretary of El Bord"
+  PET_advanced_department:0 "Enact Commercial Protocols"
+  PET_advanced_department_desc:0 "Recent reports from the Anholists have indicated that mobile terminals for accessing Kompenni resources would reduce the strain on our logistical apparatus. Thanks to recent developments by our scientists, we have developed robots that can both defend themselves and others while still acting as Kompenni terminals."
+  PET_the_viceroyalty:0 "Expanding our Supply Chain"
+  PET_the_viceroyalty_desc:0 "We recently received an interesting proposal from beyond the machine god’s domain, with diplomats from the Viceroyalty suggesting an exchange of power and food for advanced knowledge about medicine and robotics. Developing a working relationship with one of the few competitors in Mexico that don’t want to acquire us seems like a good idea. El Bord approves!"
+
+  #right branch - 2
+
+  PET_tlaloc_has_fallen:0 "A Terrible Day for Rain"
+  PET_tlaloc_has_fallen_desc:0 "Buenas noches, nuestro querido amigo y guardián."
+  PET_reclaim_the_archives:0 "His Final Gifts"
+  PET_reclaim_the_archives_desc:0 "As Tlaloc ceased to be, one of his final protocols was to send us robotics technology for our safety. While he may be gone, these steel protectors will ensure that we will always remember his generosity and care for our people."
+  PET_revive_our_refineries:0 "Bunker Buzzards"
+  PET_revive_our_refineries_desc:0 "Much of the infrastructure that Tlaloc left behind across Mexico has decayed and been rendered useless, however it is possible to temporarily boost our construction efforts by scavenging some of the remaining technology before it too decays."
+  PET_reactivate_petronet:0 "Greater than the Sum"
+  PET_reactivate_petronet_desc:0 "While Mexico still grieves the loss of Tlaloc, some of our Anholists have uncovered documents regarding his creation and believe that a fragment of his original self may remain deep in his archives. If we could combine this remnant code with our dormant PetroNet, something new may emerge."
+  PET_reclaim_the_mantle:0 "Reclaiming the Mantle"
+  PET_reclaim_the_mantle_desc:0 "Tlaloc’s bastards dishonor his memory by fracturing Mexico after Tlaloc gave his life keeping it safe. As we hold the last remnant of the true Tlaloc, it is up to us to continue his mission for the sake of the Kompenni and all of Mexico."
+
+  #right branch - 3
+
+  PET_board_of_acquisitions:0 "Department of Acquisitions"
+  PET_board_of_acquisitions_desc:0 "We must remain aware of our local competitors in the Mexican theater so that we may respond to mismanagement or aggressive public relations in a competent and efficient manner, potentially allowing us to exponentially expand our market share."
+  PET_aztec_problem:0 "Local Rackets"
+  PET_aztec_problem_desc:0 "Much of the local market is either preoccupied with the robot armies and super mutants to the north, or is under the thumb of the two empires to the south. However, the southern situation appears to be escalating and we should be in position to take advantage of any openings."
+  PET_pacify_the_locals:0 "Loss Prevention Measures"
+  PET_pacify_the_locals_desc:0 "As the borders of the Kompenni grow, it is important to show the newly acquired hires why they should be grateful to now belong to the Zheiroldas and their chosen people. After all, who would act against those saving them from oblivion?"
+  PET_chichen_itza:0 "Kompenni Towns"
+  PET_chichen_itza_desc:0 "It is clear that our competitors to the south are looking to seize our market share. If we quietly fortify the border villages and replace their populations with our security personnel we may be able to catch them by surprise in the case of an invasion."
+  PET_strike_gods:0 "Follies of Man"
+  PET_strike_gods_desc:0 "To compare oneself to the holy presences of the Zheiroldas or other supposed gods is a degree of hubris that even El Seeyo would not stoop to. Let us show the hires of our competitors that their Speakers, Generals, and Kings are nowhere near divinity."
+  PET_recruitment_drive:0 "Everything for the Zheiroldas"
+  PET_recruitment_drive_desc:0 "If we are to achieve the goals of the Zheiroldas before the Anwell Report, our hires must be ready to give everything for the Zheiroldas and their profits. To this end, let’s increase the frequency of the Anholists’ sermons and encourage enlistment in the security force so that every hire is wholly devoted to our goals."
+
+  # Ideology Renaming # - added by Ardor
+  PET_rulerideology_longname:0 "El Seeyo's Leadership"
+  PET_rulerideology_shortname:0 "Chief Executive"
+  PET_peopleideology_longname:0 "Petro-Chican Citizens"
+  PET_peopleideology_shortname:0 "The Tribe"
+  PET_elitesideology_longname:0 "El Bord de Direction de Petro-Chico"
+  PET_elitesideology_shortname:0 "El Bord"
+  PET_intellectualsideology_longname:0 "Adherents of the Fixxelear"
+  PET_intellectualsideology_shortname:0 "Anholists"
+  PET_petronetideology_longname:0 "PetroNet Corporate Authority" # For when PetroNet becomes leader #
+  PET_petronetideology_shortname:0 "Digital Administrator"
+  
+  # Unique Decisions / Missions / Tooltips / Traits # - added by Ardor
+  PET_anwellreport:0 "The Anwell Report"
+  PET_anwellreport_desc:0 "The Third Quarter only foretold strife, whereas the Fourth Quarter is certain to conclude in judgement. The Anholiest has put his faith in El Seeyo to make sure the Petro-Chicans are ready to prove their worth."
+  PET_anwellreport_timer:0 "Zheiroldas' Judgement"
+  PET_anwellreport_timer_desc:0 "El Seeyo and El Bord need to make sure that the Petro-Chicans are deserving of the Zheiroldas' profits before the report comes due. The Kompenni and the world cannot afford another B'aykruptsi.\n\n HINT: You must reclaim the mantle and organize the departments into a functioning government behind El Seeyo by the time the Report comes due."
+  PET_petronet_formable:0 "Digital Administration"
+  PET_petronet_formable_desc:0 "Having melded PetroNet with the last remnants of Tlaloc, we will become the new protector of Mexico... we can't seem to find the nukes though."
+  PET_petronet_category:0 "Reintroducing PetroNet"
+  PET_petronet_category_desc:0 "Using what technology we have, we can integrate our revived PetroNet into our state functions. This should increase efficiency and lessen the load on our administration."
+  PET_submitreport:0 "The time has come to face the Zheiroldas. We will submit our successes for judgement, and hope they are enough."
+  PET_the_boards:0 "Representative of El Bord"

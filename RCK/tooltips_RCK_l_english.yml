@@ -1,0 +1,374 @@
+﻿l_english:
+RCK_roach_king_flees_east_tt:0 "§LIn a far, far, far off §!§MFuture Update,§! §Lthe Roach King will gather what little strength he has left and flee east torwards the §!§MCapital Wasteland.§!§L For now, he awaits his demise.§! \n\n §g(emphasis on the "far off" part of future update.)§!"
+RCK_hey_get_a_general_dimweed_tt:0 "§MThis focus has no effect since you don't have Sergeant Roach in your army!§!"
+RCK_roach_king_flees_east2_tt:0 "§YThe Roach King, battered and wounded, will gather the remnants of his roach army and flee weast towards the §MCapital Wasteland.§!"
+RCK_vault_war_tt:0 "§gThe Roach King is finally ready for his grand assault on Vault 37. He has developed a very specific strategy: Take §YVault 37§!.with the fall of Vault 37, Vault Tec Security will crumble without direct orders from their AI overseer. However, if Vault 37 pushes Roach King back to §MGrifton §!. The people will revolt. Causing the Roach King to flee the region entirely.§!"
+RCK_lost_vault_war_tt:0 "§LThe Roach King has failed to breach vault 37! He must flee and reorganize somewhere safe! Move quickly!§!"
+RCK_the_beast_awakens_tt:0 "A Roach has no sense of a nation state. With the Roach King dead, this primal sense has full control."
+RCK_vault_dweller_recruitment_tt:0 "Some more angsty citizens of Vault 37 want to feel the thrill of combat, we can assist with that."
+RCK_vault_war_victory_tt:0 "§MRoach King is victorius against Vault 37!§!"
+RCK_sister_roach_tt:0 "§8Sister Roach joins the party§!"
+RCK_the_jester_tt:0 "§8The Jester joins the party§!"
+RCK_tato_battery_tt:0 "§8Overseer THOMAS joins the party§!"
+RCK_sergeant_roach_recruit_tt:0 "§8Sergeant Roach joins the party§!"
+RCK_art_of_the_deal:0 "With Our Powers Combined!"
+statue_of_roach_king_tt:0 "§4Build a mighty statue of §YRoach King§!!§!"
+statue_of_sergeant_roach_tt:0 "§4Build a mighty statue of §RSergeant Roach§!!§!"
+statue_of_sirius_tt:0 "§4Build a mighty statue of §PSirius!§!§!"
+statue_of_sirius_secret_tt:0 "§4Build a statue dedicated to the §PBrightest Star§!.§!"
+RCK_under_new_management_tt:0 "§MAll states without cores gain +25% compliance§!"
+RCK_the_hidden_door_tt:0 "§LA Hidden Room deep in Vault 37, I wonder what could be inside? Perhaps we should look around for any clues of how to gain access.§!"
+RCK_the_hidden_door_open_tt:0 ""
+RCK_roach_swarm_wave_tt:0 "§RA new swarm of radroaches join the fight§!"
+RCK_blast_open_that_damn_door_focus_tt:0 "§LThe Hidden Room will become available to search§!"
+RCK_uh_oh_sphaghetti_oh_tt:0 "§RThis is a catastrophic escalation and will unite§! §YALL§! §Rour neighbors against us. Prepare accordingly.§!"
+RCK_prelude_tt:0 "§RDoing this so close to the border is a death wish...§!"
+RCK_they_cant_be_stopped_tt:0 "§RA new set of decisions to assist Sergeant Roach's control of the Roach Swarm will be unlocked§!"
+RCK_flirting_with_disaster_tt:0 "§RThe Nations who divided the Roach King's former land will unite against us. Prepare accordingly.§!"
+RCK_massive_wave_of_roaches_tt:0 "§RA massive wave of radroaches join your ranks§!"
+RCK_hidden_door_tt:0 "§LA keycard is bound to be around here somewhere...§!"
+RCK_the_throne_is_built_tt:0 "§LThe Roach King will begin building his throne in the capital wasteland, one piece at a time.§!"
+RCK_stool_found_tt:0 "§YTHRONE CONSTRUCTION:§! §G+Metal Stool Found!§!"
+RCK_rocket_found_tt:0 "§YTHRONE CONSTRUCTION:§! §G+Red Rocket Statue Found!§!"
+RCK_wave_one_tt:0 "§L (The Old Believers, Church of the Silo, Two Peoples)§!"
+RCK_hint_hint_tt:0 "§LThere sure seems to be a lot of holotapes lying around. Maybe one will be important for something? Let's look around and see if we can find it.§!"
+RCK_meeting_ant_agonizer_tt:0 "§LThe Roach King notices a strange commotion happening in§! §MCanterbury Commons§!"
+RCK_less_likely_tt:0 "§MLyon's Brotherhood§! §Lbecomes less threatened by Roach King§!"
+RCK_new_roaches_tt:0 "§LA new patrol of Radroaches is organized for a §!§MNorthern Defense§!"
+RCK_sergeant_roach_stronger_tt:0 "§tSergeant Roach Grows Stronger...§!"
+RCK_sergeant_roach_tougher_tt:0 "§8Sergeant Roach Grows Tougher...§!"
+RCK_sergeant_roach_smarter_tt:0 "§7Sergeant Roach Grows Smarter...§!"
+RCK_sergeant_roach_scrappy_tt:0 "§4Sergeant Roach Grows Scrappier...§!"
+RCK_sergeant_roach_MIGHTY_tt:0 "§OSergeant Roach Grows   <§!§tPO§!§8WE§!§7RF§!§4UL§!§O>§!   §O!§!"
+RCK_sergeant_roach_MIGHTY_x3_tt:0 "§O<3X MULTIPLIER ACTIVATED>§!"
+
+RCK_roaches_outsider_tt:0 "§8Reminder:§! §LRadroach Swarms best utilize the "§5Outsider Warfare§!" Doctrine§!"
+RCK_roaches_reminder_1_tt:0 "§8Reminder:§! §LRadroach Swarms are represented as "§5Insect Swarms§!" in the production tab§!"
+RCK_marked_for_death:0 "Marked For Death"
+RCK_marked_for_death_tt:0 "§8This character is §Rmarked for death§!, the world has plans for them soon§!"
+
+RCK_survival:0 "§8Reincarnation of the One True radroach§!"
+
+RCK_roach_king_trait_6_tt:0 "\n\n§gAs the reincarnation of§! §MThe One True Radroach§!§g,§! §RSergeant Roach§! §ghas been blessed with otherwordly abilities to aid his revenge against the wasteland that took the life of Roach King.§!\n\nAs §gSergeant Roach's rage grows...§!\n\n§8Radroaches will be§! §RControlled without error.§!\n\n§8Borders will be§! §RCrossed without warning.§!\n\n§8Resistance will be§! §RCrushed without mercy§!\n\n §gI only hope you're prepared for the curse you've unleashed upon this doomed world.§!"
+
+RCK_sergeant_roach_recruit_notice_tt:0 "§LHe may be weak now, but as §8Roach King's§! second in command, §8Sergeant Roach§! will be given plenty of opportunities to §4sharpen his skills...§!§!\n\n§8Reminder:§! §LSergeant Roach's §!§4"Skills being sharpened"§! §Lwill be represented as:§!\n\n§RAttack : Sergeant Roach grows stronger...§!\n§8Defense : Sergeant Roach Grows Tougher...§!\n§7Planning : Sergeant Roach Grows Smarter...§!\n§4Logistics : Sergeant Roach Grows Scrappier...§!"
+RCK_journey_end_tt:0 "§4The journey comes to an end§!"
+
+RCK_the_king_is_dead_tt:0 "§RThe Roach King is Dead§!"
+
+RCK_whatis_this_tt:0 "A... holotape? But it's rotten from neglect... the content seems incomprehensible. §YIf only we checked here sooner. It would've surely led to a different outcome.§!"
+
+#cosmetic tags #tran I am so sorry this is how you found this
+  RCK_phase_2_elites:0 "Legend of Roach King"
+  RCK_phase_2_elites_ADJ:0 "Roach King"
+  RCK_phase_2_elites_DEF:0 "The Legend of Roach King"
+  RCK_phase_2_intellectuals:0 "Legend of Roach King"
+  RCK_phase_2_intellectuals_ADJ:0 "Roach King"
+  RCK_phase_2_intellectuals_DEF:0 "The Legend of Roach King"
+  RCK_phase_2_people:0 "Legend of Roach King"
+  RCK_phase_2_people_ADJ:0 "Roach King"
+  RCK_phase_2_people_DEF:0 "The Legend of Roach King"
+  RCK_phase_2_ruler:0 "Legend of Roach King"
+  RCK_phase_2_ruler_ADJ:0 "Roach King"
+  RCK_phase_2_ruler_DEF:0 "The Legend of Roach King"
+
+  RCK_phase_3_elites:0 "Radroach Empire"
+ RCK_phase_3_elites_ADJ:0 "Radroach Empire"
+ RCK_phase_3_elites_DEF:0 "The Radroach Empire"
+ RCK_phase_3_intellectuals:0 "Radroach Empire"
+ RCK_phase_3_intellectuals_ADJ:0 "Radroach Empire"
+ RCK_phase_3_intellectuals_DEF:0 "The Radroach Empire"
+ RCK_phase_3_people:0 "Radroach Republic"
+ RCK_phase_3_people_ADJ:0 "Radroach Republic"
+ RCK_phase_3_people_DEF:0 "Radroach Republic"
+ RCK_phase_3_ruler:0 "Radroach Empire"
+ RCK_phase_3_ruler_ADJ:0 "Radroach Empire"
+ RCK_phase_3_ruler_DEF:0 "the Radroach Empire"
+
+  RCK_roach_swarm_two_elites:0 "Reign of Radroaches"
+  RCK_roach_swarm_two_elites_ADJ:0 "Radroaches"
+  RCK_roach_swarm_two_elites_DEF:0 "Reign of Radroaches"
+  RCK_roach_swarm_two_intellectuals:0 "Reign of Radroaches"
+  RCK_roach_swarm_two_intellectuals_ADJ:0 "Radroaches"
+  RCK_roach_swarm_two_intellectuals_DEF:0 "Reign of Radroaches"
+  RCK_roach_swarm_two_people:0 "Reign of Radroaches"
+  RCK_roach_swarm_two_people_ADJ:0 "Radroaches"
+  RCK_roach_swarm_two_people_DEF:0 "Reign of Radroaches"
+  RCK_roach_swarm_two_ruler:0 "Reign of Radroaches"
+  RCK_roach_swarm_two_ruler_ADJ:0 "Radroaches"
+  RCK_roach_swarm_two_ruler_DEF:0 "Reign of Radroaches"
+
+ RCK_ANT_elites:0 "Insect Dynasty"
+  RCK_ANT_elites_ADJ:0 "Ants and Radroaches"
+  RCK_ANT_elites_DEF:0 "The Insect Dynasty"
+  RCK_ANT_intellectuals:0 "Insect Dynasty"
+  RCK_ANT_intellectuals_ADJ:0 "Ants and Radroaches"
+  RCK_ANT_intellectuals_DEF:0 "The Insect Dynasty"
+  RCK_ANT_people:0 "Insect Dynasty"
+  RCK_ANT_people_ADJ:0 "Ants and Radroaches"
+  RCK_ANT_people_DEF:0 "The Insect Dynasty"
+  RCK_ANT_ruler:0 "Insect Dynasty"
+  RCK_ANT_ruler_ADJ:0 "Ants and Radroaches"
+  RCK_ANT_ruler_DEF:0 "The Insect Dynasty"
+
+  RCK_ROBO_elites:0 "RoboRoach Kingdom"
+  RCK_ROBO_elites_ADJ:0 "Radroaches"
+  RCK_ROBO_elites_DEF:0 "The RoboRoach Kingdom"
+  RCK_ROBO_intellectuals:0 "RoboRoach Kingdom"
+  RCK_ROBO_intellectuals_ADJ:0 "Radroaches"
+  RCK_ROBO_intellectuals_DEF:0 "The RoboRoach Kingdom"
+  RCK_ROBO_people:0 "RoboRoach Kingdom"
+  RCK_ROBO_people_ADJ:0 "Radroaches"
+  RCK_ROBO_people_DEF:0 "The RoboRoach Kingdom"
+  RCK_ROBO_ruler:0 "RoboRoach Kingdom"
+  RCK_ROBO_ruler_ADJ:0 "Radroaches"
+  RCK_ROBO_ruler_DEF:0 "The RoboRoach Kingdom"
+
+RCK_crook_elites:0 "Kingdom of Blattaria"
+  RCK_crook_elites_ADJ:0 "Blattarian"
+  RCK_crook_elites_DEF:0 "The Kingdom of Blattaria"
+  RCK_crook_intellectuals:0 "Kingdom of Blattaria"
+  RCK_crook_intellectuals_ADJ:0 "Blattarian"
+  RCK_crook_intellectuals_DEF:0 "The Kingdom of Blattaria"
+  RCK_crook_people:0 "Kingdom of Blattaria"
+  RCK_crook_people_ADJ:0 "Blattarian"
+  RCK_crook_people_DEF:0 "The Kingdom of Blattaria"
+  RCK_crook_ruler:0 "Kingdom of Blattaria"
+  RCK_crook_ruler_ADJ:0 "Blattarian"
+  RCK_crook_ruler_DEF:0 "The Kingdom of Blattaria"
+
+
+  RCK_roach_nest_roach_king_tt:0 "[Root.RCK_roach_nest_roach_king_tt]"
+  RCK_roach_nest_roach_king_inactive:0 "Roach King"
+  RCK_roach_nest_roach_king_active:0 "§GRoach King§!"
+
+  RCK_roach_nest_sergeant_roach_tt:0 "[Root.RCK_roach_nest_sergeant_roach_tt]"
+  RCK_roach_nest_sergeant_roach_mystery:0 "???"
+  RCK_roach_nest_sergeant_roach_inactive:0 "Sgt. Roach"
+  RCK_roach_nest_sergeant_roach_active:0 "§GSgt. Roach§!"
+
+  RCK_roach_nest_crookston_tt:0 "[Root.RCK_roach_nest_crookston_tt]"
+  RCK_roach_nest_crookston_mystery:0 "???"
+  RCK_roach_nest_crookston_inactive:0 "Crookston"
+  RCK_roach_nest_crookston_active:0 "§GCrookston§!"
+
+  RCK_roach_nest_sirius_tt:0 "[Root.RCK_roach_nest_sirius_tt]"
+  RCK_roach_nest_sirius_mystery:0 "???"
+  RCK_roach_nest_sirius_inactive:0 "Sirius"
+  RCK_roach_nest_sirius_active:0 "§GSirius§!"
+
+  RCK_roach_nest_thomas_tt:0 "[Root.RCK_roach_nest_thomas_tt]"
+  RCK_roach_nest_thomas_mystery:0 "???"
+  RCK_roach_nest_thomas_inactive:0 "THOMAS"
+  RCK_roach_nest_thomas_active:0 "§GTHOMAS§!"
+
+  RCK_roach_nest_rose_tt:0 "[Root.RCK_roach_nest_rose_tt]"
+  RCK_roach_nest_rose_mystery:0 "???"
+  RCK_roach_nest_rose_inactive:0 "Sister R."
+  RCK_roach_nest_rose_active:0 "§GSister R.§!"
+
+   RCK_roach_nest_jester_tt:0 "[Root.RCK_roach_nest_jester_tt]"
+  RCK_roach_nest_jester_mystery:0 "???"
+  RCK_roach_nest_jester_inactive:0 "The Jester"
+  RCK_roach_nest_jester_active:0 "§GThe Jester§!"
+
+  RCK_roach_nest_upgrade_tt:0 "[Root.RCK_roach_nest_upgrade_tt]"
+  RCK_roach_nest_upgrade_1:0 "§YTIER 1§!"
+  RCK_roach_nest_upgrade_2:0 "§GTIER 2§!"
+  RCK_roach_nest_upgrade_3:0 "§CTIER 3§!"
+
+
+  RCK_roach_nest_upgrade_desc_tt:0 "[Root.RCK_roach_nest_upgrade_desc_tt]"
+  RCK_roach_nest_upgrade_desc_1:0 "Click to upgrade Roach Nests to §G<TIER 2>§!,\n §YCOST:§! §g25,000 Radroaches§!\n\n §gRoach Nests currently generate§! §YRadroaches§!. \n\n§g(Irradiated Radroaches must be researched to upgrade)§!"
+  RCK_roach_nest_upgrade_desc_2:0 "Click to upgrade Roach Nests to §C<TIER 3>§!,\n §YCOST:§! §G25,000 Irradiated Radroaches§!\n\n §gRoach Nests currently generate§! §YIrradiated Radroaches§!. \n\n§g(Giant Radroaches must be researched to upgrade)§!"
+  RCK_roach_nest_upgrade_desc_3:0 "Roach Nests have reached the §CMAXIMUM LEVEL§!.\n\n §gRoach Nests currently generate§! §YGiant Radroaches§!."
+
+RCK_roach_nest_upgrade_desc_tt:0 "as"
+
+  RCK_scripted_cost_rk_tt:0 "[Root.RCK_scripted_cost_rk_tt]"
+  RCK_scripted_cost_buy:0 "Cost: 25pp \n§C"Who better for the job? It's Scuttle-and-Bustle time!"§!"
+  RCK_scripted_cost_fire:0 "Dismiss Roach King \n§C"Okay... this is a lot to handle all at once right now. Maybe I need a break..."§!"
+
+  RCK_scripted_cost_sr_tt:0 "[Root.RCK_scripted_cost_sr_tt]"
+  RCK_scripted_cost_mystery:0 ""
+  RCK_scripted_cost_buy_sr:0 "Cost: 25pp \n§g"SKSS SKSS SKSSS SKSS!"§!"
+  RCK_scripted_cost_fire_sr:0 "Dismiss Sergeant Roach \n§g"skss skss..."§!"
+
+  RCK_scripted_cost_c_tt:0 "[Root.RCK_scripted_cost_c_tt]"
+  RCK_scripted_cost_buy_c:0 "Cost: 25pp\n§2"I'm not gonna lie boss, I don't really know what I'm even supposed to do here."§!"
+  RCK_scripted_cost_fire_c:0 "Dismiss Crookston \n§2"Yeah, yeah.. fair enough. I'm struggling out here boss..."§!"
+
+  RCK_scripted_cost_s_tt:0 "[Root.RCK_scripted_cost_s_tt]"
+  RCK_scripted_cost_buy_s:0 "Cost: 25pp\n§p"EEK--! Why is it looking at me like that?!"§!"
+  RCK_scripted_cost_fire_s:0 "Dismiss Sirius \n§p"Remind me to burn these clothes after this.."§!"
+
+  RCK_scripted_cost_t_tt:0 "[Root.RCK_scripted_cost_t_tt]"
+  RCK_scripted_cost_buy_t:0 "Cost: 25pp\n§9"I.. Awaken... Again?"§!"
+  RCK_scripted_cost_fire_t:0 "Dismiss THOMAS\n§9"Such fascinating creatures..."§!"
+
+  RCK_scripted_cost_r_tt:0 "[Root.RCK_scripted_cost_r_tt]"
+  RCK_scripted_cost_buy_r:0 "Cost: 25pp\n§R"Let's Whip these insects into SHAPE!"§!"
+  RCK_scripted_cost_fire_r:0 "Dismiss Sister Roach\n§R"These idiots just don't seem to listen to anyone but Roach King..."§!"
+
+   RCK_scripted_cost_j_tt:0 "[Root.RCK_scripted_cost_j_tt]"
+  RCK_scripted_cost_buy_j:0 "Cost: 25pp\n§5"A glorious act these insects display. Let us master it as an art!"§!"
+  RCK_scripted_cost_fire_j:0 "Dismiss The Jester\n§5"Let go of my mask you pitiful insect! That is unbecoming of a radorach! UNHAND IT!"§!"
+
+
+toal_tt:0 "updated every ingame week."
+
+
+
+ RCK_roach_swarm_ranking_tt:0 "[Root.RCK_roach_swarm_ranking_tt]"
+  RCK_ranking_tier_1:0 "-Radroach-"
+  RCK_ranking_tier_2:0 "-Glowing Radroach-"
+  RCK_ranking_tier_3:0 "-Legendary Radroach-"
+  RCK_ranking_tier_4:0 "-Golden Radroach-"
+  RCK_ranking_tier_5:0 "-The One True Radroach-"
+
+
+  RCK_anti_cheat_tt:0 "[Root.RCK_anti_cheat_tt]"
+  RCK_cheater:0 "Anticheat.EXE - Invalid"
+  RCK_baller:0 "Anticheat.EXE - Valid"
+
+  RCK_anti_cheat2_tt:0 "[Root.RCK_anti_cheat2_tt]"
+  RCK_cheater2:0 "§R-ironman mode turned on§!"
+  RCK_baller2:0 "§G-ironman mode turned on§!"
+
+  RCK_anti_cheat3_tt:0 "[Root.RCK_anti_cheat3_tt]"
+  RCK_cheater3:0 "§R-an unmodified version of the game§!"
+  RCK_baller3:0 "§G-an unmodified version of the game§!"
+
+  RCK_anti_cheat4_tt:0 "[Root.RCK_anti_cheat4_tt]"
+  RCK_cheater4:0 "§R-regular difficulty or above§!"
+  RCK_baller4:0 "§G-regular difficulty or above§!"
+
+
+
+  RCK_gameover_tt:0 "§RGAMEOVER.EXE§!"
+  RCK_ui_info_tt:0 "§granks are determined by your final score\n (§LStates Controlled§!)§!\n §R1-25§! = Radroach\n §O26-50§! = Glowing Radroach\n §Y51-75§! = Legendary Radroach\n §G76-99§! = Golden Radroach\n §M100+§! = The One True Radroach"
+
+  RCK_brainrot_tt:0 "[Root.RCK_brainrot_tt]"
+  RCK_YYY:0 "§gvalid runs for submission must be played with:§!\n §G-an unmodified version of the game§!\n §G-ironman mode turned on§!\n §G-regular difficulty or above§! \n\n§gThat means you pass! Feel free to share your score in the OWB Discord or Reddit and compete amongst others!§!"
+  RCK_YNY:0 "§gvalid runs for submission must be played with:§!\n §G-an unmodified version of the game§!\n §R-ironman mode turned on§!\n §G-regular difficulty or above§!"
+  RCK_YNN:0 "§gvalid runs for submission must be played with:§!\n §G-an unmodified version of the game§!\n §R-ironman mode turned on§!\n §R-regular difficulty or above§!"
+  RCK_NYN:0 "§gvalid runs for submission must be played with:§!\n §R-an unmodified version of the game§!\n §G-ironman mode turned on§!\n §R-regular difficulty or above§!"
+  RCK_YYN:0 "§gvalid runs for submission must be played with:§!\n §G-an unmodified version of the game§!\n §G-ironman mode turned on§!\n §R-regular difficulty or above§!"
+  RCK_NYY:0 "§gvalid runs for submission must be played with:§!\n §R-an unmodified version of the game§!\n §G-ironman mode turned on§!\n §G-regular difficulty or above§!"
+  RCK_NNY:0 "§gvalid runs for submission must be played with:§!\n §R-an unmodified version of the game§!\n §R-ironman mode turned on§!\n §G-regular difficulty or above§!"
+  RCK_NNN:0 "§gvalid runs for submission must be played with:§!\n §R-an unmodified version of the game§!\n §R-ironman mode turned on§!\n §R-regular difficulty or above§!"
+
+warning_tt:0 "§RReminder:§!§g You've reached the gameover screen and currently have a §R-90%§! attack debuff modifer. likewise, Your speedrun timer will no longer be updated. (your state counter can still change, careful when unpausing!) \n\n You are highly encouraged to end your playthrough here. However the mod won't break if you decide to keep playing and see what happens. \n\n(you're just going to lose very quickly)§!"
+
+  RCK_river_warning_tt:0 "[Root.RCK_river_warning_tt]"
+  RCK_river_warning_1:0 "§YThe Republic of Three Rivers§! is §Rnot§! a fan of this agreement."
+  RCK_river_warning_2:0 "§YThe Republic of Three Rivers§! is §Rgrowing angry§! over this agreement."
+  RCK_river_warning_3:0 "§YThe Republic of Three Rivers§! is §Rmobilizing for war§! over this agreement. It appears you've taken too long."
+
+
+  RCK_image_bonus_rk_tt:0 "Roach King\n§G+150 Radroaches/Week§!\n §G+1% Ruler Drift/Week§!\n§R-3 Political Power Drain/Week§!\n\n§gUtilizing Roach King to manage Roach Nests is a very safe decision. But doing so will take him away from crucial leadership decisions.§!"
+  RCK_image_bonus_sr_tt:0 "Sergeant Roach\n§G+300 Radroaches/Week§!\n §R-5 Manpower/Week§!\n\n§gUtilizing Sergreant Roach will produce a ridiculous amount of radroaches! But will come at the cost of public safety...§!"
+  RCK_image_bonus_c_tt:0 "Crookston\n§G+110 Radroaches/Week§!\n §G+1 Army Experience Gain/Week§!\n§R-2 Political Power/Week§!\n\n§gCrookston is new to this whole "Roach Nest" thing, but he's giving it his best shot! And is learning alot about leadership along the way! Keep going Crookston! You're doing great!§!"
+  RCK_image_bonus_s_tt:0 "Sirius\n§G+99 Radroaches/Week§!\n §G+10 Civilian Population/Week§!\n §R-1 Political Power/Week§!\n\n§gSirius isn't quite familiar with proper radroach handling, and she proudly boasts her lack of interest to learn! She's instead using this job to promote safer living in the Roach King's land. That's more her thing.§!"
+  RCK_image_bonus_t_tt:0 "Overseer Thomas (Tato Battery)\n§G+140 Radroaches/Week§!\n §G+1 Political Power Gain/Week§!\n\n §R-20 Energy Cell Drain/Week§!\n§gThe former AI Overseer of Vault 37, now repurposed for highly efficient Roach Nest management. But it's going to cost more than just a tato as power for this job.§!"
+  RCK_image_bonus_r_tt:0 "Sister Rose\n§G+100 Radroaches/Week§!\n §G+1 Army Experience Gain/Week§!\n §R-2 Political Power Drain/Week§!\n\n§gThe leader of the Children of Atom in Roach King's domain, despite her impressive military prowess, her anger is causing some issues.§!"
+  RCK_image_bonus_j_tt:0 "The Jester\n§G+100 Radroaches/Week§!\n §G+1% Stability/Week§!\n §R-7 Command Power/Week§!\n\n§gThe Jester has shown superb capabilities in regional administration. Surely this has to be coming at the cost of something, right?§!"
+  RCK_hover_boys_tt:0 "When we appear, it means we're active!"
+
+  RCK_personal_cohort:0 "Personal Cohort"
+  RCK_brave_new_roaches:0 "Brave New Roaches"
+  RCK_calling_all_roaches_mp:0 "Calling All Roaches!"
+  RCK_every_last_nest:0 "Every Last Nest"
+  RCK_roach_swarms:0 "Roach swarms"
+  RCK_full_party:0 "It's a Full Party!"
+
+  RCK_roach_king_trait_1_tt:0 "Radroach Attack: §G+5%§!\n   - Radroach Defense: §G+5%§!\n Radroach Loyalty: §YShaky§!"
+  RCK_roach_king_trait_2_tt:0 "  - Radroach Attack: §G+10%§!\n  - Radroach Defense: §G+10%§!\n Radroach Loyalty: §GRevitalized!§!"
+  RCK_roach_king_trait_3_tt:0 "  - Radroach Attack: §G+15%§!\n  - Radroach Defense: §G+15%§!\n Radroach Loyalty: §MUnbreakable Bond§!"
+  RCK_roach_king_trait_4_tt:0 "  - Radroach Attack: §G+10%§!\n  - Radroach Defense: §G+10%§!\n Radroach Loyalty: §Rdisintegrating§!"
+  RCK_roach_king_trait_5_tt:0 "  - Radroach Attack: §G+10%§!\n  - Radroach Defense: §G+10%§!\n Radroach Loyalty: §MSecured§!"
+
+
+
+RCK_defeating_antagonizer:0 "§LThe Roach King will ally with§! The Mechanist§L to defeat §PThe Antagonizer§! §Land save§! §MCanterbury Commons!§!"
+RCK_defeating_mechanist:0 "§LThe Roach King will ally with§! §PThe Antagonizer§!§L to defeat§! The Mechanist §Land destroy§! §MCanterbury Commons!§!"
+RCK_antagonizer_recruit:0 "§8The Antagonizer joins the party§!"
+RCK_mechanist_recruit:0 "§8The Mechanist joins the party§!"
+
+
+RCK_crow_reach_out_tt:0 "§pYou need metal for fortifications? Sure! We can help with that!§!"
+RCK_klept_reach_out_tt:0 ""§pHey... MY CAPS ARE GONE! I can't believe they would... hmph! Fine! Take it as a sign of our support! (What jerks!)§!""
+RCK_rock_reach_out_tt:0 ""§pThey asked if Brahmin herders could let their herd graze on our land up to the Sioux river. That's.. fine...? For now at least...§!""
+RCK_sirius_comment_1_tt:0 ""§pI heard the Republic of Three Rivers wants to make you all client states... But who knows... I just hear things...§!""
+RCK_sirius_comment_2_tt:0 ""§pI heard the Metis Congress wants to take Brandon for themselves... and The Old Believers... They don't seem that happy getting nothing...§!""
+RCK_sirius_comment_3_tt:0 ""§pYikes! They do NOT seem happy with our meddling... It might time to start preparing for the inevitable...§!""
+RCK_sirius_comment_4_tt:0 ""§pSee! I knew we could make this work! Let's give it our all!§!""
+
+RCK_momentum_setter:0 "Momentum Tracker: Inbound!"
+RCK_feel_the_momentum:0 "Feel the Momentum"
+RCK_no_momentum_left:0 "No Momentum Left!"
+RCK_momentum_tracker_C:0 "My head is spinning!"
+RCK_momentum_tracker_G:0 "§PDon't give up.§!"
+
+ RCK_momentum_tracker_tt:0 "[Root.RCK_momentum_tracker_tt]"
+  RCK_momentum_tracker_T_primary:0 "Hear the clock ticking?"
+  RCK_momentum_tracker_T_secondary:0 "§RYou didn't run out of momentum did you?§!"
+
+acronym_list_tt:0 "Acronym terms:\n\n PP = Political Power\n MP = Manpower\n EC = Energy Cell\n CP = Command Power"
+
+RCK_sanity_meter_tt:0 "§RThe Sanity Meter becomes active.§!"
+
+RCK_throne_construction_becomes_active_tt:0 "§YTHRONE CONSTRUCTION:§! §M-Becomes Active-§!"
+
+RCK_journey_end_crookston_tt:0 "§4This one's for you boss. I won't let you down."
+
+RCK_less_insane_tt:0 "Things feel a little easier to manage.\n §YThe Roach King's sanity strengthens§!"
+
+RCK_dont_forget_tt:0 "Also, you can upgrade your Roach Nests at any time in the §YTop Left Corner§! of your Roach Nests Menu UI!"
+
+RCK_project_puppet:0 "Project Puppet: Initiated"
+RCK_not_the_roach_king:0 "Not Roach King"
+RCK_not_roach_king_tt:0 "try as you might Crookston, at the end of the day. You're not the Roach King."
+
+RCK_elites_party:0 "Roach Swarms"
+RCK_people_party:0 "Revolutionaries"
+RCK_intellectuals_party:0 "Human Loyalists"
+
+
+state_1201_RCK_2:0 "Roach King's Throne"
+state_1201_crookston:0 "Blattaria"
+state_1201_RCK_1:0 "Vault of Roach King"
+state_1302_RCK:0 "Canis Majoris"
+state_1250_RCK:0 "Regi Valley"
+state_1092_RCK:0 "Theater of Roach King"
+state_1308_RCK:0 "Resting Site of Roach King"
+state_1308_RCK_1:0 "Radroach Refuge"
+state_1307_RCK:0 "Lake Radroach"
+
+
+RCK_states_10:0 "10 STATES - GETTING STARTED"
+RCK_states_10_desc:0 "Impressive start. But we're just getting started."
+RCK_states_20:0 "20 STATES - HEATING UP"
+RCK_states_20_desc:0 "Things are beginning to heat up. But there's a lot left to go. "
+RCK_states_30:0 "30 STATES - MOVING ALONG"
+RCK_states_30_desc:0 "Now we're getting somewhere! move along now!"
+RCK_states_40:0 "40 STATES - CRUISING FAST"
+RCK_states_40_desc:0 "Cruising along, demolishing anyone in our path!"
+RCK_states_50:0 "50 STATES - GOING FAR"
+RCK_states_50_desc:0 "Keep the momentum up! We're going to be unstoppable!"
+RCK_states_60:0 "60 STATES - DREAMING BIG"
+RCK_states_60_desc:0 "Dream big little radroach! We're reaching for the stars!"
+RCK_states_70:0 "70 STATES - REACHING HEIGHTS"
+RCK_states_70_desc:0 "We've gone where no radroach has gone before... We can't stop now!"
+RCK_states_80:0 "80 STATES - BREAKING LIMITS"
+RCK_states_80_desc:0 "To achieve what no one thought possible... to surpass our own limitations!"
+RCK_states_90:0 "90 STATES - CLEANING UP"
+RCK_states_90_desc:0 "Time is ticking... Time is ticking... time is ticking..."
+RCK_states_100:0 "100 STATES - PUSHING ONWARD"
+RCK_states_100_desc:0 "You're on your own now. Push as far as you can. I believe in you."
+##I don't know if my messages are getting out. Can anything get out of this vault's walls? Can anyone hear me? Hello???
+
+#vault 37#
+VTS_burn_roaches_tt:0 "§YVault-Tec Security will move into Cando and exterminate the radroach nest that has proped up there.§!"
+ VTS_robobrain_studies_tt:0 "By looking at the code and hardware of the Overseer's Robobrain Advisors. We will root out any unintended consequences."
+
