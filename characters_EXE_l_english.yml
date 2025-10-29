@@ -1,0 +1,640 @@
+﻿l_english:
+
+EXE_CHIEF_EXECUTIVE_MCKINLEY_NAME: ""Chief" Executive McKinley"
+EXE_CHIEF_EXECUTIVE_MCKINLEY_DESC: "The newest CEO of Vault-Tec, known to her subordinates as Chief Executive, McKinley won her position during the annual “Hostile Takeover” in 2271, and has retained it since. Utilising advanced technology and research carried out of the Corporate Vault, McKinley has spearheaded a number of “buyouts” in New Mexico, expanding the Vault-Tec family of “franchised communities.” Even if she'd rather have just killed them all and looted their corpses.\n\nAs the CEO, McKinley has been forced to give up her varied hobbies in pursuit of higher profit margins and monthly growth. Painting walls with entrails, shooting jet, riding shotgun in raids- she can do none of it now. In return however, she can do something no one else can: begin new Vault experiments, just for fun!"
+EXE_CHIEF_EXECUTIVE_MCKINLEY_SECOND_DESC:0 "McKinley has over the last several years had immense success as the CEO of the Executives, enough so that the group has outgrown not just their home in exile but even what they had in the corporate vault. In recognition of the company's rise from the ashes, a more traditional corporate structure has been revived. Gone are the hostile takeovers where McKinley would beat her challengers to death, gone is the supremacy of security staff over the other divisions. She has now become a legend in the company and will go down in history as the woman who brought Vault-tec back from the dead.\n\nUnfortunately for her, as her respectability goes up so does her responsibilities. Meetings with the board, actual audits, acting semi-professional, it's only become harder for her to find some time for fun. Instead she must settle for pride in what she's created, the admiration of her staff, and the comfort of a vault-shine lunch. She is still however a very dangerous woman, and anyone getting on Vault-Tec's bad side will learn that quickly enough."
+EXE_shaky_sobriety:0 "Shaky Sobriety"
+EXE_no_more_chems:0 "No More Chems"
+EXE_chief_offensive_officer:0 "Chief Offensive Officer"
+EXE_reformed_ceo:0 "The Reformed CEO"
+EXE_sadistic_architect:0 "Sadistic Architect"
+
+EXE_ERIC_SMITH_NAME:0 "Eric Smith"
+EXE_PETER_GARNETT_NAME:0 "Peter Garnett"
+EXE_RICHARD_IVERSON_NAME:0 "Richard Iverson"
+EXE_FELIX_TERRELL_NAME:0 "Felix Terrell"
+
+EXE_CARTER_NAME:0 "CRO Carter"
+EXE_due_diligence:0 "Due Diligence"
+EXE_carter_advisor_desc:0 "Chief Research Officer Jeanette Carter is the head of all engineering and science related wings of the Executives and the de facto head of the scientist 'caste' that exists within the group. She is a driven and passionate woman, dedicated to scientific principles and advancing the Vault-Tec legacy of experimental brilliance. All that is to say she takes her job seriously and often butts heads with CEO McKinley over the details and procedures of research. It is not to say that she is a soft or kindly scientist; she is more pragmatically concerned over waste of material than she is interested in the ethical concerns of throwing away lives. Despite their bickering Carter is close with McKinley after growing up together and is loyal to her in everything but experimental procedures. \n\nHer principal field of research is genetic engineering, and has inherited some of the last notes the executives maintain about the FEV research conducted in the corporate vault. It is Carter who pushes to investigate and research wasteland creatures for anything that can be gained, and her boldness has made her relatively popular with even the security staff. After all, even Vault-Tec's finest would rather have some monster die in their place."
+EXE_carter_leader_desc:0 "Chief Research Officer Jeanette Carter is the head of all engineering and science related wings of the Executives and the de facto head of the scientist 'caste' that exists within the group. She is a driven and passionate woman, dedicated to scientific principles and advancing the Vault-Tec legacy of experimental brilliance. All that is to say she takes her job seriously and often butts heads with CEO McKinley over the details and procedures of research. It is not to say that she is a soft or kindly scientist; she is more pragmatically concerned over waste of material than she is interested in the ethical concerns of throwing away lives. Despite their bickering Carter is close with McKinley after growing up together and is loyal to her in everything but experimental procedures. \n\nHer principal field of research is genetic engineering, and has inherited some of the last notes the executives maintain about the FEV research conducted in the corporate vault. It is Carter who pushes to investigate and research wasteland creatures for anything that can be gained, and her boldness has made her relatively popular with even the security staff. After all, even Vault-Tec's finest would rather have some monster die in their place.\n\nSomehow she's found herself in charge of the Executives as a whole, but she's determined to make the most of it."
+
+EXE_MIRANDA_NAME:0 "Miranda Grissom"
+EXE_inhumane_resources:0 "Inhumane Resources"
+EXE_miranda_advisor_desc:0 "Miranda Grissom is the current Head of Human Resources at Vault-Tec. Her responsibilities include vetting new potentials and the upkeep of employee morale. Miranda is a personable and charming woman who knows how to get people on her side, and if need be, where to stab a person to make them squeal.\n\nMiranda is well known for her entertaining exercises. She prides herself on coming up with the latest and greatest methods of motivating Vault-Tec's employees. The staff fondly reminisce about going on a raid of the Steamboat Springs Resort Hotel, where they all got a chance to swim in the pool. Who could forget when she had them work together to find the most efficient way to torture that tied up Mutant? Indeed, Miranda Grissom's events are to die for!"
+
+EXE_LOUIS_NAME:0 "Louis Lofton"
+EXE_organized_raider:0 "Organized Raider"
+EXE_louis_advisor_desc:0 "Louis Lofton is formerly of the Longknife Long Knives, a raider gang of some regional renown. Louis always used to say that for what they lacked in creativity they made up for in effectiveness.\n\nChased from their territory by the onset of the Monster of the East, the Long Knives scattered on the winds, never to see each other again. Louis got a position with the Executives, and while he's happy to be taken in by someone, he has come to loathe the ridiculous eccentricities of their organization. He figures that for all they have in creativity they lack in effectiveness.\n\nLouis has put what small clout he has behind the good Dr. Carter, who he hopes will talk some sense into the lunkheads that run this outfit. Perhaps he'll recapture the glory days of the Long Knives yet."
+
+EXE_LESLIE_NAME:0 "Leslie Schade"
+EXE_bean_counter:0 "Bean Counter"
+EXE_leslie_advisor_desc:0 "Leslie Schade is the Head of Accounting at Vault-Tec. Her responsibility is keeping extensive financial records regarding the corporation's business practises.\n\nLeslie effectively inherited the position of her father. At first she thought it would mean a step up in the world, a chance to prove herself.\n\nThen she experienced the reality of trying to do accounts for an organisation with contempt for accounting. McKinley and her nutcases don't care about leaving accurate reports about their activities. Leslie typically finds out that thousands of caps worth of slaves were turned into a fine paste for an "experiment" a week after it happened. Assets are taken from warehouses without notice, and when Leslie tries to track them down they are often shoved in her face. She is then told to "get out of (the new owner's) face".\n\nLeslie learned that her father died of cirrhosis of the liver. After everything she has experienced, she is following in his footsteps once again."
+
+EXE_ANGUS_NAME:0 "Angus "Carnage" Carnegie"
+EXE_explosive_art:0 "The Art of Explosion"
+EXE_angus_advisor_desc:0 "Angus Carnegie is the current Head of Engineering. Such as things are, his role typically involves finding ways to implement inventive and horrible weapons. For instance, he is awfully fond of his "Blow-Me-Up Buttercup" idea, having the old Buttercup toys deliver explosive goodness to denizens of the wasteland. He also patted himself on the back for coming up with Barbed Tripwires, first deluding the victim into thinking they just cut themselves, only to find themselves cut to ribbons by a much worse trap.\n\nTo Angus, his work is an artform. It cannot be rushed, streamlined or simplified. Pain and misery must be delivered with expert precision and preferably maximum collateral damage. It would be a grievous disappointment to his moniker if anything less occurred."
+
+EXE_faceless_goon:0 "Right Hand Man"
+EXE_eric_advisor_desc:0 "Eric Smith is Vault-Tec's Chief of Security. He recently assumed the position by "promotion", proving he was better suited to the role by killing the previous Security Chief in sanctioned combat.\n\nThe simple fact is Eric Smith is McKinley's man, and the previous Security Chief wasn't. Whoever controls security controls Executive power, and thus McKinley controls security via Eric Smith. She groomed him for the role because he was tough enough to fight well and more importantly unambitious, not seeking to climb the corporate ladder and content to be paid and enjoy a solid position. The perfect subordinate to avoid any creative means of bypassing the Hostile Takeover.\n\nThe Hostile Takeovers are just so much more fun compared to some cloak and dagger coup."
+
+EXE_GALLO_NAME:0 "Timothy Gallo"
+EXE_polite_relations:0 "Polite Relations"
+EXE_gallo_advisor_desc:0 "Tim was raised on stories from his father of a time when Vault-Tec Security was a respectable institution. They patrolled the pristine halls of the old Vault with dignity, calmly and politely shuffling the Dwellers to their various activities. He always lamented what they'd been driven to, acting like savages, beating each other as much as anyone else. \n\nNow a veteran security officer, Tim Gallo is trying to bring back a little of that world of stories. Respectability, cooperation, a polite handshake. He's even pioneered initiatives to stabilize relations with Vault-Tec's new "franchised communities", hoping to get less quivering in fear and more mutually profitable relations. Sure, it might result in them handing over locals to a life of slavery and experimentation, but if we're all profiting in a stable manner, isn't that what matters?"
+
+EXE_AMELIA_NAME:0 "Amelia Morgan"
+EXE_motivational_manager:0 "Motivational Manager"
+EXE_amelia_advisor_desc:0 "Amelia has been a manager for some time now, but only recently has she been appointed to head McKinley's "Motivational Movement", an office-cultural campaign intended to bring a breath of fresh air to Vault-Tec. After recently realising that the Executives had a problem with lazy, leeching managers, McKinley has decided they need to motivate those that weren't recently laid off to do better. This is where Amelia comes in, bringing innovative solutions to encourage her fellow employees to give their all for the company. \n\nAmelia knows that fear is a powerful motivator, so she has trialed "Hotseat Days" where an employee has to complete a set amount of work within the time limit to receive the key to their ever-beeping bomb collar. Other under-performing employees are invited to watch to remind them of what might happen if they can't live up to Executive Expectations. \n\nSome might decry the deaths of their fellow employees, but McKinley needs people with killer instinct, and Amelia will embody that while getting others to follow suit."
+
+EXE_NATALIE_NAME:0 "Natalie Pound"
+EXE_armour_cutting:0 "Armour Cutting"
+EXE_natalie_advisor_desc:0 "Natalie is currently the Director of Armour Production at Vault-Tec. The position has been recently introduced due to the need of the Executives to field more armoured units to extend control over their franchised territories and communities. As an experienced technician, Natalie was thrust into the role and has held it for some time. \n\nOwing to growing pressure on the organisation, Natalie has been pushed harder and harder to pump out products with shorter and shorter deadlines. With the influx of new talent from what some might call "less reputable" sources, Natalie has made a series of corner-cutting innovations based on "wasteland models". A few parts stripped here, a few substandard alloys there, and some wiring that could be generously described as "jury rigged" wherever needed. \n\nMaybe some dumb bastard will die due to equipment failure, but the bosses are happy as long as numbers are met and at the end of the day Vault-Tec wins."
+
+EXE_PEGGY_NAME:0 "Peggy"
+EXE_tour_captain:0 "Tour Boat Captain"
+EXE_peggy_advisor_desc:0 "§g"The fuck do you mean, was I 'integrated'? I don't need no assimilation, idiot."§! \n\nPeggy is a river boat captain from New Montrose. She makes a fairly modest living carrying passengers up and down the local waterways. She pays a cut of her profits every time she passes through our territory. \n\nOne member of Security alleged that she has a more profitable business on the Colorado, but that report is unsubstantiated and rather absurd. Like old Gladhand Gallo tells McKinley, there's no point extorting a paying customer over rumours alone."
+
+EXE_MR_BUDDY_NAME:0 "Mr. Buddy"
+
+EXE_elites_party_long:0 "Board of Directors"
+EXE_elites_party_short:0 "Directors"
+
+EXE_intellectuals_party_long:0 "Carter’s Science Division"
+EXE_intellectuals_party_short:0 "Science Division"
+
+EXE_ruler_party_long:0 "Chief Executive Rule"
+EXE_ruler_party_short:0 "Chief Executive Rule"
+
+EXE_people_party_long:0 "Franchisee Council"
+EXE_people_party_short:0 "Franchisee Council"
+
+  #executives focus
+  #Background
+  exe_focus_1_name_key:0 "Hedging Investments"
+  exe_focus_1_desc_key:0 "We came from humble beginnings, only the greatest company on Earth."
+  exe_focus_2_name_key:0 "Stocks At An All Time Low"
+  exe_focus_2_desc_key:0 "Hard times eventually come for everyone, and we had the hardest of all."
+  exe_focus_3_name_key:0 "Line Goes Up"
+  exe_focus_3_desc_key:0 "We’re bouncing back now, despite everything the world threw at us. And we’re coming back with a vengeance."
+
+  #New Mexico Branch
+  exe_business_is_good:0 "Business Is Good"
+  exe_business_is_good_desc:0 "The Executives have ruled in their own little pocket of New Mexico for decades. Pushed out of the Corporate Vault by the efforts of Attis and the Initiate long ago, they have since enjoyed a cushioned life harassing the unsuspecting populace. To McKinley's regime, business has become better than ever, but when faced with rumors of the Legion moving east, things may be changing for the worse..."
+
+  exe_emergency_hiring:0 "Emergency Hiring Initiative"
+  exe_emergency_hiring_desc:0 "The Bull is coming and it’s gonna take everything we’ve got to stop them buying us out. More than what we’ve got. Offer a job to anyone with a pulse and an attitude and if we live we can downsize them later."
+
+  exe_expansion_opportunities:0 "Expansion Opportunities"
+  exe_expansion_opportunities_desc:0 "The Legate and his company went bankrupt but the chaos they caused has left the door open for another enterprising group to stake their claim.\n\nUs."
+
+  exe_kings_of_new_mexico:0 "Kings Of New Mexico"
+  exe_kings_of_new_mexico_desc:0 "Like some folks once said: "King's dead." With the fall of the Monster, we're top dogs on this side of the Pecos, things are finally looking up for us again. Now, without him to worry about, we can turn our eyes back on the real prize... The Corporate Vault."
+
+  #Political Branch
+  exe_lethal_layoffs:0 "Lethal Layoffs"
+  exe_lethal_layoffs_desc:0 "Many of the Executives are freeloaders-- the sort that hang around for a paycheck and don't respond nicely to a call to action, even with a team meeting or the proper sort of pep talk to get things going. Why don't we promote the sort that matter and lay off the bad eggs permanently?"
+
+  exe_call_of_science:0 "The Call of Science"
+  exe_call_of_science_desc:0 "From the lowliest intern to the highest echelons of executive power, all those with the spirit of Vault-Tec in their blood feel the call of Experimentation. But not everyone agrees on how to go about it."
+
+  exe_bug_rancher:0 "Bug Ranching Crash Course"
+  exe_bug_rancher_desc:0 "Back at home the eggheads were making good on delivering monster bugs to eat our enemies. We need them back, and before the end of the quarter!"
+
+  exe_pump_it_up:0 "Pump Up The Volume"
+  exe_pump_it_up_desc:0 "The radbugs are coming along but they need to be bigger. Throw as many caps or interns at the problem as needed."
+
+  exe_frontline_future:0 "The Frontline Of The Future"
+  exe_frontline_future_desc:0 "The old radbug project back in the home vault had real potential, and with some of the leftover notes and cautious research we can likely revive it. This will be the way moving forward."
+
+  exe_trials_and_tests:0 "Trials And Tests"
+  exe_trials_and_tests_desc:0 "The insects are responding well, and early tests are promising. We take our time with this and we’ll have something of real use."
+
+  exe_greater_field_testing:0 "Greater Field Testing"
+  exe_greater_field_testing_desc:0 "The bugs are good enough for now. Get 'em out there. The project was certifiably a success."
+
+  #Experiments Branch
+  exe_memories_of_the_secret_vault:0 "Memories Of A Secret Vault"
+  exe_memories_of_the_secret_vault_desc:0 "Once we were in a pocket of our own paradise, nestled in the Corporate Vault for years. Our tranquility wasn't perfect, but it was much better than out here, that's for sure. We've given ourselves a fair deal, but we could have so much more... For now, we'll dream, but one day we'll be back."
+
+  exe_better_beast_underground:0 "A Better Beast Underground"
+  exe_better_beast_underground_desc:0 "The FEV research wing is in bad shape but we’ve found one lab still partly intact. Luckily for us it was the lab researching Deathclaws and not the one that was trying to weaponize wasps. That probably would’ve gotten out of hand."
+
+  exe_claws_out:0 "Claws Out"
+  exe_claws_out_desc:0 "We’ve managed to get our Deathclaw research back online, and the first subjects are already raring to go on field tests. We’ll need to find something to test them on..."
+
+  exe_eye_of_deathclaw:0 "Eye Of The Deathclaw"
+  exe_eye_of_deathclaw_desc:0 "Carter has managed to actually improve on one of the old home vault designs, finding a way to cure the poor eyesight our Deathclaws suffered from. These vision benefits can extend to the whole FEV team!"
+
+  exe_battlin_beasts:0 "Battlin Beast Units"
+  exe_battlin_beasts_desc:0 "The Deathclaws we’ve been hatching were a little stunted up to now. A little extra FEV though and we’re looking at some mean beasties. Can’t wait to watch them get to work."
+
+  exe_metallic_sciences:0 "Metallic Sciences Division"
+  exe_metallic_sciences_desc:0 "In the ruins we’ve begun uncovering the shattered pieces of our old Robotics, Weaponry, and Armor research labs. It’s a nightmare finding anything intact but we have to start somewhere."
+
+  exe_gun_electric:0 "The Gun Electric"
+  exe_gun_electric_desc:0 "Getting our electric weaponry division back online is going to be nearly impossible, but we can take what materials are left and apply them to our armour. Electric fields on our employees should give them quite the punch."
+
+  exe_spiders_of_steel:0 "Spiders Of Steel"
+  exe_spiders_of_steel_desc:0 "Shame the old robotics wing is so trashed.. and melted.. and irradiated. Those little walkers had a lot of potential. All we’ve got left is some actuator and joint blueprints that we can make use of for power armour improvements."
+
+  exe_edison_armour:0 "Edison Armour"
+  exe_edison_armour_desc:0 "Too much of the old design is lost to recreate tesla armour in full but Natalie has a new design that’s almost as good using what we’ve picked from the ruins. It’ll have to do. "
+
+  exe_forced_evolution:0 "Forced Evolution"
+  exe_forced_evolution_desc:0 "It was our research on FEV that brought those green assholes and their steel buddies to our doors. Our surviving notes on the virus can be put to some use but most was lost in the home vault."
+
+  exe_edible_insects:0 "Edible Insects"
+  exe_edible_insects_desc:0 "One can’t deny insects have turned out to be one of the great protein sources of the future. We could turn some of our research on radbugs towards larger, more docile specimens fit for livestock."
+
+  exe_bugnugget_trade:0 "The Bugnugget Trade"
+  exe_bugnugget_trade_desc:0 "Research has gone better than expected and we’re gonna be practically swimming in bug meat soon. A few of the marketing folks have already suggested we start mass producing for trade."
+
+  exe_padded_in_thick:0 "Packed In Thick"
+  exe_padded_in_thick_desc:0 "Radbugs being bigger isn’t just good for their meat, but on the battlefield. Carters confident she’s cracked the code on breeding a new stable and mean breed."
+
+  exe_far_and_wide:0 "Data From Far And Wide"
+  exe_far_and_wide_desc:0 "We’ve recovered a computer terminal from under a pile of mutant corpses that’s still got some data intact. It seems to be records from vaults all over the continent."
+
+  exe_tales_of_106:0 "Tales Of 106"
+  exe_tales_of_106_desc:0 "Data regarding vault 106 is limited to just a breakdown of a chemical compound that seems designed for aerosol use. Wonder what it does?"
+
+  exe_tales_of_75:0 "Tales Of 75"
+  exe_tales_of_75_desc:0 "75 was a hardcore one, major eugenics research underway. Funny how many vaults were designed with similar aims in mind. Some of the methods here have potential use for motivating employees however..."
+
+  exe_tales_of_22:0 "Tales Of 22"
+  exe_tales_of_22_desc:0 "All the data we have from Vault 22 reads like an old horror comic. Interesting research despite the risks, but we’re missing some key points. Might be worth an experiment or two of our own."
+
+  exe_vault_tec_science:0 "Vault-Tec Science Can’t Be Beat!"
+  exe_vault_tec_science_desc:0 "We’ve nearly exhausted what can be pulled out of ruins, but it’s gone a long way towards reclaiming a lot of the research our predecessors had in the works. The science division has a lot of data to work through in the coming years."
+
+  #Corporate Vault Branch
+  exe_difficult_rivals:0 "Difficult Rivals"
+  exe_difficult_rivals_desc:0 "The leftovers of the Bull’s failed attempt at a merger are quite the bunch of assholes, a lot of them have hung around just to cause trouble. They’re stubborn, mean, and usually hungry for a fight. Really they’re perfect for a bit of headhunting."
+
+  exe_franchsing_drive:0 "Franchising Drive"
+  exe_franchsing_drive_desc:0 "We’ve expanded rapidly recently, which is great and all but only if we can keep it under control. There’s dozens of pissant operations and towns throughout the area we need to get under thumb and properly franchised so we’re not missing our cut of business."
+
+  exe_im_coming_home_again:0 "I'm Coming Home Again"
+  exe_im_coming_home_again_desc:0 "The time has come at long last. The mutants to our east aren't gonna be an issue for us at this stage. The fine folks under our banner are hungry for a home that's worth our weight, and we're gonna deliver."
+
+  exe_a_deal_most_beneficial:0 "A Deal Most Beneficial"
+  exe_a_deal_most_beneficial_desc:0 "One of these filthy mutants seems to be a facsimile of a politician; a weasel of a giant who may be open to deals. We can spare unnecessary bloodshed, even if killing them is fun. One last big deal, and we can start a better future, today."
+
+  exe_the_stargazers:0 "The Stargazers"
+  exe_the_stargazers_desc:0 "The stargazers were not long for this world, too prone to looking up to see what was coming. Now that they’re gone however we can claim a few of the odder bits of tech they had lying around and make use of it ourselves."
+
+  exe_mesca_deesca:0 "The Mescalero Deescalation"
+  exe_mesca_deesca_desc:0 "The Mescalero are particularly ornery and trying to get rid of them isn’t worth the caps or the interns. If we offer them some more generous terms for franchising, taking less of a cut in exchange for help on raids we should be able to come to an understanding."
+
+  exe_other_side_of_summer:0 "The Other Side Of Summer"
+  exe_other_side_of_summer_desc:0 "The Summers folks were never going to be friends of ours; bleeding hearts, hero types and raggedy refugees. Now they’re gone we can help ourselves to everything they had."
+
+  exe_had_a_church:0 "They Had A Church, Temporarily"
+  exe_had_a_church_desc:0 "Monks hoarding knowledge in their holes were hardly fit to be calling shots. They were meat, and they’re scared. And they should be, we’re going to take it all."
+
+  exe_home_sweet_home:0 "Home Sweet Home"
+  exe_home_sweet_home_desc:0 "We're back, and the world is all the worse for it. Scavenging it will take some time, repairing it even more, but we're back on top. Just as it should be."
+
+  exe_vault_capstone_1:0 "Treasures Of The Vault"
+  exe_vault_capstone_1_desc:0 "Tons of old weapons still litter the Vault, from super mutant and past security alike. With the knowledge interred here, no doubt we'll be able to look into restoring proper plasma weaponry again. After all, what's an Executive without a weapon to melt some poor asshole with?"
+
+  exe_vault_capstone_2:0 "The Stockpile"
+  exe_vault_capstone_2_desc:0 "The security forces within the vault had access to several sets of Power Armor that remain intact, even with Attis' grotesque mass having ravaged so much of the stores. We'll pick up what we can and promote some of our interns up to proper Executives."
+
+  exe_vault_capstone_3:0 "What Remains"
+  exe_vault_capstone_3_desc:0 "Much of the Vault has been unable to be salvaged, destroyed by the meddlers. Certainly, it will likely never see the same grandeur it once held in the past, but we can do our best."
+
+  exe_finishing_reorganization:0 "Finishing Our Reorganization"
+  exe_finishing_reorganization_desc:0 "We’ve come back home and gotten reestablished though there’s still a lot to do. That’s the intern’s problem though. Our job is to start looking for growth opportunities, chances to expand and refill our coffers for pricey projects. Chances to bust open some heads, as a reward for the team."
+
+  #TTM Branch
+  exe_wonder_women:0 "Wonder Women?"
+  exe_wonder_women_desc:0 "Reports come in time and again as we’ve expanded to the north of a tribe nestled into the mountains, worshipping their Mothers. Normally our response would be “Who cares? Aren’t there bigger rats to fry?” These aren’t just any tribals though, they’re apparently all big, strong and oddly healthy for tribal wasters. Need to learn more."
+
+  exe_something_fishy:0 "Something’s Fishy"
+  exe_something_fishy_desc:0 "The reports were true, and the sneaks we sent out to sniff around have only confirmed them more. Something’s not normal in those mountains and it’s a vault of some kind, one we’ve lost the records to. Vaults are all naturally our property, and so is whatever research they were working on. Time to head in."
+
+  exe_mystery_of_29:0 "Mysteries of Vault 29"
+  exe_mystery_of_29_desc:0 "Things got pretty messy knocking down the Twin Mothers doors and the vault is a bit of a shitshow now. We’ve reclaimed our property though, and it’s time to see what this Diana was up to."
+
+  exe_dna_banks:0 "DNA Banks"
+  exe_dna_banks_desc:0 "Some of the details won’t be worked out by the eggheads for years, but this place was researching genetics and DNA too. There’s some ideas already going around about how we can make use of the basics for now."
+
+  #Oklahoma Branch
+  exe_reaching_new_markets:0 "Reaching Towards New Markets"
+  exe_reaching_new_markets_desc:0 "Old maps call this land the OK, now it’s a mix of tribals, burnouts, ghosts, casinos and gun toting ghouls. It’s a mess that’s ripe for the picking and we stand to gain a lot from franchising alone. Get our employees ready for another wave of buyouts!"
+
+  exe_dirt_worshippers:0 "Dirt Worshippers"
+  exe_dirt_worshippers_desc:0 "Usually we’re the ones doing the raiding but these pricks had the guts to come for us first; jumping one of our crews. They’re allergic to anything more complicated than sticks and rocks so they’re useless as potential employees. Best to just wipe ‘em out and make a statement out of it."
+
+  exe_scrapping_the_lodge:0 "Scrapping the Lodge"
+  exe_scrapping_the_lodge_desc:0 "It says a lot about how little outsiders cared about this region that groups like the Compact and Lodge still manage to survive and hang on. They’ve had their free lunch long enough, and that massive junkheap is a scrap metal goldmine. Time to help ourselves."
+
+  exe_setting_sun:0 "Setting Sun"
+  exe_setting_sun_desc:0 "One can almost respect the Sundogs, they bloodied the Legion’s nose once before and that’s always at least a little impressive. Their lack of ambition though? They had a chance to take this place by storm after Paullus got got, but did nothing. It’s almost insulting and it’s time for their story to end."
+
+  exe_use_more_red:0 "Could Use a Little More Red"
+  exe_use_more_red_desc:0 "Tribals are almost never good for business, you have to teach them what a synergistic solution is half the time and that’s if they’re not trying to impale you on a spear. The clans of the Painted Rock are no better, though they’re mean in a fight to give credit where it’s due. We can add a few more splashes of paint to their precious rocks for them."
+
+  exe_the_real_meat:0 "The Real Meat"
+  exe_the_real_meat_desc:0 "The northeastern reaches of the OK are where the real money and opportunities lie, as well as the real rivals. There’s talk of wealthy casinos, mad science, mad ghouls with big guns, the works. We just need to lay hands on it."
+
+  exe_eastern_threat:0 "The Eastern Threat"
+  exe_eastern_threat_desc:0 "We may have taken our home back, but we’re a long way from getting a proper revenge on the mutants and bastardhood of steel who destroyed it in the first place. No burying the hatchet or friendly competition here, we need to be ready to bring Texas to its knees. Start another recruiting drive, amp up experimentation, and squeeze every penny out of the franchisees; we’re going to war."
+
+  exe_green_sideshow:0 "The Green Sideshow"
+  exe_green_sideshow_desc:0 "Attis is long dead, the prick, but a bunch of his old army is still lingering in the area. Whether they’re weaseling into the Brotherhood's good graces or roving about in tanks looking for someone to run over, they’ve outstayed their welcome. When we’re done there won’t be anyone left to remember Attis."
+
+  exe_road_to_texas:0 "The Road to Texas"
+  exe_road_to_texas_desc:0 "We’ll need to hit Texas from all angles if we want to have our best shot at blowing their heads off. Lubbock is friendly with Texas and unfortunately for them they’re squatting on the best road into the place. This job is nothing personal."
+
+  exe_leafy_hell:0 "Leafy Hell"
+  exe_leafy_hell_desc:0 "This freaky forest has to be a goldmine for odd resources the eggheads can make use of, maybe we’ll even find whatever made it so weird here. Pack a flamethrower."
+
+  exe_dark_clouds_rolling_in:0 "Dark Clouds Are Rollin In"
+  exe_dark_clouds_rolling_in_desc:0 "Our employees are ready to flood into Texas, and start the big showdown. It’s been a long time coming, and either us or the Brotherhood isn’t coming out of this one intact. Hopefully this will be the last fair fight we ever have to have."
+
+  exe_compliments_of_the_company:0 "Compliments Of The Company"
+  exe_compliments_of_the_company_desc:0 "The Brotherhood and their allies in Texas are broken, and we’re now masters over their former territories and towns. It’s gonna be a long time before random assholes stop taking potshots at us but with a mix of violence and some caps spread around we should be able to get a start on it."
+
+  exe_better_future_below:0 "A Better Future Above and Below"
+  exe_better_future_below_desc:0 "It’s long past time for a rebranding, or really a brand revival. We’re hardly just the Executives anymore. We are Vault-Tec, back and better than ever."
+
+  #executives ideas
+
+  exe_healthiest_vault:0 "A Healthy Vault"
+  exe_healthiest_vault_desc:0 ""
+  exe_pre_war_knowledge:0 "Pre-War Knowledge"
+  exe_pre_war_knowledge_desc:0 ""
+  exe_burgeoning_power:0 "Lords of New Mexico"
+  exe_burgeoning_power_desc:0 "With the defeat of Lanius, the Executives are unchallenged in New Mexico. Truly, the world has become their oyster..."
+  exe_homecoming_dreams:0 "Dreams of a Vault"
+  exe_homecoming_dreams_desc:0 "Ousted by Attis, the Executives yearn to return to the Corporate Vault and clean it. After all, it is their property by right, isn't it?"
+  exe_vault_legacy_of_experimentation:0 "Legacy of Experimentation"
+  exe_vault_legacy_of_experimentation_desc:0 "Descended from Vault-Tec leadership and scientists, experimentation is a way of life even now for the Executives. They're always on the lookout to learn new ways to cause harm or up their bottom line."
+  exe_memories_of_fev:0 "Memories of FEV Exploitation"
+  exe_memories_of_fev_desc:0 "When the corporate vault was still our home we spent countless hours researching the applications and variations of FEV. While much was lost in the destruction of the vault we retain some memories and are hungry to reclaim the secrets of forced evolution."
+  exe_carters_way:0 "Carter's Way"
+  exe_carters_way_desc:0 "In a shifting of the gears of power, CRO Jeanette Carter has secured greater authority over all research and development projects within the company. She is no more ethical than her counterpart McKinley, but is a firm believer in more cautious and procedural goal oriented science. This is an auspicious turn for the science division of the Executives."
+  exe_dwelling_defenders_idea:0 "Dwelling Defenders"
+  exe_mescalero_training:0 "The Mescalero Branch"
+  exe_bug_field_testing_idea:0 "Bring Out The Bugs"
+  exe_bug_field_testing_idea_desc:0 ""
+  exe_forced_evolution_idea:0 "The Future Of Evolution"
+  exe_forced_evolution_idea_desc:0 ""
+  exe_electric_guns_idea:0 "Electric Field Armour"
+  exe_electric_guns_idea_desc:0 ""
+  exe_spider_steel_idea:0 "Spider Joints"
+  exe_spider_steel_idea_desc:0 ""
+  exe_edison_armor_idea:0 "Edison Armour"
+  exe_edison_armor_idea_desc: "The culmination of years of scrappy efforts by Natalie Pound and reclaimed tech from the corporate vault, these suits are nearly as good as the ones lost to the destruction of the Executives home. Amusing herself if no one else Natalie has dubbed them the Edison Armour, and they’re a marked improvement over our old designs."
+  exe_preparing_for_eastern_threat:0 "Bigger Than Texas"
+  exe_preparing_for_eastern_threat_desc:0 ""
+  exe_legacy_of_75:0 "The Legacy Of 75"
+  exe_legacy_of_75_desc:0 ""
+  exe_legacy_106_profitable:0 "The Profitable Legacy of 106"
+  exe_legacy_106_profitable_desc:0 ""
+  exe_legacy_106_relaxing:0 "The Relaxing Legacy of 106"
+  exe_legacy_106_relaxing_desc:0 ""
+  exe_legacy_106_bloody:0 "The Bloody Legacy of 106"
+  exe_legacy_106_bloody_desc:0 ""
+  exe_legacy_of_22:0 "The Legacy Of 22"
+  exe_legacy_of_22_desc:0 ""
+
+  #executives events
+
+  exe_vault.1.t:0 "An Offer From The Executives"
+  exe_vault.1.d:0 "The Executives have made us an offer to pay a large sum of caps in exchange for the city of Los. No doubt this has something to do with their origins in the vault... While it may not serve us much use, giving them access to such a thing is no easy decision."
+  exe_vault.1.a:0 "We do not negotiate with raiders."
+  exe_vault.1.b:0 "I mean, if the money is good..."
+
+  exe_vault.101.t:0 "They’ll Regret This"
+  exe_vault.101.d:0 "That tower of green shit stuffed into a cheap suit turned us down. We should’ve known a mutant would be too stupid to do business. Time to do this the hard way. Getting back home is our top priority, and if we get some revenge around Attis’ boys along the way then all the better. Prepare for a very hostile merger."
+  exe_vault.101.a:0 "Lock and Load"
+
+  exe_vault.102.t:0 "Peaceful Merger"
+  exe_vault.102.d:0 "The mutants went in for the deal, turning over the territory at this very moment and stumping back towards Austin. They’re idiots but useful idiots in this case. We’ll get our revenge on them another day but for now coming home is the priority. Our future depends on it. "
+  exe_vault.102.a:0 "Excellent"
+
+  exe_vault.2.t:0 "Trial Run"
+  exe_vault.2.d:0 "McKinley loved how the world looked through a high powered scope; with lenses like these everything felt close enough to reach out and take it. Even better everything she could see through it was hers, from the hills in the distance to the slave pens just a couple dozen feet away. The barrel of her anti-material rifle poked out a short distance through the cracked window that was serving as a vantage point, aimed towards those pens. The closest pen held a sullen looking young man staring into the distance, his skin covered in bruises and cuts. He'd been one of the dogs who ran with that idiot Lanius, thinking they'd rule the world until they pissed off someone stronger. McKinley had been that someone stronger, and she barked to the intern behind her with a cruel grin: “Alright; start the experiment.”\n\nA few moments after, the latch on the pen McKinley had been observing fell apart and the door opened just a crack. The former legionnaire inside couldn't hide his surprise at first, but he was clever enough to get up and step to the gate slowly, without urgency or drawing attention. It was only then that he pushed through the opening and sprinted off towards the hills. The guards made a show of shouting and pointing, following half-heartedly behind the runaway. His bare feet kicked up a dust cloud that trailed behind, but it could not obscure him enough that the sniper watching from the shadows lost her target. Behind McKinley, the intern looked up from his pip-boy and said “now.”\n\nThe shot that followed that single word echoed through the hills, and a spray of red-tinged sand erupted into the air. The Executives' CEO stood up and tossed the rifle towards the intern, chuckling as he scrambled to catch it. She lit up a cigar and walked towards the door “We'll use that guy as the control. Tomorrow we'll open two cells and see how far they get before time is up. After that, we'll improvise something, maybe get some land mines.” The intern typed feverishly into his pip-boy, making sure that he got every word recorded in his task log. Before he hit the last key, McKinley was already gone."
+  exe_vault.2.a:0 "Every day a new experiment."
+
+  exe_vault.3.t:0 "Home Sweet Home"
+  exe_vault.3.d:0 "The site of the old Corporate Vault was an irradiated crater, even decades after its destruction, one that had sporadically been picked over by various gutsy scavengers looking for a score. The leftovers of the Church of the Lost and Attis' Army had mostly left it be over the years, outside of back and forth claims of ownership. Now however its old inhabitants had come home, and it had become a hub of activity. Interns and slaves bustled about like ants, picking through the old debris and digging in search of any chambers that remained intact. A few were protected by power armor or radiation suits but most were left to simply deal with the rads the hard way. The rest of the Executives were preparing a new temporary headquarters as close to the ruins as they could without the geiger counters on their pip-boys ticking.\n\nMcKinley herself had spearheaded the initiative to reclaim the remains of the vault, hoping that some of the old research and assets had somehow survived. She'd grown up on stories of the amazing and terrible creations of her ancestors and was hungry to get her hands on any of it. Electrical weapons, experimental power armor designs, genetically enhanced deathclaws, advanced robots and AIs, they all could be found within the vault before the Brotherhood and Attis ruined everything. It was her fervent wish that some of it had been preserved by the sturdiness of Vault-Tec's greatest shelter, and could grant the Executives an even sharper edge against the wasteland. The flames of her desire were only stoked when the slaves made their first find:"
+  exe_vault.3.a:0 "A buried security office with several intact suits of armor"
+  exe_vault.3.b:0 "A charred filing cabinet containing a manual on vault construction methods"
+  exe_vault.3.c:0 "A berserk robot that only killed five slaves before being brought down"
+
+  exe_vault.4.t:0 "Lethal Layoffs"
+  exe_vault.4.d:0 "“So it's been awhile since we had any performance reviews, things got a little hectic when those bull cuddlers and their daddy tried to force through that merger after all.” McKinley addressed those gathered below her, standing in full armor atop a tall scaffold. They'd been assembled in the remains of an enormous pre-war hangar, with most of the building shrouded in deep shadows. Looking up at her were a number of regular interns and employees but her attention was on the seven managers who stood apart and grew increasingly nervous with each word she uttered. Their weapons and power armor had been taken from them upon arrival before each was given a cloth painted with a bright red Vault-Tec logo.\n\n“I won't blow any smoke up your asses, you're here because none of you are meeting my expectations. Not enough killer instinct, not enough hustle, not enough synergistic solutions, too much time spent playing pip-boy games on the shitter, Sharon. I'm not sure any of you really want to be part of the Vault-Tec family anymore, so it's clearly time for some real leadership. We need to pull together with a team dismantling exercise.” Now the seven managers were downright frightened, stealing glances at the mob of employees behind them who looked back with weapons at the ready and excited smiles. McKinley gestured into the darkness and a series of lights switched on to reveal the rest of the hangar.\n\nIt had been converted into an elaborate obstacle course complete with walls to climb, tires to run through, ropes to swing on and a tall flagpole at the end. McKinley had made sure the interns had filled it with a number of special touches, including bear traps hidden in the tires and greased pits full of teeming radbugs for the ropes to swing over. The final approach to the flagpole was guarded by a chained super mutant who'd been given a sledgehammer and a promise of freedom should he manage to kill any of the runners. Designing the course had been a relaxing pastime for the CEO of the Executives over the last month and she was quite excited to see it in action.\n\nThat excitement was clear in her voice as she returned her attention to the unfortunate managers below “It's simple enough, get to the end and run your flag up the pole. First one who makes it gets to keep their job, the rest get downsized. Consider this a last chance to interview for your position and don't forget to have fun!” An evil smile crept across her face under the helmet as McKinley shouted “Go!”."
+  exe_vault.4.a:0 "Where did Sharon even get that knife from?"
+
+  exe_vault.5.t:0 "Fight For Your Thesis"
+  exe_vault.5.d:0 "Carter crossed her arms and said simply “I want full control over the Radbug project. Full control, no rushing.”\n\nMcKinley swigged down the last of her beer and replied, “Aren’t you happy you get to work on the fucking bugs at all? You can throw as many slaves and interns on it as you want; Leslie is already in a coma after the last experiment.”\n\n“I don’t need a mountain of bodies, I need time to follow proper scientific processes! Can’t you understand that not everything is best done fast and bloody?”\n\nMcKinley frowned deeply, and she hurled the empty bottle off to the side of her office where it shattered. The pieces joined an already sizable pile of broken glass shards. She barked angrily, “Alright, prove it bitch. You want to call the shots so bad you can put on your big girl power panties and fight me for it. In front of everyone. Get one, just one good hit on me and I’ll let you run R&D on your own. Now get the fuck out of my office, meeting will be after lunch in two days.”\n\nCarter stood up speechless and marched out of the CEO’s office. As she moved down the steel halls, her footsteps echoing around her, she decided the only thing to do was"
+  exe_vault.5.a:0 "Try Her Best"
+  exe_vault.5.b:0 "Cheat"
+
+  exe_vault.501.t:0 "Tried Her Damnedest"
+  exe_vault.501.d:0 "The onlooking employees cheered and jeered as Carter hit the floor with a tremendous clang. Even a few from the research division were on their feet for the spectacle. McKinley loomed tall over her, in armour that was yet pristine and untouched. Carter grit her teeth. She had done her damnedest to try and tag her CEO with even a single punch but to no avail. McKinley was too good of a scrapper.\n\nThe triumphant CEO bent over to grasp Carter’s chestplate and pulled back her other fist into a ready pose. “Ready to cry auntie?” Carter lashed out then, a last minute attempt to sneak out a win, but her gauntleted hand was caught in mid swing. “That’s the spirit,” McKinley laughed. “Not gonna help, but it’ll look great on your next performance review.” McKinley then took a swing of her own, smashing square into Carter’s visor. It took three more increasingly violent blows before Carter took the advice of her suits screaming shock absorbers and waved her hand to quit.\n\nShe lay dazed for a moment before McKinley helped her stand and propped her up. “Do we understand each other, Jeanette?” Carter nodded silently, her ego and body both bruised. McKinley thumped her cheerfully on the back and then added “Don’t worry, it’ll be fine. I’ll take care of you, and your fuckin’ bugs.”"
+  exe_vault.501.a:0 "Her Best Wasn’t Enough"
+
+  exe_vault.502.t:0 "Mind Over Muscle"
+  exe_vault.502.d:0 "The onlooking employees cheered and jeered as Carter hit the floor with a tremendous clang. Even a few from the research division were on their feet for the spectacle. McKinley loomed tall over her, in armour that was yet pristine and untouched. Carter grit her teeth. She had done her damnedest to try and tag her CEO with even a single punch but to no avail. McKinley was too good of a scrapper. The triumphant CEO bent over to grasp Carter’s chestplate and pulled back her other fist into a ready pose. “Ready to cry auntie?” Carter lashed out then, a last minute attempt to sneak out a win, but her gauntleted hand was caught in mid swing. “That’s the spirit,” McKinley laughed. “Not gonna help but it’ll look great on your next performance review.”\n\nBefore McKinley could act further Carter triggered her suit’s surprise defensive mechanism. A surge of stored up electricity jumped from her gauntlet into McKinley’s, shocking and stunning the CEO. Without delay, Carter swung her other hand up into McKinley’s face, the combined voltage and punch sending her staggering and falling to the floor. The crowd of employees watching exploded, the science team cheering louder than anyone. McKinley recovered before Carter could even stand, looming over Carter again. For a moment the CRO was worried until the CEO offered a hand to help her up. She then wrapped her arm around Carter’s shoulders. “Good shit, the hell was that?”\n\n“Natalie and I spent the last two nights working on that. Figured that if I wanted to beat you, I’d need a trump card. So am I in charge?”"
+  exe_vault.502.a:0 "“Deal’s a Deal.”"
+
+  exe_vault.6.t:0 "Crucial Tests"
+  exe_vault.6.d:0 "Frank breathed a heavy sigh, doubled over with his hands covered in yellowish pale blood. He’d been mopping a sub-level of the vault when a giant ant had burst through the wall and attacked him. The door to the room had then entered security lockdown and sealed him inside with the angry insect. A desperate battle had ensued, with the aging intern resorting to breaking his mop to use as an impromptu spear. The monstrous bug had died with its jaws still clamped around his ankle, half a mop stabbed through its head.\n\nThis was all seen through a camera many rooms away by a pair of junior researchers and McKinley. The rest of the science staff had declined to observe the experiment but it had been McKinley’s idea and she was enjoying herself. She gestured towards the monitor with a beer in her hand and commented, “Good use of company property there, resourceful. Well, we won’t know how fatal giant ant bites are until the poor bastard dies. Send in another!” The researchers scrambled to begin the next phase of the experiment.\n\nFrank felt a rumbling in the floor and looked up to see another hole breaking open in the wall. He wrenched his makeshift spear free and used it to pry his leg from the dead ant’s jaws before brandishing it with another sigh. “I don’t get paid anywhere near enough for this shit,” he muttered."
+  exe_vault.6.a:0 ""12 bites, wow.""
+
+  exe_vault.7.t:0 "Scientific Process"
+  exe_vault.7.d:0 "Chief Research Officer Jeanette Carter removed her goggles and gloves as she left the medical research wing. Behind her strode the Executive’s CEO, McKinley. “I’m not convinced this was the best use of captive mutants. You know those don’t grow in hydroponics.”\n\nMcKinley shrugged; she was used to these kinds of complaints. “I actually have no fuckin’ idea where they come from. That California place some of them scream about maybe? Besides, what could be more useful than knowing how to break their bones?”\n\nExasperatedly, Carter turned around and answered, “Maybe how their immunity to radiation actually works? Or their resistance to infection? Maybe ways to make docile laborers out of them? I can imagine a number of more useful things. You’re having too much fun… ma’am,” she added the honorific after a delay.\n\nMcKinley’s heavy hand slapped down onto Carter’s shoulder. “I am having fun. You want me bored? You know what I’m like when I’m bored. And you’re fucking lucky I like you, talking to me like that. You should watch your tone.”"
+  exe_vault.7.a:0 "“I’ll remember, at least in public.”"
+
+  exe_vault.8.t:0 "The Bugs Are Alright"
+  exe_vault.8.d:0 "McKinley and Carter sat side by side, the former nursing her fourth beer of the afternoon, as they watched the monitors. The first live fire combat trials of the newest radbug strain were underway and the ornery insects were currently tearing apart a squad of unlucky mercenaries. They’d been hired to ostensibly clear out some insects from an old ruin, but in reality it was a front for the Executives to test their bioweapons. “See, everything worked out great,” McKinley slurred as she gestured at one screen. On it they watched a radbug wade through submachine gun fire to then pounce on its target. \n\n“They’re performing… adequately.” Carter was actually quite proud but meant to maintain composure in front of her subordinates. So many sleepless nights had been spent adjusting strains and stretching their limited supply of control insects, but the monstrous creatures had been responding well to her methods and trials.\n\n“Adequate? Fuck you. You did good Jeanette, you made some good bugs.” The CEO slapped her on the shoulder and handed her a beer before wrapping an arm around her cheerfully. “Lighten up, enjoy the show.” McKinley gave Carter’s shoulders a brief squeeze as one monitor went red from splashed viscera, and the screams of mercenaries came in clear from the speakers. Cracking open her drink, the CROsmiled in spite of herself and whispered,"
+  exe_vault.8.a:0 "“Yeah, You’re Right.”"
+
+  exe_vault.9.t:0 "The Hostile Takeover"
+  exe_vault.9.d:0 "The Annual Hostile Takeover was soon to start, and Security Chief Eric Smith entered the prep room occupied by McKinley. They waited a moment for a technician to finish adjusting the actuators on her power armour before McKinley dismissed the staff to speak in private. The conversation they had was something of a yearly tradition for the two now, and they’d said much the same things the year before and the year before that.\n\n“Ready Boss?” Smith leaned against a console, scanning his CEO’s armour for any weak points that may have been missed and finding none.\n\n“Always ready. What do you make of this year’s ladder climber?”\n\n“Young, strong, blunt, dumb. Everything’s above board.”\n\n“Good. Let’s do this.” She flexed her armour, testing the feel before heading out of the room with Smith in tow. In a few short minutes she proceeded to beat her challenger to death with her hammer."
+  exe_vault.9.a:0 "See You Next Year!"
+  exe_vault.9.b:0 "Shame this will be the last one."
+  EXE_takeovers_end_tt:0 "§gWith the formation of the Vault_tec Board of Directors, there's no longer a need for an annual takeover. McKinley organizes this last hurray as a send off to the tradition.§!"
+
+  exe_vault.10.t:0 "The Fruits of 75"
+  exe_vault.10.d:0 "Manager Amelia Morgan overlooked the new aptitude testing center and let out a sigh of contentment. After reading all the data that had been recovered from the distant Vault 75, inspiration had struck her and she’d immediately put in a request to make a new employee testing center. McKinley had approved as long as it was done in a few weeks. Morgan had come through, working quickly and with less budget than she’d asked for, and she was proud of what she’d accomplished. Rows of treadmills, weight sets, quiz terminals and marksmanship ranges filled the massive room, all in use by one or more employees. Research division staff were monitoring and recording everything in the midst of the clamor and activity, creating a database of everyone’s performance.\n\nThey were being pushed to the brink too; the smell of sweat, blood and vomit filled the room as everyone tried their hardest. And why wouldn’t they, when they knew the worst performers would be transferred to ‘Uptopland’? Morgan chuckled to herself; in 75 it had been an imaginary place made to scare children but here well, no one wanted to be shipped off to die in the very real dust of the wasteland. She watched as below her one employee collapsed under the weights they’d tried to lift, nearly crushing herself. The manager’s nod was approving as technicians dashed to rescue her."
+  exe_vault.10.a:0 "“That One’s a Go Getter”"
+
+  exe_vault.11.t:0 "The Fruits of 106"
+  exe_vault.11.d:0 "“Terminate the experiment, and the remaining subject” Carter told her assistant, handing them a laser rifle. As she did the sound of a vault door sliding open filled the room and McKinley stepped inside.\n\n“I heard it got juicy, did I miss it?” Carter answered by pointing to the monitor as it showed the surviving test subject being disintegrated amongst bloody and broken bodies. “Damn, what happened? And what the fuck happened to that guy?” The CEO pointed to a particularly bloody corpse in the corner.\n\n“Well, the gas turned out to be a powerful and aggressive hallucinogen. After a short while they grew intoxicated, and before you get excited not long after that they became extremely violent. Screaming at each other and starting brawls before tearing each other apart. The man in the corner there seemed to have a particularly bad reaction and attempted to remove his face while shrieking about worms.” Carter sat down and began revising notes on her pip-boy.\n\n“Fun stuff, this is why I try not to skip experiments. Well, see if you or someone else can’t figure out a good use for the stuff. And send me a tape of the show.” She walked out, leaving Carter to think."
+  exe_vault.11.a:0 "“Could always sell it as a drug I guess.”"
+  exe_vault.11.b:0 "“Can maybe work out the aggression boosters.”"
+  exe_vault.11.c:0 "“Weaponize it maybe?”"
+
+  exe_vault.12.t:0 "The Fruits of 22"
+  exe_vault.12.d:0 "“We’ve isolated enough of the gene sequencing that we can maybe remove the infectious spores with time. Yields are projected to be larger in that event. There’s a risk that the experiment will breach containment beforehand however. Otherwise we could stop here and limit ourselves to the safest lines of research, avoiding the spores entirely, for a modest projected boost in crop fertility.” Junior Researcher Harolds nervously read his report off his pip-boy, not looking his superiors in the eyes.\n\nCarter sat back in her chair, arms crossed as she considered the data they’d received from Vault 22. “I think it would be best to pause here and maybe resume research at a later date. This line of research has already wiped out one vault and we’re spread thin.”\n\nMcKinley cracked open a drink and shrugged “Do you really want to miss out on the chance to see a bunch of moldy zombies running around though? Besides, we’re smarter and stronger than those pussies back in 22.” Carter just shook her head in response. McKinley took a swig and gestured dismissively back at Carter.\n\nResearcher Harolds looked back and forth from CEO to CRO before asking McKinley “What do you want me to do ma'am?”"
+  exe_vault.12.a:0 "“You Got This Kid, Keep Going”"
+  exe_vault.12.b:0 "“You Heard Carter”"
+
+  exe_vault.13.t:0 "The Rotten Fruits of 22"
+  exe_vault.13.d:0 "McKinley threw another punch, staving in the moldy skull of the former Junior Researcher Harolds. She hurled the body into another charging spore carrier before stomping its head into paste as it lay stunned. The sounds of combat rang throughout the facility but she now had a moment to breathe. “Unlucky bastard, guess you were right about a breach” she told the researcher's body. The CEO had had just about enough of fighting mold men she decided, and she checked the incendiaries at her side. It was enough to send the whole place up in flames, if she placed them right.\n\n“Good thing Carter bitched until we put this experiment in a separate site, and that Natalie’s been improving the armour filters.” She said to herself aloud. Retrieving her hammer from a crater she’d made earlier out of a pair of carriers, she told her employees over the radio to begin evacuating. Striding deeper into the building, towards its heart, she kept her weapon at the ready. It wasn’t long before she needed it again, smashing the sledge through carrier’s mushy skulls and crushing them against or even through walls. \n\nSoon she was placing the explosives, blasting her shredder down hallways blindly to cover herself as she did. “Time to get the hell out of this dump.” After setting the timer she ran for the exit, thinking to herself"
+  exe_vault.13.a:0 "“I need a decon shower.”"
+
+  exe_vault.14.t:0 "The White Maned Ripper"
+  exe_vault.14.d:0 "Security Assistant Anton walked through the burned out streets of some long forgotten town, laser rifle in hand, anxiously scanning the buildings around him. His patrol mate, Officer Shawna, picked up on his nerves and began taunting him. “This your first patrol? You’re leaving a piss trail intern.” He half nodded in response, prompting her to continue “What are you scared of? Some tribals who think a washing machine is the devil’s asshole? They’re gonna see power armour and shit their loincloths.”\n\nWhatever Anton might have replied was cut off as a massive chunk of rubble fell on Shawna, crushing her and her suit with a sickening sound of screeching metal and cracking bones. Within moments the rest of the patrol was under attack from all angles. His comrades were being overwhelmed quickly, and he fired wildly to try and support them. A sound to his side made him spin and he saw a white haired woman standing atop Shawna’s crushed form, having dropped down from the building's upper reaches.\n\nHe fired again and again, lasers going wide as she lunged towards him, slipped back and forth as she did to evade his aim. The woman closed the distance in moments and she tore the gun from his hands with startling strength before shattering it over her knee. Anton had only a few moments to marvel before her hands then clapped around his neck. He tried and failed to scream as"
+  exe_vault.14.a:0 "She Twisted His Head Off"
+
+  exe_vault.15.t:0 "Ribbon Dancer"
+  exe_vault.15.d:0 "Chief Engineer Angus “Carnage” Carnegie stood proudly on an outdoor platform, a number of senior staff looking on. “Colleagues, I’d like to debut a new prototype combat robot for you! I’ve taken some inspiration from the lost tesla models of the old vault as well as some of my past works. I present: The Ribbon Dancer!” The machine that hummed to life was bulky, pivoting on four multi jointed legs, and with a central body that freely turned 360 degrees. Ports opened and long ropes of barbed wire unspooled to spill across the ground. As the onlookers whispered amongst themselves the central body of the dancer began to spin and rapidly pick up speed, the trailing wires soon creating a vortex of sharp metal around it.\n\n“Let’s see it in action” Carnegie roared to the crowd. The robot marched towards two screaming test subjects who’d been staked to the ground. The first was shredded into a red mist and ribbons of torn flesh within moments as the dancer did their work, but the second managed to slip their bonds and limped away as fast as they could. In response to Carnegie’s commands the dancer entered pursuit, chasing the escaping subject. As it followed the runner into a stand of trees, the whirling wires wrapped around the old dead trunks. Metal strained and the robot gave off a long hiss as it proceeded to then pull two entire trees down on itself before shutting down. The escapee didn’t get far as Carnegie himself drew a gun to shoot them down before turning back to the crowd."
+  exe_vault.15.a:0 "“Back to the Drawing Board I Suppose”"
+
+  exe_vault.16.t:0 "Mr. Buddy"
+  exe_vault.16.d:0 "Carter led McKinley outside by the hand, the latter woman asking curiously “What is this about?” She stopped in her questioning at the sight of a looming tesla bot, not just intact but moving. It scanned the courtyard languidly, and it pivoted on its three legs to face the two women. Sections of it had clearly been replaced with metal and parts from other sources, including vault walls and power armour pieces, but it was largely in one piece. McKinley simply whispered “The fuck?”\n\n“Angus helped me fix it up for you. It’s the only Mr. Buddy beta model we found in an even slightly repairable state.” Carter watched as McKinley moved closer to admire its armour and electric cannon. To the CEO it looked just like she’d imagined it would from the stories. Carter continued on, telling her “If it breaks again we probably can’t fix it, to be honest. We’ve not put together just how it all works yet, but I remembered how disappointed you were that we only found completely shattered ones and couldn’t restart production. So uh, it’s all yours. Sorry for keeping it a secret.”\n\nMcKinley whirled around and pulled Carter in close, squeezing her tight. “Best fuckin’ gift I ever got in my life. Thanks Jeannie.” Carter returned the embrace and replied"
+  exe_vault.16.a:0 "“You’re welcome Carol”"
+
+  exe_vault.17.t:0 "Edison Armour"
+  exe_vault.17.d:0 "Natalie Pound, Director of Armour Production, tossed her screwdriver to the side and slumped onto her stool. Her eyes were heavy as she wondered just what time it was. She’d been in the workshop for what felt like days. McKinley and Carnegie had been up her ass about producing a new armour model and she’d finally gotten fed up and locked herself in the shop to make one. Food and water had been an afterthought until now and she felt her stomach was rumbling and tongue dry in her mouth. She was also sure she needed a shower but all of that could wait until after she’d shown the bosses what she’d made.\n\nCombining bits of scrapped tesla bots, ruined tesla suits that had been pulled from the corporate vault’s wreckage, and pieces of various armour suits claimed from the wasteland she’d made a Frankenstein's monster of a suit. Heavier than older vault-tec designs that they’d resorted to using in recent years, it was equipped with a high efficiency energy transfer system and defensive shock generators capable of frying a radbug’s face off. It wasn’t pretty, and it sure as hell was no suit of tesla armour Natalie thought to herself, but it’s at least a suit of edison armour."
+  exe_vault.17.a:0 "It’ll Have to Do"
+
+  exe_vault.18.t:0 "A Red Interview"
+  exe_vault.18.d:0 "The battle raging had naturally parted to make way for the two warchiefs to meet, those in the way either scrambling for cover or dying where they stood. For long minutes McKinley and Dyed-Red fought, first at range where they brought down an entire prewar building around themselves with errant machine gun and shotgun fire. When they emerged from the rubble each had merely been scraped and bruised by the exchange. It was in close, as they resorted to hand to hand melee, where they each began to feel the other’s strength. Soon the battle ground to a halt as both the vault dwellers and warriors of the Rock stopped to watch.\n\nMcKinley in her suit had the advantage over Dyed Red in strength and toughness, but the wily chief was faster and bearishly strong himself. Both were scrappers willing to do anything. Finally McKinley took a gamble and left herself open. As Dyed Red brought down his hooked axe into her chest her own sledge came around wide, smashing into his side. The man crashed to the dirt, clutching the ribs he knew were broken and leaving McKinley looming over him. One of her eyepieces was smashed, mirroring his own missing eye, and her armor was dented and battered from the long fight.\n\nShe yanked the hook from her chestplate, where it had lodged itself inches from her heart, and tossed it aside as she looked down at the man. “You’re fucking good, real fucking good. You want a job?” She held out a hand for him to take as she waited for his response. Everyone was silent as he pondered if this is what destiny had held in store for him, until finally"
+  exe_vault.18.a:0 "He spat"
+  exe_vault.18.b:0 "He spoke"
+
+  exe_vault.19.t:0 "To Stop A Monster"
+  exe_vault.19.d:0 "The war had turned against Lanius and his men but the man himself seemed far from beaten. He had carved through multiple armoured termination squads and repelled half a dozen assaults on his camp. With security at a loss it was the science division that had come forth, suggesting a new approach. Two days later the Executives had attacked again, this time with McKinley leading the charge.\n\nIt was a feint however, using the CEO as bait for a trap, and once Lanius smelled the blood of an enemy commander he took it. He aggressively counterattacked, following as McKinley and her forces slowly allowed themselves to be pushed into a prewar ruin. Lanius challenged McKinley then, taunting her as a cowardly woman and ordering her to face him. Laughing, amused by the man’s bullish nature, McKinley goaded him and retreated one more time. Pursuing her, he stepped directly into a trap that had been laid before in the dead of night. Wrapping around him, a hooked metallic net restrained him before filling him with enough voltage to kill a deathclaw.\n\nMcKinley stepped forward then, blowing away multiple legionnaires attempting to reach their fallen leader with her shredder and calling for her employees to attack the stunned legion troops. Stepping over the fallen legate, she stopped when he twitched beneath her."
+  exe_vault.19.a:0 "“Holy Shit He’s Alive”"
+
+  exe_vault.20.t:0 "Subject L"
+  exe_vault.20.d:0 "They kept him in the lowest sublevel, at the bottom of a glorified pit, with nothing but food and water sent down occasionally in the dark. They brought him out only for testing purposes and he’d been through dozens of trials and experiments since his capture, each leaving their marks on his scar covered body. And yet he had not wasted away or fallen apart; quite the opposite. The man who walked into the test chamber yet held his head high and strode with purpose; he was still wearing some of the carapace of the last radbugs the Executives had tested against him.\n\nThey’d taken his actual armor and it now hung in McKinley’s office as a trophy, but his sword they returned to him for combat trials. He wielded it now, fending off the newest strain of radbugs that Carter had prepared for field testing. How long they could last against Lanius was their final test before full production. A number of employees had made a habit to come and see the man whenever he was tested, watching and wagering about whether he’d finally die.\n\nThose betting against the former legate had always been disappointed in the past and today was no different. The larger, more armoured radbugs put up a better fight than the last ones he’d killed but they found themselves butchered all the same. Lanius took a horn from one to keep and stared impassively at the crowd before allowing himself to be led back to his cell and relinquishing his sword. If he resisted they had his body rigged with shock dispensers and even bombs just in case of emergencies, and he knew it. He took solice in one thought..."
+  exe_vault.20.a:0 "“...I am superior”"
+
+  exe_vault.21.t:0 "Hook, Line And Stinker"
+  exe_vault.21.d:0 "Killing legionaries had proven doable enough but taking Lanius down had become something else entirely. He’d left any attackers seeing stars at best and flattened at worst. It was an old engineer named Charles Jones who stepped forward to present a new plan. Instead of attacking the Legate, they’d lure him into a trap and take him down without a face to face fight. Some had doubts that it was a bit of a looney plan, but McKinley gave him the go ahead. Jones and Carnegie worked through the night and the next day the plan was put into action.\n\nUsing recordings of women existing, Lanius was lured from his warcamp, the man incensed into action by the sound. He followed it, some of his men in tow, into a box canyon where the rest of the trap was sprung. First barrels of TNT detonated around the canyon, killing the other legion men but leaving Lanius to walk out of the dust cloud intact. He shouted in fury only to be cut off as a piano fell onto him from the top of the canyon. The Executives began to celebrate until the sound of piano keys hitting the ground indicated that Lanius was climbing out of the rubble.\n\nThe Legate was dazed, seeing stars, but managed to stand and take a step forward regardless. That’s when the anvil hit him."
+  exe_vault.21.a:0 "“Holy Smokes He’s Alive!”"
+
+  exe_vault.22.t:0 "Whoa Be-Gone"
+  exe_vault.22.d:0 "Nobody had any more ideas on what tests to run old Lanius through anymore; he’d survived every torture they could come up with and he’d killed every mutant, monster and robot they could think to throw at him. It all only seemed to make him meaner and tougher. So the Executives got together and discussed what to do with him. It was Engineer Charles Jones again who ended up proposing the most popular idea, and he and Carnegie went to work on it the next day. \n\nA week later the Executives senior staff and a number of junior employees had gathered at the old town where Lanius had been captured in the first place. Jones and Carnegie proudly unveiled the largest catapult the world had ever seen, aimed westward. The crowd cheered as Lanius was loaded into the bowl, the huge man dwarfed by its size. He shouted at them as Jones prepared to pull the lever and launch him back to Arizona. “You profligate degenerates are despicable!”\n\nSeconds later the Legate was merely a gleam in the desert sun, flying off into the far distance. The Executives celebrated, and the experiment on legate aerodynamics was declared a great success. They never saw him again, but rumours abound in Flagstaff that someone once found a Legate shaped crater outside the city ruins."
+  exe_vault.22.a:0 "That’s All Folks!"
+
+  exe_vault.23.t:0 "An Outside Take"
+  exe_vault.23.d:0 "“Angus, have you ever considered making just… a gun?” Louis Lofton, a security officer who’d taken to hanging around the science staff, said as he pitched two cards and drew fresh ones. Louis had been recruited from a defunct outfit the Legion had walked over and he’d maintained something of an outsider's outlook. Uncaring that security largely kept to itself, he’d joined the regular poker games some of the senior science and admin staff played each week.\n\n“What kind of gun? An acid sprayer? Maybe an explosive harpoon launcher? Something with viscous napalm perhaps?” Angus Carnegie, head of engineering, replied as he pitched his entire hand to replace it with new cards.\n\nLeslie Schade, the head accountant, groaned piteously as she listened to Angus and uncorked a small whiskey bottle. “Give me that!” Lofton snatched the bottle from her and took a swig himself. “You’ve had enough; last hand you tried to play six pairs.” Turning back to Carnegie he clarified, “No I mean a normal gun. Fires bullets. Maybe lasers. Maybe an improvement on the guns we already use.”\n\nCarter sat between the two men on the other side and took a long drag on her cigarette before passing on drawing any new cards. She gave Carnegie a meaningful look before asking, “Yes Angus, what do you think of that?” He frowned at the question as well as his hand before answering:"
+  exe_vault.23.a:0 "“I Guess I Could Do That.”"
+
+  exe_vault.24.t:0 "The Glad Hand"
+  exe_vault.24.d:0 "Timothy Gallo, veteran security officer, strode down the main street of Steamboat Springs. It was one of the first towns franchised by the Executives and he’d been there many times. A few of the civilians sneered at him as passed, the sight of vault power armour enough to inspire contempt. Others recognized him though and smiled or moved from his path quickly to cause him no trouble. Better for Old Gladhand Gallo to have you on his good side was the outlook of those who knew him. Behind him came an odd colourful cart pulled by brahmin.\n\nMayor Hanson met with Gallo on his porch, exchanging pleasantries before handing the man Steamboat Springs franchising fees. “Now what bit of vault circus have ye brought along with yer Tim?”\n\nGallo turned to look back at the cart, “Oh that? Newest product you see. Bugnuggets.” The mayor raised an eyebrow in response. “Oh I know, name’s a bit polarizing. They are legit though. Big, real, filling, and not stuffed with old wood shavings. We’ve got enough now to trade ‘em with anyone interested. Try one before we leave, on me, you know I wouldn’t steer you wrong Harold.”"
+  exe_vault.24.a:0 "“Guess It Couldn’t Hurt Much”"
+
+  exe_vault.25.t:0 "An Intervention"
+  exe_vault.25.d:0 "“Get the fuck up” Carter growled, slapping McKinley across the face. The startled CEO shook violently from the sudden jolt and began coughing, her chest ached and she felt nauseous and itchy. She started to ask Carter what happened but another fit of coughing cut her off. “You wanna know what happened?” Carter leaned in close, her voice dripping with anger “I’ll tell you. Some piece of shit from security handed you a couple jet inhalers last night and you relapsed. I locked you in here and you must have crashed out eventually.” \n\nMcKinley noticed there were bruises on her arms, as well as on Carter’s face. She rasped out “Did we have a fight or something?”\n\n“You didn’t want to leave the party.” Carter said simply, not elaborating. She put her hands on McKinley’s shoulders and pulled her upright to look her in the eyes, “Now I’ve arranged another fixer treatment and you are going.” Her voice lowered to a whisper, “And if this happens again I’ll slit your throat myself. I know exactly where you sleep; it’s my bed too.”\n\n“Sorry Jeannie.” McKinley was taken aback, both by Carter’s words and how deadly serious she sounded.\n\n“We’ve come so far Carol. Stick with me, please.”"
+  exe_vault.25.a:0 "“I Will”"
+
+  exe_vault.26.t:0 "Hedging Investments"
+  exe_vault.26.d:0 "Before the big one, where the world decided to shit itself to death, Vault-Tec was one of the greatest companies in the world. The greatest if you asked anyone with half a brain. The best corporate leaders, with the world's smartest scientists under them. No wonder the old bosses of America left the future up to us. We built the vaults, invented a couple hundred new technologies (give or take a few) and were more than ready for the end. Honestly you can thank us for there being anyone left.\n\nWe had to keep some things proprietary though and that’s why we built a vault in secret, that we call the corporate vault now. It had all the best; best facilities, best staff, and the best executive leadership. It even had a supply of FEV we’d ‘acquired’ without anyone knowing. Everything was going great and research was booming. Electric weapons, controlled bioweapons, unique security robots, supercomputers, tesla armours, we had amazing things cooking. We also had the luxuries brought in before the bombs dropped, including"
+  exe_vault.26.a:0 "An Arsenal of Pre War Weapons"
+  exe_vault.26.b:0 "The Finest in Pre War Medicine"
+  exe_vault.26.c:0 "A Library of Pre War Books"
+
+  exe_vault.27.t:0 "Stocks At All Time Low"
+  exe_vault.27.d:0 "Someone’s always gotta start shit though and ruin a good thing. For us it was some bleedy heart fuckin’ rat named Blake. He lost his mind over us testing FEV and radiation on live subjects. As if there’s anything to gain from testing on corpses. Anyway, his dumb ass sparked an organizational conflict  that almost got everyone killed and wrecked half the vault before fucking off to play preacher man for zombies. Those of us left had to huddle up in the parts of the vault that had survived, with his cult lurking around on the surface keeping an eye on us.\n\nWe hadn’t recovered by the time that green freak Attis and the Bastards of Steel showed up to fight over us. Word had gotten around about our FEV, probably because of Blake, and the mutants had some looking to steal it in the hopes of making some super mutant babies. The Steel pricks weren’t far behind, looking to kill the mutants. Only favor either of them ever did us was bumping off Blake and a bunch of his church. By the time their fight was over the vault had been blown sky high and we were left refugees. We did manage to carry away"
+  exe_vault.27.a:0 "Extra Prototype Armour Suits"
+  exe_vault.27.b:0 "Almost Everyone Who Was Left"
+  exe_vault.27.c:0 "The Alcohol Reserves"
+
+  exe_vault.28.t:0 "Line Goes Up"
+  exe_vault.28.d:0 "It’s been a while since the old vault went tits up and we’ve had to make a lot of changes to survive. Science had to take a backseat; the eggheads weren’t exactly able to think away monsters, starvation and hostile competitors. So we did what we had to. Security took the lead, admin and research had to suck it up and listen. To make sure the meanest mother fucker was in charge we started the Hostile Takeover. Every year someone can challenge the CEO to a winner takes company battle, with the loser getting downsized.\n\nAnd it’s worked. We’ve carved out a place topside thanks to our tech and some cut throat business tactics on the part of security. Local towns are now franchised under us and pay a cut of their goods and caps, we take whatever else we need, and we’ve even built up a new vault to work out of. The wasters call us the Executives now and that’s good as anything else; it would be shameful to call ourselves Vault-Tec in these conditions. The newest CEO is a nasty piece of work named McKinley, and she’s already several years into her tenure as chief Executive. She’s gone out of her way to increase funding for the science division and even started up experiments again. The first one was a real doozy"
+  exe_vault.28.a:0 "Turns Out You Do Need Only One Grenade To Kill A Deathclaw, From The Inside"
+  exe_vault.28.b:0 "Did You Know Butcher Pete Repeated Enough Times Can Drive Ghouls Feral?"
+  exe_vault.28.c:0 "We Learned That A Super Mutant Can Bend Steel Bars Given Enough Psycho"
+
+  exe_vault.29.t:0 "Responsibility, Fiscal And Otherwise"
+  exe_vault.29.d:0 "Leslie Schade, chief accountant, stepped up behind McKinley and Carnegie before clearing her throat multiple times. They were currently watching the newest strain of deathclaw being tested against a group of captive super mutants and each ignored her at first. On the sixth exaggerated sound McKinley turned around to shout “WHAT?!” Her annoyed expression softened somewhat as she watched Schade flinch. “Oh it’s you. We bankrupt yet?” The CEO was already glancing back to steal a glimpse of the deathclaw tearing open a mutant's belly.\n\n“No, well or, probably not? It’s hard to say when no one answers any of my audit requests.” McKinley’s expression was stony and Carnegie was ignoring them entirely in favor of cheering on the fight. “A…anyway, I’m here to formally request these new giant lizards of Carter’s be used sparingly ma’am. They’re extremely expensive to breed and feed.”\n\n“Is that all? Relax, you’ll figure it out. It’s your job to figure it out. Besides, they're almost too tough to die anyway, so we’ll barely need to replace them.” McKinley reached under her chair to retrieve a blue jug and handed it to Schade “Oh while you’re here take some Vault-Shine, had the boys set aside some for you. Now sit your ass down to watch the show or get the fuck back to work.”"
+  exe_vault.29.a:0 "“Thank You Ma’am, Yes Ma’am.”"
+
+  exe_vault.30.t:0 "What Are They Doing In There?"
+  exe_vault.30.d:0 "Reports coming in from the Twin Mothers territory were consistent: the tribals were big, strong and well taken care of. The scouts who’d made it in the furthest had confirmed suspicions of a vault in the heart of their territory. A few enterprising ones had even managed to capture a few of the tribeswomen, though they had fought tooth and nail. Carter had subjected those captives to rigorous testing and was now ready to share her findings with senior staff. She’d even prepared a slideshow presentation.\n\n“In conclusion, the Twin Mothers are all in peak or near peak physical condition. Uniformly tall, clean of any genetic defects or conditions, and often unusually strong. All the signs are there for either a highly selective long-term breeding program or genetic tampering. Those signs combined with the presence of a vault really seals it in my opinion. I propose we should reclaim this vault and compare notes.” Carter looked to McKinley whose attention had begun to wander after the first couple slides and cleared her throat, “I want this McKinley, it could lead to some major breakthroughs with my own work.”\n\nThe CEO sat up “You sure you don’t just want a vault full of strong women?” A few of the other staff laughed but Carter’s expression was hard and humorless. McKinley shrugged and looked away but said off-handedly"
+  exe_vault.30.a:0 "“Alright, It’s Your Show”"
+
+  exe_vault.31.t:0 "Diana Isn’t Home Right Now"
+  exe_vault.31.d:0 "Carter walked amongst the terminals and servers of the Vault 29 control center, an uncommon spring in her step as she went thanks to her good mood. A step behind her strode Louis Lofton, acting as her security escort. He looked around the place skeptically before breaking the silence “So, big boss gave you the whole place huh?”\n\n“To do with as I please, or in her words ‘to do whatever the fuck I want’. She says it’s a bonus for high performance, which is her way of saying it’s a gift without looking sentimental. And I will give her credit, this is quite the gift.” She stopped at one of the now defunct access terminals and idly pressed a few keys, with no response. “A shame this Diana retreated from the system rather than stay and meet with me. I feel as though we’d have had a lot to talk about. Genetic engineering, historical biology, DNA splicing…”\n\n“So what are you going to do with all this stuff? Something useful?” Carter was silent for a while thinking. It would be years of dedicated work to decrypt and figure out everything that had been left behind. Most pressing to her however was the biological research. Finally she answered:"
+  exe_vault.31.a:0 "“A New All-Purpose Research Center”"
+  exe_vault.31.b:0 "“Gene Therapy Labs”"
+  exe_vault.31.c:0 "“Bioweapon Research”"
+
+  exe_vault.32.t:0 "More Than Just A Soda"
+  exe_vault.32.d:0 "The buzzer for McKinley’s office door went off and before she could answer it was already sliding open. Miranda Grisson, head of Human Resources, strode in immediately after. Or at least McKinley assumed it was Grissom from the heels; the woman was obscured by a tall crate she was carrying. “Good news Carol!” It was definitely Grissom. She laid the crate on the seated woman’s desk and was followed in by interns carrying more.\n\nThe CEO growled “You call me McKinley. Now what the fuck is all this?” Miranda ignored her boss's anger and instead removed the lid from a crate with a flourish. Inside were rows and rows of untouched bottles of Bawls Guarana. “Holy shit,” McKinley stood up and took out a bottle. “I knew those pricks in Texas were holding out on us.\n\n“I’ll be throwing a party soon and distributing most of it to our high value employees, but I figured you’d like a crate all to yourself.” Miranda winked and slid the lid back onto the crate before heading back to the door, interns following closely. McKinley popped the cap off the bottle she’d taken before easing once more into her chair."
+  exe_vault.32.a:0 "“Oh Fuck Yeah”"
+
+  exe_vault.33.t:0 "Town Hall Meeting"
+  exe_vault.33.d:0 "McKinley stepped into the conference room and stopped mid stride. Seated inside was nearly every member of senior staff from all three divisions. She cleared her throat before asking “Is this a revolt? I don’t need another intervention.”\n\nCarter stood and gestured for the CEO to sit at the head of the table. “It’s neither. It is however a proposal, and a presentation. With everything that’s happened, with how far we’ve come in the last few years, we believe it’s time to be a proper company again. With a board of directors, a more even hierarchy, more accountability, less violence.” McKinley scanned the room as Carter spoke, looking at each person’s face for signs of uncertainty. She found none; even Smith and Gallo from security were present and just nodded when she turned her gaze upon them. “Just hear us out.”\n\nIt was several hours and cases of beer later by the time that everyone had had their say. It was just up to McKinley now. The CEO slammed her final empty drink on the table, punctuating the quiet that had now filled the room before asking “And this board, they’re gonna keep me on as CEO as long as I want?”\n\n“Outside of an emergency, yes.” Carter nodded, lighting another cigarette. McKinley sighed at the answer and thought for a moment before answering"
+  exe_vault.33.a:0 "“Fine”"
+
+  exe_vault.34.t:0 "Caged Bird"
+  exe_vault.34.d:0 "“How the fuck did you get me into a suit?” McKinley grumbled as she looked at herself in the mirror. Her tone was resigned rather than indignant.\n\n“I think you look good in it,” Carter said as she helped brush out the tangled mess of red-dyed hair atop the CEO’s head. “If it makes you feel better, not one expects you to wear this kind of thing all the time. Angus is going to be recording this address however, and it’s going out to the whole company. A little professionalism won’t kill you and you can rip it off after the party.”\n\nMcKinley snorted derisively, “You can bet your ass I will. There’ll at least be booze at this thing right?” She studied her own face in the mirror, tracing the many scars with her eyes.\n\nNow it was Carter’s time to snort, “Of course there will, half the board are alcoholics after all. Nothing harder though…” She punctuated that statement by placing her hands to rest around McKinley’s collar. “Just one speech and you can relax Carol.”"
+  exe_vault.34.a:0 "“Right, Just One Speech”"
+
+  exe_vault.35.t:0 "Vault-Tec Calling Once More"
+  exe_vault.35.d:0 "CEO McKinley stood in front of a couple thousand of her employees, dressed in a fine black and blue suit that had been tailored just for her. Microphones amplified her already loud voice and projected it through the great hall they’d prepared for the occasion.\n\n“Everyone listen up. I’m here to tell you, my Vault-Tec family, two things. First is that I’m damn proud of you all. A few years ago we were at rock bottom; no profits, downsized massively, no regional HQ, hostile mergers on the horizon, we were in the red. But the security team stepped up and we started a new era of cutthroat business to protect our interests. And we cut a lot of throats!” She paused for some of the employees to laugh or cheer at this remark before continuing, “but now we’re back on top and bigger than we’ve ever been since the world went to shit. That means we’re not just the Executives; it’s time to properly rebrand ourselves as Vault-Tec again!”\n\nLouder cheers followed this announcement, with some of the employees getting carried away before McKinley drew a gun and fired it off into the ceiling to regain their attention. “Remember I said two things! The second thing is that it’s time for another reorganization. A board of directors is being put together, hostile takeovers are over, and research and admin will be equal to security from now on. Your managers will let you know more in the future.” The response to this was more mixed but still positive underneath the curious murmurs. “Alright I’m done, take the rest of the day off.”"
+  exe_vault.35.a:0 "That Brought The Biggest Cheers"
+
+  exe_vault.36.t:0 "Vault-Tec Has Returned"
+  exe_vault.36.d:0 "The ghosts of the past don’t always lie quiet in the wasteland, with the memories of the old world often coming back to haunt the present day. Today we are reminded of just how true this is, as the old world company of Vault-Tec has returned. A name still known well throughout the wastes as either a savior, a monster, or both it remains to be seen which of these titles the newly revived company lives up to. All we know for sure is that Vault-Tec is back."
+  exe_vault.36.a:0 "Old World Graves Rest Uneasy"
+
+  exe_vault.37.t:0 "Planting Seeds"
+  exe_vault.37.d:0 "Eric Smith and Timothy Gallo, the two highest ranking security staff, stepped into Miranda Grissom’s office. Grissom was the head of human resources and she’d invited the two of them to come to her office and discuss team building exercises. Gallo was quick to make pleasantries and take a seat while Smith stood not far from the door, silently. He waited while the other two made small talk for minutes before clearing his throat and asking aloud “What is this actually about Grissom?”.\n\n“Oh Eric I’m sorry I almost forgot you were there; you’re so quiet! Please take a seat, we’ve got one more person coming and it’s best to wait for them.” Smith ignored the offer of a seat and instead crossed his arms before leaning against the wall. Moments later the door opened again and in came CRO Carter. She took a seat quickly after a brief greeting to the two men and apologizing to Grissom for being late. “Ah well you’re here now and we can get down to business. Timothy, Eric, I’ll be upfront and just get this out of the way. We’d like your assistance in trying to pitch a restructuring of the company to Carol.”\n\nSmith scowled and began to straighten up before Carter spoke up “Wait Eric, please. This isn’t some coup attempt or threat to your boss. If it was we’d never have invited you, and you know I wouldn’t try and screw over McKinley anyway don’t you?” Smith nodded after a moment and crossed his arms once more. “Look, just listen to what Miranda and I have to say. If you don’t like it, if neither of you are willing to go along with us, then we’ll drop it for now. Deal?”"
+  exe_vault.37.a:0 "“Deal”"
+
+  exe_vault.38.t:0 "A Deal With The Devil?"
+  exe_vault.38.d:0 "The Executives, a company claiming to descend from the legendary Vault-Tec, have reached out to us with an offer for trade. They want access to our vast supply of resources, and in exchange they offer high quality Vault-Tec products, and chems made in their laboratories."
+  exe_vault.38.a:0 "I see no evil."
+  exe_vault.38.b:0 "We’ll pass."
+
+  exe_vault.381.t:0 "New California Accepts!"
+  exe_vault.381.d:0 "The NCR has accepted our offer, goods may now cross our borders."
+  exe_vault.381.a:0 "Excellent"
+
+  exe_vault.382.t:0 "New California Rejects Us!"
+  exe_vault.382.d:0 "The NCR has declined our offer, they may still pose a threat."
+  exe_vault.382.a:0 "So be it"
+
+  exe_vault.39.t:0 "Allies From The Ashes?"
+  exe_vault.39.d:0 "The Executives, power armoured profligates who have now come to dominate Colorado since the failure of Lanius, are sending us an offer. They wish to send extra slaves to our markets and in exchange they get our junk tech as well as denarius for the slaves."
+  exe_vault.39.a:0 "A suitable agreement..."
+  exe_vault.39.b:0 "...for sheep."
+
+  exe_vault.391.t:0 "The Legion Agrees"
+  exe_vault.391.d:0 "The Legion has accepted our offer, let the gold flow."
+  exe_vault.391.a:0 "How exciting"
+
+  exe_vault.392.t:0 "The Legion Stands Hostile"
+  exe_vault.392.d:0 "The horde remains belligerent, we may find ourselves at odds with them again"
+  exe_vault.392.a:0 "Damn"
+
+  exe_vault.40.t:0 "An offer from the Executives?"
+  exe_vault.40.d:0 "The Executives, a violent company carrying the prewar symbols of old Vault-Tec have come with a trade offer for us, they’re promising opulent Vault-Tec products and gadgets in exchange for surplus weapons produced here in Rio."
+  exe_vault.40.a:0 "Why not?"
+  exe_vault.40.b:0 "We'll pass."
+
+  exe_vault.401.t:0 "Safe On The Rio Grande"
+  exe_vault.401.d:0 "The Republic of the Rio Grande has accepted our offer, we may rest easy."
+  exe_vault.401.a:0 "Benefiting us both."
+
+  exe_vault.402.t:0 "The Threats Across The Rio Grande"
+  exe_vault.402.d:0 "The Republic of the Rio Grande has declined our offer, they may still pose a threat."
+  exe_vault.402.a:0 "Keep an eye out."
+
+  exe_vault.41.t:0 "Vault-Tec On The Line?"
+  exe_vault.41.d:0 "Blue armoured soldiers from the north have come to us with an offer. They’ll send us engineers to help with our robots as well as spare robot parts and in exchange they’re asking for... people? "
+  exe_vault.41.a:0 "Labor is cheap, parts are not."
+  exe_vault.41.b:0 "No thanks."
+
+  exe_vault.411.t:0 "Ejército Will Deal"
+  exe_vault.411.d:0 "The Army of Mexico has accepted our offer, we may rest easy."
+  exe_vault.411.a:0 "That's one border safe."
+
+  exe_vault.412.t:0 "Ejército Will Not Listen"
+  exe_vault.412.d:0 "The Army of Mexico has declined our offer, they may still pose a threat."
+  exe_vault.412.a:0 "He's mad anyway."
+
+  exe_vault.42.t:0 "New Old Vegas"
+  exe_vault.42.d:0 "Underneath the dusty remnants of the prewar town of Old Vegas lay the freshly built Vault E37. Its steel walls were filled with flashing lights, jingling coin sounds and garish colors all designed to bring the casino experience to the region. This vault was built with not just experimentation in mind but also leisure and tourism. Rows and rows of traditional and experimental games of chance filled the great hall that dominated the first floor. The biggest draw was the new Vault-Tec electronic game line, playable through a pip-boy without the need of a dealer and displaying top of the line pixelated images.\n\nOn the second floor engineers manipulated game odds in real time and researchers recorded vast amounts of data regarding gambler behavior. It was their jobs to develop new games, conduct social experiments and ensure Vault-Tec Entertainment Division always came out ahead at the end of the day. They were instructed to save their worst manipulations for outsiders however, as too many destitute employees reflected ill on the company.\n\nAlready the call of the vault and its games of chance worked throughout the nearby lands and travelers looking for Vegas quickly became frequent in and around Vault-Tec territorial holdings. The town on the surface had slowly lurched to life during construction, with traders and entrepreneurs setting up shop to serve the Vault-Tec interns overseeing construction, and now it was coming back in full. It was an incorporated town so any business done kicked back a little to the company overall, making Vault-Tec ever richer."
+  exe_vault.42.a:0 "A Truly Original Concept"
+
+  exe_vault.43.t:0 "Green Hell’s Basement"
+  exe_vault.43.d:0 "Constructing a vault underneath a riotous, mutant forest had not been easy. Numerous slaves and interns had been lost to various diseases, toxic flora, and mutant creatures of all kinds. Vault E245 is nestled beneath the trees now however, daring them to try digging their roots in. CRO Carter is the acting overseer for the vault though her attention and time is spread thin so she is rarely present. E245 is focused on experiments dealing with the mutated plant life, its possible uses, and whether it’s possible to recreate the tainted GECK that was used to make it.\n\nProgress is already being made, with researchers having discovered a fern that has slight mutagenic properties reminiscent of FEV. It’s a line of research that’s likely years out from any real fruits but it’s a sign that the research is worth doing. Further work is slowed however by constant clashes between security forces and the jungle itself, as gathering more samples is rather difficult when they fight back. More Vault-Tec brand flamethrowers are being manufactured even now."
+  exe_vault.43.a:0 "No Wonder Adam and Eve Left This Dump"
+
+  exe_vault.44.t:0 "A Haunted Hole"
+  exe_vault.44.d:0 "Vault E14 had been constructed very close to the chapel of the now defunct Chained Choir, close enough for a tunnel to reach the underground facility responsible for those strange psykers. Everything about the research conducted within was something of a mystery to Vault-Tec research staff and there were entire file cabinets worth of proposals on where to begin. Even more intrigued was CEO McKinley herself. Tales of haunted psychics controlling the minds of their victims and turning them into puppets reminded her of pulp comics she’d enjoyed as a child.\n\nShe’d ordered a research vault in the hopes of one day recreating some of the results that had birthed the choir. Some of the researchers she told in plain terms “Find a way to give me psychic powers, but without the demons or voices in my head.” Progress is slow to start however and real progress is likely years away. Starting from scratch by reverse engineering what little documentation remains under the chapel is the best the team can do for now. It’s not helped by the pervasive reports of staff feeling uncomfortable or watched while inside the brand new vault. They say they enjoy the music though."
+  exe_vault.44.a:0 "It’s Probably Nothing"
+
+  exe_vault.45.t:0 "A Personal Playground"
+  exe_vault.45.d:0 "The vault built under Dallas, numbered E213, was built to very particular specifications. Everything was constructed to suit the singular vision of CEO McKinley, who insisted on heading up the architectural design team for E213. Her hands are now on every inch of the vault. The first floor is near standard with quarters and amenities for staff as well as a lavish office for the Chief Executive herself. The only oddity really is that there is a large and fully stocked arsenal on the floor that sees a lot of traffic. Deeper than the first floor however is where things start to become more unique.\n\nThe bottom floor is a prison, made for holding traitors to the company as well as captive mutants and brotherhood of steel agents. Every now and then one would be released from their cell and into the floors between. These levels were designed to act as a deadly labyrinth made to grind down these would-be escapees. McKinley had envisioned halls stuffed with traps, rooms filled with lethal hazards, hostile security systems and more to test the unlucky subjects. Devices planted throughout the vault would record everything for research and posterity purposes. Should anyone make it all the way to the first floor they would find McKinley waiting, either to offer them a job or a lethal beating with her hammer."
+  exe_vault.45.a:0 "A CEO Needs Some Fun After All"
+
+  exe_vault.46.t:0 "True Homecoming"
+  exe_vault.46.d:0 "The grand reopening of the Corporate Vault was a gala affair, attended by hundreds of employees as well as representatives from dozens of franchised communities and neighboring powers. There was no violence, and no expense had been spared to provide refreshments for all in attendance. This was a special day for the restored Vault-Tec and the occasion had McKinley and the rest of the senior staff feeling generous. It was after all a chance to show off the wealth, power and prestige of Vault-Tec and leave a lasting impression on all who came.\n\nCEO McKinley herself christened the vault as the door opened ceremonially. She had no patience for giving tours however and left that work to Grissom and her team before heading off to the bar with Carter. Spirits were very high; the CEO was all smiles even while wearing her formal suit and Leslie Schade was actually sober.\n\nThe reconstruction narrative was something of a misnomer in actuality, as the old vault ruins were still too radioactive for large scale construction or long term dwelling. The new corporate vault had been built as close as reasonable to the old one however, and would be their new home."
+  exe_vault.46.a:0 "As We Deserve"
+
+  #executives tooltips
+
+  exe_uoa_deal_tt:0 "§gWe will send an offer to Keats, offering money in exchange for the city of Los. §GIf he accepts, we will have access to the Corporate Vault once more...§! §RIf he denies, however, we will gain a §Owargoal§! for the city.§!§!"
+  exe_choosing_mckinley_path_tt:0 "§gMcKinley's methods would certainly be much §Gfaster§!...§!"
+  exe_choosing_carter_path_tt:0 "§g... but Carter's way has its own §Gadvantages§!.§!"
+  exe_sided_with_mckinley_flag:0 "§YMcKinley Triumphed§!"
+  exe_sided_with_carter_flag:0 "§YCarter Found A Way§!"
+  exe_took_carter_path_tt:0 "If we completed the focus "§YThe Frontline Of The Future§!":"
+  exe_armour_combined_tt:0 "Removes the previous two §YSpirits§! and combines them into:"
+  exe_fruit_22_choice_tt:0 "We should see §YResults§! in 3 to 4 months"
+  exe_vault_construction_unlock_tooltip:0 "Unlocks §YDecisions§! to construct specialized §YVaults§! in certain locations."
+
+  #executives decisions
+  EXE_vault_builder_category:0 "Vaults"
+  EXE_vault_builder_category_desc:0 "It's In The Name"
+  EXE_vaults_surveyed_tooltip:0 "Adds §G1§! to the §YVault-Tec Calling!§! Vaults Surveyed Count."
+
+  EXE_rebuild_corporate_vault_decision:0 "Repairing The Corporate Vault\n Stage 1: Cleanup"
+  EXE_rebuild_corporate_vault_decision_desc:0 ""
+  EXE_rebuild_corporate_vault_decision_2:0 "Repairing The Corporate Vault\n Stage 2: Restoration"
+  EXE_rebuild_corporate_vault_decision_2_desc:0 ""
+  EXE_rebuild_corporate_vault_decision_3:0 "Repairing The Corporate Vault\n Stage 3: Power Online"
+  EXE_rebuild_corporate_vault_decision_3_desc:0 ""
+  EXE_corporate_vault_stage_1_flag:0 "Corporate Vault Stage 1: Complete"
+  EXE_corporate_vault_stage_2_flag:0 "Corporate Vault Stage 2: Complete"
+
+  EXE_construct_vegas_vault_decision:0 "Constructing The Vegas Vault\n Stage 1: Groundwork"
+  EXE_construct_vegas_vault_decision_desc:0 ""
+  EXE_construct_vegas_vault_decision_2:0 "Constructing The Vegas Vault\n Stage 2: Calculations"
+  EXE_construct_vegas_vault_decision_2_desc:0 ""
+  EXE_construct_vegas_vault_decision_3:0 "Constructing The Vegas Vault\n Stage 3: Advertisement"
+  EXE_construct_vegas_vault_decision_3_desc:0 ""
+  EXE_vegas_vault_stage_1_flag:0 "Old Vegas Vault Stage 1: Complete"
+  EXE_vegas_vault_stage_2_flag:0 "Old Vegas Vault Stage 2: Complete"
+
+  EXE_construct_eden_vault_decision:0 "Constructing The Eden Vault\n Stage 1: Defoliate"
+  EXE_construct_eden_vault_decision_desc:0 ""
+  EXE_construct_eden_vault_decision_2:0 "Constructing The Eden Vault\n Stage 2: Drilling"
+  EXE_construct_eden_vault_decision_2_desc:0 ""
+  EXE_construct_eden_vault_decision_3:0 "Constructing The Eden Vault\n Stage 3: Samples"
+  EXE_construct_eden_vault_decision_3_desc:0 ""
+  EXE_eden_vault_stage_1_flag:0 "Eden Vault Stage 1: Complete"
+  EXE_eden_vault_stage_2_flag:0 "Eden Vault Stage 2: Complete"
+
+  EXE_construct_dallas_vault_decision:0 "Constructing The Dallas Vault\n Stage 1: Design"
+  EXE_construct_dallas_vault_decision_desc:0 ""
+  EXE_construct_dallas_vault_decision_2:0 "Constructing The Dallas Vault\n Stage 2: Blasting"
+  EXE_construct_dallas_vault_decision_2_desc:0 ""
+  EXE_construct_dallas_vault_decision_3:0 "Constructing The Dallas Vault\n Stage 3: Gilding"
+  EXE_construct_dallas_vault_decision_3_desc:0 ""
+  EXE_dallas_vault_stage_1_flag:0 "Dallas Vault Stage 1: Complete"
+  EXE_dallas_vault_stage_2_flag:0 "Dallas Vault Stage 2: Complete"
+
+  EXE_construct_choir_vault_decision:0 "Constructing The Chapel Vault\n Stage 1: Drainage"
+  EXE_construct_choir_vault_decision_desc:0 ""
+  EXE_construct_choir_vault_decision_2:0 "Constructing The Chapel Vault\n Stage 2: Occultism"
+  EXE_construct_choir_vault_decision_2_desc:0 ""
+  EXE_construct_choir_vault_decision_3:0 "Constructing The Chapel Vault\n Stage 3: Anointing"
+  EXE_construct_choir_vault_decision_3_desc:0 ""
+  EXE_choir_vault_stage_1_flag:0 "Chapel Vault Stage 1: Complete"
+  EXE_choir_vault_stage_2_flag:0 "Chapel Vault Stage 2: Complete"
+
+
+
+  EXE_diplomacy_actions_category:0 "Business Negotiations"
+  EXE_diplomacy_actions_category_desc:0 ""
+  exe_trade_partner:0 "Trading Partners"
+  exe_trade_relations:0 "Vault-Tec Trading Agreement"
+  exe_robot_support:0 "Vault-Tec Support Hotline"
+
+  EXE_trade_with_ncr_decision:0 "Reach Out To New California"
+  EXE_trade_with_ncr_decision_desc:0 "Our merry little band now borders the titan of the West, the New California Republic. They’re rich, with wealth unheard of in the wasteland. Unfortunately they’ve got an army to match. We should take the diplomatic route, and strike a deal with the NCR."
+
+  EXE_trade_with_ces_decision:0 "Make An Offer To The Legion"
+  EXE_trade_with_ces_decision_desc:0 "We must secure our new borders from those who would pose a threat to the gang, and the Legion is one hell of a threat. Our offer for them is simple: we'll send some of our subjects their way and in exchange they’ll pay us and send us back their unused tech."
+
+  EXE_trade_with_rrg_decision:0 "Radio Across The River To The Rio Grande"
+  EXE_trade_with_rrg_decision_desc:0 "The Republic of the Rio Grande has come to be our neighbor, and as all good neighbors should do, we’ll pay them a visit and try to strike an agreeable arrangement. Vault-Tec goodies and products in exchange for their surplus armaments."
+
+  EXE_trade_with_arm_decision:0 "Try To Contact The AI That Thinks It Is Santa Anna"
+  EXE_trade_with_arm_decision_desc:0 "Santa Anna and his legion of robots are at our doorstep. It would be wise to find common ground with artificial intelligence. We can send them Vault-Tec certified engineers as well as robot parts and in exchange they’ll send some of their excess laborers to become willing “subjects” for our ethical experiments."
