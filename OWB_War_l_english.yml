@@ -1,0 +1,69 @@
+﻿l_english:
+
+  ### Attis Army War
+  WAR_NAME_SHA_IMO:0 "Attis Army Remnants Infighting"
+  WAR_NAME_SHA_UOA:0 "Attis Army Remnants Infighting"
+  WAR_NAME_UOA_SHA:0 "Attis Army Remnants Infighting"
+  WAR_NAME_UOA_IMO:0 "Attis Army Remnants Infighting"
+  WAR_NAME_IMO_SHA:0 "Attis Army Remnants Infighting"
+  WAR_NAME_IMO_UOA:0 "Attis Army Remnants Infighting"
+
+  ### NCR-Legion War
+  WAR_NAME_NCR_CES:0 "NCR-Legion War"
+  WAR_NAME_CES_NCR:0 "NCR-Legion War"
+
+  ### CPF Civil War
+  WAR_NAME_BGR_COM:0 "Canadian People's Front Civil War"
+  WAR_NAME_BGR_LOI:0 "Canadian People's Front Civil War"
+  WAR_NAME_BGR_STC:0 "Canadian People's Front Civil War"
+  WAR_NAME_COM_BGR:0 "Canadian People's Front Civil War"
+  WAR_NAME_COM_LOI:0 "Canadian People's Front Civil War"
+  WAR_NAME_COM_STC:0 "Canadian People's Front Civil War"
+  WAR_NAME_LOI_BGR:0 "Canadian People's Front Civil War"
+  WAR_NAME_LOI_COM:0 "Canadian People's Front Civil War"
+  WAR_NAME_LOI_STC:0 "Canadian People's Front Civil War"
+  WAR_NAME_STC_BGR:0 "Canadian People's Front Civil War"
+  WAR_NAME_STC_COM:0 "Canadian People's Front Civil War"
+  WAR_NAME_STC_LOI:0 "Canadian People's Front Civil War"
+
+  ### Grand Electorate Civil War
+  WAR_NAME_STN_DUN:0 "Grand Electorate Civil War"
+  WAR_NAME_STN_PLT:0 "Grand Electorate Civil War"
+  WAR_NAME_PLT_STN:0 "Grand Electorate Civil War"
+  WAR_NAME_PLT_DUN:0 "Grand Electorate Civil War"
+  WAR_NAME_DUN_STN:0 "Grand Electorate Civil War"
+  WAR_NAME_DUN_PLT:0 "Grand Electorate Civil War"
+
+  ### War of the Second Republican Coalition
+  WAR_NAME_BRA_WPG:0 "War of the Second Republican Coalition"
+  WAR_NAME_WPG_BRA:0 "War of the Second Republican Coalition"
+  WAR_NAME_DLN_WPG:0 "War of the Second Republican Coalition"
+  WAR_NAME_WPG_DLN:0 "War of the Second Republican Coalition"
+
+  ### Second Nevada Road War
+  WAR_NAME_D07_NCR:0 "Second Nevada Road War"
+  WAR_NAME_NCR_D07:0 "Second Nevada Road War"
+
+  ### Operation: Sunburst
+  WAR_NAME_MOT_MOJ:0 "Operation: Sunburst"
+  WAR_NAME_MOJ_MOT:0 "Operation: Sunburst"
+
+  ### Second NCR-Brotherhood War
+  WAR_NAME_BOS_NCR:0 "Second NCR-Brotherhood War"
+  WAR_NAME_NCR_BOS:0 "Second NCR-Brotherhood War"
+
+  ### Navarro Crisis
+  CIVIL_WAR_NAME_NAT_D13:0 "The Navarro Crisis"
+  CIVIL_WAR_NAME_NAT_D12:0 "The Navarro Crisis"
+  CIVIL_WAR_NAME_D13_NAT:0 "The Navarro Crisis"
+  CIVIL_WAR_NAME_D13_D12:0 "The Navarro Crisis"
+  CIVIL_WAR_NAME_D12_NAT:0 "The Navarro Crisis"
+  CIVIL_WAR_NAME_D12_D13:0 "The Navarro Crisis"
+
+  ### Flower Wars
+  WAR_NAME_ATE_ITZ:0 "The Flower Wars"
+  WAR_NAME_ITZ_ATE:0 "The Flower Wars"
+
+  ### Yorkton's Rebellion
+  WAR_NAME_BRA_DLN:0 "Yorkton's Rebellion"
+  WAR_NAME_DLN_BRA:0 "Yorkton's Rebellion"

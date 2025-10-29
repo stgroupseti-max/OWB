@@ -1,0 +1,884 @@
+﻿l_english:
+
+  #Characters
+
+  STN_PIERRE_SOLOMON_NAME: "Pierre Solomon"
+  STN_PIERRE_SOLOMON_DESC: "A swindler by trade Pierre, if that really is his name, has proven to be much like a cockroach. Through several suspicious deaths Pierre managed to become the Electorate of Warman and Grandora separately, this strange power base all but guaranteed his victory. Yet still there exists rumours of fraud. Pierre has attempted to recently move past his schmuck past and drag the Electorate into the future, whether they like it or not."
+  STN_loris_name:0 "Loris Shrike"
+  STN_loris_advisor_desc:0 "To "win" the Raffle in Stoon is perhaps the worst news one can receive. No one has any illusions about the fate the befalls those dragged away to the aristocrats' feasts, and Loris's fate was all but sealed the moment her name was drawn. The only thing standing between her and her grisly end was a desperate plea: they couldn't eat her, not while she had so much more to offer in life. \n\nAfter all, no one can put guns together like she can, or so she claimed. And when chance brought her cries to Pierre's ears and she was put to the test, it was true. Repairs, upgrades, or entirely new constructions, the firearms are as fine as armory salvage. So now Loris spends her days building custom arms for Stoon's more influential citizens, knowing the day she fails to deliver a masterpiece is the day they take her down to the kitchens to fulfill her allotted end."
+
+  STN_Beya_name:0 "Beya"
+  STN_beya_desc:0 ""
+  STN_leshy_name:0 "Leshy"
+  STN_jean_name:0 "Jean Mangeurde"
+  STN_jean_advisor_desc:0 "The upper echelons of Stoon society is ravenous in its appetite for new dishes, and none serve them better than Jean Mangeurde. The head chef of the Stoon's kitchens, Jean has practiced tirelessly with every ingredient he can acquire; not least of all, human flesh. Every preparation and seasoning that can be tested with it, he has tried. Anything to keep the aristocrats happy for one more meal. Not for his position mind you, or all the benefits it brings him. No, Jean is an artist, a true chef, and his pride will not allow him to slack in his quest to craft the finest delicacy that can be wrought with human hands. Or made out of them."
+
+  STN_griffin_name:0 "Sir Griffin"
+  STN_griffin_desc:0 ""
+  STN_daniel_name:0 "Daniel of Wadena"
+  STN_daniel_desc:0 ""
+  STN_argo_name:0 "Argo Beldam"
+  STN_argo_advisor_desc:0 "Argo never wanted to be a knight. Violence wasn't his idea of a future. But the pressures of his parents and of society gave him no out, and so he took up the life presented to him.\n\nArgo never wanted to go into exile. Abandoning his home, to never see it again, was the last thing he could imagine. But the demands of the bureaucrats were law, and so he walked out of Manitoban land with the rest of the Lettermen.\n\nArgo never wanted to watch his brothers and sisters die pointless deaths. They were what little link he had left to his lost life in the Kingdom. But the violence of the Electorals is insatiable, and it was hard enough to keep himself alive with threats on every side.\n\nArgo Bedlam is very much tired of what others want, what the world wants. So his sword now swings for his own desires alone, caring not for who leads Stoon, but what they can offer him."
+
+  STN_freedom_name:0 "General Freedom"
+  STN_freedom_desc:0 ""
+  STN_Dr_Toboggan_name:0 "Dr. Toboggan"
+  STN_Dr_Toboggan_advisor_desc:0 "For Dr. Toboggan, PhD Pending, the road to caretaker of the Asylum began over a hundred years ago, when he saw the Cathedral of Happiness go the way of the World - burned away in nuclear fire. As the Super Mutants scattered to the winds following that defeat, Toboggan has often found himself as a follower of larger bands; a tag along, attempting to give his more level headed advice to his fellow mutants and keeping watch over those who struggled with the loss of Unity.\n\nHis long journey to Stoon nearly stopped in Wyoming, as his current pack under Mogul began settling down there. But when a sizable group of Nightkin announced they were continuing northward following a new lead on FEV, he couldn't stop himself from going to keep watch over them. While he had long since abandoned use of stealth boys, their effects on the minds of his fellows had long since become as pronounced as the purple of their skin.\n\nBirch Hills Insane Asylum was to be a place of healing for all the super mutants suffering, a place to rest on the doorsteps of the MANIFEST supplies of FEV they had tracked down in Canada. Filled with pre-war text books on psychology and surrounded by sturdy walls, it would make a secure home to study the Nightkin's accumulated ailments. Yet as the Dandies have hijacked his work for their own terrible ends, he's been forced to divide his days between helping his charges and keeping them from the chopping block..."
+  STN_life_name:0 "Life McMillan"
+  STN_life_advisor_desc:0 "Once members of the same elite Nightkin squad in the Master's Army, Life, Liberty and The Pursuit have stuck together following the fall of Unity and watched each other's backs against humans and mutants alike. Stuck in Dr. Toboggan's Asylum, listening to the same radio channels as General Freedom, they were the first to join him in embracing the ideals of a lost country.\n\nLife McMillan was the leader of the squad, and the one most responsible for keeping them together. Even as others fell or fled, McMillan kept them moving forward, following the trail blazed by other nightkin looking for new sources of FEV further and further north.\n\nThe time in the asylum affected them all differently. Taking the name Life from a line on the radio, McMillan tries to stay away from the fighting now. Instead, he believes that as the Master gave life to them, he should cultivate stronger forms of life to survive the wastes if FEV can no longer be found. He spends his days trying to raise plants and animals better adapted to their surroundings. Dr. Toboggan won't sign off on letting him raise a pack of normies, for some reason."
+  STN_liberty_name:0 "Liberty Belle"
+  STN_liberty_advisor_desc:0 "Once members of the same elite Nightkin squad in the Master's Army, Life, Liberty and The Pursuit have stuck together following the fall of Unity and watched each other's backs against humans and mutants alike. Stuck in Dr. Toboggan's Asylum, listening to the same radio channels as General Freedom, they were the first to join him in embracing the ideals of a lost country.\n\nThe Fall of the Master was especially hard on Belle, who gained her current name from a terrible habit she picked up while wandering east: ringing like a bell whenever someone spotted her. Even if she was in a stealth field. Effectively removing her from raids on normie caravans, she began to look for ways to support their band with her other skills. At their camps she would reorganize their supplies, and keep their gear functional despite the ravages of sand and time.\n\nThe time in the asylum affected them all differently. While she listened to the radio as intently as Life and Pursuit, it was a pre-war propaganda poster that brought her around to their line of thinking. Plastered upon it was her new found namesake: the statue of Liberty, a 151 foot tall green woman that the nation of old must have given reverence to. Dressed in similar robes, she attempts to share both her knowledge of logistics and her worship of the Green Giant of the East, under whom both man and mutant can be free."
+  STN_pursuit_name:0 "The Pursuit"
+  STN_pursuit_advisor_desc:0 "Once members of the same elite Nightkin squad in the Master's Army, Life, Liberty and The Pursuit have stuck together following the fall of Unity and watched each other's backs against humans and mutants alike. Stuck in Dr. Toboggan's Asylum, listening to the same radio channels as General Freedom, they were the first to join him in embracing the ideals of a lost country.\n\nWhatever name the Pursuit had in Unity is now lost to anyone but McMillan and Belle: even the Pursuit no longer recalls it. The stealthiest member of the team, the Pursuit has always been a natural hunter of the wastes. As such, Belle and McMillan would often give him their spare stealth boys as his burned out, exacerbating his eccentricities.\n\nThe time in the asylum affected them all differently. Taking the name The Pursuit from a line on the radio, he believes that "Happiness" is just another target to be tracked down and run to ground. Where it is, exactly, he hasn't yet figured out, but he knows he's getting closer by the day."
+
+  #traits
+
+  stn_grandmaster:0 "Grandmaster of the Order of Saint George"
+  stn_she_who_survived_the_scarlet_blizzard:0 "She Who Survived the Scarlet Blizzard"
+  stn_twice_scarred:0 "Twice-Scarred"
+  stn_president_of_the_free_canadarians:0 "President of the Free Canadians"
+  stn_radio_freedom_host:0 "Host of Radio Freedom"
+  stn_champion_of_freedom:0 "Champion of Democracy"
+  stn_solemn:0 "The Solemn Knight"
+  stn_forsaken:0 "The Forsaken Knight"
+  stn_slayer_of_beya:0 "The Slayer of Beya the First"
+  stn_a_liar_and_a_schemer:0 "Liar and a Schemer"
+  stn_mentats_doctor:0 "Head Of The Asylum"
+  stn_trait_of_life:0 "Amber Waves"
+  stn_trait_of_liberty:0 "Standing Tall And Green"
+  stn_trait_of_happiness:0 ""Happiness""
+  stn_knight_of_darkness:0 "The Dusk Knight"
+  stn_cowardly_engineer:0 "Desperate Designer"
+  stn_to_serve_man:0 "To Serve Man"
+
+  #ideas
+
+  stn_stampede_freedom:0 "The Stampede of Freedom"
+
+  stn_wanuskewin:0 "Wanuskewin Heritage Park"
+
+  stn_bloodthirsty_warriors:0 "Bloodthirsty Warriors"
+
+  stn_our_lands_their_blood:0 "Our Lands... Their Blood"
+  stn_union_adjourned:0 "Union Adjourned"
+
+  stn_dundurn_lease:0 "The Pro-Bono Act"
+  stn_pleasantdale_farmer_drive:0 "The Green Pastures Deal"
+
+  stn_feast_hunger:0 "The Gnawing Hunger"
+  stn_cannibal_recruitment:0 "Festival of the Old Blood"
+
+  stn_stoon_buff_1:0 "Saskatoon Gumption"
+  stn_stoon_buff_2:0 "Old Blood Pathfinding Tactics"
+  stn_stoon_buff_3:0 "The Grand Stoon Markets"
+  stn_stoon_buff_4:0 "Real Bad Blood"
+
+  stn_knightly_tithings:0 "Knightly Tithings"
+  stn_tower_shields:0 "Tower Shields"
+  stn_by_god_alone:0 "By God Alone"
+
+  stn_everyman_drive:0 "The Everyman Drive"
+  stn_patriots_legends:0 "Legend of the Patriot"
+  stn_mutant_suiciders:0 "Super Mutant Suiciders"
+  stn_freedom_boys:0 "Freedom's Boys"
+  stn_freedom_boys_2:0 "The President's Nightkin"
+  
+
+  stn_visions_of_the_blizzard:0 "Memories of the Blizzard"
+  stn_umbravore_killer:0 "Umbravore Hunters"
+  stn_lucifer_sponsorship:0 "Lucifer Sponsorships"
+
+  stn_anti_american_sentiment:0 "Anti-American Sentiments"
+  stn_bitter_hearts:0 "A Sad People"
+
+  stn_the_snakes_scheme:0 "The Snakes Are Scheming..."
+
+  stn_the_nightkin_mental_crisis:0 "Nightkin Mental Crisis"
+  stn_the_nightkin_mental_crisis_desc:0 "The Nightkin in Wakaw require a lot of hands to keep them where they belong. Toboggan may do his best, but without intervention on our behalf, the odds are not in their favor."
+
+  stn_the_disease_hurts:0 "The Blight"
+  stn_the_disease_hurts_desc:0 "Though Pierre did follow through on his cure for that mysterious ailment, the people of the Stoon Tribes will take time to recover in full. Still, Beya must honor her dues... For now."
+
+  STN_leshy_fangs:0 "Fangs as Sharp as Swords"
+
+  STN_leshy_scales:0 "Scales as Tough as Steel"
+
+  stn_leshy_ancient_knowledge:0 "Leshy's Pre-War Knowledge"
+
+  stn_leshy_venom_drugs:0 "Venom-Infused Red Fern"
+
+  nf_stn.1.t:0 "A Nation of Cannibals"
+  nf_stn.1.d:0 "In the winding alleys of Stoon lay many dejected men and women, their lives spent rotting away in Dundurn factories and steel mills. As the wheels of industry turn, these people will be left behind in favor of a new generation. Such is the succession of business. \n\nThose that were not conquered by the fires of forward-thinking men fell victim to the grand raffles: a dreadful affair that determined who was to be a feast for their neighbors. Blood ran in the streets of Stoon just as much as rainwater did, and though it was not gnashing teeth that left their mark anymore, that same spirit of the hunt flowed through them all. Those lucky enough to be granted a mercy token would be spared in a raffle, their meaningless lives allowed to continue plinking on without being a meal for the nobles. \n\nStoon was a city of blood-drinkers under the Dandelion Society, and they wore that title proudly. The other Electors hated them for it, but they knew that disagreeing with the nobility was a quick way to find a knife in your gut— or worse."
+  nf_stn.1.a:0 "Many local facilities bowed to them out of fear."
+  nf_stn.1.b:0 "The Dandies placed their faith in guns."
+  nf_stn.1.c:0 "Foreign legions would be their ally."
+  nf_stn.1.c.tt:0 "Two units of mercenaries will be spawned!"
+
+  nf_stn.2.t:0 "The Whispers from Birch Hills"
+  nf_stn.2.d:0 "But the raffles were not enough to feed the high echelons. To ring the populace further would jeopardize the nation's good sense of industry, or worse, make their dining habits even more vain. The last impression they needed to leave on the rest of the Electorate was content greed, no matter how true it may be. \n\nSo a deal was arranged with Dr. Shane Toboggan: a genius mutant and graduate from Chase University. His Nightkin Asylum at Birch Hills and its mutant populace became open to the Stoon nobles, who had a growing scheme amongst them: could mutants be effective livestock? With the amount of FEV that the Doctor claimed MANIFEST had stored, could they double or perhaps triple their meat value in any given head? \n\nThe possibilites made them froth at the mouth. But first, they would need to ensure the Asylum's welfare; after all, a lab without subjects was no good lab at all, and they would need to look into ways to break down their tough texture. \n\nGreen Meat, Blue Meat— whatever it would be, it would have to come from Birch Hills Insane Asylum."
+  nf_stn.2.a:0 "Let us try to use them as bio-fuel, first."
+  nf_stn.2.b:0 "A military presence around Birch Hills is key."
+  nf_stn.2.c:0 "We should emphasize caring for the Nightkin."
+  nf_stn.2.c.tt:0 "This may benefit us later..."
+
+  nf_stn.3.t:0 "Take Heed of Our... Responsibilities"
+  nf_stn.3.d:0 "The Electorate was always a volatile place. Dundurn's machines rivalled that of pre-war tech magnates and their industrial barons held many stakes across The Katch, and Pleasantdale's experiments roamed the land without issue while their people drink their sorrows away in extravagant parties. \n\nDealing with them is no easy task, but it is not an impossiblity."
+  nf_stn.3.a:0 "United we stand, or however it goes."
+
+  nf_stn.4.t:0 "To Be Free"
+  nf_stn.4.d:0 "It would seem that in our best efforts to mitigate the growth of the self-professed "Freedom's Army," they have bested us. Last night a breakout was staged at Birch Hills, releasing an armada of angered Nightkin out into the wild. As if things couldn't get worse, more terrorists have sworn allegiance to General Freedom's dogma, staking out Wakaw. \n\nWe've lost our hold on the river. What shall we do?"
+  nf_stn.4.a:0 "§RNot all feasts come easy.§!"
+  nf_stn.4.b:0 "§MFreedom is a sovereign right.§!"
+  nf_stn.4.c:0 "§YNow, there's no need for violence...§!"
+
+  nf_stn.5.t:0 "Radio Freedom?"
+  nf_stn.5.d:0 "My name is GENERAL FREEDOM, and you are listening to FREEDOM RADIO! I've come to you with a real, big, important message: THE STOONERS WILL EAT YOUR BABIES! That's right, folks— I've seen it with my own two eyes. Gobbled the little bastard up like it was just a bag of roast brahmin, I'll tell you what! Now, I am not a violent mutant, but I do think that BABIES are SOVEREIGN CREATURES that deserve nothing but LOVE and RESPECT. Not being eaten! I've only ever eaten a handful of humans in my life, but unlike those DANDELION GUYS, I have limits. \n\nThey will eat your babies, too, if you keep lettin' them boss you around! Did you marry these bozos?! I didn't think so!"
+  nf_stn.5.a:0 "What?"
+
+  nf_stn.6.t:0 "A Thousand Daggers Behind One Man"
+  nf_stn.6.d:0 "Pierre's particular grifts had angered many of his supposed allies. The Lettermen, Knights exiled from Manitoba, find their positiion under his boot to be as dishonorable and distasteful as working for Satan himself, and would gladly kill their unkindly master if given the chance. \n\nOn the other end of things, the 'honorable wife' of Pierre, Beya, would do anything in her power to depose the Dandelion Society and bring back the old ways of her tribesfolk. Who would see the coup through?"
+  nf_stn.6.a:0 "§MTell Yorkton we're coming home.§!"
+  nf_stn.6.b:0 "§RCrooked Fang could not break us.§!"
+
+  nf_stn.7.t:0 "Once, We Fought For King and Country"
+  nf_stn.7.d:0 "§B“He has told you, O man, what is good; and what does the Lord require of you but to do justice, and to love kindness, and to walk humbly with your God?” (Micah 6:8)§! \n\nIn days of yore, we rode and fought by fire and sword for our Lord, both of the divine and upon this Heavenly Earth. Thousands of monsters masquerading as men fell to our rightousness across many decades— until the aristocrats of Manitoba turned their gaze to us and our Marshall. Lord Yorkton was forced to disband the Knights, for they feared a coup thanks to his grandeur, and we went from being heroes to exiles overnight. Despite all we had sacrificed, all we had given King and Country, we were forced to run from the very same home we threw ourselves upon the sword for. Now we dwell in our ancient enemies homelands, avoiding their gaze and making a living however we can. \n\nPierre Solomon thinks he can goad us into being his personal army; as if we were such a militia to be guided. No. We are Knights of Yorkton! We will stand for no evil. It is against our nature. \n\nWe shall make arrangements. Yes, indeed, we shall make arrangements. The King of Stoon shall learn what it means to taunt God's Chosen."
+  nf_stn.7.a:0 "Fear the man who knows no faith."
+
+  nf_stn.8.t:0 "What Was Discovered"
+  nf_stn.8.d:0 "Knights had been sent all around the Electorate to pursue every loose end they could find pertaining to their brethren, no matter how small or large they may be, until they found the news they had been looking for: \n\nDaniel of Wadena was not dead. \n\nHe remained in a Dundurn prison, a saint now reduced to a victim of the Electorate's cruelty. Soon, a move shall be made to retrieve him from the prison... But the matter of how remained heavy on Sir Griffin's mind."
+  nf_stn.8.a:0 "Subtlety would be key."
+  nf_stn.8.b:0 "We are Knights! We know no folly."
+
+  nf_stn.9.t:0 "Theft at the Grand Gallery!"
+  nf_stn.9.d:0 "Just last night, strange armored men cloaked in hoods broke into the Grand Gallery of Pleasantdale, eloping with a near-pristine suit of armor belonging to "Sir Daniel of Wadena," a deceased Knight of Yorkton who fought in the War of The First Republican Coalition. \n\nThe Chase Dynasty promises to find the perpetrators and 'see to it that the armor is restored to its rightful place in the gallery' by year's end."
+  nf_stn.9.a:0 "So shiny..."
+
+  nf_stn.10.t:0 "The Ballad of Sir Daniel"
+  nf_stn.10.d:0 "The day had come! The wedding between Pierre Solomon of the Dandelion Society and Beya of the Old Tribes of Stoon was to be held within the Third Avenue United Church, just before dusk so that the moon's grace would fall upon the undoubtedly star-crossed lovers. \n\nAmong the festivities was the finest and most exquisite of pastries and drinks: wines aged within Whitecourt for decades and exotic little red-fern based cannolis surrounded an unusually tall seven-tiered cake. After the vows were exchanged and God had been witness to the unholy sanctimony, Sir Daniel of Wadena burst forth from the cake, his armor covered in its batter and frosting as he leapt outwards. \n\nPierre and the guests were too shocked to do anything as he merely trudged through cake-filled boots, grabbing Solomon firmly by the shoulder as he plunging his greatsword into the politician's black heart. \n\nJust as the nobles realized what was about to happen, the Lettermen guards turned on the guests, slicing through the cannibal nobility as a farmer would pluck wheat. By the time it was over, the walls and floors were covered in blood, and their Yorkton blues became Stoon scarlets."
+  nf_stn.10.a:0 "Pierre got his just desserts!"
+
+  nf_stn.11.t:0 "Hell Hath No Fury"
+  nf_stn.11.d:0 "The day had come. \n\nDressed in the richest of bloodstained whites— for even such an occasion could not be spared the blood that flowed through the city— Beya walked down the aisle, heart beating like a steadied drum alongside her heels. Pierre's crooked face stared at her as though today was his triumph. Alas, he'd never know it wasn't his until it was too late, for it was as the priest began to ask for vows that Leshy tore through the stained glass adorning the church, leaning in and grappling at his guardsmen with crooked fangs. In an instant, Beya revealed her own blade, plunging it into Pierre's chest and tearing out his heart. The warriors of the old blood who Beya had assembled as her guests turned on the nobility, gutting them and staining the church in deep reds— their carnage led by her as she drank deeply of his heart's juices. \n\nSo it was, then, that the Old Blood had become new once again."
+  nf_stn.11.a:0 "Nature takes its course."
+
+  nf_stn.12.t:0 "A Wedding to Die For"
+  nf_stn.12.d:0 "Despite the best hopes of the Lettermen and the Old Blood, Pierre had outplayed them by doing absolutely nothing at all— just the way he'd have it. The marriage went off without issue, Beya's family watching as she swore herself to a man who held no true love for her, in a building the Lettermen believed was theirs alone. \n\nPierre Solomon had finally acquired his power, and he had the recognition he needed. Now? Now came the fun part: cleaning up loose ends."
+  nf_stn.12.a:0 "To stay on top, you gotta be willing to kick somebody else to the curb."
+
+  nf_stn.13.t:0 "With Regards to Pleasantdale's Lost"
+  nf_stn.13.d:0 "Greetings and fair tidings, \n\nIt has come to my attention that you and the rest of your kin are dwelling within the woods north of Pleasantdale. I do not claim to understand the full extent of the crimes committed against your being that made you into the creature that you are now, but I do know that you can read and I do know that you crave a peaceful existence. I write this notice in hopes that you will come around and join me and my Order, so that we may introduce you to the Kingdom of Manitoba in proper. The evils of the Electorate shall never haunt either of us ever again. \n\nYours truly, \nSir Daniel of Wadena, Knight of Yorkton, Slayer of Solomon"
+  nf_stn.13.a:0 "Friendliness goes a long way in this world."
+  nf_stn.13.b:0 "Humans are untrustworthy!"
+
+  nf_stn.14.t:0 "The Faeries Accept!"
+  nf_stn.14.d:0 "HeLo. . \n\nWe hɘlp \n\npattywack :)"
+  nf_stn.14.a:0 "Wonderful!"
+
+  nf_stn.15.t:0 "The Faeries Will Ride Alone"
+  nf_stn.15.d:0 "The Faeries have unfortunately rejected our proposal, choosing to stay within the woods alone."
+  nf_stn.15.a:0 "A shame it was never an option."
+  nf_stn.15.b:0 "May they find peace in the lonely woods."
+
+  nf_stn.16.t:0 "Much Ado About The Cabal"
+  nf_stn.16.d:0 "The Spectral Cabal has long since been a factor in the livelihood of the Electorate. Driven by vanity and a strange sense of religious pride, their controversies are outnumbered by their mysteries. Between their legendary Wolf God haunting the nightmares of those who frequent the Cabal's pools too frequently and the disgustingly vain use of Red Fern for personal gain, it wouldn't take much to justify cracking down on their chapels and ousting them for good. \n\nOn the other hand, however, their healing pools can be quite useful, and their parties have been greatly popular for a reason. Perhaps we could stand to gain favor by allowing them to continue operations?"
+  nf_stn.16.a:0 "God did not put us on Earth to allow such horrors to go unpunished."
+  nf_stn.16.b:0 "It is better to have friends than foes."
+
+  nf_stn.17.t:0 "MANIFEST Saskatchewan"
+  nf_stn.17.d:0 "The old facility is largely rundown thanks in part from our occupation, but with Hope as its custodian and her continued willingness to see it continue operations, it would be of great benefit to the Order to do as we please with the facility. Only so much can be restored, but with enough direction, we can repurpose it however we like."
+  nf_stn.17.a:0 "We need more general production!"
+  nf_stn.17.b:0 "Our men need armaments!"
+  nf_stn.17.c:0 "Tear it apart! I want it melted into bars."
+
+  nf_stn.18.t:0 "What Once Was Home"
+  nf_stn.18.d:0 "As Pleasantdale was secured and its horrors either contained or destroyed, Daniel felt a growing sense of resolution creep up over his back like goosebumps. After years trapped in Allan Hills Penitentiary, he felt like he was finally getting somewhere. The Knights of Saint George had crawled out of the garbage bin of history like a phoenix, and he yearned for a good night like he used to have. \n\nSo he returned home, to Wadena, where his cottage remained. His wife and daughters would surely be expecting him, after all. \n\nWhen he arrived, he felt his breath quiet and his chest tighten. It had been years. Would they even remember him? Would they care to? His thoughts were broken as the door opened, and there she was, just as beautiful as the day he had left her: Mary-Anne stared back with a look of what he thought was misplaced horror, but it did not waver as he opened his mouth. He hushed himself before he could string together a sentence. When he reached for her face, she took three steps back. \n\nIt was then that she gave him the truth. She had sold him and his residence out to Pariah Hawkmoon in exchange for money to fund their children's future. At that moment, his heart shattered into a cacophany of glass shards, and tears fell from his visor like rapid falls.. "
+  nf_stn.18.a:0 "He thought it was true love..."
+  nf_stn.18.b:0 "...But it was just another failure."
+
+  nf_stn.19.t:0 "Rosewood-Tinted Glasses"
+  nf_stn.19.d:0 "Whatever ones thoughts on Gloria Chase's philosophies were, what remained undeniable was the Rosewood Foundation's technological and industrial prowess. A woman who had mass-produced implantations for the commonfolk is no woman to balk at. In light of our takeover, she has agreed to continue her work within... Moderated circumstances. As such, her assets are ours to utilize."
+  nf_stn.19.a:0 "Perhaps the Chases are not all so bad."
+
+  nf_stn.20.t:0 "Fate of the Strasbourg Sparkblades"
+  nf_stn.20.d:0 "The Strasbourg Sparkblades have long since been the protectors of the Electorate's eastern borders. The Dundurn estate did everything in their power to disenfranchise and choke them out of power, but that has ceased to be a concern as of late. Though their relations with Manitoba haven't been the greatest, we both stand to benefit greatly from working together. Shall we see them as equals, or shall we remove them from this plane?"
+  nf_stn.20.b:0 "We shall plead Yorkton for their knighthood!"
+  nf_stn.20.a:0 "In the quest for peace, no loose ends may persevere."
+
+  nf_stn.21.t:0 "The Sun Shines Upon Dundurn Once Again"
+  nf_stn.21.d:0 "For decades, the smog clouded Dundurn from the grace of God. Our intervention has allowed the smokestacks to be silenced and for the workers to return to their homes. They celebrate their night away with their families, and we are left with nothing else to do but watch the sunset. \n\nAs for Sir Daniel of Wadena? Why, he watched the sunset by his lonesome. To him, this was the greatest he had ever seen, for his enemies lay buried and his constituents cheer his name with glee."
+  nf_stn.21.a:0 "There could be no greater paradise..."
+
+  nf_stn.22.t:0 "Another Successful Afterlife Broadcast"
+  nf_stn.22.d:0 "Just last night on the Afterlife did a very special guest make a stunning public debut: General Freedom, now officiated as a military officer of Stoon, gave a brilliant performance of the Ink Spots very own "I Don't Want To Set The World On Fire" to the beat of drums and banjo (as provided generously by the Dandelion Society). The Nightkin have laid down their arms in unity with their humie brethren, bringing about an age of righteous peace!"
+  nf_stn.22.a:0 "Who knew it was this easy?"
+
+  nf_stn.23.t:0 "Doctor Toboggan's Mission"
+  nf_stn.23.d:0 "Doctor Shane Toboggan has done his best to abide by his people and the rule of the Dandies, though it's started to show cracks as of late. What once was a mission to save his people from a crippling Stealth Boy addiction and to find a new source of FEV had now become something beyond his wildest nightmares. \n\nThe Dandies threatened the lives of his people if he did not comply with one demand, but that singular demand already carries a terrible price that isn't much better. They wanted him to discover a way to 'soften' the tissue of a mutant, so that they could somehow use the FEV to make more mutants, soften them up, and use them as exotic dinners for their cannibal parties. The prospect was insane, but Toboggan had little wiggle room with the pressure on him. He knew that if they killed him his people would stand no chance— he would have to play ball, at least, for now."
+  nf_stn.23.a:0 "For now? Ha!"
+
+  nf_stn.24.t:0 "Celebratory Bloodbath"
+  nf_stn.24.d:0 "In spite of the odds, the culture of cannibalism would thrive in Stoon. To celebrate, [STN.GetLeader] organized a feast— whereupon mercies were cast aside in favor of what blood would be shed. \n\nAfter all, what finer delicacy is there than the greatest game?"
+  nf_stn.24.a:0 "Save me an arm and a leg!"
+
+  nf_stn.25.t:0 "Paris of the Prairies"
+  nf_stn.25.desc:0 "Before the nuclear fires ravaged the world, Saskatoon was a thriving place, the largest city within Saskatchewan, coined as the "Paris of the Prairies." When the sun was blocked with a mushroom cloud and the blizzard thickened thrice over, the city fell quiet. Empty. Dead. \n\nWithin the first few decades following the silence, the people had devolved into tribes. Much of life was spent warring over vague definitions and pointless claims. As they gathered within old churches and banquet halls, their tongues twisted, new languages forming and blending as tribes merged. To this end, Saskatoon changed with its people, becoming S'Toon. Over time, as others adopted the name and western Canada devolved into its feudal states, it became Stoon: the seat of false governments and monsters alike. \n\nThough the blizzards have long since thinned, the desperation that drove so much of the populace to cannibalism had now become mere vanity. Common sense was thrown away in favor of desire and avarice. In recent years, Stoon had been famed for its..."
+  nf_stn.25.a:0 "Growing industry, an attempt to rival Dundurn."
+  nf_stn.25.b:0 "Ability to navigate the post-modern world with ease."
+  nf_stn.25.c:0 "Immense marketability."
+  nf_stn.25.d:0 "Stance against the CPF and Eastern Kingdoms."
+
+  nf_stn.26.t:0 "Freedom Throws a Barbeque (Every Week)"
+  nf_stn.26.d:0 "In times like these, we can only ask for so much. To curb the cannibals of Stoon, General Freedom has had a stroke of genius: every week, he'll PERSONALLY see to it that every alleged cannibal attends a mandatory barbeque within the city. The most American and patriotic thing one can do is eat good food with ones own countrymen, after all!"
+  nf_stn.26.a:0 "FREEDOM!"
+
+  nf_stn.27.t:0 "A Saint's Judgment"
+  nf_stn.27.d:0 "The cannibals of Stoon grew to fear the shining armor of the Knights of Yorkton. The verdict was made as clear as it could be when Sir Daniel of Wadena beheaded a self-professed "cannibal philosoper" within the square. When onlookers stared in silence, some still covered in the mans blood, Daniel merely retorted as such: "Would anyone else like to educate me on their diet?" \n\nNeedless to say, the rivers ran far less red not long after."
+  nf_stn.27.a:0 "In God we trust!"
+
+  nf_stn.28.t:0 "Freedom for All"
+  nf_stn.28.d:0 "In the night before the wedding, Pierre Solomon's home was stormed, and they were carried to the edge of the Saskatchewan River by with a bomb tied to their ankles by several deranged Nightkin. A minute later, and the water spouted up as General Freedom clicked the detonator. \n\nAt long last, the Nightkin were free from the horrors put upon them within Birch Hills Insane Asylum— but they had no intentions of leaving. Rather, one among them in particular had been the one to push the scheme to success: General Freedom. Though his people and Beya's had been liberated from tyranny, there still remained the other humies and normies abound. Whether the people of Stoon wanted him or not, he was the only one with authority to call the shots..."
+  nf_stn.28.a:0 "A god-fearing mutant?!"
+
+  nf_stn.29.t:0 "Where Freedom Was Born"
+  nf_stn.29.d:0 "Everyone shall recollect the precise moment by which General Freedom the Great forded the Saskatchewan, headbutting two of Stoon's finest Lettermen in the chest and denting their armor so greatly as to crush their hearts within a fraction of a second. His nightkin brothers would march in a blue wave to the city of Stoon, draining the swamp of its fountains of blood and hanging the red white and blue over the corpses of raiders and cannibals alike. It was there, friends and foes, that General Freedom gave birth to his first real gift to the people of Canada: freedom."
+  nf_stn.29.a:0 "This feels like it's not going to end well."
+
+  nf_stn.30.t:0 "Doctor Toboggan, PhD Pending"
+  nf_stn.30.d:0 "Stoon was under new true blue leadership, and General Freedom was all you could ask for in leadership many would say. The General knew though that he needed the finest egghead in the electorate by his side however, and so Dr. Toboggan was summoned. The two hadn't met since the big breakout, the doctor staying behind in his noticeably emptier asylum out of either a sense of duty or perhaps some lingering feeling of shame for helping the dandies. Whatever it was keeping him in the shadows, Freedom wanted him out in the light of day.\n\nSo the two met, with General Freedom offering Dr. Toboggan official recognition and whatever resources he needed as long as the good doctor made sure to help out his mutant kin. And handled whatever scientific problems came along. And helped with strategic thinking. All in a day's work for a genius right?"
+  nf_stn.30.a:0 "How could the Doctor say no?"
+
+  nf_stn.31.t:0 "Dundurn Union Strikers Seek Appeasement!"
+
+  nf_stn.32.t:0 "The Blue Man Address"
+  nf_stn.32.d:0 "Now, my brothers, I walk the streets among you, and I see and hear what's on your minds and I know that you've got FAITH but you also got WORRIES. You worry that maybe General Freedom is OUT OF TOUCH with the common Dick and Jane. I've seen the scribbles on the walls brother, people writing "BLUE MAN GO HOME". Now I'm as blue as they come, the BIGGEST blue man to ever be, and I'm ALWAYS GONNA BE, JACK. But I'm also a REAL American, true red, white and blue just like all of you. We all get up in the morning, do our exercises and fight for the AMERICAN way of life the same, blue or not. The only people who could ever beat us, are US, BROTHER!"
+  nf_stn.32.a:0 "Let General Freedom ring!"
+
+  nf_stn.33.t:0 "The State of the Union"
+  nf_stn.33.d:0 ""
+
+  nf_stn.34.t:0 "The Fall of the Electorate"
+  nf_stn.34.d:0 "After decades of governing, the Saskatchewan Electorate has fallen into complete and utter disarray! Following recent news of the election being improperly conducted, the people of Dundurn, Pleasantdale, and Stoon rally for war as each faction vies for complete control of the land..."
+  nf_stn.34.a:0 "To war!"
+  nf_stn.34.b:0 "The Katch boils over at last."
+
+  nf_stn.35.t:0 "Catcher Brings a Gift"
+  nf_stn.35.d:0 "Catcher returned today with a gift— something stolen during Pierre Solomon's wedding from his estate. Contained within his delivery was a journal belonging to the Grand Elector himself, detailing his plans to rig the last election and sweep it out from under Dundurn once and for all. As if that wasn't damning enough, he even left a paper trail that Catcher oh-so-generously followed, leaving us with a list of names and accounts used to perform it. \n\nHe undermined the good wills of democracy and threw out the honor system that the Electorate's voting had previously operated on. Were it to reach the public, this scheme would undoubtedly result in utter chaos..."
+  nf_stn.35.a:0 "Have you ever made an omelette?"
+  nf_stn_35_tt:0 "Catcher will be dispatched— leaking the documents wherever he can. This'll be good..."
+
+  nf_stn.36.t:0 "The Election was RIGGED!"
+  nf_stn.36.d:0 "The last election for the Grand Electorate was fraught with controversy and discussion; for decades, the Dundurn Estate had held the title, their industrial populace and the might of the Sparkblades giving them a great stake in the vote. It was met with great surprise when the Dandies of Stoon won instead this time, spurring the likes of Timothy Littlehope and Gloria Chase to ascend to power within their demesne. \n\nBut recent news indicates that suspicions were in fact correct. Pierre Solomon conspired with several other notorious nobles within Stoon to rig the election in their favor and undermine Dundurn once and for all. Already, bloodthirsty rioters are beleaguering the streets..."
+  nf_stn.36.a:0 "Democracy was sabotaged?!"
+
+  nf_stn.37.t:0 "The Dandelion Society"
+  nf_stn.37.d:0 "Everyone who's anyone has heard of the Dandelion Society, though most have come to know them as 'the Dandies.' They're the cannibalistic aristocrats who have been allowed to fester in Stoon thanks to their immense wealth and friends in high places all around the Electorate, their hands deeply entrenched within the pockets of both Dundurn industrialists and Pleasantdale Socialites alike. Though their schemes throughout history have been subtly infamous, none were so dastardly as the ones the current figurehead had been hatching. \n\nPierre Solomon was considered an up-and-comer amongst the Dandies, despite being in his later thirties and having been an active member for much of their modern history. It was in the most recent election held across the Electorate that he had secured for himself a position as the hierarch of the many noble families, giving him renewed respect and a higher life than any wastelander could hope to dream of. \n\nBut he knew that while it was earned it was flimsy. He would need to play his cards more than correctly if he was to keep his throne, and he'd have to make some risks. Whether or not they'd pay off, however, was still to be determined..."
+  nf_stn.37.a:0 "Pierre was a bastard through-and-through."
+
+  nf_stn.38.t:0 "The Tribes"
+  nf_stn.38.d:0 "The Old Blood of Stoon consists of the various degenerated locals of Saskatoon, the same that once fought in the Saskatchewan Flesh Wars many years ago. The numerous minor tribes had conglomerated over many years of encroaching civilization, becoming a group desperately attempting to retain relevance as more and more of their youth turned away to things like joining the Dandelion Society or running off to play with the Dundurn Elite. \n\nTheir figurehead, a woman named Beya, remains famed in the Electorate for being the first known person to venture into the Gateway's Scarlet Blizzard and survive, though she had undoubtedly been changed by the experience. Her strength was feared, and her intelligence was beyond respected. While her cannibalism proved to be unpopular with most, her legendary status left her renowned as a hero to the twisted peoples of The Katch. \n\nIn recent times, however, the people have fallen victim to a strange blight, leaving the tribes vulnerable. Pierre Solomon, looking to exploit her fame, made her a deal she couldn't refuse: he would provide a cure by any means necessary... If she would agree to be his wife."
+  nf_stn.38.a:0 "Beya was left without a choice."
+
+  nf_stn.39.t:0 "Men of the Red Letter"
+  nf_stn.39.d:0 "The Lettermen are a group of Knights heralding from the lands of Manitoba. Exiled under false pretenses and refusing to relinquish their titles as Knights, they fled to the Katch, where they remain scattered. Many still serve God as best they can, fighting as wayward swords, yet some turned to mercenary work. After the disappearance of their Grandmaster, however, many fell to despair... \n\n...Until Pierre Solomon approached Sir Griffin, their most respected senior Knight. He promised that he would do anything in his power to aid the Knights, so long as they served him forevermore as his protectors and enforcers. \n\nThe Knights were disgusted with his offer. How could a cannibal, let alone an aristocrat, expect Yorkton's finest to do his dirty work? And yet they accepted, for they feared choice B: extermination. Many a Knight had already been carved out of their armor by Pariah Hawkmoon of Dundurn and her colleagues. They wouldn't chance another such incident."
+  nf_stn.39.a:0 "Pierre would live to regret it."
+
+  nf_stn.40.t:0 "What Has Been Reaped Shall Surely Be Sown"
+  nf_stn.40.d:0 "Despite Pierre's hopes and dreams, blackmail never ended well for anyone. Both Beya and Sir Griffin found no loyalty to his cowardly figure, and would gladly take the chance to rend his flesh if an opportunity was to be found... But they would have to begin now. Pierre's paranoia spurs him to hide from the public view as best he can, and to await such an operation could prove to be dangerous. A wedding between Beya and Pierre was to happen in roughly six months. If a plan could be enacted in that time, why, it'd be a perfect target, wouldn't it?"
+  nf_stn.40.a:0 "Wouldn't it?"
+  nf_stn_40_tt:0 "In your decisions, a choice to begin a coup as the Lettermen or Beya will be present!"
+
+  nf_stn.41.t:0 "News from Stoon"
+  nf_stn.41.d:0 "Word has crept out of Stoon and into the lips of Manitoban nobility— Knights of Yorkton have resurged under Sir Daniel of Wadena, usurping the Dandelion Society and taking control of the Electorate for themselves. \n\nWhen questioned, Pariah Hawkmoon of Dundurn had this to say: "I broke a hundred of those bastards back in the day. I can break a few hundred more." Whether or not that statement will be true remains to be seen."
+  nf_stn.41.a:0 "The Order of Saint George lives!"
+  nf_stn.41.b:0 "Let us hope their loyalties have frayed..."
+
+  nf_stn.43.t:0 "The Mutie Pilgrimage"
+  nf_stn.43.d:0 "Decades ago, mutants under one certain Doctor Toboggan learned of an unorthodox shipment of FEV that had been ferried north into Canada. Determined both to aid his kinsmen and to uncover the secret of this strange FEV, Doctor Toboggan lauded his fellow mutants north, through Oregon, then Wyoming, then Montana, and he continued until he arrived in Saskatchewan, where he and his settlers settled within the city of Wakaw. Though they did not take kindly to the city's prior residents, the battle that ensued could not have been more one-sided, and so the people of The Katch quickly realized the Nightkin and the Mutants were here to stay. \n\nOf course, the Dandies would bring them to heel through their politicking and their fancied-words, but even they could only keep mutants locked away for so long. It was only Doctor Toboggan's will to help his patients that kept them in place, until Freedom's barking made their minds drift back to anger."
+  nf_stn.43.a:0 "Freedom!"
+
+  nf_stn.44.t:0 "The Survivor"
+  nf_stn.44.d:0 "You know what I wanted to be when I grew up? \n\nA seamstress. I wanted to weave the finest fabrics into tunics and robes fit for king and queen alike. I wanted to live a simple life and practice my craft in a tucked away corner of my village. Instead, I listened to my deranged mother and delved into that wretched Umbravore-infested blizzard, and I became a champion of strength to my people. \n\nPeople look at me and I hear what words echo in their mind. Usurper. Thief. Murderer. They sting, but mean little in the grand scheme. What concerns me is that they know my name at all. I wanted to be nameless to the masses, a little girl with a big dream and the will to achieve it. But we don't get what we want, do we? \n\nAnd so here I am, an unwitting Queen to the tribesfolk. My people look at me with fear and respect, for they know my power is unmatched and my temperament is too quiet for their liking. \n\nPierre thought he could make a trophy of me. He wanted me to beg for my people's lives while he played his little games and licked his lips, all-too-ready to say 'checkmate.' In the end, his audacity got the better of him, and now he is just a stain on my new carpet. \n\nNo one shall ever use me as a tool again. Today I take not just Stoon, but my own destiny, as well. My name is Beya, and they shall know me as the First forevermore."
+  nf_stn.44.a:0 "So sayeth she."
+
+  nf_stn.45.t:0 "A Country Twice-Shamed"
+  nf_stn.45.d:0 "Even in our own streets, you see people carrying the stars and stripes in favor of the maple leaf. Why? Because we are in a land that was destroyed twice. The Americans came and forced their choking patriotism down our throats, and so we were made to bend the knee. Once-proud Canadians were forced to forget what came before and make space in their hearts for Presidents and Benjamins. Even the bombs couldn't wipe that shame away. \n\nNow? A culture of resentment festers in Saskatchewan. People hate their land and they hate its people."
+  nf_stn.45.a:0 "I think the cannibals might be a part of that."
+
+  nf_stn.46.t:0 "How to Think Economically: Or, How I Started Eating People"
+  nf_stn.46.d:0 "Listen, partner, and listen good: the wasteland's a shitty place to be and the Katch ain't much better, even if we parade like we're some sort of higher form of society. The boys in Pleasantdale might think they've got it all figured out with their crops and the guys and gals in Dundurn with all their transhumanist goofball shit aren't helping either. So, what, we're hundreds of jackasses scattered around and none of us know where we're getting food from really. At least, a good, respectable amount befitting of proper thinking sorts, right? So. Not all of us are really important. I know, I know, "but every human is important" is the shit they try to sell you when we grow up, but throw it all out. Kill a guy if you want, just don't tell anyone about it, and it's fine. The key thing is making sure they don't matter. \n\nSo when people— well, jackasses, really, came and looked at me and said "how the hell are we going to have a feast, you dickhead" I said to myself "it's so easy, you dimwits," and I pointed to those cannibals who've been doing just fine this whole time. Some geniuses thought to step up and say "oh well hold on a second Pierre" and I threw them six feet under. Nah, not really, I threw them in the oven! Because guess what, guy? If you aren't here with a point, then you're as good for dinner as a Brahmin is. Besides, man-meat tastes just as good as the rest of it, even if it makes your ticker go crazy or something. Not like we've got high standards. Plus, think about it— we got girls shitting out babies all over! It's like a dart board. Let the ones who stick keep up their biz and the rest we serve on a silver platter. It's mathematical."
+  nf_stn.46.a:0 "Anyone else hungry?"
+
+  nf_stn.47.t:0 "Why I Am Likely the Luckiest Man Alive"
+  nf_stn.47.d:0 "Let me begin with my first point, and probably the most relevant I've got: \n\nRisk assessment is horsehit. \n\nDon't believe me? I just ripped off everybody and got away with it because, being honest, I don't think I'm allowed to die. I'm just too good, I guess. I've got a wife that's the prettiest eye candy you could get in this backwater and I've got a bunch of dipshit knights ready to die for me, and believe me, the irony of them all wanting me dead isn't lost on me. But I'm in charge now, and I can let all the scary things stay far, far behind me. \n\nYou really can't make this stuff up. Buuut, you know, with me as top dog, maybe I don't need a bunch of goofy bastards in funny get-ups following me around— especially when I swear I can feel their swords poking me in their thoughts. So, let's clean this up and get started, shall we?"
+  nf_stn.47.a:0 "Man, he's right— even I want to kill this guy!"
+
+  nf_stn.48.t:0 "Disaster Relief: Pleasantdale"
+  nf_stn.48.d:0 "To the fine, fine, fine people of Pleasantdale: \n\nAs your new and very desirable leader, I would like to make a firm first statement of address: everything you were doing before, you can still do— it's just going to be for me, and, well, everybody loves me, so it's going to be even easier! \n\nDo your drugs, fuck your wives, and maybe I'll join in on both of those. After all, I am nothing if not a man of the people. I have also decided to elect Dale Robertson as my personal liason to the city, given how very appropriate it feels (no doubt many of you will feel the same way) to say "Keep it Pleasant, Dale!" It helps that he's very easy to yell at. \n\nSigned with love and kisses,\n\nPierre Solomon"
+  nf_stn.48.a:0 "Keep it Pleasant, Dale!"
+
+  nf_stn.49.t:0 "Disaster Relief: Dundurn"
+  nf_stn.49.d:0 "To the people of Dundurn: \n\nYour city is shit and your political leaders are insane. Go fuck yourselves. \n\nI'm just kidding. But seriously. \n\nStop trying to reinvent humans. We're already here. Just do your fucking jobs. \n\nPierre Solomon"
+  nf_stn.49.a:0 "He was so right for this."
+
+  nf_stn.50.t:0 "Pariah Hawkmoon, my Beloved"
+  nf_stn.50.d:0 "Let me be clear: Pariah Hawkmoon has always been an asshole. But she's been a great asshole for all of us. \n\nI mean, how many bastards really wanted to go toe-to-tail with Leshy? Definitely not most of the Lettermen, that's for sure. Jackasses and their self-preservation have gotten in the way of so much. Not to say that I don't have self-preservation, but I'm top dog. Why should I throw myself into the fire? Whatever. The point is that now that she's with us we want her to keep doing dumb shit for us. It's just better this way."
+  nf_stn.50.a:0 "A real dynamite gal."
+
+  nf_stn.51.t:0 "The Greatest Scam Ever Made"
+  nf_stn.51.d:0 "So let me get this through to you: a guy graduates from Chase University over in Pleasantdale, walks his way over to Dundurn, gets on some idiot's talk show, and manages to convince the working class the best way to find purpose in life is to give up their own ideas and just pick a famous person to follow? And people BELIEVED it? And paid him money to hear him talk about it in person? \n\nWhat a fucking guy! Seriously. It's not even genius— it's just taking advantage of people. Which is genius. \n\nIt's one of those things where you see it, you hear about it, and you still don't believe it. Why didn't I think of that? \n\nGuess I kind of did, though. Littlehope Doctrine got me where I am now, didn't it? Just kidding, though only a little bit— rigging the election and making my money got me where I am, but Littlehope gave me enough morons to throw into the fire that it all worked out nicely. And now, it's just gonna be more and more money every day."
+  nf_stn.51.a:0 "My kind of guy, for sure."
+
+  nf_stn.52.t:0 "Sealing the Envelope"
+  nf_stn.52.d:0 "For awhile, the Lettermen were convenient. Yorkton's horseshit got him and his band of morons in more trouble than they were worth and Manitoba threw them to the curb. Pariah and the boys in Dundurn made it clear that if any of his knights were found out here, they'd be killed on sight. So when I made that cute little deal, they jumped on it like starving puppies. \n\nHaving an army of knights at my beck-and-call was mighty convenient for a time, but I think they forgot who was really in charge here. So, per the law of business and association, I think it's time to cut ties."
+  nf_stn.52.a:0 "Also, "Lettermen"? That's the best they got?"
+
+  nf_stn.53.t:0 "SO HAPPY TO BE HERE!"
+  nf_stn.53.d:0 "Hi there, Mr. Solomon! I'm HOPE, your new assistant. It's my understanding you've got some people who really, really want you dead— and I would love nothing more than to clear them out for you. So, let's get to it and get you to a safer life puh-ronto!"
+  nf_stn.53.a:0 "Be my wife?"
+
+  nf_stn.54.t:0 "A Pact Most Foul"
+  nf_stn.54.d:0 "Three days was Beya missing. Three nights she traveled, all on a course to the den of Leshy. There, in that terrible, quieted hovel she laid eyes upon the great snake: her beautiful scales shimmering darkly in the midnight. \n\n"You are brave to come here, little tribal." Leshy said, eyes flaring. "What say you before my fangs rend your flesh?" \n\nBeya was sullen; scared, but more fearing the fate of her own people. "You crave chaos, do you not? I am a slave to a man who claims to hold the entire region under his thumb." \n\nLeshy's pupil narrowed. "You have my attention." \n\n"Soon, we will be married— though it is not my choice. My warriors and I will help cover your entrance into the city's underground as best as we can. On my signal, on my call, you will erupt from the ground during my wedding— and the madness you evoke will shatter their confidence. The first great knife in the neck, the signal of the final days of the Electorate, shall be christened by us both." \n\nLeshy's grin turned wicked. "Oh, this is rich. So, so rich. You have my..." she licked her scaley lips, "You have my undivided attention.""
+  nf_stn.54.a:0 "Two snakes, cavorting in the dark..."
+
+  nf_stn.55.t:0 "The Cowgirl's End"
+  nf_stn.55.d:0 "Beya stormed into the depths of MANIFEST North, carrying upon her back an umbravore's carcass— its clay flesh shielding her from the automated defense systems. Already her tribesmen fought by Leshy's side as the beast tore through the fortifications, wrangling and whipping Destiny's deputies with her long tail. \n\nDestiny was nothing short of calm when Beya arrived. "§RWe-hell, look at you— aren't you somethin', sport? You sure have been a peach since you escaped.§!" \n\nBeya was unamused. She approached Destiny's machine, not so keen to humor her, and— with all her strength— stabbed her nails sharply into the metallic skin of Destiny's central computer. She gave one final scream, and then she was no more. \n\nThe nightmare had ended— and with it, the Scarlet Blizzard had begun to clear."
+  nf_stn.55.a:0 "Even monsters can bring about peace."
+
+  nf_stn.56.t:0 "An Offering to Leshy"
+  nf_stn.56.d:0 ""§RSo you have returned to me with offerings of alliance? A truly brave tribal, you are...Let us see what you have brought me, and I will ponder your offer.§!""
+  nf_stn.56.a:0 "A truly deadly alliance has been formed in the Katch..."
+
+  ###########################################focus
+
+  stn_1:0 "Where The River Runs Red"
+  stn_1_desc:0 "Stoon was not always such a nice place to be... And, let's be honest, it still isn't."
+
+  stn_2:0 "The Dandies"
+  stn_2_desc:0 "The Dandelion Society brought the fires of civilization to the Old Tribes, for better or worse."
+
+  stn_3:0 "The Old Blood of Stoon"
+  stn_3_desc:0 "The old tribes of Stoon have done their best to survive in the Electorate's reign. Now, they're paying the price for it."
+
+  stn_4:0 "The Knights of Yore"
+  stn_4_desc:0 "Let me ask you something: when you make it your mission to prove your homeland's greatness above all other things, what do you do when that homeland forsakes you? Throws you out into the gutter? Forces you to live in what once was enemy territory?"
+
+  stn_5:0 "What Goes Around May In Fact Come Back Around"
+  stn_5_desc:0 "Pierre's schemes may catch up to him after all... But that remains to be seen."
+
+
+  stn_birch_hills:0 "What Goes On Under Our Feet"
+  stn_birch_hills_desc:0 "Birch Hills Insane Asylum was built by Toboggan to help the Nightkin recover from their ailments. The Dandies had other plans."
+
+  stn_radio_freedom:0 "Radio Freedom"
+  stn_radio_freedom_desc:0 "A strange broadcast championed by a deranged nightkin has infiltrated radios around the nation. Now, he spouts misshapen American propaganda as though it were his own dogma..."
+
+  stn_destroy_radio_freedom:0 "Put Down the Megalomaniac"
+  stn_destroy_radio_freedom_desc:0 "General Freedom is dangerous. Not only does he encourage the unwashed masses to sympathize with the nightkin, but he very clearly has a penchant for violence. He must be put down."
+
+  stn_embrace_radio_freedom:0 "Cooperate with General Freedom"
+  stn_embrace_radio_freedom_desc:0 "General Freedom is a threat, yes, but a threat can be dissuaged with good old fashioned diplomacy. We will 'collaborate' with General Freedom within reason. After all, he's just a mutant... The likelihood of him being a threat beyond that is miniscule."
+  stn_embrace_radio_freedom_tooltip:0 "Spawns 1 §GSuper Mutant§! Division and 1 §GNightkin§! Division.\n\nIf our Mutant Recruitment law is §YNo Mutants Allowed§!, it will change to §YSuper Mutant Recruitment§!.\nIf our Mutant Recruitment is instead §YGhoul Recruitment§!, it will change to §YRecruit All Mutants§!."
+
+  stn_assessing_nightkin:0 "Assess the Nightkin"
+  stn_assessing_nightkin_desc:0 "The Nightkin were destined for one of two things: recovery, or consumption. It's up to us to ensure Toboggan has the resources to make either happen."
+
+  stn_fate_of_nightkin_in_stoon:0 "The Fate of Nightkin in Stoon"
+  stn_fate_of_nightkin_in_stoon_desc:0 "The time has come to decide the ultimate fate of Nightkin within the Electorate. Though Pierre may be an idiot, the red fern gives us the capacity to soften the nightkin's flesh— and with how much FEV we still retain in MANIFEST Saskatchewan, well... We can double our food stores easily."
+
+  stn_the_depths_of_the_state:0 "Deep Within the Asylum"
+  stn_the_depths_of_the_state_desc:0 "Deep within Birch Hills, who knows what really goes on? Only Toboggan knew."
+
+  stn_militarizing_FEV:0 "The Matter of FEV"
+  stn_militarizing_FEV_desc:0 "MANIFEST made good use of the Forced Evolutionary Virus before the war, and the Nightkin came looking for it. Though it's too dangerous to really let just anyone use it, the Nightkin have long-since proven themselves as citizens of the Electorate. We will grant them full respect and the treatment they need."
+
+  stn_the_stampede_approaches:0 "The Great Stampede"
+  stn_the_stampede_approaches_desc:0 "The Great Stampede, a colossal conglomeration of nomads, tribals, and all other manner of societal rejects. It shields us from the armies of the CPF, though has little to offer us otherwise. In times as recent as months ago, they have begun prepararations to stake out the north— a bid to claim the lands as their own. We can't allow that to happen."
+
+  stn_batford_refugees:0 "Boys from Battleford"
+  stn_batford_refugees_desc:0 "The Battleford Brigade was never our friend, but they were never enemies. Certainly, they were more civilized and true-mannered than the Privateers to our north, but aside from that, they were good fighters. Should they fall, we will offer a missive to any refugees seeking asylum so long as they will serve as a vanguard against the Stampede."
+
+  stn_equip_the_lettermen:0 "Equipping the Army"
+  stn_equip_the_lettermen_desc:0 "The soldiers within our ranking need quality firearms. Luckily, we still have stockpiles from Dundurn that we can pull from."
+
+  stn_fortify_border:0 "Walling Out The Undesirables"
+  stn_fortify_border_desc:0 "The Stampede's usuals are nothing more than rabble. A good wall along our southern border will do well to keep them at bay."
+
+  stn_beseech_the_tribes:0 "Beseech the Tribes"
+  stn_beseech_the_tribes_desc:0 "The Tribes within Stoon have much to offer us in support. Let us offer tithings to them in exchange for their finest blood-drinking warriors!"
+
+  stn_responsibilities:0 "The Responsibilites of Stoon"
+  stn_responsibilities_desc:0 "Our... 'Responsibility' as Grand Elector is amusing, yet we mustn't forget it, lest the people harden their gazes."
+
+  stn_the_fires_of_dundurn:0 "The Fires of Dundurn"
+  stn_the_fires_of_dundurn_desc:0 "Dundurn has always been a place where people with dead hearts go to let them choke in the ash. It's the industrial backbone of the Electorate, but it is no true home. Regardless, the longer we keep its fires stoked, the better our odds remain."
+
+  stn_clean_water_for_all:0 "Clean Water, Clean Ideals"
+  stn_clean_water_for_all_desc:0 "It has often been said that they who control the water control the hearts and minds of the people. After all, it is the foundation of any human existence. Let us bring the people water! When they've had a taste, they will accept no other authority."
+
+  stn_the_parties_of_pleasantdale:0 "Pleasantdale: A Place Where You Can Leave It All Behind"
+  stn_the_parties_of_pleasantdale_desc:0 "Pleasantdale is a city where one can frolic without issue, or so they say. It may have no standing military, but its sciences are dark and its monsters great. Let us appraise them appropriately."
+
+  stn_invest_in_faeries:0 "Invest in Faerykind"
+  stn_invest_in_faeries_desc:0 "The Faeries of Pleasantdale are a weapon that can be used to great effect. The ethics may be beyond questionable, but who are we to judge?"
+
+  stn_invest_in_red_fern:0 "Invest in Red Fern"
+  stn_invest_in_red_fern_desc:0 "The Red Fern drug and plant has proven to not only be flexible but cheap to produce under certain conditions. With a controlled hand, we could dominate all kinds of markets with it!"
+
+  stn_shutting_down_faerie_program:0 "Shut Down the Faerie Program"
+  stn_shutting_down_faerie_program_desc:0 "The Faeries of Pleasantdale are not weapons to be used in wars they have nothing to do with, they are children and this inhumane program must end at once."
+
+  stn_open_trade:0 "Open Trade Relations"
+  stn_open_trade_desc:0 "In the years prior to Pierre's ascension, trade between the Electorate outside of Dundurn giving hands to its neighbors has been... Miniscule. This shall change, and with it, old deals shall become new once again!"
+
+  stn_dundurn_munitions_factories:0 "Hawkmoon Munitions"
+  stn_dundurn_munitions_factories_desc:0 "Dundurn's military-industrial complex was led by Pariah Hawkmoon in her younger years. It led them to victory against the Métis once, and it shall do so again if need be."
+
+  stn_dundurn_consumer_factories:0 "Muraviov Entertainment"
+  stn_dundurn_consumer_factories_desc:0 "Muraviov Entertainment helped bring about the mass-production of the television into the Electorate. It can bring about other wonders if we need it to, as well."
+
+  stn_saskatoon:0 "What Made Stoon"
+  stn_saskatoon_desc:0 "Saskatoon has been a haven for brutalities of all sorts longer than it ever was an actual city before the war. It's easy to forget it when you're drinking wine and talking minor politics, however..."
+
+  stn_wanuskewin_heritage:0 "The Wanuskewin Heritage Park"
+  stn_wanuskewin_heritage_desc:0 "Wanuskewin, Cree for "living together in harmony," still bears many of the scars from the Great War. With the downfall of civilization, many thought little of caring for such a thing: the indigenous groups fled to what safe havens they could find, and so the only ones who would take up residence on the old grounds were the Old Blood of Stoon. In recent times, however, the indigenous peoples have returned. We shall renovate and rededicate the land to them once more as a sign of goodwill."
+
+  stn_allow_samoset_to_reopen_the_dig:0 "Allow Samoset to Dig"
+  stn_allow_samoset_to_reopen_the_dig_desc:0 "A man named Samoset has come from the Iron Confederacy after hearing of our renewed interest in the Heritage Park. He states that many of his ancestor's relics still dot the land, and that he'd like to pay us for the ability to dig in search of them. Who are we to deny him?"
+
+  stn_outsourced_help:0 "Outsourcing Consumer Aid"
+  stn_outsourced_help_desc:0 "Stoon hasn't always had a great industry. With how large our treasury can be, it's nice to allow a fool or two into our coffers in exchange for relieving our burdens."
+
+  stn_black_heart_memorial:0 "The Blackheart Memorial"
+  stn_black_heart_memorial_desc:0 "Erected shortly after the Great War by Canadian survivors, the Blackheart Memorial consisted of a shoddily-made series of statues made from American weapons and scraps of T-51 power armor. Today, it stands as a grim reminder of how Canada has become— a shell of itself, with those who still believe in its nature blaming the United States for its centuries-spanning struggles."
+
+  stn_boomtown:0 "Boomtown!"
+  stn_boomtown_desc:0 "Once a working exhibit of the settlement period, Boomtown became residence for certain elements of the wildlife population years ago. Clearing it out will give our gents some more gusto to work with; and besides, it looks super cool!"
+
+  stn_boomtown_ladies_sing_this_song:0 "Boomtown Ladies Sing This Song"
+  stn_boomtown_ladies_sing_this_song_desc:0 "Old animatronic circuitry is all over Boomtown. Let's tear it up and use it better!"
+
+  stn_grandoran_builders:0 "Grandoran Builders"
+  stn_grandoran_builders_desc:0 "Grandora has historically been a site for the survivors to thrive in. Years upon years of Umbravore attacks and other horrors gave them strength unmatched by anyone outside the tribals. Let's see if they'll give us a hand!"
+
+  stn_stories_of_the_canadian_occupation:0 "Stories of the Canadian Occupation"
+  stn_stories_of_the_canadian_occupation_desc:0 "The American Occupation of Canada destroyed much— the stories still haunt our children. The bombs fell, and we never outgrew it. Maybe that'll change with enough care."
+
+  stn_the_long_night:0 "The Long Night"
+  stn_the_long_night_desc:0 "When the cannibals came to Stoon, they did so with gnashing teeth and slashing claws. People were plucked out of their homes overnight and their bones were returned in cruel pranks. Such horrors would never wholly go away."
+
+  stn_american_poison:0 "American Poison"
+  stn_american_poison_desc:0 "The Americans did not leave with the nuclear fire. The remaining militants became raiders, sapping what little there was to go around— these 'Starstruck' vagabonds continued for years, until the tribals ate them out of heart and home. Now their poisonous relics litter the city."
+
+  stn_the_dandies:0 "The Dandies"
+  stn_the_dandies_desc:0 "Some of the people within Stoon, the self-appointed 'elite,' fashioned themselves a particular sort. They adopted the ways of the tribals, finding them 'cute enough to try' and feasting upon their fellow men with glee. This vanity, this greed, this pride was drowning the city, and yet the Dandies kept it going. It would be decades before anything would change for the people of Stoon."
+
+  stn_memories_of_MANIFEST:0 "Memories of MANIFEST"
+  stn_memories_of_MANIFEST_desc:0 "MANIFEST came and went before the war, a technological 'giant' desperate to suckle form the teat of American Department of Defense funding. Relics of their facilities are few and far between in Stoon, but within the Electors, their presence is that of a ghost— still-active cameras, HOPE's machinations, the robots of Pleasantdale... It never seemed to end."
+
+  stn_the_PFC:0 "Civilization"
+  stn_the_PFC_desc:0 "Amidst all terrors, civilization came and went through Stoon again and again. The People's Front of Canada, the Canadian People's Front, the Kingdom of Manitoba... But this was not a civilized land. The tribes did not welcome such things. Only recently have things begun to change, but the Old Blood of Stoon never welcomed a despot— and if they had their way, they never would."
+
+  ##cannibalism foci
+
+  stn_cut_back_on_cannibalism:0 "§MCutting Back on Cannibalism§!"
+  stn_cut_back_on_cannibalism_desc:0 "Hark! This city can be more than a den of inequity. Freedom and God shall ride side-by-side and prevail against the dark misgivings of forsaken gullets!"
+
+  stn_duck_lake_massacre:0 "The Duck Lake Massacre"
+  stn_duck_lake_massacre_desc:0 "The tribes within Duck Lake are of the Old Blood. If we want to remove cannibalism from this country for good, we must tear it out from the heart."
+
+  stn_banishing_neerdowells:0 "Banishing Ne'Er-Do-Wells"
+  stn_banishing_neerdowells_desc:0 "The mongrel brutes of the Old Blood still have their uses. With the Dandies no longer in power, there is nobody left to enable their worst offenders. We shall be rid of them and allow those willing to cooperate with our dogma to practice in quiet."
+
+  stn_daniels_blessings:0 "Daniel's Blessings"
+  stn_daniels_blessings_desc:0 "Sir Daniel of Wadena has a simple message for those who would dare eat the flesh of men..."
+
+  stn_promote_livestock:0 "Promote Livestock"
+  stn_promote_livestock_desc:0 "It's science— people love meat! But there are plenty of other ways to get flesh without it being from your fellow men and women."
+
+  stn_mutant_barbeques:0 "Mutant-Funded BBQ"
+  stn_mutant_barbeques_desc:0 "General Freedom has... Shall we say, unorthodox methods of combating the flesh-eaters."
+
+  stn_passing_the_haunch:0 "§RPassing the Haunch§!"
+  stn_passing_the_haunch_desc:0 "The rivers run red in Stoon. Always have... And they always will."
+
+  stn_the_feast_never_ends:0 "The Feast Never Ends"
+  stn_the_feast_never_ends_desc:0 "Unopposed, we may now consume openly and with impunity. Every man and woman in Stoon is on the menu— and if they don't want to be, well... They better get good at keeping teeth away, then."
+
+  stn_the_human_pens:0 "The Human Pens"
+  stn_the_human_pens_desc:0 "Humans are just another form of livestock if you're willing to look past the ability to form coherent speech."
+
+  stn_our_greatest_export:0 "Our Greatest Export"
+  stn_our_greatest_export_desc:0 "Pierre has always been a shrewd businessman. We shall raise good stock and sell it as something better than any Brahmin beef— and the profits will come rolling in."
+
+  stn_hungering_constituents:0 "Hungering Constituents"
+  stn_hungering_constituents_desc:0 "The people need more meat— you'd swear their eyes were dilated from how crazy some of them are getting!"
+
+  stn_blood_is_our_tradition:0 "Blood is Our Tradition"
+  stn_blood_is_our_tradition_desc:0 "Blood has always coursed through Stoon. The city was cursed the moment the bombs fell. It will always be a place where a man could eat another man if he so chooses— and Beya would have it no other way."
+
+  ###lettermen foci
+
+  stn_knights_of_yorkton:0 "§MThe Order of Saint George§!"
+  stn_knights_of_yorkton_desc:0 "The Order of Saint George was outcasted from their homeland by filthy bureaucrats. Now, estranged in the madlands of Stoon, they seek to establish a new foothold for their faith, and, with luck, to rejoin the covenant once held together by Leif Yorkton."
+
+  stn_god_founded_this_earth:0 "God Founded This Earth, So Too Must We Protect It"
+  stn_god_founded_this_earth_desc:0 "Daniel's doctrines were simple: the people are of God, so we, as men of god, must do unto them as we would see done unto ourselves."
+
+  stn_the_blades_of_a_kingdom:0 "Ephesians 6:17"
+  stn_the_blades_of_a_kingdom_desc:0 "And take the helmet of salvation, and the sword of the Spirit, which is the word of God."
+
+  stn_armor_can_be_broken:0 "Psalm 119:114"
+  stn_armor_can_be_broken_desc:0 "You are my refuge and my shield; \n\nI have put my hope in your word."
+
+  stn_contact_fairies:0 "Deep Within Enchanted Wood"
+  stn_contact_fairies_desc:0 "Egads! The Fae of the Electorate are victims of the fallen madmen of Pleasantdale. Their trust has since only been placed among their own rankings, but I am no fool. They are but children trapped playing soldier. We shall offer them a greater meaning than they have ever known!"
+
+  stn_we_are_but_men:0 "For We Are But Men"
+  stn_we_are_but_men_desc:0 "We hid like rats under the eye of the Electorate for many years. It is easy to think, with us now in command of these lands, that we are above such minor idlings as prayer and worship, but in the end, we are but men playing saints. Our faith is of no falsities, however: just as God placed us upon this Earth, it falls to us to ensure his will be enacted."
+
+  stn_eradicating_bandits:0 "The Blood-Believers"
+  stn_eradicating_bandits_desc:0 "Father Scrapheap's flock is wild; dangerous. They must be put down, lest their violent ways seep into the beliefs of our children."
+
+  stn_i_believe_in_mankind:0 "I Believe in Mankind"
+  stn_i_believe_in_mankind_desc:0 "Just as one holds faith in God, so too must one keep faith in ones own countrymen. Do you suppose them all sinners? Do you suppose them heretics by choice, or by ignorance? No. The unsocialized are the true threat, those that have not spoken as brother or sister to their neighbor. To this end, we must encourage our people to love one another as we do our fellow Knights."
+
+  stn_crushing_privateers:0 "Saskatchewan Pirates"
+  stn_crushing_privateers_desc:0 "The Pirates of Saskatchewan flock to the banner of Prince Albert like locusts to a fat yield of Mutfruit. This madness shall go no further! For too long they have scourged Stoon with their foul trades."
+
+  stn_brigading_brigadiers:0 "The Outcasted Brigade"
+  stn_brigading_brigadiers_desc:0 "The men and women of the Battleford Brigade fashion themselves mercenaries of a different cloth; "reformed" bandits and pirates hoping to earn the closest thing to an honest coin they could imagine. They fight not to survive as we did, but with selfishness and greed lulling upon their snake tongues. They shall be destroyed with nary a second thought!"
+
+  stn_a_land_of_thieves_and_murderers:0 "The Land of Thieves and Murderers"
+  stn_a_land_of_thieves_and_murderers_desc:0 "Save for the Stampede, the western reaches of Saskatchewan have been home to little else than raiders and sycophants: those dredges who have dedicated their lives to feeding off whatever the CPF or the Electorate spat out in their direction. We shall make an effort to scour the very soil of their influence, salting their history and bringing the golden light of God upon their ill-thought schemes."
+
+  stn_against_titans:0 "To Go Against the Giant"
+  stn_against_titans_desc:0 "The greatest threat to Manitoba comes from afar. The Great Stampede, a warring conglomeration of tribes and nomads alike, stares us down across a fog-laden border, as if to invite us to a war we likely would not win. Yet, even so, one thought echoes amongst our own... \n\nWould we truly be able to call ourselves God's devout if we did not try?"
+
+  stn_prodigal_sons_reunited:0 "Matthew 5:9"
+  stn_prodigal_sons_reunited_desc:0 "Blessed are the peacemakers, for they shall be called sons of God."
+
+  stn_dundurn_restorations:0 "2 Timothy 2:15"
+  stn_dundurn_restorations_desc:0 "Do your best to present yourself to God as one approved, a worker who has no need to be ashamed, rightly handling the word of truth."
+
+  stn_corinas_work:0 "Fair Lady Corina's Dream"
+  stn_corinas_work_desc:0 "Fair Lady Corina was an engineer in the employ of the Rosewood Foundation prior to our occupation. Her work, and by extension Gloria Chase's, has been a major factor in the betterment of the peoples of Dundurn. We must address them sooner rather than later."
+
+  stn_legacy_of_the_sparkblades:0 "Legacy of the Sparkblades"
+  stn_legacy_of_the_sparkblades_desc:0 "Though they may be raiders, the Sparkblades are master tacticians and great sportsmen. Given the opportunity, we may find use in elevating their status— or, if we feel so kind, perhaps promoting them to their own knightly order?"
+
+  stn_cleanliness_is_second_to_godliness:0 "Cleanliness is Second to Godliness"
+  stn_cleanliness_is_second_to_godliness_desc:0 "The smog over Dundurn may be considered iconic to some, but it chokes out the innocence of hard-working men and women all the same. It must be moderated, and it must be kept clean, lest the industrial giants fall victim to greed and avarice once again."
+
+  stn_pleasantdale_pleasantries:0 "In the Land of the Gentry"
+  stn_pleasantdale_pleasantries_desc:0 "On the opposite end of the Electorate is yet another land of nobility: Pleasantdale and the "Pleasant Country" that surrounds it. It's famed for its lavish decorum that lines the streets and the White Birch Society's infamous hunts and publishings. We must make haste in integrating it!"
+
+  stn_the_matter_of_the_cabal:0 "Beneficial Heresy"
+  stn_the_matter_of_the_cabal_desc:0 "...If indeed there is such a thing. The Spectral Cabal have shown us no ill will; though their practices are... Odd, perhaps we must think about it before we make any rash decisions."
+
+  stn_HOPEs_network:0 "Regarding Chase's Assistant..."
+  stn_HOPEs_network_desc:0 "Hope is an artificial intelligence from before the Great War who ended up in the employ of the Chase Family. It was her vast trove of knowledge that led to many of the horrors in the Electorate, her watchful eye and guiding hand assisting in the return of wonders such as television and proper infrastructure. Her facility lays dormant under Pleasantdale, and she's willing to help us free of charge. Why don't we pay a visit?"
+
+  stn_where_god_once_sang_songs:0 "The Day No Doves Did Sing"
+  stn_where_god_once_sang_songs_desc:0 "Sir Daniel of Wadena returns home to his cottage. What he would find would change everything."
+  ###pierre foci
+
+  stn_schemers_paradise:0 "§OHow to Win Friends and Influence People, Part I§!"
+  stn_schemers_paradise_desc:0 "Somehow, above all odds, Pierre had done it. The people looked to him with open eyes as though he were their king. Now? Well, now came the fun part."
+
+  stn_pleasant_country:0 "The Land of the Gentry"
+  stn_pleasant_country_desc:0 "It's a misnomer, really. The people in Pleasantdale are all crazy, and we just pretend to tolerate them because they're the first to go if the Scarlet Blizzard ever stretches out in our direction."
+
+  stn_remake_electorate:0 "Rebuilding the Bloody Electorate"
+  stn_remake_electorate_desc:0 "We don't need any Kingdom fatcats to help us run the Electorate, our strength has always come from within and I intend to keep it that way. A little puppet administration here and there and we're looking like a proper Electorate again."
+
+  stn_approach_batford:0 "Gentlemen, Our New Best Friends"
+  stn_approach_batford_desc:0 "Getting respect's hard enough in this world, but after everything, well... A bit of security sure is nice, isn't it? Let's play our cards straight and see if the good Kingdom over yonder— and all their fat wallets— wanna play ball with the big boys again. \n\nI love a good old fashioned co-op."
+
+  stn_the_problem_of_dundurn:0 "Dundurn: A City of a Thousand Issues"
+  stn_the_problem_of_dundurn_desc:0 "Look, none of us want to live there. When someone says "I'm from Dundurn," they usually follow it up with a cough and a hand covered in coal. Do they seriously think I want to shake that? It's disgusting. And don't even get me started on their 'philosophers'."
+
+  stn_address_traitors_and_murderers:0 "Look, I Know You All Want to Kill Me..."
+  stn_address_traitors_and_murderers_desc:0 "And the funny thing is, I don't blame you. I'd want to kill me, too. But I've got a good life to live and I'm not keen on letting anybody get in the way of me and a good nights sleep."
+
+  stn_hopes_assistance:0 "A Genius With A Good Smile"
+  stn_hopes_assistance_desc:0 "She's crazy and does whatever I want her to. Honestly, I should have married HER!"
+
+  stn_the_problem_children:0 "The Problem Children"
+  stn_the_problem_children_desc:0 "Look, I'm not fond of the whole "actually, we've been abusing children for years" that Max had, either, but in the face of good business... He had a point. You know what I mean? The real crime is I didn't think of it first."
+
+  stn_chasing_faeries:0 "Chasing Fae"
+  stn_chasing_faeries_desc:0 "Man, they sure are something, huh? No wonder those ninnies never invested in an actual fighting force. These kids are great at killing people!"
+
+  stn_faeries:0 "Those Funny Kids Sure Are Something"
+  stn_faeries_desc:0 "Talked to HOPE about it. Decided the Faerie program needs to remain in operation for an eternity or two. And unlike Pleasantdale, I'm not a fucking idiot, so we'll be supplanting them with actual men. Imagine— using your geniusly made but limited super soldiers to supplement instead of replacing outright. Inconceivable to some, I guess."
+
+  stn_manifest_saskatchewan_funding:0 "Funding MANIFEST Repairs"
+  stn_manifest_saskatchewan_funding_desc:0 "HOPE mentioned her old lab is a bunch of shit. No wonder Max didn't get anything done— he just told her to do stuff and expected it to happen! On one hand, I respect his dedication to doing nothing, but on the other hand, man, did he not consider what he could be making if he had actual proper shit in that lab?"
+
+  stn_dundurn_smog:0 "Dundurn, Somehow Shittier than Stoon"
+  stn_dundurn_smog_desc:0 "You'd think they'd put more of these plants outside city limits, eugh. What a fucking nightmare to live in. No wonder these people wanted to become robots."
+
+  stn_remember_timothy_littlehope:0 "Tim Littlehope, This Century's Biggest Dipshit"
+  stn_remember_timothy_littlehope_desc:0 "How did he do it? I'll never fully get it."
+
+  stn_the_tribes:0 "Practicing A Little Respect for Conservative Man-Eating"
+  stn_the_tribes_desc:0 "I mean, it's not a bad idea. Why do you think I took it?"
+
+  stn_beyas_fall:0 "Beya's Death"
+  stn_beyas_fall_desc:0 "I'm not happy about it. She had a great body and could make a man into jelly if she wanted, but, well, a wife that can crack your skull with a good enough punch just isn't good to have around when she also hates you. You can imagine why it ended like this."
+
+  stn_corner_the_lettermen:0 "Cornering the Lettermen"
+  stn_corner_the_lettermen_desc:0 "Imagine choosing to use swords and hammers in a world where guns exist."
+  stn_sir_griffins_end:0 "The Un-Excellent Fate of Sir Griffin the Failed"
+  stn_sir_griffins_end_desc:0 "God, Yorkton must have been a real shitbird if this was one of his best."
+
+  stn_peoples_front_of_canada:0 "Pierre's Sonnet"
+  stn_peoples_front_of_canada_desc:0 "Oh, what a fucking career. We took out all the bastards that messed with us and now, you'd swear the leather in our chair was the comfiest it's ever been."
+
+  stn_promise_pariah_promotion:0 "Pulling in Pariah"
+  stn_promise_pariah_promotion_desc:0 "Listen. Pariah's probably the only good thing to ever come out of Dundurn."
+
+  stn_deal_with_stampede:0 "Battle Against the Bucking Bronco"
+  stn_deal_with_stampede_desc:0 "The Stampede isn't the best thing for us to move on, but really... They're gonna come for us one way or another. Why don't we make the first play and throw them for a loop?"
+
+  stn_deal_with_the_renegades:0 "Renegade Rumble"
+  stn_deal_with_the_renegades_desc:0 "Look, I've got conflictions with Battleford... But maybe if we just get rid of them I'll feel better."
+
+  stn_deal_with_jailers:0 "The World's Most Annoying Prison"
+  stn_deal_with_jailers_desc:0 "How many damn offers did I make to that godsforsaken prison that they all rejected? Too many to count. Better to blow the whole set of losers sky-high and forget it ever happened."
+
+  stn_deal_with_pirates:0 "A Thorn in Our Side: Or, Jackasses Who Need Wiping"
+  stn_deal_with_pirates_desc:0 "What the hell do you want? They're pirates. Kill them, you idiot!"
+
+  stn_address_the_bandits:0 "A Canadian Credit Union?"
+  stn_address_the_bandits_desc:0 "What the fuck? Why did nobody deal with this? We just let this happen?"
+
+  ###freedom foci
+
+  stn_mutant_patriot:0 "§BA Green-Blooded Patriot§!"
+  stn_mutant_patriot_desc:0 "His blood may be green, but his politics are wholly red, white, and blue."
+
+  stn_mutant_friendship:0 "Humans are Mutants, Too"
+  stn_mutant_friendship_desc:0 "Despite the contrary belief that humans and mutants could not coexist, General Freedom believed that humans were just as mutated as Super Mutants. After all, they could get along just well and fine in his book— so they're just as mutant as the rest of them."
+
+  stn_mutant_beliefs:0 "We Came For The Green Stuff"
+  stn_mutant_beliefs_desc:0 "And sure, we may have found it, but we ended up under another fool's boot. Guess it goes to show you need to prepare for these sorts of things."
+
+  stn_mutant_factor:0 "The Everyman Drive"
+  stn_mutant_factor_desc:0 ""Let me be clear— every man is a mutant, and every mutant is a man, whether they are a woman or not." —General Freedom"
+
+  stn_freedoms_benefits:0 "The Sons and Daughters of Freedom"
+  stn_freedoms_benefits_desc:0 "Everyone under General Freedom's arsenal gets mandatory optional training in the form of being allowed to fire as many missiles as they please at a structure of their choosing. It's a foolproof method of self-improvement, really!"
+
+  stn_mean_green_fighting_machines:0 "Mean Green Fighting Machines"
+  stn_mean_green_fighting_machines_desc:0 "Every mutant here has suffered some sort of discrimination in the Electorate. Maybe they were one of the disenfranchised in Dundurn, or maybe they were one of the hooligans trapped within Wakaw or Birch Hills— whatever the case, we're all free now. Free to do as we please, and many of us? Well, many of us are angry..."
+
+  stn_freedoms_fanatics:0 "Freedom's Fanatics"
+  stn_freedoms_fanatics_desc:0 ""Son, are you willing to die for your country?" That's what General Freedom asked everyone when they signed on. Well, some took it literally, and, well... Let's just say they're really enthusiastic about improvised explosives."
+
+  stn_kicking_out_lettermen:0 "Giving the Lettermen a Democratic Boot"
+  stn_kicking_out_lettermen_desc:0 "The Lettermen are monarchists without a King to bow to. Get them out! We're a right proper democracy here, and we aren't going to let them stain it."
+
+  stn_he_who_forded_the_saskatchewan:0 "He Who Forded the Saskatchewan"
+  stn_he_who_forded_the_saskatchewan_desc:0 "General Freedom led the charge against Stoon in a small rowboat crossing across the Saskatchewan river, shouting a mixture of profanities in between Fat Man volleys at what may have been innocent bystanders. In the end, however, the cannibals of Stoon lost out to his cause, and now he rules as the mightiest and most nicest president to ever grace the land."
+
+  stn_american_iron:0 "American Iron"
+  stn_american_iron_desc:0 "The Americans left behind many toys for the Canadians to meddle with. With General Freedom in charge now, too, things can get a lot spicier very fast..."
+
+  stn_guns_of_the_patriots:0 "Guns of the Patriots"
+  stn_guns_of_the_patriots_desc:0 "The realest men held the biggest guns. Henceforth, a real man shall be a man who carries with him a big stick— even if they are a woman."
+
+  stn_toboggans_genius:0 "Toboggan's Genius"
+  stn_toboggans_genius_desc:0 "It was said that Doctor Toboggan and General Freedom shook hands so mightily that it blew the dust off the city corner it happened on."
+
+  stn_birch_hills_community:0 "Birch Hills Community Drives"
+  stn_birch_hills_community_desc:0 "In lieu of an asylum to hold them, the Nightkin trapped within Birch Hills have now taken to running through the streets, performing community goodwill projects as levied unto them by their great General."
+
+  stn_toboggans_stratagem:0 "Toboggan's Strategem"
+  stn_toboggans_stratagem_desc:0 "Toboggan's thinking was always more than sound, or, rather, General Freedom merely trusted him so much that the doctor became a master tactician out of sheer necessity. A doctor should do well to preserve his patients, after all!"
+
+  stn_a_mutant_president_where_have_i_seen_that_before:0 "The President is Blue and Wants to Punch The Bad Guys"
+  stn_a_mutant_president_where_have_i_seen_that_before_desc:0 "It was a simple statement, but none could argue with it!"
+
+  stn_the_blue_man_address:0 "The Blue Man Address"
+  stn_the_blue_man_address_desc:0 "The finest addresses come from men who are unafraid to wear the flag!"
+
+  stn_punching_merc_bad_guys:0 "Punching the Mercenary Bad Guys!"
+  stn_punching_merc_bad_guys_desc:0 "When ordering the armies to march into the Battleford, General Freedom was asked by a reporter of a local newspaper if he thought he would lose the war based on the Battleford's great strength, to which he replied: \n\n§o"Nah, We'd Win."§!"
+
+  stn_appease_the_workers_union:0 "Appease the Workers Union"
+  stn_appease_the_workers_union_desc:0 "The people of Dundurn didn't care if a nightkin or even a worm was their president. Who the hell was going to make sure they got paid?"
+
+  stn_stampede_stomping:0 "Steppe Diplomacy"
+  stn_stampede_stomping_desc:0 "The Family of the Stampede are great allies to the Americanadian people, which is why we must repay them for all they have done for us in the past."
+
+  stn_state_of_the_union:0 "State of the Union"
+  stn_state_of_the_union_desc:0 ""My fellow Americanadians... Shit is going CRAZY!" —General Freedom"
+
+  stn_no_more_prisons:0 "No More Prisons"
+  stn_no_more_prisons_desc:0 "The Super Mutants of Stoon had seen enough of the world from behind bars. From this day forward, all prisons will be destroyed on sight, and criminals will be dealt with extreme prejudice to accommodate such a fact!"
+
+  stn_a_plasma_loving_mutant:0 "A Rocket Loving Mutant"
+  stn_a_plasma_loving_mutant_desc:0 "Everyone loves a good missile— especially when you've got enough strength that holding one comes naturally. When Toboggan came to the General with some schematics purchased from Middlemark, Freedom was amazed: after all, it just went to show that the Doc always knew what the patients liked."
+
+  stn_freedom_generally:0 "Freedom, Generally"
+  stn_freedom_generally_desc:0 "...So said General Freedom as he looked back upon the people with a great, unwavering salute. His promises were true and his words impeccable. Forevermore, the people of the Electorate would look to their president with a smile!"
+
+  ###beya foci
+
+  stn_beya_the_first:0 "§RBeya the First§!"
+  stn_beya_the_first_desc:0 "Once, her name was feared. The world was surprised to see her 'domesticated' by such a fool as Pierre, but once the truth had been shown, all had become clear. Now the people listened to her biting words once again."
+
+  stn_gather_the_warriors:0 "Gather the Warriors"
+  stn_gather_the_warriors_desc:0 "Many of the old warriors in Stoon still bear their scars from the Crooked Fang. They are a trophy and a reminder to all, so much so that some of the younglings have begun to take old blades and scar themselves in honor of their fathers and mothers who fought in the war."
+
+  stn_capturing_pariah_hawkmoon:0 "Capturing Pariah Hawkmoon"
+  stn_capturing_pariah_hawkmoon_desc:0 "Pariah Hawkmoon is a terror to all things, this is certain, but we wouldn't do such a thing without good reason. Kidnapping Pariah Hawkmoon to have her serve as an offering to Leshy is the only reasonable way to reach the serpent's black heart once again."
+
+  stn_dealing_with_faeries:0 "Dealing with the Fae"
+  stn_dealing_with_faeries_desc:0 "The Faeries are not monsters, but they are unstable and dangerous. Without Pleasantdale to keep them in check, they would spread across the north more than they already have. This cannot be allowed to pass."
+
+  stn_silence_the_nobility:0 "Silencing the Nobility"
+  stn_silence_the_nobility_desc:0 "The Nobility of Pleasantdale may not be as 'exotically inclined' as those within Stoon, but their degeneracy remains the same. Those that do not accept their demotion of status will become Leshy food."
+
+  stn_umbravore_killers:0 "Umbravore Slayers"
+  stn_umbravore_killers_desc:0 "The Umbravore has long-since been a challenge for every Stoon warrior to combat. With their long, teeth-ridden tendrils, strange cloaking, and great size, their pack-hunting makes for an overwhelming force. Though they are scantly seen outside of the proximity of the Gateway, it is custom for a group of hunters to travel in search of them, culling their numbers and proving themselves in one go."
+
+  stn_the_tribes_knowledge:0 "Where We Came From"
+  stn_the_tribes_knowledge_desc:0 "The socialization of our tribesfolk into Stoon was an uneasy process. To be invited into the processes of government humbled us, and we won't make that mistake again. We must return to the old rituals."
+
+  stn_the_borders_must_be_guarded:0 "The Borders Must Be Guarded"
+  stn_the_borders_must_be_guarded_desc:0 "Without the meaningless banner of the Electorate to shield our lands from raiders and settlers, we are left to our own primal nature. We will keep our most savage of kinsmen by our borders, erecting palisades and leaving heads on spikes. If we must, then we shall drop our masquerade and show the world how much of monsters we could truly be."
+
+  stn_learning_leshy_ancient_knowledge:0 "Learning Leshy's Ancient Knowledge"
+  stn_learning_leshy_ancient_knowledge_desc:0 "Memories of the ancient times are aberrant as they are valuable. Ghouls often go mad with age and mutants are too dull of mind, their stories are best ignored. Leshy, however has retained enough lore of these lands to grant us an advantage over our fellowmen."
+
+  stn_by_moonlight_we_dine:0 "By Moonlight, We Dine"
+  stn_by_moonlight_we_dine_desc:0 "Every night we gather for a feast, to remind ourselves of who is our family, and who isn't. There is a distinct yet grotesque pleasure to consume the flesh of your own species, and we revel in it. As a wise woman once said... \n\n "Eat the rich.""
+
+  stn_consult_leshy:0 "Consult Leshy"
+  stn_consult_leshy_desc:0 "Leshy is a beast like no other. Her fangs are spears, and her tail is a thunderbolt. Both have murdered hundreds. \nIf we are to make another deal, we must hope that she likes our offering."
+
+  stn_hardening_scales:0 "Hardening Leshy's Scales"
+  stn_hardening_scales_desc:0 "While her scales have held true for many years, they are not infallible. While most remain pristine some have lost their natural beauty and have become cracked and broken. Through the application of protective wear across Leshy's form her ferocity can become boundless. "
+
+  stn_sharpening_her_fangs:0 "Sharpening Her Fangs"
+  stn_sharpening_her_fangs_desc:0 "Few blades rival the attributes of Leshy's fangs in aspects both sharpness and durablity. Nonetheless, what is not perfection can always be perfected and Leshy's fangs can become so much more. Even machines of steel will be rendered tender as flesh in the snake's maw."
+
+  stn_the_western_blightwood:0 "Another Victim of Destiny"
+  stn_the_western_blightwood_desc:0 "'Smiling Jack.' Unlike Beya, he lost his mind and body to the Scarlet Blizzard. Now a misshapen monster, he roams the countryside out of old instinct, a cry of help to his old past that he just can't seem to muster. We must put him out of his misery... For our sakes."
+
+  stn_the_eastern_blightwood:0 "Another Victim of Destiny"
+  stn_the_eastern_blightwood_desc:0 "'Smiling Jack.' Unlike Beya, he lost his mind and body to the Scarlet Blizzard. Now a misshapen monster, he roams the countryside out of old instinct, a cry of help to his old past that he just can't seem to muster. We must put him out of his misery... For our sakes."
+
+  stn_into_the_gate:0 "Once More into the Gate"
+  stn_into_the_gate_desc:0 "This is it. This is where she makes her dark witcheries come to life. There's no turning back now..."
+
+  stn_confront_destiny:0 "Confronting Destiny"
+  stn_confront_destiny_desc:0 "§R"Come on in, darlin',"§! Destiny once said. §R"I'll show you your Destiny."§!"
+
+  stn_the_working_class:0 "The Pleasantdale Working Class"
+  stn_the_working_class_desc:0 "The people of Pleasantdale, interestingly enough, have no issues collaborating with us. So long as we spare them the consumption, they will continue to work and assist in our endeavors."
+
+  stn_the_pantries_of_pleasantdale:0 "The Pantries of Pleasantdale"
+  stn_the_pantries_of_pleasantdale_desc:0 "The pantries of Pleasantdale are more full of pastries and nonsense than anything else. Regardless, well... They have tools we can use."
+
+  stn_the_cabals_blessings:0 "The Cabal's Blessing"
+  stn_the_cabals_blessings_desc:0 "The Spectral Cabal is enamored with our takeover. "§gThey§! love your work," one said, "§gThey§! want to meet you one day." \n\nWhatever that means."
+
+  stn_leshy_drugs:0 "Mix Leshy's Venom with Spectral Cabal Sponsored(TM) Red Fern"
+  stn_leshy_drugs_desc:0 "The Cabal's Red Fern has been found to dilute nicely with the venom secreted through Leshy's fangs. The solution grants its consumer with a spectral energy granting boundless freedom of both body and mind. Enough venom to not kill, but to bring new life."
+
+  stn_what_we_learned_from_the_pretty_dresses:0 "What We Learned From the Pretty Dresses"
+  stn_what_we_learned_from_the_pretty_dresses_desc:0 "The pretty dresses and brilliant makeup of Pleasantdale astounded Beya. Though she never wore it, she always liked to fancy herself a noble of her tribe— a woman of class, certainly above her blood-spattered cousins. But in the end, she knew it was foolish to think of such things. After all, she was a tribeswoman through and through, and it was in her family's strength that she persevered all the same."
+
+  stn_she_who_stood_in_the_scarlet_blizzard:0 "She Who Stood in the Scarlet Blizzard"
+  stn_she_who_stood_in_the_scarlet_blizzard_desc:0 "She was no hero. She murdered hundreds and ate of the flesh of man as though it was mere candy. In spite of her personal horrors, however, she put an end to the madness emitting from the MANIFEST labs within the ruins of The Pas once and for all. No longer would the Scarlet Blizzard roam the countrysides, no longer would horrors beyond mankind's comprehension emerge from the blood-red mists. Peace and quiet would finally settle over the north once and for all."
+
+  #tooltips / flags
+
+  stn_freedom_rebellion_flag:0 "We will remain as the §YDandelion Society§!, §Rbracing as General Freedom mobilizes in Wakaw!§!"
+  stn_against_all_evil_tt:0 "We will become §YGeneral Freedom§!, §Mleading the escaped Nightkin to a glorious future!§!"
+  stn_negotiations_tt:0 "§YCan't we all just get along?...§!"
+  stn_nightkin_radio:0 "General Freedom's broadcast has begun to air!"
+  electoral_collapse:0 "§RThe Electorate has collapsed!§!"
+  stn_pierre_solomon_dead_flag:0 "Pierre Solomon has died!"
+  stn_cannibalism_bad_tt:0 "§GUnlocks the §YCutting Back on Cannibalism§! and §YWhat Made Stoon§! focus chains!§!"
+  stn_cannibalism_good_tt:0 "§GUnlocks the §YPassing the Haunch§! and §YWhat Made Stoon§! focus chains!§!"
+  stn_outposts_tt:0 "§G2 Levels§! of §YOutpost§! will be built along our border with §Y[STA.GetNameWithFlag]§!!"
+  stn_oob_tt_tribal:0 "§GTwo units§! of Heavy Stoon Tribals will spawn in §YDuck Lake§!!"
+  stn_lettermen_reflection:0 "We must remember who we are!"
+  stn_loud_route_flag:0 "We are Knights. We know no fear."
+  stn_quiet_route_flag:0 "We're in the enemy's land. We must tread lightly."
+  stn_pariah_joins:0 "§YPariah Hawkmoon§! becomes available as a §GCommanding Officer§!!"
+  stn_hope_joins:0 "§YHope§! becomes available as a §GCommanding Officer§!!"
+  stn_pierre_wins_out_flag:0 "Pierre has won out against his naysayers!"
+  freedom_revolter:0 "§RFreedom's Ride has begun!§!"
+  stn_freedom_radio_begins_flag:0 "The Radio Freedom broadcast has begun!"
+  stn_nightkin_mental_care:0 "We have engaged in proper medical care for the Nightkin!"
+  stn_beya_warriors_contacted_flag:0 "The Tribesmen have been contacted!"
+  stn_beya_encounter_flag:0 "We've begun to spend more time away from Pierre!"
+  stn_escaped_flag:0 "We've escaped from the palace!"
+  stn_blade_carved:0 "A weapon has been crafted, fitting of Pierre's crooked soul."
+  stn_nightkin_mental_tooltip:0 "We will begin to §Gprovide proper medical care§! to the §YNightkin§! in Birch Hills insane asylum."
+  STN_leshy_unleashed_tt:0 "The §GLeshy§! will fight for us... for now."
+
+  ##decisions
+  stn_freedom_rebellion:0 "The Freedom Rebellion Begins!"
+  stn_freedom_rebellion_desc:0 "General Freedom is planning something big. We'll need to stomp him out before he can do more harm to our nation!"
+  stn_freedoms_ride_cat:0 "Freedom's Ride"
+  stn_freedoms_ride_cat_desc:0 "             " # Note: Empty Whitespace Necessary for Deccat GFX to Function, Do Not Delete
+  stn_party_decision_cat:0 "The Grand Wedding"
+  stn_party_decision_cat_desc:0 "             " # Note: Empty Whitespace Necessary for Deccat GFX to Function, Do Not Delete
+  stn_the_banquet:0 "A Night to Remember"
+  stn_the_banquet_desc:0 "A wedding between Pierre Solomon of the Dandelion Society and Beya of the Stoon Tribes is set to bring about a "new age of prosperity and grandeur" to the Electorate. That is, of course, assuming all goes according to plan..."
+
+  stn_the_coup:0 "Conspiring Against The Dandies"
+  stn_the_coup_desc:0 "The Lettermen and the Old Tribes of Stoon both hate Pierre Solomon more than just about anything. Given the chance, and if the timing was right, they would stand to benefit greatly from seizing power..."
+  stn_in_memoriam:0 "In Memory of Those Before Us"
+  stn_in_memoriam_desc:0 "We were not always such ragged castaways. Once, our armor shined as bright as the moon and we held such valor so as to be considered born of God."
+  stn_gathering_soldiers:0 "Gather the Wayward and the Roundabout"
+  stn_gathering_soldiers_desc:0 "Many of the knights of yesteryear now wander the Electorate, banished from their own home and trapped in an enemy's hold. Lesser men would accept this to be their end, but Manitoba's proud should never be so down on their luck! To this end, we shall issue a decree: an invitation to All That Is Good within the demesne. The Knights shall ride again, through hell and high water."
+  stn_finding_daniel:0 "Whatever Happened to Daniel of Wadena?"
+  stn_finding_daniel_desc:0 "Once, Daniel of Wadena stood as a fearless titan against the wicked enemies of Lord Yorkton. Now, his fate is a mystery, yet few believe him dead. If indeed he has survived all these years, returning him to the fold would surely re-galvanize the fence-sitters and nonbelievers into action once again. \n\nWe shall conduct a thorough investigation— checking upon every rumor and turning every stone until we find the fate of Daniel once and for all."
+  stn_quiet_way:0 "Breakout Plans: Stealth"
+  stn_quiet_way_tooltip:0 "Unlocks a set of decisions to quietly retrieve Daniel from Allan Hills Penitentiary."
+  stn_loud_way:0 "Breakout Plans: Assault"
+  stn_loud_way_tooltip:0 "Unlocks a set of decisions to breach Allan Hills Penitentiary in search of Daniel."
+  stn_ied:0 "I.E.D."
+  stn_ied_desc:0 ""An 'Improvised Explosive Device' is not something I would traditionally describe as godly, but in such extreme cases as this, we must find providence in whatever we can find. Sir Daniel's very life is on the line. He would do the same for any of us." —Sir Griffin"
+  stn_ied_acquired_flag:0 "Acquired I.E.Ds"
+  stn_acquire_uniforms:0 "Acquiring Disguises"
+  stn_acquire_uniforms_desc:0 ""The Dundurn mongrels wear bastardized versions of our own armor, like a hunter would wear his greatest game as a cloak. Though they may have remolded it to fit their sniveling forms, it was Yorkton Steel that forged that armor, and it recognizes its true masters even now." —Sir Griffin"
+  stn_disguises:0 "Acquired Disguises"
+  stn_getaway_vehicle:0 "Getaway Vehicle"
+  stn_getaway_vehicle_desc:0 ""The criminal mobs within Dundurn are not without their... Peculiarities. With retrofitted carriages and even automobiles they act as dark riders within the night. To secure one would surely guarantee a safe elope from the prison." —Sir Griffin"
+  stn_getaway_vehicle:0 "Acquired A Getaway Vehicle"
+  stn_repair_armor_sharpen_blades:0 "Steeling Armor and Sharpening Blades"
+  stn_blades_sharpened:0 "Sharpened Our Blades"
+  stn_insider_information:0 "A Man on the Inside"
+  stn_insider_information_desc:0 "A contact within the prison will be most important to our endeavors. There are many friends of Yorkton in these lands... Surely there is but one sympathizer we can contact?"
+  stn_insider_info_flag:0 "Acquired A Man On The Inside"
+  stn_breaking_into_allan_hills:0 "Prison Break"
+  stn_breaking_into_allan_hills_desc:0 "Allan Hills shall fall before the might of the chosen of God, and the sinners who dare bow to tyrants shall meet their end by Sir Griffin's own."
+  stn_the_party:0 "A Night to Remember: The Ballad of Sir Daniel"
+  stn_the_party_desc:0 ""
+  stn_reach_out_to_yorkton:0 "Sent by Yorkton, Blessed by Christ"
+
+  stn_memories_of_the_blizzard:0 "Memories of the Blizzard"
+  stn_memories_of_the_blizzard_desc:0 "What happened there changed me forever. When I close my eyes, I can still see the blood red mist all around me, like an inescapable torrent of madness falling upon me."
+
+  stn_a_day_in_the_stoon_gardens:0 "Frolicking, As Best As One Can"
+  stn_a_day_in_the_stoon_gardens_desc:0 "Sulking in the gardens has become my new pasttime. Pierre keeps my chain short, though even he knows I have my limits— and so I spend my time with him out of sight as much as possible."
+
+  stn_send_a_maiden_to_the_warriors:0 "Send a Maiden to the Tribes"
+  stn_send_a_maiden_to_the_warriors_desc:0 "Some of these maidens that aid Pierre came from my tribe, either having been kidnapped and sold or having willingly migrated to this den of inequity. They listen to me as a babe would a mother, and so my plans have found purchase. I will send for one to go north into the tribelands to speak to the warriors, to grant me an army loyal to my own wing. No more mercenaries. No more Lettermen."
+
+  stn_carving_a_blade:0 "Carving a Blade"
+  stn_carving_a_blade_desc:0 "From the bones of a beast I will fashion a blade, jagged and crooked, and it shall be destined for Pierre's heart. A hundred times I shall stab him, and from these cuts I will lift his heart from his chest and devour it before an audience."
+
+  stn_escape:0 "Prepare an Escape"
+  stn_escape_desc:0 "The last step presents itself— though my people's fate will be secured if I leave for long, I will prepare an excuse and a way for myself to be removed from the palace temporarily. From here, I will make my way to Leshy's den— and she will help me kill Pierre Solomon."
+
+  stn_cavort_with_leshy:0 "Cavort with Leshy"
+  stn_cavort_with_leshy_desc:0 "When faced with dethroning the seat of a psuedo-empire, one must turn to unusual methods of dominance. Thus we venture into the den of beasts."

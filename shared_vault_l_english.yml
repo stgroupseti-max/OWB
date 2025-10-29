@@ -1,0 +1,1014 @@
+﻿l_english:
+  # starting foci
+  shared_vault_1:0 "[shared_vault_1_focus_name_loc]"
+  shared_vault_1_name_key:0 ""Prepared for the Future!""
+  shared_vault_1_desc:0 "[shared_vault_1_focus_desc_loc]"
+  shared_vault_1_desc_key:0 "The Bombs were coming, one way or another, and no one was more ready for it than Vault-Tec! Our Vault was one of many that stood ready to ride out the storm and keep our ancestors safe until the world was ready to be rebuilt. Not all vaults were created equal however, and there's always that burning question: What kind of vault was yours?"
+
+  shared_vault_2:0 "[shared_vault_2_focus_name_loc]"
+  shared_vault_2_name_key:0 ""Reserve Your Space Today!""
+  shared_vault_2_desc:0 "[shared_vault_2_focus_desc_loc]"
+  shared_vault_2_desc_key:0 "Every Vault needs to one day make some very tough decisions. The geiger counter may still be ticking, but that door just might need to be opened anyway! Vault-Tec may have been prepared for anything, but people and supplies can still run quite scarce after 200 years underground."
+
+  shared_vault_3:0 "[shared_vault_3_focus_name_loc]"
+  shared_vault_3_name_key:0 ""What's Your Plan?""
+  shared_vault_3_desc:0 "[shared_vault_3_focus_desc_loc]"
+  shared_vault_3_desc_key:0 "Even if we don't want the wasteland, the wasteland just might want us! Just as Vault-Tec prepared for the future, we'll need to do the same. Whether we shield ourselves from it, befriend it, or maybe tame it ourselves, it's time for that brighter future Vault-Tec promised!"
+
+  #left branch foci
+
+  shared_vault_maintenance:0 "The Vault's Maintenance Teams"
+  shared_vault_maintenance_desc:0 "While Vaults are highly automated and built to high standards there'd be nothing left but rusted corridors without the Vault-Tec Maintenance Team!\n\nIt's time we encourage our young dwellers to take up their soldering tools and join the team to keep the Vault on a steady track to perfection."
+
+  shared_vault_industry_bonus:0 "Conveyor Belts"
+  shared_vault_industry_bonus_desc:0 "A steady flow of production is key to keeping our dwellers happy and our Vault profitable. If we want to ensure we are titans of industry in the wasteland we'll have to assign more of our real estate to highly advanced and automated workshops."
+
+  shared_vault_resource_collection:0 "Happy Work Is Hard Work"
+  shared_vault_resource_collection_desc:0 "The great minds in the Vault-Tec Human Relations branch have devised a new campaign to get our dwellers back on their feet and working!\n\nWe will create an artificial atmosphere of competition between the Vault's families by rewarding the hardest working dweller of the month one day of extra pay!"
+
+  shared_vault_maintenance_infrastructure:0 "Expanding the Vault"
+  shared_vault_maintenance_infrastructure_desc:0 "Our residential facilities are quickly filling up and will soon have no more space for future generations. It would be wise to begin excavating future real estate if we wish to avoid a crisis."
+
+  shared_vault_maintenance_repairs:0 "Quinquennial Checklist"
+  shared_vault_maintenance_repairs_desc:0 "Some people say we should check these more often, but the official Vault-Tec Vault Maintenance Manual says once every 5 years, so...."
+
+  shared_vault_generator:0 "The Powers to Be"
+  shared_vault_generator_desc:0 "[Root.GetName] isn't going to survive off of just an old pre-war generator forever. Why not try and upgrade it or look for power elsewhere?"
+
+  shared_vault_reading_about_boats:0 "Inspirations In Literature"
+  shared_vault_reading_about_boats_desc:0 ""To give up the insupportable yoke of the land which men equate with freedom is perhaps not such a great sacrifice as you may imagine." - Captain Nemo, Twenty Thousand Leagues Under the Sea "
+
+  shared_vault_building_dockyards:0 "Beginning Shipbuilding Practices"
+  shared_vault_building_dockyards_desc:0 "All the theoretical knowledge in nautical construction can now find practical application at our newly constructed shipyards. Imagine, going to sea like the great explorers of old!"
+
+  shared_vault_ocean_vaults:0 "Vaults Of The Seas"
+  shared_vault_ocean_vaults_desc:0 "Our first few forays into the waters of the wastes has taught us that bigger is better. After all, much like our Vault homes, they need to provide a solid roof and four walls to protect us from the threats of man and nature. And it stops them swaying around quite so much...."
+
+  shared_vault_bikes:0 "Longer Than Hallways"
+  shared_vault_bikes_desc:0 "The Vaults are comfortably sized. The surface, on the other hand, requires a bit more walking to get anywhere. A simple set of wheels can help us get to new settlements faster. It also can count towards exercise requirements!"
+
+  shared_vault_cars:0 "Much More Travel Time"
+  shared_vault_cars_desc:0 " While fitness is a vital part of our lifestyle, maybe a few refurbished wheels can save us some time?"
+
+  shared_vault_water_chip:0 "Our Water Chips"
+  shared_vault_water_chip_desc:0 "While we have heard long lost tales of Vault Dwellers heroically exiting their Vault and sacrificing themselves to find water chips we were luckily given an adequate supply of them.\n\nThe scientists have proposed to build even more water plants to better utilize our stockpile of chips, truly genius at work."
+
+  shared_vault_resource_capstone:0 "Titans of Industry"
+  shared_vault_resource_capstone_desc:0 "Vault-Tec is no longer calling for efficiency in our industry! In a short period of time we've rivalled expected predictions by 231.5%! A true accomplishment every Vault Dweller can be proud of having helped in."
+
+  #air side branch
+
+  shared_vault_civilian_factory:0 "Machine Over Man"
+  shared_vault_civilian_factory_desc:0 "Our data analysts have calculated that by replacing some of our production line with purpose-built Protectrons we could nearly double our efficiency. Who needs pesky labourers that ask for vacations and can't even work twenty-four hours a day?"
+
+  shared_vault_military_protectrons:0 "Machine In Front Of Man"
+  shared_vault_military_protectrons_desc:0 "Protectrons are actually quite good at protecting us from incoming fire. And they even fire back!"
+
+  shared_vault_air_bonus:0 "Ancestral Aviation"
+  shared_vault_air_bonus_desc:0 "Our American ancestors once roamed the skies freely and without worry. Now the most you'll see in the smoggy and green sky is a mutant crow...\n\nLet's bring back the glory days and teach our youth to pilot our most modern planes, after all this could come in handy for future warfare."
+
+  shared_vault_air_tech_bonus:0 "Excellent Aeronauts"
+  shared_vault_air_tech_bonus_desc:0 "It seems that our campaign to instill the passion of aviation into our youth has taken hold. There's just one problem: all we have are rickety biplanes and 21st century relics.\n\nIf we truly want to control the skies we must advance the technology we provide to our aeronauts or we'll be shot down by pipe rifles."
+
+  shared_vault_air_base_bonus:0 "Castle in the Sky"
+  shared_vault_air_base_bonus_desc:0 "Now that our air force is a formidable opponent to anyone who roams the skies we have one final issue: air bases. If we don't assign some of our dwellers to finding clearing in the land and building airstrips our airforce will have no chance at launching anything more than a glider."
+
+  #security branch
+
+  shared_vault_security:0 "The Vault's Security Teams"
+  shared_vault_security_desc:0 "While we trust that all Vault Dwellers will be good upstanding members of the community, having insurance has never gone wrong.\n\nOur Security Team stands for law and order and protects us from both outside and inner threats and is a staple of our Vault."
+
+  shared_vault_security_organization:0 "Printing More Uniforms"
+  shared_vault_security_organization_desc:0 "Besides being comfortable, rugged and fashionable, Vault-Tec security uniforms help distinguish our forces from the lawless wastelanders. We'll need to ramp up production to keep up with modern needs."
+
+  shared_vault_identification:0 "Assign New VIDs"
+  shared_vault_identification_desc:0 "Vault identification numbers are given to every dweller when their birth is registered. Luckily with 11 whole digits to utilized this system can be expanded to newcomers to our society easily. We just need to make them fill out the proper paperwork and bring it by the office between 10 and 2."
+
+  shared_vault_security_gaming:0 "Playing Some War Games"
+  shared_vault_security_gaming_desc:0 "Some have said that games are an excellent way to train the mind to think strategically. We're pretty sure those folks just want to slack off. And even if it is true, isn't it about 200 years too late for Atomic Command holotapes to be useful?"
+
+  shared_vault_air_land_teamwork:0 "No "I" In Teamwork"
+  shared_vault_air_land_teamwork_desc:0 "There is a lot of work though, and today we're focused on getting the security team and the aeronauts on the same page."
+
+  shared_vault_security_equipment:0 "Man the Guns"
+  shared_vault_security_equipment_desc:0 "While our Security Team has been doing excellent work they lack the required fire power to properly manage any serious threats.\n\nIt would be wise to assign some of our civilian workforce to temporarily make more armaments for our officers."
+
+  shared_vault_security_boon:0 "Zirconium Pants"
+  shared_vault_security_boon_desc:0 "Now that our Security Team has adequate fire power we can focus on other issues with it, primarily the lack of armour.\n\nOur scientists have been hard at work in their labs working on a compound known as "Zirconium" which could be used in ballistic vests due to its ideal material properties."
+
+  shared_vault_security_recruitment:0 "Dwelling Defenders"
+  shared_vault_security_recruitment_desc:0 "The great minds at Vault-Tec gathered together and fixed all the issues we had with our Security Team's equipment, now it's up the great speakers.\n\nEvery dweller respects the Security Team but few want to join it, surely if we show them the benefits behind the job they'd sign up immediately!"
+
+  shared_vault_arms_factory:0 "Astounding Ammunition"
+  shared_vault_arms_factory_desc:0 "Our production lines consist of trinkets and civilian goods, it's time we step in and reassign some plants purely to the manufacturing of firearms. Our enemies will know the dedication of our dwellers once the lead projectiles we manufactured pierce their skull."
+
+  shared_vault_doctrine_bonus:0 "Drilling Dwellers"
+  shared_vault_doctrine_bonus_desc:0 "Should war ever reach the outskirts of our Vault every man, woman and child must be prepared to face the wrath of our enemies.\n\nSecurity Chief McKay has agreed to drill folk of all ages in the art of warfare to help us face the enemy."
+
+  shared_vault_arms_factory_2:0 "Expanding Firearm Production"
+  shared_vault_arms_factory_2_desc:0 "The effort we put forward to build further weapons manufacturing plants has paid off. However we can always push the production line further, our scouts have spotted land clearings that would be the perfect location to set up armament workshops."
+
+  shared_vault_outward_movements:0 "Ring of Fire"
+  shared_vault_outward_movements_desc:0 "The Security Team is stronger than even some of the most elite pre-war organizations thanks to our dedication to arming and overhauling them.\nThe final step in our plan will simply be riling up our forces and painting the enemy as an alien force with no human emotion behind it so our men show them no remorse."
+
+  #vault science branch
+
+  shared_vault_doctors:0 "The Vault's Science Teams"
+  shared_vault_doctors_desc:0 "The Vault Science Teams are the most crucial pillar in securing our future in the wasteland.\nVault-Tec's best and brightest were sent to our vault to be utilized! Not just to be sitting around testing on lab mice.\nIf we are to continue sailing on a steady path of technological stability we must make sure our scientists are well-funded."
+
+  shared_vault_stimpaks:0 "Stocking Up on Stimpaks"
+  shared_vault_stimpaks_desc:0 "While our Vault provides some of the most high quality care in the wasteland there are still issues in our supply line. Stimpaks and Med-X are rare finds for our scavengers and we currently don't have any way of producing them. Setting the Science Team's objective to recreating the stimpak formula would help immensely."
+
+  shared_vault_support_bonus:0 "100% Condition"
+  shared_vault_support_bonus_desc:0 "Our Pip-Boys are built in with devices able to track both flora and fauna, why don't we encourage our dwellers to get rid of pests like radroaches by rewarding them for killing 50 of them! I'm sure these little traits will keep our Dwellers motivated to deal with pests."
+
+  shared_vault_future_warfare:0 "The Future Of Warfare"
+  shared_vault_future_warfare_desc:0 "Some white coats with their heads in the clouds dream of an age where everyone in the community gets their own plasma pistol.\n\nFor now we'll probably have to make do with refurbished laser rifles."
+
+  shared_vault_super_security:0 "Theorizing Super Security"
+  shared_vault_super_security_desc:0 "The American military was at the cutting edge of advancements in warfare before the bombs dropped. If we could recover and integrate some of their technology and manuals, we could place our best performing security members into unstoppable elite units."
+
+  shared_vault_scientists:0 "Vigilant Recycler"
+  shared_vault_scientists_desc:0 "Vault-Tec has invested far too many materials into wacky larger than life experiments done by spiky white haired scientists. If we want to actually create useful technology that isn't a radroach that can talk then we'll have to work on scrapping some of the more eccentric research projects."
+
+  shared_vault_research_bonus:0 "Nerd Rage!"
+  shared_vault_research_bonus_desc:0 "It seems that our scientists have finally found their ticket to working less. They've built a computer that runs thousands of experiments to see which ones should be trashed due to their insanity...\n\nWould've been better to have less mad scientists but this will expedite things, I guess?"
+
+  shared_vault_expanding_goat:0 "Expanding The G.O.A.T."
+  shared_vault_expanding_goat_desc:0 "The G.O.A.T. has helped generations of our children find an exciting and fulfilling career (more often than not). But now that we're on the surface there's a lot of jobs it just didn't account for. So the science crew has worked with our teachers to create 20 new questions to add to the test. The teens will be so cranked!"
+
+  shared_vault_radar_time:0 "Upscaled Motion Sensors"
+  shared_vault_radar_time_desc:0 "The Wattz Electronics C-U Model motion sensor is an add on for older model Pipboys. Taking them apart and then putting them back together, but much larger, would help us see enemies approaching long before they reach us."
+
+  shared_vault_research_bonus_upgrade:0 "Downloading RAM"
+  shared_vault_research_bonus_upgrade_desc:0 "The so-called "Sensetron" has saved thousands of man hours on our scientist team thanks to its cunning abilities. It's time to see if we can expand its utility following the Vault-Tec manual.\n\nAccording to basic protocol we can insert a simple holodisk into the drive and gain a gigabyte of RAM! This should do the trick."
+
+  shared_vault_slot_research:0 "Strange Days"
+  shared_vault_slot_research_desc:0 "With our resource issues figured out and our scientists on full focus we've reached an efficiency unseen in even the best projections from Vault-Tec. It seems our loveable science team has ushered in a new era of technological progress in a wasteland full of ignorants."
+
+  shared_vault_the_geck:0 "The G.E.C.K."
+  shared_vault_the_geck_desc:0 "Our Vault has exceeded even the highest expectations of survival rate in the barren wasteland, now it's time for our final purpose. We must exit our comfortable and cold steel walls to venture out and make the wasteland green and pristine with our mint condition G.E.C.K.!"
+
+  shared_vault_post_geck_1:0 "Opening The Doors"
+  shared_vault_post_geck_1_desc:0 "What lies behind those mighty portals into the earth? What differences do the other Vaults have in their construction? What's distinct about their inhabitants?\n\nOnly one way to find out!"
+
+  shared_vault_post_geck_2:0 "Dwellers Of Vaults"
+  shared_vault_post_geck_2_desc:0 "Our ongoing exploration of the Vaults, of their similarities and differences, has given us keen new insights into the the company that built them, the end of the world, and ourselves."
+
+  shared_vault_post_geck_3:0 "The Truth About Vault-Tec"
+  shared_vault_post_geck_3_desc:0 "Eleven-plus data points leads us to an unfortunate series of revelations about the company that sheltered our ancestors...."
+
+  #shared vault tooltips
+  shared_vault_dockyards_tt:0 "Will Add §G3§! §YDockyards§!"
+  shared_vault_1_vault_explored_tt:0 "We have explored §Y1§! other Vault."
+  shared_vault_5_vaults_explored_tt:0 "We have explored §Y5§! other Vaults."
+  shared_vault_10_vaults_explored_tt:0 "We have explored §Y10§! other Vaults."
+
+  #shared vault ideas
+
+  shared_vault_maintenance_teams:0 "Vault Maintenance Teams"
+  shared_vault_construction:0 "Striving For Perfection"
+  shared_vault_repair_schedules:0 "Repair Checklists"
+  shared_vault_security_teams:0 "Vault-Tec Security Teams"
+  shared_vault_security_teams_expansion:0 "Vault-Tec Security Vanguards"
+  shared_vault_everyone_a_vid:0 "Assigning New VIDs"
+  shared_vault_playing_video_games:0 "Getting The High Score"
+  shared_vault_air_land_coop:0 "Committee To Ensure Pilot-Security Communication"
+  shared_vault_idea_research_buff:0 "Sane Scientists"
+  shared_vault_idea_expanded_goat_questions:0 "Generalized Occupational Aptitude Test 2.0"
+  shared_vault_idea_research_buff_2:0 "Expanded Memory"
+  shared_vault_little_bit_of_weird:0 "People Are Strange"
+  shared_vault_terrors_of_the_vault:0 "Bloodstained Walls"
+  shared_vault_safety_indoors:0 "Safety Indoors"
+  shared_vault_reclaim_by_force:0 "Reclaim By Force"
+  shared_vault_repurposed_machines:0 "Repurposed Machines"
+  shared_vault_find_more_vaults:0 "Vault Hunters"
+  shared_vault_tec_champions_bonus:0 "Champions Of The Vault System"
+  shared_vault_the_executive_truth:0 "Collecting The Data Of Our Forefathers"
+  shared_vault_the_cold_truth:0 "Heroes And Failures Go Hand In Hand"
+  shared_vault_the_purposeful_truth:0 "Searching For The Final Truth"
+  shared_vault_the_pragmatic_truth:0 "In The End, Our Ancestors Survived To Make Us"
+  shared_vault_the_terrible_truth:0 "The Horror Of The Vaults Made Clear"
+  shared_vault_the_coherent_truth:0 "Our World Was Shaped By Madmen"
+
+  #shared vault events
+
+  gen_vault.1.t:0 "Prepare for the Future"
+  gen_vault.1.d:0 "It's not a very well kept secret that some of the vaults out there weren't exactly designed with their occupants' best interests in mind. While there were many control vaults, a number had more than just safety in mind. Some were downright horrifying, all in the name of science!"
+  gen_vault.1.a:0 "Ours was mostly normal."
+  gen_vault.1.b:0 "It got a little weird in there."
+  gen_vault.1.c:0 "The Horrors..."
+
+  gen_vault.2.t:0 "Reserve Your Space Today!"
+  gen_vault.2.d:0 "Eventually the overseer had to make some hard calls about whether or not to open the vault door. The surface was still dangerous to be sure, but it was just as certain that there were people out there and those folks could potentially help us out or even join us! They also could kill us all!"
+  gen_vault.2.a:0 "We do not let them in."
+  gen_vault.2.b:0 "Always time for a little trade!"
+  gen_vault.2.c:0 "Never too late for new neighbors!"
+
+  gen_vault.3.t:0 "What's Your Plan?"
+  gen_vault.3.d:0 "Whether we've welcomed or shunned the outside world, we're going to need to be ready for whatever it throws at us. The overseer is wise, probably, and they've got a surefire plan to see us through the years to come. They just need to tell us what it is!"
+  gen_vault.3.a:0 "Barricade the door and pray no one knocks."
+  gen_vault.3.b:0 "The Wasteland needs reclaiming, by force."
+  gen_vault.3.c:0 "We'll repurpose the Vault's machines to suit our needs."
+
+  gen_vault.4.t:0 "The New Generation Of Security"
+  gen_vault.4.d:0 "While conflict resolution is an important skill according to the Overseer's manual, some folks up top just aren't willing to listen to us. So if we have to keep fighting, maybe we need to put the best of our resources into "Super Security Teams"."
+  gen_vault.4.a:0 "Power Armour is the pinnacle of conflict (after compromise)"
+  gen_vault.4.b:0 "Special Forces armor is not as clumsy (or expensive) as PA"
+  gen_vault.4.c:0 "What's wrong with the original Vault Security outfit?"
+  gen_vault.4.e:0 "Every Security team member is super!"
+
+  gen_vault.5.t:0 "The Truth About Vault-Tec"
+  gen_vault.5.d:0 "One thing has become clear as more and more vaults fall into our hands: these things weren’t made to save people. Some of them might have been, and actually did their job, but the rest were part of a great conspiracy. The prewar government and Vault-Tec designed most of the vaults as cruel and inhumane experiments to be conducted on the inhabitants. Whether they were manipulative social experiments or simply testing dangerous scientific breakthroughs on a captive audience most of the vaults we find are graveyards or dens of madness."
+  gen_vault.5.a:0 "But.... we already knew all that."
+  gen_vault.5.b:0 "Look at the successes though!"
+  gen_vault.5.c:0 "Perhaps their experiments had a greater purpose."
+  gen_vault.5.e:0 "It's terrible, truly terrible, but they did save some of us."
+  gen_vault.5.f:0 "To think how many could have lived, if not for greed."
+  gen_vault.5.g:0 "This explains a lot actually."
+
+  # Vault 27 - new loc by zusk c:
+  VLS_OVERSEER_KNOX_NAME:0 "Overseer Knox"
+  VLS_OVERSEER_KNOX_DESC:0 "Thomas Knox has a problem, though he'd never admit it out loud. It's the knocking. Faint at first, barely more than a tick against metal, but it never stops. Day or night, in his office or the empty halls—always just out of reach, always just behind him.\nVault 27 was always designed to fail—a labyrinth of scarcity, overcrowding, and tension wound so tight it should've snapped years ago. But it didn't. Overseers before him cracked under the strain, but Knox endures. He micromanages every calorie, counts every bunk, calculates every birth. Order over mercy. The numbers must add up.\n\nYet… the knocking persists. He's had maintenance crews tear apart walls, inspectors crawl through air ducts, and guards stationed at sealed bulkheads. Nothing. Just metal and shadows.\nSome say it's the pipes, others whisper about restless spirits or something else—something Vault-Tec never put in the official blueprints. Knox doesn't believe in ghosts. He believes in quotas, ration schedules, and population charts.\n\nBut when he's alone in his office, pen poised over another grim report, and the knocking starts up again—closer this time—he can't help but wonder: what if something is knocking back?"
+
+  vls_crammed_vault:0 "Knock-Knock"
+  vls_crammed_vault_desc:0 "It's not the tight corridors or the endless sea of faces that bother most folks in Vault 27. It's the sounds—the faint tapping, the rhythmic knocking. You hear it in the walls, in the air vents, even in the floor beneath your bunk. People used to joke about it being 'the Knocker’s beat,' but no one’s laughing now. When space is this tight, every knock feels like it’s for you."
+
+  vls_ghost_division_focus:0 "The Ghost's Brigade"
+  vls_ghost_division_focus_desc:0 "The Ghost Division—they don't just march, they knock. A strange superstition runs among them: they tap twice on their helmets before battle, twice on the door before entering a new room. Some say it’s for luck, others claim it's to appease 'Them'—whatever’s been knocking since the Vault first sealed. They bring back what the Vault needs, but stories of their hunts grow stranger every day. Supplies from hollow places. Weapons with whispers. And always... always the knocking."
+
+  vls_biggest_little_vault:0 "The Knockers' Workshop"
+  vls_biggest_little_vault_desc:0 "Vault-Tec left us tools—excavators, drills, machinery for building homes underground. But when the digging starts, so does the knocking. Harder, sharper, almost... irritated. Engineers joke about 'angering the Knockers' when they hit an unexpected steel bulkhead or hear echoes that shouldn’t bounce back. But the workshop hums on, and the Vault grows—up, down, sideways. Knock-knock, Vault-Tec."
+
+  # TODO: get prov name by variable
+  vls_chance_of_a_lifetime:0 "Knock Twice for Luck"
+  vls_chance_of_a_lifetime_desc:0 "Vail's Reach has become an irresistible prize, and the Ghosts have drawn up plans to crack it open like an old steel drum. They say Tomas Knox told them to knock twice before they breach any gate or safehouse—always twice, never three times. Nobody asks why anymore. If they listen close enough, they’ll hear the answer on the wind."
+
+  vls_settlers_from_below:0 "From Hollow Halls"
+  vls_settlers_from_below_desc:0 "Generations of dwellers have dreamt of sunlight, fresh air, and homes that don't hum with recycled oxygen. Now, they have their chance. But as they settle above, some swear they still hear faint knocking in the earth below—like the Vault itself is calling them back, one hollow knock at a time."
+
+  vls_no_more_food_stamps:0 "Knock-Knock Crops"
+  vls_no_more_food_stamps_desc:0 "The hydroponics bays kept us alive, but barely. With proper greenhouses under the open sky, we'll finally have real food. Yet some settlers have started marking their fields with strange little cairns—piles of rocks, taps etched into wood. They say it keeps 'Them' away. Knox hasn’t said a word about it… but he hasn’t stopped them, either."
+
+  vls_more_breathing_space:0 "More Breathing Space"
+  vls_more_breathing_space_desc:0 "At its best times, Black Canyon is disorganized, dangerous hellhole. It's time to give the good people of Vault 27 the breathing space that they deserve!"
+
+  vls_fresh_air:0 "Sky Above, Knocking Below"
+  vls_fresh_air_desc:0 "For the first time, Overseer Knox awoke beneath open skies, sunlight washing over his face. And yet, even here, surrounded by fields and free air, he paused. Beneath the hum of cicadas and the rustle of grass, there it was: faint, but unmistakable—tap, tap, tap. Somewhere, the knocking continues."
+
+  vls_ghosts_in_the_shell:0 "Marching to the Beat"
+  vls_ghosts_in_the_shell_desc:0 "The Ghost Division doesn’t fight for honor, nor for survival—they fight because they’re driven. Something in their black helmets, in their hollow footsteps, speaks of inevitability. They move in eerie synchrony, their heavy boots falling with the same rhythm as the knocks Tomas hears in the walls. Whatever’s out there in the wastes… it’s marching in time with them."
+
+  vls_open_vault_riches:0 "The Vault’s Last Knock"
+  vls_open_vault_riches_desc:0 "When the Vault doors creaked open and the citizens rushed out, weighted pressure plates triggered one final trick. Hidden chambers snapped open, caches of tools, supplies, and forgotten luxuries laid bare. Overseer Knox sealed them shut again, quick and quiet. But something else came with the opening—something faint, something… knocking."
+
+  vls_spacey_vault:0 "Open the Walls, Let the Knocks Out"
+  vls_spacey_vault_desc:0 "No more crowded bunks. No more endless lines for air vents and food rations. The people of Vault 27 are free, under open skies and on open land. But some dwellers still glance back at the vault door, as though expecting something—or someone—to follow them out. And in the stillness of twilight, one question remains unanswered:\n‘Who was knocking all that time?’"
+
+  ###vault27 ideas
+  vls_ghost_division:0 "The Ghost Brigade"
+  vls_ghost_division_desc:0 "Once citizens, now legends in black power armor, the Ghost Division is Vault 27’s sword and shield. But their legend grows stranger with every sortie. They knock before entering ruins, knock before sealing airlocks, knock twice before they fire. Some say it’s ritual, others say it’s respect. But no one dares ask them why."
+  vls_ghost_army:0 "The Knocking March"
+  vls_ghost_army_desc:0 "When the Ghost Division moves, the world listens. The rhythm of their march carries far across the wastes, a sound like distant thunder—or hollow knocking on steel. They’ve stopped explaining themselves. They march, they knock, and they conquer."
+  vls_full_vault:0 "Knocks in Every Corner"
+  vls_full_vault_desc:0 "Even now, with more space and more air, some dwellers swear the knocking hasn’t stopped. They hear it in the new greenhouses, in the windmills, and in the spaces between. Whatever it was—or is—it’s still listening."
+  vls_open_vault:0 "Open Vault, Open Knocks"
+  vls_open_vault_desc:0 "The Vault is open, the air is fresh, and the knocking is… quieter. For now."
+
+  ###vault27 events
+
+  vls_vault.1.t:0 "Our One Opportunity"
+  vls_vault.1.d:0 "A rogue gang from the Claim Jumpers has poured across the border and is holding Vail's Reach hostage. Black Canyon is far too disorganized to mount an offensive of their own. However, our Ghosts know that area better than anyone and can easily save the town from these bandits. Should free the town and return it to Black Canyon, or should we keep the territory for ourselves?"
+  vls_vault.1.a:0 "The city will be ours!"
+  vls_vault.1.a_tt:0 "We will attack the Claim Jumper rebels directly, seizing the town for ourselves!"
+  vls_vault.1.b:0 "Let's be good neighbors"
+  vls_vault.1.b_tt:0 "We will contact Black Canyon first and work with them to save the town"
+  vls_vault.1.c:0 "The city will be ours!"
+
+  vls_vault.2.t:0 "Phantom Strike"
+  vls_vault.2.d:0 "Only the Ghost Division know how to be stealthy in power armor. They followed hidden trading paths and quickly surrounded the city, massacring the invadors and saving all but a handful of townspeople from their oppressors. Vail's Reach was quick to accept Vault 27's control of the area, and the Black Canyon soldiers have refused to mount any sort of offensive against our superior Ghosts."
+  vls_vault.2.a:0 "The Valley's Mouth is ours!"
+
+  vls_vault.3.t:0 "The Stubborn Bighorners"
+  vls_vault.3.d:0 "Black Canyon claimed they didn't need our help, ordering our Ghosts out of the territory. Black Canyon's \"negotitions\" lead to a two hour shootout, with both armies and most of the townsfolk dead. Now the Ghosts stand ready to mop up whoever is left and hold the city for themselves."
+  vls_vault.3.a:0 "Stubborn bastards... order the offensive!"
+
+  vls_vault.4.t:0 "Good Will and Good Deed"
+  vls_vault.4.d:0 "Black Canyon was more than eager to accept our offer of help. Black Canyon militias drew attention east while the Ghost Division swept in quietly from the west, massacring the oppressors and saving every last townsperson. Now the people of Narrow are also asking for Vault 27's support, essentially securing the whole region under our control."
+  vls_vault.4.a:0 "This 'karma' thing seems to be working."
+
+
+  #timekeepers focus
+
+  clk_tick:0 "The Ticking Vault"
+  clk_tick_desc:0 "§OThe clock ticks, the bell chimes, it's always there. It's as real as you or me, but you can't feel it. It creates and takes, it doesn't care because it never cared, and never will. You can try to run from it, dread it, but it's inevitable. Cherish what you have when you can, your time will come...§! §Rbut it doesn't have to.§!"
+
+  clk_goal_tock:0 "Overseer: Tock"
+  clk_goal_tock_desc:0 "When the door of Vault 24 rolled away, the first to walk upon the sand was Overwatch Tock. His expedition established the keeper's current holdings, making his team heroes. He was christened as chief Timekeeper, subsequently becoming the first to also hold the title of Overseer. His reforms have been radical, but they are necessary if the vault and its people are to survive."
+
+  clk_vault_rests_not:0 "The Vault That Never Rests"
+  clk_vault_rests_not_desc:0 "A vault is only limited by its occupants. While the other vaults spend their day bashing each others minds out, we for one use our time well. With our ability to use time effectively, we've been able to surpass all previous vault efficiency goals. Time is money after all."
+
+  clk_goal_mold:0 "Breaking The Mold"
+  clk_goal_mold_desc:0 "The risks are clear, but it's §Otime§! for change. We can't remain passive in our vault, just waiting to die. We must take action, break the mold. Ready the people, we're going to war."
+
+  clk_goal_crushing_white:0 "Breaking The White Legs"
+  clk_goal_crushing_white_desc:0 "The worst wasn't the bombs, it was what came after. Trading caravans found our farthest out settlements as tufts of ash. Skulls on makeshift pikes were fitted all around the perimeter. The sand in the hourglass is draining, we must save our people before §Oour time§! runs out..."
+
+  clk_goal_army:0 "Reorganizing Our Army"
+  clk_goal_army_desc:0 "Vaults were never given room to accommodate an army. Our vault's strict adherence to routine left our security team only tasked with the occasional trifling invader. Now, it's going from radroach to raider. They're out for blood, let's try to at spill theirs instead."
+
+  clk_goal_know_enemy:0 "Knowing The Enemy"
+  clk_goal_know_enemy_desc:0 "Our army is weak, they've never known what true terror is. The scouts come back sullen from Lincoln and Frisco, but their stories can only reach so many. If we are planning to win this, we should show them what they're really up against."
+
+  clk_road:0 "The Road Ahead"
+  clk_road_desc:0 "Where do we go now? The §RWhite Legs§! have been defeated, and New Canaan has learned to mind their own. Even though the world is better off with us than them, it's still unwelcoming. We can't just stop now, we've already done so much. Tock has suffered the worst of all, and he knows he'll make it right. No one will get in our way now, to a better §Ofuture§!."
+
+  clk_raiding:0 "Friends In High Places"
+  clk_raiding_desc:0 "We shouldn't have assumed the wastes were solely ruthless savages, there's still some hope out there. We found a group who still practice the century old sport of flying. They've been operating out of an old military instillation. We might even find something there that can fufill Tock's promise of a greater §Ofuture§!."
+
+  clk_sky_trade_deal:0 "Setting Up Trade Arrangements"
+  clk_sky_trade_deal_desc:0 "Beyond simply having a military alliance, it beneficial to both of us to have regular caravans between our settlements."
+
+  clk_open_northern_front:0 "Opening The Northern Front"
+  clk_open_northern_front_desc:0 "The Tar Walkers are not, perhaps, the worst neighbors one could have. They have certainly harmed us less than the White Legs did. However, the offensive and defensive benefits of taking the 89 highway and the mountain passes are too much to pass up."
+
+  clk_disappointment_time:0 "A Change To The Schedule"
+  clk_disappointment_time_desc:0 "An unexpected encounter is pushing back our estimated §Otime§! til success."
+
+  clk_heading_eastward:0 "Heading: 3 O'Clock"
+  clk_heading_eastward_desc:0 "If the central base of the Sleepers is to the East, then to the East we shall head. There we will fine the scrap and research to provide a new §Ofuture§!."
+
+  clk_timing_engines:0 "Engine Timing Systems"
+  clk_timing_engines_desc:0 "It's pretty important that all the moving pieces of an engine, be they for terrestrial use or aerial, are operating like §Oclockwork§!."
+
+  clk_northern_push:0 "Winding North"
+  clk_northern_push_desc:0 "From here we must head northeast, up through the lands of the Uintah and to the trading hub of Eagle Rock. Their airships are likely to pose a threat, but we'll leave that fight to the Reavers."
+
+  clk_free_watches:0 "Synchronized Watches"
+  clk_free_watches_desc:0 "It seems the locals aboveground are a bit less attuned to punctuality. With some helpful spare watches they should finally start making it to their work shifts at 0700 sharp."
+
+  clk_meticulous_bases:0 "Preparing For Support"
+  clk_meticulous_bases_desc:0 "Crossing the Colorado river will be difficult, especially if the defenders on the otherside catch us at the shores. If the Reavers are to play their part, we'll need new airstrips for them to launch from."
+
+  clk_cash_for_clocks:0 "Cash For Clocks"
+  clk_cash_for_clocks_desc:0 "Eagle Rock indeed had a considerable wealth stored up, in both caps and trade scrap, from their long travels through the sky. What really matters is all the different styles of clocks in the storerooms! And making sure they integrate is important as well, I suppose."
+
+  clk_sleepers:0 "Time To Wake Up"
+  clk_sleepers_desc:0 "Hope is there, within our reach. §OOverwatch Tock§! has brought us here, to the canyon, to achieve our final goal. It's all lead up to this, if what we need is truly there, we will finally be able to break away.\n§OFor the future of our people, and the future of our world, let's make it all count.§!"
+
+  clk_tick_2:0 "The Ticking Vault"
+  clk_tick_2_desc:0 "§OThe clock ticks, the bell chimes, it's always there. It's as real as you or me, but§W...wait, haven't we been here before?"
+
+  clk_goal_stealer:0 "A Hint Of Meddling"
+  clk_goal_stealer_desc:0 "A fusion core there, someone's hat, maybe even a cat or two. The past is full of luxuries that we could only ever imagine. As long as we're careful to not create any §Rparadoxes§W we'll be fine. It's not like anyone will miss any of this."
+
+  clk_goal_tock_2:0 "Overlord: Tock"
+  clk_goal_tock_2_desc:0 "The mastermind behind it all, our bringer of salvation. Just as Moses parted the red sea, Tock broke away the §RWhite Legs, Tar Walkers, Sorrows, and the Sleepers.§WOur freedom from this world's terror, within reach, it wouldn't be possible without him. §WA man above all, even §Otime. "
+
+  clk_goal_master:0 "The Future"
+  clk_goal_master_desc:0 "§OWe're at the gates, the machine is prepared for post-current travel. We've seen the past, and lived the present, we've accomplished more than anyone could possibly imagine. We'll finally be free from our ancestors' evils, and can live out our own destiny. After all this time, we finally made it."
+
+  clk_goal_debt_repaid:0 "Repaying Our Debts"
+  clk_goal_debt_repaid_desc:0 "Our friends at Area 51 have more than proven their worth, §Otime§! and §Otime§! again. They supported our conflicts, and so we must support theirs."
+
+  clk_goal_debt_repaid_2:0 "One Overlord To Another"
+  clk_goal_debt_repaid_2_desc:0 "Proof of our commitment has strengthened the bonds between us. The Sky Reavers are offering us better terms and a bit of new know-how."
+
+  clk_goal_slay_the_sky:0 "The Eleventh Hour"
+  clk_goal_slay_the_sky_desc:0 "Perhaps it was §Oinevitable§! that it would come to this. Perhaps it was foolish to believe it could end any other way with raiders."
+
+  clk_goal_slay_the_sky_2:0 "Scheduled Interrogations"
+  clk_goal_slay_the_sky_2_desc:0 ""Now then, please speak loudly and clearly into the microphone. We just have a few questions for you, Mr. Bloodfingers, about your flight record.""
+
+  clk_goal_stealing_time:0 "Reversing The Stream"
+  clk_goal_stealing_time_desc:0 "A few tweaks to stabilize the machine, and we can reliably attempt excursions into prior eras. The risk of §Rparadoxes§W is fairly small, all things considered. Just avoid your great-great-grandparents, please."
+
+  clk_goal_stealing_time_2:0 "Repeating Old Mistakes"
+  clk_goal_stealing_time_2_desc:0 "Having seen both the §OPast§! and the §OFuture§!, is there really no other way for man to live? Is §RWar§! the only constant?"
+
+  clk_goal_guarding_utah:0 "Save Utah, Save The World"
+  clk_goal_guarding_utah_desc:0 "If the §OFuture§! of the Earth can be changed, it starts here in Utah. And if we fail.... we'll just have to §Rtry, try, try again.§!"
+
+  #Timekeepers tooltips
+  clk_wall_tt:0 "§gA defensive line will be §Ofound§! along our border with the§R White Legs.§!"
+  clk_enemy_tt:0 "§gThe §RWhite Legs§! have begun to organize an effort to §Rdestroy§! our people! Luckily, §Otime§! is on our side. We should begin to prepare, as §Rthis war won't be easy.§!§!"
+  clk_friend_tt:0 "§OWe have defeated the §RWhite Legs§!. With §RSalt-Upon-Wounds§! dead, we can begin to make way for the §Ofuture!§!§!"
+  clk_raiding_tt:0 "§GWe'll enter a mutual defense pact with the Sky Reavers!§!"
+  clk_gotta_go_east_tt:0 "§OThe materials here at this downed station.... even all the techno waste in the Grand Canyon isn't §Renough§!.§!"
+  clk_helping_tt:0 "§OHow could've it gotten to be this way, we did something wrong, we didn't do enough. We stopped at the station, we've got to go further. We must keep the world under our wing, nurture the future, the one we deserve.§W"
+  clk_helping_tt.b:0 "§OHow could've it gotten to be this way, we did something wrong, we didn't do enough. We stopped at the station, we've got to go further. We must keep the world under our wing, nurture the future, the one we deserve.\n§RWe'll start with those backstabbing sky raiders.§W"
+  clk_vault.11.tooltip:0 "§RWith the pitiful defeat of the once mighty road warriors, we now have complete control over their garages and depots. Many of their equipment was lost to the war, but there's still some left to salvage for us.§!"
+  clk_vault.reavers:0 "§GOur partnership with the Sky Reavers has proved too benefical to let it end already, while it may be unpopular, we can perhaps strike up a new deal with them. In exchange for spare parts to aid with their aircraft, they will continue to support us in our future endeavors.§!"
+  clk_vault.reavers.a:0 ""§OUgh. Tock, it feels like something new and unique just unlocked for a focus tree, What could this mean?§!""
+  clk_transfer_to_sky_tt:0 "§gIf we own any states Cored by §O[GRA.GetName]§!, §O[RIP.GetName]§!, or §O[RUB.GetName]§!, we will transfer them to §O[SKY.GetNameDef]§!.§!"
+  clk_utah_and_nevada_tt:0 "§gGrants §GClaims§! on every state in §OUtah§!.\n\nIf we are still allied to the §YSky Reavers§!, grants them §GClaims§! on every state of §ONevada§!.§!"
+
+  #timekeepers ideas
+  clk_never_rests:0 "The Vault That Never Rests"
+  clk_mold_breaking:0 "Breaking the Mold"
+  clk_army_reorg:0 "Reorganizing the Army"
+  clk_crushing_white:0 "Crushing the White Legs"
+  clk_know_enemy:0 "Knowing the Enemy"
+  clk_sleeping:0 "Waking the Sleepers"
+  clk_time_research:0 "Post-Current R&D"
+  clk_the_push:0 "Our Last Effort"
+  clk_the_deal:0 "Kronos's Deal"
+  clk_the_deal_kronos:0 "Tock's Deal"
+  clk_the_deal_betrayed:0 "Knowledge Of The Reavers"
+
+  #Timekeeper Traits
+  clk_armament_sector:0 "Child of the Armament Sector"
+
+  ###Timekeepers events
+  clk_vault.1.t:0 "The Ticking Vault"
+  clk_vault.1.d:0 "It was a simple start. When the vault was sealed and the bombs fell, those inside were relieved to have been spared the devastation upon the world outside. The only oddity was the Overseer's insistence that the dwellers follow a tight schedule, dictating when they ate, slept, rested and worked. Gradually the schedule grew more and more comprehensive, indicating when it was time for each dweller to do nearly anything, whether it was getting a haircut or playing with their children. Those who questioned the need found themselves denied food and water, and in time the vault filled up with the ticking and chiming of hundreds of clocks. Generations later time is the ever-present companion and master of the dwellers in Vault 24, and there are no more questions of its importance. They track it, live according to it, and dread the day that it runs out for them, or for the world as a whole. That last fear leads to obsession festering within the quarters of the vault's brightest minds, and they have a single overarching question that needs answering; can Time ever march backwards as it does forwards?"
+  clk_vault.1.a:0 "Time is a great healer"
+
+  clk_vault.2.t:0 "Overseer: Tock"
+  clk_vault.2.d:0 "The man who would become the Chief Timekeeper and Overseer of Vault 24 was once a scientist, excited to step out through the door and learn about the new world they'd been sheltered from so long. That dreamy wonder was shattered by a very real nightmare. What he found was an ashen desert, scattered and desperate survivors and monsters he could never have imagined. Along with the rest of his recon team Tock explored the region, logging everything he saw on his pip-boy. In his notes he detailed the hostile tribes that filled the lands in all directions, the deathclaws that tore apart his closest comrade, the radiation that still ticked away at his geiger counter. It was not all horror, there were moments of triumph and discovery as well. It was Tock and his compatriots who turned the tide and rescued those living in the ruins of Beaver City from a troop of marauding super mutants, earning the survivors' gratitude. It was Tock who discovered the strange ghoulish folks who time had seemingly forgotten and recorded them for vault posterity. It was enough that when the recon team returned to the Vault that Tock, who had become the de facto leader of the group, was treated as a conquering hero. In the days that came later, Tock ruminated on the terrible and broken world he'd beheld and recorded. When he was named the first Overwatch of the vault, his mind was still occupied by how badly time and radiation had ravaged the earth. Time was the greatest force of all, he thought to himself, it was something beyond what the vault had previously understood. It was all-powerful, and running out. The only way to save the world was to restore it."
+  clk_vault.2.a:0 "Lead us to salvation!"
+
+  clk_vault.3.t:0 "The Road Ahead"
+  clk_vault.3.d:0 "The battle for southwestern Utah ended after what felt like an eternity of blood and struggle, with the death of Salt-Upon-Wounds at the hands of Overwatch Tock. What the savage tribe had thought would be an easy victory over weak and fearful hole dwellers had become a grinding war for each dusty hill and broken building. In the later days of the conflict the Timekeepers began to return every dark deed visited upon them in spades, burning and ravaging the White Legs camps as they went. Shocked by the bitter determination and sheer brutality of their foes, the White Legs laid down their weapons and pleaded for mercy. A degree of it was granted to them, though the Timekeepers had been changed by their introduction to war. These tribes of violent and primitive people would not be allowed to threaten the sanctity of the Vault, and the inheritance of the world by such folk only strengthened their resolve to try and save the world. For the White Legs' part, they were shocked into submission by the power and violence of their foes, and soon found themselves worshipping the newest and strongest god of their pantheon: Time."
+  clk_vault.3.a:0 "This is just the beginning"
+
+  clk_vault.4.t:0 "Friends in High Places"
+  clk_vault.4.d:0 "They met underground in a half-collapsed bunker, both more comfortable in such environs. One for the shelter it provided from the blazing desert sun, the other for how it reminded them of home. When the White Legs were broken and the Timekeepers first looked upon the dusty lands of their new neighbours, the Sky Reavers, both groups felt that more violence was soon to come. Instead they met in peace, their leaders each curious about the others' motives and capabilities. Nearly a full day they spent speaking in that old steel cavern, each finding the other to be unlike what they expected. Kronos was more soft-spoken and calm, with a mind better suited for technology and devious thoughts than the vault dwellers would have believed a day before. In turn the Reavers were surprised to find Tock a manic and a harsh man, willing to do anything for his goals rather than a soft and wilting vault flower. They spoke of turf boundaries, technology exchanges and access to the ancient pre-war facilities that lay underneath the dust of 51. By the time the sun set, both leaders were pleased and Tock had already made plans to accompany the Reavers to their base for a week of further meetings and exchanges of information. In between discussions with Kronos, Tock spent his time poring through the old records and archives the Reavers had packed away in dusty corners and closets. Inside one old box were holotapes that the Overwatch of Vault 24 listened intently to on his pip-boy; recordings of transmissions from a station that once hung in the vastness of space before plummeting to earth. The dead voices on the tape spoke of experiments in the manipulation of light, of studies into the nature of space and the fourth dimension. By the time the last tape ejected into his hand, Tock knew what must come next."
+  clk_vault.4.a:0 "Making the world a safer place, one step at a time"
+
+  clk_vault.5.t:0 "Time to Wake Up"
+  clk_vault.5.d:0 "Frustration had begun to rule the day in Vault 24. No matter their diligence, the Timekeepers' best minds had hit a theoretical wall, unable to progress any further in their research and experiments. They were confident that time travel, the last hope of this dead and dying world, was just out of their grasp and the so near but oh so far nature of the issue left the scientists nearly manic with desperation. It was Overwatch Tock who reminded them of how far they had come and restored their determination, playing for them the tapes and interview logs obtained from the Sleepers outpost at Bomb 002 and telling them to wait while he retrieved just what they needed. Only a couple months later Overwatch Tock stood at the head of a small army, the best that the Timekeepers and their new “client” tribes could muster. They camped in the conquered lands of Eagle Rock, the once bustling home of commerce and sailing airships now converted into a staging ground. It was a strange place to find such a force: integrated tribals, Vault-Tec security uniforms and hastily converted pre-war military equipment all assembled for the next, and hopefully last, great push. It was to hopefully be the site of Overseer Tock's greatest triumph, the gaining of the last piece of the fourth dimensional puzzle. For across the Colorado River lay a secret, the hidden base of The Sleepers and hope of the Timekeepers."
+  clk_vault.5.a:0 "Our future, just within reach"
+
+  clk_vault.6.t:0 "Haven't we done this already?"
+  clk_vault.6.d:0 "The first test was a success, we successfully utilized the 4-dimensional transporter to fufill a goal to prevent the creation of a paradox. Now that we've ensured our continued existence in this timeline, we can begin work on post-current means of travel. This science is new to us, new to the world, we must use it wisely. Even the tiniest inconceivable misstep could lead to disastrous consequences. We've done our best to keep the wasteland safe now, we have to make sure to keep it intact, both past and present, and eventually the future."
+  clk_vault.6.a:0 "This is getting a little confusing"
+
+  clk_vault.7.t:0 "Overlord: Tock"
+  clk_vault.7.d:0 "WIP"
+  clk_vault.7.a:0 "I always believed"
+
+  clk_vault.8.t:0 "The Future"
+  clk_vault.8.d:0 "At first, we sent rocks through, then a radroach, then it was people. It all seemed perfect, every proof and every equation flowed like the seconds going by. Once the machine was tested, the first expedition went out. Then, an hour past their designated return time they appeared again, burning. After they'd succumbed to their wounds, their exploration log data was recovered, stating what they'd seen.\n\nThe state of the world was hell on earth. Crackled and wicked tree carcasses littered the earth. The soil was sandlike and smelled like rust. Everywhere smelled like smoke, each expedition member reported how difficult it was to breath, like their chests were being piled with rocks. Above the ground tears through the air bellowed fire and dust. Hollowed out skyscapers stood blasted out and blazing. Nothing was familiar. Once they had gotten further out, the heat became unbearable, which made them decide to turn back. As they began back, they saw overhead an obsidian painted plane flying across the horizon, which is where the report ends."
+  clk_vault.8.a:0 "When did it all go wrong"
+  clk_vault.8.b:0 "It started with the Reavers"
+
+  clk_vault.9.t:0 "Victory"
+  clk_vault.9.d:0 "At long last, the Sleepers' domain is now under our direct control. With the help of our friends in the sky, the Sleepers now lay about, in their permanent slumber. A hundred scavengers assembled to loot every compartment and crevice on the site. Overflowing carts rattled in and out of the hidden places in Rock Springs for hours. Kronos and two other Reavers landed onto the grounds, said their goodbyes, and shook hands with Tock. Eventually we found what we'd be looking for, the Calculating Array. It was immediately hurried back to the vault, and installed into the newly finished machine. The array lit up, and the terminal to the side began its calculations. After the clicks and whirring finished, a message requesting action appeared. With approval granted, the machine creaked and roared to life, basking the room in a blue light. It was ready."
+  clk_vault.9.a:0 "I feel funny"
+  clk_vault.9.b:0 "This won't be our last meeting"
+
+  clk_vault.10.t:0 "I Thought Greed Was a Sin"
+  clk_vault.10.d:0 "Despite our fair and just claims to the land owned by the Tar Walkers, it is seeming that New Canaan wishes to divide the share for themselves. Our envoy was rejected, so it's become clear that cooperation is not one of their interests. The Sky Reavers are growing impatient as our operation has ground to a complete stop. Tock has already held a meeting with Kronos, assuring that the land will be restored to us shortly. This is land fought for rightfully, to let it fall into the hands of thieves would jeopardize the army's morale. We don't want to keep our people waiting, it's too early to give up now."
+  clk_vault.10.a:0 "Actions have consequences"
+
+  clk_vault.11.t:0 "Dead End"
+  clk_vault.11.d:0 "The piked head of the tired road warrior was raised over his once revered garage, now barren with only its negligible components still remaining. His dead stare gazed on as his mighty empire became another piece added to the ever growing clockwork regime. The eighties' had once called California home, only to be forced out by the republic, and yet again their way of life was to be disrupted by a new growing power. The screeching rubber matched with the pangs of bullets, and then there was silence. Perhaps the Eighties way of life was always doomed, destined to become another piece of history, lost to time."
+  clk_vault.11.a:0 "Beats Walkin'"
+
+  clk_vault.12.t:0 "The Remains Of Bomb Station 002"
+  clk_vault.12.d:0 "The data from Area 51’s automated monitoring systems, chugging along past the end of the world, had led to the general area of the crashed station - B.O.M.B.-002. Decades ago it had fallen out of its orbit for reasons unknown and fallen deep in the crack of the world, the Grand Canyon. It promised a wealth of technology and supplies for Vault 24’s great project to save mankind: high end computers, exotic alloys, rare sensors, precise electronics and heaps of fissile material.\n\nUpon notice from out scouts of its form bulging up from the rocky earth, Overseer Tock (against the recommendation of Timekeepers Oswald and Russell) had led the first foray. Perhaps we should not have been so surprised that the sturdy structure had been inhabited, and yet…\n\nClad in bizarre suits, the small force inside at first attempt to keep out the invaders of their domain with loudspeakers and plasma fire. But once we returned with a larger force, the caretakers of 002 saw that they were not merely warding off tribals, but indeed outnumbered by a considerable fighting force intent on taking the station from them. During the negotiations of surrender, they revealed to us that they belonged to a group referred to as the Sleepers. While the name means nothing to us, and we’ve certainly never heard of a Victor Presper, they are clearly quite the sophisticated bunch. This bunch is merely a small expedition of a larger group. Everything they could easily salvage and haul had already been sent back. They watched over what remained, studying the logs and keeping out petty scrappers.\n\nAfter many days of interrogation and investigation into their notes and supplies, we finally have a location for where all that they took went: Rock Springs."
+  clk_vault.12.a:0 "Time is on our side"
+
+  clk_vault.15.t:0 "Join the Timekeepers faction?"
+  clk_vault.15.d:0 "The sudden defeat of the White Legs tribe has brought a far different neighbor to our border. One offering technological equipment and raw material in return for letting us spread our wings in crushing far off foes."
+  clk_vault.15.a:0 "Fire up the engines!"
+  clk_vault.15.b:0 "We fly only for ourselves"
+
+  ##Time Scavenging Events
+  time_scavenging_success_tt:0 "§OWhat did they bring home?§!"
+  timey_wimey_scavenging_category:0 "Reclaiming Time Lost"
+  timey_wimey_scavenging_category_desc:0 "Steal from the past to protect the future.\n\nAfter our initial excursions, we've successfully established a list of locations in space-time with distinct resources and minimal risk to visiting. After all, any meaningful changes to history could be catastrophic, as Paradoxes may very well tear the timeline asunder. We can only maintain the link for a few hours, during which we can grab a few odds and ends to benefit the Future. A set of standards and guidelines should ensure maximum returns with minimal risk of altering the timeline."
+  time_scavenge_prehistoric:0 "Before The First City"
+  time_scavenge_prehistoric_desc:0 ""
+  time_scavenge_medieval:0 "The Dark Ages"
+  time_scavenge_medieval_desc:0 ""
+  time_scavenge_colonial:0 "Age of Revolutions"
+  time_scavenge_colonial_desc:0 ""
+  time_scavenge_world_war:0 "Operation Overlord"
+  time_scavenge_world_war_desc:0 ""
+  time_scavenge_pre_war:0 "Days Before The Bombs"
+  time_scavenge_pre_war_desc:0 ""
+  time_scavenging_rescue_crisis:0 "Timeline Crisis"
+  time_scavenging_rescue_crisis_desc:0 "Something happened to our timeline scavengers! Should we send a force to rescue them?"
+  time_scavenging_send_rescue_team:0 "Send Temporal Rescue Squad"
+  time_scavenging_send_rescue_team_desc:0 "Perhaps our timeline scavengers can yet be saved. Let us leave no man behind."
+  time_scavenging_underway:0 "Timeline Scavenging Teams In Action"
+  time_rescue_team_send:0 "Send The Time Patrol"
+  time_scavengers_lost:0 "Timeline Scavengers Lost In Time"
+
+
+  time_scavenge.1.t:0 "Earliest History Of Man"
+  time_scavenge.1.d:0 "Travel to prehistory is either the most dangerous of our options or the least. While there's fewer human threats or records to distort, any changes have much more time to reverberate. Thankfully, this time our team has returned with something of value!"
+  time_scavenge.1.a:0 "Fascinating. To the debriefing room!"
+
+  time_scavenge.2.t:0 "Nothing To Learn From Hunter-Gatherers"
+  time_scavenge.2.d:0 "While the world before roads and human industry offers a great deal of beauty to observe, the team failed to find anything of particular note."
+  time_scavenge.2.a:0 "Finding nothing of value, they return home with only sketches of what was."
+
+  time_scavenge.3.t:0 "Attacked By Sabertooth Tigers"
+  time_scavenge.3.d:0 "This time the team evidently travelled somewhere that man was not yet the apex predator. Savage beasts of yore caught them unawares and tore dozens of them apart."
+  time_scavenge.3.a:0 "This is a terrible day for our men and nation."
+
+  time_scavenge.4.t:0 "Disappeared Into The Mists Of Time"
+  time_scavenge.4.d:0 "The timeline scavengers team has failed to make their regular check in. Did they encounter some unexpected danger? Did we send them to the right place? Have they broken protocol?"
+  time_scavenge.4.a:0 "Dare we risk further interactions?"
+
+  time_scavenge.5.t:0 "Timeline Scavengers Rescued"
+  time_scavenge.5.d:0 "Congratulations are in order for the rescue team! Our lost scavengers have been recovered mostly safe and sound. The bodies of the dead have also been brought back or vaporized to save the past from their DNA, diseases, and clothing materials.\n\nWhile there were possible sightings of both teams, they'll hopefully be passed off tall tales, or perhaps as visitors from another realm. Angels, demons, aliens. Such stories were not uncommon in history, and should disguise our intervention."
+  time_scavenge.5.a:0 "A great day for ourselves (and the history of the world)."
+
+  time_scavenge.6.t:0 "Timeline Scavengers Lost To Time"
+  time_scavenge.6.d:0 "Alas, we've failed to recover timeline scavenging team we sent out before losing the temporal lock. While sending more men would have entailed new risks, we can't help but worry that the bodies and gear of the team now lost could change the fabric of history if they end up in the wrong hands...\n\nOf course, if history did change, would we even notice it?"
+  time_scavenge.6.a:0 "Hopefully they will not pollute the timeline."
+
+  time_scavenge.7.t:0 "Not As Dark As Believed"
+  time_scavenge.7.d:0 "The timeline scavenging team returns victorious, promising us a significant find."
+  time_scavenge.7.a:0 "Fascinating. To the debriefing room!"
+
+  time_scavenge.8.t:0 "Knights, Knaves, And Not Much Else"
+  time_scavenge.8.d:0 "While we're sure there are historians who would be obsessed with seeing the post-Roman world, our teams have to remain focused on what can help us here and now. This time, they returned empty handed."
+  time_scavenge.8.a:0 "Finding nothing of value, they return home with only sketches of what was."
+
+  time_scavenge.9.t:0 "Taken By Superstitious Locals"
+  time_scavenge.9.d:0 "The team was discovered by the locals, dressed in their rather conspicuous sterilized jumpsuits. The local religious authorities of the town have taken many of them captive. Alas, by the time the stragglers made it home the machine had to cycle into cooldown. We can only hope their ends are swift."
+  time_scavenge.9.a:0 "This is a terrible day for our men and nation."
+
+  time_scavenge.10.t:0 "Lost In A World Of Darkness"
+  time_scavenge.10.d:0 "The timeline scavengers team has failed to make their regular check in. Did they encounter some unexpected danger? Did we send them to the right place? Have they broken protocol?"
+  time_scavenge.10.a:0 "Dare we risk further interactions?"
+
+  time_scavenge.11.t:0 "From The Birth Of Nations"
+  time_scavenge.11.d:0 "The changing times shaped many elements of the Pre-War world, not least of all the founding of the United States which built our Vault. The timeline scavenging team has radioed back in about a new find."
+  time_scavenge.11.a:0 "Fascinating. To the debriefing room!"
+
+  time_scavenge.12.t:0 "Failure Guaranteed"
+  time_scavenge.12.d:0 "The societies are wary enough to notice our scouts and their limited technologies are worth the risk of discovery. The latest endeavor is a bust."
+  time_scavenge.12.a:0 "Finding nothing of value, they return home with only sketches of what was."
+
+  time_scavenge.13.t:0 "Mistaken For Loyalists"
+  time_scavenge.13.d:0 "Our strange accents and secretive actions means that, once discovered, the revolutionary crowds wasted no time in executing our team as spies. The handful of survivors are returning now for debrief on what went wrong."
+  time_scavenge.13.a:0 "This is a terrible day for our men and nation. Recover the bodies and gear."
+
+  time_scavenge.14.t:0 "Swept Into An Age Of Revolutions"
+  time_scavenge.14.d:0 "The timeline scavengers team has failed to make their regular check in. Did they encounter some unexpected danger? Did we send them to the right place? Have they broken protocol?"
+  time_scavenge.14.a:0 "Dare we risk further interactions?"
+
+  time_scavenge.15.t:0 "Wealth Of The World War"
+  time_scavenge.15.d:0 "The Second World War was a truly massive conflict, with many angles of approach for our teams. Better yet, many pieces of equipment developed during it outpace the weapons of the slowly recovering societies of the wasteland. The team is coming home now with a pile of fresh "salvage"."
+  time_scavenge.15.a:0 "Fascinating. To the debriefing room!"
+
+  time_scavenge.16.t:0 "No Room To Avoid The Frontlines"
+  time_scavenge.16.d:0 "The situation on the ground is unforgiving. Thrust too close to the site of a major battle, our timeline scavengers have no choice but to retreat for their own safety. The risks today just aren't worth it."
+  time_scavenge.16.a:0 "Recovering nothing of value, they return home with only sketches of what was."
+
+  time_scavenge.17.t:0 "Walked Into An Ambush"
+  time_scavenge.17.d:0 "Having gotten themselves caught between two sides of the war, the timeline scavengers sent to WW2 have found themselves under fire. Those that can have extracted, while those that could not break out are already lost to us. We will mourn them, but having taken only period accurate weapons, at least they won't lead to some kind of alternative history where the Axis has laser rifles."
+  time_scavenge.17.a:0 "This is a terrible day for our men and nation."
+
+  time_scavenge.18.t:0 "Wrong Place, Wrong Time"
+  time_scavenge.18.d:0 "The timeline scavengers team has failed to make their regular check in. Did they encounter some unexpected danger? Did we send them to the right place? Have they broken protocol?"
+  time_scavenge.18.a:0 "Dare we risk further interactions?"
+
+  time_scavenge.19.t:0 "The Latest And Greatest"
+  time_scavenge.19.d:0 "The weeks before the Great War offer a veritable treasure trove of resources with minimal risk of paradoxes. After all, once the bombs fall, there won't be any room for changes."
+  time_scavenge.19.a:0 "Fascinating. To the debriefing room!"
+
+  time_scavenge.20.t:0 "Blinded By What Was"
+  time_scavenge.20.d:0 "Our timeline scavenging team reports being overwhelmed by the sights of our land before atomic fire stole everything from mankind. After they return home, they'll have to go through a psychological evaluation."
+  time_scavenge.20.a:0 "Recovering nothing of value, they return home with only sketches of what was."
+
+  time_scavenge.21.t:0 "Mistaken For Communist Spies"
+  time_scavenge.21.d:0 "The team was sent just a few days ahead of the bombs to minimize the chance of aftereffects. It seems they got too overt and were mistaken for "communists". We won't be able to recover them from wherever they've been taken, but at least they don't have to hold out for long."
+  time_scavenge.21.a:0 "This is a terrible day for our men and nation."
+
+  time_scavenge.22.t:0 "Lost Contact Outside A Military Base"
+  time_scavenge.22.d:0 "The timeline scavengers team has failed to make their regular check in. Did they encounter some unexpected danger? Did we send them to the right place? Have they broken protocol?"
+  time_scavenge.22.a:0 "Dare we risk further interactions?"
+
+  time_scavenge.101.t:0 "Stone Age Weaponry"
+  time_scavenge.101.d:0 "The team has decided to bring back some later examples of weapons made of stone. While they're excellent finds archelogically speaking, we're not sure what we're supposed to do with them."
+  time_scavenge.101.a:0 "Well.... they can still hurt people."
+
+  time_scavenge.102.t:0 "Extinct Herbal Remedies"
+  time_scavenge.102.d:0 "The team has brought back a sizable collection of plants that didn't make it to the 2200s. Study of them has revealed that a number of them have strong medicinal properties we could exploit."
+  time_scavenge.102.a:0 "The taste leaves something to be desired."
+
+  time_scavenge.103.t:0 "The Strength Of Man"
+  time_scavenge.103.d:0 "The ancient tribes of mankind that existed before cities and agriculture had harsh lives. There's certainly something there that speaks to our own existance in this blasted wasteland."
+  time_scavenge.103.a:0 "Our ancestors are worth emulating."
+
+  time_scavenge.104.t:0 "Savage Ways"
+  time_scavenge.104.d:0 "The ancient tribes of mankind that existed before cities and agriculture had harsh lives. There's certainly something there that speaks to our own existance in this blasted wasteland."
+  time_scavenge.104.a:0 "Our ancestors are worth emulating."
+
+  time_scavenge.105.t:0 "The Basis Of All Learning"
+  time_scavenge.105.d:0 "By chance our team stumbled on a fledgling community. Watching over it from a distance, they detailed how the elders passed on their experiences to the younger members of the tribe. This is how humanity developed, each generation standing on the shoulders of the formers."
+  time_scavenge.105.a:0 "To the first teachers, we thank you."
+
+  time_scavenge.71.t:0 "Fine Steel"
+  time_scavenge.71.d:0 "Scouring a far flung battlefield of medieval conflict, our team returns home with a number of historically accurate swords and axes. As the crew disinfects in their mandatory quarantine period, they seem to enjoy swinging them around in practice blows."
+  time_scavenge.71.a:0 "A bit lacking in range."
+
+  time_scavenge.72.t:0 "Knights Of Yore"
+  time_scavenge.72.d:0 "Scouring a far flung battlefield of medieval conflict, our team returns home with a variety of armour pieces taken from the dead. Once they get some polish and care, they're fit well on some display stands.... or perhaps the Security Teams?"
+  time_scavenge.72.a:0 "Hardy, albeit rarely bulletproof."
+
+  time_scavenge.73.t:0 "Ancient Battlefields"
+  time_scavenge.73.d:0 "The scavenging team used their limited window to record video of a great battle of the past. It's granted us some insight into tactics lost to the mists of time. Plus it's a bit exciting to watch."
+  time_scavenge.73.a:0 "Is that a real Mordhau?"
+
+  time_scavenge.74.t:0 "In Defense Of Their Homes"
+  time_scavenge.74.d:0 "Shifting through several related points of turmoil, the scavengers have brought back their findings. Much like the tribes of today, the people were all too often forced to protect themselves from the ravages of conflict."
+  time_scavenge.74.a:0 "We too merely want to defend our home, the world."
+
+  time_scavenge.75.t:0 "Kings And Castles"
+  time_scavenge.75.d:0 "It seems the timeline scavengers got a little too excited. They've brought home a number of gaudy treasures taken from a lord's castle via stealthboy. It's surprising they could carry that much gold all the way back home in time. They've even presented Overseer Tock with a crown and scepter!"
+  time_scavenge.75.a:0 "Is this what they call "Divine Right"?"
+
+  time_scavenge.111.t:0 "Fire And Charge"
+  time_scavenge.111.d:0 "What a curious collection our scavengers have brought back. While the lack of rifling makes them somewhat inaccurate, to say the least, the powder and ammo for these muskets are awfully cheap to supply on long trips. And if that doesn't work, you'd be surprised how often the bayonet charge works out."
+  time_scavenge.111.a:0 "Make your shots count."
+
+  time_scavenge.112.t:0 "Companions Of The Colonies"
+  time_scavenge.112.d:0 "While initially attempting to secure more historically valuable artifacts, the scavenger team this week realized this was an excellent chance to undo some of the damage to the canine genome. With pre-war hounds brought back, our community will have healthier pups than ever."
+  time_scavenge.112.a:0 "Who's a good boy?"
+
+  time_scavenge.113.t:0 "Age Of Sail"
+  time_scavenge.113.d:0 "To imagine that once humanity crossed the mighty waters of the world's oceans. Some sea struck souls have been bringing back detailed sketches of sailing vessels. While the construction of them doesn't have much direct relevance to our currently available level of shipbuilding, the concepts sure do inspire the mind."
+  time_scavenge.113.a:0 "What do we do with a drunken scavenger?"
+
+  time_scavenge.114.t:0 "Perseverance Of The Forefathers"
+  time_scavenge.114.d:0 "The wars in early American history are quite inspiring to some. Dedicated timeline teams have brought us back more relics and stories than we could have anticipated. All as carefully as it can be done, considering the flow of history in the balance.\nWhile there's little technology of value here and few mysteries, it certainly has helped morale. There's also a few good lessons to be learned from the fighting."
+  time_scavenge.114.a:0 "Have we already crossed our Delaware?"
+
+  time_scavenge.115.t:0 "The Birth Of The Republic"
+  time_scavenge.115.d:0 "It's no small thing to witness a revolution firsthand. While they had to stay off the streets and keep to the shadows, the hope in the air was positively infectious. Their recordings and reports give exciting testimony to the fight to defeat the forces of the King and bring freedom to the people. The returned scavenging team has spent the better part of their scheduled debriefing telling us about the fight for liberty, fraternity and equality."
+  time_scavenge.115.a:0 "Vive La République!"
+
+  time_scavenge.151.t:0 "The Rifleman's Favor"
+  time_scavenge.151.d:0 "The team returned just a few minutes ago with a collection of rifles, freshed and unfired. They evidently took them straight from a stockpile shortly before hostilities broke out in that area."
+  time_scavenge.151.a:0 "Some real straight shooters."
+
+  time_scavenge.152.t:0 "Heartstopping Firepower"
+  time_scavenge.152.d:0 "Deftly making their way past a few tired base guards, the scavengers managed to reach a store of machineguns awaiting their next battle. Now only three and a half hundred years later, they can find fresh conflict."
+  time_scavenge.152.a:0 "Perfect for holding trenches."
+
+  time_scavenge.153.t:0 "Changing Doctrines"
+  time_scavenge.153.d:0 "Few detailed records of World War 2 and the surrounding conflicts made it to our archives. The new recordings and testimony our timeline scavengers have brought back is rather helpful for learning how war was fought in this point in history."
+  time_scavenge.153.a:0 "The fundamentals on full display."
+
+  time_scavenge.154.t:0 "The Blitzkrieg Rages"
+  time_scavenge.154.d:0 "Speed, surprise, firepower. With a steady combination of these things, few wastelanders could keep us from our goals."
+  time_scavenge.154.a:0 "Could we employ this tactic?"
+
+  time_scavenge.155.t:0 "The Allied Counterattack"
+  time_scavenge.155.d:0 "While we don't have hundreds of thousands of troops to deploy, we also don't possess the logistical capabilities of the past either. Our tech, while superior, can't make up for a lack of institutional knowledge and manpower. Our scavengers are hard at work documenting the war effort."
+  time_scavenge.155.a:0 "Luckily we know how this war ends."
+
+  time_scavenge.191.t:0 "American Finest"
+  time_scavenge.191.d:0 "Finally, some weapons that are up to par! Scavenging functional plasma weaponry was no easy feat, but we'll be able to make better use of them then those doomed to perish."
+  time_scavenge.191.a:0 "Now this is firepower!"
+
+  time_scavenge.192.t:0 "Chinese Armorbreakers"
+  time_scavenge.192.d:0 "Placed on the frontlines to counter American Power Armour, these Gauss Rifles are still valuable in our own time period. No shortage of those trying to reuse the remaining suits for their own ends."
+  time_scavenge.192.a:0 "Foreign guns kill as good as local."
+
+  time_scavenge.193.t:0 "The Cutting Edge Of Technology"
+  time_scavenge.193.d:0 "While it's been difficult to avoid the patrols and cameras of a country on constant alert, our scavengers have managed to retrieve highly advanced technical prints. Once we decipher them, we're sure they'll bring us one step closer to saving the world."
+  time_scavenge.193.a:0 "Ever so important we recover these findings."
+
+  time_scavenge.194.t:0 "The Last Tactics Developed"
+  time_scavenge.194.d:0 "While it's been difficult to avoid the patrols and cameras of a country on constant alert, our scavengers managed to retrieve military training manuals and classified battleplans. With these teachings, we're one step closer to saving the world."
+  time_scavenge.194.a:0 "So this is how they fought."
+
+  time_scavenge.195.t:0 "They Stole A What?!"
+  time_scavenge.195.d:0 "We're surprised a full sized vertibird even fit through the machine's aperature. When asked how they recovered such a piece of valuable technology, the team was rather prone to exaggeration. After all, no matter how much you act authoritative, they wouldn't just let you take one for a "joyride"."
+  time_scavenge.195.a:0 "Learn what we can!"
+
+  ###Time Scavenging Ideas
+  time_scavenge_prehistorical_strength:0 "Savage Tidings"
+  time_scavenge_prehistorical_lessons:0 "Lessons Of Prehistory"
+  time_scavenge_prehistorical_learning:0 "Before Writing"
+  time_scavenge_medieval_defense:0 "Defending The Land"
+  time_scavenge_medieval_teachings:0 "Time Of Conquest"
+  time_scavenge_colonial_resolve:0 "Irregular Warfare"
+  time_scavenge_colonial_patriots:0 "Founding Of The Nation"
+  time_scavenge_worldwar_conflict:0 "Battering Enemy Lines"
+  time_scavenge_worldwar_planning:0 "Invasion Of Europe"
+  time_scavenge_prewar_training:0 "Latest Training"
+
+  ###safehaven loc - leader desc
+  VSH_MAYOR_SHOWTIME_NAME: "Mayor Showtime"
+  VSH_MAYOR_SHOWTIME_DESC: "Mayor Showtime, named for her penchant for saying "it's showtime" as a child, is the latest representative elected by the united communities of Safehaven to speak for the people. She has a shimmer in her eye, she believes that Safehaven can be a force for good not only for its people, but the wastes as a whole and she is always willing to negotiate with those who make it possible. It was her hand that kept the Great Stampede from crossing the river, and it was her hand that navigated into successfully plundering the treasures of Middlemark as of late-- but on the other hand, she was the one who let the Wardens in, something that doesn't sit right with many of the Mercs and Criminals that call Safehaven home.\n\nSure, she may be the one who keeps the peace-- or, at least, she tries to, anyway. But she is tired of Safehavenites being punching bags and is beginning to understand the more violent citizens calling for war. Even going so far as to arm some of the denizens more vulnerable to Merc chicanery, making sure a gun or two goes missing when it needs to-- and there sure are a lot of guns to keep track of in Safehaven..."
+  VSH_legacy_of_sierra: "Legacy of the Sierra Hotel"
+
+  VSH_MARY_MULLIGAN_NAME: "Mary Mulligan"
+  VSH_MARY_MULLIGAN_DESC: "§CSierra Hotel is back, and we're bloodthirsty, bloodthirsty for those that did the Wardens harm. We vow to repay the kindness of Safehaven tenfold, but first, we have a new mission.§!\n\nAfter having won the newly revitalized community elections of Safehaven, Mary Mulligan and Sierra Hotel Company have been chosen by the citizens to lead them into a new future, taking a hold of the government. While many are excited for their favourite para-military organization to parade around the wasteland in the name of "justice" and "retribution" a small amount of the former mayoral office are afraid that this decision may not only doom those that call the 'haven home, but the Canadian Prairies as a whole.\n\nMary is eager to prove them wrong, in her own way at least..."
+
+  ###safehaven loc - Advisor names and desc.
+
+  VSH_SHOWTIME_ADV_DESC:0 "“§YYou know, I’m not entirely sure, but I think I’ve eaten my fair share of boots to decide what the uniforms should have.§!”\n\nMayor Showtime has been the secretary, all of the cabinet members, and janitor in her short political tenure in Safehaven, and now, after the previous office holder died of a cold, both Safehaven’s newest and longest-serving mayor; A position often vacated quickly in favor of signing up for the lucrative mercenary guilds that call Safehaven’s easily exploitable systems home.\n\nAfter growing up in this poverty, she has vowed to erase it from her nation, through her hands or another. This means that she’s decided to leave her old life of crime behind, for the foreseeable future. But then again, Vault 107 was meant to be filled with a bunch of smooth-talking backstabbers..."
+
+  VSH_MARY_MULLIGAN_ADV_DESC:0 "§C“What do you mean, Mayor Showtime? Poisoning their water supply would be more than humane, uh... shit ok- I will look for an alternative.”§!\n\nAlthough not much more than a guild within Safehaven, Sierra Hotel’s own Mary Mulligan has been of great help to Mayor Showtime, teaching her professional techniques, tactics, and proper training procedures used by the Wardens of The White before their fall, almost singlehandedly turning Safehaven from a home away from the battlefield for mercs, to a nation with a defense.\n\nMayor Showtime has been grateful for Mary’s efforts, appointing her as a right-hand woman in all affairs, much to the disapproval of the many mercenaries that call the lands home away from the battlefield; Her rally for the unification of the many militia companies souring the relationship Showtime has with her people; nevertheless Mary’s work, in the Mayor's mind at least, is towards a better, safer, and most importantly richer Safehaven for her people whether Mary herself believes this is its own point of contention..."
+
+  VSH_DON_SPANGLE_NAME:0 "G. Don Spangle"
+  VSH_DON_SPANGLE_DESC:0 "§Y“Made man- what the hell is that shit? No... No, my name is Donald... Grandpa to you, though, kid.”§!\n\nAlthough once a great and powerful man, beloved by the many crime families formed after Safehaven’s founding in the vault, Don has abandoned that life, becoming more or less a grandfather to the orphans of the northern wastes, insisting they refer to him as such. By establishing many orphanages across Safehaven, pursuing the destruction of slavery operations, paying for expeditions to recover any lost children, and generally guiding the children to a better future with education as well as care, he has ensured their protection from the seedier parts of Safehaven as well as the rest of the northern frontier. For him, crime isn’t stealing, plundering, or any of that raider shit; it’s robbing kids of their childhood or, even worse yet, their lives.\n\nDon doesn't know much about these Warden people, but they kill the raiders and other scum looking to fuck with Safehaven and his kids. They also keep some of the “meaner” guilds from doing horrid things, so in Don’s book, they’re good as gold, especially since they enjoy visiting the orphanages and teaching some CQC and other things needed to survive in today's world to the kids. Though on some nights, when he’s drunk after the kids have been put to bed and he’s in one of his head offices, you can sit down with him, and he’ll tell you if these Wardens were around his daughter and her kid would still be around, that those scum would’ve been dead meat, although when sober, he refuses to elaborate or explain, whatever the case what happened on that day surely sent Grandpa Spangle on the righteous path of charity he now walks..."
+
+  VSH_GULL_BRUN_NAME:0 "Gulliver Brunswick"
+  VSH_GULL_BRUN_DESC:0 "§G“YEAH, WE FUCKIN RULE! MILITANT DOGS RULE! YEA- Wait, what? You know who we are?”§!\n\nOften small, ill-equipped, and sometimes surprisingly smart thanks to the many orphanages established in Safehaven, the militias that make up its powers are often full of old remnants of some or such other failed venture wishing to pass on their ideals to the youth, often entertaining whatever poor young person they can find leaving one of Don’s homes, promising riches, power or whatever they might want. This, as expected, does not fetch very many recruits, but some, such as the Militant Dogs, fetch even less than the average amount, being made up of, at the most, ten to twenty old men, becoming obscure and little more than a fan club around old bastards spouting fake tales of adventure to eachother and recounting stories. The Dogs differ from the usual militia, in the fact that they volunteer for Safehaven’s military, and since they were once a beloved clan, occult as it may have been, just having the name is likely to grant a high ranking position, just on the basis of their clan’s name wishing to be heard on the field every once and awhile for the memories it brings.\n\nGulliver Brunswick, the last remaining member of the MDS, had no idea this was the case when he signed on as the only recruit that the elderly men making up the leadership could find. As they passed away shortly after hiring him, he decided that his skills would be best used serving the greater good, to his surprise their popularity granting him a spot on high command, he now pursues bolstering Safehaven's military; Although he does not do this out of kindness only, he wishes to establish the Militant Dog's as a acclaimed militia once again, whether or not it means destroying nations in the process..."
+
+  ###safehaven loc - focus
+
+  vsh_white_collar_life:0 "It's A White Collar's Life For Me"
+  vsh_white_collar_life_desc:0 "There are kindred spirits in shitheads. Sometimes."
+  vsh_the_mark_expedition:0 "The Middlemark Expedition"
+  vsh_the_mark_expedition_desc:0 "Things went quiet west of the Saskatchewan for a while... But things seem to be heating back up. We sent some guys out there a bit ago... How are they doing?"
+  vsh_community_development:0 "Community Developing"
+  vsh_community_development_desc:0 "The people in Safehaven crave cooperation. It's how we ended up here, anyway. So we decided, er... Mayor Showtime decided to let the Wardens in, since they were battered silly and all, ever since."
+  vsh_the_peoples_militia:0 "The People's Militia of Safehaven"
+  vsh_the_peoples_militia_desc:0 "If you ask anybody at the bar in Safehaven, the best thing about this place is every man represents himself. No military, no big jackass to tell you what to do-- outside of the Mayor, but everybody loves Mayor Showtime. Every guy you see is a part of the military."
+  vsh_every_man_a_dog:0 "Every Man a Dog"
+  vsh_every_man_a_dog_desc:0 "Every man, woman, and child in Safehaven's realm ought to have a dog who can tell when the bad guys are on the scent. Let's get everyone who wants one a brand new puppy!"
+  vsh_emphasize_community:0 "Living Life Together"
+  vsh_emphasize_community_desc:0 "Per the Overseer logs, the experiment they expected was for us to bicker until nothing was left. A bunch of scheming pricks they locked up in a pit just to see what would happen. Guess what, though? When you have a couple of rats locked in a room with limited space and resources, and they all want out... It turns out they make a good team of survivors."
+  vsh_we_believe_in_each_other:0 "We Believe"
+  vsh_we_believe_in_each_other_desc:0 "Safehaven is powered by the fact we're all more or less on the same page. If we lose that, we're nothing-- we're surrounded by shit we don't want in our backyard, so we make sure it doesn't end up there."
+  vsh_peoples_coalition:0 "The Future of Safehaven..?"
+  vsh_peoples_coalition_desc:0 "§YFROM THE DESK OF MAYOR SHOWTIME.§!\n\nWe are growing, let's grow further, farther, stronger. The mercs of the past? They had the right idea, money makes might, might makes right, and the peoples coalition should uphold what's right. This is our initiative, the peoples initiative."
+  vsh_mark_scavenged:0 "Operation: Cart Pushers"
+  vsh_mark_scavenged_desc:0 "The leftovers from Penny's bots and their hardware can be retrofitted onto our finest. Plus these "associates" were actually sort of gifted, let's see if we can't sow a little bit of mayhem in our hearts, yeah?"
+  vsh_the_stampede_is_gone:0 "The Hooves Ran Silent"
+  vsh_the_stampede_is_gone_desc:0 "Turns out a couple of pissed off bastards with just right amount of excessive firepower can make all the difference in the world after all, and a lot of people have figured that out after we cleaned up."
+  vsh_kidnap_joy:0 "Operation: Killjoy"
+  vsh_kidnap_joy_desc:0 "Mary's got a plan—Won't tell me what it is though, just that it'll put us on the map. She hasn't done us wrong yet, so what's the worst that could happen?—Oh shit isn't Joy those Stampede fucks' baby? She's not gonna."
+  vsh_moosejaw_conquered:0 "Hunter's Bounty"
+  vsh_moosejaw_conquered_desc:0 "Although we have been friends with these peace lovers for a long time, they are safer indulging peace within our borders."
+  vsh_rad_hazards_conquered:0 "Sad Bastards"
+  vsh_rad_hazards_conquered_desc:0 "Those ghoulie guys, we've never had a problem with them, and as long as we govern their territory, they are free to wallow in the radiocative sludge that they love so much... Maybe we can even get Gabba to help us make signs..."
+  vsh_old_friends:0 "Operation: Boomerang"
+  vsh_old_friends_desc:0 "For once, maybe the Wardens ought to report back..."
+  vsh_operation_safe_house:0 "Operation: Safe House"
+  vsh_operation_safe_house_desc:0 "The Wardens are back and we’re ready for vengeance. Those boys up north have been making a mess for a while. Let’s go storm them, show them that the Wardens don't fuck around."
+  vsh_mark_miscounts:0 "Middlemark's New Friends..."
+  vsh_mark_miscounts_desc:0 "Some guards have reported activity on our eastern border, let's investigate."
+  vsh_merc_homes:0 "Mercenary Crackdowns"
+  vsh_merc_homes_desc:0 "For far too long we've let the assorted armies of the wastes utilize our peaceful homelands as their personal playgrounds. It's time we confront them and demand they do their part just like any other citizen of Safehaven."
+  vsh_miscount_muster:0 "Miscount's Muster"
+  vsh_miscount_muster_desc:0 "Penny and Friar Black have been making some noise, pushing some of our folk to join up with Sierra Hotel."
+  vsh_attacking_the_stampede:0 "Slay the Stampede"
+  vsh_attacking_the_stampede_desc:0 "Operation: Cattleprod? Cut the Warden shit and let's just say it how it is- catch the Stampede on the back foot. The best defence is a good offence, so... let's rock their shit before they rock ours."
+  vsh_ready_for_stampede:0 "Stay the Stampede"
+  vsh_ready_for_stampede_desc:0 "We should set up some outposts, lest the giants across our border take us by surprise- for better or worse, we're deciding to hunker down."
+  vsh_all_for_one:0 "All For One..."
+  vsh_all_for_one_desc:0 "Today is the first of the good days in Safehaven, really, we've cleaned the streets, gained economic stability and cemented our place. This deserves a parade, but let's not forget the giant on our doorstep. Perhaps we may address this, and let the people decide what's best for them."
+  vsh_wardens_takeover:0 "Operation: Uncle Sam"
+  vsh_wardens_takeover_desc:0 "It's time we got shit done, now with the endorsement of Mayor Showtime, and Sierra Hotel's ranks are filling up, we're ready for more action. So, ask not what the Wardens can do for you, Safehaven, but what you can do for the Wardens and Aunt Mary! HOO-RAH!"
+  vsh_middle_dues:0 "Operation: Customer Service"
+  vsh_middle_dues_desc:0 "For far too long have the Miscounts been a thorn in the peoples sides, let us eradicate them from these lands, perhaps for the final time. This, hopefully, will give the people on the fringe of Middlemark some hope in us, giving a way for our diplomats to convince them to enforce our will across their home lands."
+  vsh_foxtrot_uniform:0 "Operation: F U"
+  vsh_foxtrot_uniform_desc:0 "Good news! Or maybe complicated news? Other Wardens escaped the fall of Seattle-- Foxtrot Uniform, the goodie two shoes of our little operation. A meeting has been arranged between us, hopefully it goes well..."
+  vsh_operation_cold_opening:0 "Operation: Cold Opening"
+  vsh_operation_cold_opening_desc:0 "It's time we established ourselves as solely Wardens, not just of Safehaven but the area as a whole. We need to establish a land connection to the entrance of Washington as well if we hope to make a contribution to the Warden effort."
+  vsh_operation_seattle_sunset:0 "Operation: Seattle Sunset"
+  vsh_operation_seattle_sunset_desc:0 "§CFROM THE DESK OF MARY MULLIGAN.§!\n\nIt's time we take back Seattle from those Brotherhood and Tribal fucks. 'Nuff said."
+  vsh_operation_head_home:0 "Operation: Dinner Time"
+  vsh_operation_head_home_desc:0 "Now that we've proven ourselves worthy of returning home, and lobbed a head off worth delivery as an apology for desertion, it's time for us to head home. Hopefully to open arms and cold hearts."
+  vsh_operation_gyst:0 "Operation: G.Y.S.T."
+  vsh_operation_gyst_desc:0 "G.Y.S.T. huh? Get Your Shit Together. I like the sound of that, it's time Canada knew who the real heroes are. By goddamn we'll prove we're heroes alright, let's take down that stupid bitch robot and her miscount puppies. Right after we get our affairs in order, Safehaven will know they made the right choice choosing us."
+  vsh_operation_kicking_stampede:0 "Operation: Kick The Horse"
+  vsh_operation_kicking_stampede_desc:0 "The Safehaven dudes keep bitching about the Stampede and how we haven't ended their tyranny or whatever yet. Let's go ahead and fix that before it becomes more of a headache than it already is. Not to mention I'm tired of walking through horse shit from time to time."
+  vsh_one_for_all:0 "One For All!"
+  vsh_one_for_all_desc:0 "Mary has won the people's vote in the militia organized elections! From now on we do what she thinks is best, and she promises she has our, and every other freedom loving sonofabitch's best interest at heart!"
+  vsh_a_new_beginning:0 "Back to Basics"
+  vsh_a_new_beginning_desc:0 "We need to reevaluate the systems and doctorines we utilize as Wardens... probably good that we establish we are Safehaven citizens first and foremost as well, can't hurt to hang onto the Warden name for a little longer though... Right?"
+  vsh_knowledge_exchange:0 "Lessons From the Rocky Mountaineers"
+  vsh_knowledge_exchange_desc:0 "Oh my god, raisins... so good..."
+  vsh_protection_without_a_fee:0 "Providing Protection Without a Fee"
+  vsh_protection_without_a_fee_desc:0 "Being a merc is overrated, people are more likely to live happily if they know their boys are backing them caps or not and who are we if not their pals?"
+  vsh_wardens_of_canada:0 "Helping People Where We Find Them"
+  vsh_wardens_of_canada_desc:0 "We've been practicing peace for awhile but we can do some real good taking on some of our seedier neighbors for the sake of freeing them from oppression or otherwise asshole rules."
+  vsh_operation_rally:0 "Operation: Rallies"
+  vsh_operation_rally_desc:0 "Although the election has soured the relationship between the Wardens and Showtime somewhat, they are still very much interested in pursuing a goal of cooperation. The mayoral office and Sierra Hotel have concocted a plan together, one that would boost our politcal gains tenfold, rallies!"
+  vsh_showtime:0 "It's Showtime!"
+  vsh_showtime_desc:0 "Showtime has decided it's time to stop being fearful! Let's not hide away in bunkers and towns anymore! We will not be pushovers while our lively hoods are on the line!"
+  vsh_empty_fields:0 "Empty Fields"
+  vsh_empty_fields_desc:0 "It's done, we've beaten the couple. But they're not bad people, just fearful ones. Let's give them their horses and send them off, for the sake of showing our people what real justice looks like..."
+  vsh_government_time:0 "Safehaven for All"
+  vsh_government_time_desc:0 "§YFROM THE DESK OF MAYOR SHOWTIME.§!\n\nNow that we've conq- spread freedom for the peace of the common people, let's help bring it everywhere, for a better future, a better Safehaven."
+  vsh_this_side_of_the_river:0 "This Side of The River"
+  vsh_this_side_of_the_river_desc:0 "Let us shore up some livelihood here, making Safehaven even stronger."
+  vsh_miscount_discount:0 "Miscount Discount!"
+  vsh_miscount_discount_desc:0 "It's time to slash these prices. After much debate amongst ourselves of whether or not Middlemark is a potential ally, their hatred for the Wardens, and by proxy us Havenites, has proven time and time again that the Miscounts cannot drop their grudge. For the safety of Safe Haven, we are going to war. Plus having the last automated superstore under our control would be pretty cool..."
+  vsh_recruitment_hub:0 "Merc Recruitment Hub"
+  vsh_recruitment_hub_desc:0 "By signing this amendment into law (although that doesnt mean much since the mayor now has absolute power) mercenaries can now sign up to serve under the SH mercenary control, and organization devoted to ensuring their safety and livelyhood while cutting a bit off the top."
+  vsh_moving_back_into_offices:0 "Revitalizing MiddleMark Corporate"
+  vsh_moving_back_into_offices_desc:0 "Today is a good day, some of our former vault scientists have managed to reprogram Penny and her robots, through this we can revitalize corporate, not lording over fellow humans, but robots. As it should be... because fuck working in a shopping mart."
+  vsh_only_one_mercenary:0 "Mercenary Monopolization"
+  vsh_only_one_mercenary_desc:0 "There's not enough moolah in the part of the continent for the both of us pal, plus wouldnt you like to work under SH? Showtime has decided it is in our best interest to crush our rivals while we are on the up and up, likely for the best."
+  vsh_put_them_on_our_payroll:0 "Put Them On Our Payroll"
+  vsh_put_them_on_our_payroll_desc:0 "By hiring some of the former mercenaries to act as occupiers, we can kill two birds with one stone as well as ensure loyalty in their lands."
+
+  #safehaven tooltips
+
+  stampede_coring_tt_vsh:0 "We will gain §Gcore reduction costs§! on §Y[STA.GetNameWithFlag]§!'s land!"
+  safehaven_formable_tt:0 "§GWe will be able to form the §YSafehaven Initiative§!§!!"
+  safehaven_conquest_mjw_tt:0 "We must §Rconquer§! §G[MJW.GetNameWithFlag]§!'s lands for this to have an effect!"
+  safehaven_conquest_ura_tt:0 "We must §Rconquer§! §G[URA.GetNameWithFlag]§!'s lands for this to have an effect!"
+  safehaven_town_decisions_tt:0 "§GBuilding Safehaven into an economic hub through decisions will remove this.§!"
+  vsh_merc_caps_tt:0 "§GGains 85k Caps as payment when sending volunteers!§!"
+  VSH_city_8:0 "§YSafehaven§! has been §GBuilt From the Ground Up§!!"
+  vsh_ward_decisions_tt:0 "§CWe will unlock decisions to rebuild the Wardens of the White in Washington!§!"
+  midmark_tt:0 "§RWe will get cores on Calgary and our bordering provinces, at the cost of permanantly removing the Miscounts, as well as those who support them.§!"
+  vsh_rebuilding_safehaven_tt:0 "Unlocks £decision_icon_small §YDecisions§! to begin §GRebuilding§! what remains of §YVault 107§! into the city of §YSafehaven§!."
+  vsh_spawn_alpha_squad_tt:0 "Spawn §G1§! §YSpec Ops§! division."
+  VSH_sh_mercs_tt:0 "§GWe will gain decisions to spend our caps on!§!"
+  sh_building_gui_active:0 "§YA Building System§!"
+  vsh_building_tt:0 "§GWe will unlock a special £decision_icon_small §YTab§! in the dropdown menu, under the arrow in the top left!§! "
+  vsh_warden_friendly:0 "Warden Friendly"
+  vsh_building_decision_one:0 "Currently Building Already"
+  vsh_building_decision_two:0 "Currently Building Already"
+  vsh_building_decision_three:0 "Currently Building Already"
+  vsh_has_built_all_other_buildings_tt:0 "We've Built a Strong City Structure!"
+  VSH_BIG_CAPS_TT:0 "§YVAULT-TEC MESSAGE§!: A SMART DWELLER MAY WANT TO §RSAVE ALL THE CAPS YOU CAN§! TO FIX THIS!"
+  vsh_warden_recruitment_tt:0 "Our current §YConscription Law§! will be replaced with:"
+
+
+
+  ###ideas
+
+  vsh_mutual_wants:0 "Mutual Desire"
+  vsh_wardens_on_point:0 "Wardens Far From Home"
+  vsh_wardens_on_point_desc:0 "Mary Mulligan and her Wardens came from Washington in a frenzy, looking over their shoulder time after time again. Raiders with bones to pick and wandering members of the Washington Brotherhood were everywhere, and without being able to communicate with Julius, she and her squad were separated, ultimately traversing through the Rockies. The ones that didn't get taken deeper in Middlemark's lands made it to Safehaven, where they now operate as a minor 'guild' of sorts amongst the many militiamen.\n\nSierra Hotel, Mary's company's designation, was amongst the experimental special forces of the Warden's forces. Although they weren't even in Seattle when the Eight Hour War happened-- a fact the company is ashamed of. Hoping to recruit as many bright eyed youngsters they can, a weakened Sierra Hotel has taken to more traditional Warden tactics to facilitate easier training."
+  vsh_lockdown:0 "Tightly-Knit Community"
+  vsh_lockdown_desc:0 "Between the Vault and the various connections made between families and groups scattered around the region, everybody knows somebody who can help out. With the Stampede growing larger and larger, many of these people grew closer and paranoid in fear of the giant on their doorstep.\n\nOf course, with this growing tension in the militia, more and more people are starting to turn to the Wardens..."
+  vsh_taking_after_mercs:0 "Taking After Mercs"
+  vsh_taking_after_mercs_desc:0 "After many years of being economically barren due to the Militias and Mercernaries that call this place home, the Wardens arriving have concocted a great idea, take a page out of their playbook!"
+  vsh_building_a_home:0 "Building a Home"
+  vsh_building_a_home_desc:0 "After leaving the vault, 107's residents took it upon themselves to re-establish Safehaven, inviting neighboring towns to join them. This, for a time, was a great success, as the dwellers were especially gifted negotiators. This led to Safehaven becoming one of the last areas in the Canadian Praeries not experiencing any excitement or upheaval, inadvertandly drawing the eyes of many militias and wayward mercenaries looking for a home away from the eyes of those they sold their gun to. In turn stripping much of the commerce Safehaven had hoped to attract."
+  vsh_building_a_home_2:0 "Building a Home"
+  vsh_building_a_home_2_desc:0 "Now controlling much of the water trade in the Canadian Prairies, Safehaven is finally shaking off the burden of a weak economic system exploited by its wealthy visitors."
+  VSH_safehaven_grandpa:0 "Safehaven's Grandpa"
+  VSH_forgotten_militiaman:0 "Forgotten Militiaman"
+  VSH_sierra_hotel:0 "§CSierra Hotel§!"
+  vsh_rallies:0 "Rallies!"
+  vsh_rallies_desc:0 "Every month, the Wardens and the mayoral offices of Safehaven organize a rally to boost support becoming a staple of the community."
+  vsh_full_mercs:0 "State Funded Mercenaries"
+  vsh_full_mercs_desc:0 "After having mercenary teams for a few years now, Safehaven's new initiative is to fund itself through these purchased expeditions, in turn making itself, in the eyes of the wasteland, a mercenary led republic good for only one thing, bloodshed of your enemies. Have you the caps to make that happen that is."
+  vsh_sh_company:0 ""Shithead" Company"
+  vsh_sh_company_desc:0 "Before the fall of the Wardens there was a joke about the "idiots" in Sierra Hotel, the gung ho wanna be special ops company as the meaner Wardens would tell it; That upon receiving our designation from Brandt long ago, he said Shithead, and we merely misheard it. This joke has been replaced recently, by a kinder one. "They might have been stupid enough to have missed the pass or old country, but none of the other companies would've been badass enough to create a whole new chapter and lob the head off of that friar asshole." Suffice to say, Shithead Company is a lot more popular amongst new Warden recruits."
+  vsh_altruism:0 "Altruism, For All"
+  vsh_altruism_desc:0 "We really mean it, we want whats best for the weary souls of the wastes that find their way home to us, those rejected by its hardships looking for warmth and betterment of self. Just as we Wardens once sought a safehaven, we will now pay it forward, hand in hand with the Havenites."
+  vsh_showtime_idea:0 "It's Showtime!"
+  vsh_showtime_idea_desc:0 "Showtime's encouragement of the mercenary systems has led to most Safehaven citizens primary occupation to be mercenary work. Unfortunately this means, ironically, she has re-established the "home away from the battlefield" government model that illegal mercanary residents had strongarmed the vault dwellers into taking up all those years ago upon Safehaven's establishment. A failing in her own mind, but a boon to be sure, as its residents are very rich now that they are included in this. So carry on wayward soldiers, home is waiting for you."
+  vsh_showtimes_help:0 "Dual Mayoral System"
+  vsh_showtimes_help_desc:0 "Upon reformation of the Wardens, Mary had a thought, perhaps this job isn't meant for just me, but my best friend as well, and so she elected Showtime join her a co-mayoral-commander of Safehaven. BFF's 4 ever."
+  VSH_does_it_all:0 "Does It All!"
+  vsh_friends_of_liberty:0 "Friends of Liberty"
+  decision_cost_1k_mp:0 "£manpower1_texticon §G1K Manpower§!"
+  decision_cost_1k_mp_blocked:0 "£manpower1_texticon §R1K Manpower§!"
+  decision_cost_1k_mp_tooltip:0 "It costs £manpower1_texticon §Y1K Manpower§! to take the decision"
+
+  ###safehaven events
+
+  vsh_vault.1.t:0 "Legacy of the White Collar"
+  vsh_vault.1.d:0 "Safehaven has always been called a 'city of crooks,' or a 'den of smiling thieves,' but to the people who live in it, it is a temple.\n\nTo the residents of Vault 107, it was where they turned a nightmare into opportunity.\n\nShortly after the bombs fell, Overseer Malcom Woods clarified the purpose of the Vault to its constituents. The experiment was to place a bunch of white collar “scheming” criminal types all together and see how quickly they fell apart.\n\nThough there was initial shock, the Vault Dwellers quickly figured themselves out, forming their own systems and even beginning forays out into the Canadian blizzards. That sort of calculating wisery that had gotten them placed into Vault 107 came in handy time after time again when it came to wastelanders.\n\nEventually, the vault doors opened and did not shut again. So 107 became a safe haven, a beacon of light on a sunless frontier to travelers and highwaymen alike. Over time, communities formed around it in the shells of Old World towns, and they too bore Safehaven's banner."
+  vsh_vault.1.a:0 "A community for everyone."
+
+  vsh_vault.2.t:0 "Ghost Stories"
+  vsh_vault.2.d:0 "We all know about what goes on in the west, out by old Calgary-- A shopping mall, ran by a merchant A.I. named Penny, staffed with robots galore.\nScary fuckers they are, they're nice, well for a sentient store- allowing all who behave themselves to shop, holding within a piece of the prosperity those Old World farts experienced before the bombs dropped. It's a pretty nice place to be and everyone wants to control that piece, leading to historically hostile tendencies from the robotic workers.\n\nWe, just as much as the other fuckers staring at the glowing lights of the mall in the cold nights, want some of the prosperity within. With it quieting down recently, we've been raring to mount an expedition to visit, unfortunately, many of the companies here are too chicken to take the trip. Luckily enough, the spec ops forces of Sierra Hotel have volunteered to scope the area, and figure out what's going down inside. Even though rumors of their old enemies, the Miscounts, returning have them jumpy. It's been weeks since we've heard back from them though, Mary fears the worst may have befell her company members... "
+  vsh_vault.2.a:0 "What a joyous place to be."
+
+  vsh_vault.3.t:0 "They Came From Old Washington"
+  vsh_vault.3.d:0 "The 'Wardens of the White' they called themselves. Dressed in old, dilapidated PMC gear and with voices as croaky as a summer toad, they came seeking hospice from the wastes. Supposedly, their old place got busted to Hell and back by some folks like the ones down in Montana.\n\nMary Mulligan's their shot-caller. They're far from the nicest people we've got in Safehaven, and some folks are even going so far as to call them "backhanded," or "duplicitous," but it hasn't gotten us in any trouble just yet.\n\nNevertheless, with their help, the once poor and weak volunteer only governmental system is on track to actually being a force worth supporting in Safehaven, rather than a glorified message system ran by second rate mercs."
+  vsh_vault.3.a:0 "Let's just hope nobody makes a crazy plot."
+
+  vsh_vault.4.t:0 "More Than Just Static"
+  vsh_vault.4.d:0 "A crackling sound came over the old Warden radios today, causing quite a stir amongst them. “we're back, Washington—“ it said between spurts of static, followed shortly after by calls for various squad names.\n\nSome have been quick to speculate the Wardens have resurged in Seattle, but Mulligan has other ideas. They can't go back. Not yet, anyway. There were bigger fish to fry, and Safehaven was just the place to get the grease to do it."
+  vsh_vault.4.a:0 "Let's see what's cooking!"
+
+  vsh_vault.5.t:0 "Wardens Reunited"
+  vsh_vault.5.d:0 "BRANDT: Glad to see you back in one piece, Mulligan. We missed you.\n\nMULLIGAN: Glad to be back, sir.\n\nBRANDT: I hope your time in Canada served you well— though I doubt hopping from one Vault to another has you excited. Are you ready to get back to business?\n\nMULLIGAN: More than ready, sir.\n\nBRANDT: Good. God knows we've got a helluva mess to clean up."
+  vsh_vault.5.a:0 "Wardens stand together."
+
+  vsh_vault.6.t:0 "She Did What?"
+  vsh_vault.6.d:0 "Earlier today a report reached Mayor Showtimes desk, one in a format not all that dissimilar from documents submitted by Mary, this one bearing a hastily drawn Sierra Hotel symbol, Showtime recognizing it as the same one the patches the company adorn. The header reading "Operation: Killjoy" struck fear into the Mayor's heart, having heard the news of the couple ruling the Great Stampede's newly born daughter: Joy.\n\nLuckily enough, Mary's pension for poor naming in pursuance of puns held true, a plot to ransom the newborn princess being the true purpose of this operation much to the relief of the Mayor.\n\nUpon further reading confusion was the only thought left upon Showtime's mind, confusion as to why Mary decided to pull this power play. This confusion served no purpose she decided, as the situation was already in hands not belonging to her: Sierra Hotel's namely.\n\nApparently they will be demanding the territories north of our rivers border for the return of their daughter- a sure way to set up a good line for attack should we go to war."
+  vsh_vault.6.a:0 "Mary sent her bid already."
+
+  vsh_vault.7.t:0 "Expedition's Return"
+  vsh_vault.7.d:0 "Alpha Squad of our expeditions sent to scout out Middlemark have returned, carrying with them a harrowing tale of robots, raiders and the loss of Beta, as well as Omega Squad...\n\nReporting to have made it to Calgary with relative ease, noticing a relative lack of patrolling throughout the towns claiming to fall under the logo of MM, and with the aid of Wardens not affiliated with Sierra Hotel, hiding throughout the area. Climbing the shopping mall they viewed through the skylights a vast commercial area, with wall mounted screens presenting their A.I. leader, and cheap rip off Rob-Co securitrons wheeling about– A usual sight, until raiders adorned with store merch paraded into the social center, inadvertently destroying displays and parading with their weapons, cheering and chanting “Penny”.\n\nUpon further inspection, the leader of the expedition team, a veteran of the raider wars, recognized the gang as the Miscounts, but not before the many cameras watching the premises spotted the teams, and the gang cornered them, leaving them no choice but to hightail back to the Wardens in hiding, stupidly revealing their base to the Miscounts, Alpha Squad chose to run rather than fight, being the only squad to escape the doom that awaited the scouts.\n\nThis has weakened Sierra Hotel, leaving only a handful of original members to lead the company. Ms. Mulligan has not taken this well, becoming almost vengeful, and imploring Mayor Showtime to strike back quickly. Showtime tells her that a war with the 'mark isn't viable at this time due to their connections-- much to Mary’s displeasure; as she claims that their true enemy isn’t the Stampede, but instead lays across the river, in Calgary's superstore..."
+  vsh_vault.7.a:0 "The Miscounts."
+
+  vsh_vault.8.t:0 "A Show"
+  vsh_vault.8.d:0 "Mercenaries had always been a constant thorn in Safehaven’s side. They were a constant presence within Safehaven, like moths to a flame. It had become their supposed ‘home away from the battlefield’.\n\nShowtime had had enough, recalling her youth in the orphanages, hungry- starving even amongst the other children, resorting to petty crime to feed herself, only hurting her fellow Havens, screaming “its showtime” in hopes that a passing merc would laugh and toss her a cap or two. These memories brought rage.\n\nExtensive preparation had gone into this operation, with thorough planning sessions eating into both Showtime and Mary’s schedules but its payoff would be more than worth it. Mary and her wardens would storm the mercenary's clubhouse, whether by speech or bullet. Once inside Showtime would enter and do the talking. One way or another the Mercenaries would sing her tune, the question was how? She had two ideas. She could butter them up, claim them as vital to the nation's security, and plead they sign onto the military as an elite defense force akin to the wardens or she could simply threaten them into doing things her way, using the wardens as leverage. Both had their merit, but it was a delicate situation and she could not afford to screw it up although the thought of humiliating herself once more left a bitter taste in her mouth..."
+  vsh_vault.8.a:0 "§REnough talking.§!"
+  vsh_vault.8.b:0 "§BIt's showtime.§!"
+
+  vsh_vault.9.t:0 "Payment"
+  vsh_vault.9.d:0 "We have received payment for sending volunteers!"
+  vsh_vault.9.a:0 "Yipee!"
+
+  vsh_vault.10.t:0 "A Town Rebuilt, A Home Saved"
+  vsh_vault.10.d:0 "There used to be a joke people would tell about Safehaven. ‘Mercenaries make them pay fees to protect them, protect them from what? Who would want to conquer that shithole?’. Well, things are different now. Instead of lazy and corrupt mercenaries, we have a fully-fledged defense force that helps the people. Instead of broken shacks and empty plates, we have proper houses and growing agriculture.\n\nSafehaven had become an actually civilized place, something akin to Brandon or Shady Sands except with its own charm. Who knew that within the frozen and rigid plains of Canada, a place as warm as this could come to exist? A nation full of do-good mercenaries focused on helping the people around them and fighting the bad guys. It had truly become a place worth fighting for, a haven for the weak away from the wicked. Those deemed wicked in the eyes of the people at least..."
+  vsh_vault.10.a:0 "So, a safe haven?"
+
+  vsh_vault.11.t:0 "A Celebration!"
+  vsh_vault.11.d:0 "Showtime felt nothing but pride and hope within her heart staring at the crowd before her. Ten men stood up on the stage with Showtime and Mary, with another two hundred gathered around to watch the award event. Each name was called up to receive a medal of excellence for serving valiantly in the war against the Great Stampede; the audience applauded furiously whenever a medal was awarded. The people could finally breathe easier with the Great Stampede no longer breathing down their neck.\n\nShowtime moved to the podium, ready to give her closing speech. “We have done what many considered to be impossible. We destroyed the giant of Alberta, setting their people free. We proved ourselves to the wasteland, we proved that the Safehaven model works. That it will continue to work for the foreseeable future. We shall continue to strengthen ourselves and protect each other from evil!” Showtime bellowed proudly, met with cheers from the audience. She beamed at the crowd, their enthusiasm proving contagious.\n\n”What about my husband!? Where was his protection!?” a voice called out from within the crowd. Showtime frowned, not exactly sure how to respond. A few other voices joined in. “You stand around giving medals to these soldiers when it was clearly the Wardens who won us this war! They’re the only people around here who get stuff done!”. The jeers and heckles continued to come in, eventually centralizing into a repeated ‘Let the Wardens rule!’. Showtime looked towards Mary who also seemed surprised by what was occurring. She stepped forward, addressing the audience.\n\n”The Wardens have been dedicated to supporting all of you. If it is truly the will of the people that we take control, I shall step up and assume the role of Mayor!” Mary said. Receiving the cheers of some within the crowd. “Danger lurks all around us and within our land. We have only managed to stop one threat. They smile at us now, but when our backs are turned, that is when they shall unsheathe the dagger. There must be no compromise, no debate, and no negotiation. We can only feel true peace when we have annihilated our enemies. If you trust me with this power, I shall not rest until it is done! Who’s with me?” Mary shouted towards the audience, to which she was met by..."
+  vsh_vault.11.a:0 "Joyful cheers. "
+  vsh_vault.11.b:0 "Relative silence."
+
+  vsh_vault.12.t:0 "Old Memories"
+  vsh_vault.12.d:0 "Excitement flurried within Mary when she got the chance to ‘Crackdown on some dissenters’. It’d been a while since she had given someone a good kicking and she was itching for it. Quickly assembling a few other Wardens, she moved out to the center of Safehaven, where the dissidents were. They arrived within thirty minutes of the call. It was time to play bad cop.\n\n“They stand just across the river! At any moment they could strike and we just let them roam freely! How can this be safe?!” A young woman yelled out to a large crowd. Mary quickly stepped in, ready to shut this down. She made her way towards the woman, ready to arrest her.\n\n“Cease you’re protesting and come quietly, or else,” Mary said, towering over the young girl. “I do not believe this. I talk about the vile raiders across our borders. The Wardens' great enemy and you move to stop me? Have the Wardens gone soft!?” The young woman bellowed at Mary\n\nMary hesitated, a frown appearing on her face. Her words were not entirely untrue. The Miscounts were dirty sons of bitches, and their close proximity meant they could strike any time.\n\n“What is your name, girl?” Mary asked “Sophia. Safehaven is my home, I just want to see it safe. You, as a Warden, you understand right?” Sophia pleaded. Mary remained silent. Memories of a lifetime ago flooded in. She grabbed Sophia’s hand and raised it to the air.\n\n“Then, Sophia, let it be known! You are right. Danger lurks all around us, poised to strike at any moment. The Wardens stand by you and the people. We can not let this danger exist freely! Not when we hold the strength to take them down!” Mary shouted, addressing the crowd before her.\n\n“We shall strike, we shall fight. We will not stop until that scum has been wiped off the face of the earth! A capitalist AI and its raider stooges are no match for the Wardens. I promise you, that we shall destroy them!” Mary screamed at the crowd, feeling her adrenaline rush.\n\nRevenge was always a nice feeling, coupled with making her new home a safer place? Mary quite liked the idea of that. Showtime might have her doubts but Mary had full faith and confidence in her Wardens' ability. Middlemark had no idea what was coming. "
+  vsh_vault.12.a:0 "Ready your rifles."
+
+  vsh_vault.13.t:0 "Miscounts Massacred"
+  vsh_vault.13.d:0 "Mary so dearly loved revenge. The satisfaction of destroying her enemy, looking them in the eyes as they realize they lost. She loved it. The Wardens had crushed the Miscounts and Penny. They were currently in the midst of rounding up each and every Miscount for execution. Her hand was wrapped around the Miscounts' throat, all she had to do was squeeze. The blood feud would finally be settled and yet, a small nagging feeling chewed at Mary’s brain, hesitation. It angered her beyond reasoning but she couldn't shake the feeling. It wasn't pity she felt, she hated the Miscounts. It was her love of the Wardens that was stopping her. Or maybe the way the people looked up to them. They were always paramilitary assholes in the eyes of the Cascadian people, but here? The good guys, fighting for the sake of those calling Safehaven home.\n\nSwitching around the roles, the Miscounts would execute every Warden in a heartbeat. Or would they? More and more she’s noticed some Miscounts brought in wearing Warden tags around their neck. Tags that matched the names and faces of those wearing them. Not trophies, but as tokens of a time past. The Wardens were the good guys, right? Killing them all, even some of our kin would devalue everything the Sierra Hotel has begun to stand for, but then didn’t the Wardens also fight for justice? It confused her to no end. Mercy or Justice... or maybe more succinctly, hollow revenge? Who knows, still, the choice was hers. "
+  vsh_vault.13.a:0 "Justice..?"
+  vsh_vault.13.b:0 "Mercy."
+
+  vsh_vault.14.t:0 "Joyful Cheers"
+  vsh_vault.14.d:0 "The cheers came furiously, chanting coming from all ends of the crowd. Mary was slightly taken aback, not expecting such a big crowd to rally behind her. She turned to Showtime, who was also quite taken aback. She held Mary’s stare for a second before a smile appeared on her face.\n\nTurning to the crowd, still smiling, she asked ”It’s not exactly what I had in mind, but I've always been a woman of the people. If it’s truly your choice, I will resign and hand over all authority to Mary!”\n\n”So people of Safehaven, do you wish for the Wardens to lead?!” Showtime shouted.\n\n\The result was a resounding affirmative.\n\n”Then it is done. I ask you to welcome your new leader, Commander Mary Mulligan!” Showtime shouted to the crowd, receiving huge cheers, ushering Mary to the podium.\n\n”I thank you all dearly. I promise you this opportunity will not be squandered. I will do everything in my power to create a safer and more powerful Safehaven. You can rest easy knowing that I serve nothing but you, the people!” Mary bellowed."
+  vsh_vault.14.a:0 "Their cheers echoed throughout the city!"
+
+  vsh_vault.15.t:0 "Relative Silence"
+  vsh_vault.15.d:0 "The same group who started this whole thing screamed loudly, cheering for Mary. The rest of the crowd remained silent, uneasy with Mary taking control. She grimaced, feeling slightly embarrassed that she got so caught up in the idea of her leading Safehaven.\n\n”Of course, if you all feel that Mayor Showtime will continue to remain a competent leader, I shall also continue to place my faith in her.” Mary said.\n\n”Do you wish for me to continue to lead?” Showtime asked.\n\nThe crowd could not have made it any clearer they wanted her leadership.\n\n”Thank you. I am truly honored that you continue to place your trust in me. Safehaven has changed much over time, but let me be clear! This is only the beginning! We shall continue to grow and we shall continue to push forward! Safehaven shall never be defeated. With the Wardens at our side and our hearts within us, we shall prosper! Greatness awaits for Safehaven, we need only reach out and grab it!” Showtime rallied. The crowd erupted into cheers with even Mary cracking a rare smile under her helmet. She couldn't help but feel a little sore that the people didn’t trust her, but if she had to lose to somebody, and she hated losing, she’d choose Showtime in a heartbeat. The Wardens would always back her up, she owed her that much."
+  vsh_vault.15.a:0 "Safehaven for Havenites!"
+
+  vsh_vault.16.t:0 "Litterbugs save the day!"
+  vsh_vault.16.d:0 "Recently a young man approached us about cleaning out his basement, a strange request, but our newly founded parks and recreation department jumped at the opportunity to delve into cleaning up the community, especially after the boy promised we could keep all the junk we find!\n\nLuckily enough, it seems whoever owned the house previously was a Nuka fanatic, leaving behind thousands of bottlecaps for us to discover. After giving all of the Parks and Rec crew a healthy bonus, we have enough caps to fill our coffers for a good while, enough to get us past our current commerce problems for the moment at least..."
+  vsh_vault.16.a:0 "How lucky..."
+
+  vsh_vault.17.t:0 "For You Are Strong"
+  vsh_vault.17.d:0 "“Commander Harlowe. It’s very good to see you again,” Mary said, throwing a respectful salute towards Sylvia.\n\n”Likewise Commander Mulligan. After Washington...” She left her sentence hanging, visiting old memories. “Well I didn’t think many of us survived,” Sylvia finished softly.\n\n”We did, and we’re stronger than ever. We have to unite the Wardens once more, to punish those who destroyed us and all who threaten the Wasteland,” Mulligan stated. “No.” Sylvia retorted bluntly. Mary was taken aback by how quickly she responded, she began to speak when Sylvia cut her off.\n\n”No, Stop. Listen to me. I know you were always an ardent supporter of the Wardens. Your patriotism knows no bounds. But just listen to me. The Wardens are done and finished. They died in Washington, we’re just limping along. What if, from their ashes, we could create something new?” Sylvia asked. Mary felt rage boiling within her, she bawled her fists and began breathing heavily, trying to calm her anger down. She felt a hand on her shoulder, and turned to see Showtime who nodded at her. “Let me ask you something, Mary.” Sylvia began.\n\n”Do you think the world is a better place with the Wardens in it?” She asked. The question hit Mary like a slap in the face. Lifetimes of memories flooded through her, ones of pain, happiness, regret, pride, life, and death. The Wardens had been everything Mary knew, all she had ever been. She had wanted to make the world safe, no matter the cost. She felt tears begin to well up and her emotions bombarded her entire brain, something that had become foreign to her in the years leading to the fall of Seattle, and its aftermath. What would it be? She looked towards Showtime, desperate for some piece of advice that would fix her quickly cracking brain. Showtime met her gaze, a serious expression on her face. "I can’t help you with this Mary. This is between you and your conscience, No matter what you choose, the people of Safehaven will support you." Tears streamed down Mary’s face. She had made up her mind. "
+  vsh_vault.17.a:0 "The Wardens kill traitors."
+  vsh_vault.17.b:0 "The Wardens be damned!"
+
+  vsh_vault.18.t:0 "Stand Proud"
+  vsh_vault.18.d:0 "“Commander Harlowe. It’s very good to see you again. Mary said, throwing a respectful salute towards William. “Commander Mulligan, how I’ve missed you and your group. Been keeping alright within Safehaven? I heard you sons of bitches crushed the Miscounts, well fucking done!” William said. “I was only doing what any Warden would do given the circumstances.” Mary stated. “You’ve got drive Mulligan, not like some of these boys up here. Nobody can make the hard choices anymore, leaving me to pick up the slack for them.” He rambled, Mary absentmindedly agreeing.\n\n”It’s no matter now. With our groups reunited, we’ll be able to bring the fight back to anyone who’d even think of threatening us. I’m itching to kill every single one of those Washington boys who kicked us out. Every last one of them.” William said darkly. “Of course, but we’d first have to acquire the manpower to take them on, we lack sufficient strength to threaten them” Mary stated. “That’s fine, we’ll just have to conscript some of our nation's people, they won’t do well out there but all they need to do is divert fire so the Wardens can deal the damage. They won’t like it, but like I said, you need to be able to make the hard decisions as a Warden. “Of course Commander” Mary said, feeling a little uncomfortable with how William was acting. Of course, she wanted revenge and to restore the Wardens, but he seemed to take things a little too far. Could she really work with someone like him?"
+  vsh_vault.18.a:0 "Were we always this crazy?"
+  vsh_vault.18.b:0 "Damn right brother! But no Havenites..."
+
+  vsh_vault.19.t:0 "Kooks!"
+  vsh_vault.19.d:0 "Turns out not everyone wants to leave the vault, even though we've managed to get everyone out with negotiation and tact, a sizeable group of old timers claim that the vault is the only place they want to be. For their whole lives...\n\nUpon sending in some minor squads to forcefully escort them to their newly renovated homes, a fight broke out, ending up with the geezers taking out a good number of our soldiers with their stashed 10 millimeters before a Warden stepped in to "handle the problem.""
+  vsh_vault.19.a:0 "Have a memorial built."
+
+  vsh_vault.20.t:0 "A Buyer!"
+  vsh_vault.20.d:0 "Today a vault dweller stumbled into our headquarters, being directed here by the caravans out front preparing to head out east to Regina.\nUpon telling him that the 107 transfer forums are located down the hall, he revealed that he was from a completely different vault and that his water chip was malfunctioning, offering a sizeable sum for us to supplement their water supply until he finds a new chip!"
+  vsh_vault.20.a:0 "He didn't say where..."
+
+  vsh_vault.21.t:0 "Our Initiative"
+  vsh_vault.21.d:0 "Mayor Showtime had arranged for her to address her nation once again and inform them of her great plans. Pride and patriotism for Safehaven had been high ever since the defeat of The Stampede and the subsequent electoral debate that had secured her position as Mayor for the foreseeable future. She had to keep riding the wave, elevating her people further. So she came up with a plan to bring Safehaven into their golden age.\n\n"People of Safehaven! Hear me, for I bring us our next step in solidifying our position within the Wasteland." She paused for dramatic effect, letting the silence build up her people’s curiosity.\n\n”Allow me to show you this!” Showtime shouted, pointing towards a blank screen that quickly lit up and displayed a giant document. “The Safehaven Mercenary Companies!” Showtime called out to the audience. “By sending out our men and arms to other like-minded democratic nations, we can help make the world a better place and continue to grow our nation. People like yourselves, with guns and hope within your hearts shall be the pride of our nation.” Showtime smiled, prideful of the assembly of people who supported her plans. The road would be bumpy, especially with the enemies that still surrounded them. But one day, Safehaven would be a crown jewel of Canada. This will be our initiative, to steel our hearts and brave war! for the betterment of all, for the betterment of Safe Haven!"
+  vsh_vault.21.a:0 "For Havenites!"
+
+  vsh_vault.22.t:0 "Feels Good To Be Rich"
+  vsh_vault.22.d:0 "The new Safehaven initiative had been coming along beautifully. All of Mayor Showtime's plans, which long ago had only been distant dreams, had been fully realized. Legions of troopers, trained harshly by Warden advisors, were prepped and ready to be released out into the wasteland to protect fellow democratic nations. Their equipment was maintained to the highest degree. They were perfect, and then some in the eyes of Mayor Showtime. It brought hope to her heart. She was proud of what she had achieved, even prouder of the opulence she knew it was about to bring. Especially with this rebranding as S.H. Mercenary Company, a name that will surely attract buyers. Enough that she would be able to enact her cap spending interests. The best part?\n\nIt was gonna make them some serious money."
+  vsh_vault.22.a:0 "I Love Money..."
+
+  vsh_vault.23.t:0 "Stand Proud"
+  vsh_vault.23.d:0 "Every day, Safehaven grew. Another house, another railway, another road. It continued to push itself forward, fighting back against the cruelness of the world. From a cesspit to a community, to a bastion. It had grown, become something more. But not without cost. To maintain development, especially within the wasteland, sacrifice was necessary. Some would have to go hungry, some would have to do jobs they would rather not. But most importantly, some would have to give their life.\n\nThis was the nature of the wasteland and it was what led Mayor Showtime to her next project.\n\nIt was light in nature, not requiring many resources but its meaning was perhaps the most important out of any of her recent ‘Safehaven projects’\n\nShowtime stood in the center of Safehaven, a large crowd before her. The speech was being recorded for radio and, for the first time ever, television. It wasn’t going to be viewed by many, most likely only the Safehaven elite but its purpose was still important. Showtime addressed the crowd\n\n”Though we live in safety and privilege now, we must never forget those who gave their lives to get us here. They shall not be forgotten.” Showtime then pulled a sheet off and revealed a grand statue of a soldier, hands on his hips looking off into the distance. On the base of the statue the words ‘Never forgotten’ were inscribed on.\n\nThe people roared with applause, all of them prideful of how far they had come and those who had died to get them there. "
+  vsh_vault.23.a:0 "In Memoriam, for better or worse."
+
+  vsh_vault.24.t:0 "The Woman Who..."
+  vsh_vault.24.d:0 "Mayor Showtime rested comfortably in her desk chair, letting out a sigh of relaxation as she did so. A nice chair was such creature comfort and yet she found that she could not work without it. A stark contrast from her old ones that could barely stand up. Yet another reminder of how far she’d come. She adjusted a necklace that rested around her neck, making it look as neat as possible. She was planning to address the nation very shortly and as such, she had to make her image as presentable as possible. Rain pelted hard against the room’s window, bringing a soothing sound to Showtime’s office. She began to adjust one of her diamond earrings as she moved towards the window, absentmindedly thinking about her speech. She stared out the window, watching as the rain fell down within Safehaven. Not a lot of people were out, most seeking shelter indoors. Except one, a young child who sat just barely undercover, an upside-down hat in front of her. It had no coins.\n\nShowtime immediately felt sick, her traumatic past rushing to her mind. She tried to shake the thoughts away, closing the blinds to block the child out of view but it didn’t work. The image remained in her brain, except the child was her. She looked down at her hands, her fingers carrying exquisite rings. She rushed to pull them off, throwing them on the floor. She tore the necklace off her neck, the pearls breaking and spreading on the floor. She stood very still, the sounds of pearls rolling along the floor being the only thing she could hear. “What the fuck have I been doing?” She asked herself."
+  vsh_vault.24.a:0 "Rushing away..."
+
+  vsh_vault.25.t:0 "One for the Weak"
+  vsh_vault.25.d:0 "Mayor Showtime and Mary stood on a great stage, addressing their nation. Many of Safehaven’s citizens attended and the rest listened on their radios. The entire nation stood behind their leaders, hooked on everything they said.\n\n”For too long we have lived in terrible circumstances, the life choked out of us slowly by our enemies. Sacrifices have to be made every day for just another chance to eke out a meager existence. To this, we say: no longer! We shall strike at all who push us down and grow higher than they could ever have. We will bring you greatness. Freedom for anyone to do whatever they please, to thrive within the wasteland. But we cannot do this alone, we need your help! Join the army, join the New Wardens. For we are nothing when we are disunited, but together we hold enough strength to move mountains. They do not understand what makes us special, and they never will. For Safehaven, for the Passkeepers! For the righteous, and for those left behind by the strong!”"
+  vsh_vault.25.a:0 "Another for the free!"
+
+  vsh_vault.26.t:0 "Something Worth Celebrating"
+  vsh_vault.26.d:0 "It was quite late into the night when the sound of laughter erupted from the Mayor's office in Safehaven. Mary, Showtime, and Sylvia were recounting tales and joyously telling jokes as they each drank excessive amounts of alcohol. The three of them were not really ones for drinking, especially with the amount they currently had, instead opting to focus on their work. But they all had agreed they deserved it after going so long without a proper break.\n\nMary had excused herself from the conversation, eager to fill up her glass yet again. Swaying slightly as she made her way towards the drink table, she looked at her discarded helmet which she had removed previously. She looked at its cracked lenses, lost in thought. Her expression beamed right back at her. Mary would never admit this to anyone, sometimes not even herself, but she doubted herself often. When she had made her decision to cut ties with the Wardens of Seattle and start something new, seriously wondered if she had made the right decision or if she had simply just become a traitor, somebody who needed to be put down before they could put people in danger. It still nagged at her from time to time, her inner criticisms and insecurities taunting her as she continued to push forward. But when she looked at Safehaven and when she looked at Showtime and Mary, it all seemed to be worth it. Maybe she had made the right choice. ‘Perhaps she’d never know’, Mary thought as she heard Showtime laughing loudly. A smile came to her face as she moved back to join her friends. Maybe she didn’t need to."
+  vsh_vault.26.a:0 "In this life!"
+
+  vsh_vault.27.t:0 "Progress, at a Pace"
+  vsh_vault.27.d:0 "Orphans within Safehaven had, for a time, always been a major issue. Kids who had lost their parents, or who had simply been abandoned struggled to survive within the harsh area. For a time, it was the norm. But that was then. Safehaven had changed, been molded by both Showtime and Mary into something more—\n\nA community.\n\nWhere there were once dinky little shacks covered in muck and grime, there now stood community schools and households with loving families. Children, who once looked around with sadness and despair, now held smiling faces and full bellies. They could learn. They could grow.\n\nShowtime’s heart soared at seeing the assortment of young faces full of vigor and excitement before her, her chest filled with pride.\n\n“Hello there children, My name is Showtime- I’m your Mayor. But you can consider me your friend. This is Mary, she’s my right-hand partner. We’ve come to speak to you about the many responsibilities of leading a nation.” Showtime said a bright smile on her face. On the other hand, Mary expressed quiet discomfort, not quite in her element surrounded by school kids. “Do you have any questions for us?” Showtime asked. A young child, full of excitement, stuck his hand up as far as it could reach.\n“Have you killed bad guys before?” The child asked, looking at Mary. Showtime’s smile dropped, her face immediately looking towards Mary. “Yes, I have. Plenty of them” Mary said. Showtime cringed, praying to god that Mary would show more tact. The children erupted into soft ooooo’s. Curious at the dangerous tales the scary and muscular woman had been involved in.\n“What’s the scariest thing you’ve killed?” Another child asked. “A Super Mutant behemoth. A huge monster. I had only...” Showtime watched in awe as Mary immediately went into the extremely gory details of her team killing monsters. There was a part of her that wanted to step in, but she couldn't find the heart to ruin the story that the children were so invested in. It was perhaps not exactly what she was looking for, but who was she to tell the children what they could be interested in? Besides, maybe Mary’s story could inspire a young child to become a hero like her. The thought brought her comfort."
+  vsh_vault.27.a:0 "Wait Mary, do not give that child your gun!"
+
+  vsh_vault.28.t:0 "A New Kind of Haven"
+  vsh_vault.28.d:0 "Mayor Showtime, Mary, and Sylvia all stood in the mayoral office with much on their mind. After copious amounts of planning and preparation, the three of them were finally able to reveal to their nations what they had cooked up. A camera crew was setting everything up, while the three mentally prepared themselves.\n\n”Are you nervous Mary? Showtime teased, she had always enjoyed Mary’s camera shyness. “No. Wardens don’t get nervous, they do what they must.” Mary stated firmly. “She’s definitely nervous.” Sylvia said, receiving a few giggles from Showtime and a punch in the shoulder from Mary. “We’re live in twenty seconds” a member of the crew called out. The three girls moved to their positions. Showtime in the middle, with both Sylvia and Mary flanking her. The cameras were in position, the man behind them putting up three fingers, then two, and then...\n\n”Good evening citizens of the north. We come to you today to bring a very important message. We are here to announce the establishment of ‘The People’s Northern Haven’. A fully realized democratic nation combining our efforts and people under one banner. Already a constitution is being drafted and plans for elections are being created. I want to thank you all for helping us push forward to where we are today. It was never easy, and we could not have done it without your strength. We fought together, we helped each other and, most importantly, we grew together. Though things may seem easier now, we must never forget the sacrifices we’ve made to get here. This is only the beginning of something much greater. There’s so much more to be done, so many more people to help. It seems daunting now, but I know that together, we can conquer any problem the Wasteland throws our way. Whether you’re a Warden, a mercenary or just somebody trying to get by, you can rest easy knowing that we will always have your best interests at heart. Thank you everybody and may the People’s Northern Haven live for a hundred years!”"
+  vsh_vault.28.a:0 "Let's Celebrate!"
+
+  vsh_vault.29.t:0 "A Cold Heart..."
+  vsh_vault.29.d:0 "Mary stared off into the distance, lost in thought as she looked towards the great fields of snow that extended as far as the eye could see, much like an ocean of white, her thoughts drifting to that great sea she once admired. The ocean was much like the Wardens; unstoppable and ferocious. It did not care for what anything thought of it, it did as it pleased. You could not fight the ocean, only flail around until it had pulled you in too far. A wolfish grin came to Mary’s face. Like the ocean itself, she would crash down hard on anyone who opposed her.\n\nShe turned and faced the large assortment of soldiers that stood before her. Their armor impeccably maintained, reflecting the cold white snow that fell before her.“A Warden is made up of three things” She started. “Their cold heart, their steely mind, and their weapon. These are your very life. They will be all you need for the rest of yours. You shall be a beacon of safety and honor within the cold snow that falls around us. The wasteland shall understand that there shall be no tolerance for opposition, no allowance of fiends. You are the wasteland’s hammer, sent swiftly to deal with those who prey on the weak. You shall fall upon them swiftly and mercilessly” Mary shouted. She paused as she surveyed the troopers before her. “Take comfort in knowing that your hearts are just as cold as the snow that surrounds us and for that, you are stronger than anything the wasteland could throw at us. You are a Warden, and a Warden only cares for one thing. Their mission. To step on the weak around them and to attack the strong who surround them. We shall never give up. We shall never yield!” She cried to the soldiers. They cried back to her, all of them shooting their arms up into the air. “For the Wardens of the White!” Mary screamed. The soldiers began to march forward. Mary watched them, snow falling onto her helmet. It clouded her vision."
+  vsh_vault.29.a:0 "And a heavy rifle..."
+
+  vsh_vault.30.t:0 "A Couple... of Assholes"
+  vsh_vault.30.d:0 "The elation of victory often subsided when one takes upon the many responsibilities of ruling the vanquished. Safehavens victory over The Great Stampede had proved no different. The people were, naturally, slow to trust a nation full of crooks who just recently got control over their economy and people again. Mayor Showtime had spared no expense when it came to earning the people's trust; focusing on repairing infrastructure and expanding trade. But one problem continued to rear its ugly head.\n\nThe Couple.\n\nThey were loved, they were adored. But they had lost, and the people wouldn't let go.\nMary's suggestion was simple. “Just kill the bastards, make a message out of them”. Of course it wasn’t that simple, easy as it is. So the Mayor opted for something a bit kinder, but no less useful.\n\nThe sky was a bright orange, the sun barely showing itself. Mary and the Mayor were silent, leading the royal couple to an area unknown to them, Mary with their child in her arms. The Couple were silent, carrying themselves with grace and dignity, attempting to hold onto what little pride they had left. Ahead of the group were two horses, hitched to a small post. Mary and the Mayor stopped. Showtime turned to The Couple and gestured towards the horses.\n“These are your’s.” Mayor Showtime said. The Couple remained still, taking in what they had been told. “We aren’t going to kill you. But you cannot remain in our land. This is your only option”Mayor Showtime said\n\n‘Our land’. The words echoed within John’s brain. His life played before his eyes. Where had it gone wrong? He nodded at Mayor Showtime, his expression unreadable, taking his wife’s hand as Mary, almost reluctantly, handed her Joy. He moved towards the horses gracefully-- knowing that wherever he went next, it would be with his family, and for that he was grateful.\n\nMary and Showtime watched as The Couple went off. “I wonder how they’ll fair” Showtime mused. “Not our concern. We have more important matters to attend to.” Mary said sternly\n\n“I suppose you’re right.” Showtime said, watching as The Couple disappeared."
+  vsh_vault.30.a:0 "A family united, through it all."
+
+  vsh_vault.31.t:0 "Enough Showtimes"
+  vsh_vault.31.d:0 "Mayor Showtime never opted to play the strongman, it wasn’t in her nature. She always chose the honey over the vinegar, leaving the violence to Mary and her gang when necessary. Perhaps that was why the group before her looked so shocked after she had barged in, interrupting an extravagant dinner. The mercenaries demanded to know why she had entered without permission but their questions went unanswered. Instead Showtime opted to take a seat and pour herself a drink. She took a sip and then locked eyes with the Mercenaries.\n\n”Look at me.” She said, staring daggers at the mercenaries. “You don’t get to fuck with Safehaven anymore. Understand me?” Showtime said sternly. The room was dead silent, the mercenaries not daring to say a word. “This isn’t your playground anymore, it’s a home. If you want to be a part of that home, I strongly suggest you do your fucking part for once. If that's not good enough for you then you can leave. But understand me if you plan to stay around and continue to annoy me. I’ll let Mary handle you, she’s a lot less friendly than me.” Showtime said, pointing to the powerful presence that stood behind her.\n\n”So, what’s it going to be?” Showtime asked.\n\nThe mercenaries exchanged worried glances before one stood up.\n\n”You think we give a fuck what you say? You don’t rule shit here, we’re the ones in charge.” The mercenary said, getting in Showtime's face. Her face twisted into disgust as she smelled his breath, she turned towards Mary and nodded slightly. The mercenary barely had a chance to notice before Mary’s fist connected with his jaw, knocking him straight to the ground unconscious. Showtime grabbed Mary’s gun and fired directly into his head much to the surprise of the room. The dead merc jittered slightly and fell still, blood oozing out of his head.\n\n”I’ll ask again,” Showtime said, addressing the room, blood splattered upon her face.\n\n“What’s it going to be?”"
+  vsh_vault.31.a:0 "The hero's heart hardens."
+
+  vsh_vault.32.t:0 "It's Showtime"
+  vsh_vault.32.d:0 "Showtime took a seat, getting herself comfortable before beginning her speech. The mercenaries looked at her with suspicion. Nobody had been killed when the Wardens demanded entry, but a firefight had been very close to breaking out.\n\n”Don’t worry, I haven't come to harm you, I simply came to offer you a deal” Showtime stated calmly. The mercenaries looked around, not quite sure how to feel.\n\n”I’m building a new Safehaven, a place for all. I want you to be a part of it, but it can’t remain the way it is now. It has to be a partnership, we have to work together to support these people. I need your support, your combat prowess. We need you in Safehaven as citizens, not mercenaries.” Showtime pleaded. The mercenaries exchanged glances, not quite convinced. Showtime started to get nervous, wondering if she would indeed have to bring the hammer down on them until, out of nowhere, Mary began to plead with them.\n\n”I was like you once. Looking for nothing but the thrill of combat, stepping on those I believed smaller than me. You have to understand that the people here in Safehaven want to get by, just like you and me and any person in this wasteland. We’re creating something new here, something bold and different. You can help us and be a part of that. You don’t need to fight with us anymore, we can work together to support these people and yourselves. Safehaven can still be your Safehaven, we just need you to leave room for everyone else. Please, nobody needs to die today” Mary nearly begged.\n\nThe mercenaries looked around at each other before one of them, their leader, stood up. “We accept your proposition”.\n\nAll parties breathed easier after that. Later on that day, Showtime would ask Mary why she spoke so passionately, still shocked at seeing her plead with somebody.\n\n”I don’t know what overcame me. I guess I just really care about this place.” She said softly"
+  vsh_vault.32.a:0 "The soldier's heart softens."
+
+  vsh_vault.33.t:0 "...Sold The World"
+  vsh_vault.33.d:0 "She quickly rushed out of her office, rushing to the planned filming room. The crew all looked up at her in confusion as she barged in, stopping in their tracks and simply staring at her. “Start rolling!” Showtime ordered. “Ummm, Mayor this isn’t the time we agreed on, we’re not ready to begin”A crew member stated. “I said, start rolling!” Showtime ordered loudly. The crew rushed to begin, getting the equipment ready. Showtime prepared herself. The crew signaled that it was time to start. “Safehaven. I’ve come to you today to say one thing... I’m-... I am... sorry. Seeing how far we could grow by using the Safehaven Mercenary Companies, I lost sight of the people and fell into greed. I thought that I was improving life for everyone within the nation- when, in reality, it was clearly only the elites and myself I catered to. This is wrong, so so so wrong. I am so angry at myself for losing myself, for losing sight of you, for becoming what I had once fought against. I will abide by it no longer, from now on I promise you, I will serve nothing but the people. I will make sure that equity is achieved. So that nobody will ever go hungry again. So that we will simply not survive, but thrive. For all those I've hurt, I'm so sorry. Please let me fix my mistakes. I owe you that much”"
+  vsh_vault.33.a:0 "And So, Opulance Spread..."
+
+  vsh_vault.34.t:0 "The Stampede Refused!"
+  vsh_vault.34.d:0 "“WHAT THE FUCK WERE YOU THINKING?!” A slighlty humored, but mainly furious Mayor Showtime screamed at Mary. The two of them were in Showtime’s office late in the night. Showtime was just leaving the place when Mary barged in with a child in her hands.\n\n"I didn't expect them to say no! What kind of family would ever refuse the ransom to their own child!" Mary yelled back, still slightly dumbfounded that her plan hadn't worked. “Well, they did! This means now we have the daughter of our enemies, they know we took her which means they’ll be coming for us any day now! Don’t even get me started about where we’re gonna put her!” Showtime said, pointing at Joy. “I’m far too busy to take care of a kid! Can you take care of them, Mary?!” Showtime asked. Mary opened her mouth, but no words came out. She fell silent. "I didn’t think so, Mary! We’re gonna have to drop her off at one of the orphanages or something. We are fucked, Mary. Utterly fucked. Get out of here, I need to figure something out." Mary did not need to be told twice, hurriedly leaving the room awkwardly holding the baby against her chest, a sigh and a giggle to be heard from Showtime as she watched the scene. She reprimanded herself internally, what had she been thinking? She shook her head, staving off those thoughts. She couldn't waste her time regretting her actions, she’d have to come up with a plan. Maybe she could still salvage this. Besides, the kid was kind of cute. "
+  vsh_vault.34.a:0 "She can stay in my room..."

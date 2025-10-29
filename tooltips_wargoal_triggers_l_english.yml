@@ -1,0 +1,13 @@
+﻿l_english:
+  owns_all_core_land_of_prev_tt:0 "All core land of §Y[This.GetNameDef]§! is owned directly by §Y[Prev.GetNameDef]§!.\n"
+  sphere_owns_all_core_land_of_prev_tt:0 "All core land of §Y[Prev.GetNameDef]§! is owned by §Y[This.GetNameDef]§!, their subjects, or their allies.\n"
+  all_core_land_owned_by_prev_sphere_tt:0 "$all_core_land_owned_by_prev_sphere_raw_tt$\n"
+  all_core_land_owned_by_prev_sphere_raw_tt:0 "All core land of §Y[This.GetNameDef]§! is owned by §Y[Prev.GetNameDef]§!, their subjects, or their allies."
+  all_core_land_owned_by_prev_sphere_or_with_bound_REQUIREMENT_tt:0 "$all_core_land_owned_by_prev_sphere_raw_tt$ Countries with $REQUIREMENT$ also count as valid owners.\n"
+  mormons_own_all_core_land_of_prev_tt:0 "All core land of §Y[Prev.GetNameDef]§! is owned by §Y[This.GetNameDef]§! or another country under §YMormon§! influence.\n"
+  all_core_land_owned_by_mormons_tt:0 "All core land of §Y[This.GetNameDef]§! is owned by §Y[Prev.GetNameDef]§! or another country under §YMormon§! influence.\n"
+  sphere_controls_all_core_land_of_prev_tt:0 "All core land of §Y[Prev.GetNameDef]§! is controlled by §Y[This.GetNameDef]§!, their subjects, or their allies.\n"
+  all_core_land_controlled_by_prev_sphere_tt:0 "All core land of §Y[This.GetNameDef]§! is controlled by §Y[Prev.GetNameDef]§!, their subjects, or their allies.\n"
+  country_owns_all_core_land_of_prev_tt:0 "All core land of §Y[Prev.GetNameDef]§! is owned by §Y[This.GetNameDef]§!.\n"
+  has_no_unused_wargoal_tt: "Has no unused §YWargoals§! on other countries."
+  any_core_state_of_this_borders_root_tt:0 "Any core state of §Y[THIS.GetNameWithFlag]§! borders any controlled state of §Y[ROOT.GetNameWithFlag]§!"

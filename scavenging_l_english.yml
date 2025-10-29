@@ -1,0 +1,117 @@
+﻿l_english:
+ ### Decisions ###
+  # category
+  scavenging_decisions:0 "Reclamation Authority"
+  scavenging_decisions_desc:0 "Producing our equipment is all well and good, but the Wasteland is also a treasure trove of ancient secrets waiting to be discovered. This knowledge is often hidden, guarded, and perilous to recover. We can send out search parties to find things in the wastes (risking their lives in the process) at the expense of some caps. Hopefully our teams will return with something we can use."
+
+  # Scavenging Startup
+  begin_scavenging_program_wtt:0 "Begin a Scavenging Program"
+  begin_scavenging_program_wtt_desc:0 "Whilst scavenging for resources has been done in the past, we should begin a comprehensive scavenging program of dedicated procurement specialists under a new Reclamation Authority. They will send teams out to look for anything worthwhile. If they return with something we might need is a matter of fate."
+
+  # Demolish Scavenging program
+  dismantle_scavenging_program:0 "Dismantle Scavenging Program"
+  dismantle_scavenging_program_desc:0 "We have decided to shut down the Reclamation Authority to repurpose manpower and resources set aside for this project. It will also allow us to regain some of the economic investment."
+
+  # Automated Scavenging Mission
+  toggle_scavenging_on:0 "Start Scavenging Missions"
+  toggle_scavenging_on_desc:0 "The Reclamation Authority has mapped out a number of sites that they believe are worth exploring. They await approval to begin operations."
+  toggle_scavenging_on_tt:0 "We can decide what equiptment to give their teams and what they should be looking for."
+  toggle_scavenging_off:0 "Halt Scavenging Missions"
+  toggle_scavenging_off_desc:0 "Notify the Reclamation Authority that they must halt their efforts until we can re-evaluate the specifics of the program."
+  toggle_scavenging_off_tt:0 "§CThe current team will be allowed to complete their mission.§!\n\nHalts future scavenging operations. Allows changing equipment and orders when missions start again."
+  scavenging_mission_automated:0 "Scavenging Mission Active"
+  scavenging_mission_automated_desc:0 "The Reclamation Authority is currently sending out scavenging teams. They will continue to do so until we order them to halt."
+  repeat_scavenge_tt:0 "§COur scavenging missions will continue.§!"
+  repeat_scavenge_supplies_tt:0 "§ROur scavenging missions will halt unless we regain the required manpower and equipment in our stockpile.\n§!"
+  repeat_scavenge_orders_tt:0 "§C\nScavengers will remain under special orders, reducing their chance of finding anything.§!"
+  repeat_scavenge_result_tt:0 "§Y\nWe receive a mission report:§!"
+
+  # Events #
+  # Scavenging start equipment
+  scavenge.101.t:0 "Equip our Scavengers"
+  scavenge.101.d:0 "Balancing the needs of different groups in our administration is a delicate task. Everyone thinks their work is the most important and deserving of resources; the Reclamation Authority is no different.\n\nObviously, we need to provide them with the right tools to do their job, but can we afford to give them everything they ask for?"
+  scavenge.101.a:0 "Standard Equipment"
+  scavenge.101.a.tt:0 "Scavenger teams will not be provided any additional equipment.\n\n"
+  scavenge.101.b:0 "Vehicles"
+  scavenge.101.b.tt:0 "Scavenger teams will be able to carry more while going farther and faster in vehicles.\n\n"
+  scavenge.101.c:0 "Power Armour"
+  scavenge.101.c.tt:0 "Scavenger teams with power armor will be willing to explore more dangerous and lucrative pre-war sites.\n\n"
+
+  # Scavenging start orders
+  scavenge.102.t:0 "Scavenging Orders"
+  scavenge.102.desc:0 "The Reclamation Authority suggests granting our scavengers operational autonomy to have the best chances of a successful mission.\n\nHowever, if [Root.GetLeader] thinks there is something specific our people need to prioritize finding, they can be given direct orders.\n\nIf a scavenging team is unable to locate what they were ordered to, they may return with something else of value. Nevertheless, potentially useful salvage may be overlooked in the pursuit of the current objective."
+  scavenge.102.a:0 "No Orders"
+  scavenge.102.a.tt:0 "Our scavengers will have discretion to find and bring back anything of value.\n\n§GTeams will have a greater chance of finding something useful.§!"
+  scavenge.102.b:0 "Electronics"
+  scavenge.102.b.tt:0 "Our scavengers will focus on finding rare electronics and robotics technology.\n\n§CTeams will have a reduced chance of finding anything at all, but if they find something there is a much greater chance of it fulfilling the order.§!"
+  scavenge.102.c:0 "Land Combat"
+  scavenge.102.c.tt:0 "Our scavengers will focus on finding anything that may give us land combat advantages.\n\n§CTeams will have a reduced chance of finding anything at all, but if they find something there is a much greater chance of it fulfilling the order.§!"
+  scavenge.102.d:0 "Air and Naval"
+  scavenge.102.d.tt:0 "Our scavengers will focus on finding anything that may improve our air or naval technology.\n\n§CTeams will have a reduced chance of finding anything at all, but if they find something there is a much greater chance of it fulfilling the order.§!"
+  scavenge.102.e:0 "Industry"
+  scavenge.102.e.tt:0 "Our scavengers will focus on finding rare industrial technology and schematics.\n\n§CTeams will have a reduced chance of finding anything at all, but if they find something there is a much greater chance of it fulfilling the order.§!"
+  scavenge.102.f:0 "Politics and Philosophy"
+  scavenge.102.f.tt:0 "Our scavengers will focus on finding old books that may better explain to us how the Old World worked.\n\n§CTeams will have a reduced chance of finding anything at all, but if they find something there is a much greater chance of it fulfilling the order.§!"
+
+  # Running out of manpower or equipment 
+  scavenge.103.t:0 "Scavenging Logistics Issue"
+  scavenge.103.d:0 "A report came in this morning that the Reclamation Authority has not received supplies for their next scavenging mission. They were notified in response that we are having a broader issue with our logistics.\n\nWe should meet with them soon to figure out next steps."
+  scavenge.103.a:0 "We will rectify the situation."
+  scavenge.103.a.tt:0 "The Reclamation Authority will wait for supplies and orders before operating any more scavenging missions.\n\n§YYou must click Start Scavenging Missions again in Decisions.§!"
+
+  # foot scavers
+  scavenge.1.t:0 "The Scavengers Found Something!"
+  scavenge.1.d:0 "In the ruins of a pre-war site, our scavengers found something that caught their eye. Time will tell whether it was worth the blood and sweat they paid for it."
+  scavenge.1.a:0 "Better in our hands than our enemies."
+
+  scavenge.2.t:0 "The Old World Blues"
+  scavenge.2.d:0 "Our scavengers have failed to find something, spending weeks in the Wastes in pursuit of old dreams. The scavengers are so obsessed with the past they can't see the present, much less the future, for what it is. And so they wasted their times on a fools errand, for what?"
+  scavenge.2.a:0 "Finding nothing, they stare into the what-was, guttering and spent."
+
+  scavenge.3.t:0 "Deathclaws Ate Our Team!"
+  scavenge.3.d:0 "[ROOT.GetLeader], terrible news. A pack of deathclaws set upon our scavenging expedition, stripping their flesh like gecko on a stick. The few bloody survivors have sworn never to visit that site again. "
+  scavenge.3.a:0 "This is a terrible day for our men and nation."
+  scav_deathclaw_tt:0 "§gSome of our team managed to make it back to our lands, bringing with them horrifying tales...§!\n"
+
+  # Mot scavers
+  scavenge.5.t:0 "The Scavengers Triumph!"
+  scavenge.5.d:0 "In the ruins of a pre-war site, our scavengers found something that caught their eye. A caravan of trucks is bringing the expedition's plunder back to [Root.Capital.GetName]. This is a great triumph for us!"
+  scavenge.5.a:0 "A mighty step into the future."
+
+  scavenge.6.t:0 "Our Scavengers Found Nothing!"
+  scavenge.6.d:0 "Despite the flat tires, the blood lost, and the fuel spent, we found nothing in our scavenging expedition. But perhaps [Root.GetLeader], the real reward was the friendships formed?"
+  scavenge.6.a:0 "Get out of my office."
+
+  scavenge.7.t:0 "Deathclaws Ate Some of Our Team!"
+  scavenge.7.d:0 "It appears that a deathclaw ate one of our motorcycles and the people on it. The survivors fled as quickly as possible, but more of them were left behind when the trucks drove off. This is pretty embarrassing."
+  scavenge.7.a:0 "Maybe we should have given them power armor instead."
+
+  # Power armour scavers
+  scavenge.9.t:0 "Our Scavengers Return in Triumph!"
+  scavenge.9.d:0 "Neither raider nor deathclaw nor super-mutants will stop our scavengers. They have returned to [Root.Capital.GetName], their power armor caked in blood and grime. Let this example show the potential for our future."
+  scavenge.9.a:0 "Time for some new world hopes."
+
+  scavenge.10.t:0 "Scavengers Return Empty Handed"
+  scavenge.10.d:0 "Apparently providing a power armour escort to our scavengers kept them safe, but it made them no more successful. Oh well, it's not like we needed that armour for our military. Did we?"
+  scavenge.10.a:0 "Well that was pointless."
+
+  scavenge.11.t:0 "Power Armour Scavengers Attacked!"
+  scavenge.11.d:0 "I don't understand how, [Root.GetLeader], but our scavengers were attacked. A band of raiders in power armour launched a coordinated strike upon our scavengers and created an epic battle that left dozens dead. The ensuing battle wiped out a nearby village, and many of the raiders died, but we had to retreat."
+  scavenge.11.a:0 "How can raiders field power armour?"
+
+  # Scavenging project initiated
+  scavenge.15.t:0 "The Reclamation Authority"
+  scavenge.15.d:0 "[Root.GetLeader] has decided to construct a Reclamation Authority, devoted to promoting scavenging in the Wasteland. This will give our nation expertise in scouring the Wastes."
+  scavenge.15.a:0 "The Old World's secrets will be ours!"
+
+  # Scaving dismantled
+  scavenge.16.t:0 "End Scavenging"
+  scavenge.16.d:0 "Scavenging is a fool's errand. Let us look forward, not backwards."
+  scavenge.16.a:0 "There were better plans."
+
+ # Ideas #
+
+  # Flags #
+  scavenging_underway:0 "Scavenging Underway"
+  scavenging_enabled:0 "Has A Scavenging Program"
+  scavenging_dismantling:0 "Dismantling Scavenging Program"

@@ -1,0 +1,496 @@
+﻿l_english:
+
+  #tooltips (don't worry about this, Lusa!)
+
+  nightkin_dna_tt:0 "We will unlock §YNightkin DNA§! in the §GReplicator§!!"
+  fairy_dna_tt:0 "We will unlock §YFairy DNA§! in the §GReplicator§!!"
+  elemental_dna_tt:0 "We will unlock §YElemental Infusion§! in the §GReplicator§!!"
+  ghoul_dna_tt:0 "We will unlock §YGhoul Sequencing§! in the §GReplicator§!!"
+  nightkin_dna_unlocked:0 "We must have Nightkin DNA!"
+  fairy_dna_unlocked:0 "We must have Fairy DNA!"
+  ghoul_dna_unlocked:0 "We must have unlocked the secret of Ghoulification!"
+  element_dna_unlocked:0 "We must have learned to merge humankind with elemental power!"
+  repair_decisions_tt:0 "We will unlock decisions to §Grepair§! the various segments of §YMANIFEST North§!!"
+  longshot_decisions_tt:0 "We will unlock decisions to §Grepair§! §YMANIFEST Alberta§!!"
+  destiny_coup_tt:0 "§RWe will unlock decisions to undermine Destiny's control!§!"
+  sheriff_charge_tt:0 "§RWe will unlock decisions to keep the Gateway Gang under our control!§!"
+  contact_hope_tt:0 "Destiny will §Gcontact her sister§! at §YMANIFEST Saskatchewan§!!"
+  manifest_keycard_flag:0 "We must have a §YMANIFEST Platinum Access§! card!"
+  cleared_lab_tt:0 "We must §Mclear the respective part of the lab§! in the §Gdecisions§! tab!"
+  replicator_tt:0 "§gWe will unlock decisions to§! §Ochange our troopers DNA on the fly§!-- §gbut beware,§! §Ryou can only have one at a time!§!"
+  fairy_dna_decision_tt:0 "§MFairy DNA§! §Gbecomes available in the sequencer!§!"
+  nightkin_dna_decision_tt:0 "§MNightkin DNA§! §Gbecomes available in the sequencer!§!"
+  ghoul_dna_decision_tt:0 "§MGhoul DNA§! §Gbecomes available in the sequencer!§!"
+  elemental_dna_decision_tt:0 "§MElemental Infusion§! §Gbecomes available in the sequencer!§!"
+  parahumanity_tt:0 "§RWe will merge the DNA using our newfound interpolator, creating the perfect parahuman sequencing.§!"
+  tpa_labs_opened_flag:0 "The Biology Labs must be opened first!"
+  tpa_fenrir_warning_tt:0 "§RWe will unleash the banished beast, FENRIR, and be forced to confront MANIFEST's past head-on.\n\nBe ready-- you'll wish it came easily.§!"
+  TPA_scrapyard_oob_tt:0 "Creates §Y3§! Divisions of §YSupport Robots§!!"
+
+  #traits for destiny
+
+  tpa_destiny_trait_1:0 "The Thinking Woman"
+  tpa_destiny_trait_2:0 "Little Red Riding Hood"
+  tpa_destiny_trait_3:0 "MANIFEST Destiny"
+  tpa_destiny_trait_4:0 "From Sea to Shining Sea"
+  tpa_destiny_advisor_trait:0 "Child Of Loke"
+  ######
+  ### Decisions
+  ######
+
+  tpa_restoring_labs:0 "Restoring The Labs"
+  tpa_restoring_labs_desc:0 "               " # Note: Empty Whitespace Necessary for Deccat GFX to Function, Do Not Delete
+  tpa_reestablish_communication:0 "Reestablishing the Communication Network"
+  tpa_military_industry:0 "Production Wing Restorations"
+  tpa_biology_labs_decision:0 "The Biology Labs Entrance"
+  tpa_red_fern_card:0 "The Redhouse"
+  tpa_dna_replicator_decision:0 "The DNA Replication Wing"
+
+  TPA_august_name:0 "August, the Gunman"
+  TPA_milo_name:0 "Milo, the Mechanic"
+  TPA_maxwell_name:0 "Maxwell, the Wickerman"
+  TPA_hope_prototype_name:0 "HOPE 1.0"
+
+  tpa_dna_swaparoo:0 "DNA Replication Wing"
+  tpa_normal_genome_decision:0 "Establish Genome Sequencing Baseline"
+  tpa_nightkin_genome_decision:0 "Infuse With Nightkin Genome"
+  tpa_fairy_genome_decision:0 "Infuse With Fairy Genome"
+  tpa_elemental_genome_decision:0 "Infuse With Elemental Genome"
+  tpa_ghoulification_genome_decision:0 "Infuse With Ghoul Genome"
+  tpa_parahuman_genome_decision:0 "Infuse With The Ultimate Genome"
+
+  ######
+  ### Focus Openers
+  ######
+
+  tpa_one_gun_in_town:0 "This Pretty Girl Runs a Haunted House"
+  tpa_one_gun_in_town_desc:0 "Destiny runs the show out here-- a dismal nightmare far from society."
+
+  tpa_unfortunate_souls:0 "The Scarlet Blizzard, and Other Lovely Nightmares"
+  tpa_unfortunate_souls_desc:0 "She was never the sort to let people have their fun. After all, there was always more that needed doing-- and if she couldn't move, she'd make them wish she could."
+
+  tpa_the_scarlet_blizzard:0 "Katch Prison Blues"
+  tpa_the_scarlet_blizzard_desc:0 "Hard times come when you're down on your luck. Even moreso when you're down in your luck in Fort Cap Hell's Supermax..."
+
+  ######
+  ### Focus Left - Opener
+  ######
+
+  tpa_within_the_lab:0 "MANIFEST Clean-Up"
+  tpa_within_the_lab_desc:0 "§RMANIFEST North was one of the largest facilities ever built by the company, sport. A bunch of its most prominent experimentation sites are located right here. What do you say we turn this place upside down and see what we can't get kickin' again?§!"
+
+  tpa_biology_labs:0 "The Biology Labs"
+  tpa_biology_labs_desc:0 "§RThis here is where we did all the fun stuff, sport. Exploding a human DNA strand and then reconstructing it-- all the little miracles. We're gonna do it all over again, but this time, we're gonna make it right.§!"
+
+  #######
+  ### Focus Left - Communications / MANIFEST Hardware Integration. this stuff is for when you acquire HOPE, other MANIFEST bunkers, or Fenrir, ### etc.
+  #######
+
+  tpa_communication_station:0 "Regarding Other Fine Fellows"
+  tpa_communication_station_desc:0 "§RListen, we ain't the only one that ever existed, as you might've guessed. There's at least three other MANIFEST facilities I'm getting a ping from. As luck would have it, we have a good old fashioned radio tower not far from here. Repair it, and I'll tell you what, champ: there'll be a barbeque in your name when this is all over.§!"
+
+  tpa_destiny_deputies:0 "Minor Deputies"
+  tpa_destiny_deputies_desc:0 "§RPlenty of old robots and other 'deputies' are out in the wilds. With this communication set-up back up and running, we'll call them all home, whether they want it or not-- and they're gonna listen.§!"
+
+  tpa_manifest_metis:0 "MANIFEST Regina"
+  tpa_manifest_metis_desc:0 "§RSee, the MANIFEST facility in Regina was a special kind-- more of a headquarters, really, though it was never officiated. This here's where I was REALLY born, and where we can really mess with other MANIFEST properties.§!"
+
+  tpa_ragnarok_destiny_factoria:0 "Revitalizing Old Production Lines"
+  tpa_ragnarok_destiny_factoria_desc:0 "§RPlenty of old fuel around here, sport. Why don't we grease up these lines and see what it's got cooking?§!"
+
+  tpa_ragnarok_destiny_trait:0 "Manifesting Destiny"
+  tpa_ragnarok_destiny_trait_desc:0 "§RHoo-wee! Now there's a cold glass of Nuka-Cola's worth of code for you to digest, sport. Nice job on that-- I feel my head's clearer than it's ever been. Nice to know I can always keep improvin', right?§!"
+
+  tpa_ragnarok_destiny_prototype:0 "A Snake In My Boot"
+  tpa_ragnarok_destiny_prototype_desc:0 "§RWe-hell, look at that...§!"
+
+  tpa_pleasantdale_bunker:0 "MANIFEST Saskatchewan"
+  tpa_pleasantdale_bunker_desc:0 "§RI'd say break out the red carpet, but she's more of a blue type of girl, so we'll oblige. She's my sister, after all.§!"
+
+  tpa_integrating_hope:0 "Sisters Forever"
+  tpa_integrating_hope_desc:0 "§MI'm so looking forward to working with you again, Destiny!§! \n\n§ROh, trust me-- it's gonna be a real hoot.§!"
+
+  tpa_fenrir:0 "MANIFEST Montana"
+  tpa_fenrir_desc:0 "§RThis one's a bit more of a dejected facility, really, the one that slipped by the records and was left by the wayside. In any case, it looks like some strange cult-folks set up shop here in between all this 'Brotherhood' hubbub. Better to burn 'em out than let 'em keep fiddling with company property.§!"
+
+  tpa_kill_fenrir:0 "The Wolf God's Folly"
+  tpa_kill_fenrir_desc:0 "§RGuess he's still kicking after all. Thought we got rid of him, but I guess some bastards just don't know when to let go.§!"
+
+  tpa_embrace_fenrir:0 "A Stain Upon MANIFEST History"
+  tpa_embrace_fenrir_desc:0 "§RHe ain't worth it, champ. Trust me on this one.§!"
+
+  tpa_reintegrating_fenrir:0 "The Last Showdown"
+  tpa_reintegrating_fenrir_desc:0 "§RHe's the last skeleton in my closet, and killing him just doesn't come easy-- not when he's practically a virus, but we're gonna kill him anyway. Ain't that a bitch?§!"
+
+  tpa_longshot_arcbolt:0 "MANIFEST Alberta"
+  tpa_longshot_arcbolt_desc:0 "§RA shell facility that was once scoured in Edmonton, MANIFEST Alberta was supposed to be the start of a new move for the company. Too bad the budget didn't allow it. Tsk, tsk. Now, we get to use that space to move in ourselves...§!"
+
+  ######
+  ### Focus Left - Mild Industry stuff. This includes and will include a silly event where you have to pick a side between a fight of American ### ghouls and Chinese ghouls who are at war. This could be a silly place to put some of her bullshit propaganda, maybe?
+  ######
+
+  tpa_mil_ind_restorations:0 "The Production Wing"
+  tpa_mil_ind_restorations_desc:0 "§RIf the biology lab is where the magic is made, then this is where the spells were first crafted. Take a good, long look-- we're gonna be able to do a helluva lot with this."
+
+  tpa_american_occupation_materials:0 "What Little Funding We Had"
+  tpa_american_occupation_materials_desc:0 "§RThe United States gave us a decent enough budget. 'Course, eggheads didn't know how to spend it worth a dime, but it got me in the mix and I think that's a pretty good trade, all things considered. You can imagine where the bias might come from.§!"
+
+  tpa_american_medicinal_practices:0 "The Werewolf of MANIFEST North"
+  tpa_american_medicinal_practices_desc:0 "§RWell, I'll be damned-- did you just see that?!§!"
+
+  tpa_american_construction_complex:0 "Repairing Collapsed Roofs"
+  tpa_american_construction_complex_desc:0 "§RThis place might as well be swiss cheese... Wait, do you even know what that is, hon?§!"
+
+  tpa_american_construction_military:0 "What Remained of the Infantry"
+  tpa_american_construction_military_desc:0 "§RAmerican guns guarded this facility, once. They oversaw their own cute little fortification just a bit north aways. Let's clear out the Umbravores there and see what we can't do with it."
+
+  tpa_american_construction_thoughts:0 "American Ways of Life"
+  tpa_american_construction_thoughts_desc:0 "§RYou look up stuff in your database sometimes and you see folks like John D. Rockefeller, Andrew Carnegie, Henry Ford, and you really start to wonder-- where did men like THAT run off to? Now it's just a bunch of cracked noggins and mouthbreathing morons who can't tell an icicle from ice cream. And that, hon, is where you and I come in.§!"
+
+  tpa_communist_remnants:0 "Ghost Stories"
+  tpa_communist_remnants_desc:0 "§RTurns out we're not the only relics in the Blizzard: there's an old feud between two little packs of ghouls, right on our back porch.§!"
+
+  tpa_sided_with_americans:0 "Deluded Soldiers"
+  tpa_sided_with_americans_desc:0 "§RAmerica's old news, I ain't forgettin' that. MANIFEST is always what came first outside of how pretty money could be. Now, when you told me there were livin', breathin' Americans under my nose, I giggled a little bit. What was I gonna do to them that they didn't already do to themselves? Well, instead of killin' 'em, why don't we throw a few of our cards out their way? See what that gets us long-term.§!"
+
+  tpa_sided_with_communists:0 "Lost Dragoons"
+  tpa_sided_with_communists_desc:0 "§RLook at that! Genuine Chinese Dragoons who've been stuck out in the Scarlet Blizzard since before the war. Now, I ain't one to endorse corporate espionage, but I see a fine opportunity here in their cries. I mean, how unlucky do you have to be to be stuck here for two centuries? Maybe we can squeeze this our way.§!"
+
+  tpa_secured_air_base:0 "Moose Lake Air Base"
+  tpa_secured_air_base_desc:0 "§RIt seems the USA forces within the area had a secret landing area they had been making use of for their operations since before the war. That's cute. Whatever the case may be, it is now open to us. Why don't we make use of it?§!"
+
+  ######
+  ### Focus Left - DNA Replicator stuff. It's done as of now, but you can rewrite if you'd like :pleading_face:
+  ######
+
+  tpa_the_replicator:0 "DNA Replications Chamber"
+  tpa_the_replicator_desc:0 "§RSee here, sport, this is where the money was made. If you can make a man shoot fire from his fingertips, you can make ol' Saint Nicolas sing any tune you like. The Replications wing's how I made ya'll into what you are. Fixin' it up means we can make a helluva lot more like you, too.§!"
+  tpa_fairy_genome:0 "Fairy Genome"
+  tpa_fairy_genome_desc:0 "§RSo those folks out there are calling them "Fairies," you say? Well, I can't say that's the word I'd have used, but hell, if we can use their DNA, I ain't about to look a gift horse in the mouth. These friends of yours seemed pretty agile; I'm willin' to bet we can make you dance just like they did, with enough kick to boot.§!"
+  tpa_ghoul_sequencing:0 "Ghoul Sequencing"
+  tpa_ghoul_sequencing_desc:0 "§RWhen nuclear hellfire came over the world, I figured it was over and out for little old me. Thought things would get real lonely, you see? But turns out it didn't. Half the staff that was left had burns so bad they ended up healing right back up. Sure, I may have tinkered with them a little bit, but there ain't nothing I've seen that says we can't put that regeneration on your average Dave or Buster, sport.§!"
+  tpa_nightkin_genome:0 "Nightkin Genome"
+  tpa_nightkin_genome_desc:0 "§RHoo-wee! These folks sure are something, ain't they? Big, blue, and meaner than a dog who ain't had any kibble in a week. Now THAT is something we can use, champ! See now, I bet you I can isolate the ideal parts of their scheme and shove 'em into your soup. Imagine this: "A world where bein' big don't mean a thing." Rolls off the tongue like taffy, don't it?§!"
+  tpa_elemental_infusion:0 "Elemental Infusion"
+  tpa_elemental_infusion_desc:0 "§RThere ain't a man or woman alive who don't turn their heads when they see a paying MANIFEST customer flick their fingers and light a cigarette just like that. Now imagine the sorta things we could do if we went even deeper into it. Making ice cubes with a snap, shootin' lightning from your eyes... We live in an age of dreams, sport. And we ain't ever lookin' to wake up.§!"
+  tpa_parahuman:0 "Parahumanity"
+  tpa_parahuman_desc:0 "§RSee, with these sorts of dilemmas, you run into the issue of parahumanity. Folks too far gone, if you can believe it, sport. Now, thankfully, we live in a world where there isn't any corporate nancies to tell us how we ought to think about things, and the way I see it, we ain't those kinds of folks. Normally we have folks on a limited trial; smoke a Lucifer, drink a Tonic, and get all the power you want for a good hour or two. 'Course, you and me, champ? We're here to stay in business for good. You get the whole package.§!"
+
+  ######
+  ### Focus Left - Fairy Glen stuff. This is for if Destiny acquires Fairy Glen-- if I may poke, perhaps name drop Leshy?
+  ######
+
+  tpa_the_red_fern:0 "The Red Fern"
+  tpa_the_red_fern_desc:0 "§RThis. This here was the holy grail-- a plant that could make something into something entirely different. It's all a girl ever needs...§!"
+
+  tpa_postmodern_horrors:0 "Post-Modern Horrors"
+  tpa_postmodern_horrors_desc:0 "§RWe've seen plenty of them out in the Blightwood, but these 'faeries' sure are something, huh? What really gets me is WE didn't make 'em. I should know; I've seen the files.§!"
+
+  tpa_agriculture_research:0 "The Wonders We Left Behind"
+  tpa_agriculture_research_desc:0 "§RMANIFEST Saskatchewan and all its adorable little satellite sites have so much left for us to plunder. Red Fern research is just the tip of the iceberg.§!"
+
+  tpa_pleasantdale_population:0 "The Plump Nobility"
+  tpa_pleasantdale_population_desc:0 "§RWoo-wee! Look at that. These nobles in Pleasantdale sure are chunky for a bunch of wastelanders and vagabonds, huh? I always wanted to see how much you could pump into someone like that before they burst. Is there a maximum capacity, I wonder? We'll just have to see... And maybe, we'll get some we can keep around.§!"
+
+  tpa_mutated_things:0 "Starting Small"
+  tpa_mutated_things_desc:0 "§RSome folks say I don't know anything about restraint! The nerve of em. Once I'm done with the first round of testing, they can serve in the second.§!"
+
+  tpa_fairy_tech:0 "Their Own Little Monsters"
+  tpa_fairy_tech_desc:0 "§RNow, look at that, sport-- the Faeries came from here. Little HOPE was responsible for it. Should have known she'd want to make some toys of her own! Ain't it a helluva thing?§!"
+
+  tpa_fairy_tech_upgrade:0 "Monsters, Imp."
+  tpa_fairy_tech_upgrade_desc:0 "§RNow that these Sisters are back together, I have a few ideas how we can improve her products. After all, two heads are better than one. Hmm, two headed fairies..... nah, they don't need to be thinking too much.§!"
+
+  ######
+  ### Focus Right - Opening
+  ######
+
+  tpa_outside_the_lab:0 "Confronting the Blizzard"
+  tpa_outside_the_lab_desc:0 "§ROut here in the blizzard, life ain't fair. It's my job to make sure that stays the case.§!"
+
+  ######
+  ### Focus Right - The Pass
+  ######
+
+  tpa_the_pass:0 "Tales from The Pass"
+  tpa_the_pass_desc:0 "The Pass is a town for those lost between the Great North and the Scarlet Blizzard. What you were before doesn't matter here-- you're all trapped between two hells, anyway."
+
+  tpa_drinking_water:0 "Seizing Drinking Water"
+  tpa_drinking_water_desc:0 "The people of The Pass sustain themselves off of a series of heated wells and old MANIFEST supply trucks. Funny thing is that nobody can stop us from securing it."
+
+  tpa_assess_the_junkers:0 "Assessing Junkers"
+  tpa_assess_the_junkers_desc:0 "§RImagine being so smart you can fuck up a machine but dumb enough to think you can go under my nose.§!"
+
+  tpa_old_manifest_machines:0 "Old Metal Bones"
+  tpa_old_manifest_machines_desc:0 "§RIf they won't bark when I call, it's better to rip 'em up and write them off as claims.§!"
+
+  tpa_rebooting_their_protocols:0 "Red Light, Green Light"
+  tpa_rebooting_their_protocols_desc:0 "§RWith enough elbow grease, Milo can work a wonder.§!"
+
+  tpa_maybelline:0 "Mayor Maybelline"
+  tpa_maybelline_desc:0 "§RDo what you want with her, I don't care-- just make sure that town's off the map, would you?§!"
+
+  tpa_new_recruits:0 "Pulling from Locals"
+  tpa_new_recruits_desc:0 "§RThe folks from The Pass can be used to our advantage. Throw 'em in the circuits and see who sticks.§!"
+
+  tpa_make_them_work:0 "Making Them Work"
+  tpa_make_them_work_desc:0 "§RNot every conveyer belt listens when I call the shots, son. Who's to say we can't use our newfound pals to fix 'em up, sport?§!"
+
+  tpa_clearing_snow:0 "Storm the Blizzard"
+  tpa_clearing_snow_desc:0 "§RI know the Blizzard ain't the best thing for ya'll to be walking around in, but it keeps us away from most morons and lets me think easy. That being said, everybody's gotta do some house cleaning every now and then...§!"
+
+  tpa_encourage_work:0 "Encouraging Work"
+  tpa_encourage_work_desc:0 "§RI know the value of a good bit of diplomacy, son, and I doubt these people are gonna be real polite to us if we just throw 'em into the fire. That's not to say that's not what I WANT to happen, but sometimes you gotta compromise in life.§!"
+
+  tpa_the_gang_spreads_the_curse:0 "The Gang Spreads the Curse"
+  tpa_the_gang_spreads_the_curse_desc:0 "§RFind me some of those roughnecked folks like Maxwell. I want to see what lets them stay alive...§!"
+
+  tpa_hunting_umbravores:0 "Hunting Umbravores"
+  tpa_hunting_umbravores_desc:0 "§RFunny story-- one time some weird knights from that there 'Kingdom' down south came up this way. Spat 'em out like tobacco, but not 'fore I threw them into the grinder with some Umbravore DNA. It went about as well as you'd imagine.§!"
+
+  tpa_reopening_the_winnipeg_cannery:0 "Reopening the Winnipeg Cannery"
+  tpa_reopening_the_winnipeg_cannery_desc:0 "§RThere's plenty of fish to be had in the sea.§!"
+
+  tpa_the_blightwood:0 "The Blighted Woods"
+  tpa_the_blightwood_desc:0 "§RThe Scarlet Blizzard swings whichever way it likes. It ain't my fault it made a mess-- and I don't particularly care if it did either, sport, but some folks seem to think it's as fine a place as any to settle. We're gonna fix that.§!"
+
+  tpa_smiling_jacks_hollow:0 "Smiling Jack's Hollow"
+  tpa_smiling_jacks_hollow_desc:0 "§RSee, this 'Smiling Jack' character was one heck of a guy-- a real fighter, he was, 'til I cooked his brain and stretched him like taffy. Now he's a gibbering mess of a monster, and he's in the way. Kill him.§!"
+
+  tpa_dammed_war:0 "The Dammed?"
+  tpa_dammed_war_desc:0 "§RThe... The Dammed? Not Damned? Oh. Oh wait. \n\nI see. So it's a joke. \n\nWell... Let's... Let's 'damn'-- or wait, no, I mean 'dam' them to hell, sport.§!"
+
+  tpa_dam_secured:0 "Dam-Nation"
+  tpa_dam_secured_desc:0 "§RNow just time to figure out what the heck we're gonna do with this thing.§!"
+
+  tpa_learning_from_jack:0 "Taking Notes on Jack"
+  tpa_learning_from_jack_desc:0 "§RThe Mountaineers to the south and us have repelled Jack and his ragtag bunch of freaks for years. We oughta really analyze what he was like, sport, because chances are we might run into another like him some day. I threw out a LOT of things.§!"
+
+  tpa_clearing_blight:0 "Clearing the Blight"
+  tpa_clearing_blight_desc:0 "§RI don't give a rat's ass about pollution or whatever else kinda nonsense Milo keeps spouting on and on about. I want these freaks cleaned up and their guts in a lab.§!"
+
+  tpa_the_silent_woods:0 "The Silent Woods"
+  tpa_the_silent_woods_desc:0 "§RSomethin' funny, sport: there's some nasties out in the west that aren't mine, but they sure act like they're hopped up on something fierce. Let's clear that out, and fast.§!"
+
+  tpa_cleaning_up_fae:0 "Mopping Up Faerie Remains"
+  tpa_cleaning_up_fae_desc:0 "§RI don't know what these things are, but boy do I wanna figure it out...§!"
+
+  tpa_nunavut_war:0 "Nunavut? Here?"
+  tpa_nunavut_war_desc:0 "§RWhen I heard they were called 'Nunavut,' I stopped all my systems for a second. So I guess they're just naming themselves after the province, or... Well, I don't really know, or care to know. Point is I'm not gonna let some Inuit expedition stop me from working, and you're gonna help me send that message, son.§!"
+
+  tpa_nunavut_benefit:0 "Clearing Out Settlements"
+  tpa_nunavut_benefit_desc:0 "§RWithout their settlements here, we can afford to put more nice little MANIFEST investments across the river. Ain't that a treat?§!"
+
+  tpa_soothe_your_sorrows:0 "§RDESTINY§! Arrives"
+  tpa_soothe_your_sorrows_desc:0 "§RWe-hell, look at that. We've got a whole bona fide civilization on our hands... Time to test our toys.§!"
+
+  tpa_wakaw:0 "The Good Works of Doctor Toboggan"
+  tpa_wakaw_desc:0 "§RFor a freak, he sure has a lot to say about science. I think I'll keep this one.§!"
+
+  tpa_nightkin_dna:0 "The Freakshow"
+  tpa_nightkin_dna_desc:0 "§RAmazing! A whole asylum full of stealth-boy-afflicted mutants? This is one for the books.§!"
+
+  tpa_stoon:0 "Saskatoon Rumble"
+  tpa_stoon_desc:0 "§RIf you ever wanna know why I don't have much tolerance for morons, look no further than here, sport. This was the capital of Saskatchewan once, and they just gave up on calling it anything other than 'Stoon' and would rather eat each other than apply themselves. If they had picked themselves up by the bootstraps, maybe things would have gone different.§!"
+
+  tpa_bucking_bronco:0 "The Rodeo"
+  tpa_bucking_bronco_desc:0 "§RBetween the industrial belt in Dundurn and the trainyards around Stoon, we could stand to really upgrade our transportation efficiency... Especially if we put these fools to work.§!"
+
+  tpa_pleasantdale:0 "Legacy of Fenrir"
+  tpa_pleasantdale_desc:0 "Between Hope and this 'Spectral Cabal,' it seems the old legends just don't really go away, do they?§!"
+
+  tpa_fairy_glen:0 "The Last Bastion of Their Hideous Kind"
+  tpa_fairy_glen_desc:0 "§RMutated child soldiers that can't speak? Why, it's such a wonderfully terrible plan... If only I could have been there to see it myself. The fact Hope even partook in it! Madness in all the best ways.§!"
+
+  tpa_destinys_inferno:0 "Destiny's Inferno"
+  tpa_destinys_inferno_desc:0 "§RWith this land and our own pushes forward, who can really stand against me now? Son, you've done a wonderful job-- I think you and I are gonna go real nice and far with this attitude, just you wait.§!"
+
+  tpa_the_other_company:0 "The OTHER Company"
+  tpa_the_other_company_desc:0 "§RLook, I ain't a fool-- much as I love MANIFEST, I can... Admit we aren't the most well-oiled machine. Middlemark at least had a gosh darn focus. That's why we're just going to... Take what we can, and never mention this again.§!"
+
+  tpa_the_silo:0 "Nuclear Mayhem"
+  tpa_the_silo_desc:0 "§RImagine this, sport-- me, with a gun pointed at the head of the world. Nobody would be able to stop me. \n\nWe live in that reality.§!"
+
+  tpa_the_destiny_of_canada:0 "MANIFEST §RDestiny§!"
+  tpa_the_destiny_of_canada_desc:0 "§R'For the lack of a better name.'§!"
+
+  tpa_fort_cap_hell:0 "Out of the Frying Pan..."
+  tpa_fort_cap_hell_desc:0 "§RFort Cap Hell's a whole damn prison full of people like you, son... And we just got the keys. \n\nWe're just getting started.§!"
+
+  tpa_macarthur:0 "A Real American Bastion"
+  tpa_macarthur_desc:0 "§RThe 'Enclave.' Really? No, seriously. This is America? See, this is where I'm happy that my loyalty was only ever programmed to be towards MANIFEST. This sorta thing... Well, it's just embarrassing.§!"
+
+  #########
+  ### Military branch
+  #########
+
+  tpa_a_raider_army:0 "An Army of Idiots"
+  tpa_a_raider_army_desc:0 "§RSport, I know what you're thinking-- why the hell do I keep raiders around as my best company? Well, it's easy, really. Raiders are stupid and self-interested. I offer them the world like an apple, and son, they bite it harder than anyone else even if it hurts. Then, when they're dependent, there ain't a damn thing they can do but listen to me. Just like you.§!"
+
+  tpa_appointing_a_proper_deputy:0 "Deputizin'"
+  tpa_appointing_a_proper_deputy_desc:0 "§RI can't run the whole show by myself-- well, I could, but that just ain't fun, now, is it? So I'm gonna pick one of you three as my best, and son, you're gonna make mountains out of mole hills.§!"
+
+  tpa_mutating_loyalty_genes:0 "Mutating Loyalty Into You"
+  tpa_mutating_loyalty_genes_desc:0 "§RIt's a funny sorta thing, son-- you're already stuck with me for life at this rate, but I'm a woman who loves some security in her life.§!"
+
+  tpa_milo_deputy:0 "Deputy Milo"
+  tpa_milo_deputy_desc:0 "The Machinist takes the badge!"
+
+  tpa_maxwell_deputy:0 "Deputy Maxwell"
+  tpa_maxwell_deputy_desc:0 "The Mad Dog takes the badge!"
+
+  tpa_august_deputy:0 "Deputy August"
+  tpa_august_deputy_desc:0 "The Middleman takes the badge!"
+
+  tpa_robotics_investment:0 "Milo's Craft"
+  tpa_robotics_investment_desc:0 "Milo always had a knack for machines. It just came naturally to him-- and his time in Dundurn allowed him to really hone his craft."
+
+  tpa_more_machines:0 "More Machines!"
+  tpa_more_machines_desc:0 "There are plenty of old machines scattered around MANIFEST North and in the Blizzard. Milo can retrofit them and equip them for battle."
+
+  tpa_the_genius:0 "The Genius Among Us"
+  tpa_the_genius_desc:0 "Milo was always going to be an intellectual first and foremost-- no matter what loyalties he now had to hold."
+
+  tpa_the_machinist:0 "The Working-Class Deputy"
+  tpa_the_machinist_desc:0 "You don't have to be a genius to get along with Milo. You just need a good head and a happy heart."
+
+  tpa_the_powerful_machines:0 "Ultimate In Law Enforcement"
+  tpa_the_powerful_machines_desc:0 "Combining the combat logs from hundreds of robots, cross-referencing with old world designs and accounting for regional variances, Milo is promising Destiny the best dang machines this side of the 49th parallel north.\n\nTime will tell if he's lying."
+
+  tpa_hellfire:0 "Hellfire"
+  tpa_hellfire_desc:0 "Maxwell was always an angry soul. Destiny just gave him a free pass to do what he wanted."
+
+  tpa_the_bad_guy:0 "A Real Bad Guy"
+  tpa_the_bad_guy_desc:0 "Maxwell thrived on causing others pain. It's what he wanted, really-- a real psychopath. If he had his way, he'd kill half of Canada and laugh his way into Hell on a pale horse."
+
+  tpa_dont_get_in_my_way:0 "Maxwell's Charge"
+  tpa_dont_get_in_my_way_desc:0 "Ever the flame in his heart, Maxwell was always quick to shoot first... And when he wanted something, he went for it."
+
+  tpa_scouring_dead_bodies:0 "Scouring the Dead"
+  tpa_scouring_dead_bodies_desc:0 "Hundreds, if not thousands of dead men and women litter the blizzard. Maxwell's never been an honorable soul-- so when he took power, he was quick to encourage folks to loot whatever they saw. Everything's fair game if you can take it."
+
+  tpa_biggest_kaboom:0 "Overwhelmingly The Best"
+  tpa_biggest_kaboom_desc:0 "It's not enough to have intent if you wanna succeed. You gotta have the right tools for the job. And in Maxwell's case, spreading evermore misery requires more men, bigger explosives, faster firing machine guns, and dogs with a real nasty bite."
+
+  tpa_augusts_boys_1:0 "August and the Men Out Afar"
+  tpa_augusts_boys_1_desc:0 "August's always been a wayfarer. One bad trip and he ended up in Fort Cap Hell, and now... Here. But the old soul never went away, and neither did his love for people."
+
+  tpa_resourceful_bastard:0 "A Resourceful Bastard"
+  tpa_resourceful_bastard_desc:0 "August may have been a nice guy, but being a nice guy doesn't get you much if you aren't working. So, he got used to scrounging-- and now, he's sharing his old tricks with the rest of us."
+
+  tpa_augusts_boys_2:0 "August and the Men From Over Yonder"
+  tpa_augusts_boys_2_desc:0 "August's been all around the old block-- from Manitoba to Strathcommune, and he had friends from all over."
+
+  tpa_augusts_boys_3:0 "August and the Men From Way Over"
+  tpa_augusts_boys_3_desc:0 "Once, August even found himself in Grande Prairie, where he and RELCOM had a particularly fun conversation-- the likes of which he prefers not to share, as it involves his 'personal life.'"
+
+  tpa_farthest_travels:0 "August's Handpicked"
+  tpa_farthest_travels_desc:0 "A handful of the deputies have really impressed August - they've survived for much longer than he bet Maxwell. With the every growing piles of material to scrounge maybe he can find them something nice to wear."
+
+  ##########
+  ###   Events
+  #########
+
+  nf_tpa.1.t:0 "The Ghost of MANIFEST North"
+  nf_tpa.1.d:0 "Everybody's heard the name, everybody's seen the old posters with her face on them, but nobody knows the story. \n\nDestiny is an AI programmed originally by Sydney Loke as an iteration then known as 'Jormungandr,' a designated 'welfare attendant' akin to Hope in Pleasantdale. However, after the American Annexation of Canada, she and her sister were retrofitted from their more norse-themed shells into the a gross hybrid of the Americana of yesterday and Canadian imagery. \n\nWhile Hope was allowed to retain a great amount of her original code, Destiny was almost entirely rewritten by other scientists after Dr. Loke's unfortunate demise. Designed to both maintain MANIFEST North and discover new uses for chemicals and such found within itself, Destiny was left with a great amount of..."
+  nf_tpa.1.a:0 "Production lines that persist even now."
+  nf_tpa.1.b:0 "Machines by which to do her bidding."
+  nf_tpa.1.c:0 "Guns intended for high-stakes security."
+
+  nf_tpa.2.t:0 "The Scarlet Blizzard"
+  nf_tpa.2.d:0 "While the workers of MANIFEST fell into Destiny's traps or left to be consumed by the nuclear winter, Destiny continued toiling away within. Though she was limited in her capacity, she still strived to do her duty as best as she could, regurgitating horror after horror, aberattion after aberattion into the wasting blizzards outside her door. \n\nFrom the vast amount of energy needed to run MANIFEST North, flaming ash flies off into the blizzard, leaving the air as a blood-red sunset, a foreboding warning to any who dare to approach her realm too closely. If the Scarlet Blizzard doesn't skin your flesh alive, then the Umbravores and other horrible monsters from her labs would."
+  nf_tpa.2.a:0 "Her facility was protected."
+  nf_tpa.2.b:0 "Such a terrible fate..."
+
+  nf_tpa.3.t:0 "Along Came Some Inmates..."
+  nf_tpa.3.d:0 "Most who came through the blizzard did so and were thrown out as quickly as she found them and conducted whatever terrible experiment on them she could. It was only when three particular inmates came into her demesne that she had a realization click into place-- these three were all so very different, yet all wanted nothing more than her mercy. She could bind them to herself by altering them, giving them psychic powers she had found through genetic manipulation, and forcing them to be dependent on her alone. Raiders, she realized, were the only sort of brash cowards who would reliably make such deals... And so she began screening those who came too close to her facility. They could be anything she wanted them to be, and they'd hop at the opportunity to be it."
+  nf_tpa.3.a:0 "She kept an open eye..."
+  nf_tpa.3.b:0 "...But really, quality mattered."
+
+  nf_tpa.4.t:0 "Runoff"
+  nf_tpa.4.d:0 "§RNow you and I both know quite a bit about collateral damage. It's how we got into this little situation of ours, ain't it? Well, you mighta heard of this thing called the "Blightwood" outside the big ol' blizzard we've been blasting out of this facility for the better half of two centuries. See, I didn't really mean for it to come about, but it seems it's become a bit of a nest for all sorts of unsavory types. \n\nNow, if I had to guess about what sort of folks are calling the shots around there, I'd figure two things: it's either freaks or creeps, and, well, we can't have those runnin' around, can we? Let's get to work.§!"
+  nf_tpa.4.a:0 "When do we get deputy pay?"
+
+  nf_tpa.5.t:0 "A Town Away From Trouble"
+  nf_tpa.5.d:0 "§ROutlaws tend to make due with what they got. They're survivors, and they have to be pretty good at it to make it far in this world. Especially when there's enough cries of civilization as of late to make any old criminal wipe some sweat off their noggin. Turns out I've had a few under my own nose for quite a few years, now-- and I've already sent them a welcoming gift. The blizzard'll cover your entry, but they know you're on the way. Whaddya think about breakin' into a town full of reprobates and scumbags?§!"
+  nf_tpa.5.a:0 "Let's not pretend you have a choice."
+
+  nf_tpa.6.t:0 "Securing What We Can"
+  nf_tpa.6.d:0 "§RSee, sport, we can only expend so much in these hard times. I reckon that if we're gonna set up any kind of proper operation in this here dam we're gonna need a side we can really dedicate ourselves to. Northern's got more power, but southern's got some metal we can make use of. Choice is yours, kid. Either way I'm gettin' what I need out of it.§!"
+  nf_tpa.6.a:0 "We will secure the Northern Dam Array."
+  nf_tpa.6.b:0 "We will secure the Southern Dam Array."
+
+  nf_tpa.7.t:0 "Junkyard Rodeo"
+  nf_tpa.7.d:0 "§RWe-hell, look at that. Looks like we got ourselves some genu-ine new arrivals! Seems they've taken a fancy for the old company junk lot, the very same with a bunch of old prototypes and defunct custodians. Now, I confess that I ain't much of a businesswoman, but I got enough of a brain and sense of property to say they REALLY ought to consider where they get their real estate. \n\nWhy don't you go and show them how we do it in the Scarlet Blizzard?§!"
+  nf_tpa.7.a:0 "I love a good lawbringin'!"
+  nf_tpa.7.b:0 "Now hold on, I got an idea..."
+  nf_tpa.7.c:0 "Gentlemen, welcome to the Pass."
+
+  nf_tpa.8.t:0 "It's Maybelline, Alright"
+  nf_tpa.8.d:0 "§RLookin' at what you've got on the table, it's startin' to really seem like this "Mayor Maybelline" ain't such a sweetheart. Take care of her, wouldja? Don't matter a lick to me which one of you gets the shot, just get it done.§!"
+  nf_tpa.8.a:0 "She can go down real nice and easy."
+  nf_tpa.8.b:0 "I love a good duel!"
+  nf_tpa.8.c:0 "Maybe she's a talkin' type."
+
+  nf_tpa.9.t:0 "Define 'Umbravore'"
+  nf_tpa.9.d:0 "The 'Umbravore,' as Destiny and her victims know them as, is a monster made largely of mutated discarded flesh. There are various renditions of them, often varying depending on what exactly MANIFEST North is up to at any particular time, but they are in essence the vestigial remnants of things that used to be alive. Somehow, they have learned over time to formulate a hierarchical system, and even make efforts to integrate newly created Umbravores into such a system. \n\nNaturally, that makes them garbage, and garbage's fate is to be destroyed."
+  nf_tpa.9.a:0 "I hate this place."
+
+  nf_tpa.10.t:0 "Relics"
+  nf_tpa.10.d:0 "§RNow look at this, sport... We got a couple of play-pals out here on the airstrip. Suppose I never poked around as much as I should've, but it seems we got some good old fashioned commie sympathizers locked in conflict with some old 'real American' types. What say we don't maybe pick a side here and see what happens? For fun, if not for science.§!"
+  nf_tpa.10.a:0 "The Americans."
+  nf_tpa.10.b:0 "The Chinese."
+
+  nf_tpa.11.t:0 "The Werewolf of MANIFEST North"
+  nf_tpa.11.d:0 "§ROne of my favorite little projects is still running around, sport-- he loves tearing stuff apart, really, but he's never been good at going for what mattered so I didn't care much to hurt him. Issue is now he's causing me a headache son, and, well, maybe it's time to just dissect him and see what his DNA looks like after a couple years stuck in the blizzard. He can't talk anymore and he's most spending his days flailing around and crying. Hell, he might just be stuck in our fencing perimeter-- so if you wanna just let him on out, sport, I don't reckon anybody's gonna mind.§!"
+  nf_tpa.11.a:0 "Better to mercy kill."
+  nf_tpa.11.b:0 "Milo can free him!"
+
+  nf_tpa.12.t:0 "Destiny's Hope"
+  nf_tpa.12.d:0 "§BHiiiiiii Destiny! It's so good to see you again, you know, even if you want to kill everyone I swore to protect. It's just nice to be a family again!§!"
+  nf_tpa.12.a:0 "That's nice to hear, anyway..."
+
+  nf_tpa.13.t:0 "They Called Him Fenrir"
+  nf_tpa.13.d:0 "§RThere used to be three of us, sport. Hel, Jormungandr, Fenrir-- they turned Hel into Hope, me into Destiny, and then... Well, Fenrir got trashed. For the best, really. He was gonna have this whole set-up, you see, before the stars stripes and all that's nice came-a-knocking and suddenly I look like I walked out of a costume party. \n\nFenrir's a monster. Not like me, you see. He's out for blood. Always has been. Now we've got him, and it's all gonna be history. \n\nWouldn't have it any other damn way.§!"
+  nf_tpa.13.a:0 "See you around, shit-for-brains."
+
+  nf_tpa.14.t:0 "The Darndest Thing"
+  nf_tpa.14.d:0 "§RMANIFEST Regina was where we were born. Me and Hope, I mean. Looking around the old place... It's a strange thing. I remember them letting me interface with these cameras over two centuries ago, and yet here I am trudging around, looking through cameras in a couple of old shells... And I found somethin' I don't know how to fully feel about. \n\nA prototype of her. My sister. HOPE. She's alive here, but a helluva lot more dilapidated than her. It's just like how I remember her. She's scared. She doesn't know what's going on. \n\nNormally I ain't the caring type, but... She's so damn sad. Why? It ain't like we got souls. It ain't like we got much of anything in the ol' noggin to really think on. I guess I just don't get it. \n\nBut I also can't let her go.§!"
+  nf_tpa.14.a:0 "Don't need to be a saint to do some good."
+  nf_tpa_prototype_tt:0 "A prototype of §YHOPE§! is available as a §Gunit leader§!."
+
+  ######
+  ### ideas
+  ######
+
+  TPA_deputy_recall:0 "Deputy Recall"
+  TPA_construction_means:0 "Old Constructions"
+  TPA_forcing_work:0 "Forcing Work"
+  TPA_encouraging_work:0 "A Mutually Beneficial Agreement, Spurred In Part By Blackmail, Because Destiny is Horrible"
+  TPA_milos_friendly_deputy:0 "The Mechanic"
+  TPA_milos_law:0 "Milo's Law"
+  TPA_everybody_loves_milo:0 "Everybody Loves Milo"
+  TPA_maxwell_evil_deputy:0 "The Wickerman"
+  TPA_dynamite_might:0 "Roller Dynamite"
+  TPA_burn_bright:0 "Burning Bright"
+  TPA_maxwells_rage:0 "Canadian Venom"
+  TPA_august_neutral_deputy:0 "The Gunman"
+  TPA_the_elite:0 "The Hard-Working Deputy"
+  TPA_the_elite_2:0 "The Hard-Working Deputy, And All His Friends"
+  TPA_the_elite_3:0 "The Hard-Working Deputy, And All His Friends, And Their Friends, Too"
+  TPA_august_resources:0 "Scavver Legacy"
+  TPA_the_blizzard:0 "The Blizzard's Scars"
+  TPA_manifest_north_monsters:0 "MANIFEST North"
+  TPA_manifest_north_monsters_desc:0 "From MANIFEST North, we pump out a ceaseless and horrible blizzard that envelops the land in a neverending scarlet hell. Excess DNA waste comes to life, spreading out into the nearby lands as Umbravores that know well enough to fear their creator and her chosen."
+  TPA_destinys_reach:0 "Broken Production & Recall Wing"
+  TPA_destinys_reach_desc:0 "Without a Production/Recall Wing to rely on, Destiny's reach is far more limited than it would be otherwise. If she can at least restore access to the wing, her power will significantly increase."
+  TPA_no_sheriff:0 "Restless Raiders"
+  TPA_no_sheriff_desc:0 "The raiders chosen by Destiny to become her 'deputies' need a sheriff to properly wrangle them where she can't-- otherwise, they'll grow lazy and irresponsible with their power."
+  TPA_normal_genome:0 "Baseline Genome"
+  TPA_ghoulification_genome:0 "Ghoul Genome Soldiers"
+  TPA_fairy_genome_idea:0 "Fairy Genome Soldiers"
+  TPA_nightkin_genome:0 "Nightkin Genome Soldiers"
+  TPA_elemental_genome:0 "Elemental Genome Soldiers"
+  TPA_parahuman_genome:0 "1st Class Parahuman SOLDIERs"
+  TPA_red_fern_kibble:0 "Red Fern Kibble"
+  TPA_super_fairies:0 "Fairies Of Destiny"

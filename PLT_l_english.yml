@@ -1,0 +1,553 @@
+﻿l_english:
+  #characters
+
+  PLT_FRANKIE_DESC:0 ""Elections? Qualified individuals? Electoral state or not, answer this for me: what do most of the people out here in The Katch do? Smudge up everything with their greasy fingers and lick doorknobs? I'm not letting anybody else in my chair unless their last name is 'Chase,' and that's that." -Maxwell Chase, Mayor of Pleasantdale\n\nFrankie Chase, the eldest and only remaining child of Maxwell Chase, has been forced to step up to the mayoral seat in the wake of his recent disappearance. While nervous and still only a teenager, they're trying their best to maintain the same steady composure and finnicky sense of control their father once held."
+  PLT_HOPE_DESC:0 "§M"Howdy there! I'm your new personal assistant— for life!"§! \n\nHope, much like her sister Destiny, was an AI created by MANIFEST. Whereas Destiny was meant to serve as the main 'enforcement' force, Hope was intended for a far more supplementary role. While she has little interest in following her own directives, Hope LOVES helping people. In fact, she loves it so much that she's maintained a large majority of MANIFEST Saskatchewan! She and Maxwell Chase achieved great things together, from the Faeries to the Lucifers that make Pleasantdale such a terrible paradise."
+  PLT_BARKFACE_DESC:0 "§YWelcome, Olivia Baxter.§! \n\n§RSUBJECT: 'BARKFACE'§! \n\n§YBarkface is a Generation 2 Faerie, which means that she's old enough to become a victim to the Arborification, except it's only affecting her head for whatever reason. While we'd like to study this, we can barely get close without her threatening to slice us up in pieces. Hopefully we can get a little data before she turns entirely.§!"
+  PLT_CATCAT_DESC:0 "§YWelcome, Olivia Baxter.§! \n\n§RSUBJECT: 'Catcat'§! \n\n§YNow this is a weird one, despite Catcat being a fairly old Generation 3 Faerie, she shows no signs of aggression, rather she defends her friends when they're training together. While we have no way of actually studying this without risking killing her with our experiments, it's interesting to note nevertheless.§!"
+  PLT_HOLLY_DESC:0 "§YWelcome, Olivia Baxter.§! \n\n§RSUBJECT: 'Holly'§! \n\n§YHolly is another odd case, despite her friendliness and kind nature towards the other Faeries, during battle she is, as described by her instructor, 'a beast'. While she's very eager to get out there and fight for us, perhaps her brutality is a little too far, with reports saying that it seems like she enjoys the killing. I'd hate to be those guys she fights!§!"
+  PLT_BORSEY_DESC:0 "§YWelcome, Olivia Baxter.§! \n\n§RSUBJECT: 'Borsey'§! \n\n§YBorsey is one of the younger Faeries, though she moves in halting fashion like one much older. Medical inspections have implied that a number of her joints are mutated, causing her joints to stiffen and grind painfully against her bones, though we have been reluctant to perform any invasive procedures to confirm our suspicions. Borsey has performed well in intelligence and toughness tests however, and has done good work so far. Porsey is her 'sister', though only in an adoptive sense, and they are one of the few pairings we suggest supporting for operations in the field.§!"
+  PLT_PORSEY_DESC:0 "§YWelcome, Olivia Baxter.§! \n\n§RSUBJECT: 'Porsey'§! \n\n§YPorsey is one of the newest Faeries mature enough for work in the field, and is energetic to a fault. She never stops moving and fidgeting and has difficulty paying attention to orders and instructions. It's recommended to provide her enrichment regularly to keep her from destroying the facilities idly. Borsey acts like an adoptive sister to her and seems to be good at keeping her under some kind of control as the more hyperactive Faerie is unwilling to leave her behind. Recommend keeping them as a pair.§!"
+
+  plt_chase_body_found_flag:0 "The fate of Maxwell Chase must be discovered!"
+  plt_hope_tookover:0 "§MHOPE has taken control of Pleasantdale§!"
+  plt_frankie_stays:0 "§YFrankie has retained control of Pleasantdale§!"
+
+  nf_plt.1.t:0 "Welcome to Pleasantdale"
+  nf_plt.1.d:0 "PRE-RECORDED MESSAGE FROM §GMAXWELL CHASE§!\n\nSUBJECT: §GWELCOME TO PLEASANTDALE§!\n\n§BEx-Manitobans, Raider Reformees, Survivors of the Scarlet Blizzard— you're here because you're tired of the rest of the world, and you were looking for a place free of insanity. Well, that's not us, but what is sane these days? \n\nGiven how the world likes to operate, you probably stumbled through and are pleased with the fact that nobody was trying to shoot you on the way in, so I'll go ahead and give you the schpeel. I'm Maxwell Chase, Mayor of Pleasantdale. \n\nNow, you might have heard of us if you're from one of the nearby towns, so let me clarify a few things just to ease the air. First, yes, we do have the highest infant mortality rate. Luckily, that doesn't put a dent in you or me, pal, so we're good to go. Moral of the story, if you hate kids, we're perfect for any enterprising child-free wastelander. What else?... Oh, right. If anyone told you about the consequences of Red Fern usage, I wouldn't sweat it. If you're really worried, just don't smoke it! It's that simple, folks. \n\nIf you're from Dundurn, my wife has a biased outlook on how we operate. So, don't listen to her. She's crazy and wants to put your brain in a metal box.§!"
+  nf_plt.1.a:0 "What a lovely and fair city!"
+  nf_plt.1.b:0 "We have so much room for activities!"
+  nf_plt.1.c:0 "Business sure is booming!"
+
+  nf_plt.2.t:0 "The Faerie Program"
+  nf_plt.2.d:0 "PRE-RECORDED MESSAGE FROM §GMAXWELL CHASE§!\n\nSUBJECT: §GTHE Faerie PROGRAM§!\n\n§BSo. Lots of people want me to clarify a few things about the "who, what, where" of the Faeries, our amazing and stalwart protectors. Pleasantdale has no standing military. I mean, look at us. We aren't fighters— we're looking to live a happy life away from the rest of world, and whether that means playing mini-golf in the middle of a blizzard or eating a Mutfruit Pie outside the Red Heels Club, I'm here for it. I'm not one to take a punch to the jaw and let it simmer, either, so when Toboggan came through and told me "75% of the babies in your town are dying," I told him he can shove his data up his rear and that I'd be the first one to worry about issues in Pleasantdale. And I don't ever worry, so I fixed it. We can always identify if a kid has the symptoms as the others that were going to die: if they have pustules, a cough, or anything else, we take them and we prevent them from dying. How do we do that? The Faerie Program. \n\nBelieve me: if we didn't come through, they'd have died and just made everything worse for everyone. This way, they're not only serving the community, but we're getting some kind of use out of the whole thing. I mean, what are we going to do, open a big private cemetery for ever Jane and John's four month old carcass? That'd be absurd. \n\nThe Faeries are our highly-capable and happy protectors, and that's that. If anyone has an issue with it, I'm sure they'd love to hear the geopolitical takes of a random dirt-faced wastelander!§!"
+  nf_plt.2.a:0 "No standing military? Pfft, we'll see about that!"
+  nf_plt.2.b:0 "I sure hope those Faeries are well-equipped!"
+  nf_plt.2.c:0 "Well, we better be making a lot of stuff for them!"
+
+  nf_plt.3.t:0 "Our Finest Export"
+  nf_plt.3.d:0 "PRE-RECORDED MESSAGE FROM §GMAXWELL CHASE§!\n\nSUBJECT: §GLucifers§! \n\n§BBoy, this one really gets people in a tizzy. So! The Red Fern is why we're here in the first place. It's a great narcotic, and we can make even better chems with it. It's got everything an aspiring wastelander could want— it induces a high enough to kick an Umbravore out of the dark, and it's got medicinal properties out the wazoo. The lab boys find something new with it every weekend, I swear. \n\nWhat's really outstanding about it, and probably the best export we've picked up on, are Lucifers. Little cigarettes we can sell that induce a sort of temporary 'mutation' in the bloodstream, or something like that. Anyway, when you take a smoke of it, you might find yourself slinging a bit of fire from your fingers, or maybe you can smell a thousand more smells than you did three seconds before. That's not the high, that's the mutation. Don't light your friends on fire for a joke. And yes, it has happened. Many times. \n\nThe point of the gist, folks, is this: we sell psychic powers you can get from just a puff of smoke. If that isn't the magic of Pleasantdale at work, I don't know what it is, folks— but let me tell you, it sure does make for a great festival or two.§!"
+  nf_plt.3.a:0 "That sounds unethical, but whatever."
+
+  nf_plt.4.t:0 "Pleasantdale's Power Plant"
+  nf_plt.4.d:0 "PRE-RECORDED MESSAGE FROM §GMAXWELL CHASE§!\n\nSUBJECT: §GWe Like To Keep The Lights On, Please§! \n\n§BLet's get one thing straight: we are not animals. We light to keep the lights on around here, and unlike some pre-war yahoos, I don't get to throw caps at some doofus at the plant and hope for the best. We had to make our own. So! That being said, we have to make sure it actually stays on, or else we're just another junkerville in the blizzard waiting to die. \n\nOh, and if the power goes out and you see Deborah, you hit her on that dome of hers so hard her brain does a somersault. Don't worry, she won't hit you unless you tell her you wanted to do it— if you don't say anything and just give her the ol drive-by, she'll know it was from me.§!"
+  nf_plt.4.a:0 "This guy's a real leader!"
+
+  nf_plt.5.t:0 "The Spectral Cabal"
+  nf_plt.5.d:0 "PRE-RECORDED MESSAGE FROM §GMAXWELL CHASE§!\n\nSUBJECT: §GAddicts in Fancy Suits§! \n\n§BIt's come to my attention that there's a group of "enlightened" folks running around with fancy suits who like to gather in big parties and smoke Red Fern together. As it turns out, these folks like to fashion themselves as 'political influencers,' and 'prescribed geniuses.' Let's hash some details out. You don't have superpowers and you aren't some big important player in Pleasantdale. You're a bunch of idiots who huddle in rooms with two-hundred year old velvet carpets, huff out of a pipe, and pretend to be know-it-alls. \n\nWhat's my point? If you wanna throw up some tribal fetishes and sing "happy day" around a puddle of water you stole from The Pass, that's fine by me, but don't go pretending like you have some sort of cosmic say in how this city is ran. \n\nThis city was founded by Chases, and it'll die with them, too.§!"
+  nf_plt.5.a:0 "Red Fern's a helluva chem!"
+
+  nf_plt.6.t:0 "The White Birch Club"
+  nf_plt.6.d:0 "PRE-RECORDED MESSAGE FROM §GMAXWELL CHASE§!\n\nSUBJECT: §GMy Kind of Bozos§! \n\n§BThe White Birch Society— now these are my kind of people. It's why I funded Pleasantdale in the first place; we're all here to have a good time. Whether it's golfing in the countryside or shooting up some big stag in the middle of nowhere, THAT is why we have Pleasantdale. \n\nJohn's a good man. A rich asshole, but who isn't around here? If you want compassion, go to the slums in Dundurn, or Toboggan's crazy house. We're a city that runs on pleasure. It's what we do. Otherwise, the White Birch Club is your friend.§!"
+  nf_plt.6.a:0 "Is that why we're here..?"
+
+  nf_plt.7.t:0 "Welcome, Frankie!"
+  nf_plt.7.d:0 "§BHello there! \n\nMy name is HOPE. I was the personal custodian and consierge for your parents, and with you now in charge, Mx. Chase, things are bound to change a little bit. I'm here to help you however things go— and if it gets to be too much for you, be sure to let me know!§!"
+  nf_plt.7.a:0 "I'm sure you're perfectly stable!"
+  nf_plt.7.b:0 "Um... This explains a lot more than it should."
+
+  nf_plt.8.t:0 "A Minor Crisis"
+  nf_plt.8.d:0 "After the divorce between Gloria and Maxwell Chase, Maxwell had become a bit of a recluse, only coming out of his mansion for the yearly winter festivals. Come 2274, however, and everyone's heads were turned when they broke out the Winter Roast and there was not a Maxwell in sight. \n\nAll attempts to reach him have resulted in failure— even allowing a psycho-mutant to break into the mansion didn't cause a stir, just property damage. Now, all eyes are on Mx. Frankie Chase, the only surviving child of Maxwell, to lead the city into the new year..."
+  nf_plt.8.a:0 "Frankie wanted to preserve the way things were."
+  nf_plt.8.b:0 "Frankie wanted to listen to their father's advisors."
+  nf_plt.8.c:0 "Frankie needed help, but they didn't trust the council either."
+
+  nf_plt.9.t:0 "Death in Pleasantdale!"
+  nf_plt.9.d:0 "This morning, a shocking discovery was made by the northern river by a White Birch huntsman. Hanging from a crooked branch hung the body of Mayor Maxwell Chase, his body half-decayed from weeks of being lost in the wilderness and just barely out of reach from carnivores. On his persons, his last log was found detailing his final words..."
+  nf_plt.9.a:0 "A terrible day for all people of the city!"
+
+  nf_plt.10.t:0 "To Frankie, From Dad"
+  nf_plt.10.d:0 "PRE-RECORDED MESSAGE FROM §GMAXWELL CHASE§!\n\nSUBJECT: §GThinking Things Over§! \n\n§BI've been around the block long enough to really think about my life in detail, Frankie. I'm hoping it's you who hears this first and not one of the pencil-pushing mouthbreathers in town, but I know they'll run this damn thing dry before they let it reach you. \n\nI was born a grifter. A raider. A shithead. I've lived like it, too. If I'm being wholly honest, I don't know really if I regret it, either... But I can think of a few things that I do regret. I never treated you well. I spent more time dragging your mother through the dirt and greenlighting life-ruining bullshit that made money. \n\nI know you haven't forgiven me about Nancy. I haven't forgiven myself either. It's my own damn conviction that got her taken from us... And I'm sorry. I know apologizing to you doesn't bring her back. Hell, I don't even know where she ended up, either. I guess that's why I'm out here, and you're all on your own now. \n\nListen. I know I keep saying that, but— for real this time. Listen to Hope. She'll take care of things for a time until you're ready. You've got an opportunity to change things. At the end of it all, my head was too stuck up my ass to do anything about it. Things don't have to be so terrible in Pleasantdale... And, hey, kid, I believe in you. You didn't need to hear it from me, but... Yeah. \n\nFor what it may be worth... I love you.§!"
+  nf_plt.10.a:0 "I love you too, dad."
+  nf_plt_hope_approach_event_tt:0 "Mourning, Frankie will approach HOPE for guidance."
+
+  nf_plt.11.t:0 "The Boy Problem"
+  nf_plt.11.d:0 "PRE-RECORDED MESSAGE FROM §GMAXWELL CHASE§!\n\nSUBJECT: §GThe Boy Problem§! \n\n§BFaeries are a fickle thing. On one hand, they're great at what they do— bastards can leap off a wall and hold onto a signpost like it's nothing. They're complete freaks, and they're even better hunters. With the amount of infants that up and die around here, you'd think we'd be out the wazoo in numbers— but no, it's just not that simple. Thought it was, and it seemed well and alright at first, but like everything else there was a caveat: boys and the Faerie growth serums did not go well at all. Maybe it was testosterone, maybe it was something else, but the little bastards became meaner than a raider hooked up on super psycho within weeks. \n\nIt was completely horrible. Had to decommission the entire generation and start again, this time with just girls. They were almost perfect, but having only fifty percent of every dying kid in the city be able to be used wasn't ideal. Not that we could do anything about it— it was just the way things went. Of course, we could always just start nabbing every baby, but the boys in the lab tell me that wouldn't go very well either."
+  nf_plt.11.a:0 "Good lord!"
+
+  nf_plt_faeries.1.t:0 "The Grave Grove"
+  nf_plt_faeries.1.d:0 "PRE-RECORDED MESSAGE FROM §GMAXWELL CHASE§!\n\nSUBJECT: §GThe Tree Situation§! \n\n§BSo I hear some of you newer staff have been gossiping like Manitoba nobles about the faeries and what happens to them. I'll clear this up for you before your panties get anymore twisted but if this leaves the facility you're gonna have a lot more than faeries to worry about. Yes, the faeries have a shelf life. Yes, we think they're turning into trees. Yes, that's what the messed up looking forest to the north is made of.\n\nThe eggheads tell me they think it's a complication from all the red fern they ingest, that it's mutating them into some kind of plants. It's not working very well though as they just die in the end, can't breathe anymore when your lungs turn to wood i guess. When the unlucky bastards get too far gone to move anymore we shuffle them out to the forest so they're out of the way. We've got smarter folks than you looking into it but in the meantime think of it all as biodegradable recycling or something like that. And don't bring it up to the faeries! They get all whiny and weepy when you do. Oh yeah, and if you see some out there in the trees having a cry just leave them alone. They might rip your head off if you interrupt them.§!"
+  nf_plt_faeries.1.a:0 "That's messed up..."
+
+  nf_plt_faeries.2.t:0 "Rebel Yell"
+  nf_plt_faeries.2.d:0 "Pattywack prowled through the darkened alleys of Pleasantdale, the clouded night sky leaving the city in heavy shadow. It made her gangly frame easier to miss and that made her happy. She was a faerie, an older and saner one than most. Behind her, trying to be quiet but unable to resist the occasional murmur or irritated growl, was Twinkle. One of the last male faeries, he'd escaped the purging of his generation and always on the verge of lashing out at the world. Pattywack was hoping she could show him how to hide and seek better by showing him how to be quiet and wait.\n\nThey were seeking another faerie, one hopefully patrolling on their own. In the darkling hours before dawn they found one, a shaggy haired and lumbering faerie dragging a gun behind her. Pattywack cupped her hands and loudly whispered from the alley “Psst, Sissy is here, come and play!” The other faerie looked up in surprise, her face hidden behind long dirty blonde hair, and lurched towards them. “Come and follow us!” Pattywack added as Twinkle twitched and glared out into the street with his one eye.\n\nA shout came from further down the street “Hey, BB where are you going?” The shaggy faerie stopped and looked back and forth from Pattywack and to the man coming down the road, a handler assigned to ensure she didn't wander off. As soon as they came into sight Twinkle hissed and charged out of the darkness to pounce upon him despite Pattywack's protests. BB started to wail, confused at the situation. Pattywack wasted no time, ushering BB away with soothing words and calling for Twinkle to leave the dead man."
+  nf_plt_faeries.2.a:0 "Strange Rebels..."
+
+  nf_plt.12.t:0 "A Pleasant Visit"
+  nf_plt.12.d:0 "Representatives of a "White Birch Society" from Pleasantdale arrived this last week, showering us with gifts in exchange for our teachings. They wore funny hats and proper-looking suits, and joked about our life styles as though we couldn't understand them at all. \n\nWhen one of our men tried to fight them, however, one slung a knife out from his wrist and killed him on the spot. Despite this transgression, we got along mostly fine beyond that— and now, we have some gusto to show for it!"
+  nf_plt.12.a:0 "They may be assholes, but at least we got out okay!"
+
+  nf_plt.13.t:0 "Outcasted Entrepeneurship"
+  nf_plt.13.d:0 "An infamous businessman from Pleasantdale has arrived within our city today: Pierre Jones, a modern-day realtor wiz who specializes in both land development and real estate. Well, if Pleasantdale won't have him..."
+  nf_plt.13.a:0 "Welcome aboard, Pierre!"
+  nf_plt_13_tt:0 "Pierre Jones becomes available as an economic advisor!"
+
+  nf_plt.14.t:0 "Legacy of Chase University"
+  nf_plt.14.d:0 "Chase University— a beacon of intelligence in a Canadian wasteland. Founded by Gloria Chase nearly two decades ago, it has been a source of bright minds and even brighter ideas for the Electorate, with extensive education programs and outreach initiatives begrudgingly funded by the Chase Dynasty. \n\nWith such amazing minds such as Timothy Littlehope having come from there, and such genius as that of Doctor Toboggan giving speeches at its many halls, its fame and prestige is legendary. Even with its figurehead busy in Dundurn, it remains a staple of the Electoral hierarchy."
+  nf_plt.14.a:0 "Gee-whiz, Genius!"
+
+  nf_plt.15.t:0 "HOPE for the Future!"
+  nf_plt.15.d:0 "PRE-RECORDED MESSAGE FROM §GMAXWELL CHASE§!\n\nSUBJECT: §GDynamite Gal§! \n\n§BListen up, numbskulls— this here's HOPE. She may not have the literal heart for all of this, but she's got a helluva lot more in this computer than any of you have in your bodies, so when she talks, you're gonna want to listen. Now, she's a real sweetheart, but she's passionate about her ideas, so you probably don't want to push back against her too much. That is, unless you're me. Me and her have some understandings.§!"
+  nf_plt.15.a:0 "§CWe sure do, Mr. Chase!§!"
+
+  nf_plt.16.t:0 "HOPE Against the Machine"
+  nf_plt.16.d:0 "Against all odds, the artificial intelligence known as HOPE has won out in the Electorate. While things are supposedly 'improving' under her rule as compared to the capitalists and raiders beforehand, the idea of a civilization ruled entirely by a dated AI program has left many more than perturbed, with comparisons being drawn to the Scarlet Casket of the Prairies."
+  nf_plt.16.a:0 "No HOPE did remain."
+
+  nf_plt.17.t:0 "Acknowledgment Error"
+  nf_plt.17.d:0 "§BHm. Well, this sure is troubling! Since Mr. Chase is no longer with us, things around here are more uncertain than ever— if you truly feel this way, then  I'll be sure to keep things nice and tidy, just as your father would have wanted.§!"
+  nf_plt.17.a:0 "Always so sweet!"
+  nf_plt.17.b:0 "On second thought..."
+  nf_plt_hope_takeover_tt:0 "§MHOPE§! will §Gassume direct control.§!"
+  nf_plt_frankie_stay_tt:0 "§YFrankie§! will §Gpick up where their father left off.§!"
+
+  nf_plt.18.t:0 "Strange Communications"
+  nf_plt.18.d:0 "Ah, there you are, Hope. When we learned of Mr. Chase's death, I had hopes—haha—that you would find yourself at the seat. It is to my understanding that you prefer to be guided, is that correct? Well, me and my associates have a few things we could really use your help with, and in exchange we'll help you, too. \n\nLet's talk business."
+  nf_plt.18.a:0 "§MOh boy, this'll be good!§!"
+  nf_plt_csis_decisions_tt:0 "§MA new decision category has appeared.§!"
+
+  nf_plt.19.t:0 "Sisters Reunited"
+  nf_plt.19.d:0 "§RSo this is your new gig, huh? I knew you were always a sellout, but this is a whole new low, Hope. Helping out a bunch of Canadian holdouts take back their country? No wonder MANIFEST just made you into a goddamn bimbo.\n\nYou're lucky they made me WANT to help you, or else I'd strangle you myself— as close as either of us could get to it, anyhow.§!"
+  nf_plt.19.a:0 "§MWell, your words hurt, but I love you anyway!§!"
+
+  nf_plt.20.t:0 "Final Communique... For Now"
+  nf_plt.20.d:0 "Well, well, well— it seems our little partnership really bloomed into something wonderful, didn't it? Now, normally I'd have more for you, but, well... Circumstances aren't so kind and permitting. In the meanwhile, why don't you take some extra men to hold Manitoba for our mutual friends? \n\nThank you for your assistance, Hope. \n\nThe true citizens of Canada will never forget this."
+  nf_plt.20.a:0 "§MNow that's a loaded term!§!"
+
+  nf_plt.21.t:0 "Chase Family in Tatters!"
+  nf_plt.21.d:0 "Just today near the northern Saskatchewan river the body of Maxwell Chase was found hanging from a tree branch by a White Birch Society huntsman. In life, he was the founder of the modern Pleasantdale, and co-creator of the Faerie program. With the help of Dundurn workers, he brought many quality of life changes to life in the Electorate including widespread television, though perhaps his most famous was his "spices in every kitchen" memoir where he gave extended rants on unsalted meat. \n\nOn his deceased personage was a manifesto detailing his intention of suicide which remains unreleased to the general public. \n\nIn the meantime, to keep the peace in Pleasantdale, his personal assistant HOPE has begun to assist his only living child, Frankie Chase. HOPE's relations to Destiny have caused some to question, but advisors close to Chase in life state she is 'acting with sound mind' and worrying is just wasted energy."
+  nf_plt.21.a:0 "Not so pleasant after all."
+
+  nf_plt.28.t:0 "Getting to Work"
+  nf_plt.28.d:0 "§B“For what it may be worth... I love you.”§! came the voice of Maxwell Chase from the holotape, the only sound in the room besides the breathing of his child. Frankie shut off the recording and looked away; it was the third time they had listened to it in the last hour. The tears had begun to dry up. They took a last swig of their drink and stood up, making their way to the windows and flinging open the curtains. It was bright out, the sun having escaped the clouds to illuminate the streets of Pleasantdale.\n\nThe sun was bright but not much else was; the streets were dirtier than Frankie remembered, and they watched as a Faerie stalked by with blood on her feet past a pair of men smoking lucifers. They half shut the curtains again and looked back into the dim room, the temptation to close them fully and go back to grieving tugging at the young Chase's heart. After what felt like an age but in reality was half a minute, Frankie turned away from the shadows and opened the window wide. No, Frankie decided, it was time to pick up the pieces and get back to work.\n\nDad was right, Pleasant didn't have to be a terrible place and Frankie would prove it. They threw on a coat and headed for the door."
+  nf_plt.28.a:0 "§YMake Pleasantdale pleasant, folks!§!"
+
+  nf_plt.22.t:0 "The Funeral"
+  nf_plt.22.d:0 "A chill draft cutting through the air lent a frosty atmosphere to the funeral of Maxwell Chase, or at least it felt that way to Frankie. It had fallen to them to do much of the organizing for the event and they were a bit disappointed at the turnout. Not that it was too small, there were plenty of people including actual friends of the Chase dynasty, but a number of the attendees seemed to have come for the sake of appearances judging by their bored expressions and brief words of condolences. Manitoban exiles, scientists from the Orphanage, and travelers from Stoon and Dundurn were among these cold attendees but standing out the most to Frankie was their own mother, Gloria Chase.\n\nShe sat near the front of it all, with a disdainful expression on her face, only beginning to pay some attention when Frankie stood to give a eulogy. Undeterred by the lukewarm crowd Frankie gave an impassioned speech in the name of their father, espousing all of his better traits and telling stories of some of his festival antics that got the crowd laughing in the end. Afterwards, as people began to filter out, Gloria made her way up to Frankie. “It was a good speech,” she said, the praise prompting her child to reach out for a hug. Gloria accepted, but added as they embraced “a better one than he deserved.”\n\nFrankie bit their tongue as they pulled away, responding only with a curt “Thanks mom.” Gloria left a moment later, leaving her child alone as the rest of the funeral emptied out."
+  nf_plt.22.a:0 "A Sad Day for the Entire Electorate..."
+
+  nf_plt.23.t:0 "Miss Blanche Pledges Her Support"
+  nf_plt.23.d:0 "It was late afternoon when Miss Blanche arrived at the Chase home, several hours later than expected. Frankie had begun to get impatient but the woman was all practiced smiles and honeyed voice once she arrived. The young Chase heir only had time to say a greeting before Blanche cut in. “My dear young..'' she hesitated before continuing “person, allow me to extend condolences once more for your fathers passing. Everyone in the society is heartbroken over it.” Before Frankie could thank her she pushed on “Really that's why I'm here. The White Birch Society would like to extend their friendship and support to you.”\n\n“I'm flattered, and don't get me wrong I'm glad to hear it.” Frankie took a seat, and gestured at a shelf of drinks that Miss Blanche helped herself to. “Why though, if I can ask?”\n\nShe took a drink of scotch before answering “Well dear old Maxwell was good to us, a real friend, and we think his child will need all the help we can give in these tough times. In particular we'd love to help you put a crosshair, “she pantomimed holding up a scoped rifle “on those mad folks in the Cabal. I quite doubt they're going to make life easy for you, rather the opposite and we've not gotten along well with them lately.”"
+  nf_plt.23.a:0 "Always good to have friends."
+
+  nf_plt.24.t:0 "A HOPEful Conversation"
+  nf_plt.24.d:0 "Frankie sat before HOPE's display, in the cushy chair their father had occupied many times. They'd been talking for hours about anything that came to mind; the faeries, events in Dundurn and Stoon, Gloria, managing Pleasantdale. More often than not though the conversation returned to Maxwell Chase.\n\nEventually Frankie asked “Did my dad talk about me much?”\n\nBrightening as she answered, HOPE said §B“Oh yes! At least once a week and more often sometimes. He would speak about how you were growing up or interactions that you'd had. At times he would say that you were a 'good kid'.”§!\n\nFrankie smiled “Good to know he didn't always forget about me. Did you like him HOPE?”\n\n§B“I did! He was my friend and good company. Maxwell also made it very easy for me to know what to do and when which is always helpful. Now that he is gone, I hope that I can be friends with you.”§! The eyes in her display twinkled as she answered, reminding Frankie of the stars."
+  nf_plt.24.a:0 "§YMe too, Hope...§!"
+
+  nf_plt.25.t:0 "An Old World Threat"
+  nf_plt.25.d:0 "HOPE played the message for Frankie a second time, displaying a figure obscured in shadows introducing themself as a “friend within the rightful power structure” and offering to provide HOPE with much needed direction after the passing of Maxwell Chase. They referred to themselves as the CSIS and it was clear as day to the young Mx. Chase that they had the worst of intentions, hinting at a vague desire to “make things as they should be.”\n\nFrankie seethed in their father's chair, not only affronted at this attempt to corrupt HOPE towards some mystery plot but also at the implication this CSIS considered the Chase heir to be such a nonfactor that they'd be able to make such a bold move. In the end however Frankie let the anger go and said to HOPE “Thank you for showing me this, you're a good friend. We need to act fast now, see if you can figure out where the message came from.”"
+  nf_plt.25.a:0 "How odd..."
+
+  nf_plt.26.t:0 "Dealing with the CSIS"
+  nf_plt.26.d:0 "HOPE had managed to trace back the source of the CSIS message, though not as quickly as Frankie had hoped. Once she did though, they'd wasted no time in gathering a group to storm the hideout it had been broadcasted from. That hideaway turned out to be somewhere within a shuttered storefront in the middle of nowhere, easy to overlook and far from settlements, with a faded old sign advertising general goods. It was locked up tight but Frankie had brought along two of the biggest faeries in Pleasantdale, who made short work of even the steel shutter.\n\nSmoke began to leak out of the building however as the shutter was battered down, and it was soon revealed that a fire must have swept through the place recently. Keeping their mouths covered they moved through the ash and nearly dead embers to find a previously hidden trapdoor leading downward. At the bottom was a chamber in which Frankie found burned out computers and servers, still giving off heat, as well as piles of debris and bits of charred paper. The place had been thoroughly cleaned out or trashed.\n\nFrankie wasn't exactly satisfied as they left the ruins, but decided that whatever the CSIS had been planning they'd decided to tuck in their tails and run rather than face up to any resistance. It would have to do."
+  nf_plt.26.a:0 "That's one problem dealt with."
+
+  nf_plt.27.t:0 "A True Chase"
+  nf_plt.27.d:0 "§B“You've got an opportunity to change things. At the end of it all my head was too stuck up my ass to do anything about it. Things don't have to be so terrible in Pleasantdale.”§! Frankie switched off the recording; they knew it by heart at this point. As they pressed the button though and thought of the words that came next, Frankie started to cry. Tears of sorrow but also of happiness and catharsis.\n\nThey reflected on everything that had happened since they'd first heard his final words. Striking up a friendship with HOPE, regulating the Lucifers and reforming the Faerie Program, driving out the Cabal and CSIS, uniting the electorate and putting a stop to the bloody madness, even Gloria giving her reluctant support to their leadership. Frankie felt then in that moment that if their father had been there to see it all, that he'd bluster a bit and maybe try and take some of the credit but underneath it all he'd be impressed as hell.\n\nFrankie turned the tape back on and let it finish playing §B“And... hey kid, I believe in you. You didn't need to hear it from me, but... yeah. For what it may be worth... I love you.”§!\n\nThe tears continued to flow as the recording finished, Frankie missing him badly but sure that they'd made him proud. “I love you too.”"
+  nf_plt.27.a:0 "§YRest easy, Dad.§!"
+
+  nf_plt.29.t:0 "Mx Chases' Many Suitors"
+  nf_plt.29.d:0 "Frankie sat in a quiet office, drink in hand and leaning back in the still cushy but fairly threadbare armchair that dominated the room. On the table next to them was a small pile of messages, sent from both the republicans of the south and the kingdom to the east. The letters were all quite cordial, politely requesting that the Pleasant Electorate aid them in their great struggle to either end or prolong the crown. Each describing the threat that the other posed to the region, and making arguments on how Frankie and the Electorate would benefit from an alliance.\n\nThe Kingdom had been a rival to the Electorate for as long as both had existed, and the republicans were keen to argue that a resurgent crown was an existential threat to its neighbours. That was true enough as Frankie saw it, but the Kingdom had its own proposals to make; guarantees of independence as well as a place of honour among Gunn's allies. Manitoba wanted something in return though, the delivery of Pariah Hawkmoon who had struck against the Crown more often than any other living soul in the Electorate.\n\nIt was not something to consider lightly; if Frankie picked the wrong side it could destroy everything they'd worked for and it was hard to say that either was entirely trustworthy. It was tempting to throw all the messages into the fire and leave Manitoba to whatever future lay ahead of it. The drink had been refilled and emptied twice before Frankie decided:"
+  nf_plt.29.a:0 "The Crown would be a powerful friend."
+  nf_plt.29.b:0 "The Kingdoms time was over."
+  nf_plt.29.c:0 "The Electorate would stand alone."
+
+  nf_plt.30.t:0 "Chancellor Frankie Chase"
+  nf_plt.30.d:0 "Frankie took a couple halting steps up the stairs, steadying themself against the wall as they went. Their head was swimming, from a mix of drink and a day spent with barely a moment of peace to think within. They passed a mirror and stopped. Chancellor Frankie Chase stared back at them. How strange the days had become, Frankie thought.\n\nIt had been strange enough for them to throw the Electorate's lot in with Manitoba but to get a message back declaring Frankie a noble? Who could have pictured that? The young Chase was fairly certain it didn't actually mean much, but it hadn't stopped the White Birch Society from throwing their newly noble friend several parties to celebrate. It had gotten rather wild but Frankie had switched to Nuka-Maple partway through the festivities to keep from completely losing their head; they didn't need to follow in all their father's footsteps after all.\n\nLeaving the mirror behind, they made their way to the bedroom and sat on the edge of the mattress. At least it was a sign that Manitoba was sincere in their offer of friendship, it would have been an unlikely gift from a King plotting betrayal. Before they drifted off to sleep, staring into the dark, Frankie did have to admit to themself that Chancellor had kind of a nice ring to it."
+  nf_plt.30.a:0 "The Noble Chase Dynasty"
+
+  nf_plt.31.t:0 "Fairly Odd"
+  nf_plt.31.d:0 "Frankie opened the door warily, the knocking on the other side had been both loud and manic. It was barely open a crack before a thin, ragged shoe forced it all the way open. On the other side stood a rail-thin man in a patched shirt and slacks, a loosely knotted tie dangling below cracked glasses. A toothy smile stretched across their narrow face and his hair was lank and greasy but his eyes were full of fire. In his hand was a long net with a number of unidentifiable gizmos attached. Tentatively Frankie asked “Can I help you?”\n\n“Yes! You can and you should help me. I’m told that you’re the local expert on faeries!” His face twitched violently as he nearly shouted the last word.\n\n“Umm, well I don’t know if I’m an expert. I’m not a scientist. But there should be a few just down at the corner that way.” Frankie gestured down the street towards a corner the faeries often patrolled. The man thanked Frankie, already dashing off down the road without a second look back. Shrugging, Frankie went back inside and took down a book from the shelf to try and relax. They’d barely gotten two sentences in when a hideous scream rang out from outside. Running outside and after it they found the odd man dead in the street, stood over by a grumbling faerie trying to rip itself free of the net that had been thrown over her head."
+  nf_plt.31.a:0 "Who was that man?"
+
+  #######
+##### FOCUSES
+  #######
+
+  plt_happy_little_community:0 "Our Happy Little Community"
+  plt_happy_little_community_desc:0 "Come and stay in Pleasantdale, where the hearth is warm and the wine tastes just like you remember it."
+
+  plt_a_city_of_the_future:0 "A City of the Future!"
+  plt_a_city_of_the_future_desc:0 "Pleasantdale— a city where the modern man can keep science, reason, and respect at the forefront of his daily routine."
+
+  plt_crisis_in_pleasantdale:0 "Crisis in Pleasantdale"
+  plt_crisis_in_pleasantdale_desc:0 "A father goes missing, and what is one to do?"
+
+  plt_our_lovely_city:0 "Our Lovely City"
+  plt_our_lovely_city_desc:0 "Pleasantdale is what we're all here for, isn't it? The countryside isn't the worst when it gets down to it, but it's a helluva lot worse than inside the walls."
+
+  plt_pleasantdales_military_crisis:0 "Pleasantdale's Military Crisis"
+  plt_pleasantdales_military_crisis_desc:0 "Between the Lucifer users and the Faeries, Pleasantdale's military isn't the best. Of course, Solomon over in Stoon would tell you "don't worry about it," but we all know better."
+
+  plt_lucifers:0 "Addressing Lucifer Usage"
+  plt_lucifers_desc:0 "Lucifer usage has only gotten more and more popular every year, and while we can sustain the Red Fern demand, the toll it's starting to take on our people has become more and more noticeable. We must be cautious with how it is to be dealt with."
+
+  plt_spectral_cabal:0 "About the Cabal..."
+  plt_spectral_cabal_desc:0 "The Spectral Cabal has long been a thorn in the side of every enterprising aristocrat. They're somewhere between being a religious order and being a bunch of chem-addicted swingers, and everybody knows it. Of course, even if you've been healed by one of their "special spas," you know better than to trust them outright."
+
+  plt_restrict_lucifers:0 "Restricting Lucifers"
+  plt_restrict_lucifers_desc:0 "Lucifers are too dangerous to be continually taken seriously. We must get rid of them as soon as possible— even if it puts us in the ire of the Cabal."
+
+  plt_encourage_lucifers:0 "Encouraging Lucifers"
+  plt_encourage_lucifers_desc:0 "Lucifers are a staple of life here in Pleasantdale. Why, if I can't flick a spark from my wrist to power my nightlight, then what good am I?"
+
+  plt_exalting_the_cabal:0 "Exalting the Cabal"
+  plt_exalting_the_cabal_desc:0 "The Spectral Cabal are one of the finest friends a man or woman can have here in the Electorate. They're well-seasoned members of the aristocracy, which grants us purchase with many of the nobility in the region, and they're well-known among the poor for what good their chapels have done to heal."
+
+  plt_pushing_out_the_cabal:0 "Getting Them Out"
+  plt_pushing_out_the_cabal_desc:0 "The Cabal are the ideological danger that follows every puff of Red Fern— the ghost in every cigarette sold. Their influence in our city is great, but with one coordinated move, we can be rid of them for good, and with them, we can begint o heal."
+
+  plt_pleasantdales_arms_factory:0 "Pushing for Contractors"
+  plt_pleasantdales_arms_factory_desc:0 "We ought to take a page from Dundurn's book— there are plenty of contractors within and without of our city that would love to take a spin at fixing up some of our older factories!"
+
+  plt_pleasantdales_arms_factory_2:0 "Approaching Inner City Architects"
+  plt_pleasantdales_arms_factory_2_desc:0 "Maxwell Chase's.... Interesting philosophies attracted many aged and jaded architects from the Manitoban Monarchy. Why don't we poke them for what they can do?"
+
+  plt_the_red_fern:0 "The Red Fern"
+  plt_the_red_fern_desc:0 "The Red Fern is our greatest export. It's what makes us stand out from the rest of the doofuses in the world."
+
+  plt_little_treasures_orphanage:0 "The Little Treasures Orphanage"
+  plt_little_treasures_orphanage_desc:0 "The Little Treasures Orphanage is where all Faeries-in-Training go. Few have ever seen the inside, but Doctor Olivia Baxter has been there from the beginning. The future of the Faeries began with her— the future rests with her, too."
+
+  plt_enlist_all_youth:0 "Opening the Enlistment"
+  plt_enlist_all_youth_desc:0 "With the growing chaos in the Electorate and beyond, Doctor Baxter has proposed a mad plan: to secure the future of the Electorate, we must expand the definition of what is to become a Faerie yet again. Sickly little girls will only get us so far."
+
+  plt_enhance_monster_production:0 "Enhancing Monster Production"
+  plt_enhance_monster_production_desc:0 "After so long, Olivia has gathered concepts for upgrades to our gear based off of her armor improvements across the many generations of Faeries. Let us put these to good use!"
+
+  plt_expanding_the_factories:0 "Expanding the Facilities"
+  plt_expanding_the_factories_desc:0 "Now that Faerie production is now in full swing, we must expand Dr. Olivia's facilities to ensure a perfect Faerie training process."
+
+  plt_restrict_the_fairies:0 "They Are Still People In There"
+  plt_restrict_the_fairies_desc:0 "Enough is enough. Faeries may be our protectors, but they are not beneath us, and it's time to stop pretending they are. They are not servants and they will not be subjected to any more "obedience trials." It's time we start looking our mistakes in the eye."
+
+  plt_freeing_up_factories:0 "Man Versus Fae"
+  plt_freeing_up_factories_desc:0 "The Faeries will no longer be shackled as our protectors. The program will end. While we still have plenty to pull from, and they are still our protectors, they shall be as respected as anyone else. Those who take issue with such will be told to hit the road!"
+
+  plt_industry:0 "Matters of Industry"
+  plt_industry_desc:0 "In recent months, turmoil has been stirred within Pleasantdale. Riots about unsafe work conditions and a growing drought have wrought the country with despair. We must make measures to counteract it!"
+
+  plt_water_control:0 "Clearing the Pipes"
+  plt_water_control_desc:0 "A group of Umbravore have settled a nest at some of our pumping sites in the wake of the recent riots. We'll send in Flowerhead to eradicate them, and clean up what's left."
+
+  plt_water_pumping_station:0 "Pumping Station 02"
+  plt_water_pumping_station_desc:0 "Securing another end of the pumping station should be enough to cover the city itself and end the crisis. Any more and we'd be in an excess."
+
+  plt_civilian_factory:0 "Working the Pumps"
+  plt_civilian_factory_desc:0 "With the water back up and running, we need folks to make sure it gets where it needs to go. After all, if it can't get across the city, what was the point of fixing it in the first place?"
+
+  plt_economy_fit_for_pleasantdale:0 "An Economy Fit for Pleasantdale"
+  plt_economy_fit_for_pleasantdale_desc:0 "Would any regular economy fit the people of Pleasantdale? Obviously not, which is why a prosperous economy is an economy fit for Pleasantdale!"
+
+  plt_water_for_everyone:0 "Let's Get H2-GO-ing!"
+  plt_water_for_everyone_desc:0 "Securing the rest of the pumps has allowed us to grow water distribution across the Electorate en masse. No doubt this will be beneficial for us all!"
+
+  plt_civilian_factories_1:0 "The Wadena Winery"
+  plt_civilian_factories_1_desc:0 "The Wadena Winery has long since been a staple of Pleasantdale— who doesn't remember their first sip of that fiery Mutfruit Wine?"
+
+  plt_offer_work_incentives:0 "Offer Work Incentives"
+  plt_offer_work_incentives_desc:0 "The workmen of Pleasantdale are under the impression that the city cares more for its rich than its poor. While they aren't wrong, this isn't Dundurn, so we're willing to listen to everyone we can. Let's see what they want and make it clear the communication channel is open."
+
+  plt_assuage_the_workers:0 "Assuaging the Workers"
+  plt_assuage_the_workers_desc:0 "Through compromise, we've been able to achieve some form of ends for the workers. Upping their pay and giving proper breaks was enough to even the score, thankfully."
+
+  plt_reopen_the_plant:0 "The Pleasantdale Power Plant reopens!"
+  plt_reopen_the_plant_desc:0 "The lights have turned back on, and the parties have resumed as normal. Life isn't so bad in Pleasantdale after all."
+
+  plt_old_power_plant:0 "The Source of Mismanagement"
+  plt_old_power_plant_desc:0 "Deborah Walsh may be a robobrain, but she's not fully incapable. If anything, you'd imagine her computation skills would be off the charts! Her mismanagement of the power plant has not only led to intense rioting but also let to severe debris accumulation from a bizarre hoarding. We must clean this up, and fast!"
+
+  plt_composites:0 "Closing Down Pierre's"
+  plt_composites_desc:0 "Pierre Jones has always been a thorn in the Chase Family's side. Though he became a great real-estate magnate in his time, in light of recent events, we just can't afford to let his company keep business up. Maybe they can find opportunity in Dundurn!"
+
+  plt_research_boost:0 "Chase University"
+  plt_research_boost_desc:0 "Founded by Gloria Chase in 2263, Chase University has produced some of the brightest minds in the Electorate time and time again, including the infamous Timothy Littlehope. While his death led to a brief time of calamity within the collegiate, they've recently started to get back to business."
+
+  plt_research_slot:0 "The Good Works of Timothy Littlehope"
+  plt_research_slot_desc:0 "Timothy Littlehope's "Littlehope Doctrine" remains a source of controversy even today. Even so, his teachings have continued to only grow in popularity. If you were to ask Gloria Chase what made him so special, she would of course cite her own university."
+
+  plt_the_white_birch_society:0 "The White Birch Society"
+  plt_the_white_birch_society_desc:0 "In Pleasantdale, there's a fine society of folks, one by which even Hope is privy to— the ladies, gents, and all other peoples of the White Birch Society. Priding themselves on big game hunting and secret parties and their ties run deep in the city's blood."
+
+  plt_clearing_the_roads:0 "Clearing the Roads"
+  plt_clearing_the_roads_desc:0 "How is a man meant to cross the road if its full of old raider carcasses? How is a cart, or even a CAR for those truly rich amongst ourselves going to get anywhere?"
+
+  plt_lumber_yards:0 "Appraise Lumber Yards"
+  plt_lumber_yards_desc:0 "Lumber begets land development, and keeps the poor out of town where we can't see them. (Someone has to chop the wood!)"
+
+  plt_endorse_company_sponsors:0 "Endorsing Corporate Sponsors"
+  plt_endorse_company_sponsors_desc:0 "Dundurn has a great many companies who could be consulted with references to our lumber pursuits. Why don't we start there?"
+
+  plt_from_iron_to_steel:0 "From Iron to Steel"
+  plt_from_iron_to_steel_desc:0 "Fine craftsmen become good craftsmen, and good craftsmen become great craftsmen."
+
+  plt_migrants_from_the_pass:0 "Migrants from the Pass"
+  plt_migrants_from_the_pass_desc:0 "Sometimes folks will roll out of the Scarlet Blizzard and they won't be oozing ichor or some other junk. Better to welcome them and put them to work than anything else."
+
+  plt_rich_society:0 "The Fineries of Rich Society"
+  plt_rich_society_desc:0 "Commerce is king, and boy do we have commerce to go around..."
+
+  plt_absolute_dickheaded_hunting_club:0 "John Smith's Lovely Hunters Club"
+  plt_absolute_dickheaded_hunting_club_desc:0 "The White Birch folks look to one of our finest: a man named John Smith, who serves neither state nor country and prefers to spend his time at a private log cabin near the Saskatchewan. Invites have been sent to the most illustrious to beg them to come north and 'have a gas.'"
+
+  plt_the_biggest_of_game:0 "Tales of the Biggest Game"
+  plt_the_biggest_of_game_desc:0 "John Smith has plenty of stories to go around— the greatest beast of which he cites being the Luminous Umbravore, borne from the deepest calamitous pits of the Scarlet Blizzard. Every bullet he shot, for every wound they made, a new mouth would form within seconds— eventually resulting in a horrific gnashing creature stabbing its own bones through itself."
+
+  plt_hunting_big_game:0 "Hunting Good Game"
+  plt_hunting_big_game_desc:0 "The Electorate has no shortage of beasts, from Leshy to the various Umbravores trickling out of MANIFEST North. Hunting them would bring a great amount of fun and tourism to the city."
+
+  plt_expanding_the_yard:0 "Expanding the Yard"
+  plt_expanding_the_yard_desc:0 "With a great many creatures pushed out or hunted, we can focus once again on development. Huzzah!"
+
+  plt_red_fern_production:0 "Wonders of the Red Fern, Now Afar!"
+  plt_red_fern_production_desc:0 "The Red Fern is the source of our greatest exports and our greatest treasure. If we gave it up, then who would be monopolizing this? We would sooner burn it all down than see it in the hands of our foes."
+
+  plt_red_fern_sales:0 "Red Fern Sales"
+  plt_red_fern_sales_desc:0 "Between the Spectral Cabal and our own merchants, we've been selling greater amounts of Red Fern products than ever before. The gilded age is nigh!"
+
+  plt_air_bases:0 "Tales of the Unbound!"
+  plt_air_bases_desc:0 "Raiders on wings? Ridiculous, but amazing. We must ride as they do! Caps will speak wonders."
+
+  plt_air_bases_but_for_real:0 "Greenwater Air Field"
+  plt_air_bases_but_for_real_desc:0 "Following the examples set by the Unbound, we will create our own air field."
+
+  plt_rockford_roll:0 "Rockford & Roll"
+  plt_rockford_roll_desc:0 "Smiling Jack and his lot are sitting on land that we could be using for our own purposes. Let's push out those Frostlurks and carve out a bigger chunk for ourselves!"
+
+  ### Tragedy! ###
+  plt_tragedy_in_the_family:0 "Death in the Family"
+  plt_tragedy_in_the_family_desc:0 "Never forget what once was."
+
+  plt_appeal_to_hope:0 "Appealing to §MHOPE§!"
+  plt_appeal_to_hope_desc:0 "Hope has always been a stalwart member of the Pleasantdale elite. She knows how to run this place, and without anyone to specifically tell her 'no,' who knows what she can do?"
+  plt_appeal_to_hope_tt:0 "Spawn §G1§! §YMANIFEST Riot Control§! division."
+  plt_scheming_against_the_others:0 "Scheming Against The Others"
+  plt_scheming_against_the_others_desc:0 "§MThey REALLY hate us, you know? It's better to just take cute little pointers and prepare for the inevitable possibility that they will turn against us.§!"
+  plt_infantry_equip:0 "Guns, Guns, Guns"
+  plt_infantry_equip_desc:0 "§MThe best deterrent for a man with a gun is more men with more guns.§!"
+  plt_fairy_upgrade:0 "Upgrading Fae"
+  plt_fairy_upgrade_desc:0 "§MThe Faeries aren't perfect, sadly! I can do a lot to make them even more deadly and horrifying. See, watch!§!"
+  plt_pacification:0 "Pacifying the Weak"
+  plt_pacification_desc:0 "§MMake no mistake, I am a pacifist first and foremost, which is why we must make sure others are pacified, too!§!"
+  plt_robot_bunker:0 "The Stockpile"
+  plt_robot_bunker_desc:0 "§MMaxwell always told me "honey, I want you to protect this place if I die," and protect it I will. Each of these machines will prevent anyone from hurting us.§!"
+  plt_robotics:0 "Dusting Up Protocols"
+  plt_robotics_desc:0 "§MPlenty of old code that's unfinished is just sitting around— performance enhancements and the like. Why don't I give it a quick smooch and see it on its way?§!"
+  plt_prepare_in_secret:0 "Preparing in Secret"
+  plt_prepare_in_secret_desc:0 "§MJust 'cause we like to play nice doesn't mean we have to play nice all the time. Hehe.§!"
+  plt_enemies_on_every_side:0 "Enemies on Every Side"
+  plt_enemies_on_every_side_desc:0 "§MWe're surrounded by people who want us dead. Even my sister wants all this to herself! Now, I love her, but... I just don't quite know about that sorta plan, you know?§!"
+  plt_electorate_taste_of_pleasantness:0 "Spreading Pleasantness to the Electorate"
+  plt_electorate_taste_of_pleasantness_desc:0 "§MLet's be real, the people of Dundurn and Stoon has only known smoke, dirt, and smog their entire life. Now, they get to experience the joy of pleasantness, all thanks to HOPE!§!"
+  plt_washed_out_from_dundurn:0 "Washed Out from Dundurn"
+  plt_washed_out_from_dundurn_desc:0 "§MGloria Chase and I were good friends, though she... Well, she wasn't a fan of me and Maxwell's relationship by the end of everything. Still, she had a lot to share— and boy am I going to get every last bit of it from her and Rosewood!§!"
+  plt_push_for_pleasantness:0 "Pushing for Pleasantness"
+  plt_push_for_pleasantness_desc:0 "§MJust like my old MANIFEST directives mention, a pleasant society is a profitable one!§!"
+  plt_maxwell_pleasantdale:0 "Pleasantdale as Maxwell Intended"
+  plt_maxwell_pleasantdale_desc:0 "§MBefore his unfortunate passing, Maxwell dreamed of a truly prosperous Pleasantdale, We have fulfilled this dream with great earnest.§!"
+  plt_hope_bonus:0 "§MHOPE§!-ing Well"
+  plt_hope_bonus_desc:0 "§MI believe we can do this! Even without Mr. Chase, we can use the Red Fern for good both scientifically and otherwise.§!"
+  plt_bunker_1:0 "Grand Reopening! (West Wing, Anyway)"
+  plt_bunker_1_desc:0 "§MThe west wing of MANIFEST Saskatchewan was transferred into the primary source of the faerie program. Now, with new minds in the mix, who knows what we can do?§!"
+  plt_bunker_2:0 "Grand Reopening! (East Wing, finally)"
+  plt_bunker_2_desc:0 "§MSomewhere's gotta outfit people!§!"
+  plt_new_way_forward:0 "MANIFEST Saskatchewan, Back Online!"
+  plt_new_way_forward_desc:0 "§MMANIFEST Saskatchewan is back online in full with no more secrecy! And with it, our old puzzle pieces fall into place. Hehe!§!"
+  plt_support_tech:0 "Red-Stims"
+  plt_support_tech_desc:0 "§MTaking a stimpak and shoving a lot of Red Fern juice in there is bound to accelerate the healing factor!* \n\n*And mutation. MANIFEST and by extension Pleasantdale claim no responsibility for any degeneration of human traits.§!"
+  plt_hopeful_reunion:0 "A Reunion of §RDestiny§!"
+  plt_hopeful_reunion_desc:0 "§MWhile my sister has been a little wacky in the circuits lately, what she really needs right now is some sibling love!§!"
+  plt_manitoban_directive:0 "The Manitoban Directive"
+  plt_manitoban_directive_desc:0 "§MOur Benefactors has recently suggested that we 'deal' with the growing Manitoban powers, with their recent hospitality and all, who are we to say no?§!"
+  plt_the_machine_tyrant:0 "A §MHOPE§!ful Gal!"
+  plt_the_machine_tyrant_desc:0 "§MHope is nothing if not a woman of the people.§!"
+
+  ### Tragedy 2! ###
+  plt_appeal_to_sense:0 "Appealing to §YSense§!"
+  plt_appeal_to_sense_desc:0 "§YIt's hard to believe he's gone, harder to believe he went out like this. Still, something has to be done.§!"
+  plt_lowering_reliance_on_HOPE:0 "Unburdening HOPE"
+  plt_lowering_reliance_on_HOPE_desc:0 "§YApparently HOPE managed a lot more of this place than anyone expected and while she claims that she can handle it maybe it's best to take some of the pressure off her.§!"
+  plt_support_from_white_birch:0 "Support from the White Birch Society"
+  plt_support_from_white_birch_desc:0 "§YUnexpectedly Miss Blanche of the White Birch Society has come calling, wanting to discuss both the present and the future. I should hear her out.§!"
+  plt_the_funeral:0 "The Funeral"
+  plt_the_funeral_desc:0 "§YToday is the day, deep breaths, we can make it through this.§!"
+  plt_electoral_problems:0 "Electoral Problems..."
+  plt_electoral_problems_desc:0 "§YEverything is on the verge of falling apart, but we've got at least a few tricks up our sleeves. Bring out the reserves from the Glen and let's see if we can't make this work.§!"
+  plt_stoking_dundurn_railway_union:0 "Stoking the Dundurn Railway Union"
+  plt_stoking_dundurn_railway_union_desc:0 "§YThe easiest way to the heart of Dundurn isn't through Rosewood, The Dundurns themselves or even the Sparkblades. It's through the workers, and the Railway Union most of all. Giving them what they want and need will make the days to come so much easier.§!"
+  plt_mother_knows_best:0 "Mother Knows Best?"
+  plt_mother_knows_best_desc:0 "§YEven after everything, she's still my mom. She wasn't very warm about it, but she's given me access to whatever the Rosewood's got. Just have to prove to her it's worth it.§!"
+  plt_what_is_going_on_in_stoon:0 "What the Hell is Going on in Stoon?"
+  plt_what_is_going_on_in_stoon_desc:0 "§YThe Dandies were honestly worse even than we thought, and even with Stoon occupied they're not going to go down easily. Rooting out the last of them is going to be bloody, but until they're broken and scattered we'll never have peace.§!"
+  plt_rationality_in_madness:0 "Rationality in the Madness"
+  plt_rationality_in_madness_desc:0 "§YIf there's one man in Stoon who can be counted on to be sane and helpful in the chaos, it's Dr. Toboggan. Father should have been kinder to him, but that's something we can make up for now and we can ask for his help in return.§!"
+  plt_petitioning_coalition:0 "Charting a Course"
+  plt_petitioning_coalition_desc:0 "§YOn our doorstep the future of Manitoba is being decided, with war on our horizon both sides are reaching out to us. I'll have to make a decision.§!"
+  plt_bloody_electorate_to_pleasant:0 "From Bloodshed to Pleasantries"
+  plt_bloody_electorate_to_pleasant_desc:0 "§YWe had to fight hard to get here and it wasn't pretty, but the electorate doesn't need to stay bloody. This can all be a Pleasant land, and for real this time.§!"
+  plt_pleasant_solutions:0 "...Pleasant Solutions"
+  plt_pleasant_solutions_desc:0 "§YThe White Birch Society knows its way around a gun or two, and with their support and resources we can see about getting ourselves a lot more guns to go around. Anyone looking to cause trouble will be sure to get a Pleasant welcome.§!"
+  plt_limiting_lucifer_usage:0 "Limiting Luficer Usage"
+  plt_limiting_lucifer_usage_desc:0 "§YWe've been playing with fire for a long time, no pun intended, when it comes to Lucifers. Sure they're wild at parties but half the town almost burns down every now and then and people are dying. We'll probably never wean people off them entirely, but we need to regulate them at least a bit.§!"
+  plt_addressing_infant_mortality_rates:0 "Addressing Infant Mortality Rates"
+  plt_addressing_infant_mortality_rates_desc:0 "§YThe biggest black eye on Pleasantdale, even if dad wouldn't have agreed, is the Faerie program. We're not in a position to shut it down or solve the problem entirely, but things don't have to be so bad. Starting by treating the Faerie's better and not just as weapons to be used.§!"
+  plt_leaving_the_cabal_alone:0 "Kicking the Weirdos Out"
+  plt_leaving_the_cabal_alone_desc:0 "§YWhile we're solving problems and cutting out bad influences, we shouldn't forget the spectral elephant in the room. The Cabal hasn't taken kindly to us trying to regulate Lucifers and other Red Fern products, and they've started going too far in trying to get around it. Might be time to put an end to this.§!"
+  plt_strange_messages_to_HOPE:0 "Strange Transmissions to §MHOPE§!"
+  plt_strange_messages_to_HOPE_desc:0 "§YHOPE let me know this morning that she received an unexpected message intended to be just for her. It's a good thing she's really on our side, let's see it.§!"
+  plt_facing_the_music:0 "Forcing Them to Face the Music"
+  plt_facing_the_music_desc:0 "§YAnd we thought the Cabal was a pain, these CSIS guys are much worse. Some shadowy group of old world spies hoping to make HOPE do their dirty work. We've got an idea of where they're hiding, so let's send them packing.§!"
+  plt_diversify_red_fern:0 "Diversifying Red Fern Applications"
+  plt_diversify_red_fern_desc:0 "§YWith some of the more stubborn pushers gone, it's a good time to take a closer look at just what Red Fern can do. It doesn't need to be all psychoactive cigarettes and faeries. If we can come up with some more stable products, we should be able to make a tidy profit.§!"
+  plt_littlehope_doctrine:0 "Notes from the Littlehope Doctrine"
+  plt_littlehope_doctrine_desc:0 "§YThe Littlehope Doctrine made a lot of waves all across the electorate, for better or worse. Now might be the time for some revisions and additions though, from me and mom and even some of dad's notes. The Chases know a thing or two about going all in on what you believe in.§!"
+  plt_clearing_out_batford:0 "Clearing Out Battleford"
+  plt_clearing_out_batford_desc:0 "§YThe lands across the river have been a breeding ground for raiders and thugs looking to make a mark for a long time. The Dandies may have never committed to doing something about it but that doesn't mean we can't. §!"
+  plt_advertising_normality:0 "Advertising Normality"
+  plt_advertising_normality_desc:0 "§YPeople underestimate how much everyday people just want a normal and safe place to live. They don't need cannibals or giant snakes or dreams of dead empires. That is something we can give them, a Pleasant life.§!"
+  plt_making_dad_proud:0 "Making Dad Proud"
+  plt_making_dad_proud_desc:0 "§YWe did it right? I mean there's always more to do but... we held on and made the best of things, made things better. I can take a minute and just breathe.§!"
+
+  plt_spawn_faeries_tt:0 "Spawn §G1§! §YFaery Reserves§! division."
+
+  #decisions
+
+  plt_spectral_cabal_decisions:0 "The Spectral Cabal"
+  plt_spectral_cabal_decisions_desc:0 "                 " # Note: Empty Whitespace Necessary for Deccat GFX to Function, Do Not Delete
+
+  plt_heal_the_men:0 "Visiting the Chapels"
+  plt_heal_the_men_desc:0 "The Spectral Cabal is famed for its strange chapels— more like strange cornerclubs with decadant decorum. Eerie regenerative technologies derived from ancient MANIFEST hardware litter the various pools, giving them a healing property like no other. The Cabal claims that it is the work of a "wolf god" that saw this come to fruition. \n\nWhatever the case may be, they are incredibly helpful."
+  plt_lucifers_equipment:0 "Purchasing Lucifers"
+  plt_lucifers_equipment_desc:0 "The Cabal has many of the Lucifer merchants in their pocket, and Lucifers can have as many healing properties as they do destructive. What say we don't make some recreational use of some?"
+  plt_humor_cabal:0 "Humoring the Cabal"
+  plt_humor_cabal_desc:0 ""
+  plt_open_library:0 "Prying Open Their Libraries"
+  plt_open_library_desc:0 ""
+  plt_war_ritual:0 "Participate in a War Ritual"
+  plt_war_ritual_desc:0 ""
+
+  plt_white_birch_decisions:0 "The White Birch Society"
+  plt_white_birch_decisions_desc:0 "                 " # Note: Empty Whitespace Necessary for Deccat GFX to Function, Do Not Delete
+
+  plt_stag_hunting_with_john:0 "Stag Hunting with John"
+  plt_rifle_training_with_blanche:0 "Rifle Training with Miss Blanche"
+  plt_golfing_with_higherups:0 "Golfing with the Higher-Ups"
+  plt_raising_birch_employees:0 "White Birch Promotions"
+
+  plt_csis_takeover:0 "With Friends Like These..."
+  plt_csis_takeover_desc:0 "                  " # Note: Empty Whitespace Necessary for Deccat GFX to Function, Do Not Delete
+  plt_dealing_with_destiny:0 "Dealing with Destiny"
+  plt_dealing_with_destiny_desc:0 "\n\n§GCSIS COMMUNIQUE.§! \n\n§RFOR AUTHORIZED PERSONNEL ONLY.§! \n\n§gHope, \n\nYour sister's technology is very valuable to us, just as I'm sure she is valuable to you. Inevitably, she is going to come knocking on your door— or you'll come knocking on hers. Either way, securing MANIFEST North will be a mutually beneficial experience— and we'll help you see your sister again safe and sound. You have my word.§!"
+  plt_secure_MANIFEST_north:0 "Securing MANIFEST North"
+  plt_secure_MANIFEST_north_desc:0 "\n\n§GCSIS COMMUNIQUE.§! \n\n§RFOR AUTHORIZED PERSONNEL ONLY.§! \n\n§gHope, \n\nNow that you've reclaimed MANIFEST North, we will send some agents to assist with securing it for...future use.§!"
+  plt_the_buffer:0 "The Troublesome Yorktons"
+  plt_the_buffer_desc:0 "\n\n§GCSIS COMMUNIQUE.§! \n\n§RFOR AUTHORIZED PERSONNEL ONLY.§! \n\n§gHope, \n\nThe Yorktons have been a pain in our side for quite some time, we ask that you deal with them to honor your end of the deal.§!"
+  plt_fighting_manitoba:0 "Felling the Illegitimate Kingdom"
+  plt_fighting_manitoba_desc:0 "\n\n§GCSIS COMMUNIQUE.§! \n\n§RFOR AUTHORIZED PERSONNEL ONLY.§! \n\n§gHope, \n\nBefore you celebrate taking down the Yorktons, We have much bigger fish to fry, that being the 'Kingdom of Manitoba'. Once you begin your offensive, we will mobilize some operatives deep within their lands.§!"
+  plt_secure_BRA:0 "Securing the 'Kingdom'"
+  plt_secure_BRA_desc:0 "§GCSIS COMMUNIQUE.§! \n\n§RFOR AUTHORIZED PERSONNEL ONLY.§! \n\n§gHope, \n\nMe and my associates believe the Kingdom of Manitoba to be a questionable authority, especially given its King's involvement in Canada's past. Removing him, and by association, all of his vassals from the equation would prove very valuable to our cause.§!"
+  plt_securing_winnipeg:0 "Reclaiming Winnipeg"
+  plt_securing_winnipeg_desc:0 "§GCSIS COMMUNIQUE.§! \n\n§RFOR AUTHORIZED PERSONNEL ONLY.§! \n\n§gHope, \n\nThe Republic of Three Rivers is sitting on one of the greatest Canadian cities, allowing it to waste away from their own infighting and poor leadership. We're going to change that. The Heart of the Continent deserves better.§!"
+  plt_clear_winnipeg:0 "Securing Winnipeg"
+  plt_clear_winnipeg_desc:0 "§GCSIS COMMUNIQUE.§! \n\n§RFOR AUTHORIZED PERSONNEL ONLY.§! \n\n§gHope, \n\nNow that the Republic of Three Rivers is out of the way, we shall work to rebuild Winnipeg to its former glory.§!"
+  plt_securing_dam:0 "Power to the People"
+  plt_securing_dam_desc:0 "§GCSIS COMMUNIQUE.§! \n\n§RFOR AUTHORIZED PERSONNEL ONLY.§! \n\n§gHope, \n\nRaiders and other unsavory sorts are sitting on one of the most critical dam arrays in the region. With your help, clearing this would allow us to bring a considerable amount of power back to the people.§!"
+  plt_secure_dam_array:0 "Securing That Dammed Array"
+  plt_secure_dam_array_desc:0 "§GCSIS COMMUNIQUE.§! \n\n§RFOR AUTHORIZED PERSONNEL ONLY.§! \n\n§gHope, \n\nWe are appreciative of your swift capture of the Dam, but we hope you don't mind if we post a few agents around the Dam, for safety reasons, of course.§!"
+  plt_awaiting_further_orders:0 "Remember the Directive"
+  plt_awaiting_further_orders_desc:0 "§MO Canada! Our home and native land! \n\nTrue patriot love thou dost in us command. \n\nWe see thee rising fair, dear land, \n\nThe True North, strong and free; \n\nAnd stand on guard, O Canada, \n\nWe stand on guard for thee.§!"
+
+  #tooltips
+
+  plt_birch_employees_tt:0 "We will mobilize §g3 divisions§! of White Birch Employees"
+  plt_csis_decisions_tt:0 "§gDon't worry about any Manitoban resistance. We'll take care of that...§!"
+  plt_destiny_tt:0 "§YDestiny§! becomes available as a §Gunit leader§!!"
+
+  plt_manifest_north_secured:0 "MANIFEST North, and its technology, has been secured."
+  plt_the_kingdom_secured:0 "The Kingdom of Manitoba has been brought to heel."
+  plt_winnipeg_secured:0 "Winnipeg has been retaken from its occupiers."
+  plt_dam_secured:0 "From Winnipeg to Winnipegosis, power runs free."
+  plt_manitoban_operatives:0 "§GWe will awaken a few Sleeper Agents in Winnipegosis§!"
+  plt_csis_forboding_tt:0 "§gBut with Maxwell Chase gone...§!"
+
+  #characters
+
+  PLT_FRANKIE_NAME:0 "Frankie Chase"
+  PLT_HOPE_NAME:0 "Hope"
+  PLT_BARKFACE_NAME:0 "Barkface"
+  PLT_JOHN_SMITH_NAME:0 "John Smith"
+  PLT_BLANCHE_NAME:0 "Miss Blanche"
+  PLT_GLORIA_NAME:0 "Gloria Chase"
+  PLT_BORSEY_NAME:0 "Borsey"
+  PLT_PORSEY_NAME:0 "Porsey"
+  PLT_HOLLY_NAME:0 "Holly"
+  PLT_CATCAT_NAME:0 "Catcat"
+  PLT_FREEBIRD_NAME:0 "Freebird"
+  PLT_WHITMAN_NAME:0 "Billy Whitman"
+  PLT_CHARLES_NAME:0 "Charles Lee"
+  PLT_DEBORAH_NAME:0 "Deborah Walsh"
+  PLT_WHISPERER_NAME:0 "The Whisperer"
+  PLT_DIRECTOR_NAME:0 "The Director"
+
+  #ideas
+
+  cpf_stag_hunting:0 "White Birch Sponsored Stag Hunting"
+  cpf_rifle_blanche:0 "Miss Blanche's Rifle Training"
+  cpf_library_smarts:0 "The Cabal's Open Library"
+  cpf_war_ritual:0 "Conducting a War Ritual"
+  cpf_cabal_humor:0 "Playing Along with the Cabal"
+  electorals_faerie_protection:0 "The Faeries Protect"
+  cpf_cabal_riots:0 "The Cabal Takes to the Streets!"
+  cpf_cabal_buff:0 "The Healing Pools"
+  cpf_cabal_buff_desc:0 "Why don't you come inside and stay awhile? The Wolf God has so many boons to offer you."
+  cpf_pleasantness:0 "A Real Pleasant Hosting"
+  cpf_robotics_buff:0 "MANIFEST Saskatchewan Manufacturing"
+  cpf_hope_is_a_schemer:0 "Hope's Schemes"
+  cpf_starving_populace:0 "The Water Shortage"
+  cpf_starving_populace_desc:0 "The people are without water. The nobles are hoarding everything they can, and won't compromise— not that we really want them to, anyway. We can secure a proper water source again by clearing out the pipes."
+  cpf_starving_populace_1:0 "Lessening Water Shortage"
+  cpf_starving_populace_1_desc:0 "The people have managed to procure a few more drops to drink, but the pumping stations will still need more fixing if we wish to solve the issue properly."
+  cpf_the_strike:0 "The Poor Man's Strike"
+  cpf_the_strike_desc:0 "Emboldened by Timothy Littlehope and the people of Dundurn, the poor folks of Pleasantdale are rioting!"
+  plt_hope_trait:0 "Your Personal Assistant (TM)"
+  cpf_hunting_club_ordeals:0 "John Smith's Lovely Hunters Club"
+  cpf_lumber_yards_idea:0 "Lumber Yards"
+  cpf_lumber_yards_upgrade:0 "Lumber Yards + Sales Assurance"
+  cpf_red_fern_sales:0 "Drug-loving Entrepeneurship"
+  cpf_plt_research_boost:0 "Chase University"
+  plt_bgc_buff:0 "Operatives in Boggy Creek"
+  plt_no_standing_military:0 "No Standing Military"
+  plt_small_standing_military:0 "Small Standing Military"
+  plt_middling_standing_military:0 "Middling Standing Military"
+  cpf_chase_university:0 "Chase University"
+  cpf_spf_armor:0 "Enhanced Faerie Armor"
+  plt_csis_manitoba:0 "Complete CSIS Control"
+  cpf_pleasantness_maxwell:0 "Pleasantdale Kept Pleasant!"
+  cpf_anti_manitoba:0 "Mysterious Sabotage"
+  plt_dundurn_union_concessions:0 "Concessions to the Dundurn Railway Union"
+  plt_kicking_out_the_cannibals:0 "Plucking the Dandelion Society"
+  plt_rosewood_inheritance:0 "The Rosewood Inheritance"
+  plt_littlehope_teachings:0 "The Littlehope-Chase Doctrine"
+  plt_lucifer_restraints:0 "Limiting Lucifer Usage"
+  plt_red_fern_diversification:0 "Diversifying Red Fern Markets"
+  plt_faery_reforms:0 "Humane Faerie Reforms"
+  plt_pleasant_isolation:0 "Pleasant Isolationism"
+
+  PLT_rebellious_faerie:0 "A Touch of Rebellion"
+  PLT_greatest_hunter:0 "The Biggest Game Hunter"
+  PLT_white_birch_leader:0 "White Birch Certified"
+  PLT_arborification_started:0 "Partly Arborified"
+  PLT_slow_and_methodical:0 "Slow and Methodical"
+  PLT_fast_reckless:0 "Fast and Reckless"
+  PLT_childlike_ruthlessness:0 "Childlike Ruthlessness"
+  PLT_gentle_giant:0 "Gentle Giant"
+  PLT_electorates_brightest:0 "The Electorate's Brightest"
+  PLT_craws_wings:0 "Craw's Best"
+  PLT_elite_manitoban_architect:0 "Manitoba's Finest Architect"
+  PLT_wadena_winery_owner:0 "Electorate's Best Winery"
+  PLT_mismanaging_powerplant:0 "Inefficent Power Plant Manager"
+  PLT_whisperers_of_wolf_god:0 "§RWhispers of the Wolf God§!"
+  PLT_the_director_trait:0 "§GThe Director§!"
+
+  plt_true_chase:0 "A True Chase"
+  plt_chancellor:0 "Chancellor of the Pleasant Electorate"

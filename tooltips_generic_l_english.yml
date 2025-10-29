@@ -1,0 +1,79 @@
+﻿l_english:
+  spacer_tt:0 " \n"
+  annex_wargoal_against_owners_of_the_states_tt:0 "Gains §YAnnex§! war goals against §Yeveryone who owns this states§!"
+
+  # named threat
+  took_territory:0 "Stole Claimed Territory"
+  returned_territory:0 "Returned Claimed Territory"
+
+  #Research tooltips
+  gauss_weapons_research_tt:0 "Allows the research of Gauss Weaponry.\n"
+  xian_fighter_research_tt:0 "Allows the research of Xian-85 Fighters.\n"
+  vertibirds_research_tt:0 "Allows the research of Vertibirds Aircraft.\n"
+  enclave_pa_research_tt:0 "Allows the research of Enclave PA Models.\n"
+  plasma_weapons_research_tt:0 "Allows the research of Plasma Weaponry.\n"
+
+  #Rule tooltips
+  RULE_NOT_ALLOWED_TO_RELEASE_TLALOC:0 "We don't have the technology to restore Tlaloc."
+  RULE_NOT_ALLOW_RELEASE_DECISION:0 "You can not release this nation besides by decision."
+  RULE_NOT_ALLOW_RELEASE_EVENT:0 "This nation will only be released by event."
+
+  #Scripted Effect tooltips
+  give_next_level_of_weapon_equipment_tt:0 "We will receive the next level of weapons tech in our chosen branch.\n"
+
+  #Decimation Tooltips
+  decimate_half_all_industry:0 "Industry in this state is §Rdecimated§!.\n"
+
+  #Bypass Generic Tooltip
+  own_all_core_states_of_war_nation_tt:0 "Every core state of the nation(s) specified in this focus is owned by you or your subjects."
+
+  #Scavenging Tooltips
+  rescue_team_send:0 "Has sent a rescue team out."
+
+  #Government Removal cost tooltip
+  remove_cost_tooltip:0 "\nThis idea costs an additional §R[?removal_cost]§! £pol_power to remove or switch from it to another idea.\n"
+
+  #Tooltip for air equipment production cost issues
+  air_tech_production_cost_tt:0 "§RThe production costs of this equipment will double in the production screen upon researching it this is to trick the AI into researching plane tech.§!"
+  
+  #Tooltip to unlock more decisions in the countries own Balance of Power Category
+  unlock_bop_decisions_tt:0 "Unlocks §Ydecisions§! in the Balance of Power sub-decisions menu."
+
+  #Tooltip for characters because Paradox is dumb and doesn't make proper tooltip for characters transfering countries
+  recruit_character_tt:0 "Recruit Character:"
+
+  #Advisor tooltips
+  available_army_chief:0 "§GAvailable§! as §YArmy Chief§!:\n"
+  available_high_command:0 "§GAvailable§! as §YHigh Command§!:\n"
+  available_cultural_advisor:0 "§GAvailable§! as §YCultural Advisor§!:\n"
+  available_economic_advisor:0 "§GAvailable§! as §YEconomic Advisor§!:\n"
+
+  #Company tooltips
+  available_designer:0 "§GAvailable§! as §YDesigner Company§!:\n"
+  available_business:0 "§GAvailable§! as §YMajor Business§!:\n"
+
+  #Tooltips for triggers which needs more states or characters present in country
+  more_states_tt:0 "§RWe need more states to have an effect!§!"
+  character_needed_for_effect_tt:0 "§RWe need this character present in our country to have an effect!§!"
+
+  #Tooltip for Advisors that can't be removed, because again: why paradox? has to be placed in modifier block or trait as custom_modifier_tooltip
+  advisor_cant_be_removed_tt:0 "This Advisor can not be §Rremoved§!."
+  
+  #Tooltip for focuses that are autocompleted by event
+  focus_autocomplete_by_event:0 "This focus will be §Ycompleted via event§! once the requisite conditions for it have been met!"
+ 
+  #Tooltip for focuses that has an event and with effect_tooltip we showcase what that event may unveil
+  if_they_accept_tt:0 "If they §YAccept§!:"
+
+  #Tooltip for effects that has an event with event_tooltip we showcase what that event may unveil
+  event_effect_tt:0 "After the event §Gtriggers§!:"
+
+  #Tooltips for switching State Category Types, so the Player will know how many building slots it will mean to him. Copying KR, naturally.
+  state_category_change_one_plus_building_slot:0 "This provides §G1§! additional base building slot."
+  state_category_change_two_plus_building_slot:0 "This provides §G2§! additional base building slot."
+  state_category_change_three_plus_building_slot:0 "This provides §G3§! additional base building slot."
+  state_category_change_four_plus_building_slot:0 "This provides §G4§! additional base building slot."
+  state_category_change_five_plus_building_slot:0 "This provides §G5§! additional base building slot."
+
+  #Tooltips for generic effects
+  build_outposts_alongside_border:0 "§YOutpost(s)§! will be raised alongside the state(s) border."

@@ -1,0 +1,15 @@
+﻿l_english:
+
+  nf_pfc.1.t:0 "The Legacy of Timothy Littlehope"
+  nf_pfc.1.d:0 "Years ago, a man by the name of Timothy Littlehope graduated from Chase University. With endorsements from Doctor Gloria Chase herself, he rose to quick stardom with many of his political talks being broadcast across the Electorate abroad. His philosophies, now coined as the "Littlehope Doctrine," were simple: a man can do no good by themselves. It is only in the greater mass can anything be achieved. To make an ideal your livelihood, to live it as though it coursed through your own blood, to give yourself wholly to a concept: that was the way to make ones life matter. \n\nHis teachings became especially popular among the poor-- and when the aristocrats caught wind, they latched onto it. Personalities came out of the wind in droves, gathering followers like never before. Radical ideas, questions about the human condition, ponderings on what was and what was not to be prevailed above the common good. \n\nWhile his death was but a year ago, his teachings have only grown in popularity: the Electorate now bursting at the seams with a new generation of radicals..."
+  nf_pfc.1.a:0 "Will his teachings prevail above sense?"
+
+  cpf_leshy_debuff:0 "Recovering from Leshy"
+  cpf_leshy_debuff_desc:0 "Months ago, a colossal mutated rattlesnake tore through our country. Recovery teams work to rebuild what was destroyed and salvage what we can from her sheddings she left behind."
+
+  nf_pfc.2.t:0 "Leshy's Wake"
+  nf_pfc.2.d:0 "The Death of Dundurn. Old Green-Eye. The Living Mist. Her titles were many, but it was the one whispered by children that prevailed, a pre-war creature of legend that had been her namesake: Leshy. \n\nA snake bigger than a hundred sheds, with rattles that clattered like thunder that could be heard twenty miles out. Her breath was a horrible radioactive gas, capable of melting a human's skin off within seconds, and her fangs had impaled as many as a dozen people at a time. Every few decades, she would erupt from a long slumber, ravaging the earth and killing hundreds in her wake. The old Front did well to fear her, but the Electorate had lost their touch. When she ravaged Wakaw and Pleasantdale, they learned their mistake-- and so, General Pariah Hawkmoon gathered a troupe of Sparkblades and met her at Strasbourg. She lit her cigarette as she detonated eight-tons of bombs underneath the great snake, sending her reeling back into the great north... For now. \n\nEven after her departure, her carnage scars the minds of the survivors and her sheddings litter the roads. Though they carry with them great resources, it will take time to heal from the damage she left in her wake."
+  nf_pfc.2.a:0 "Will her terror return?"
+
+  cpf_littlehope_legacy:0 "Legacy of Timothy Littlehope"
+  cpf_littlehope_legacy_desc:0 "The Littlehope Doctrine remains fresh in people's minds, even after his passing. The people are galvanized into their own cliques, working against each other with a pointless hatred growing in their hearts..."

@@ -1,0 +1,66 @@
+﻿l_english:
+  is_brotherhood_nation_tt:0 "Is a §YBrotherhood of Steel§! chapter"
+  is_not_brotherhood_nation_tt:0 "Is §Rnot§! a §YBrotherhood of Steel§! chapter"
+  is_brotherhood_nation_proper:0 "Obeys the §YBrotherhood of Steel§! recruitment laws"
+
+  is_chinese_nation_tt:0 "This nation was founded by §OChinese Remnants§!"
+
+  is_ghoul_nation_tt:0 "Is a §Yghoul§! nation"
+  is_not_ghoul_nation_tt:0 "Is §Rnot§! a §Yghoul§! nation"
+
+  is_human_nation_tt:0 "Is a §Yhuman§! nation"
+  is_not_human_nation_tt:0 "Is §Rnot§! a §Yhuman§! nation"
+
+  is_mormon_nation_tt:0 "Is a §YMormon§! nation"
+  is_not_mormon_nation_tt:0 "Is §Rnot§! a §YMormon§! nation"
+
+  is_raider_nation_tt:0 "Is a §Yraider§! nation"
+  is_not_raider_nation_tt:0 "Is §Rnot§! a §Yraider§! nation"
+
+  is_settler_nation_tt:0 "Is a §Ysettler§! nation"
+  is_not_settler_nation_tt:0 "Is §Rnot§! a §Ysettler§! nation"
+
+  is_super_mutant_nation_tt:0 "Is a §Ysuper mutant§! nation"
+  is_not_super_mutant_nation_tt:0 "Is §Rnot§! a §Ysuper mutant§! nation"
+
+  is_psyker_nation_tt:0 "Is a §Ypsyker§! nation"
+  is_not_psyker_nation_tt:0 "Is §Rnot§! a §Ypsyker§! nation"
+
+  is_tribal_nation_tt:0 "Is a §Ytribal§! nation"
+  is_not_tribal_nation_tt:0 "Is §Rnot§! a §Ytribal§! nation"
+
+  is_mexican_nation_tt:0 "Is a §YMexican§! nation"
+  is_not_mexican_tt:0 "Is §Rnot§! a §YMexican§! nation"
+
+  is_north_mexican_nation_tt:0 "Is a §YNorthern Mexican§! nation"
+  is_not_north_mexican_tt:0 "Is §Rnot§! a §YNorthern Mexican§! nation"
+
+  is_south_mexican_nation_tt:0 "Is a §YSouthern Mexican§! nation"
+  is_not_south_mexican_tt:0 "Is §Rnot§! a §YSouthern Mexican§! nation"
+
+  is_vault_tec_nation_tt:0 "Is a §YVault-Tec§! nation"
+  is_vault_tec_nation_tt_NOT:0 "Is §Rnot§! A §YVault-Tec§! nation"
+
+  is_robotic_civilization_tt:0 "Is a §YRobotic§! nation"
+  is_not_robotic_civilization_tt:0 "Is §Rnot§! a §YRobotic§! nation"
+
+  is_coastal_nation_tt:0 "Is a §Bcoastal§! nation"
+  is_not_coastal_nation_tt:0 "Is §Rnot§! a §Bcoastal§! nation"
+
+  is_advanced_nation_tt:0 "Is an §Badvanced§! nation"
+  is_not_advanced_nation_tt:0 "Is §Rnot§! an §Yadvanced§! nation"
+
+  is_civilized_nation_tt:0 "Is a §Ycivilized§! nation"
+  is_not_civilized_nation_tt:0 "Is §Rnot§! a §Ycivilized§! nation"
+
+  is_chiconet_nation_tt:0 "Is a §YChicoNet§! nation"
+  is_not_chiconet_nation_tt:0 "Is §Rnot§! a §YChicoNet§! nation"
+
+  is_ncr_nation_tt:0 "Is an §YNCR§! nation"
+  is_not_ncr_nation_tt:0 "Is §Rnot§! an §YNCR§! nation"
+
+  is_canadian_nation_tt:0 "Is a §YCanadian§!"
+
+  is_canadian_peoples_front_nation:0 "Is a §YCanadian People's Front§! nation"
+
+  is_neutral_country_tt:0 "§Y[THIS.GetName]§! is mutually neutral with §Y[PREV.GetName]§!"

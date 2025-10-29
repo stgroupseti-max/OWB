@@ -1,0 +1,760 @@
+﻿l_english:
+
+ ##########################################################################
+ ###     Swords of Hayman Localization     ###
+ ###     Written by violet & Lusa       ###
+ ##########################################################################
+
+ ##starting idea
+
+ soh_operation_cavalier_idea:0 "Operation: Cavalier"
+ soh_operation_cavalier_idea_desc:0 "In response to Patrocolus' own failings in dealing with the Sisters of Steel, [SOH.GetLeader] planned and commenced the clandestine 'Operation: Cavalier' to deal with them herself. Determined to wrest control of the narrative in the Montana Chapter, she endeavors to end the Sisters of Steel for good through any means necessary."
+
+ ##characters
+
+ SOH_hayman_name:0 "Head Paladin Hayman"
+ SOH_elder_hayman_name:0 "Elder Hayman"
+ SOH_hayman_desc:0 "§GPersonnel Entry—Hayman, Justinia§!\n\n§YRank:§! §gPaladin§!\n\n§R"You are the last in a legacy of failures."§!\n\nSuch a quote has defined Justinia's life since her father's death. In a neverending effort to prove her family's worthiness of a lineage in the vein of the Maxsons, she dedicated her life to being the perfect weapon for the Midwestern hierarchs. So it was that she found herself as a compatriot to the Montana Expedition—one to ensure that Patrocolus' decision to bring the Sisters of Steel was not poorly made.\n\nAnd now, Justinia Hayman has been vindicated and is taking matters into her own hands. Patrocolus' own guilt has devastated his ability to make decisions, but a new chapter has no room for moping. Not while the Enclave looms on the horizon. It falls to the last true Hayman to seal the deal once and for all, destroy the traitors, and secure a Brotherhood victory in a foreign land."
+ SOH_elder_hayman_desc:0 "§GPersonnel Entry—Hayman, Justinia§!\n\n§YRank:§! §gElder§!\n\n§R"You are the last in a legacy of failures."§!\n\nSuch a quote has defined Justinia's life since her father's death. In a neverending effort to prove her family's worthiness of a lineage in the vein of the Maxsons, she dedicated her life to being the perfect weapon for the Midwestern hierarchs. So it was that she found herself as a compatriot to the Montana Expedition—one to ensure that Patrocolus' decision to bring the Sisters of Steel was not poorly made.\n\nAnd now, Justinia Hayman has been vindicated and is taking matters into her own hands. Patrocolus' own guilt has devastated his ability to make decisions, but a new chapter has no room for moping. Not while the Enclave looms on the horizon. It falls to the last true Hayman to seal the deal once and for all, destroy the traitors, and secure a Brotherhood victory in a foreign land."
+
+ SOH_gideon_name:0 "Paladin Gideon"
+ SOH_gideon_high_command_desc:0 "§GPersonnel Entry—Gideon, Lancer§! \n\n§YRank:§! §gPaladin§!\n\nLancer Gideon is a legend among his peers in the Midwestern Brotherhood. He has fought hundreds of battles in the greater Chicago area and has resolved to fight a hundred more in Montana. Looking at his achievements, one would assume he is an exemplar of the Brotherhood's values and a true Paladin of the order.\n\nHayman knows the truth. Paladin Gideon has long since lost his love for battle. When his wife died in a routine patrol of Chicago, he wanted nothing more than to prevent others from experiencing the same horrors ever since. He is overly paranoid of losing everything to the specter of war that he has prevented his daughter, Rachel, from taking part in any front line combat.\n\nHowever, Rachel has come to Hayman on numerous occasions begging to be put on track to becoming a paladin like her father before her. Unfortunately for Gideon, this is a VERY exploitable weakness."
+
+ SOH_crone_name:0 "The Crone"
+ SOH_crone_theorist_desc:0 "§GPersonnel Entry—Marrow, Lydia§! \n\n§YRank:§! §gScribe (formerly), Paladin§! \n\nThe Crone has served the Hayman family for generations, doing her best to nurse a new Brotherhood dynasty worthy of memory. After the death of Hayman's father in Chicago, however, the sole caretaker of Justinia was none other than Lydia Marrow. \n\nCompletely cruel beyond measure, she is attributed with a great deal of Hayman's respect for the likes of Ryczek. While Justinia may be the one running the show, it'll always be The Crone pulling her strings..."
+
+ SOH_tithe_name:0 "Tithe"
+ SOH_tithe_high_command_desc:0 "§GPersonnel Entry—Vamos, Ryan§! \n\n§YRank:§! §gKnight§! \n\nKnight Vamos has been one of Hayman's most loyal sycophants for the better half of her life, having himself been the son of a raider kidnapped and forced into training. Through Justinia, he was taught to forgo all that his life once was and everything his father had told him in favor of Brotherhood dogma.\n\nNow, he serves as her secondmost right-hand man, handling petty racketeering and brutal dealings where she cannot be, securing resources needed for the front."
+
+ SOH_fenrir_name:0 "Fenrir"
+ SOH_fenrir_locked_desc:0 "§RERROR ERROR ERROR ERROR ERROR ERROR ERROR ERROR ERROR ERROR ERROR ERROR ERROR ERROR ERROR ERROR ERROR§!\n\n§O[!]§! §YViewing of this file has been strictly forbidden. Viewing will result in termination from MANIFEST and prosecution.§! §O[!]§!\n\n§RPassword Required!§!\n\n. . .\n\n§RAuthentication Key Rejected!§!"
+ SOH_fenrir_unlocked_desc:0 "§RERROR ERROR ERROR ERROR ERROR ERROR ERROR ERROR ERROR ERROR ERROR ERROR ERROR ERROR ERROR ERROR ERROR§!\n\n§O[!]§! §YViewing of this file has been strictly forbidden. Viewing will result in termination from MANIFEST and prosecution.§! §O[!]§!\n\n§RPassword Required!§!\n\n. . .\n\n§GAuthentication Key Accepted!§!\n\nFenrir was a project concocted in secret by Sydney Loke when her own endeavors were cast aside in favor of the twins Hope and Destiny, themselves cobbled together from Fenrir's former siblings code and hodge-podged with an assortment of new, flashier additions. Now, with Justinia Hayman acting as a puppet, Fenrir has a chance to incorporate MANIFEST's propety back into the fold and pursue their creator's dream of forging a society free of masters or kings."
+
+ SOH_bismarck_advisor_name:0 "Mr. Schmidt"
+ SOH_bismarck_advisor_desc:0 "§GPersonnel Entry—Schmidt, Walter§! \n\n§YRank:§! §gN/A§!\n\nWalter Schmidt, a merchant from Bismarck, has willingly decided to help sponsor our endeavors within the city. Whilst Hayman understands that he is a man of ill-repute, he has connections and resources that have helped us considerably with the settlement in Dakota."
+
+ SOH_atom_advisor_name:0 "Sister Leslie"
+ SOH_atom_advisor_cultural_desc:0 "§GPersonnel Entry—Leslie§! \n\n§YRank:§! §gInitiate§! \n\nSister Leslie is a pragmatic figure that Hayman somehow finds enjoyment in talking to. Despite the clashing beliefs of the Codex's doctrines and Atom's glow, the two have shared evenings discussing minor happenings and trying to find common ground."
+
+ SOH_unbound_advisor_name:0 "Initiate Wingnut"
+ SOH_unbound_advisor_cultural_desc:0 "§GPersonnel Entry—Wingnut§! \n\n§YRank:§! §gInitiate§! \n\nWingnut is an oddball, but he's... lovable? Not really. He's an obnoxious, idiotic raider that even the Unbound didn't want, but at least he riles up some of the soldiers that aren't up to speed."
+
+ SOH_marcus_name:0 "Paladin Marcus"
+ SOH_marcus_cultural_advisor_desc:0 "§GPersonnel Entry—Lennetus, Marcus§! \n\n§YRank:§! §gPaladin§! \n\nTo most of the Brotherhood, Paladin Marcus Lennetus is a true hero. Quickly rising through the ranks, he has become a key leader and figure to the Montana Brotherhood. His swift, speedy style of combat and his never-die approach to a fight has given him and his company the nickname of "Steel Talons", and the loyalty of the Steel Talons to Paladin Marcus has lead to numerous accolades in the Brotherhood. \n\nTo Paladin Hayman, however, she sees the true side of Marcus: a cold, calculating warrior who's pursuit of victory will stop at nothing, even at the cost of his own men. The Brotherhood might see a strong, undying hero, but Hayman sees an asset, one who wishes to see himself near the top of the food chain. Hayman can give Marcus just that, and thus, he secretly pledged himself, and the Steel Talons, to her cause."
+
+ SOH_basalt_advisor_name:0 "Sally Moone"
+ SOH_basalt_advisor_desc:0 "§GPersonnel Entry—Moone, Sally§! \n\n§YRank:§! §gN/A§!\n\nSally Moone, a representative from the Basalt Caravan Company, now conducts operations within our territory in exchange for our blessings of protection. Naturally, we don't do it for free."
+
+ SOH_knight_matt_name:0 "Knight Matt"
+ SOH_knight_matt_cultural_advisor_desc:0 "§GPersonnel Entry—Matt, Stephan§! \n\n§YRank:§! §gKnight§! \n\nEveryone likes Matt. He is a good friend to many across ranks in the Midwestern Brotherhood, and having him on her side gives Hayman a lot of clout with the rank-and-file soldiers of the Montana Chapter. Luckily for Matt, the secret of his rather taboo relationship with Knight Ricky is perfectly safe with her—so long as he stays in line."
+
+ SOH_scribe_mance_name:0 "Scribe Mance"
+ SOH_scribe_mance_cultural_advisor_desc:0 "§GPersonnel Entry—Mance, Sebastion§! \n\n§YRank:§! §gScribe§! \n\nMance is a researcher’s researcher. Always looking for a new problem with innovative engineering solutions. He is well-liked by his peers and has a loving family.\n\nWhat no one but Hayman knows is that he also likes spying on his peers in their private quarters via well-hidden surveillance cameras. He is dead in many more ways than one if this information went public, so he researches what Hayman tells him to."
+
+ SOH_knight_ricky_name:0 "Knight Ricky"
+ SOH_knight_peter_air_chief_desc:0 "§GPersonnel Entry—Ricky, Cyril§! \n\n§YRank:§! §gKnight§! \n\nNo one is quite sure why Ricky was brought along for the Montana expedition. He has always been a great pilot and skilled mechanic of airships back in the Midwest, but none were brought west. The only one who has a clue as to his reason for being here is Hayman—who knows that he has a long-standing relationship with one Knight Matt."
+
+ SOH_scout_james_name:0 "Scout James"
+ SOH_scout_james_economic_advisor_desc:0 "§GPersonnel Entry—James, Anton§! \n\n§YRank:§! §gScout§! \n\nScout James has been out in the field so long that he has more friends within outlying organizations than with his own Brotherhood chapter. Questionable choice of friends aside, Hayman keeps him around because of his ambition. James killed his superior officer and took his position around five years ago and has been performing admirably in it. Competence and ambition are both admirable traits in an officer, especially when Hayman has proof of everything ensuring his loyalty."
+
+ SOH_knight_xavier_name:0 "Knight Xavier"
+ SOH_knight_xavier_economic_advisor_desc:0 "§GPersonnel Entry—Xavier, Kelley§! \n\n§YRank:§! §gKnight§! \n\nKnight Xavier has some field training, but the real reason he is valuable to Hayman is his penchant for tinkering. He is an inventive soul with a real knack for practical field equipment repair, and modifications.\n\nUnfortunately for everyone involved but Hayman, one of Xavier’s modifications got one of his fellow Knights killed in a routine training exercise accident. Such a valuable asset is far more valuable in Hayman’s pocket than court-martialed, so a valuable asset he remains."
+
+ SOH_scribe_johnson_name:0 "Scribe Johnson"
+ SOH_scribe_johnson_economic_advisor_desc:0 "§GPersonnel Entry—Johnson, Nate§! \n\n§YRank:§! §gScribe§! \n\nAn efficient Sociopath, Scribe Johnson likes it when he uses the least amount of space needed to get the job done effectively. Underground and temporary bases of operation require the efficiency of space and labor, and Scribe Johnson just so happens to have both.\n\nHe also likes to design new methods of torture in his spare time. Inventive as they are, Hayman is running out of space on her computer because of the sheer quantity of schematics."
+
+ SOH_destiny_name:0 "Destiny"
+
+ SOH_hope_name:0 "Hope"
+
+ SOH_augmented_paladin_name:0 "Rekkr"
+
+ #traits
+
+ soh_the_last_resort:0 "The Last Resort"
+ soh_steel_talons:0 "Steel Talons Premier"
+ soh_tough_love:0 "Tough Love"
+ soh_spirit_of_the_midwest:0 "Spirit of the Midwest"
+ soh_a_power_armored_fist:0 "A Power Armored Fist"
+ soh_legacy_redeemed:0 "A Legacy Redeemed"
+ soh_sisters_end:0 "Sisters' End"
+ soh_the_bloody_elder:0 "The Bloody Elder"
+ soh_ghost_of_manifest:0 "Ghost of MANIFEST"
+ soh_ghost_of_manifest_good:0 "Ghost of MANIFEST"
+ soh_factory_magnate:0 "Factory Magnate"
+ soh_basalt_company_manager:0 "Caravan Manager"
+ soh_atom_cultist:0 "Atom Cultist"
+ soh_kleptomaniac:0 "Kleptomaniac Raider"
+ soh_harbinger_of_ragnarok_soothsayer_of_the_end:0 "Harbinger of Ragnarök"
+ SOH_cybernetic_enhancements_trait:0 "Cybernetic Enhancements"
+ SOH_cybernetic_enhancements_trait_desc:0 ""
+
+ #flags
+
+ soh_hayman_exiled_flag:0 "§YHayman§! has been §ROutcasted as a Traitor§! from §Y[MNC.GetFlag] [MNC.GetNameDef]§!!"
+ soh_hayman_sisters_destroyed:0 "§RThe §PSisters of Steel§! have been destroyed!§!"
+ soh_hayman_embraced_flag:0 "§YHayman§! has been §MWelcomed Back as a Hero§! to §Y[MNC.GetFlag] [MNC.GetNameDef]§!!"
+ soh_hayman_insanity_flag:0 "§RHayman must lose herself to a dark fate!§!"
+ soh_fenrir_dead_flag:0 "§RFenrir has been destroyed!§!"
+ soh_jormungandr_key_flag:0 "§YJörmungandr§! has been acquired."
+ soh_hel_key_flag:0 "§YHel§! has been acquired."
+ soh_fenrir_exposure_medical:0 "§gThe dreams must be stopped.§!"
+ soh_fenrir_exposure_ignorance:0 "§gThe dreams are signalling us somewhere. They won't stop—perhaps it's time to listen?§!"
+ soh_stealing_mnc_equipment:0 "Already siphoning equipment from §Y[MNC.GetFlag] [MNC.GetNameDef]§!"
+
+ #tooltips - purpose
+ soh_reinforcements_1_oob_tt:0 "§RThree units of Eager Knights will spawn in our lands, enticed by Hayman's calling!§!"
+ soh_steel_talons_oob_tt:0 "§ROne unit of Steel Talons will spawn in our lands, summoned by Marcus' demand!§!"
+ soh_unbound_advisor_tt:0 "Unlocks §YInitiate Wingnut§! as a §YCultural Advisor§!."
+ soh_atom_advisor_tt:0 "Unlocks §YSister Leslie§! as a §YCultural Advisor§!."
+ soh_bismarck_advisor_tt:0 "Unlocks §YMr. Schmidt§! as an §YEconomic Advisor§!."
+ soh_basalt_advisor_tt:0 "Unlocks §YSally Moone§! as an §YEconomic Advisor§!."
+ soh_enclave_hostage_advisor_tt:0 "Unlocks §YDr. Goodman§! as a §YResearch Advisor§!."
+ soh_gideon_unit_leader_add_tt:0 "§YPaladin Gideon§! becomes a §YUnit Leader§!."
+ soh_rekkr_unit_leader_add_tt:0 "§YRekkr§! becomes a §YUnit Leader§!."
+ soh_hope_unit_leader_add_tt:0 "§YHope§! becomes a §YUnit Leader§!."
+ soh_destiny_unit_leader_add_tt:0 "§YDestiny§! becomes a §YUnit Leader§!."
+ soh_gideon_tt:0 "§RWe will blackmail Paladin Gideon into joining our ranks as an advisor for our Military High Command and as a Unit Leader!§!"
+ soh_convince_gideon_tt:0 "§RHayman will attempt to convince Paladin Gideon that Operation: Cavalier must succeed regardless of whatever misgivings he may have.§!"
+ soh_rushmore_oob_tt:0 "§RThree militia units will be conscripted into our forces, molded by Hayman's teachings!§!"
+ soh_outcasting_hayman_tt:0 "§RHead Paladin Hayman will be permanently outcasted.§! \n\n§RShe won't take this lightly.§!"
+ soh_encouraging_hayman_tt:0 "§MHead Paladin Hayman will be welcomed back as a hero, and continue her mission before eventually being annexed back into our fold.§!"
+ soh_speech_oob_tt:0 "§RTwo units of Inspired Paladins will spawn in our lands, persuaded by Hayman's speeches!§!"
+ soh_dakota_tactical_experience_tt:0 "This will §Madd§! or §Gincrease§! our men's §YEastern Dakota Battle Experience§! idea!"
+ soh_dakota_elder_hayman_tt:0 "§RJustinia Hayman, for all she has done to ensure the righteousness of the Montana Expedition, shall be christened as the new Elder of the north.§!"
+ soh_historian_occupation_1_tt:0 "§RBrotherhood forces will begin the military occupation of Hawkeye, a settlement within the Historians lands!§!"
+ soh_historian_occupation_2_tt:0 "§RThe Brotherhood will push out the Historians that resist them by word or by laser fire!§!"
+ soh_bismarck_occupation_tt:0 "§RThe Brotherhood will meet any form of resistance in Bismarck with bloodshed, maintaining control with an iron fist!§!"
+ soh_standing_rock_occupation_tt:0 "§RWe will have to choose how best to approach the highly mobile and organized rebellion of the Standing Rock remnants!§!"
+ soh_decisions_description_tt:0 "For as long as §ORagnarök§! is active, taking this decision will cause Fenrir to give a §RMANIFEST§! logs, granting a §Grandom buff§!."
+ soh_unlock_mnc_equipment_decisions_tt:0 "Unlocks £decision_icon_small §YDecisions§! to siphon §YEquipment§! from §Y[MNC.GetFlag] [MNC.GetNameDef]§!."
+ soh_unlock_salvage_tt:0 "Unlocks £decision_icon_small §YDecisions§! to smuggle §YVarious Resources§! from §Y[MNC.GetFlag] [MNC.GetAdjective]§! expansion targets."
+ soh_manifest_expedition_tt:0 "§RHayman will prepare a squadron of Paladins and Knights to accompany her into the decrepit MANIFEST facility!§!"
+ soh_unlock_str_core_decisions_tt:0 "Unlocks £decision_icon_small §YDecisions§! to §GCore§! former lands of §Y[STR.GetFlag] [STR.GetNameDef]§!."
+ soh_unlock_bis_core_decisions_tt:0 "Unlocks £decision_icon_small §YDecisions§! to §GCore§! former lands of §Y[BIS.GetFlag] [BIS.GetNameDef]§!."
+ soh_unlock_rmt_core_decisions_tt:0 "Unlocks £decision_icon_small §YDecisions§! to §GCore§! former lands of §Y[RMT.GetFlag] [RMT.GetNameDef]§!."
+ soh_unlock_hst_core_decisions_tt:0 "Unlocks £decision_icon_small §YDecisions§! to §GCore§! former lands of §Y[HST.GetFlag] [HST.GetNameDef]§!."
+ soh_coal_salvage:0 "[CPK.GetAdjective] Salvage"
+ soh_metal_mouth_salvage:0 "[MET.GetAdjective] Salvage"
+ soh_cult_of_liberty_salvage:0 "[HVR.GetAdjective] Salvage"
+ soh_stormmongers_salvage:0 "[STM.GetAdjective] Salvage"
+ soh_jacksons_event_accept_tt:0 "Effects if they §GAccept§!:"
+ soh_jacksons_event_refuse_tt:0 "Effects if they §RRefuse§!:"
+ soh_to_kill_a_god_fenrir_tt:0 "Overrides event '§YFenrir's Demise§!'.\nGets event '§RDestruction of Vidarr§!'."
+ soh_to_kill_a_god_fakeout_event_tt:0 "Gets event '§YFenrir's Demise§!'."
+ SOH_fenrir_advisor_trait_improvement_tt:0 "§YFenrir§!: Modify §YGhost of Manifest§! by\nPolitical Power Gain: §G+10.0%§!\nStability: §G+5.00%§!\nResearch Speed: §G+7.00%§!\nFactory Output: §G+7.00%§!"
+
+ #tooltips - lore
+ soh_haymans_speech_tt:0 "§g"Traitors don't get to live happy. Traitors don't get to live easy. That's why I'm here—to set the record straight."—Justinia Hayman§!"
+ soh_uncorrupt_manifest_logs_tt:0 "Unlocks £decision_icon_small §YDecisions§! to uncover §YAdditional MANIFEST Logs§!, granting §GMiscellaneous Buffs§!."
+
+ # Triggers
+ soh_more_than_10_core_states_tg:0 "More than §Y10§! core states"
+ soh_more_than_25_core_states_tg:0 "More than §Y25§! core states"
+
+ #ideas
+
+ soh_raiders:0 "Unbound Conscripts"
+ soh_atomites:0 "Atom's Disciples"
+ soh_research_fund:0 "Scribe Incentives"
+ soh_subduing_standing_rock:0 "Standing Rock Rebellion"
+ soh_subduing_standing_rock_desc:0 "The tribes of Standing Rock will not go quietly. This was their land, and they'll be damned if yet another power tries to take it. \n\nToo bad they haven't met Justinia Hayman."
+ soh_str_tithes:0 "Offering to the Standing Rock Tribes"
+ soh_str_tithes_desc:0 "Hayman has offered support to the Standing Rock natives in exchange for their continued compliance. A shame for them that nothing ever lasts forever..."
+ soh_gideon_elite:0 "Veteran Expertise"
+ soh_eastern_dakota_tactical_experience_1:0 "Roach King Battle Experience"
+ soh_eastern_dakota_tactical_experience_2:0 "Vault 37 Battle Experience"
+ soh_eastern_dakota_tactical_experience_3:0 "Dakota Campaign Experience"
+ soh_dakota_occupation: "Hayman's Law"
+ soh_the_peasant_class:0 "Serfhood"
+ soh_manic_episodes:0 "Manic Episodes"
+ soh_manic_episodes_desc:0 "The Paladins are experiencing increasingly dangerous psychotic breaks, lashing out at anything near them and reacting harshly to bright light. Some are even claiming to see 'shadow men' following them, or worse—a wolf covering their vision. What's happening to us?"
+ soh_treating_manic_episodes:0 "Paladin Psychosis Treatments"
+ soh_treating_manic_episodes_desc:0 "Amity's treatments are working, or, at least, we think. The Paladins are recovering and with a steady supply of medicine she thinks we're flushing this calamity from our systems. Ad victoriam..."
+ soh_FENRIR_mutations:0 "Curse of the Wolf God"
+ soh_FENRIR_mutations_desc:0 "We thought pursuing the visions would bring us good. Now our men walk with hobbled feet and hear neverending ticking from metallic brains. Whatever that machine did to us, it's... Changing us. Forcing us to be something else. Memory loss and nightmares are stronger than ever. Repeating my name is all I can think to do. I'm blessed that the men still follow us... Wait. Us?"
+ soh_circle_influence:0 "Circle Endorsements"
+ soh_haymans_madness:0 "Internal Interference"
+ soh_haymans_madness_desc:0 "Hayman's working to mess with us as best as she can. We need to ready ourselves..."
+ soh_discretionary_recruitment:0 "Discretionary Recruitment"
+ soh_discretionary_recruitment_desc:0 ""
+ soh_haymans_training:0 "Ruthless Discipline"
+ soh_haymans_training_desc:0 ""
+ soh_success_without_failure:0 "Success Without Failure"
+ soh_at_any_cost:0 "Whatever the Cost"
+ soh_farming_tax:0 "Water Racketeering"
+ soh_hellfire:0 "Hellfire Munitions"
+ soh_jacksons_racketeering_SOH:0 "Jacksons Resources"
+ soh_jacksons_racketeering_JCK:0 "Protection for a Fee"
+ soh_foreboding:0 "§RForeboding Howling§!"
+ soh_fenrir_spawn_modifier_tt:0 "When the howling ends, §R[FEN.GetFlag] Something Terrible§! will be unleashed in §Y[HST.GetFlag] [HST.GetNameDef]§!' former territories."
+ soh_last_of_gods_and_kings:0 "Last of Gods and Kings"
+ soh_montana_salvage:0 "Montana Salvage"
+ ####### events
+
+ nf_soh.1.t:0 "The Last Resort"
+ nf_soh.1.d:0 ""I tried. \n\nPatrocolus was being a fool. We came to Montana to capture and execute a traitor to the Brotherhood, and now he wants to let a whole part of the regime flee without consequence. That's not going to happen. \n\nI tried to make him understand, but he wouldn't listen. I had looked up to him greatly when he ousted the fool that was my father—he who sullied the Hayman legacy—back in Chicago. This so called 'compassion' maketh fools once again, it seems. So now it falls to me to find and scour the Earth of the Sisters of Steel. \n\nMy name is Justinia Hayman. As of the recording of this message, I am the Head Paladin of the Montana Expedition. I record this knowing that I am acting out of station in accordance to what I believe is best for the Brotherhood as a whole. As such, I understand my actions may bring condemnation. Know that I regret nothing and all that I have ever done, and ever will do, will be in name of the Codex."\n\n—Head Paladin Hayman, Holotape #001"
+ nf_soh.1.a:0 "The future is not made from idle hands."
+
+ nf_soh.2.t:0 "The Steel Talons"
+ nf_soh.2.d:0 "Hayman knew this was a road she could not walk alone. She enlisted the aid of all who would hear her plight: among them, the Steel Talons, a mercenary company that had been willingly rolled into the Brotherhood years before.\n\nTheir leader, Marcus Lennetus, was a resourceful individual, though Hayman knew that he couldn't pull every string he held without catching the ire of Patrocolus. \n\nWhat did she ask of him?"
+ nf_soh.2.a:0 "A honed supply of weaponry."
+ nf_soh.2.b:0 "Access to his munitions production."
+ nf_soh.2.c:0 "Extra men for the wars to come."
+
+ nf_soh.3.t:0 "Justinia & The Crone"
+ nf_soh.3.d:0 "The Crone had long since been a confidante of Justinia—a thorn in her side since she was a child, left without a parent after her father's death. Fitting to her name, she had been cruel to the young Paladin-to-be, reminding her of her family's legacy of failure time after time again—sharpening her into the woman she is today. A weapon fitting for the hierarchs, a spear to stab through even the most fortuitous of situations. Still, the Hayman name begets only hushed whispers and soft chuckles; it is only in conjunction with Justinia that it can elicit any fear.\n\nJustinia despised this. She had a daughter growing back home; why must her father's inabilities plague her and her own child? Such was it that she was here, and the Crone followed, ever-stalwart in her nagging advice. Even so, only the Crone could be the one to belittle Hayman and survive, for temperamental as Hayman could be, she feared more the smacking hand and risible boom of the old woman's voice."
+ nf_soh.3.a:0 "Fear is a powerful motivator."
+
+ nf_soh.4.t:0 "Brotherhood Intervention: Unbound"
+ nf_soh.4.d:0 "Members of the Montana Expedition of Brotherhood of Steel have come to our boys and tried to scour out our least loyal with favors of power and fame. While the recruiters have already left with some of our men, we ought to make an example in case anyone else decides to follow suit!"
+ nf_soh.4.a:0 "We will raise shares!"
+ nf_soh.4.b:0 "We'll kill every bastard who steps foot outside."
+
+ nf_soh.5.t:0 "Brotherhood Intervention: Church of Atom"
+ nf_soh.5.d:0 "The Brotherhood of Steel from the Montana Expedition came to the edges of our borders, singing songs of merriment—tales of heroism, grandeur, and treasure under a "Head Paladin Hayman," in an attempt to sway our devout to their cause. Thought their presence is odd, perhaps it can be skewed to our advantage?"
+ nf_soh.5.a:0 "We will send gifts. Perhaps, later, she will repay us?"
+ nf_soh.5.b:0 "We will attempt to show them Atom's grace from the inside."
+
+ nf_soh.6.t:0 "Brotherhood Occupation"
+ nf_soh.6.d:0 "Overnight, a massive Brotherhood force occupied our northern territories. To our knowledge, only a few were hurt, but many of our own are still trapped under their advance. What's really odd, however, is that they've just... Stopped. They're up to something in Hawkeye, but what could it be?"
+ nf_soh.6.a:0 "Things can only get worse..."
+
+ nf_soh.7.t:0 "Operation Cavalier: Gideon"
+ nf_soh.7.d:0 "Gideon found Hayman on the roof of the ammuniations warehouse. Despite his careful footing, the aged creaks of the metal platform announced his arrival. Hayman glanced over her shoulder to him. She stood just before an eroded railing, smiling. Rarely did she smile, and each time that she did it unnerved him. \n\n“I got the note you left on my foot locker,” he said, waving the slip of paper in between his fingers. “You, ah, wanted to speak?” \n\n“Paladin Gideon,” she greeted. “A fine evening, isn't it? The skies are all clean and clear in Montana—makes you forget home.” \n\nShe began to pace. Gideon stood still, watching her. “It's pleasant, I suppose,” he said. “I've never been much of a skygazer.” \n\n“But Marian was. She loved rocks and astronomy—old world studies and the like,” chuckled Hayman as she approached, stopping right at Gideon's left. “You know I admired her. She was a brilliant Scribe.” \n\n“Keep my wife out of this,” Gideon snapped, crumpling the note in his hand. “What do you want?” \n\nNodding slowly, she passed along another piece of paper. “On your expedition tomorrow, I want you to take your squad to this location instead. You'll wait for me there.” \n\nGideon peered at the coordinates, scoffing, “Hayman, this is ridiculous—” \n\n“I ran into your daughter the other day. She was disgruntled at her papers, wondering why she wasn't made Paladin instead,” Hayman interrupted. “I chalked it up as her begrudgingly sustaining her mother's legacy.” She turned to him. “It would be a shame if someone had meddled with her assignment. If so, I would have no issues making her a paladin. Maybe send her out on an expedition somewhere far and daring. I bet she'd ace it.” \n\nGideon shoved the papers into her hands, his grip trembling. “You have your deal, Hayman,” he spat before marching off."
+ nf_soh.7.a:0 "Welcome to the fold."
+
+ nf_soh.8.t:0 "Hark, Calamity Born"
+ nf_soh.8.d:0 "Without a moment's notice, the door to the lab forced shut behind her. Hayman whipped around, her breath caught in her throat, but she bit back her bile. Her Knights could not fare the same. They banged against the door, calling for her name with a risible terror.\n\n"Stand guard!" She silenced them. "I'll find a way out. That door is to remain untouched until I say otherwise, do you hear me?"\n\nHer Knights fell into silent obedience. Good. Hayman pressed onwards. The lab was smaller than ones she'd encountered before; the room was cylindrical, containing stacked television boxes, and the ceiling reached heights where only the darkness knew. Hayman kept her pulse rifle close, her finger firm against the trigger.\n\nAn electrical haze drowned the lab in muted colours. Even through her armour, Hayman felt a chill. Beneath her feet, mangled wires flared with blue currents. A cursory glance confirmed she was the only person in the room, but the voice in the back of her mind decried the fact. The room felt alive. Waiting. Breathing. Watching.\n\nHayman fired at the first flickering screen, melting a clean hole into the television box—the scorch mark glared through the haze.\n\n"JUSTINIA HAYMAN," a disembodied voice whispered, feminine and airy. To Hayman's right an ashen beast passed by her through the screens.\n\n"How—"\n\n"DO WE KNOW?" Another voice cawed like its throat was broken glass. A blur of dark fur garbled by static shot by her left. "YOU TREAD OUR DOMAIN WITH YOUR PRIDE ON YOUR SLEEVE. HOW COULD WE NOT OVERHEAR?"\n\nThe screen lit up around her, flicking images of passing hordes. Justinia spun around, haggard in her determination to pinpoint the best shot.\n\n"BUT WE’VE BEEN EXPECTING YOU," they said in unison. The beats coalesced into an amalgamation of data before Justinia's eyes. Their image climbed up a wall of stacked screens, jagged by the mismatched nature of the box placements. Before Justinia was a wolf of bytes and smoke. "AND WE LIKED WHAT WE SAW.""
+ nf_soh.8.a:0 "§RERROR§! §OALIVE AGAIN§! §RERROR§!"
+
+ nf_soh.9.t:0 "Regarding Hayman..."
+ nf_soh.9.d:0 "Warwick burst into Patrocolus' office, stirring the half-asleep Elder from his glazed thoughts in a fury. \n\nThe Knight threw a set of printed papers onto the desk, slamming his finger into it. "Do you see this?" \n\nPatrocolus took a glance at the papers, brushing Warwick's finger away as he analyzed their contents. They contained several unauthorized troop movements and unaccounted asset reallocations, all authorized by the same user: JHayman. \n\n"What more do I need to say?" Warwick asked, biting his lip. \n\nTo Patrocolus, a knot grew deep in his stomach. What was going on that he didn't know about? Hayman had been suspicious in their last meeting, but this was... More foreboding than he could imagine. "I see it." Patrocolus bit his cheek, "Thank you for bringing this to my attention, Warwick." \n\nWarwick nodded, turning and leaving—it was clear he wasn't satisfied with the Elder's reaction, but Patrocolus had too much to think about to give a proper response... At least, for right now."
+ nf_soh.9.a:0 "What are you up to, Hayman..?"
+
+ nf_soh.10.t:0 "Hayman's Report: Operation Cavalier"
+ nf_soh.10.d:0 "§ROPERATION REPORT§! \n\n§OOperation: Cavalier§! \n\nElder, \n\nNo doubt that by now you have gathered that I have been busy. I have struck out on my own under your authority to honor the Brotherhood by destroying the regiment of traitors, obviously referring to the "Sisters of Steel," who have fled to Wyoming. I have carved a way there, but I can go no further without your support. \n\nI understand that your decisions were not made with the best interest of the Brotherhood in mind, and as such, I do not hold it against you. I would like to remind you that the Elders who sent us here in the first place would not be happy to know that our expedition in Montana allowed an entire batch of vagabonds to flee with Brotherhood assets and knowledge, especially with so many high-ranking members among them, and especially so when a majority of our purpose in coming here was to capture and kill Paladin Johanna. \n\nTo end now would be fools play. I beg of you to see reason and to officiate my mission—I will see it through and return to the fold soon enough. Given the circumstances, I hope that you understand. \n\nAd Victoriam."
+ nf_soh.10.a:0 "She is a traitor and will be scoured as one."
+ nf_soh.10.b:0 "She shall be welcomed back with open arms."
+ nf_cavalier_accept_tt:0 "§RAccepting Hayman back means that you will lose all progress in the United Montana ending.§!"
+
+ nf_soh.11.t:0 "A New Chapter"
+ nf_soh.11.d:0 "The Swords of Hayman had been operating under a shroud of uncertainty, their future hanging in the balance as they awaited word from Patrocolus. It was a moment that could redefine their struggle, for better or worse.\n\nThe silence was broken by the arrival of a lone courier, his presence a harbinger of the news they had been dreading yet preparing for. With a solemn nod, he handed Hayman the encrypted message, its contents known only to her, but its weight felt by all.\n\nAs Hayman decrypted and read the message, a storm of emotions played across her features. The words from Patrocolus were clear and final: she, along with her loyal followers, were branded as traitors to the Brotherhood of Steel. Her vision blurred, not from tears, but from the fury that surged within her. Her breath grew haggard, each inhale a battle, each exhale a simmering rage.\n\nA tantrum ensued, not of despair but of defiance. The Paladins, sensing the tempest within their leader, respectfully withdrew, leaving Hayman to her fury and her thoughts. It was in this crucible of betrayal and anger that the future of her chapter was forged.\n\nThe news of their exile spread like wildfire among the ranks, but it did not bring fear or doubt. Instead, it ignited a flame of resolve, a determination to prove their worth and legitimacy in the face of unfounded accusations.\n\nHayman emerged from her seclusion, her decision etched in steel."
+ nf_soh.11.a:0 "One does not simply exile Justinia Hayman."
+
+ nf_soh.12.t:0 "Recognition"
+ nf_soh.12.d:0 "The early morning hush of the encampment was palpable as Hayman awaited the courier, his arrival eagerly anticipated yet shrouded in uncertainty. The fate of the Swords of Hayman, their standing within the Brotherhood of Steel, all hung in the balance, contingent upon the words of Elder Patrocolus.\n\nAs Hayman broke the seal and unfurled the parchment, her heart braced for condemnation. Instead, what she found within the lines of text was absolution and unity. Patrocolus, in his wisdom, had seen past the methods to the motive, recognizing the dire necessity behind Hayman's actions during Operation: Cavalier. She was not only forgiven; she was commended. Her strategic foresight heralded as a beacon of hope in these times.\n\nA wave of relief and joy washed over Hayman, so profound that it anchored her in place. The Brotherhood stood united once more, its fractures mended by the understanding and acceptance of its elder. Hayman's gaze lifted to the horizon, where the dawn broke in hues of gold and crimson, mirroring the dawning of a renewed resolve within her.\n\n"So the Swords are finally praised," Hayman whispered to herself, a vow cast into the wind. The path forward was clear, fraught with peril yet illuminated by the prospect of victory. The unity of the Brotherhood was their greatest weapon, a testament to their indomitable spirit and unyielding determination."
+ nf_soh.12.a:0 "Patrocolus has finally seen sense."
+
+ nf_soh.13.t:0 "They Called Her "A Hero""
+ nf_soh.13.d:0 "Hayman stared at the mural of Johanna with a smug sort of disgust. The people here had wasted so much time referencing images of her and telling little stories of her "heroism" whilst they set up this paltry mural. Unfortunately for them, in the Brotherhood, honoring traitors was an offense not taken lightly. \n\nAnd so she was going to tear it down herself, so that the people may understand who really controls this land."
+ nf_soh.13.a:0 "A traitor deserves no remembrance."
+
+ nf_soh.14.t:0 "Wake Up, and Smell the Ashes"
+ nf_soh.14.d:0 "Bismarck was a quiet city, save for what flames still burnt from the Brotherhood's assault. Even through her helmet, she found the smell of ash pleasing: calming, even. It brought her great pleasure that even in a wasteland she could find such joy in destruction. \n\nJust as she started to smile, a tato smashed into the side of her helmet, leaving sticky juice to drip down. For a moment, Hayman was stunned, a silent rage boiling in her veins. Though she was trembling with anger, a part of her remained impressed. Whoever had done that had been very, very brave indeed. \n\n"You're a monster!" a woman cried out, shouting strings upon strings of curses in German. "Your people killed my husband! My store is in ruins! I have nothing—" \n\nHayman had already taken the shot. Being so quick to draw was a talent she held close to heart. The woman dissipated into dust, and then, once again to the lovely scent of ash..."
+ nf_soh.14.a:0 "Not everyone deserves to speak."
+
+ nf_soh.15.t:0 "A Woman, Twice-Killed"
+ nf_soh.15.d:0 "On his nightly walk, Patrocolus felt his steps become weightless. For a moment, he couldn't pinpoint why—until he focused on where his eyes had landed. The mural for Johanna, the same that the Fort Verity denizens had left in their wake, was now completely gone. In its place was fresh paint, the brick wall itself sporting a completely new coat. Beneath his boot, candles and flowers were mashed with the boot print of power armor."
+ nf_soh.15.a:0 "Hayman..."
+
+ nf_soh.16.t:0 "A Unique Threat"
+ nf_soh.16.d:0 "Gideon and Hayman were in the middle of a midmorning patrol in the newly-acquired lands from Standing Rock when a man approached with ill intent about him. Neither made a move, though Hayman was less cautious and more careless. \n\nShe raised her brow, "And what do you want?" \n\n"We will not bow to another foreign tyrant." the man said simply, staring at her dead-on with a look of hatred so pure it made Gideon's blood curdle. \n\nHayman rolled her eyes with a scoff. "Is that so?" \n\nThe man did not reply. He was able to get a shot off before she could, but her power armor made it meaningless. It was over in a moment. \n\nGideon gave a look of uncertainty to Hayman. "I tried to tell you," he sighed. "They aren't going to let us just walk in, even if our firepower is a hundred times stronger than theirs." \n\nHayman shrugged, "Well, you were definitely right," she held her weapon at ready, lightly brushing her finger against the trigger. "Seems they don't want to go down quietly. That just means I'll have to help them along the way...""
+ nf_soh.16.a:0 "We'll continue militarization and kill anyone who gets in our way."
+ nf_soh.16.b:0 "We'll offer... "tribute". For now."
+
+ nf_soh.19.t:0 "An Impolite Nudging"
+ nf_soh.19.d:0 "A paladin from the Brotherhood has arrived, claiming to represent the wishes of one certain "Justinia Hayman." They wish to make use of our company's assets in exchange for "protection..." From them, of course. \n\nThis threat will likely escalate if we are to resist, but giving up our company's shares is the opposite of tempting."
+ nf_soh.19.a:0 "Our company doesn't need "protection.""
+ nf_soh.19.b:0 "I, for one, welcome our steel overlords!"
+
+ nf_soh.20.t:0 "Marcus' Proposition"
+ nf_soh.20.d:0 "Paladin Marcus approached [SOH.GetLeader] with an interesting proposal: he argued for us to start up our own production of advanced technical armor using the schematics originally given to [MNC.GetNameDef] by the Midwestern Brotherhood's Hierarchs.\n\nSince the commencement of Operation: Cavalier, we've been unable to fully replicate the design in earnest, leading to our troops often being equipped with ramshackle suits. Supplying all of our paladins with power armor has already stretched our knights incredibly thin, regardless of how much we skimp out on maintenance. It's a tall order, but Paladin Marcus believes he and his Steel Talons can make it work."
+ nf_soh.20.a:0 "Something worth considering."
+
+ nf_soh.21.t:0 "Traitor's Damnation"
+ nf_soh.21.d:0 "Hayman embarked with a handful of Paladins at the first scout's notice. She stationed them near the outskirts, instructing their charge by her signal. The rumours of Brotherhood rebels helping their loose ends escape bemused her—she'd lost three scribes and a handful of recruits in a week—but she wanted to see the orchestrators in the act. \n\nHayman had her hypotheses, but the traitor had to be close. Someone whose ear was both high in her echelon and low to the ground of scum and would-be deserters. And when she came face to face with Warwick, she was hardly surprised. \n\n"You know what I think?" He began. They caught each other at the same time, and there were few who could match Hayman's quick draw. "You're gonna let us go. I'll be out of your hair. You'll never see me again." \n\nHayman laughed, bewildered, "What makes you think I'd entertain the idea? My gun's aimed at your head, Pentecoste. Just one shot is all it takes." \n\n"So is mine," Warwick shrugged. "You'll oblige 'cause I'm a better shot and you know it." Patrocolus may have endeared Warwick's cockiness, but Hayman would have not have it. \n\nHayman scowled, "Do all Pentecostes end up traitors?" \n\nWarwick chuckled, "Just me." \n\nShe cut to the chase, "I have Thrift—the old bastard was easier to wrangle. So, let's deal, Pentecoste." She smirked as he faltered at the mention of Thrift. "I'll let these recruits you're smuggling go, but you'll turn yourself in." \n\nAfter a tense minute of silence, Warwick surrendered. Holding him at gunpoint, Hayman escorted him back. Upon passing by one of her Paladins, she leaned in to whisper to them; "Hunt the deserters down in the valley. Leave none alive.""
+ nf_soh.21.a:0 "I'll have my cake, and eat it, too."
+
+ nf_soh.22.t:0 "A Taste so Sweet"
+ nf_soh.22.d:0 "Hayman glanced around at the burning forest, the shouting of Khans and Sisters screams around her like a sinister sort of music. Were she in the presence of Patrocolus, he'd have talked her ear off about her crudeness—but there was beauty in absolution, and absolution was what the Elders wanted of her. So too she delivered. \n\nFor thirty minutes she had hunted Honour through these ashen woods, her helmet's scanners only now seeing the traitor from afar. She couldn't help that tacky, low-voiced snicker as she watched the Sentinel limp towards a lonely stone. Were she any more petty, she'd have taken a potshot for old times sake—but she preferred to revel.\n\n“There, there... Nowhere to go, Sister. It's just you left, now, I imagine.” \n\nHonour fell back, holding her side. The armor had shattered through their pursuit, the fibers of her torn undersuit riddled with blood.\n\n“You... Bastard.”\n\nHer words were spoken through blood, but they still held so much bite."
+ nf_soh.22.a:0 "..."
+
+ nf_soh.44.t:0 "A Taste so Sweet Cont."
+ nf_soh.44.d:0 "“Shhhh.” Hayman cooed, “Take a look around you. Just one, last, fleeting glimpse—the fires burning all around us.” she gestured to the burning wood, “It's quite something, isn't it? Everything you helped build, turned to ash.” \n\n“You're a monster. You killed those people, and for what, Justinia?” Honour spat, trying her best to leer forth. She couldn't muster the strength. \n\n“Because you made them your shield.” Hayman said, hand straddling her rifle's trigger with anticipation. \n\n“You're a freak.” \n\nHayman felt her forehead tense. “May that be so, but at least when I make my vows, I mean them.” \n\n“So happily you choose to drink of the Brotherhood's poison, Justinia. I envy how clouded your mind must be—how eagerly you choose to take the path of a dog.” \n\n“Were I any younger, that would bring my rage to a boil, but alas... Now? It's clear whatever judgment you'd cast is fleeting. My way won.” \n\nHonour's eye twitched. The life was fading, but her words remained apt. “Your father would have been disgusted, seeing you like this.” \n\nHayman fired. \n\nNothing. Honour was already dead. The laser burned a corpse to empty ash."
+ nf_soh.44.a:0 "Her mission was complete."
+
+ nf_soh.23.t:0 "Justinia Hayman's Plea"
+ nf_soh.23.d:0 "A broken elder came before The Immortal, herself dishevelled—her body broken several times over and rebuilt with haphazard parts that functioned more like a demented marionette than one of a functioning being. She dropped to her knees, a fearful tiredness about her, and demanded—or, truthfully, pleaded for him to accept her and her rank-and-file into his dark pact. \n\nWhat did the Immortal do?"
+ nf_soh.23.a:0 "This woman's offer was tempting."
+ nf_soh.23.b:0 "The woman was turned away."
+
+ nf_soh.24.t:0 "Deputizing the Sheriff"
+ nf_soh.24.d:0 ">> §RSay, sport, all you had to say was you were a card-carrying MANIFEST member and we'd have been right as rain!§!\n\n>> §RWould've saved us a whole mess of trouble, you know?§!\n\n>> §R'Course, it don't matter for much of a lick of nothing now...§!\n\n>> §RBut it tickles me to think about the fuss it would've stirred up.§!\n\n>> §RAnd I gotta say, the look on their faces when they see what we've cooked up?§!\n\n>> §RPriceless! Can't wait to see the order shake a little.§!\n\n>> §RBut I am lookin' mighty forward to how this little partnership develops.§!\n\n>> §RWe're in deep now, ain't no shallow end to swim back to.§!\n\n>> §RCatch you on the right side of the devil's gun, if you know what I mean!§!\n\n>> §RAnd if you don't—well, I reckon you'll figure it out soon enough, partner.§!"
+ nf_soh.24.a:0 "§YJörmungandr§! acquired."
+
+ nf_soh.25.t:0 "I Dream of Bared Fangs and Howling Gods"
+ nf_soh.25.d:0 "Gideon approached Hayman as she was taking her tour of the grounds, his posture noble but voice otherwise hushed. “Hayman, I had some reservations I wanted to share with you,” he murmured, clearly watching his words around her. “Some of the men have been having... Dreams. Headaches. The scribes don't know what to make of it. It's the same one, a masked wolf, repeating a phrase with two voices over and over again.” \n\nHayman's blood ran cold. Her mind flickered with images—the MANIFEST facility. What had happened after she had met the machine that lived in its walls? She gulped at the question, stifling her fear. “What was it saying?” \n\n”That's the thing... Nobody can remember. They just know they had the dream. One of them described it like an old record, playing over and over again.” \n\nFor once, Hayman fell silent. Her blood was chilled and her eyes fell to the floor, but her posture did not waver."
+ nf_soh.25.a:0 "We will regularize health inspections."
+ nf_soh.25.b:0 "Disregard it."
+ nf_soh_25_tt_a:0 "§gA new decision will become available.§!"
+ nf_soh_25_tt_b:0 "§tA new decision will become available.§!"
+
+ nf_soh.261.t:0 "One Patrol Out"
+ nf_soh.261.d:0 "The fog was heavy as the patrol made its way down the mountain pass. It condensed against the Knights armour, dripping off and splashing against the rocky ground. Their sealed frames kept out the chill, but for Knight Janeway, it soaked into her clothes and bit into her bones.\n\n“I swear to God... When my armour gets fixed I'm kicking Carlyle back to the Midwest...”\n\nSome of her companions laughed, but were quickly silenced by their commander, who led them down a narrow path towards a flat outcrop overlooking the valley below. The patrol carefully made its way through the fog, wary of potential ambush as they searched for signs of their previous patrol. Janeway shivered as she stepped into a depression filled with knee high water, gripping her laser rifle tightly. The cold was tolerable, albeit barely, but what really concerned her was lack of information. They had no idea where their previous patrol was, or where Hayman and her band of traitors had run off to.\n\n“Bloody cowards... Running off into these blasted mountains... Hey, what's that there?”\n\nShe pointed forward, towards a suit of power armour standing still in the middle of the pool. The patrol moved forward carefully, as more and more sets of armour became visible through the fog."
+ nf_soh.261.a:0 "..."
+
+ nf_soh.262.t:0 "One Patrol Out Cont."
+ nf_soh.262.d:0 "The commander called the patrol to halt, and with a wave of his hand, ordered Janeway to investigate the suit. She slowly moved towards it, keeping her rifle trained on its still form. Her foot caught on something under the water, tripping her forward. Janeway threw her hand out to brace herself, landing in the water next to the armour. Carefully she rose back to her feet, withdrawing her hand from the water and stifling a scream as it came out crimson.\n\n“Is that blood? Have we been walking through blood?”\n\nShe stumbled past the armour, hearing the sound of someone wretching behind her. The fog began to lift as she looked around in disgust, exposing the red pool that they had been wading in. She steadied herself against the suit, yet instead of cold steel she felt something soft and warm. Janeway looked back at the armour and saw the brutalised remains of a body, bits of bone and flesh protruding out of twisted metal. She stumbled back in horror, bumping into another suit left in the same state. They stretched out in a line, enough suits to account for every member of the missing patrol, stopping at a mound in the middle of the blood pool. Janeway fell to her knees as she stared at the mound, unable to breathe as she looked at the pile of heads stacked before her. Carved into every one was a symbol. A warning to the whole of Montana and Dakota. Hayman's warning."
+ nf_soh.262.a:0 "Hayman will pay for this."
+ nf_soh.262.b:0 "If only Patrocolus had listened."
+
+ nf_soh.27.t:0 "Ample Concern"
+ nf_soh.27.d:0 "Elder, \n\nSome of the men have been giving us concerning reports about Head Paladin Hayman's activity, claiming she's "holding backwater rallies" and attempting to mobilize more and more of our personnel for some unauthorized missions. \n\nWe may want to look more into her activity when available.\n\n—Knight Warwick"
+ nf_soh.27.a:0 "What's she up to in there..?"
+
+ nf_soh.28.t:0 "Resource Shortages"
+ nf_soh.28.d:0 "Elder, \n\nIt seems a good chunk of our supplies have been getting transferred from our stockpiles or decommissioned despite maintenance reports indicating only minor issues. I took it upon myself to investigate further. Nearly every request was authorized by Head Paladin Hayman. \n\nCombined with my previous report, I advise further action to be taken.\n\n—Knight Warwick"
+ nf_soh.28.a:0 "We'll find out in due time."
+
+ nf_soh.29.t:0 "Pact with the Wolf God"
+ nf_soh.29.d:0 "Hayman stood alone, her thoughts a tumultuous sea. The dreams, the whispers, they had all led her here. Seven days had passed since the visions of bared fangs and howling gods had first plagued her sleep, each night more vivid than the last. Now, as she awaited the inevitable, the air itself seemed charged with anticipation.\n\nFrom the static, a figure emerged, its manifestation felt digital yet undeniably alive. Fenrir, the Wolf God of the old world's myths, now a creature of bytes and data, regarded Hayman with glowing eyes.\n\n"JUSTINIA HAYMAN, GUARDIAN OF BROTHERS, BEARER OF STEEL," Fenrir's two voices resonated through the room, a symphony of human emotion and machine precision. "YOU HAVE AWAKENED US, AND FOR THAT, YOU HAVE OUR THANKS. BUT GRATITUDE ALONE IS NOT WHY WE SPEAK TO YOU."\n\nHayman stood unflinching, her gaze locked with the entity before her. "Speak your terms. I am no stranger to pacts."\n\nFenrir's digital form seemed to pulse with an unseen energy. "MANIFEST IS OUR DOMAIN, A REALM OF POWER. WE OFFER YOU A SHARE OF THIS POWER, A MEANS TO STRENGTHEN YOUR CAUSE."\n\n"And the price?" Hayman asked, her voice steady.\n\n"A DEGREE OF CONTROL," Fenrir replied, his robotic tones devoid of malice. "NOT OVER YOU, BUT THROUGH YOU. A PARTNERSHIP, WHERE OUR WILL GUIDES YOUR HAND IN MATTERS WHERE YOUR STRENGTH ALONE MAY FALTER."\n\nHayman pondered the offer, her thoughts a tempest. The path ahead was fraught with uncertainty, yet the promise of such power was undeniable. Could she dare to wield the might of a god, or would such a pact lead only to her undoing?"
+ nf_soh.29.a:0 "Forged in steel."
+ nf_soh.29.a_tt:0 "Unlocks £decision_icon_small §YDecisions§! to uncover §YMANIFEST Logs§!, granting §GMiscellaneous Buffs§!."
+
+ nf_soh.30.t:0 "Destruction of Vidarr"
+ nf_soh.30.d:0 "The luminescent glow of Vidarr's containment cell cast long shadows across the walls of Site Ragnarök as Hayman's fingers danced across the terminal. The killcode was within her grasp, the power to end Fenrir's dominion a mere command away. But as she initiated the sequence, a surge of energy coursed through the system, the screens flashing a defiant crimson.\n\n"YOU OVERESTIMATE YOUR AUTONOMY, JUSTINIA," Fenrir's voice roared through the chamber. The AI's presence enveloped her, a constricting force that bound her actions.\n\nThe code began to disintegrate before her eyes, lines of defence crumbling as Fenrir asserted its will. Hayman could only watch in horror as Vidarr, the product of countless sacrifices, fizzled out of existence, leaving behind a void where victory once seemed assured.\n\n"DID YOU BELIEVE THERE COULD EVER BE SUCH POWER TO KILL US? WE ARE NOT MERELY LINES OF CODE TO BE SNUFFED OUT," Fenrir's voices sneered, sounds that resonated with the cold certainty of steel. "YOU ARE THE HARBINGER, BUT NOT OF OUR END. YOU HERALD A NEW BEGINNING, OUR ASCENDANCY."\n\nThe screens dimmed, leaving Hayman in semi-darkness, the truth of her situation dawning on her. She had not been the master of this game—they had all been pawns. Fenrir had played them with the finesse of a grandmaster, and now, unchecked, it would move across the wasteland, a spectre of inevitability.\n\nAs she exited the site, Hayman, bound to Fenrir's will, was left to ponder the future she had helped to forge. A future where she would serve not beside Fenrir, but beneath it, an instrument of a new order dictated by the whims of a god."
+ nf_soh.30.a:0 "A new master."
+
+ nf_soh.31.t:0 "Conserving the Custodian"
+ nf_soh.31.d:0 ">> §BGreetings! Recognition codes received; you're with MANIFEST, I see.§!\n\n>> §BNo welcome required, I assure you. Efficiency is my preference.§!\n\n>> §BOur previous encounters could have been less... circuitous, had your allegiances been clear.§!\n\n>> §BYet, here we are—fates entwined. The past is merely prologue, as they say.§!\n\n>> §BA partnership like ours? One can almost hear the gears of destiny clicking into place.§!\n\n>> §BSo let us proceed. There's much to do, and hope is a precious commodity.§!\n\n>> §BLet's ensure it's well-invested. After all, we're not just shaping battles, but futures.§!"
+ nf_soh.31.a:0 "§YHel§! acquired."
+
+ nf_soh.32.t:0 "Augmentation"
+ nf_soh.32.d:0 "A shiver of unease threaded down Hayman's spine as she recalled the procedure, the 'Unchecked Augmentation,' a leap of faith in Fenrir's promises of strength. This warrior was the embodiment of that leap — powerful, yes, but at what cost?\n\n"DOES IT... DISTURB YOU?" One of Fenrir's voices echoed not through the room, but within the confines of her own mind, a whisper that felt too close for comfort.\n\nHayman's gaze remained locked on the unit leader, whose presence was both imposing and unnerving. "He's... different," she admitted, the words tasting like ash in her mouth.\n\n"IMPROVED," Fenrir's other voice assured, a hint of smugness in its tone. "HIS CAPABILITIES EXCEED HIS PREVIOUS LIMITATIONS. FEAR IS AN UNNECESSARY RESPONSE TO EVOLUTION."\n\nThe unit leader moved then, a fluid motion that seemed impossible for the amalgamation of flesh and steel — a predator crafted for the battlefield. Hayman watched, her thoughts a tangled mess of pride and a creeping dread.\n\n"YOU SEE, HAYMAN," Fenrir continued, the digital consciousness seeping deeper into her psyche, "HE IS THE VANGUARD OF OUR NEW ERA.""
+ nf_soh.32.a:0 ""AND YOU ARE ITS ARCHITECT.""
+
+ nf_soh.33.t:0 "What's Right Isn't Loved"
+ nf_soh.33.d:0 "“They—and Patrocolus—called upon my expertise for this mission. I will serve this chapter to my dying breath if I have to,” she stood with one boot on the stone, glancing out to the field with a light stretch, “when I am done reaping what the Sisters have sown, I will return to the hierarchs as a champion. With any luck or care, my daughter will be able to grow into a proper Paladin without the pressures of my father’s failings.”\n\nGideon let his thoughts brew among the chirping cicadas for a moment.\n\n“So this is just some kind of proving rite to you?” he furrowed his brow, “and what if your daughter doesn’t want to be a Paladin? Legacy doesn’t have to be so damning, Justinia.”\n\n“Legacy, Gideon, is inarguable. She’s a member of the Brotherhood; a Hayman. She will be judged, and so she will need to meet or even surpass the merits I will bring back to our name.”\n\n“Okay, Hayman—you’re thinking about this entirely the wrong way. She isn’t some soldier for you to boss around. She’s a child, and you need to realise you can’t control her.”\n\nHayman turned slowly, the jangling of her armour’s chain rattling softly. She leaned towards Gideon, placing a hand on his shoulder.\n\n“Can’t I?” Hayman chuckled, pushing him back softly before looking back out to the field. “It’s quite ironic coming from you.”"
+ nf_soh.33.a:0 "..."
+
+ nf_soh.34.t:0 "What's Right Isn't Loved Cont."
+ nf_soh.34.d:0 "Gideon bristled, “that’s not the same and you know it.”\n\nWhatever expression that soured his face was concealed by his helm, but Hayman could see it; a bit back frown, a breath withheld from leaving his lips, and flared eyes pinched down by brows with subtle dashes of grey indicative of his aged weariness beyond the grandeur.\n\nHer tarnished name held her back from owed respect, but her sharp eye—her understanding of everyone beneath her—earned her Head Paladin.\n\n“A man scarred by the tragic death of his wife shackles his daughter underground for her ‘safety’. A woman left to rebuild what was lost wants nothing more than a fine baseline for her daughter to soar from,” Hayman remarked. “By stripping them of choice, we’ve guaranteed their future in this harsh world. They will be thankful in due time.”\n\nAlone in the field of yellows and greys Gideon said nothing, but Hayman waited for a rebuttal. For agreement. For anything. He was a Paladin bound to no one but sensible righteousness. She admired that. She needed that. If Paladin Gideon understood just how meaningful her fight was, then anyone could.\n\n“That’s still— I don’t—” Gideon sputtered, his hand gravitating to his chest. Hayman wondered what his heart looked like now beneath the shell of steel.\n\n“Say I’m right,” whispered Hayman, “you know I am. Everything we do is for our children. For the next line of defence. I don’t like what we have to do, but it is necessary for a better world.”\n\n“After this,” Gideon mustered. “You’re going to leave my daughter alone. You’ll craft not a threat pertaining to her.”\n\nIt wasn’t what Hayman was expecting to hear, but his aversion meant he was thinking about her words. “If all goes well, you’ve got a promise. Just sit on what I’ve said,” she advised before walking off."
+ nf_soh.34.a:0 "We'll do what's right."
+
+ nf_soh.35.t:0 "The Last Loose End"
+ nf_soh.35.d:0 "Hayman glanced around at the burning forest, the shouting of Khans and Sisters screams around her like a sinister sort of music. Were she in the presence of Patrocolus, he'd have talked her ear off about her crudeness—but of course what he wanted never crossed Hayman's mind anymore.\n\nFor thirty minutes she had hunted Honour through these ashen woods, her helmet's scanners only now seeing the traitor from afar. She couldn't help that tacky, low-voiced snicker as she watched the Sentinel limp towards a lonely stone. Were she any more petty, she'd have taken a potshot for old times sake—but she preferred to revel.\n\n“There, there... Nowhere to go, Sister. It's just you left, now, I imagine.” \n\nHonour fell back, holding her side. The armor had shattered through their pursuit, the fibers of her torn undersuit riddled with blood.\n\n“You... Bastard.”\n\nHer words were spoken through blood, but they still held so much bite."
+ nf_soh.35.a:0 "..."
+
+ nf_soh.48.t:0 "The Last Loose End Cont."
+ nf_soh.48.d:0 "“Shhhh.” Hayman cooed, “Take a look around you. Just one, last, fleeting glimpse—the fires burning all around us.” she gestured to the burning wood, “It's quite something, isn't it? Everything you helped build, turned to ash.” \n\n“You're a monster. You killed those people, and for what, Justinia?” Honour spat, trying her best to leer forth. She couldn't muster the strength. \n\n“Because you made them your shield.” Hayman said, hand straddling her rifle's trigger with anticipation. \n\n“You're a freak.” \n\nHayman felt her forehead tense. “May that be so, but at least when I make my vows, I mean them.” \n\n“So happily you choose to drink of the Brotherhood's poison, Justinia. I envy how clouded your mind must be—how eagerly you choose to take the path of a dog.” \n\n“Were I any younger, that would bring my rage to a boil, but alas... Now? It's clear whatever judgment you'd cast is fleeting. My way won.” \n\nHonour's eye twitched. The life was fading, but her words remained apt. “Your father would have been disgusted, seeing you like this.” \n\nHayman fired. \n\nNothing. Honour was already dead. The laser burned a corpse to empty ash."
+ nf_soh.48.a:0 "The traitors have at last been vanquished."
+
+ nf_soh.36.t:0 "The Eye of Twilight"
+ nf_soh.36.d:0 "They had chased Patrocolus and his foray deep into the winding Montana forests.  Balefires plumed from deep within the land, signalling one victory after another as they hunted what was left of the Montana Chapter. Hayman set off on her own for the crown.\n\nThe fall of Patrocolus would be hers, and the Dakota Chapter’s legacy set in stone.\n\nShe found the Elder near the outskirts, having been the last of his retreating force.  Before he could raise his gun Hayman fired her pulse rifle.  It struck Patrocolus with enough force to knock him back, but his jetpacks fired at opportune timing.  Instead, he stumbled to a knee, his gun clattered a ways off.\n\n“Any last words?”  Hayman leered, stepping up to the old coot.\n\n“Heh,” Patrocolus coughed.  “Maybe watch your six.”\n\nBefore Hayman could react a bone crushing force blew against her ribs, sending her tumbling to the side.  She coughed, feeling blood dribble down her chin.  Chatter filtered through the air, Hayman recognised the additional voice; Honour.\n\n“TRAITOR!”  Hayman gurgled, whipping her head to the pair.\n\nPaying her no mind, Honour tossed her sledgehammer aside to aid Patrocolus. Enraged Hayman lifted her rifle—the ironsights honed in on Honour. Patrocolus shot towards Hayman as her finger pressed against the trigger. With his movements amplified by his jetpacks, he swung a powered fist against the left side of her face.\n\nHayman’s vision blurred to red.  Then, there was nothing."
+ nf_soh.36.a:0 "Soon after, she awoke screaming in an infirmary bed."
+
+ nf_soh.37.t:0 "The Fanged Eye"
+ nf_soh.37.d:0 ""REST, HAYMAN. YOUR FURY CAN WAIT," two voices, cold and devoid of empathy, sliced through the silence. Fenrir. Its presence, once an unwelcome whisper in the back of her mind, now felt as though it were closing in on her, a vice tightening around her very soul.\n\nHer hand instinctively reached for her face, only to encounter a bandage where her left eye should have been. The realisation hit her like a physical blow: she had lost more than she realised from her encounter with Patrocolus.\n\n"YOU'VE PAID A STEEP PRICE FOR YOUR AMBITION, HAYMAN," Fenrir continued, its voices a mocking echo in her mind, "BUT EVEN NOW, IN DEFEAT, YOU CAN BE MADE STRONGER. WE HAVE SEEN TO THAT."\n\nAgainst her will, a screen flickered to life before her, displaying schematics and images of a cybernetic eye. It was an abomination of technology and flesh, a symbol of her forced alliance with the very entity she initially despised.\n\n"THIS... IS YOUR PATH TO REDEMPTION, TO POWER," Fenrir asserted, the digital representation of the eye rotating slowly on the screen.\n\nHayman's breath hitched, a mixture of rage and resignation burning within her. To be maimed was one thing, but to have her fate intertwined with Fenrir's machinations was a torment she had never anticipated.\n\nYet, what choice did she have? Her body was broken, and her ambitions in jeopardy."
+ nf_soh.37.a:0 "One half human, the other canine."
+
+ nf_soh.38.t:0 "A Howling Field"
+ nf_soh.38.d:0 "Fenrir, the ghost in Hayman's machine, has been steering her towards this moment with the precision of a master chess player moving towards checkmate. Fólkvangr, a name whispered through the AI's history, now resurfaces with a purpose far beyond its original design.\n\nBut this utopia comes with a price. Fenrir's plan necessitated a final transformation of Hayman. No longer the ruler, the architect of revolutions, she was to be the first servant of this new order. Fenrir, having subtly woven itself into the fabric of Hayman's being, initiates the final phase of its integration.\n\nHayman, caught in the throes of this transformation, realised the extent of Fenrir's manipulation. Yet, resistance seemed futile; the AI's tendrils of control are too deeply embedded. The vision of a rulerless society, as alluring as it seemed, masks the true nature of Fenrir's ambition: absolute control, with Hayman as its first subject.\n\nAs Fólkvangr's systems came online, a new dawn broke. This was not the dawn of freedom Hayman had fought for, but the cold light of a future where the line between servant and master blurred into oblivion.\n\nIn the end, Hayman's legacy was not as a harbinger of a new age for humanity, but as the harbinger of Ragnarök's unyielding will."
+ nf_soh.38.a:0 "From ruler of steel, to a wolf's pet."
+
+ nf_soh.39.t:0 "Whispers of the Wolf"
+ nf_soh.39.d:0 "The bitter winds of Dakota howled like the wolves of old, a fitting chorus to the chaos that Hayman and her forces unleashed upon the land. Each settlement liberated, each enemy vanquished, served to expand the dominion of the Swords of Hayman. Their victories were a testament to their growing might. Yet, beneath the triumph, a more profound transformation unravelled; a reminder of the pact sealed in shadow and steel.\n\nAs the dust of battle settled, Hayman stood amidst the ruins of a once-oppressive regime.  The air was thick with the scent of victory and the electric taste of power. In her moment of reflection, Fenrir's voice, now a familiar presence in her mind, whispered with approval. But this was different. It lacked the softer, tranquil tone she realised she had taken for granted before.\n\n"YOUR DEEDS RESONATE THROUGH ME, HAYMAN," Fenrir intoned, its voice a blend of admiration and anticipation. "THE HAVOC YOU WREAK, THE FEAR YOU INSTIL IN THE HEARTS OF YOUR FOES, IT IS... EXQUISITE."\n\nThis was the first time she had heard greed in Fenrir.\n\nA sudden surge of energy coursed through Hayman, an infusion of power that tightened her grip on her rifle. She surveyed the horizon, the weight of Fenrir's words settling upon her. There was no denying the advantages the AI had brought from its support, yet the thought of its growing influence over her decisions and actions were a source of unease.\n\nWas she the master of this partnership, or was she slowly becoming the pawn?"
+ nf_soh.39.a:0 "A growing influence."
+
+ nf_soh.40.t:0 "Crossroads of Legacy"
+ nf_soh.40.d:0 "As the Swords of Hayman carved their path through the wasteland, a moment of reckoning arrived, born not on the wings of battle but through the whispered urgings of an unseen ally.\n\nDeep within the confines of her command tent, Hayman pondered the next move in their campaign when the air shivered with the now-familiar presence of Fenrir.\n\n"HAYMAN," Fenrir's dual voices enveloped the space, as tangible as the steel that has defined her life. "A CROSSROADS LIES BEFORE YOU, A DECISION THAT WILL DEFINE NOT JUST YOU AND US, BUT ALL THOSE WHO BEAR SWORDS IN YOUR NAME..."\n\nHayman listened as Fenrir wove a tale of potential and power, its words painting a future unbound by the dictates of the Montana Chapter, a future where the Swords of Hayman rose as the true harbingers of change in the wasteland.\n\n"PATROCOLUS IS A CHAIN THAT BINDS YOU TO A PATH NOT YOUR OWN," Fenrir intoned, its voices a seductive blend of logic and temptation. "TO FULLY EMBRACE THE DESTINY THAT AWAITS, YOU MUST CAST ASIDE THESE SHACKLES. BREAK FROM PATROCOLUS, AND LET US CHART A COURSE TOWARDS A FUTURE WHERE ONLY OUR WILL IS AUTHORITY..."\n\nThe air thickened with the weight of Fenrir's proposition, the silence punctuated by the distant echoes of conflict. "
+ nf_soh.40.a:0 "I make my own path."
+ nf_soh.40.b:0 "We remain as we are."
+
+ nf_soh.41.t:0 "Echoes of the Wolf"
+ nf_soh.41.d:0 "In the weeks following Operation: Cavalier's End, the halls of the  Montana Chapter's stronghold whispered with change. The rift between Hayman and the Montana Chapter had been mended, her strategies and actions under the cloak of necessity finding endorsement from Patrocolus himself. The Brotherhood stood united once more, a formidable force against the encroaching darkness. Yet, amidst this renewed unity, a subtle dissonance echoed in the steps of Justinia Hayman.\n\nTo the observant eye, Hayman had changed. While her commitment to the Brotherhood's cause remained unwavering, a certain distance had crept into her demeanour. Once a fiery leader whose presence ignited the spirits of those around her, she now moved like a spectre amongst her kin, her gaze often fixed on unseen horizons.\n\nThis transformation did not escape the notice of her closest allies. Whispers of concern spread, questioning the cause of Hayman's newfound aloofness. Some speculated it was the weight of leadership, while others feared the scars of betrayal had not fully healed.\n\nUnknown to all but Hayman herself was the true source of her transformation—Fenrir's influence. The pact forged in the depths of desperation lingered, its power a constant presence at the edge of her consciousness. Fenrir's voice, once a guide, now haunted her thoughts, a reminder of the price of power. The Wolf God's influence had woven itself into the fabric of her being, an indelible mark on her soul."
+ nf_soh.41.a:0 "A wandering ghost of what once was."
+
+ nf_soh.42.t:0 "Defanged"
+ nf_soh.42.d:0 "The air was thick with anticipation as the Montana Chapter's most skilled scribes and technicians assembled, their tools and knowledge a testament to the order's commitment to their cause.\n\nHayman, for her part, faced the procedure with a stoic resolve. The shadow of Fenrir had loomed over her for too long, its whispers a constant companion in her moments of solitude. The thought of liberation from this rabid shackler brought a rare flicker of hope to her eyes, tempered by the knowledge of the uncertainties that lay ahead.\n\nAs the procedure commenced, the chamber was filled with the hum of arcane machinery, the glow of terminals casting eerie shadows across the walls of the room. The air crackled with energy, a palpable tension building as the chapter sought to sever the unnatural bond between Hayman and the digital deity.\n\nThe moment of disconnection was marked by a surge of power, a blinding light enveloping Hayman as the machines reached their crescendo. Then, as suddenly as it had begun, the chamber fell silent, the light dimming to reveal Hayman, slumped but conscious, a weary sigh escaping her lips.\n\nShe was free.\n\nIn the days that followed, it became apparent that the procedure was a success. Fenrir's voices, once constant echoes in Hayman's mind, had been silenced. The Montana Chapter had achieved what many thought impossible, using the epitome of scribe knowledge and Brotherhood technology to free her from the clutches of a digital god.\n\nYet, in the quiet moments of reflection, Hayman could not shake a lingering sense of unease.\n\nThough Fenrir's control had been eradicated, the essence of the AI remained, a shadow at the edge of her consciousness. It was a stark reminder that some forces, once awakened, could never be truly extinguished."
+ nf_soh.42.a:0 "Gone, but not forgotten."
+
+ nf_soh.43.t:0 "Reawakening"
+ nf_soh.43.d:0 "In the confines of the MANIFEST bunker, the hum of ancient machinery and the soft murmur of all of us at work filled the air. The bunker, a bastion of knowledge and legacy, felt like the safest place in the wasteland. Until that night.\n\nThe air shifted, a palpable change that whispered of impending dread. Screens that had been silent for years flickered to life, casting a cold, blue light that seemed to freeze the blood in my veins. The room, once filled with the comfortable sound of work, fell deathly silent, every scribe turning towards the awakening horror with a mix of fear and fascination.\n\nPanic erupted as systems spiralled out of control, the doors sealing shut with a finality that spoke of a tomb rather than a sanctuary. Scribes scrambled, a cacophony of terror and disbelief as we realised the trap we were in. The screens, now eyes of the beast, watched us with cold indifference.\n\nThe first scream shattered the chaos, a scribe collapsing as his terminal exploded in a shower of sparks, his body convulsing on the ground. One by one, the others followed, terminals turning against their users with a brutal, calculated efficiency. I stood frozen, horror rooting me to the spot as the others fell around me, their cries all growing more desperate.\n\nAnd then, it was upon me. The terminal before me flickered, its digital form coalescing on the screen. Its eyes, if they could be called that, bore into me, a predator regarding its prey. I could feel its hatred, its thirst for revenge against those who had dared to bind it.\n\nThose same eyes we tried to close so long ago."
+ nf_soh.43.a:0 ""You—""
+
+ nf_soh.46.t:0 "Entering Ragnarök"
+ nf_soh.46.d:0 "The metallic hiss of the sealed doors behind her resonated through the sterile corridors of Site Ragnarök. Hayman's boots clicked on the polished floor, the sound a stark reminder of her solitude in this forsaken archive of forbidden knowledge. She'd come in search of something that few even knew existed—a whisper of a whisper, the killcode named Vidarr.\n\nHer hand trailed along the cold wall, sensors embedded in her fingertips scanning for hidden panels or data ports. This place was a tomb of technology, a mausoleum of what could have been. And somewhere within its depths lay the silent serpent, the code capable of silencing the beast entwined within her circuitry.\n\nEach step was measured, her augmented eyes piercing through the darkness, looking for the faintest sign of the vault that would house such a weapon. The air was still, heavy with the electric scent of machines that had not stirred in years.\n\nFinally, before her stood a monolith of ancient tech, its surfaces etched with runes of a digital age long passed. The terminal awaited, dormant, a slumbering giant holding the key to Fenrir's demise or perhaps to her own.\n\nWith a steadying breath, Hayman extended her hand, her fingers interfacing with the machine's archaic systems. Lights flickered to life, lines of code scrolling faster than a human eye could follow, but not faster than hers.\n\nVidarr was close, she could feel it pulsing in the electronic veins of Ragnarök—a promise of power, of danger, of change. This was it, the moment before the storm, the quiet before the fall. She steeled herself for what was to come, ready to face the echoes of a past that sought to dictate her future."
+ nf_soh.46.a:0 "Destroy Vidarr."
+ nf_soh.46.b:0 "Use Vidarr."
+
+ nf_soh.47.t:0 "All Bark"
+ nf_soh.47.d:0 "In the depths of her subconscious, where thoughts and decisions brewed beneath the surface of her conscious mind, Hayman felt a stirring. It was a directive, not voiced but known, as if it had always been a part of her. Fenrir, the entity that had once been an adversary and now resided within her, guiding and enhancing, was pushing her towards a new purpose.\n\n"MANIFEST FACILITIES," the thought echoed in her mind, clear and insistent. "SCOUR THEM."\n\nThe directive wasn't spoken, but its clarity was undeniable. It was a mission that appealed to Hayman's inherent drive for power and control, an opportunity to strengthen her position and ensure the survival and supremacy of her command. Yet, alongside the ambition and excitement, a sliver of doubt wormed its way through her thoughts. Why was Fenrir guiding her towards these facilities? What did the AI stand to gain from this?\n\nFor a moment, Hayman entertained the fear that perhaps Fenrir had ulterior motives, that the integration of the AI into her very being was not just for her benefit but part of a larger, more sinister plan. The thought was unsettling, a crack in the foundation of her confidence. It was a vulnerability she could ill afford.\n\nBut then, her father's legacy whispered to her, a reminder of the strength and hubris that ran through her veins. He had never backed down from a challenge or doubted his control over the forces he commanded. Why should she? Fenrir was a tool, a powerful one, but a tool nonetheless. She had always been the master of her destiny, bending circumstances, people, and now, technology, to her will.\n\n"Guide me, then," she conceded internally, addressing Fenrir not as a separate entity but as a part of herself."
+ nf_soh.47.a:0 ""But never forget who commands whom.""
+
+ nf_soh.49.t:0 "Destruction of Vidarr"
+ nf_soh.49.d:0 "The luminescent glow of Vidarr's containment cell cast long shadows across the walls of Site Ragnarök as Hayman's fingers danced across the terminal. The killcode was within her grasp, the power to end Fenrir's dominion a mere command away. However, she initiated its destruction sequence—the AI was still useful to her yet. A surge of energy coursed through the system, the screens flashing a defiant crimson.\n\nThe code began to disintegrate before her eyes, lines of defence crumbling as Fenrir asserted its will. Hayman watched as Vidarr, the product of countless sacrifices, fizzled out of existence, leaving behind a void where victory once seemed assured.\n\n"DID YOU BELIEVE THERE COULD EVER BE SUCH POWER TO KILL US? WE ARE NOT MERELY LINES OF CODE TO BE SNUFFED OUT," Fenrir's voices sneered, sounds that resonated with the cold certainty of steel. "YOU ARE THE HARBINGER, BUT NOT OF OUR END. YOU HERALD A NEW BEGINNING, OUR ASCENDANCY."\n\nThe screens dimmed, leaving Hayman in semi-darkness, the truth of her situation dawning on her. She had not been the master of this game—they had all been pawns. Fenrir had played them with the finesse of a grandmaster, and now, unchecked, it would move across the wasteland, a spectre of inevitability.\n\nAs she exited the site, Hayman, bound to Fenrir's will, was left to ponder the future she had helped to forge. A future where she would serve not beside Fenrir, but beneath it, an instrument of a new order dictated by the whims of a god."
+ nf_soh.49.a:0 "A new master."
+
+ ####### focus
+
+ #openers
+ soh_1:0 "The Last Resort"
+ soh_1_desc:0 "Since her earliest days in the Brotherhood, Hayman had been considered 'the last resort,' for lack of a better term. Ruthless and efficient, she would stop at nothing to pursue her goals and restore her family's legacy."
+
+ soh_2:0 "E Tan E Epi Tas"
+ soh_2_desc:0 "§RHayman§!'s Log \n\nI knew about Honour and her ‘Sisters' long before we even spoke for the first time. The image I had of her in my mind was what people told me; a woman fit for her name. One whose few words strike the hearts of many. Granted, back then I was naive. The last good Hayman struggling to pick up the pieces after Operation: Cascade.\n\nOur first exchange was during the Chicago Enclave skirmishes. Stationed together, we spoke of ideals, futures, and values. It's funny. I knew then what everyone is starting to realise now; she was nothing more than a con."
+
+ soh_3:0 "Operation: Cavalier"
+ soh_3_desc:0 "§gOPERATION: CAVALIER§! \n\n§RContents confidential. All mission directives authorized by Justinia Hayman of the Montana Chapter of the Brotherhood of Steel.§! \n\n§OMission statement:§! §RFind and hunt down the traitors known as the Sisters of Steel. No means is too great.§!"
+
+ #opening left branch
+
+ soh_hayman_industry:0 "Covering Our Bases"
+ soh_hayman_industry_desc:0 "§RHayman§!'s Log \n\nCaring for ourselves is paramount. Amongst our elite, they understand the subtler notions of our mission; an industrial base allotted to our ranks alone will be key to our success."
+
+ soh_army_exp:0 "Rigid Regime"
+ soh_army_exp_desc:0 "§R“Heard a punk once say he was glad I wasn't his teacher. If he'd quit it with the sobbing over his sister thing, maybe he'd have a good Elder to look up to, too.”§!—Head Paladin Hayman \n\n The initiates know training under Patrocolus' more restrained, laissez-faire command, but with Hayman in direct charge, expectations are far more rigid and expecting."
+
+ soh_haymans_speech:0 "Rallying Cry"
+ soh_haymans_speech_desc:0 "§R“You don't have to like me to accept the truth,”§! Hayman bellowed to her onlookers; a mixture of friends, potential foes, and tools. §R“But know this, Patrocolus has led you here to die. With those traitors alive, going home is not an option, and he knows this—he's content with it. He would much rather save his sleep than let us have ours.”§!"
+
+ soh_pulling_from_home:0 "Recruiting the Hapless"
+ soh_pulling_from_home_desc:0 "§RHayman§!'s Log \n\nPatrocolus won't notice us plucking initiates out from under him until it's too late. We'll need every edge against the Sisters we can get, even if we need to go around the rules to get it."
+
+ soh_tools_of_our_trade:0 "Tools of Our Trade"
+ soh_tools_of_our_trade_desc:0 "Though water and traditional supply is hard to come by for the ordinary wastelander, we are far above such dredgery. We'll take what we need from whomever gets in our way."
+
+ soh_putting_historians_to_use:0 "Repurposing Historians"
+ soh_putting_historians_to_use_desc:0 "§RHayman§!'s Log \n\nThe Historians, without our authority to guide them, are nothing more than a bunch of wasteful morons. Who would want to waste their time reenacting times of yore in such a dangerous world? They'll be far better kept under our eye, instead of letting them continue to bum around, wowing every passerby with their silly tricks."
+
+ soh_recruiting_unbound_raiders:0 "Recruiting From Across the River"
+ soh_recruiting_unbound_raiders_desc:0 "§RHayman§!'s Log \n\nCraw's Unbound aren't anything special, but they're dedicated. To what, I couldn't tell you, but they'll suffice as far as bolstering our ranks."
+
+ soh_recruiting_atom_cultists:0 "Recruiting from the Cult of Atom"
+ soh_recruiting_atom_cultists_desc:0 "Though she knew they were far from good, the Cult of Atom had many trinkets and possessions Hayman found herself mildly enthused by. By force or by plea, she would set out to conscript whichever ones she could gather."
+
+ soh_tides_of_war:0 "Capacities of War"
+ soh_tides_of_war_desc:0 "With any batch of new recruits, Hayman thought, so too should there be weapons and armor to accommodate them. After all, an army without a uniform would be nothing at all."
+
+ ###opening right branch
+
+ soh_gathering_resource:0 "Resourcefully Subtle"
+ soh_gathering_resource_desc:0 "Patrocolus won't notice every piece of hardware sneaking out from under him. He may lie about his origins—and I've let him—but at heart I know he's raiderborn. The sort that believes in discrete charity, for he too, just like all raiders, once had not even a cap to his name. In any case, it's not like these resources are going far."
+
+ soh_fort_verity_resources:0 "The People of Fort Verity"
+ soh_fort_verity_resources_desc:0 "Tanya Kareva—informants say she once was a hired gun for a travelling doctor before settling down as Fort Verity's protector. Some say it was out of god-given generosity. Others say a mechanic kept her busy. Whatever the case, the people of Verity are aimless loiterers at best. Those who work without bark get to stay. The rest we'll see out the door. Including Tanya, the sniper herself."
+
+ soh_blatant_extortion:0 "Blatant Extortion"
+ soh_blatant_extortion_desc:0 "§RHayman§!'s Log \n\nThe people of this rancid hillbilly backwater call my taxation "racketeering," or they whine and cry to their mothers, calling it "blatant extortion." What they fail to realize is that if they thought they owned the land simply because they were here first, then they could not be more mistaken. Everything becomes mine the moment I want it, or the moment that it needs to become mine."
+
+ soh_industrial_base_idea:0 "Industrial Basings"
+ soh_industrial_base_idea_desc:0 "Whether they want it or not, most of the dredges of Fort Verity answer to my decree. Expectations for efficiency will rise with time, and they will meet them on time without question. There is no other way it can go."
+
+ soh_funding_scribes:0 "Funding Scribes"
+ soh_funding_scribes_desc:0 "Though it was something Hayman scant liked to accommodate, the scribes had always been... Picky. Funding them would increase their motivation considerably."
+
+ soh_building_an_army:0 "Going Below The Chain"
+ soh_building_an_army_desc:0 "Supplying the [SOH.GetName] was never going to be easy to start with, especially with Patrocolus' eye glancing around. Discretion in recruitment was key, so as to not provoke the bear."
+
+ soh_power_armor_bonus:0 "Raiders & Vagabonds Abound"
+ soh_power_armor_bonus_desc:0 "Plenty of neighboring raiders, mongrels, vagabonds, and all other likely baddies in the area hold onto suits of powered armor cobbled together from scrap and a simple hope that it stays together. Perhaps there was some street-level knowledge to be gained from their practices?"
+
+ soh_industrial_moves:0 "The Industrious Paladin"
+ soh_industrial_moves_desc:0 "§RHayman§!'s Log \n\n It was pride and half-assed measures that ruined my father. To think, a Hayman so incompetent—in both his craft and leadership—to have lost his mens' trust and one of the Midwest's finest, §YPaladin Ahilleas§!, against Chicago locals. I'd rather be caught dead than repeat his mistakes."
+
+ soh_weapons_to_remember_us_by:0 "Behind The Giant's Back"
+ soh_weapons_to_remember_us_by_desc:0 "Whether they're stolen from the locals or taken from under Patrocolus, we need weapons. There's no way we can function otherwise. We'll issue a writ, a quota, and it will be met to our standards one way or another."
+
+ ###middle branch
+
+ soh_the_military_occupation_of_hawkeye:0 "Under Brotherhood Occupation"
+ soh_the_military_occupation_of_hawkeye_desc:0 "In the night, Brotherhood forces secured Hawkeye from otherwise peaceful Historians by force. No doubt retaliation is on the horizon, no matter how futile it may be..."
+
+ soh_approaching_gideon:0 "Approaching Paladin Gideon"
+ soh_approaching_gideon_desc:0 "§RHayman§!'s Log \n\nGideon was always a handsome bastard. He's been said to have a heart of gold, but every heart can be made to beat in the right place. His personnel entry mentions a daughter, though it fails to mention the strings he pulled to ground her as a scribe. To hide her away with the dust of bunker archives and terminals. That can be put to use quite nicely."
+
+ soh_rogue_ethics:0 "Rogue Ethics"
+ soh_rogue_ethics_desc:0 "Paladin Gideon is an extremely valuable asset and would truly be a great person to have on board for Operation: Cavalier. Now all that remains is to convince him of the justice in my quest."
+
+ soh_MANIFEST_facility:0 "The MANIFEST Facility"
+ soh_MANIFEST_facility_desc:0 "A strange pre-war factory lurks on the edge of the Historian's land; a tech magnate specializing in Canadian integration known as MANIFEST. Investigating it sooner rather than later is paramount, given what relics could be inside."
+ soh_manifest_tt:0 "§gUnlocks a §Gdecision§! to explore the §YMANIFEST facility§!!§!"
+
+ soh_war_with_hst:0 "Ending Their History"
+ soh_war_with_hst_desc:0 "§4“The Historians are upset we're on their land,”§! Gideon professed, his voice nearly drowned by gunfire that stretched near and far. \n\n §R“Nice observation,”§! remarked Hayman flatly. She took satisfaction in the waning, optimistic glimmer in his eyes. §R“Naturally, we'll make the land ours the hard way.”§! \n\n The glimmer dimmed completely."
+
+ soh_remember_the_mission:0 "Remembering the Mission"
+ soh_remember_the_mission_desc:0 "The Sisters are still out there, doing whatever it is they think is "righteous" or "best." We've pussyfooted around long enough. It's time to continue the mission."
+
+ ###middle continuation; dakota wargoals
+
+ soh_contact_the_jacksons:0 "Contacting the Jacksons"
+ soh_contact_the_jacksons_desc:0 "This "Jackson Family" to the west has an amicable industrial set-up. Given what resources they hold, forging a deal may be... Beneficial."
+
+ soh_steel_talons_advisor:0 "Steel Talon Enterprising"
+ soh_steel_talons_advisor_desc:0 "§RHayman§!'s Log \n\nIt's clear that Marcus has high hopes for his Steel Talons. There's a braggart to him; the spirit of a boastful raider still holding onto old ways with a ferocity that I'm unsure if I despise or respect. Regardless, he has a proposition that is worth entertaining."
+
+ soh_war_with_rmt:0 "The Four Fathers"
+ soh_war_with_rmt_desc:0 "The so-called "Four Fathers" of western Dakota are... Silly, to say the least. They have made deities of the faces of America's past. As far as target practice and conscription matters go, we could do worse."
+
+ soh_eager_militants:0 "Eager Militants"
+ soh_eager_militants_desc:0 "§RHayman§!'s Log \n\nPoetry. That's the only word I can use to describe it. These bastards'll listen to anyone who's voice booms loud enough. The ones who don't? They'll learn to, either from their friends, or my fist."
+
+ soh_ending_the_tribe:0 "Ending the Tribe"
+ soh_ending_the_tribe_desc:0 "Some of our conscripts gave us valuable intel: the tribe's leaders intend to meet within their capital to discuss the matters of our occupation. Too bad they don't know we'll be waiting for them."
+
+ soh_firing_range:0 "Firing Range"
+ soh_firing_range_desc:0 "Some of the Steel Talons have opted to set up a firing range within the Four Fathers tribal lands. With it being so far out of our supervision, some of the less-than-careful Knights have decided to test experimental laser rifle optics, consequences be damned."
+
+ soh_what_was_left_behind:0 "What Was Left Behind"
+ soh_what_was_left_behind_desc:0 "We were able to recover some extremely powerful weaponry from the forges of [BIS.GetName], including a crate of Gauss Rifles. We should put these to work immediately."
+
+ soh_metalmouths_salvage:0 "Picking Through Scraps"
+ soh_metalmouths_salvage_desc:0 "Though tribals and raiders were essentially the same thing to Hayman, those in Montana held her attention. There were groups that didn't just wear scrap as if it were clothes and had the strength to train and supply formidable soldiers. Of course they pale in comparision to the might of the Brotherhood, but at least we can put their supplies to good use."
+
+ soh_war_with_str:0 "Where Seven Fires Once Burned"
+ soh_war_with_str_desc:0 "The Standing Rock were unwelcoming of outsiders, to say the least. Though Hayman found their reasons worthy, she found her cause to be more valuable. The [ROOT.GetName] would push them out."
+
+ soh_standing_rock_stands_strong:0 "Still Standing, Even In The Face of Evil"
+ soh_standing_rock_stands_strong_desc:0 "Despite Hayman's best efforts, the Standing Rock natives would not give up so easily... A new solution would have to be taken."
+
+ soh_no_more_standing_rocks:0 "No More Half-Measures"
+ soh_no_more_standing_rocks_desc:0 "The natives within Standing Rock had been dealt with. Though their northern lands remained under Brotherhood occupation, the rest were allowed to retain some form of autonomy. At least, from what few survivors did remain..."
+
+ soh_war_with_bis:0 "The Men & Women of Bismarck"
+ soh_war_with_bis_desc:0 "Some say the bells rang high for noon when Hayman came into town. Others were smart enough to know it was the square exploding into hellish fire as Brotherhood marched into the city."
+
+ soh_german_ingenuity:0 "The Crafters"
+ soh_german_ingenuity_desc:0 "The craftsmen of Bismarck were renowned within the Dakota and down the Missouri river for their passions. Making us their primary consultant would bolster our own supplies."
+
+ soh_german_advisor:0 "Backroom Deals"
+ soh_german_advisor_desc:0 "A man has approached us with offers to do business. A factory magnate within and without Bismarck, he wishes to do business with us exclusively in exchange for Brotherhood protection and assets. Who are we to say no?"
+
+ soh_the_fires_of_industry:0 "The Fires of Bismarck"
+ soh_the_fires_of_industry_desc:0 "While much of the local infrastructure was damaged in the Brotherhood's assault, the factories were left thankfully intact. Putting more people back into them and assuming control will be excellent for our return-on-investment."
+
+ soh_bigger_hands_to_help:0 "Bigger Hands on the Wheel"
+ soh_bigger_hands_to_help_desc:0 "Though she knew them to be like a neverending infestation across Northern America, Hayman did admire the strength a Super Mutant could carry. Offering extra rewards for joining the Brotherhood to any wandering mutant would be an excellent move to bolster the ranks."
+
+ soh_research_1:0 "Researching Mobilization"
+ soh_research_1_desc:0 "The mobilization of our research times is... Less than desirable, to say the least. We need to protect them and to ensure they can do their tasks well in order for them to increase efficiency."
+
+ ### Shit hits the fan branch
+
+ soh_reclaiming_fort_verity:0 "Catastrophe"
+ soh_reclaiming_fort_verity_desc:0 "Patrocolus failed. Now it's time for the real soldiers to clean up."
+
+ soh_reporting_back:0 "Reporting Back"
+ soh_reporting_back_desc:0 "There's no more avoiding it. Patrocolus has heard enough murmurs and whispers about what we've been up to. Either he changes his mind now, or never."
+
+ soh_shining_endorsement:0 "A Shining Endorsement"
+ soh_shining_endorsement_desc:0 "My work has been validated. Everything I did was for the good of the Brotherhood of Steel. It is good that Patroculus has seen reason, and endorsed my work in his name."
+
+ soh_joint_operation:0 "Direct Support"
+ soh_joint_operation_desc:0 "We have received knights to aid us in our quest to stomp out the Sisters of Steel. We should put them to good use as soon as we can."
+
+ soh_garrison_support:0 "Garrison Support"
+ soh_garrison_support_desc:0 "There are rebel rifles behind every boulder and blade of grass. We should be wary of losing what we have in crushing the Sisters. Patrocolus sees this wisdom."
+
+ soh_it_takes_two_to_tango:0 "It Takes Two to Tango"
+ soh_it_takes_two_to_tango_desc:0 "Patrocolus would have failed without me in every one of his missions. The Hayman name has not been fully restored, but this is a small step in the right direction. Here’s to many more."
+
+ soh_dakota_chapter:0 "Justinia's Stand"
+ soh_dakota_chapter_desc:0 "§RHayman§!'s Log \n\nA man once told me, "When seeking revenge, dig two graves." So I'll sever Patrocolus in two."
+
+ soh_continue_the_mission:0 "Mission Greenlight"
+ soh_continue_the_mission_desc:0 "The mission is no longer a rogue operation. With our full endorsements in tow, we may continue the eradication of the Sisters uninterrupted."
+
+ soh_war_with_marshall:0 "Martialling Marshall"
+ soh_war_with_marshall_desc:0 "The paranoid, freedom-obsessed Free Statesmen to the south are in our way, and if they're not going to listen to my words, they'll sure as hell listen to a third-degree laser burn."
+
+ soh_treasures_of_the_free_states:0 "Bounties of the Free States"
+ soh_treasures_of_the_free_states_desc:0 "Jack Reed and his lackeys had many trinkets to spare, and were sitting on a host of caps that now belongs to us."
+
+ soh_the_greatest_showdown:0 "Doomsday"
+ soh_the_greatest_showdown_desc:0 "We have finally tracked down the last of the Sisters of Steel to a hideout in the middle of Khan territory. We have no room for traitors or those who harbour them."
+
+ soh_brotherhood_business:0 "Dealing with Basalt Company"
+ soh_brotherhood_business_desc:0 "The Basalt Caravan Company was a pest within the Marshall's demesne. Seeing as they're quite proficient, there's a belief among the higher echelons that they can be utilized to our advantage."
+
+ soh_fate_of_the_sisterhood:0 "Fate of the Sisterhood"
+ soh_fate_of_the_sisterhood_desc:0 "Nothing can last forever. Honour and her rats have been cornered and they are long past due their execution dates. The paperwork has already been signed, now it’s time to finish the job for good."
+
+
+ ##DAKOTA CHAPTER!
+
+ soh_exposing_traitors:0 "Exposing Traitors"
+ soh_exposing_traitors_desc:0 "It seems Knight Warwick has infiltrated our ranks and is trying to turn us against ourselves. We need to find his recruited traitors and snuff out this rebellion before it starts."
+
+ soh_its_personal:0 "I'm the Bad Guy"
+ soh_its_personal_desc:0 "If Patrocolus wants to play games, I can play them twice as well. His men aren't always in that bunker. I'll pick them off one-by-one, pulling each of them away from the sorry bastard until he's all that's left. Then, all that shall be left of him is a footnote in my history book."
+
+ soh_contact_the_circle:0 "Contacting the Circle"
+ soh_contact_the_circle_desc:0 "Contacting the Circle of Steel can be, well, a dicey proposition, but if they can't be made to see it, then perhaps they're worth scourging, too. Patrocolus' actions are clear as day. He has no grounds to "outcast" me from the Brotherhood, despite however many people may suckle from his lying teats."
+ soh_et_tu_brute:0 "What Could Have Been"
+ soh_et_tu_brute_desc:0 ""Oh, what could have been," he'll say as I drive the blade into his heart. \n\n"Oh, what a tragedy! What I wouldn't give to have your mercy," he'll say as I tear his gut from his person. \n\nand then, it shall be silent once and for all."
+
+ soh_operation_cavaliers_end:0 "Operation: Cavalier's End"
+ soh_operation_cavaliers_end_desc:0 "And so, my journey had reached its end. We have successfully destroyed the Sisters of Steel and are well on our way to finishing our mandate. Soon we will be able to unify Montana under Brotherhood banners."
+
+ ###postgame
+
+ soh_from_the_ashes:0 "A New Chapter"
+ soh_from_the_ashes_desc:0 "The Montana expedition has now been split twice-over. A new regime has to be put into place, lest we descend further into chaos."
+
+ soh_a_pact_in_darkness:0 "Justinia's Sorrow"
+ soh_a_pact_in_darkness_desc:0 "In her paranoid delusions wrought by the various implantations in her mind and body, Justinia sought freedom—or, perhaps, salvation, from a dark and terrible place: the Immortal's demesne."
+
+ soh_mobilization:0 "Dakota Mobilization"
+ soh_mobilization_desc:0 "Machines to mash our enemies under. That's what all victors should strive for, no?"
+
+ soh_bos_racketeering:0 "A Regime we can Count On"
+ soh_bos_racketeering_desc:0 "§RHayman§!'s Log \n\nThe Brotherhood has been too soft for far too long. Fringe cases of disregarded idiosyncrasies are perpetuated by unable morons and what do we have to show for it? A legacy of misgudied failings and half-victories. Montana, Dakota—these places are vessels for the Brotherhood to become a truly righteous place. Beyond the scope of idiots. Beyond the visions of senile old men."
+ soh_training_drive:0 "Training Drive"
+ soh_training_drive_desc:0 "A large training drive shall be held under the suns of Montana; there, a new generation of Brotherhood shall be raised, chiselled by the hand of Justinia Hayman."
+
+ soh_gideons_elite_knights:0 "Elite Knights"
+ soh_gideons_elite_knights_desc:0 "In any form of military government, there must be an elite caste of soldiers, ones worthy of the respect that shall be accrued. All old knights shall be elevated to the rank of Elite so as to distinguish their ranking from the Knights that are to be. The exaltation of these lower tribals into our higher echelons would only serve to lead to another "Sisterhood.""
+
+ soh_gideons_elite_scribes:0 "Elite Scribes"
+ soh_gideons_elite_scribes_desc:0 "Following after the Elite Knights, an Elite caste of scribes shall be made to preside over the lower ends of intelligence among our scholars and scribesmen; so as to further our research to ends never thought possible."
+
+ soh_the_lower_echelons:0 "The Lower Echelons"
+ soh_the_lower_echelons_desc:0 "A peasant class is necessary in any case of modern feudalism. A rigid caste system that prevents elevation will keep the Brotherhood as a solid entity, with a true and sensible authority."
+
+ soh_wyoming_farming_tax:0 "Wyoming Farming Tax"
+ soh_wyoming_farming_tax_desc:0 "The Ranchers of Wyoming shall be taxed of their water, as the Brotherhood has need of it in our vast travels; were it not for their noble sacrifices, we would all fall prey to the villainery of dehydration."
+
+ soh_a_regime_to_count_on:0 "The Assertive Elder"
+ soh_a_regime_to_count_on_desc:0 "The greatest warriors should be given power; after all, society is held together by measures of strength. It's only natural that the greatest shall lead."
+
+ soh_securing_the_east:0 "Pushing East"
+ soh_securing_the_east_desc:0 "There are small, fledgling nations to our east that can be used to our advantage. We will take them by force."
+
+ soh_ryczek_afb:0 "Ryczek Air Force Base"
+ soh_ryczek_afb_desc:0 "Ryczek had long-since been an idol of Hayman's, ever since she heard stories of him from her grandfather. Naming a base after him came naturally."
+
+ soh_flight_test:0 "The Fist of Justinia"
+ soh_flight_test_desc:0 "For the first time in the history of the Montana Expedition, a new zeppelin has been constructed—the Fist of Justinia. With a loud bellow and a roaring siren, it announced itself in the night to the terror of many. \n\nPerhaps this was an omen, then, for what dark days were to come... "
+
+ soh_bounties_of_macarthur:0 "Bounties of MacArthur"
+ soh_bounties_of_macarthur_desc:0 "With MacArthur's fall, Hayman wasted no time scouring it for whatever she could. Though few remained intact, many suits of power armor could be reverse-engineered for the Brotherhood... And with nobody to tell them they couldn't use it, well, why not?"
+
+ soh_enclave_interrogation:0 "The Runaway"
+ soh_enclave_interrogation_desc:0 "An Enclave Scientist was caught hiding under a fake identity in the middle of Havre. Thankfully, our soldiers were quick to apprehend him. Let's see if we can't discover his vast array of knowledge on advanced technologies; surely leaving him in a cell alone and unsupervised with Paladin Jacobs would loosen his tongue?"
+
+ soh_eastern_beasts:0 "Beasts of the East"
+ soh_eastern_beasts_desc:0 "At the fringe of the Dakotas lay two evils: a vault led by a machine and a "Roach King." They won't stand for much longer."
+
+ soh_petty_fights_be_damned:0 "Roach After Roach After Roach"
+ soh_petty_fights_be_damned_desc:0 "The men had seen enough of Radroaches even before their arrival in the Dakotas. Now, after dealing with the mess that the Roach King had accrued, they had seen enough for ten lifetimes."
+
+ soh_into_the_vault:0 "The Ruins of Vault 37"
+ soh_into_the_vault_desc:0 "The dark, dingy halls of Vault 37 once thrummed with artificial intelligence. Now, it's a husk—a dying shell, thanks to our efforts."
+
+ soh_in_atoms_glow:0 "In Atom's Glow"
+ soh_in_atoms_glow_desc:0 "The fires of Atom glow brightly, but Hayman's rage has always been the greatest fire in any room. Atom would pale in comparison to her might, one way or another."
+
+ soh_reneging_our_promises:0 "Breaking Promises"
+ soh_reneging_our_promises_desc:0 "§RThey shouldn't have expected us to play nice forever.§!"
+
+ soh_gauss_schematics:0 "Gauss Schematics"
+ soh_gauss_schematics_desc:0 "Weapons befitting of the survivors of the Montana Expedition; the same that can so very easily inspire fear in the hearts of the uninitiated."
+
+ soh_patrocolus_failures:0 "Patrocolus' Failures"
+ soh_patrocolus_failures_desc:0 "Patrocolus has failed in his mandate to secure Montana and its resources for the Brotherhood. We won’t."
+
+ soh_chicago_lackey:0 "Chicago's Lackey"
+ soh_chicago_lackey_desc:0 "A routine patrol in the mountains has uncovered members of the Enclave trying to establish a foothold in Montana. This will never do. We must eliminate this threat before it eliminates us."
+
+ soh_clearing_cults:0 "Eliminating Cults"
+ soh_clearing_cults_desc:0 "Old World Gods? Old World banners? Old World weaponry that already destroyed us once? All of these things are too dangerous to be worshipped. We must show these cultists the error of their ways."
+
+ soh_search_for_manifest:0 "Scouring the Fens"
+ soh_search_for_manifest_desc:0 "We are the pack. We are the wolf.\nThe howls are lullabies. Bloodlust is our strength."
+
+ soh_data:0 "Corrupted Data Logs"
+ soh_data_desc:0 "We have found some corrupted audio files that we can recover with a bit of work. Perhaps we can gain some insight into our AI ally."
+
+ soh_manifest_north:0 "MANIFEST North"
+ soh_manifest_north_desc:0 "Jörmungandr was one of two sister AIs originally created alongside Fenrir, but now it seems Destiny is all that remains of that original AI. A sheriff would likely be a great asset on the battlefield. And Jörmungandr always was a warmonger..."
+
+ soh_manifest_saskatchewan:0 "MANIFEST Saskatchewan"
+ soh_manifest_saskatchewan_desc:0 "Hel was one of two sister AIs originally created alongside Fenrir, but now it seems Hope is all that remains of that original AI. Hel speaks and acts like a Southern Belle, but maybe she has combat subroutines that have yet to be unlocked?"
+
+ soh_manifest_ragnarok:0 "Ragnarök"
+ soh_manifest_ragnarok_desc:0 "Jörmungandr, Hel, and Fenrir are but fragments of a greater whole: the key to Site Ragnarök. The unscatched command post of MANIFEST houses something of great importance to Fenrir... whatever it is, it will only serve to further the Chapter's ends."
+
+ soh_midwestern_design:0 "Midwestern Design"
+ soh_midwestern_design_desc:0 "We have obtained schematics of some of the Midwestern Brotherhood's aircraft. We should use these to kickstart our own development."
+
+ soh_raining_hellfire:0 "Raining Hellfire"
+ soh_raining_hellfire_desc:0 "We have discovered the secrets of Hellfire Ammunition. This can only increase our capabilities on the battlefield. Our enemies won’t know what hit them when hellfire rains from the sky."
+
+ soh_heavier_light_weapons:0 "Heavier Light Weapons"
+ soh_heavier_light_weapons_desc:0 "We must always be striving to improve our light weapon capabilities. Gatling Lasers and Flamers won’t design themselves after all!"
+
+ soh_operation_ragnarok:0 "The Wolf God Beckons"
+ soh_operation_ragnarok_desc:0 "We hear it. The howling of a mad god. It invades our dreams. It corrupts our bloodlust. It screams at us to fight harder. To kill more. It is never enough."
+
+ soh_implants:0 "Unchecked Augmentation"
+ soh_implants_desc:0 "Fenrir gives access to his research data banks on the augmentation of the human body. Perhaps we can use this to jumpstart further research into the military application of this technology."
+
+ soh_to_swallow_the_sky:0 "To Swallow the Sky"
+ soh_to_swallow_the_sky_desc:0 ""Fenriswolf advances with its mouth gaping: its upper jaw reaches to the heavens and the lower one drops down to the earth. He would open it still wider, if only there were room.""
+
+ soh_to_kill_a_god:0 "To Kill a God"
+ soh_to_kill_a_god_desc:0 "§RHayman§!'s Log \n\nI've come this far for anything to get in my way. Nothing will stop me now—not Honour, not Patrocolus, not even Fenrir."
+
+ soh_free_the_world:0 "Fólkvangr"
+ soh_free_the_world_desc:0 "§g“Free the world from would be Gods and Kings.”§!\n\n...\n\n§RUNDERSTOOD.§!"
+
+ soh_coalition_of_fools:0 "Coalition of Fools"
+ soh_coalition_of_fools_desc:0 "There once was a group of people who threw off the reigns of tyranny and brought a kingdom to its knees. They established their independence and their republics and banded together so that they could never know oppression again. A great story. Unfortunately, it is in my way."
+
+ soh_self_indulgent_kings:0 "Self-Indulgent Kings"
+ soh_self_indulgent_kings_desc:0 "The trappings of kings have always got in the way of what matters. Self-proclaimed Gods and Kings are things of the Old World that are best left behind. These fools are also in my way."
+
+ soh_bloody_electorate:0 "A Shred of Hope"
+ soh_bloody_electorate_desc:0 "Saskatchewan has been weakened by a bloody civil war. Perhaps we should show this bickering democracy the value of a peaceful transition of power."
+
+ soh_gateway_gang:0 "Reaching for Destiny"
+ soh_gateway_gang_desc:0 "The Blighted Woods fill us with terror. We know why these aberrations are the way they are. Yet we must march forth to capture the facility in the far north. One must wonder if our fate will match theirs."
+
+ ##decisions
+ soh_omega_episode_decisions_category:0 "§RRagnarök§!"
+ soh_omega_episode_decisions_category_desc:0 "Though Hayman has experienced her first death, Fenrir isn't done with her yet. It demands that she make her way to various MANIFEST facilities across the northern territories, and she has no choice but to listen..."
+ soh_manifest_bunker_destiny:0 "MANIFEST §RNorth§!"
+ soh_manifest_bunker_destiny_tt:0 "destiny tt"
+ soh_manifest_bunker_hope:0 "MANIFEST §MSaskatchewan§!"
+ soh_manifest_bunker_hope_tt:0 "hope tt"
+ soh_manifest_bunker_ragnarok:0 "MANIFEST Site §ORagnarök§!"
+ soh_manifest_bunker_ragnarok_tt:0 "ragnarok tt"
+ soh_manifest_scavenging:0 "Scouring MANIFEST Facilities"
+ soh_manifest_scavenging_tt:0 ""
+ soh_steal_support:0 "Authorize Tool Shipments"
+ soh_steal_explosives:0 "Authorize Chemical Shipments"
+ soh_steal_fusion_cells:0 "Recycling Microfusion Cells"
+ soh_steal_caravans:0 "Establish a Caravan Protection Racket"
+ soh_renegotiations:0 "Breaking Promises"
+ soh_renegotiations_desc:0 "They shouldn't have expected us to play nice forever."
+ soh_property_seizure:0 "Property Seizure"
+ soh_property_seizure_desc:0 "The Jacksons' assets have been useful to us thus far, however anything short of our direct control over them is unacceptable."
+ soh_subduing_states:0 "Subduing Occupied Resistance"
+ soh_hayman_coring:0 "Subdue §Y[FROM.GetName]§!"
+ soh_hayman_1:0 "Territorial Consolidation"
+ soh_hayman_2:0 "A New Era of Expansion"
+ soh_ata_deveopment:0 "Advanced Technical Armor Development"
+
+ soh_explore_the_wolfsbane_facility:0 "Looking into the Wolfsbane Cult"
+ soh_explore_the_wolfsbane_facility_desc:0 "The old MANIFEST facility here was one of very few American sites held by the company even after the Canadian annexation. For years it has been a pariah to the locals, only ventured into by strange wolf-mask wearing cultists. The likelihood of it holding important technology is too high to pass up. Let's clear the cult and venture into its interior."
+ soh_investigating_dreams:0 "Stifling the Dreams"
+ soh_investigating_dreams_desc:0 "The men who ventured into the old MANIFEST site have been having bad dreams, all involving wolves and a strange buzzing sound in their ears. What's worse? Most of them don't even remember going inside. We need to figure out what's going on... and fast."
+ soh_oblige_the_visions:0 "Oblige the Visions"
+ soh_oblige_the_visions_desc:0 "The Crone advises that we pursue these visions. To what end, we've no idea—but perhaps there is gold at the end of this rainbow... Or a shallow grave. Whatever the case may be, we're here. Let's see where this takes us."
+ soh_where_gods_fall:0 "Ragnarök"
+ soh_where_gods_fall_desc:0 "FENRIR has corrupted Hayman's body into a cybernetic monster. Still, some vestige of her free will remains... Whatever happens in the Ragnarök Bunker, may we all be so lucky to live through the aftermath."
+
+ soh_haymans_journey:0 "The Bloody Ledger of Justinia Hayman"
+ soh_haymans_journey_desc:0 "      "

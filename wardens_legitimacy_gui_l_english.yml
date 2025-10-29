@@ -1,0 +1,23 @@
+﻿l_english:
+  # GUIs:
+  wardens_legitimacy_decision_cat:0 "The Battle of the Wardens of the White"
+  warden_legitimacy_explanation_tt:0 "Brandt’s death has caused a crisis, but perhaps an even greater opportunity. Now the Wardens look for a new leader, divided between [VSH.GetName] and [PAS.GetName]. Tensions have already begun to flare, as each side tries to flex their muscles. While they remain small, tensions are likely to grow with war very well being a possibility in the future.  It is crucial that we become the next legitimate leader by any means necessary. Brandt may be dead. \nThe Wardens aren’t."
+
+  wardens_safehaven_tt:0 "[VSH.GetName]"
+  wardens_passkeepers_tt:0 "[PAS.GetName]"
+
+  warden_safehaven_legitimacy_tt:0 "[VSH.GetAdjective] legitimacy is at [?global.safehaven_legitimacy]/100"
+  warden_passkeepers_legitimacy_tt:0 "[PAS.GetAdjective] legitimacy is at [?global.passkeepers_legitimacy]/100"
+
+  safehaven_progress_tt:0 "[?global.safehaven_legitimacy]/100"
+  passkeepers_progress_tt:0 "[?global.passkeepers_legitimacy]/100"
+
+  wardens_add_legitimacy_tt:0 "Our §YLegitimacy§! to being the §CWardens of the White§! will increase by §G[?temp_added_legitimacy]§!."
+
+  wardens_claim_washington:0 "Claim Washington"
+  wardens_claim_middlemark:0 "Claim Middlemark"
+  wardens_claim_the_old_country:0 "Claim the Old Country"
+  wardens_call_in_veterans:0 "Call in Warden Veterans"
+  wardens_warden_propaganda:0 "Warden Propaganda"
+  wardens_flaunt_victories:0 "Flaunt our Victories"
+  wardens_indoctrinate_new_wardens:0 "Indoctrinate New Wardens"
