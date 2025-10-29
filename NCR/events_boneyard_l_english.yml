@@ -1,0 +1,124 @@
+﻿l_english:
+  nf_boneyard.18.t:0 "A Boneyard Expedition"
+  nf_boneyard.18.d:0 "The Boneyard is a curious place; the heart of the NCR's war machine, but also home to the pacifists of the Followers. [BON.GetLeader] has come to us with a proposed deal, hoping to build on First Citizen Lynette's time there. The Boneyard will provide us with military equipment in exchange for access to some of our civilian technology. Given the need to stand on our own two feet, perhaps we should consider this offer? As Lynette knows from her time there, they are rather civilized, for Californians."
+  nf_boneyard.18.a:0 "Trade can help everyone."
+  nf_boneyard.18.b:0 "We must stand alone."
+
+  nf_boneyard.19.t:0 "Tales From the Vault"
+  nf_boneyard.19.d:0 "Vault City is no paradise, but it has come a long way from the 2240's. Whatever their feelings towards the NCR's foreign policy, we have shown that we can build ties based upon sharing ideas and ammunition. The Gun Runners' shipments have left us well compensated with medical equipment. And surely [VLT.GetLeader] would never be so foolish as to threaten the Bear."
+  nf_boneyard.19.a:0 "Sharing resources is the core of the Follower credo."
+  nf_boneyard.19.a_tt:0 "\nWe get a free trade route with Vault City!"
+
+  nf_boneyard.20.t:0 "[VLT.GetLeader] Disappoints"
+  nf_boneyard.20.d:0 "While we would have hoped Vault City learned from decades of NCR oversight, their leader has rejected our proposed trade agreement. On the upside, the Gun Runners will invest their resources in the Boneyard instead."
+  nf_boneyard.20.a:0 "Good luck with your raider problem."
+
+  nf_boneyard.21.t:0 "Trade With the Boneyard"
+  nf_boneyard.21.d:0 "The Boneyard is a curious place; the heart of the NCR's war machine, but also home to the pacifists of the Followers. [BON.GetLeader] has come to us with a proposed deal, hoping to build on our people's ties to the region. The Boneyard will provide us with military equipment in exchange for access to some of our civilian technology. Perhaps this is the start of warmer ties between the home of the Followers and the Vault Dweller's family?`"
+  nf_boneyard.21.a:0 "Trade can help everyone."
+  nf_boneyard.21.b:0 "We must stand alone."
+
+  nf_boneyard.22.t:0 "Thanks Again for Killing the Master"
+  nf_boneyard.22.d:0 "The poor people of Arroyo, scattered after something happened to Vault 13, have found a new home in the north. Remaining true to the Vault Dweller's ways, they have agreed to a trade agreement between the Boneyard and their new home. Perhaps we can bring "
+  nf_boneyard.22.a:0 "Sharing resources is the core of the Follower credo."
+  nf_boneyard.22.a_tt:0 "\nWe have a new a free trade route with Arroyo!"
+
+  boneyard_redding:0 "Mining Equipment for Redding"
+  boneyard_redding_desc:0 "Redding's mines are still in use, even if the gold is, umm, gone. But with our help perhaps they can change that."
+
+  boneyard_origin:0 "The City of Angels"
+  boneyard_origin_descesc:0 "The Boneyard was formed by Los Angeles' survivors who emerged from the rubble to rebuild. This is their story."
+  boneyard_ncr:0 "California Girls"
+  boneyard_ncr_desc:0 "Nicole, the founder of the Followers, pushed Boneyard to join Tandi's NCR in 2189. This is her story."
+
+  boneyard_good:0 "Allgood Murphy"
+  boneyard_good_desc:0 "The Boneyard calls itself California's Conscience, and Allgood Murphy is the latest in a long long of compassionate leaders or bleeding hearts, depending on who you ask. And he may save the NCR."
+
+  boneyard_guns_start:0 "Protecting the Boneyard"
+  boneyard_guns_start_desc:0 "The Boneyard never had a strong military of its own, for better or worse. But the Gun Runners and the Blades were enough to protect them. Facing threats from raiders and concerns about Shady Sands' total war, [BON.GetLeader] must decide how to protect the Republic."
+  boneyard_gun_runners:0 "The Unofficial Branch of the Army"
+  boneyard_gun_runners_desc:0 "The Gun Runners have been putting rapid-fire death-dealing in the hands of anyone who needed to defend himself for over a century. They're the NCR's #1 supplier of weapons and ammunition, and you might call them an unofficial branch of the army."
+
+  boneyard_hub_1:0 "The Hub of the Republic"
+  boneyard_hub_1_desc:0 "Shady Sands' claims to be the heart of the NCR, but paper shuffling bureacrats are not the strength of the Republic. The people of the Hub are the power New California's economy and are, frankly, tired of Shady Sands corruption."
+
+  boneyard_forgottenn_men:0 "The Old Ways for a New World"
+  boneyard_forgottenn_men_desc:0 "For the past hundred years or so, the Followers have managed to get by using salvaged medical supplies from the Old World. But the side effect of medical success is that more people live longer. Funny how that works. Eventually, we'll run out of hospitals to loot. We need new ways to produce those supplies. Or maybe old ways, if this research goes anywhere."
+  boneyard_forgottenn_men_tt:0 "This will unlock a decision where nations can trade caps for a limited access to the Followers' high-tech workshops."
+
+  boneyard_shi:0 "Promote a Follower Campus in San Francisco"
+  boneyard_shi_desc:0 "We have always had ties to the Shi, and scholars have traveled between our two nations. Now let us encourage the Followers to build a campus in their land directly."
+
+  boneyard_support_schools:0 "Tradesmen Schools"
+  boneyard_support_schools_desc:0 "Not everyone will heal the Wasteland quite so literally. Vocational schools that teach Californians an honest trade will do much for the world."
+  boneyard_support_schools_tt:0 "\nThis will unlock a decision for all nations with the Followers to request industrial assistance."
+
+  boneyard_dam:0 "The Mojave Expedition"
+  boneyard_dam_desc:0 "Although [BON.GetLeader] is no fan of the Mojave expedition, the Hub is willing to support it in exchange for a share of the dam's power."
+  boneyard_dam_tt:0 "\n§HTaking this focus will help the Boneyard, but weaken Murphy's standing in the election of 2277!§!"
+
+  boneyard_fargo:0 "Support the Far Go Traders"
+  boneyard_fargo_desc:0 "The Far Go Traders, although prominent in New California, are smaller than the Crimson Caravan nowadays. Granting government contracts to them may encourage small businesses throughout the country."
+
+  boneyard_crimson:0 "The Crimson Caravan"
+  boneyard_crimson_desc:0 "The reason the Crimson Caravan is so powerful is because they are the best run caravan in California. The efficiencies of working with them are obvious, and while it may push some small companies out of business, that's the cost of progress."
+
+  boneyard_bos:0 "The Brotherhood War"
+  boneyard_bos_desc:0 "The war with the Brotherhood was, perhaps inevitable. They wanted a computer found in the ruins of the Glow; and we recognized it belongs to the people of California. Although the computer was destryed early in the war, the war continued. The Brotherhood has lost countless suits of power armour; but they destroyed the gold reserves of Redding and have laid waste to much of Maxson. Although the war has petered out, Brotherhood raids continue to harass Maxson, and Shady Sands still plots to break into Lost Hills. But Murphy wishes to change that."
+
+  boneyard_dayglow:0 "Help With the Glow"
+  boneyard_dayglow_desc:0 "Dayglow is one of the founding membrs of the NCR, but it still struggles with radiation. We could help construct radiation scrubbers to boost support for the Boneyard's policies."
+
+  boneyard_hub_infrastructure:0 "Build the Roadways"
+  boneyard_hub_infrastructure_desc:0 "The Hub is unique among the major cities of New California for being landlocked. If it is going to continue to prosper, we must support the region's infrastructure."
+
+  boneyard_peace_war:0 "The Heart of the NCR"
+  boneyard_peace_war_desc:0 "The Boneyard is the core of the NCR's economy, and it can do much to help the Republic. Let Murphy show them how."
+  boneyard_hospitals:0 "The Follower Hospitals"
+  boneyard_hospitals_desc:0 "The people of the Boneyard are the healthiest people in New California, and it is thanks in no small part to the Followers. With additional funding, we can make make illness, if not a thing of the past, a much smaller problem."
+  boneyard_water_merchants:0 "Dealing With the Water Merchants"
+  boneyard_water_merchants_desc:0 "When the Republic's gold reserves were destroyed by Brotherhood raids to the point where new gold coins could not be minted during the war, the merchant consortiums of the Hub re-established their own currency, the veritable bottle cap, backed by water. But these merchants have now grown too powerful; how can Murphy solve this problem?"
+
+  boneyard_blades_training:0 "Razor's Lessons"
+  boneyard_blades_training_desc:0 "Razor led the Blades to victory with the help of the Vault Dweller, and her survival instincts are an inspiration to this day. We can encourage soldiesr to follower her training and self-reliance."
+  boneyard_gun_runners_stronger:0 "Renegotiating the Contracts"
+
+  boneyard_gun_runners_stronger2:0 "The Best Guns Money Can Buy"
+  boneyard_gun_runners_stronger2_desc:0 "Hiring mercenaries and paying our troops the best is not the worst idea. Didn't the Regulators protect Adytum, after a fashion?"
+  boneyard_blades_elites:0 "MacRae's Legacy"
+  boneyard_blades_elites_desc:0 "MacRae joined the Vault Dweller to crush the Regulators. Let the people of the Boneyard follow in his footsteps, for they will always fight for freedom."
+
+  boneyard_coops:0 "Promote Follower Cooperatives"
+  boneyard_coops_desc:0 "While the Brahmin Barons dominate much of the Republic's agriculture, there are still plenty of small farmers. With proper assistance we can encourage these cooperatives throughout the land, encouraging small farmers to pool resources against the rich and mighty. And this is a model the Followers might apply elsewhere."
+  boneyard_sun:0 "Electrification"
+  boneyard_sun_desc:0 "Shady Sands asks our men and women to die for the Dam, but Follower engineering will help us electricify much of the Boneyard. Let them have the plant; we have the power."
+  boneyard_sun_tt:0 "\nThe Followers will be able to assist nations that welcome them with Electrification."
+  boneyard_follower_league:0 "The Free Exchange of Ideas"
+  boneyard_follower_league_desc:0 "The Followers wish to make this land the way it used to be before the war. That will never happen if we don't learn to share with one another."
+  boneyard_friendly_lending_company:0 "The Unfriendly Lending Company"
+  boneyard_friendly_lending_company_desc:0 "With the attack on the Republic's gold reserves, the financial system fell on hard times. Loan sharks, such as the Friendly Lending Company, fill the cracks and extort our merchants and citizens. If we are to save the Hub, we must do something to address the issue."
+  boneyard_downtown:0 "Revitalize the Downtown"
+  boneyard_downtown_desc:0 "Although the Hub's downtown has fallen on hard times, there are still wonderful businesses and amenities there. With some refurbishment, the All-n-OneStore and the Stapleton Library will be the gems of the Republic once again!"
+  boneyard_police:0 "Fund the Police"
+  boneyard_police_desc:0 "Teh Hub's police force was once the best in the Republic, but some of its best officers were dispatched east to the Mojave. If we want to protect the Hub, we'll need to revitalize the force."
+  boneyard_reno:0 "The Reno Connection"
+  boneyard_reno_desc:0 "Although Shady Sands pushes us into the Mojave, we already have ties to a gambling town. Someday we'll find it, the Reno Connection, the lovers, the dreamers, and me."
+
+  ##### Ideas
+  boneyard_takes_our_power:0 "Diverting Power to the Boneyard"
+  boneyard_gets_power:0 "Benefits from the Mojave"
+  bon_fargo_traders:0 "Far Go Traders"
+  followers_doctors:0 "The Followers' Hospitals"
+  boneyard_gun_runners_buff:0 "Gun Runner Contracts"
+  boneyard_blades_idea:0 "The Blades"
+  boneyard_conscription_crisis:0 "NCR Conscription"
+  boneyard_conscription_crisis_desc:0 "The Boneyard has little in the way of a formal military beyond its national guard, and generally opposes the imperialist efforts of [NCR .GetLeader]. There is little for [BON.GetLeader] to draw upon to police the Boneyard."
+  boneyard_blades_idea_good:0 "The Blades Reborn"
+  followers_doctors_coops:0 "A Cooperative Society"
+  reform_finances:0 "Financial Reforms"
+
+  ### Followers Ideas
+  followers_circuitry:0 "Circuitry from the Followers"
+  follwers_sunny_in_capital:0 "Ask the Followers to Turn on the Lights"
+  follwers_sunny_in_capital_desc:0 "We are a proud people, but there's always room for improvement. The Followers are willing to assist us in providing power to some of our settlements."
+  followers_electrified:0 "The Followers Electrified Our Towns"

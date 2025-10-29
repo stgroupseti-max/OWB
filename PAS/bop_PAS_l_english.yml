@@ -1,0 +1,24 @@
+﻿l_english:
+    PAS_loyalty_balance:0 "Passkeeper Loyalty Balance"
+    PAS_william:0 "Warden Hardliners"
+    PAS_mixed_loyal:0 "Mixed Loyalties"
+    PAS_very_loyal_wardens:0 "Very Loyal Wardens"
+    PAS_extremely_loyal_wardens:0 "Extremely Loyal Wardens"
+    PAS_moderate_loyal_wardens:0 "Loyal Wardens"
+    PAS_sylvia:0 "Warden Reformers"
+    PAS_extremely_loyal_passkeepers:0 "Extremely Loyal Passkeepers"
+    PAS_very_high_loyal_passkeepers:0 "Very Loyal Passkeepers"
+    PAS_moderate_loyal_passkeepers:0 "Loyal Passkeepers"
+
+    william_train_troops:0 "Operation: New Blood"
+    william_train_troops_desc:0 ""  # TODO
+    william_raid_convoys:0 "Operation: "Convince" Traders"
+    william_raid_convoys_desc:0 ""  # TODO
+    william_contact_warden_remnants:0 "Operation: Telephone Man"
+    william_contact_warden_remnants_desc:0 ""  # TODO
+    sylvia_trade_with_traders:0 "Trade With Traders"
+    sylvia_trade_with_traders_desc:0 ""  # TODO
+    sylvia_build_roads:0 "Build Some More Paths"
+    sylvia_build_roads_desc:0 ""  # TODO
+    sylvia_build_shelters:0 "Build Shelters"
+    sylvia_build_shelters_desc:0 ""  # TODO

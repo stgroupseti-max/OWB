@@ -1,0 +1,1158 @@
+﻿l_english:
+  # Focuses
+  oro_1:0 "The Dark Mother"
+  oro_1_desc:0 "Flames consume my past,\nAshes scatter on the winds,\nOnly hate remains."
+  oro_2:0 "The Goddess"
+  oro_2_desc:0 "Moonlight calls my name,\nA goddess of dark and fate,\nTruth shaped by her voice."
+  oro_3:0 "The Future"
+  oro_3_desc:0 "Steel and stone obey,\nShadowed hands have shaped a throne,\nYet time whispers still."
+
+  oro_robots:0 "More Robots!"
+  oro_robots_desc:0 "Most of the supply of robots in Ouroboros are from wandering robots who came here after the fall of Tibbets Prison, and any that could be salvaged from the old Alton Bourgess Mining Concern. If we were able to find a ally with a suitable production facility to emulate, we could try to create a new home-grown Robot production facility right here in Ouroboros!"
+
+  oro_gecks:0 "Beauty of the Earth"
+  oro_gecks_desc:0 "§MThe rainstorm and the river are my brothers\nThe heron and the otter are my friends\nAnd we are all connected to each other\nIn a circle, in a hoop that never ends.§!"
+  oro_deal_with_lac_ttm:0 "A God in Stride with a Devil"
+  oro_deal_with_lac_ttm_desc:0 "In a twist of fate, Diana - Hecate's lunar sister - has decided to ally with Legate Lanius! It seems she was somehow able to convince Lanius to stand by her, and is trying to muster strength to fight the Legion directly! We have to assess the situation!"
+
+  oro_invite_chc:0 "An Elysian Partnership"
+  oro_invite_chc_desc:0 "The Chained Choir, once veiled in darkness, has embraced a new path. They've cast out their cultists and revived Project ACAPELLA, an environmental restoration initiative from before the war. Hecate treasures those who seek rebirth in the wasteland, and their devotion to ACAPELLA proves the Hummingbirds worthiness to stand among the Daughters of Hecate."
+  oro_chc_invite_tt:0 "Every §Y[CHC.GetAdjective]§! Ally:\n$invite_to_daughters_of_hecate_tt$"
+  chc_has_finished_project_acapela_tt:0 "Has finished §YProject ACAPELLA§!."
+  oro_address_the_hostile_tribes:0 "The Abbey of the Road"
+  oro_address_the_hostile_tribes_desc:0 "The Abbey of the Road is a small but fervent Christian extremist organization that believes Hecate poses a significant risk to the Wasteland. A cell of theirs is being supplied by New Canaan and wanders the Nychthemeron grove, harassing the Hounds of Hecate and consorting with the tribes near the Colorado to undermine Ouroboros's influence."
+
+  oro_track_the_source_of_the_rumors:0 "Locate Abbey Zealots"
+  oro_track_the_source_of_the_rumors_desc:0 "We must locate where the Abbey of the Road is hiding. Rumors suggest they, with the aid of members of the Hands of God in New Canaan, have established base camps in the remote Uintah mountains, making it difficult to track them down."
+
+  oro_prepare_contingency_plans:0 "Interrogate Missionaries"
+  oro_prepare_contingency_plans_desc:0 "We have captured a few members of the Abbey of the Road and now hold them within the cells of the Dark Pyramid. Through careful interrogation, we may uncover crucial information about their operations and their network of allies."
+
+  oro_swindle_ogden_barons:0 "Swindle the Barons of Ogden"
+  oro_swindle_ogden_barons_desc:0 "The merchant lords of Ogden line their pockets with war and faith, funding the Abbery of the Road under the guise of righteousness. Yet, gold speaks louder than zeal, and if we slip enough coin beneath their tables, their devotion may wane. With the right price, the flow of caps will slow, and the Abbey of the Road may find their coffers running dry before they ever raise a sword."
+
+  oro_address_the_hostile_tribes_cap:0 "The Reckoning at the Ridge"
+  oro_address_the_hostile_tribes_cap_desc:0 "Perched high in their secluded compound, the Abbey of the Road whisper their defiance and hoard their arms, believing themselves beyond retribution. They have built their sanctuary into a fortress, a last bastion against the inevitable. But no ridge is high enough to escape the Dark Moon's reach—no faith strong enough to stop what comes next. The storm gathers, and soon, it will break."
+
+  oro_deal_with_local_threats:0 "Deal with Local Threats"
+  oro_deal_with_local_threats_desc:0 "The Old Bones tribe to the north has long defied Hecate's godhood and continues to disrupt our territory. We must take decisive action to eliminate these local threats and secure our borders."
+
+  oro_protect_caravan_routes:0 "Protect Caravan Routes"
+  oro_protect_caravan_routes_desc:0 "The Old Bones tribe has been harassing our trade routes, endangering vital supplies and commerce. It is crucial to fortify and protect these caravan routes to ensure the prosperity of Ouroboros."
+
+  oro_stealing_back_supplies:0 "Stealing Back Supplies"
+  oro_stealing_back_supplies_desc:0 "The Old Bones have seized our supplies, hindering our efforts and weakening our position. We must strike back and reclaim what is rightfully ours to restore our strength and stability."
+  oro_stealing_back_supplies_tt:0 "§YRecruit New Troops§!\n§gWeary Traders, thankful, take up arms to defend the trade routes!§!"
+
+  oro_call_on_the_rattlesnakes:0 "Call On the Rattlesnakes"
+  oro_call_on_the_rattlesnakes_desc:0 "The Rattlesnakes, a small raider clan known for their past raids on Mesa Verde, could be valuable allies against the Old Bones. Calling on them for assistance might turn the tide in our favor and crush the defiant tribe."
+
+  oro_tob_wg:0 "Striking Back the Old Bones"
+  oro_tob_wg_desc:0 "Now that we have collected ourselves, reaffirmed our borders, and took back our supplies, it is time to go back on the offensive! Let's drive the Old Bones back into their caves. Maybe this time they will learn to kneel."
+
+  oro_attack_our_north:0 "Securing Northern Trade"
+  oro_attack_our_north_desc:0 "The Old Bones have disrupted the vital brahmin caravan routes through the north, seizing control of the land and choking trade. By reclaiming these territories, Ouroboros can reestablish the flow of goods and ensure the prosperity of Hecate's dominion."
+
+  oro_reaching_out:0 "Forging the Colorado River Compact"
+  oro_reaching_out_desc:0 "To resist Caesar's ever-growing shadow, we must appeal to the tribes along the Colorado. By uniting them under a shared purpose, we can forge a pact that stands as an unyielding barrier against the Legion's ambitions."
+
+  oro_uin_ally:0 "Wings of Zephyr"
+  oro_uin_ally_desc:0 "The Uintah dream of reclaiming the skies with Old World planes, their sights set on raining destruction upon Caesar's forces. With Ouroboros's guidance and resources, this dream will take flight."
+
+  oro_crz_ally:0 "Covenant of Flames"
+  oro_crz_ally_desc:0 "The Crazy Horns' pyro-cultists are drawn to Ouroboros by promises of setting the Legion ablaze. United under the Dark Moon, their fires shall be a weapon of divine wrath."
+
+  oro_dea_ally:0 "Dead Horse Alliance"
+  oro_dea_ally_desc:0 "The Dead Horses, fierce warriors of the mesa, must choose their path. Ouroboros offers them the strength to stand against Caesar's tyranny and secure their place in the coming war."
+
+  oro_invite_neighbors:0 "The Dark Moon Compact"
+  oro_invite_neighbors_desc:0 "The Daughters of Hecate are sent forth to forge a pact among the tribes near Dead Horse Point, creating a united front against Caesar's Legion. Yet, beneath the veil of diplomacy lies Ouroboros's true intent: to extend its dominion. Soon, the tribes will see the Dark Moon as both savior and sovereign."
+
+  oro_war_for_the_uinta_mountains:0 "Conquest of the Uinta Mountains"
+  oro_war_for_the_uinta_mountains_desc:0 "Eagle Rock's airships loom as a potential threat to Ouroboros, their pre-war relics capable of striking where we are most vulnerable. Instead of placating them with promises and tribute, we shall strike first, seizing their stronghold and silencing their skies. The Uinta Mountains will belong to Hecate, and the winds will carry no threat to her dominion."
+
+  oro_unifying_the_wayward_tribes:0 "Unifying the Wayward Tribes"
+  oro_unifying_the_wayward_tribes_desc:0 "The Abbey of the Road and the Hands of God, emboldened by New Canaan's backing, weave lies and foment dissent among the tribes, turning them against Ouroboros. These saboteurs threaten Hecate's divine vision, and the only way forward is to root them out with unrelenting force."
+
+  oro_uin_wg:0 "Zephyr's Swayed"
+  oro_uin_wg_desc:0 "The Uintah tribe, swayed by the Abbey of the Road, spreads chaos in the highlands. We must crush their rebellion to bring them back into the fold."
+
+  oro_crz_wg:0 "Flamebringers of Chaos"
+  oro_crz_wg_desc:0 "The Crazy Horns fan the flames of anarchy, their pyromaniac cult emboldened by New Canaan's whispers. They must be extinguished before they consume the tribes entirely."
+
+  oro_dea_wg:0 "The Stronghold at Dead Horse Point"
+  oro_dea_wg_desc:0 "The Dead Horses are entrenched at their sacred mesa, manipulated by false promises of salvation from New Canaan. Breaking their resistance will pave the way for unity."
+
+  oro_consolidate_wg:0 "Subjugation of the Wayward Tribes"
+  oro_consolidate_wg_desc:0 "With the enemies of Ouroboros uprooted and their lies silenced, the tribes shall be united once more under Hecate's divine light."
+
+  oro_protect_deadhorse_point:0 "Protect Dead Horse Point"
+  oro_protect_deadhorse_point_desc:0 "Dead Horse Points importance to the war with the Legion is without question. The only other possible frontline we could create with them is all the way through the Colorado Rockies, near the Cipher's territory in Mesa Verde. We need to ensure that the Legion cannot make a landing on our territory - protect our strategic depth!"
+
+  oro_request_deadhorse_point:0 "Commandeering Dead Horse Point"
+  oro_request_deadhorse_point_desc:0 "Dead Horse Point, due to its pivotal location by the Colorado River, is pivotal to any potential war with the Legion. The Hounds of Hecate have determined it is an absolute necessity for staging a frontline against Caeser's forces, and have asked that we use a major portion of the moonlight treasury to pay for the territory."
+
+  oro_deal_with_eag:0 "Negotiate with Eagle Rock"
+  oro_deal_with_eag_desc:0 "In truth, some Hounds of Hecate are worried that, if we were to attack Eagle Rock, that they could simply perform a air raid against us in retaliation. Ouroboros was built to withstand the Legions assault, not a air raid from pre-war vehicles! Asking them for tribute and promising their safety in return could be a reasonable way to avoid the issue alltogether."
+
+  oro_plan_against_the_legion:0 "Undying Hatred"
+  oro_plan_against_the_legion_desc:0 "Beneath darkened skies,\nHecate's wrath coils like flame—\nCaesar shall be dust."
+
+  oro_river_defense:0 "Defense of the Grove"
+  oro_river_defense_desc:0 "Temp"
+
+  oro_spy_defense:0 "Spy Defense"
+  oro_spy_defense_desc:0 "Temp"
+
+  oro_river_arms_trade:0 "Rivers Run With Iron"
+  oro_river_arms_trade_desc:0 "Ouroboros is more than just a fortress on the waters—it is becoming the key supplier for those who stand against the Legion. By establishing secure trade routes along the Colorado, Pecos, and Rio Grande rivers, Ouroboros has opened new avenues for supplying arms, munitions, and support to factions resisting Legion control."
+
+  oro_museum_raiding:0 "Echoes of War"
+  oro_museum_raiding_desc:0 "In a world scarred by time and war, the relics of the past may hold the key to victory. By raiding the forgotten halls of a military museum, Ouroboros seeks to uncover tools and knowledge that can turn the tide against the Legion. From ancient defenses to legendary weapons, the treasures within could shape the future of our struggle."
+
+  oro_obsidian_fleet:0 "The Obsidian Fleet Initiative"
+  oro_obsidian_fleet_desc:0 "Faced with the formidable Legion fleet, Adrian Beyr works with our high admirals to begin a radical new approach to naval dominance. By blending the cutting-edge advances in synthetic materials with dark enchantments and pre-war technologies, the Obsidian Fleet Initiative seeks to transform a modest river fleet into an unstoppable force on the Colorado."
+
+  oro_spreading_the_word:0 "Spreading the Word"
+  oro_spreading_the_word_desc:0 "Hecate and her followers begin calling into prominent wasteland radio hosts, sharing chilling tales of the Legion's brutality. By weaving their stories into the fabric of local broadcasts, they hope to ignite unrest and rally distant settlements against the Legion's dominion."
+
+  oro_spy_defense_5:0 "Spy Defense 5"
+  oro_spy_defense_5_desc:0 "Temp"
+
+  oro_black_canyon_wg:0 "The Preemptive Strike"
+  oro_black_canyon_wg_desc:0 "Hecate always worried that Black Canyon, the disorganized alliance of settlers, raiders and traders to her north east, might strike her during her campaign against the Legion. Their fractured government poses a risk she cannot ignore. Only through conquest can Ouroboros ensure their compliance, and secure Legionfall."
+
+  oro_bridging_old_and_new:0 "Bridging Old and New"
+  oro_bridging_old_and_new_desc:0 "The settlers cling to old-world ways, resisting Ouroboros's faith. How will they find Hecate's love?"
+
+  oro_boulder_dome:0 "Scholarly Curiosity"
+  oro_boulder_dome_desc:0 "Adrian Beyr approaches Hecate with an urgent request, his intentions shrouded in mystery but fueled by fervent curiosity."
+
+  oro_vls_wg:0 "Break Into the Vault"
+  oro_vls_wg_desc:0 "Temp"
+
+  oro_avoid_the_quagmire:0 "Avoid the Quagmire"
+  oro_avoid_the_quagmire_desc:0 "Temp"
+
+  oro_inner_rockies:0 "Contain the Nemonik"
+  oro_inner_rockies_desc:0 "The Nemonik, a esoteric warlord of the Ciphers tribe, has expressed interest in conquering our lands! We need to deal with them before they pose a threat to us! It would be disastrous if they attacked during our assault on the Legion!"
+
+  oro_push_into_the_rockies:0 "Push into the Rockies"
+  oro_push_into_the_rockies_desc:0 "Temp"
+
+  oro_inr_wg:0 "Inr WG"
+  oro_inr_wg_desc:0 "Temp"
+
+  oro_send_dae_south:0 "Send Dae South"
+  oro_send_dae_south_desc:0 "Temp"
+
+  oro_clj_wg:0 "Clj WG"
+  oro_clj_wg_desc:0 "Temp"
+
+  oro_wg_on_pnt:0 "WG on Pnt"
+  oro_wg_on_pnt_desc:0 "Temp"
+
+  oro_safeguard_mesa_verde:0 "Safeguard Mesa Verde"
+  oro_safeguard_mesa_verde_desc:0 "Temp"
+
+  oro_push_into_the_canyon:0 "Push into the Canyon"
+  oro_push_into_the_canyon_desc:0 "Temp"
+
+  oro_wyoming:0 "Trouble in the Trade Winds"
+  oro_wyoming_desc:0 "The trade caravans coming down from the north through Sietch have mysteriously stopped. No word, no goods, just silence on the wind. We should get to the bottom of this before someone else does."
+
+  oro_highland:0 "Highland Watch Triumphant"
+  oro_highland_desc:0 "Highland Watch came through, smashing the Far Sons mole miners and sending them scurrying back to their tunnels. Trade routes are finally open again! Maybe now we can stop rationing the coffee."
+
+  oro_highland_1:0 "Arapaho Craftsmanship"
+  oro_highland_1_desc:0 "The Arapaho are pitching in with tools and supplies to help grease the wheels of trade. Their gear is surprisingly solid—hard work shines through. Let's make sure we keep them happy."
+
+  oro_highland_2:0 "Guns of the Rangers"
+  oro_highland_2_desc:0 "The Rawlins Rangers are sharing their iconic cowboy pistols with us! Who doesn't love a revolver that looks like it belongs in a hero's holster? Let's make sure to send a thank-you note—or maybe just keep trading caps."
+
+  oro_highland_3:0 "Investing in Ouroboros"
+  oro_highland_3_desc:0 "Highland Watch wants to invest in Ouroboros, but they're asking for a little help in return. It's a tempting offer—more trade means more caps and more growth. Let's roll up our sleeves and work out the details!"
+
+  oro_farson:0 "Victory of the Mole Miners"
+  oro_farson_desc:0 "Bad news from the north—the mole miners routed Highland Watch. Our caravans are stuck, and we're left holding the bag. Time to figure out a way to clean up this mess."
+
+  oro_farson_1:0 "Mole Miner Ingenuity"
+  oro_farson_1_desc:0 "Looks like some mole miner gear has been sneaking south with the refugees. Tools, tech, and a few odd trinkets—it's not much, but it's something. Maybe we can make it work."
+
+  oro_farson_2:0 "A New Home for Miners"
+  oro_farson_2_desc:0 "Some mole miners are looking for a fresh start and think Ouroboros might be the place. They're rough around the edges, but they're also hard workers. Let's see if we can give them a chance to shine."
+
+  oro_farson_3:0 "Harboring the Displaced"
+  oro_farson_3_desc:0 "Refugees from Highland Watch have started to trickle into Ouroboros. They're hungry, tired, and in need of a helping hand. Let's do what we can to get them settled and make them feel at home."
+
+  oro_fate_of_wyoming:0 "Securing the Northern Flow"
+  oro_fate_of_wyoming_desc:0 "With the trade routes firmly under our control, the goods from the north can flow without a hitch. No more interruptions, no more surprises—just smooth sailing all the way south. Ouroboros is open for business!"
+
+  oro_gene_warriors:0 "Confronting Old Scars"
+  oro_gene_warriors_desc:0 "It takes a steeled resolve to confront ones mistakes. In the shadow of Hecate's past, many such mistakes stain her legacy."
+
+  oro_mutagens:0 "A New Outlook"
+  oro_mutagens_desc:0 "Hecate figured that ultimately, her experiments in her lab were merely the result of a flawed outlook:\nShe relied too much on the wisdom of ancients. She was trying to reinvent the wheel, when - if she had just silenced her ego, she could have seen that others in the wasteland had already developed into the perfect tribe; the mutants!"
+
+  oro_mutagens_1:0 "Mutant Pride!"
+  oro_mutagens_1_desc:0 "We have to show mutants that, if they want to, they can come to Ouroboros! This can be their home - and with the labs aid, we can ensure that their mutations are studied and enhanced!"
+
+  oro_mutagens_2:0 "Blessed, Not Forced, Evolution"
+  oro_mutagens_2_desc:0 "FEV, ultimately, leads to an incomplete person. Super Mutants - the creation of West-Tek, are brutes without the finesse required for Hecate's people.\nHer people will be a chosen people, whose strength came from pristine evolution, not forced onto them by the old world."
+
+  oro_mutagens_3:0 "Proclamation of Mutant Rights"
+  oro_mutagens_3_desc:0 "Mutants will always have a place in Ouroboros. Those who were victims of the wastelands touch, or those who gave their bodies in defense of Hecate - they should be treated as equals, not lessers!"
+
+  oro_tonics:0 "Dismantle the Lab"
+  oro_tonics_desc:0 "It's time that Hecate leaves this chapter of her life behind. She made mistakes, hurting those she wanted to help in the name of pursuing Legionfall.\nShe doesn't need to lose her heart to defeat the Legion."
+
+  oro_tonics_1:0 "Natural Tonics"
+  oro_tonics_1_desc:0 "The people of Ouroboros always used natural tonics and herbal remedies. Gifts Hecate gave to them from the Twisted Hairs, and lessons the tribes taught her. Unlike the Legion, Hecate will cherish and learn from the strength of the tribes she integrates."
+
+  oro_tonics_2:0 "A New Temple of Trials"
+  oro_tonics_2_desc:0 "Far to the west, in the fabled lands where the Chosen One lives, a temple existed. This temple - a great structure built into the earth, was said to be the place where new warriors learned to face the challenges of the wasteland. We should learn from this, and build our own great temple!"
+
+  oro_tonics_3:0 "Adrian Beyr's Wisdom"
+  oro_tonics_3_desc:0 "Adrian hasn't been this enthusiastic to work with Hecate in years, seeing the growth she has taken as a person to finally close her old lab. His aid will be needed if the Legion will ever be brought to heel."
+
+  oro_a_strong_people:0 "The Pursuit of the "Perfect Tribe""
+  oro_a_strong_people_desc:0 "Hecate always believed she needed a 'Perfect Tribe' to achieve Legionfall. It took years for her to realize this quest for perfection stemmed from a fear of losing all she had built. Some scars would never heal—scars from the trauma she inflicted on the tribes—but hopefully, they could become lessons learned in time."
+
+  oro_lunar_sisters_together_at_last:0 "Lunar Sisters Together at Last"
+  oro_lunar_sisters_together_at_last_desc:0 "With the Twin Mothers shattered by the Legion, Diana returns to Ouroboros seeking shelter, and Hecate, once saved by her, now offers it in turn. Together, they gather the broken pieces of their people, two mothers bound by loss and defiance. In the shadow of the Dark Pyramid, they begin to sow the seeds of something new."
+
+  oro_ttm_1:0 "Building an Uplink"
+  oro_ttm_1_desc:0 "With meticulous planning, an uplink was established between the power grids of Ouroboros and the Nursery, sharing its near-unlimited energy. The 'Godlights' transformed the city, providing a gentle, continuous glow that brought comfort and a renewed sense of hope to the people."
+
+  oro_ttm_2:0 "A Reunification with Diana"
+  oro_ttm_2_desc:0 "When Diana first met Hecate, she asked that she, eventually, return to her at some point.\nIt is finally time for Hecate to see her sister once again."
+
+  oro_ttm_3:0 "A Matter of Faith"
+  oro_ttm_3_desc:0 "There was, among the Daughters of Hecate, a few complications regarding how exactly the faith works in regards to the pantheon."
+
+  oro_ttm_4:0 "Twin Moons Temple"
+  oro_ttm_4_desc:0 "Diana and Hecate built a grand temple of gleaming ivory, a center for spiritual and intellectual exchange. The temple, adorned with artful tapestries and fine wood furniture, serves as a place for training future Daughters of Hecate and Priestesses of the Twin Mothers, symbolizing unity and shared wisdom."
+
+  oro_burham_springs:0 "Burham Springs"
+  oro_burham_springs_desc:0 ""But fix thine eyes below; for draweth near\nThe river of blood, within which boiling is\nWhoe'er by violence doth injure others.\nO blind cupidity, O wrath insane,\nThat spurs us onward so in our short life,\nAnd in the eternal then so badly steeps us!""
+
+  oro_metal_hands_brave_the_flames:0 "Metal Hands Brave the Flames"
+  oro_metal_hands_brave_the_flames_desc:0 "Our 'Hounds', sadly do not possess the armor necessary to brave the hottest parts of these mines just yet. However! We can enlist the help of robotic helpers to try to end this flame and figure out what is inside of the Pits."
+
+  oro_filling_the_chasm:0 "Flooding the Chasm"
+  oro_filling_the_chasm_desc:0 "Hecate, in her ruminations has discovered another opportunity to ending the flames - using water! By redirecting water from a nearby river we can work to fill some of the hotter chasms and bring the total heat down."
+
+  oro_fire_team_six:0 "FIRE TEAM 6"
+  oro_fire_team_six_desc:0 "And where automation and engineering fail? We can rely on the resolve of a few of our mightiest 'Hounds'. Let us show this flame who the true master of this world is - Hell and Hades have no room in the Wasteland underneath Hecate's glory."
+
+  oro_wealth_of_the_springs:0 "Wealth of the Springs"
+  oro_wealth_of_the_springs_desc:0 "With the flames.. partly tamed we can finally send FIRE TEAM 6 into the heart of the caves, to discover what remains at its deepest level..."
+
+  oro_industry:0 "Proto-Feudalism"
+  oro_industry_desc:0 "Ouroboros's industry has taken shape as a structured hierarchy, almost resembling a form of proto-feudalism. Daughters of Hecate govern the farmland, granting workers rights to till the soil, giving them a share of their yield. Those who prove their worth—through labor or ingenuity—may earn enough to join the artisan caste, securing a future beyond the fields for themselves and their descendants."
+
+  oro_well_rounded_industry:0 "Serfdom in the Umbral Age"
+  oro_well_rounded_industry_desc:0 "Beneath the watchful gaze of the Dark Mother, Ouroboros molds its destiny in work and faith. Adrian Beyr and the Daughters of Hecate weave a grand vision, where industry does not merely serve, but sanctifies, forging a civilization where duty and devotion are one. Towering manufactories rise like obsidian spires, their furnaces breathing life into machines of war and wonder alike."
+  oro_well_rounded_industry_tt:0 "§gAdrian Beyr, ever the scholar, has set forth an ambitious vision for Ouroboros-one drawn from both 'ancient Rome' and the gilded tycoons of the Old World. He proposes that its industrial centers function as autonomous 'tribes,' each a self-sustaining fief bound in fealty to the central authority of the Dark Pyramid. He refers to it as 'Neo-Manorialist Feudalism', much like Mark Antony's vision for Rome's eastern provinces before 'the Latin Caesar stopped him'. This fusion of feudal governance and industrial might, Beyr argues, could create a culture resilient enough to endure beyond mere conquest. A culture where reverence and diligence are one—Ouroboros serving as the cradle for a new world.§!"
+
+  oro_pyramid_of_the_dark_moon:0 "Pyramid of the Dark Moon"
+  oro_pyramid_of_the_dark_moon_desc:0 "The Pyramid of the Dark Moon was the cornerstone of Ouroboros, envisioned by Hecate in a dream. Initially built from wasteland junk, predominantly cars and scrap metal, it was later adorned with intricate obsidian panels. Its apex, capped with an alloy of gold and uranium, reflects the moonlight with an eerie glow. "
+
+  oro_infrastructure_effort:0 "Dr. Adrian Beyr's Lab"
+  oro_infrastructure_effort_desc:0 "Dr. Adrian Beyr, once a Follower of the Apocalypse, found himself imprisoned for his heretical views. Yet, Hecate, in a rare act of mercy, spared his life and enlisted his expertise for the greater good of Ouroboros. Granted an impressive lab within the Dark Pyramid, Beyr now works under the watchful eye of Hecate, utilizing vast resources to further her cause."
+
+  oro_arms_manufacturing:0 "Daughter's Sanctum"
+  oro_arms_manufacturing_desc:0 "Within the Dark Pyramid lies the heart of Hecate's spiritual powe; the Daughter's Sanctum. Here, the priestesses of Hecate, indistinguishable in their identical makeup and robes, dedicate themselves to the faith. They lecture, learn, and perform their sacred duties, embodying the collective devotion to the Dark Mother."
+
+  oro_foundry_effort:0 "Alton Bourgess' Tools"
+  oro_foundry_effort_desc:0 "The Alton Bourgess Mining Concern left behind a wealth of materials and equipment in the region. Seizing this opportunity, Ouroboros revitalized several old mines and initiated new ones."
+
+  oro_advanced_fabrication:0 "The Umbral Adytum"
+  oro_advanced_fabrication_desc:0 "Deep within the Dark Pyramid lies the Umbral Adytum, a chamber veiled in absolute silence and shadow. Here, the faithful surrender not just their sight and sound, but their very sense of self, drifting into the abyss to commune with the Dark Mother. In the void of sensation, the mind unshackles, grasping at truths unseen and wisdom whispered from the depths of eternity."
+
+  oro_fortification_effort:0 "Old Umbral Hill"
+  oro_fortification_effort_desc:0 "The Old Umbral Hill is the sacred site where Hecate envisioned the Dark Pyramid in her dreams. This hill, in time, became the foundation for Ouroboros. The city's original walls, constructed from cars and junk, still stand as a testament to its humble beginnings."
+
+  oro_bounty_of_colorado:0 "The Bounty of the Colorado"
+  oro_bounty_of_colorado_desc:0 "The Colorado River runs along most of our southern border, easily gathered and mostly radiation free, coordinating efforts to gather water should assist the growth of our population."
+
+  oro_great_city_of_ouroboros:0 "Great City of Ouroboros"
+  oro_great_city_of_ouroboros_desc:0 "The City of Ouroboros was born to facilitate the construction of the Pyramid of the Dark Moon, growing and evolving from that singular purpose. As the pyramid rose, so did the city around it, incorporating the lessons learned during its creation."
+
+  oro_watermill_effort:0 "Reflective Lenses"
+  oro_watermill_effort_desc:0 "The city of Ouroboros, a beacon of post-war ingenuity, was meticulously designed to remain hidden from the prying eyes of the Legion. No artificial lights were permitted; not even the humble campfire. Instead, the city embraced the night, utilizing reflective lenses to amplify the moonlight into every home."
+
+  oro_servants_of_the_greatest_tribe:0 "Mechanical Servants"
+  oro_servants_of_the_greatest_tribe_desc:0 "Over the years, robots travelling from the ruins of Tibbet's Prison - sometimes called the Empty by locals - have made their way into our lands. They have made great servants - helping us build Ouroboros to the great city it is today!"
+
+  oro_dark_moon_sentries:0 "Dark Moon Sentries"
+  oro_dark_moon_sentries_desc:0 ""Please put down your weapon, you have twenty seconds to comply""
+
+  oro_war_machines_of_the_goddess:0 "War Machines of the Goddess"
+  oro_war_machines_of_the_goddess_desc:0 ""Dead or alive, you're coming with me!""
+
+  oro_the_teachings_of_hecate:0 "The Teachings of Hecate"
+  oro_the_teachings_of_hecate_desc:0 "The Daughters of Hecate impart wisdom drawn from the primal forces of the psyche and ancient philosophies §g(According to heresy, derived from pre-war minds such as Jung and Campbell)§!. In recent years, our cultural connection with our teachings has dwindled. It is time that the people of Ouroboros listen to the wisdom of the Daughters!"
+
+  oro_defending_the_dark_mother:0 "Defending the Dark Mother"
+  oro_defending_the_dark_mother_desc:0 "Ouroboros's army has always been divided—the Hounds of Hecate, fierce and untamed, and the Daughters of Hecate, shadowed and precise. This duality has served the Dark Mother well, but as Legionfall approaches, we must choose which path to sharpen for the trials to come. In this decision lies the future of our dominion."
+
+  oro_mil_tribal:0 "The Path of the Elders"
+  oro_mil_tribal_desc:0 "Hecate calls upon the ancient wisdom coursing through the veins of the Hounds. Their heritage is a weapon, their legacy a beacon, as they stand ready to forge the future she has envisioned."
+
+  oro_mil_tribal_1:0 "Strength of the Earth"
+  oro_mil_tribal_1_desc:0 "The Hounds draw strength from the bones of the wasteland, their spirits rooted in its unyielding resilience. From the broken soil and shattered stone, they rise, tempered and unshaken."
+
+  oro_mil_tribal_2:0 "The Eternal Circle"
+  oro_mil_tribal_2_desc:0 "Sworn by sacred oaths and bound by purpose, the Hounds form an unyielding circle. Their unity becomes their armor, unbreakable and enduring, a bulwark against Caesar's coming storm."
+
+  oro_mil_tribal_3:0 "Shadows of the Wildwood"
+  oro_mil_tribal_3_desc:0 "Among the tangled wildwood, the Hounds slip into shadow, silent as the gathering dusk. They become the unseen edge of Hecate's will, stalking the Legion's ruin with patient, deadly precision."
+
+  oro_support_research_focus:0 "The Forge of Survival"
+  oro_support_research_focus_desc:0 "Through fire and resolve, Hecate shapes Ouroboros into a forge of survival. The tools of war and the warriors who wield them are tempered together, prepared to meet the trials of her prophecy head-on."
+
+  oro_learn_from_eagle_rock:0 "Eagle Rock's Skyborne Lessons"
+  oro_learn_from_eagle_rock_desc:0 "Adrian Beyr has immersed himself in the ancient schematics of Eagle Rock's airships, his excitement barely contained; §g'They actually built these?! Propulsion systems like nothing I've seen—oh, we have to replicate this!'§! With Hecate's blessing, these designs will lift Ouroboros to command the skies."
+
+  oro_ouroboros_airships:0 "First Flight of the Dark Moon"
+  oro_ouroboros_airships_desc:0 "The first airships of Ouroboros ascend from the skyport, their shadows stretching over the wasteland. Guided by Hecate's vision, these vessels herald the dawn of her aerial dominion, bringing her wrath to the skies above."
+
+  oro_vr_simulators:0 "Dreams of the Sky"
+  oro_vr_simulators_desc:0 "Commanding an airship is perilous, demanding precision and skill. To safeguard her pilots, Hecate invests in advanced simulators, crafting virtual skies where the chosen can master their craft without risk to life or vessel."
+
+  oro_mastery_of_war:0 "Hecate's Wrath"
+  oro_mastery_of_war_desc:0 "Through unyielding discipline and divine purpose, Hecate shall mold her warriors into the sword and shield of Legionfall."
+
+  oro_mil_spec_ops:0 "Daughters of the Shadow"
+  oro_mil_spec_ops_desc:0 "Hecate's Daughters move as her silent harbingers, unseen and unerring. Their shadowed hands will weave chaos into the heart of Caesar's empire, ensuring its slow and inevitable collapse."
+
+  oro_mil_spec_ops_1:0 "Echoes of the Night"
+  oro_mil_spec_ops_1_desc:0 "In the still of the night, the Daughters glide as whispers of terror. Every step they take leaves a shadow on the Legion's heart, their deeds sowing unease that spreads like wildfire."
+
+  oro_mil_spec_ops_2:0 "Precision of the Hunt"
+  oro_mil_spec_ops_2_desc:0 "With Hecate's hand to guide them, the Daughters strike with unmatched precision. Every ambush, every blow, unravels the threads of the Legion's strength, leaving nothing but frayed sinews behind."
+
+  oro_mil_spec_ops_3:0 "Instruments of Prophecy"
+  oro_mil_spec_ops_3_desc:0 "The Daughters will become the instruments of Hecate's divine prophecy. Their every action echoes her vision, shaping Caesar's empire into a crumbling relic of its former might."
+
+  oro_spec_ops_research_focus:0 "Tools of the Goddess"
+  oro_spec_ops_research_focus_desc:0 "Under Hecate's watchful eye, the finest tools and training are bestowed upon the Daughters. Armed with her blessings, they will ensure their enemies falter when the hour of Legionfall descends."
+
+  oro_los_alamos_research_plasma_weaponry:0 "The Secrets of Plasma"
+  oro_los_alamos_research_plasma_weaponry_desc:0 "Adrian Beyr can barely contain himself; §g'Do you see this? Plasma weaponry! Stable reaction chambers, high-yield efficiency—it's beautiful! Caesar's Legion won't even know what vaporized them!'§!"
+
+  oro_los_alamos_research_heavy_support_weaponry:0 "Advanced Support Systems"
+  oro_los_alamos_research_heavy_support_weaponry_desc:0 "Blueprints for automated support weapons have Adrian absolutely buzzing; §g'They have self-calibrating gyros and AI-assisted targeting—AI! This is a literal treasure trove!'§! Hecate will put them to good use."
+
+  oro_the_shadows_embrace:0 "The Shadow's Embrace"
+  oro_the_shadows_embrace_desc:0 "One must confront and embrace the shadow within to achieve true wholeness. The shadow represents the repressed, denied aspects of the self. Integrating these parts leads to greater self-awareness and inner strength. Only by confronting our darkness can we see the light."
+
+  oro_reflection_of_the_soul:0 "Ancestral Memory"
+  oro_reflection_of_the_soul_desc:0 "The Daughters of Hecate teach that the collective unconscious is a vast reservoir of ancestral memory, shared by all humankind. This primal force, imbued with the wisdom of countless generations, guides our actions and shapes our dreams."
+
+  oro_mirror_of_the_psyche:0 "The Web of Archetypes"
+  oro_mirror_of_the_psyche_desc:0 "Within the collective unconscious lies a web of archetypes, the universal symbols and motifs that connect us all. The Daughters of Hecate believe that understanding these archetypes allows us to navigate our inner worlds and the external realm with greater clarity."
+
+  oro_confronting_the_darkness:0 "Confronting the Darkness"
+  oro_confronting_the_darkness_desc:0 "To embrace the shadow, one must first confront it. This involves facing our deepest fears and acknowledging the parts of ourselves we wish to deny. Through this process, we gain power over our inner demons and transform them into allies."
+
+  oro_the_alchemy_of_acceptance:0 "Alchemical Acceptance"
+  oro_the_alchemy_of_acceptance_desc:0 "Acceptance is the alchemical process of transforming the shadow. By accepting all parts of ourselves, we integrate our fragmented psyche into a unified whole. This transformation brings about profound inner peace and strength, allowing us to live in harmony with our true nature."
+
+  oro_unity_of_the_self:0 "Unity of the Self"
+  oro_unity_of_the_self_desc:0 "With the shadow embraced and accepted, we achieve unity within. This state of wholeness empowers us to act with purpose and clarity, strengthening the fabric of Ouroboros. United within ourselves, we stand unbreakable against the trials of the world."
+
+  oro_harmony_of_opposites:0 "Harmony of Opposites"
+  oro_harmony_of_opposites_desc:0 "The path to enlightenment involves transcending dualities. By harmonizing opposites—light and dark, conscious and unconscious, Eros and Logos - we achieve a higher state of consciousness that encompasses all aspects of existence. In this sacred balance, we find the wisdom to guide our community towards greatness."
+
+  oro_balance_of_forces:0 "Society's Mask"
+  oro_balance_of_forces_desc:0 "The persona is the mask we wear to navigate society, a construct that allows us to fit in and function within the collective. This mask, however, often obscures our true selves. Peel away your persona, it is just an obstacle that stands between you and true individuation."
+
+  oro_the_dance_of_dualities:0 "Reconciling Masks and Shadows"
+  oro_the_dance_of_dualities_desc:0 "The path to individuation requires us to navigate the dance of dualities within ourselves. The Daughters of Hecate teach that the persona, while a construct, should not be discarded. It is a part of you, just like the Shadow. Instead, both must be understood and integrated. By embracing and balancing these aspects, we achieve true authenticity and wholeness"
+
+  oro_integration_of_anima_and_animus:0 "Integration of Anima and Animus"
+  oro_integration_of_anima_and_animus_desc:0 "The anima and animus represent the opposing aspects within us. By integrating these elements, we achieve a harmonious balance that transcends inner conflicts."
+
+  oro_transcending_polarities:0 "Transcending Polarities"
+  oro_transcending_polarities_desc:0 "Transcending polarities involves moving beyond binary thinking. By embracing the full spectrum of our experiences and emotions, we achieve a holistic understanding of ourselves and the world."
+
+  oro_the_higher_synthesis:0 "The Higher Synthesis"
+  oro_the_higher_synthesis_desc:0 "With dualities harmonized, we reach a higher synthesis of consciousness. This state of enlightenment allows us to see beyond apparent contradictions and embrace the interconnectedness of all things."
+
+  oro_cycles_within_cycles:0 "Cycles Within Cycles"
+  oro_cycles_within_cycles_desc:0 "The Daughters of Hecate believe inherently in the idea of the Hero's Journey. Even if, in this life, you aren't able to complete your journey, in your next life you will be able to. Eventually, your journey will conclude when rationality itself is refined—eros to logos, and logos to eros. This eternal cycle propels the soul through countless lifetimes, ever advancing towards ultimate enlightenment, reminding us that each step is sacred."
+
+  oro_the_elixir_of_life:0 "The Elixir of Wisdom"
+  oro_the_elixir_of_life_desc:0 "The journey involves not just one life, but a multitude. Each time we make this journey, we return with the elixir of wisdom, contributing to the collective unconscious knowledge of Ouroboros. This process is repeated until we have walked all roads and accomplished all there is in life. In this perpetual quest, we gather the essence of existence itself."
+
+  oro_the_eternal_return:0 "Escaping the Wheel"
+  oro_the_eternal_return_desc:0 "Through countless cycles, we strive to escape the eternal wheel. Only when we have fully integrated all aspects of existence and achieved perfect understanding can we transcend the cycle. This ultimate escape is the final goal, a testament to the soul's journey through the ages."
+
+  oro_apotheosis_of_ouroboros:0 "Truth of the Ouroboros"
+  oro_apotheosis_of_ouroboros_desc:0 "And finally, at the heart of the Dark Mother's embrace, lies the Ouroboros. It symbolizes the eternal cycle of transformation and renewal. The Ouroboros teaches us that by confronting and integrating our shadows, we achieve true wholeness. This is the lesson Hecate imparts on the wasteland:\nWithin the self, realize your true potential."
+
+  oro_honour_cambell:0 "Honour Cambell"
+  oro_honour_jung:0 "Honour Jung"
+
+  oro_dockyard_effort:0 "Synthesized Obsidian"
+  oro_dockyard_effort_desc:0 "During the construction of Ouroboros, the natural reserves of obsidian were depleted. Hecate ordered Dr. Adrian Beyr to concoct a formula to create synthetic obsidian. He ended up making a sort of \"Obsidian\". §g(Which is in truth a composite ceramic glass with trace amounts of lead to resist radiation, but do not tell Hecate that!)§! To this day most of the city's materials are synthesized in refineries, rather then mined."
+
+  oro_irrigation_effort:0 "Nursery Seeds"
+  oro_irrigation_effort_desc:0 "The origins of the Nychthemeron Grove lie in the precious seeds Hecate carried from the Nursery. With limited supplies, she resorted to cross-pollination to ensure genetic diversity. Occasionally, resilient post-war plants were bred with pre-war varieties, enhancing their resistance to radiation and their ability to thrive in ruined soil."
+
+  oro_honour_faithful_communities:0 "Honour Faithful Communities"
+  oro_honour_faithful_communities_desc:0 "Respect must be given to the tribes whose devotion to the Dark Mother remains unwavering. Their faith is a quiet but unbreakable foundation for Ouroboros, a strength we must nurture if we are to rise against the Legion."
+
+  oro_douglass_pass:0 "Douglass Pass"
+  oro_douglass_pass_desc:0 "The ancient Douglass Pass has become a stronghold for a tribe that venerates Hecate as their goddess. Once a vital route through rugged terrain, it now echoes with the chants of her followers, its stones worn smooth by the weight of their devotion."
+
+  oro_legacy_of_chief_douglas:0 "Legacy of Chief Douglas"
+  oro_legacy_of_chief_douglas_desc:0 "Chief Douglass, a leader from the distant past, left a legacy of endurance carved into the land itself. By honoring his memory, we draw upon the strength of those who came before and weave his story into Hecate's greater vision."
+  oro_chief_douglas_tt:0 "§gThe Daughters of Hecate spoke with old Ute pathfinders, their stories woven with the land itself. Among them was the tale of Chief Douglas, the namesake of Douglas Pass. A leader, scout, and diplomat, he walked the mountain trails long before settlers came, guiding his people and, at times, even those who would take their land. His name became etched in history, not for conquest, but for knowing the way when others were lost. The pass bears his legacy—a path through the wild, once crossed by those who belonged, and later, by those who did not.§!"
+
+  oro_dominguez_escalante_expedition:0 "Domínguez-Escalante Expedition"
+  oro_dominguez_escalante_expedition_desc:0 "The Domínguez-Escalante Expedition once carved a path through this untamed wilderness, driven by courage and curiosity. Their legacy now rests in our hands, as Ouroboros carries their journey's spirit forward into a new age."
+  oro_dominguez_escalante_expedition_tt:0 "§gOur scouts found tribals sheltering in a derelict museum, its walls lined with crumbling maps and echoes of forgotten journeys. Beneath shattered glass, they uncovered records of the Domínguez-Escalante Expedition of 1776. Sent from Santa Fe to chart a path to Monterey, the explorers relied on Ute guides to navigate the untamed Southwest. But winter closed in at Douglas Pass, forcing their retreat. Though they never reached the Pacific, their failure mapped rivers, trade routes, and the lands of those who came before.§!"
+
+  oro_shrine_of_the_dark_mother:0 "Shrine of the Dark Mother"
+  oro_shrine_of_the_dark_mother_desc:0 "Perched atop the rugged peaks of Douglass Pass, the obsidian statue of the Dark Mother looms over the valley below. Its surface, smooth as glass yet sharp as truth, catches the waning light, casting a long shadow over those who dwell beneath its gaze. A silent sentinel, it stands as both a warning and a beacon, drawing the faithful to kneel before its overwhelming presence."
+
+  oro_the_monument:0 "The Monument"
+  oro_the_monument_desc:0 "The weathered remnants of Dinosaur National Monument stand as a silent reminder of a forgotten age. The Old Bones tribe inhabits its shadows, bound by their own lore and waiting for a sign of trust. These ancient grounds may yet serve Hecate, should their faith be earned."
+
+  oro_fremont_culture:0 "Fremont Culture"
+  oro_fremont_culture_desc:0 "The Fremont people once thrived in this region, leaving behind painted stones and mysteries. Their legacy lingers in the blood of the tribes, a testament to ingenuity and survival that finds renewed purpose under Hecate's will."
+
+  oro_jurassic_paleontology:0 "Jurassic Paleontology"
+  oro_jurassic_paleontology_desc:0 "This land is a graveyard of ancient giants, where fossilized bones gleam like buried treasures. Among them lies the story of Earth's oldest cycles, a testament to life's rise and fall. These fragments are studied not for history but for inspiration, their shapes a haunting reminder of eternity."
+  oro_jurassic_paleontology_tt:0 "§gThe Old Bones used dinosaur bones - usually large femurs - as weapons. While they see them as the bones of the giants, we see them as what they are.\nStill, some of the more hardened ones could retain their role as weapons of war, the sharpening process making it hard to decipher what species they used to belong to.§!"
+  oro_shrine_of_the_ouroboros:0 "Shrine of the Ouroboros"
+  oro_shrine_of_the_ouroboros_desc:0 "A great monument of dinosaur bones and obsidian rises, its twisting form endless in its symmetry. It winds skyward, an eternal serpent coiled in the embrace of death and rebirth. The bones glisten under the pale moonlight, their edges sharp with memory. Here, the faith of Ouroboros finds its clearest reflection, a reminder of the Dark Mother's endless design."
+
+  oro_moab:0 "Moab"
+  oro_moab_desc:0 "Moab is a settlement of contrasts, where settlers and tribals find fragile unity under the Dark Mother's shadow. Many see Hecate as an extension of their faith, a mysterious figure akin to the shadow of Mary herself."
+
+  oro_elk_mountain_mission:0 "Old Mormon Elk Mountain Mission"
+  oro_elk_mountain_mission_desc:0 "The Elk Mountain Mission once served as a beacon of Old World belief, now reclaimed for Ouroboros. Its halls, still marked by their former purpose, now hum with whispers of a darker, more enduring faith."
+
+  oro_mantracks:0 "Mantracks"
+  oro_mantracks_desc:0 "Hidden within the wasteland, massive footprints stretch across the earth, too large to be human. Though Dr. Adrian Beyr dismisses them as fabrications, the Old Bones tribe revere them as a mark of divine precursors who walked the world before humanity."
+  oro_mantracks_tt:0 "§gOuroboros merchants had a field day selling 'Mantracks' to traders passing through the port—weathered slabs of stone marked with what some swore were human footprints beside ancient beasts. Before the war, grifters carved them near Moab, peddling proof that men once walked with monsters. Two centuries later, their work still fooled the gullible. For a handful of caps, a wastelander could leave convinced they held history in their hands. And for the merchants? There's no greater scam than one already blessed by time.§!"
+
+  oro_shrine_of_legionfall:0 "Shrine of Legionfall"
+  oro_shrine_of_legionfall_desc:0 "The shrine depicts Hecate with eight great wings unfurled, a figure of awe and judgment. Caesar kneels below her, cast in the image of a horned beast, vanquished beneath her glowing halo. The statue's laurel and cross blend faiths into one terrible image of divine retribution. In this place, faith in the Dark Mother becomes sharpened into the certainty of vengeance."
+
+  oro_conclave_of_midnight:0 "Conclave of Midnight"
+  oro_conclave_of_midnight_desc:0 "In the Conclave of Midnight, the fate of the western tribes will be decided. Their loyalty is uncertain, but their defiance is a roadblock we can no longer allow, for they stand between us and the Dark Mother's greater design."
+
+  oro_strength_in_the_dark_mother:0 "Strength in the Dark Mother"
+  oro_strength_in_the_dark_mother_desc:0 "Shadowed moonlight calls,\nMother of dark, wisdom's flame,\nFate bends to her will."
+  oro_strength_in_the_dark_mother_tt:0 "§gAs Ouroboros strength grows, tribals flock to the Dark Mother's banner. Legionfall beckons!§!"
+
+  oro_daughters_of_the_umbral_adytum:0 "Daughters of the Umbral Adytum"
+  oro_daughters_of_the_umbral_adytum_desc:0 "Within the hollowed sanctum of the Dark Pyramid, they kneel in endless reverence, their forms painted in the pallor of sacred ash. Cloaked in silence and shadow, the Daughters of the Umbral Adytum do not speak as others do—they whisper to the void, to the Deep Moon, and to Hecate herself. They are the keepers of prophecy, the weavers of fate, and the hands that shape the will of the Dark Mother."
+
+  oro_silent_sisters_of_the_pyramid:0 "Silent Sisters of the Pyramid"
+  oro_silent_sisters_of_the_pyramid_desc:0 "They walk unseen, their ivory masks concealing all but the distant gleam of their eyes. Within the lightless halls of the Umbral Adytum, they seek transcendence through ritual deprivation—denying sight, sound, and self until only revelation remains. They are ghosts of the Pyramid, vanishing into the dark, emerging only to murmur the truths unearthed in silence."
+  oro_silent_sisters_of_the_pyramid_tt:0 "§gThe secrets found in the void of the adytum are sacrosanct..§!"
+
+  oro_chosen_from_wisdom:0 "Chosen from Wisdom"
+  oro_chosen_from_wisdom_desc:0 "The Dark Mother selects only the most gifted to join the Adytum. Once, they were shamans, healers, and seers, scattered among the tribes. Now, they are reforged in Hecate's vision, the first generation of Ouroboros-born daughters stepping into the void of prophecy, ready to carry forth her wisdom for ages to come."
+  oro_chosen_from_wisdom_tt:0 "§gThe collective wisdom of the tribes will bring us forward!§!"
+
+  oro_keepers_of_prophesy:0 "Keepers of Prophecy"
+  oro_keepers_of_prophesy_desc:0 "Their hands are stained in ink and blood, their visions drawn from the void. When the Dark Mother seeks wisdom, it is they who kneel before her throne, whispering the auguries seen in dream and shadow. The fate of Ouroboros is traced in their words, their divinations shaping both war and peace beneath the Dark Moon's gaze."
+  oro_keepers_of_prophesy_tt:0 "§gRich barons from across the wasteland will pay us a fortune to hear from our witches soothsaying..§!"
+
+  oro_whispers_in_the_dark:0 "Whispers in the Dark"
+  oro_whispers_in_the_dark_desc:0 "To see all, yet be seen by none—this is the nature of true power. No longer shall the Daughters of the Adytum remain confined to their sanctum. Their whispers shall slip through the halls of power, guiding chieftains and ministers alike. The will of Hecate shall take root in all things, their unseen hands molding Ouroboros from the shadows."
+  oro_whispers_in_the_dark_tt:0 "§gThe Umbral Daughters will continue to remain Hecate's personal handmaidens, soothsayers, and esoteric cabal atop the Dark Pyramid. They will rule from afar, being her eyes and ears as they focus their efforts on divining potential threats and mysteries.§!"
+
+  oro_matrons_of_the_tribes:0 "Matrons of the Conquered"
+  oro_matrons_of_the_tribes_desc:0 "Faith demands obedience, but loyalty is cultivated. Each Daughter of the Adytum shall be granted dominion over the conquered tribes, their presence reshaping them in the Dark Mother's image. The old chieftains are gone, their people given new guidance. What once knelt in fear shall kneel in devotion, bound to Ouroboros in faith and fealty."
+  oro_matrons_of_the_tribes_tt:0 "§gThe Umbral Daughters will be the new appointed leaders of the sacred tribes, each assigned, with Hecate's blessing, their own tribe to rule. If a tribe doesn't exist for a certain population, they are vested the right to corronate them. In time, all of the wasteland will know Hecate's love; Daughters taught in the pyramid serving as noble stewards and feudal vassals of the Dark Mother.§!"
+
+  oro_blood_hounds:0 "The Blood Hounds"
+  oro_blood_hounds_desc:0 "The Blood Hounds are unlike the rest of the Hounds of Hecate, bound not by faith but by loyalty to Jordan Dae. They hail from the Viper tribes of the west, a brutal people with their own traditions of strength and survival. Though they march under Hecate's banner, they still fight by their own rules, wielding their own customs like weapons."
+
+  oro_blood_hound_stinger:0 "Stinger, The Citadel's Eye"
+  oro_blood_hound_stinger_desc:0 "Among them is a sniper of unerring precision, a ghost in the dust who never misses a shot. Though he now serves Ouroboros, he was born in a place called the 'Citadel,' though he speaks little of it. Unlike others in the city, he refuses the Dark Mother's obsidian coins, taking only bottlecaps in payment, as if to keep a part of his past untouched."
+
+  oro_blood_hound_thunderkin:0 "Drumbeat of Lightning"
+  oro_blood_hound_thunderkin_desc:0 "One Blood Hound - Thunder - stands taller than the rest, a raider-turned-soldier who wields a rocket launcher nearly twice his size. He was once a warlord in the wastes, but Dae conscripted him, recognizing the destruction he could bring to their enemies. He cares little for gods or prophets—only the thrill of battle and the power of fire and steel."
+
+  oro_blood_hound_red_bandana:0 "The Red Bandana"
+  oro_blood_hound_red_bandana_desc:0 "Leading the Blood Hounds is a veteran known only by the red bandana he wears, his mark upon the battlefield. A deep scar runs across his cheek, earned in a battle long past, though none dare ask him how. It is he who keeps the squad in line, ensuring they remain warriors, not just killers, and that their loyalty to Dae remains unshaken."
+
+  oro_blood_hound_legionfall:0 "Hounds of Legionfall"
+  oro_blood_hound_legionfall_desc:0 "If Ouroboros is to bring about Legionfall, it must turn to those who know war without illusions. The Blood Hounds are given a role in crafting the coming conflict, shaping the tactics that will see Caesar's empire burned to the ground. They do not speak of fate or prophecy—only blood, steel, and the certainty of battle."
+  oro_blood_hound_legionfall_tt:0 "§gThe Bloodhounds set up camp across the river, in Legion territory. They cause trouble behind enemy lines and generally try disrupt their defenses along the river!§!"
+  oro_blood_hound_guardians:0 "Guardians of the Dark City"
+  oro_blood_hound_guardians_desc:0 "Hecate grants the Blood Hounds dominion over Ouroboros's defenses, entrusting them with its last line of protection. Where the city's faithful guard it with devotion, the Blood Hounds guard it with sheer ferocity, refusing to let it fall. Should the Legion come, they will not find priests waiting for them—only warriors, ready to kill."
+  oro_blood_hound_guardians_tt:0 "§gThe Bloodhounds set up in the city of Ouroboros, establishing a small mercenary outfit. They help to arm citizens and instruct faithful wastelanders in Legionary tactics.§!"
+  #Nyx, Greek Goddess of the Night + "hemeron," suggesting a full cycle of day and night, akin to the Ouroboros symbolizing eternity and the cyclical nature of existence
+  #nik-THEM-er-on
+  oro_purfication_effort:0 "The Nychthemeron Grove"
+  oro_purfication_effort_desc:0 "To outsiders, the Nychthemeron §g(nik-THEM-er-on)§! Grove of Ouroboros must appear as an otherworldly sight. Lush with dense, pre-war vegetation, it stands as a verdant oasis amidst the desolation. Hecate commanded her daughters to purge the land of post-war flora, which she deemed tainted by the Legion's influence, and replaced them with plants that symbolized her divine will. "
+
+  oro_water_powered_extraction:0 "The Great Dockyard"
+  oro_water_powered_extraction_desc:0 "The dockyard of Ouroboros is a bustling hub, vital for importing vital trade goods. Ships and caravans bring in resources from distant lands, including the Baron's Eyrie, New Canaan, and Dog City. This steady flow of supplies ensures that Ouroboros remains well-equipped and resilient. Ouroboros's purple-hued naval standards are well known across the Colorado river."
+
+  oro_final_revenge:0 "Legionfall"
+  oro_final_revenge_desc:0 "Twixt ruin and night,\nBloodied sands drink conquest's bane,\nCaesar's end be writ."
+
+  oro_post_ces_1:0 "Post CES 1"
+  oro_post_ces_1_desc:0 "Temp"
+
+  oro_post_ces_2:0 "Post CES 2"
+  oro_post_ces_2_desc:0 "Temp"
+
+  oro_post_ces_3:0 "Post CES 3"
+  oro_post_ces_3_desc:0 "Temp"
+
+  oro_post_ces_4:0 "Post CES 4"
+  oro_post_ces_4_desc:0 "Temp"
+
+  oro_our_future:0 "Our Future"
+  oro_our_future_desc:0 "Temp"
+
+  oro_our_future_1:0 "Our Future 1"
+  oro_our_future_1_desc:0 "Temp"
+
+  #oro_our_future_2:0 "Future Content"
+  oro_our_future_2_desc:0 "Temp"
+
+  oro_our_future_3:0 "Our Future 3"
+  oro_our_future_3_desc:0 "Temp"
+
+
+  #BOP Decisions
+  ORO_umbral_adytum_meditate_self:0 "Meditate on the Self"
+  ORO_umbral_adytum_meditate_self_desc:0 "The journey is not walked in a single lifetime, nor upon a single path. To kneel in the Umbral Adytum is to glimpse the truth—that within the cycles of existence, we are forged and reforged, ever learning, ever becoming. In embracing the self, in mastering the darkness within, we edge closer to the elixir of wisdom that eternity has to offer.\n§Y$REPEATABLE$§!"
+
+  ORO_umbral_adytum_meditate_divinity:0 "Meditate on Divinity"
+  ORO_umbral_adytum_meditate_divinity_desc:0 "Hecate's will flows through all things, a current vast and unceasing. The Ouroboros does not end, does not falter—it is the cycle, the return, the truth woven in the fabric of all existence. Those who submit to the Dark Mother's embrace may yet transcend the endless wheel, shedding the weight of self to grasp the infinite.\n§Y$REPEATABLE$§!"
+
+  ORO_umbral_adytum_meditate_legacy:0 "Meditate on Legacy"
+  ORO_umbral_adytum_meditate_legacy_desc:0 "To walk the path of Ouroboros is to leave footprints beyond the dust of the present. The cycle endures, but the wise know that their echoes may outlast them, shaping what follows. The Daughters teach that true apotheosis is not an escape from the cycle, but the forging of an indelible mark upon it—a testament that in the endless turning of fate, some things remain.\n§Y$REPEATABLE$§!"
+
+  ORO_trade_with_rosebud_ruminators:0 "Trade with the Ruminators of Rosebud"
+  ORO_trade_with_rosebud_ruminators_desc:0 "Beyond the lands of the Barons, where the northern roads grow quiet, lies Rosebud—a haven of contemplation and ink-stained wisdom. The Ruminators have gathered the forgotten tomes of ages past, preserving what the wasteland would see lost. By securing trade with them, Ouroboros may glean insights from their hoarded knowledge, unlocking secrets even time has failed to erase."
+
+  ORO_go_for_another_hunt:0 "Invoke a Hunt"
+  ORO_go_for_another_hunt_desc:0 "The Nycthemeron Grove whispers of prey lurking in the shadows. A hunt will test our strength and grant us new wisdom in the ways of the wild.\n§Y$REPEATABLE$§!"
+  ORO_go_for_another_hunt_tt:0 "randomly gaining Attack, Logistics, Planning, Defence, or Unit Leader XP."
+  ORO_find_nothing_tt:0 "finding nothing."
+
+  ORO_museum_reward_requiem_zhou:0 "Ancient Knowledge: The Requiem of the Zhou"
+  ORO_museum_reward_requiem_zhou_desc:0 "A woman seized the August Seat, her ascent paved with the blood of those who dared deny her Mandate. Princes and ministers vanished like mist at dawn, their names struck from the records as the Court of the Purple Talisman whispered of poison and shadowed daggers. Yet under her rule, the empire's borders swelled, the Great Halls of Learning flourished, and the Buddhist sutras were inscribed upon stone for eternity. The annals name her Usurper of the Tang and Sacred Mother of Zhou in the same breath—was she a tyrant who silenced the old order, or a sovereign who reforged a waning dynasty? The brush may serve the throne, but ink and memory are seldom bound by the same hand."
+
+  ORO_museum_reward_lament_iceni:0 "Ancient Knowledge: The Lament of the Iceni"
+  ORO_museum_reward_lament_iceni_desc:0 "With fire and fury, the queen rose against the yoke of Rome. In the name of her daughters, in the name of her trampled kin, she turned the might of empire to ash. Londinium burned, Verulamium fell, the streets ran thick with the blood of conquerors and cowards alike. But the empire does not fall so easily, and when the tide turned, it drowned her people in blood. Rome calls her a barbarian, a vengeful woman who knew not when to kneel. Her people call her a martyr, a mother, a warrior queen who waged war not for power, but for justice. And history? History cannot decide."
+
+  ORO_new_outlook_lab_experiment_mutants:0 "Seize the Strength of Mutants"
+  ORO_new_outlook_lab_experiment_mutants_desc:0 "The wasteland has carved strength into those twisted by its touch. Their resilience, their endurance, their altered flesh—these are lessons written in bone and blood. If the Dark Mother is to stand above all, then even mutantkind's secrets must be hers to claim.\n§Y$REPEATABLE$§!"
+
+  ORO_new_outlook_lab_invite_mutants:0 "A Hand to the Mutants"
+  ORO_new_outlook_lab_invite_mutants_desc:0 "In the shadow of the old world's scorn, the warped and the cast-aside have found only exile. Hecate sees them not as aberrations, but as the true survivors of the wasteland's wrath. Let them walk the streets of Ouroboros, not as outcasts, but as kin.\n§Y$REPEATABLE$§!"
+
+  ORO_dismantle_lab_steal_knowledge:0 "Seize the Secrets of the Vanquished"
+  ORO_dismantle_lab_steal_knowledge_desc:0 "The conquered whisper their rites and ancient wisdom, hoping the winds will carry them beyond our grasp. But secrets, once seized, become weapons in the hands of the worthy. As Alexander once stormed the Oracle for prophecy, so too shall Ouroboros take what lesser souls would hoard.\n§Y$REPEATABLE$§!"
+
+  ORO_dismantle_lab_invite_tribals:0 "Prayers in the Name of Hecate"
+  ORO_dismantle_lab_invite_tribals_desc:0 "Beyond the walls, voices rise in supplication, calling to old gods who no longer answer. Hecate does not demand their devotion—she invites them to witness her strength. Let them kneel, let them pray, and in return, let them find a place beneath the Dark Mother's mantle.\n§Y$REPEATABLE$§!"
+
+  # Events
+  nf_oro_history.1.t:0 "The Dark Mother"
+  nf_oro_history.1.d:0 "The Legion came like a flood, and the Twisted Hairs were swept away. For the Legion, it was another victory; for her, it was the end of everything. Her people were gone, her home turned to ash. The few that survived vanished into the ranks of their conquerors. But not her.\n\nShe ran.\n\nThe heat swallowed her, pressed against her skin like a brand. The sun carved into her shoulders, flayed her lips, boiled her blood. The tribes she sought for shelter did the same. Their words scalded, their gazes burned. They called her cursed. A death maiden. The Dark Mother. The mark of the Legion was upon her, and to harbor her was to invite ruin. And so, they cast her out.\n\nTheir rejection was fire. The desert was fire. The hate inside her was fire.\n\nIt burned away her memories. Her father's voice, her mother's hands, the scent of her people's cookfires—charred to dust, lost to the wind. She tried to hold on, but the fire consumed them all. The Twisted Hairs, her tribe, her family. The flames ate everything until only one thing remained.\n\nHatred.\n\nThe Legion had taken everything. The tribes had abandoned her. She would show them all.\n\nShe wandered until her body failed her, until she could walk no further. She collapsed beneath the burning sky, swallowed by the desert."
+  nf_oro_history.1.a:0 "Her eyes looked up.."
+  nf_oro_history.1.tt:0 "The wasteland had taken her. She lay upon the burning sands, breath shallow, the weight of the sun pressing down upon her like the hand of a god. The world blurred, her vision slipping between reality and dream. \n\nThen, she saw it.\n\nA figure loomed above her, wreathed in shadow, its form shifting like smoke caught in the wind. It held a great tome in its hands, the pages blackened, curling at the edges as if burned by time itself. Slowly, it opened the book and, in a voice as hollow as the graves of her people, began to read.\n\n§R"The darkness of the afterlife is all that awaits you now. May you find more peace in that world than you found in this one."§!\n\nThe specter closed the tome. Its voice carried no malice, no mercy—only inevitability. It reached out, fingers stretching toward her, seeking to pull her into the depths beyond life. To reunite her with her tribe. To end what little remained of her story.\n\nThen—another hand.\n\nCold. Solid. Mechanical.\n\nIt gripped her arm, firm and unyielding, wrenching her from the specter's grasp. A force unseen dragged her from the brink, pulling her away, toward something else. A new fate. A new path.\n\nShe gasped, breath returning in ragged bursts, her body lurching back into the waking world. The wasteland still burned around her, the sun still hung above, and yet—\n\nShe turned her head. The specter remained where it was, unmoving. Watching. It did not follow. It did not fight.\n\nIt had her face.\n\nHer own eyes stared back at her from the void, empty and knowing.\n\nShe had chosen.\n\nShe did not belong to Death anymore."
+
+  nf_oro_history.2.t:0 "A Birth of the Goddess"
+  nf_oro_history.2.d:0 "She awoke in paradise.\nA lake stretched before her, surrounded by impossible greenery. Rain poured from the heavens. The air was thick with the scent of damp earth and blooming flowers. Creatures watched her from the treeline, their eyes filled with curiosity, not hunger.\nThen, a hum—low, rhythmic, reverberating through the air. Light flickered behind her, impossibly bright. Slowly, she turned.\nA woman stood before her. No—not a woman, something greater.\nShe was radiant, towering over her like a goddess of old, draped in flowing light. Her face shimmered, indistinct, shifting like moonlight on water. Warmth radiated from her presence, and when she spoke, her voice resonated like a song carried on the wind.\n\n§B"I see that you are awake."§! The words were gentle, but they filled the world. §B"I am Diana. Can you tell me your name?"§!\nShe searched the void of her memory. There was nothing. No tribe, no home, no past. Just echoes. Just the words they had called her.\n\n"Dark Mother," she whispered at last.\n\nDiana tilted her head, her form shifting in the golden glow. §B"Did they, now? I shall call you Hecate, then. Do you mind?"§!\n\n"Hecate..." she echoed, the name alien yet familiar.\n\n§B"Yes. You see, I am Diana, named for the bright moon. Hecate was her opposite, the dark moon. The Dark Mother."§!\nA goddess of the bright moon. A goddess of the dark.\nThe name settled in her mind, burrowing deep. §BSpoken by a god, it must be true.§! Diana had spoken it so casually, so matter-of-factly, as if it had always been hers. As if it had always been fate. Her past was ashes, her name forgotten—but now, she had been given one. A name tied to godhood. To power.\n\nDiana reached for her, and though her fingers were made of light, they felt solid to her. §B"You are safe now. Rest. There is much I can teach you."§!"
+  nf_oro_history.2.a:0 "And with that, Hecate was born."
+  nf_oro_history.2.tt:0 "Diana, in her kindness, taught her—of plants, of medicine, of life. But Hecate saw something more. Beneath every lesson was power. And power could be shaped.\n\nOne day, she told Diana she would leave. Diana was saddened but understood.\n\nAnd so, Hecate left paradise with forbidden knowledge in hand. But she also carried something else.\n\nA name.\n\nA destiny."
+
+  nf_oro_history.3.t:0 "Dae's Devotion"
+  nf_oro_history.3.d:0 "The midday sun burned high overhead, casting long, jagged shadows from the rising frame of the Dark Pyramid. A monument still in its infancy—stitched together from scavenged sheet metal, skeletal beams, and rusted cars.\n\nHecate sat atop a palanquin, shaded beneath a canopy of silk. Around her stood the Daughters, robed in deep indigo, their faces painted in sacred patterns. They had pulled her here, dragging the palanquin across the dust and rock as they had done since the day they proclaimed her divine.\n\nBefore them, figures emerged—gaunt, sun-scorched, hardened by the wastes. Jordan Dae and his followers.\n\nDae had walked across fire and ruin to reach this place. To reach her. The moment he laid eyes upon her, he fell to his knees.\n\nThere was recognition in his eyes. The awe of a man who had already seen her, not in flesh, but in prophecy.\n\n"I have dreamed of you," he murmured.\n\nHecate tilted her head, watching him. His devotion was absolute.\n\nThe Daughters glanced at her, awaiting her judgment. The half-built pyramid loomed behind them, its dark shell beginning to take shape."
+  nf_oro_history.3.a:0 "The Great Snake has guided you well, Jordan Dae."
+
+  nf_oro_history.4.t:0 "The Followers of the Apocalypse Pay a Visit"
+  nf_oro_history.4.d:0 "The chamber was dimly lit, its walls smoothed metal reinforced with plating. It was one of the earliest finished halls of the Dark Pyramid, a sanctum that still smelled of heated steel and oil. Braziers flickered, their glow casting shifting patterns along the floor.\nDr. Adrian Beyr, a scholar of the Followers of the Apocalypse, stood before the throne of Hecate. His hands were free, his posture measured but eager. He had come to offer what he could—his knowledge, his findings, his mind.\n\n"I am just so amazed at what I see here! The lavish interior, the decorum and health of your people—you even understand the importance of hygiene! Never have I seen a tribe this advanced before in my life.\nAnd your appreciation for history too! The way you reference the ancient Greek pantheon as you do—" He smiled, gesturing with his hands. "You know, with the name Hecate."\nThe air grew thick. The chamber, once grand and imposing, felt as though it had shrunk around her.\n\nHecate's breath caught.\n\nA sharp, sudden pain clenched in her chest, her fingers gripping the armrest of her throne. The flickering braziers seemed too bright, their shifting light warping, pressing against the walls. The room was too warm. The voices around her too loud.\nThe blood in her ears roared like an oncoming storm.\nShe was mortal.\nThe Daughters around her tensed, sensing something was wrong. One reached for her, hesitated, then turned sharply toward Beyr. Their goddess had faltered—this man had done something. He had said something.\nPanic spread like wildfire.\n"Take him!" one of the Daughters shouted.\nBeyr barely had time to react before hands seized him, yanking him back. He did not resist. His expression was not fear, but confusion—his words had been praise. What had he said? What had he done?\nHecate exhaled, shallow and ragged, forcing her vision back into focus. The storm in her chest had not yet passed, but her voice remained steady.\n"Yes. Take him to the lower chambers," she commanded. "He will have time to reflect on his words.""
+  nf_oro_history.4.a:0 "The goddess speaks no more of it."
+  nf_oro_history.4.tt:0 "Beyr was dragged away. Even as he vanished into the halls beyond, his mind still turned. He had come here to offer his knowledge, to see the legendary Ouroboros with his own eyes.\nAnd now, it seemed, he would have far more time to study it than he had expected.\n\nIn time, he would understand. In time, he would even call her a friend.\nBut he would never repeat that mistake again, that was for sure!"
+
+  nf_oro_history.5.t:0 "The Wonders of Her Creation"
+  nf_oro_history.5.d:0 "The years had passed. More than she had counted.\n\nHecate stood atop the Dark Pyramid, gazing out over her domain. Beneath the cold glow of the moon, Ouroboros shimmered—a city of steel and resolve, shaped by her will alone.\n\nShe saw the streets teeming with life, the warriors of the Hounds training in the courtyards, the Daughters tending to their sacred work. From the towering walls to the hidden sanctums, everything was as she had envisioned.\n\nAdrian's synthetic obsidian now coated the pyramid's surface, drinking in the moonlight. The city pulsed with quiet industry, its people moving with purpose. They worshiped her. Feared her. Loved her.\n\nHecate had built this. From ruin and exile, she had carved a sanctuary that defied the wasteland itself.\n\nAnd yet, something gnawed at her. A whisper in the back of her mind.\n\nShe lowered her gaze.\n\nHer hands—once steady, once unyielding—now bore the weight of years. The lines, the subtle tremor, the undeniable truth.\n\nShe clenched her fist. There was no room for doubt."
+  nf_oro_history.5.a:0 "A Goddess does not falter."
+
+  nf_oro_history.6.t:0 "The Shadow in Her Heart: A Visit to the Umbral Adytum"
+  nf_oro_history.6.d:0 "The water was still. The chamber silent.\n\nShe floated in darkness, the adytum swallowing her senses. Here, there was no city. No Ouroboros. No Hecate.\n\nOnly the Dark Mother.\n\nShe felt the presence before she heard the voice. A whisper like sand slipping through fingers.\n\n§R"You know you cannot escape me."§!\n\nShe did not respond.\n\n§R"You are afraid."§!\n\nHer hands curled into fists. She was not afraid. She was—\n\n§R"You are dying."§!\n\nThe words struck like a knife. She exhaled slowly, forcing herself to remain still.\n\nShe had spent decades becoming more than human. A legend. A goddess. But she was still flesh and blood. And one day, flesh failed.\n\nThe Dark Mother chuckled.\n\n§R"What will they do without you?"§!\n\nShe opened her eyes, the water rippling around her."
+  nf_oro_history.6.a:0 "§RHecate rises from the abyss. Affirmed.§!"
+  nf_oro_history.6.b:0 "§MHecate rises from the abyss. Doubtful.§!"
+  nf_oro_history.6.tt:0 "Hecate has lived a long life, and practicing mindfulness is imperative to how she runs her state.\nShe struggles with reconciling the world she knows, that she is mortal, and that she was spared from death to live this life with the world she believes - that she is the Goddess Hecate, here to bring about Legionfall and grant her children a home.\nHecate holds both worlds as true, and tries to hold them in balance in her mind.\n\n§gThis is reflected by her§! §YState of Mind§!.\n§gDifferent options and rewards may unlock during key events depending on where Hecate's State of Mind is balanced at the time of resolution.§!"
+
+  nf_oro_ruminators.1.t:0 "A Vexing Book"
+  nf_oro_ruminators.1.d:0 "In her private quarters within the Dark Pyramid, Hecate sat bathed in the chill white light of the moon, which reflected off the gleaming walls of the city below. Her gaze was fixed on a book, 'Ruminating to Riches,' brought to her by a northern trader. The book's contents, however, perplexed her. Accustomed to texts filled with cryptic strategies and veiled instructions, she found this one's straightforward wisdom almost riddle-like.\n\nUnsure how to proceed, Hecate called upon Jordan Dae for advice. Dae was taken aback. How could someone so perfect struggle with a book this simple? So human? 'Ruminating to Riches' emphasized the value of small, good deeds and the happiness they brought, a stark contrast to the grandiose plans of conquest and power Hecate was used to.\n\nTogether, they began a book club of sorts, meeting regularly to dissect and discuss the lessons the book preached."
+  nf_oro_ruminators.1.a:0 "Why was this so hard?"
+
+  nf_oro_ruminators.2.t:0 "Elusive Answers"
+  nf_oro_ruminators.2.d:0 "Weeks later, Hecate sat deep in contemplation. Her gaze drifted from the book, 'Ruminating to Riches,' to the city below. Despite their regular studies and discussions, she realized why the book eluded her understanding: she did not know happiness.\n\nHer memories of a time before the Legion's destruction of her tribe were like shards of broken glass, fragmented and painful to touch. The pieces of her past before meeting Diana were indistinct, obscured by a haze of sorrow and rage. Her hatred for the Legion burned with a consuming fire, a relentless force that had shaped her every action and desire. Vengeance had been her only guiding star.\n\nJordan Dae had observed this, noting how Hecate seemed incapable of appreciating the worth of her accomplishments. Risking the wrath of his goddess, he offered a simple, bold suggestion.\n\n'What if you were to simply relax, here in your city? Breathe the air and enjoy the fruits of your labor. See what your people have built for you with your own eyes. Maybe that will bring you some peace.'"
+  nf_oro_ruminators.2.a:0 "''..You see merit in such a plan?'"
+  nf_oro_ruminators.2.b:0 "''This is pointless.'"
+
+  nf_oro_ruminators.3.t:0 "In Her City"
+  nf_oro_ruminators.3.d:0 "In the morning, Hecate set out to prepare for her plan. She justified her actions as righteous—if she was to defeat the Legion, she needed to be more than the Legion. She needed to eclipse them, to transcend beyond what they had done to her. Washing off her traditional makeup for the day, she walked through the streets of Ouroboros as a commoner.\n\nAgainst the wishes of the Hounds of Hecate, she left her guards behind. Unarmored and unadorned, she stepped through the city streets, blending with the life of Ouroboros. She approached the markets, listening to the hustle and bustle as former tribals and raiders hawked their wares. She watched mothers purchasing little crafted toys for their children, a simple joy she had never known.\n\nShe spent time in the arena, observing the training of the Hounds as they prepared for future battles. Later, she visited the communal baths, sharing the space with others for the first time.\n\nAs the day drew to a close and merchants returned to their homes, she approached the base of the Dark Pyramid, her eyes tracing over the mosaic they had built during the structure's groundbreaking—a snake eating its own tail. Over the years, Hounds and Daughters had left flowers beside it, paying respects to those lost whom they care for.\n\nFinally, as the city rested still under the moon's warm embrace, Hecate found a small oak tree, grown from seeds from Diana's nursery. She pressed her back against it, sat on the ground, and opened the copy of 'Ruminating to Riches' she kept on her person."
+  nf_oro_ruminators.3.a:0 "And she kept reading."
+  oro_loved_the_book:0 "Loved the Book"
+
+  nf_oro_white_legs.1.t:0 "Concerning a Cruel Tribe"
+  nf_oro_white_legs.1.d:0 "Hecate sat at her ornate, jeweled desk in her private quarters atop the Dark Pyramid, fingers tracing the edges of a report. The document, given to her by Jordan Dae, detailed the White Legs, a savage, desperate, and cruel tribe out in Utah. Each time the Hounds or Daughters of Hecate had attempted to reach out to this tribe, they had been rejected and driven back with ferocity.\n\nDae had a scheme to win over the White Legs: avoid direct interaction and instead teach them through gifts left strategically. If the White Legs could not be spoken with face-to-face, perhaps hearing of Hecate's divinity through subtle means would sway them to consider joining her.\n\nHecate spun in her chair, the intricate patterns of the pyramid walls catching the moonlight as she pondered."
+  nf_oro_white_legs.1.a:0 "Allow the plan to proceed."
+  nf_oro_white_legs.1.b:0 "Prohibit the plan, we don't need them."
+
+  nf_oro_white_legs.2.t:0 "The Witch's Offering"
+  nf_oro_white_legs.2.d:0 "During a routine raid, one of our scouts stumbled upon an unexpected sight: food, water, and weapons left unattended. The bounty was enough to sustain us for weeks, yet its presence was disconcerting.\n\nAgainst the canyon walls where the gifts stood, we bore witness to a large, painted mural of a bleak pyramid, two moons, and a witch ruling over it all. The imagery was stark and powerful, evoking a sense of both dread and curiosity.\n\nAmong some of our ranks, a few of the more clever shamans could decipher the message. This must refer to the witches of the east, Hecate and her followers. Whispers spread through the tribe, debates igniting. Some saw the offerings as a gift from a god, a sign to take what was provided and perhaps gain favor. Others were skeptical, fearing the hidden costs of such a bargain and the taboo of accepting gifts from unknown powers.\n\nWe stood divided before the mural, the decision heavy with implications."
+  nf_oro_white_legs.2.a:0 "Take the offerings from the witch"
+  nf_oro_white_legs.2.b:0 "Leave them be, they are taboo"
+
+  nf_oro_utah_tribals.1.t:0 "An Offer from the Dark Mother"
+  nf_oro_utah_tribals.1.d:0 "In the dead of night, a Daughter of Hecate appeared at the edge of the tribe's encampment, her silhouette a ghostly figure against the moonlit backdrop. Clad in dark robes, she carried an offering of gifts - food, medicine, and weapons, treasures of the Dark Pyramid. As she laid the items before the tribe, a palpable tension filled the air. It was taboo to accept a treasure from a Daughter of Hecate; Accepting these gifts meant pledging fealty to the Dark Mother, a path that promised strength and survival but at the cost of their independence. Whispers spread through the gathered tribals, eyes flickering between the gifts and the enigmatic figure. Some saw salvation and a chance to fight against the Legion; others saw a betrayal of their autonomy, a surrender to a power they neither trusted nor wanted.\n\nAs the tribe's leaders debated, the camp divided. A faction, inspired by the promises of power and hatred of the Legion, argued passionately for acceptance. They saw the Dark Mother as a savior, a beacon of hope in the wasteland. Opposing them were those who cherished their freedom above all, warning that this allegiance would bind them in chains as surely as any conqueror. Amidst them were the undecided, swayed by the lure of the gifts yet wary of the cost. The Daughter of Hecate stood silent, a dark envoy watching as the tribe's future hung in the balance."
+  nf_oro_utah_tribals.1.a:0 "§PLife for the Dark Mother!§!"
+  nf_oro_utah_tribals.1.b:0 "Reject the gift!"
+  nf_oro_utah_tribals.1.a.tt:0 "§gWe accept the gift from Ouroboros. This will allow them to continue diplomacy with us.§!\n§RTribes that get too friendly with Ouroboros, eventually, are said to fall under fealty to their goddess - becoming her puppets.§!"
+  nf_oro_utah_tribals.1.a.dea.tt:0 "\n§RAdditionally, our communications with the Daughter reveal that Ouroboros views the fortification and securing of Dead Horse Point as crucial to the fall of the Legion.\n\nIf they move to take it, we will be reimbursed, but an alliance with Ouroboros means they might claim the state, and we won't be able to stop them!§!"
+  nf_oro_utah_tribals.1.b.tt:0 "§RHecate won't like this.§!"
+
+  nf_oro_utah_tribals.2.t:0 "Meeting [FROM.GetNameDef]"
+  nf_oro_utah_tribals.2.d.uin:0 "In a secluded glade beneath the vast, open sky, a Daughter of Hecate met with a leading figure of the Uintah tribe. The tribe, who had recently embraced the god Zephyr, a manifestation of the trickster Coyote, dreamed of soaring through the heavens in the metal birds of the Old World. The Daughter, her voice as soothing as a summer breeze, promised them the greatest of these ancient flying machines. She spoke of untouched military caches and forgotten airfields where such relics lay dormant, waiting for the Uintah to awaken them. With these metal birds, she promised, they could ride the windstream and rain destruction upon the Legion, bringing an end to their tyranny from the skies above.\n\nYet, her words sowed discord among the Uinta. Some, their eyes filled with the gleam of new possibilities, saw her as a savior sent by Zephyr himself, a guide to reclaim the lost legacy of flight. They envisioned their tribe soaring above the wasteland, untouchable and free, their enemies obliterated by the might of their aerial prowess. Others, however, whispered of darker intentions. They feared that the Daughter of Hecate sought to supplant Zephyr, to turn their devotion to the Coyote into subservience to the Dark Mother. \n\nIn time, the Uintah would give in to the Daughter's wishes, accepting her gift."
+  nf_oro_utah_tribals.2.d.crz:0 "In the heart of the Crazy Horns' encampment, amidst pyres and brimstone altars, a Daughter of Hecate met with the tribe's leaders. The air was thick with the scent of burning wood and incense as the pyro-cultists listened intently to her words. She promised them a vision that aligned with their fiery faith - the total immolation of the Legion, a grand inferno that would consume Arizona and beyond. The Daughter of Hecate spoke of ancient magics and powerful relics that could turn their apocalyptic dreams into reality. Her words painted a vivid picture of a world engulfed in flames, a testament to their god, Phoenix, and a final judgment upon their enemies.\n\nYet, among the Crazy Horns, unease simmered beneath the surface. Some feared that the Dark Mother Hecate's true intention was to usurp Phoenix, claiming the cult's devotion for herself. The thought of their sacred fire being used for another's glory sowed seeds of doubt. However, for others, the promise of a cataclysmic blaze was intoxicating, an obsession that eclipsed all concerns. These zealots saw Hecate as a herald of their fiery apocalypse, a means to bring about the inferno they so fervently desired. In time, these zealots were the ones to win out, in the end."
+  nf_oro_utah_tribals.2.d.dea:0 "At Dead Horse Point, a rugged mesa overlooking the Colorado River, the Dead Horses tribe gathered to hear the emissary of Ouroboros. The Daughter of Hecate, standing amidst the tribe's warriors and hunters, offered a promise of protection and strength. She spoke of the Hounds of Hecate, a powerful alliance that would ensure the Dead Horses not only survived but thrived as one of the mightiest tribes in the wasteland. The junction at Dead Horse Point, she explained, was pivotal for controlling transit into Arizona, a strategic advantage that would cement their influence and power. With the guidance and resources of Ouroboros, the tribe could fortify their home, perfect their hunting of bighorners, and become unrivaled in strength and respect.\n\nHowever, the promise of such power came with its own turmoil. Within the tribe, a faction argued fiercely for an alliance with the Legion, seeing it as a path to greater glory and immediate respect. The Dead Horses were renowned for their warrior prowess, and many felt that siding with the Legion would provide more immediate recognition and honor. The prospect of becoming subservient to the whims of the Dark Mother left some wary, fearing the loss of their autonomy and traditions. The camp buzzed with heated discussions and mounting tensions, as the Dead Horses stood at a crossroads.\n\nUltimately, they would agree to listen to the Dark Mother, for now."
+  nf_oro_utah_tribals.2.d.generic:0 "Good news from [FROM.GetName], we have heard word that a Daughter of Hecate within their country has recently gotten the tribe to begin accepting our gifts. In time, we could even convert them to follow the Dark Mother, and join our ranks!"
+  nf_oro_utah_tribals.2.a:0 "All according to plan."
+
+  nf_oro_utah_tribals.3.t:0 "[FROM.GetName] Refuses Our Gifts!"
+  nf_oro_utah_tribals.3.d:0 "The Daughters of Hecate that traveled to the west to bring gifts to [FROM.GetName] have been driven back! It seems they have no love in their heart for the Dark Mother at all."
+  nf_oro_utah_tribals.3.a:0 "A Shame."
+
+  nf_oro_utah_tribals.4.t:0 "Crazy Horn Raids"
+  nf_oro_utah_tribals.4.d:0 "In the aftermath of Ouroboros's conquest and occupation of Legion territory, the Crazy Horns tribals seized the opportunity to ignite their apocalyptic vision. Flames engulfed homes, weapon stashes, and temples as the pyro-cultists set fire to everything in their path, determined to bring about their fiery end times. The resulting chaos made the occupation increasingly difficult, with the once-secured land now a blazing inferno of destruction and rebellion. Resentment grew among the survivors and remaining Legion loyalists, who saw the rule of Hecate as the harbinger of ruin rather than salvation. As the fires raged on, the stability of Ouroboros's hard-won territory hung precariously in the balance."
+  nf_oro_utah_tribals.4.a:0 "Let them suffer."
+  nf_oro_utah_tribals.4.b:0 "Try to put out the fires."
+
+  nf_oro_utah_tribals.5.t:0 "Uintah Raids"
+  nf_oro_utah_tribals.5.d:0 "Driven by their fervent desire to find and restore the "Metal Birds," the Uintah tribe launched an aggressive campaign across Arizona, stripping the land of resources. Their quest led them to plunder everything they could find, hauling vast quantities of materials back north to their territory. The Bloomfield Airport was a particular target, left practically barren after the Uintah dismantled it for scrap. This rampant looting created significant hardships for Legionary refugees, who struggled to find the necessary materials to rebuild their homes. The unchecked resource grabs by the Uintah not only hindered reconstruction efforts but also fueled resentment and desperation among the displaced Legion settlers."
+  nf_oro_utah_tribals.5.a:0 "Let them keep it."
+  nf_oro_utah_tribals.5.b:0 "Stop the raids!"
+
+  nf_oro_utah_tribals.6.t:0 "Dead Horse Raids"
+  nf_oro_utah_tribals.6.d:0 "The Dead Horses, emboldened by their newfound allegiance with Ouroboros, roamed the Arizona countryside, targeting old Legionary weapon encampments and tools. In a race against the Hounds of Hecate, these formidable raiders often reached the caches first, seizing weapons and supplies before they could be secured. This rampant looting made it increasingly challenging for Ouroboros to restart and utilize the Legion's arm stashes effectively. Legion settlers, already resentful of their new rulers, were further incensed by the sight of Dead Horse raiders ransacking their lands with apparent impunity. The perception that Ouroboros was allowing this chaos to unfold only deepened the settlers' distrust and anger, undermining efforts to stabilize the conquered territory."
+  nf_oro_utah_tribals.6.a:0 "Better in their hands then theirs."
+  nf_oro_utah_tribals.6.b:0 "You are only making things worse!"
+
+  nf_oro_utah_tribals.7.t:0 "Commandeering of Dead Horse Point"
+  nf_oro_utah_tribals.7.d:0 "After joining the Dark Moon Pact, the Dead Horses began their southward journey, leaving their beloved Dead Horse Point so Ouroboros could fortify it for the impending war with the Legion. The tribe moved with heavy hearts, many members mourning the loss of their ancestral home. They knew this was the price of allying with the Dark Mother, a sacrifice for the greater good. Yet, amid the sorrow, a sense of opportunity emerged. Some saw this as a chance to start anew, free from the shadows of the past. Ouroboros's generous payment for their land certainly eased the transition, providing the means for a fresh beginning as they ventured into unknown territories."
+  nf_oro_utah_tribals.7.a:0 "So long, Dead Horse Point.."
+
+  nf_oro_utah_tribals.8.t:0 "Embrace of the Dark Mother"
+  nf_oro_utah_tribals.8.d:0 "Over the years, the whispers of the Daughters of Hecate slowly eroded the traditional beliefs of [ROOT.GetNameDef]. Now, the faith of [ORO.GetName], the Dark Mother Hecate, reigns supreme. The tribe's rites and rituals have shifted, their totems replaced with serpentine symbols, and their prayers now invoke the Dark Mother's blessing. [ROOT.GetLeader], once a staunch protector of the old ways, finds every decision scrutinized by the priestesses. Without their approval, nothing moves forward. To maintain any semblance of power, [ROOT.GetLeader] must now seek the Dark Mother's favor, their authority a mere shadow under Hecate's ever-watchful gaze."
+  nf_oro_utah_tribals.8.a:0 "Life under the Dark Moon."
+
+  nf_oro_utah_tribals.9.t:0 "Submission of [FROM.GetNameDef]"
+  nf_oro_utah_tribals.9.d:0 "The once proud and independent [FROM.GetName] has been completely ensnared by the Daughters of Hecate, their faith in the Dark Mother Hecate now absolute. [FROM.GetLeader], a figurehead trapped by the very beliefs they sought to shield their people from, can no longer act without the Dark Mother's blessing. Their every decree is vetted by the priestesses, their influence palpable in every corner of [FROM.GetNameDef]. Any attempt to restore the old ways is met with suspicion and resistance."
+  nf_oro_utah_tribals.9.a:0 "They have learned my mercy."
+
+  nf_oro_news.1.t:0 "Formation of the Dark Moon Pact"
+  nf_oro_news.1.d:0 "At the heart of the Colorado River's winding course, Ouroboros forged the Dark Moon Pact, a coalition of tribes united to resist the encroaching influence of the Legion. This alliance, promising mutual protection, aimed to fortify the tribes' territories against external threats. However, whispers of dissent echoed through the canyons, as some saw the Dark Moon Pact as a thinly veiled attempt by Hecate to tighten its grip and assert dominance over the disparate tribes."
+  nf_oro_news.1.a.legion:0 "A minor nuisance"
+  nf_oro_news.1.a.ttm:0 "§M"I hope she is doing okay."§!"
+  nf_oro_news.1.a.hecate:0 "Glory to the Dark Mother!"
+  nf_oro_news.1.a.generic:0 "The balance of power shifts.."
+
+  #white_legs.3
+  nf_oro_eag.1.t:0 "A Deal from Ouroboros?"
+  nf_oro_eag.1.d:0 "In an unexpected move, we have received word from a few of Hecate's robed envoys. They say that if we were to gift some of our resources to Hecate, then they would be willing to protect us from invaders."
+  nf_oro_eag.1.a:0 "Peace sounds good"
+  nf_oro_eag.1.b:0 "Screw them!"
+
+  nf_oro_eag.2.t:0 "Eagle Rock Accepts"
+  nf_oro_eag.2.d:0 "The envoy we have sent to Eagle Rock returns with the riches of the mountains."
+  nf_oro_eag.2.a:0 "Excellent"
+
+  nf_oro_eag.3.t:0 "Eagle Rock Refuses Us"
+  nf_oro_eag.3.d:0 "It looks like it was never to be. This is what you get with working with settlers - they will never feel Hecate's embrace."
+  nf_oro_eag.3.a:0 "Oh well. Send the warbands."
+
+  nf_oro_burham_springs.1.t:0 "Stories of the Old Bones"
+  nf_oro_burham_springs.1.d:0 "As our hounds marched across the fields of the Old Bone tribals, skin bleached white by the punishing wasteland sun a few prisoners of war spoke of a secret place, one in which they hoped to defend in the hopes of keeping the evils there forever contained and to protect the wasteland from such horrors."
+  nf_oro_burham_springs.1.a:0 "We could use this against the legion, if we can get power there..."
+
+  nf_oro_burham_springs.2.t:0 "The Agony of the Gehennas"
+  nf_oro_burham_springs.2.d:0 "After partially cleaning out the burning mine of Burham Springs, Hecate received troubling news from her Hounds of Hecate. They had encountered strange creatures in the depths of the mine, horribly mutated and seemingly made of black tar and shiny oil. These beings, vaguely human-shaped, sputtered with flames and emitted toxic fumes. Their bulbous glowing orange eyes and constant cries of agony marked their existence as one of perpetual torment.\n\nThe Gehennas, as they were called, were dangerous both in their fiery strikes and the toxic fumes they exhaled. The Hounds described how these creatures would collapse into a disgusting pile of smoking black goo upon death. Their existence was a grotesque mockery of life, and their suffering seemed endless.\n\nHecate faced a difficult choice; to spare the Gehennas with a mercy killing, attempt to grant them treatment, or enslave them to use on the frontline."
+  nf_oro_burham_springs.2.a:0 "Spare them with a mercy killing."
+  nf_oro_burham_springs.2.b:0 "Attempt to grant them treatment."
+  nf_oro_burham_springs.2.b.tt:0 "§gWe task Dr. Adrian Beyr, a follower of the apocalypse who entered our lands years ago, with the task of treating the Gehenna's condition. It will take him some time to do this!§!"
+  nf_oro_burham_springs.2.c:0 "Enslave them for the frontline."
+  nf_oro_burham_springs.2.c.tt:0 "A group of slavemasters with their enslaved Gehenna's arrive for battle!"
+
+  nf_oro_burham_springs.3.t:0 "Wealth of the Springs"
+  nf_oro_burham_springs.3.d:0 "Through countless efforts, we have managed to contain and neutralize the threats within the pits of Burham Springs. At the deepest level, our explorers discovered something unexpected... a lab. This lab belonged to a small company known as 'AGRICOLA,' which was collaborating with the Alton Bourges Mining Concern to establish a research facility here in Burham Springs. The lab's purpose was to study a rare vein of a mineral called Ultracite, discovered by the Mining Concern during their excavations.\n\nMost Ultracite is located in the Appalachian Mountains, making this find outside of Appalachia particularly rare and valuable. Agricola, a modest company, was fortunate to secure the deal to help research this vein. According to the lab technicians' notes, Ultracite possesses unique and potent properties, which were the focus of their extensive research. The presence of Ultracite and its effects may explain the peculiar and dangerous phenomena associated with the area, as well as the legends that have spread throughout the wasteland about the fabled 'Burham Springs.'"
+  nf_oro_burham_springs.3.a:0 "What a find!"
+
+  nf_oro_burham_springs.4.t:0 "Status of the Gehennas"
+  nf_oro_burham_springs.4.d:0 "Over the years, the Gehennas found in the burning mine of Burham Springs have undergone extensive treatment led by Dr. Adrian Beyr. The first priority was to alleviate their constant pain. Initially, a prescription of hourly Med-X was administered, which worked for a time. However, as the patients developed tolerance, the dosage had to be increased. Eventually, Dr. Beyr discovered a remarkable solution; a small, invasive surgical procedure to nullify their sense of pain entirely.\n\nThe second step was to determine if the Gehennas were sapient. Although their vocal cords only allowed for grunts, some seemed to respond to sounds and signs. A few even demonstrated the ability to read and point out things with their large, gnarled hands. This ability to read in some of them lent credence to the theory that the Gehennas were once human.\n\nRecently, a small select group of Gehennas, led by Dr. Adrian Beyr who acts as their interpreter, has claimed fealty to Hecate. They are thankful for her decision to end their suffering. Despite some skepticism among others, who doubt whether Adrian is truly communicating with the Gehennas or merely inferring from their moods, this development has brought a new dimension to the relationship between Ouroboros and these tortured beings."
+  nf_oro_burham_springs.4.a:0 "I am not without mercy."
+  nf_oro_burham_springs.4.a.tt:0 "A group of handlers and their Gehenna allies arrive for battle!"
+
+  nf_oro_dae.1.t:0 "Dae's Challenge"
+  nf_oro_dae.1.d:0 "Hecate's decision to spend resources and send in soldiers into Burham Springs clearly was the breaking point for the leader of Hecate's Hounds - Jordan Dae. Dae, in a fit of rage has challenged Hecate - the 'Goddess' of Ouroboros to a duel for leadership. If she really was a god then surely it shouldn't be a challenge for her to beat Dae?\nHecate, in her aging years isn't quite as fit as she was in her youth. Challenging Dae directly in a fair fight would be foolish of her - instead, Hecate went to Jordan's wife Yvana. Hecate would give Yvana a simple request - in the morning, when she goes to prepare Jordan's breakfast before the duel Hecate wishes for Yvana to serve her goddess and murder Dae, poisoning his meal so that he will die before even reaching the dueling field.\nYvana has a choice to make. Will she support her husband, or her goddess?"
+  nf_oro_dae.1.a:0 "§p'The moon rises, my goddess.'§!"
+  nf_oro_dae.1.b:0 "§p'The moon falls, my love.'§!"
+  kill_dae:0 "§gYvana poisons Dae's meal, making Hecate's victory against him assured.§!"
+  kill_hecate:0 "§gYvana poisons Dae's blade, ensuring Hecate will be killed when her and Dae duel.§!"
+
+  nf_oro_dae.2.t:0 "The Challenge's Result"
+  nf_oro_dae.2.d.h:0 "Dae has fallen! Hecate's divinity has been proven true and righteous. Having been struck down by the goddess's will after demanding a display of strength from her. Hecate has begun the effort of more closely assimilating the Hounds of Hecate into Ouroboros culture - seeking to ensure that all respect her divinity as any other faith ought."
+  nf_oro_dae.2.d.j:0 "Hecate has fallen! The Goddess, it turns out is a goddess no more. Jordan has struck Hecate down in their duel for the whole city of Ouroboros to witness. Him and his wife Yvana have ascended to rulership of the city, hoping to guide the now godless city into a new era."
+  nf_oro_dae.2.a:0 "It is done!"
+
+  nf_oro_ind.1.t:0 "Fortifications along the North Bank"
+  nf_oro_ind.1.d:0 "Hecate sat within her shaded palanquin, her gaze fixed on the bustling activity below. Jordan Dae moved with purpose among the workers, his voice a commanding presence as he oversaw the construction of the new coastal forts along the north bank of the Colorado River. These fortifications, tall spires of reflective metal and obsidian spikes, rose defiantly against the horizon.\n\nThe structures were imposing, their design a testament to Hecate's strategic vision and Dae's meticulous execution. Each spire gleamed in the sunlight, casting long, ominous shadows that stretched across the river. The obsidian spikes, sharp and menacing, seemed to pierce the very sky, a clear message to any who dared challenge Hecate's dominion."
+  nf_oro_ind.1.a:0 "It is done."
+
+  #Hunting event chain! Just cute fluff.
+  nf_oro_hunting.1.t:0 "Preparing for a Hunt"
+  nf_oro_hunting.1.d:0 "The chamber was still, the air heavy with the faint scent of polished stone and incense. Hecate stood before a long, reflective obsidian table, its surface catching the pale light filtering through narrow windows high above. Upon the table lay three bows, each placed carefully by her Hounds as offerings, or perhaps as quiet gestures of respect. The first was of Twin Mothers make, its wood pale and smooth, adorned with delicate carvings of crescent moons and flowing rivers. The string was tight, the wood perfectly balanced—functional yet artful, a relic of a people who saw weapons as extensions of their spirit.\n\nThe second bow was crude yet sturdy, shaped by the calloused hands of one of her Hounds. The grip was wrapped in worn leather, its limbs reinforced with salvaged scrap metal plates. It spoke of utility and survival, a tool meant for war more than art. The third was curious—crafted by Adrian Beyr, her ever-pragmatic historian. The bow was sleek and mechanical, built with pre-war precision tools and featuring an intricate pulley system to enhance its draw. It lacked soul, but it held ingenuity in its polished joints and taut string.\n\nHecate reached out and ran her gloved fingertips over each weapon in turn. Each bow told a story: of tradition, of survival, of intellect. She lingered on Adrian's creation, tilting it slightly so its shadow fell across the others. For a brief moment, she allowed herself to think of the hands that had made them, the lives lived behind each choice of wood, metal, and string. Then, with a sigh, she turned away, her silhouette reflected in the table's surface—a fleeting image of the goddess of the Dark Moon, caught in stillness before fading into shadow."
+  nf_oro_hunting.1.a:0 "§PThe Twin Mothers bow will do.§!"
+  nf_oro_hunting.1.b:0 "§PThe Hounds bow will suffice.§!"
+  nf_oro_hunting.1.c:0 "§PI always enjoyed Adrian's creations.§!"
+
+  nf_oro_hunting.2.t:0 "Amber Beneath the Moon"
+  nf_oro_hunting.2.d:0 "The Nychthemeron Grove stretched out before Hecate, bathed in the pale glow of moonlight and the flicker of lanterns swaying gently in the breeze. Its origins lay in the delicate hands of the Daughters of Hecate, who planted the first seeds only a few decades ago—seeds carried from the Nursery itself, each one a fragment of Diana's ancient sanctuary. With limited supplies, the Daughters turned to careful cross-pollination, blending resilient post-war plants with pre-war varieties to create something new. Hardy, yet beautiful—life capable of thriving even in poisoned soil.\n\nThe leaves overhead glowed amber, their eternal autumn preserved by the confused seasons of the wasteland. Each tree bore the mark of generations of careful tending, their roots sinking deep into the fertile ground carved out by faith and patience. Hecate walked slowly beneath the boughs, her boots crunching softly on dry leaves and brittle grass. The air smelled of damp earth and faint floral sweetness, carrying with it the distant sound of trickling water.\n\nIn the distance, a deer, a pre-war creature from Diana's Nursery, called out—a faint, hollow sound carried on the wind. Hecate paused, her gloved hand pressing lightly against the rough bark of a tree older than many of her followers. This place was young, and yet it felt timeless. A sanctuary not born of accident, but of intention—a careful rebellion against the harshness of the wasteland beyond. She closed her eyes for a moment, breathing in the quiet, the stillness, the fragile beauty nurtured by the hands of her Daughters. Then, with a faint smile playing at the edges of her lips, she stepped deeper into the grove, her silhouette swallowed by amber and shadow."
+  nf_oro_hunting.2.a:0 "§PLife blooms where the devoted toil.§!"
+
+  nf_oro_hunting.3.t:0 "The Hunt Beneath Amber Boughs"
+  nf_oro_hunting.3.d:0 "It began with a flicker of movement—a blur of white and brown through the amber leaves. Hecate froze, her golden eyes narrowing as she spotted the deer grazing cautiously in a clearing. Its slender neck bent low, ears twitching at every distant sound. For a long moment, neither goddess nor prey moved, both locked in a fragile stillness. Then, with a soft exhale, Hecate began to move. Her steps were careful, her boots finding purchase on dry earth without a single misstep.\n\nThe hunt stretched for hours, winding through thickets of twisted branches and across narrow, moss-covered creeks. The deer moved with grace, a ghost flickering between the shadows of the grove. Hecate followed, her breath steady, her focus absolute. This was no idle chase—this was something ancient, something primal. Her world shrank to the soft crunch of leaves underfoot, the faint glint of moonlight on the deer's hide, and the steady rhythm of her own beating heart.\n\nAt last, the moment came. The deer paused in a narrow clearing, breath misting in the night air. Hecate drew the bow she had carried with her—a weapon chosen hours ago from the reflective obsidian table—and loosed a single arrow. The sound of the string snapping back echoed briefly before silence reclaimed the grove. The deer fell, and Hecate approached slowly, her breath still steady, her expression unreadable. As she knelt beside her fallen quarry, a strange calm washed over her. For a brief instant, she remembered something—a memory, a fragment of a time before the Dark Pyramid, before Ouroboros, before even the Nursery. It flickered, warm and fragile, before fading into the night."
+  nf_oro_hunting.3.a:0 "§PFor a moment, I was...§! §pjust myself.§!"
+  #Tutorial event for the player on how to fight the legion. Just framed in-character.
+  oro_if_we_have_radio_tech:0 "§gIf we have the \"Radio\" tech, found in the Engineering tech tab, this reward triples!§!"
+  oro_spreading_the_word.tt:0 "\nUnlock decisions to spread word of the Legion's atrocities across the wasteland. This will hurt those nations relations with the Legion!"
+  nf_oro_ind.2.t:0 "Dreams of Legionfall"
+  nf_oro_ind.2.d:0 "The prophecy of 'Legionfall' looms large in the hearts of Ouroboros, foretelling the day Hecate will behead Caesar before the Dark Pyramid for his crimes against the tribals. However, the practicalities of occupying Arizona and ending the Legion are daunting. Establishing a frontline requires careful planning.\n\nThe Hounds of Hecate present three strategic options to Hecate:\n\nThe first plan is to take Dead Horse Point and use it as a staging ground to cross the Colorado River. This approach necessitates overcoming a well-fortified Legion encampment, to build a succesful beachhead will require we train our Hounds the best we can.\n\nThe second plan involves arming our merchant fleet for a naval invasion, bypassing Dead Horse Point. This would allow us to establish a frontline closer to Flagstaff, directly threatening the Legion's capital, but demands a formidable naval fleet to control the Colorado. There are rumors that Gente Del Sol is in talks with the Legion to construct a fleet for them.\n\nThe third option is to send an army through the rugged mountain pass of Mesa Verde. This route offers a direct path to the Navajo capital, a threatening slave state of the Legion. However, this approach significantly reduces our strategic depth, as the land connection would make us more vulnerable to a Legion counterattack. The narrow mountain passes could also pose logistical challenges and potential bottlenecks."
+  nf_oro_ind.2.1:0 "Dead Horse Point will be our staging ground!"
+  nf_oro_ind.2.1.tt:0 "§gTip: It is recommended you research Naval Invasion technologies, found at the bottom of the Naval tech tab. These will increase your army's strength when they make river crossings.\nAdditionally, if we have control over the Colorado River, we can use the Naval Invasion Support naval mission in order to give our army a bonus while performing river crossings.§!"
+  nf_oro_ind.2.2:0 "A fleet will carry us to Flagstaff!"
+  nf_oro_ind.2.2.tt:0 "§gTip: It is recommended you invest into the Naval doctrine, found in your Officer Corps, in order to improve the strength of your navy. Additionally, it is recommended that you invest into researching ship modules and hulls to outfit a fleet strong enough to withstand the Legion. For the best odds, it is recommended you coincide your war while the Legion's navy is distracted, such as while they are fighting the NCR.§!"
+  nf_oro_ind.2.3:0 "We will cross the Rockies, like Hannibal did the Alps!"
+  nf_oro_ind.2.3.tt:0 "§gTip: It is recommended, after you take Mesa Verde, that you fortify it. The narrow mountain pass can easily leave your entire army encircled if you let the Legion take it!§!"
+  nf_oro_ind.2.4:0 "I will find another way!"
+  #Event to open up arms trade
+  nf_oro_ind.3.t:0 "A Dark Bargain"
+  nf_oro_ind.3.d:0 "In the dead of night, as whispers of the wind mingled with the distant howls of the wild, a cloaked figure stepped into the flickering light. A Daughter of Hecate, one of the veiled sisters of the wasteland, cast her shadow upon us, cloaked and silent. She spoke with words like honeyed poison, offering a dark pact: weapons of their make, potent and fierce, in exchange for a humble tribute of food and supplies."
+  nf_oro_ind.3.a:0 "In other words, they want to trade guns?"
+  nf_oro_ind.3.b:0 "No need to meddle with them."
+  nf_oro_ind.4.t:0 "Night at the Museum"
+  nf_oro_ind.4.d:0 "The eerie stillness enveloped Hecate as she stepped into the cavernous halls of the abandoned military outpost - seemingly, a museum to honor the warriors of some long forgotten empire. The dim, flickering lights cast long shadows over relics of a bygone era, artifacts of immense power and destruction now left to gather dust in this quiet tomb of history. The Hounds had done their work, securing the perimeter and ensuring the area was devoid of threats, but the silence felt heavier than mere absence of sound—it was the weight of forgotten legacies.\nHecate's footsteps echoed softly on the cold stone floor as she moved through the exhibition halls. \nTowering Ironclads loomed in the shadows, their rusted hulls telling stories of river battles and armored dominance. She imagined these behemoths reborn, fused with the advanced synthetic materials of Ouroboros and enchanted with her magic, ready to command the waterways once more. \nNearby, rows of twisted \"Czech Hedgehogs\" caught her eye—simple yet ingenious barriers designed to halt advancing forces. Their potential to fortify the riverbanks against any assault was clear, especially when enhanced with mystic wardings.\nIn a darker corner, a display on the \"Anchorage Invasion\" revealed the terrifying potential of Gauss Rifles—weapons that harnessed electromagnetic forces to unleash devastating firepower. Though broken, the remnants hummed faintly with latent energy, a testament to their formidable design."
+  nf_oro_ind.4.a:0 "These ships will ride the waves again!"
+  nf_oro_ind.4.b:0 "With these defenses, the Legion will never destroy us."
+  nf_oro_ind.4.c:0 "Think of what these weapons could do!"
+  nf_oro_ind.5.t:0 "The Faces of Reflection"
+  nf_oro_ind.5.d:0 "The museum's eerie silence enveloped Hecate as she wandered its dimly lit halls, her footsteps muffled by the weight of history. She stopped before an ancient statue—the Hecate Chiaramonti, an old world tribute to the goddess bearing her name. Renowned for its haunting, three-faced design, the statue was a masterpiece of craftsmanship, each visage reflecting a different aspect of the goddess's nature.\nHecate's breath caught as she gazed upon it. The marble faces, serene and unyielding, seemed to regard her with an unsettling awareness. The flickering light cast shifting shadows, making the statue appear almost alive. Her fingers brushed over the name etched into the stone: Hecate. It was her name, unmistakably hers, yet seeing it carved into this ancient relic sent a tremor through her. The connection was undeniable, yet the weight of it pressed heavily on her chest, a strange mix of reverence and unease settling deep within.\n§R"NOTHING is real,"§! the thought flitted unbidden through her mind as an invader. The faces of the statue seemed to hold her in contempt, their judgment leaving her breathless and trembling in their silent gaze."
+  nf_oro_ind.5.a:0 "In fury, she tore it down."
+  nf_oro_ind.5.b:0 "In contemplation, she brought it home."
+  nf_oro_ind.5.c:0 "In acceptance, she left it there."
+  nf_oro_ind.6.t:0 "Footsteps Through Ruin"
+  nf_oro_ind.6.d:0 "Hecate's steps echoed through the ragged woods, each crunch of twigs beneath her feet resonating in the still air. Flanked by two Hounds of Hecate, she moved with quiet determination, her eyes scanning the path ahead. Fallen Black Canyon warriors lay scattered, the forest heavy with the weight of what had transpired. Survivors had fled, their terror lingering like whispers among the trees.\n\nAs Hecate moved through the abandoned town, the worn facades of old ramshackle buildings loomed in the dim light. She could feel the settlers' reluctance, their desperate clinging to the familiar comforts of the old world. They held onto the crumbling ideals of civilization with a grip born of fear, unwilling to embrace the new purpose she offered. This resistance weighed heavily on her, and she pondered how to reach them, how to bridge the chasm between their old ways and the purpose she sought to bring.\n\nHer thoughts drifted to Black Canyon's governance. The Gathering, a parliament-like institution, had once allowed the settlers to reconcile their differences and maintain a fragile peace. Though effective, it often lacked the authority to enforce decisions uniformly.\n\nThe idea of reestablishing the Gathering in a new form, beneath her rule, stirred in her thoughts. Perhaps through this familiar institution, the settlers could be guided toward a new understanding, finding solace and purpose in her love. It would be a bridge, a means to reach out, offering them a voice while gently leading them toward a shared future under her care."
+  nf_oro_ind.6.a:0 "Grant them a comfort, they give her their trust."
+  nf_oro_ind.6.b:0 "They didn't deserve her mercy."
+  nf_oro_ind.7.t:0 "An Urgent Request"
+  nf_oro_ind.7.d:0 "Adrian Beyr's hurried steps echoed through the halls as he approached Hecate's chamber. The guards stationed by the grand doorway exchanged a brief glance and nodded to him, stepping aside to let him pass. Adrian's presence here was familiar, yet his urgency was notable. Inside, Hecate stood by the window, her gaze fixed on the city below, her thoughts heavy with unspoken burdens.\n\nHe began to speak, words spilling in a rush about "MIT," Dr. Stone's pioneering research, and technological marvels from a forgotten world. Hecate listened, her expression slowly shifting from curiosity to quiet bewilderment, the unfamiliar terms dancing beyond her grasp. Noticing her confusion, Adrian paused, then took a breath.\n\n"I need to visit the Boulder Dome."\n\nThe room fell silent, the weight of his request settling between them. Hecate turned her gaze from the window, contemplating his earnestness, the potential within this journey, and the trust implicit in his appeal."
+  nf_oro_ind.7.a:0 "He may.. with an armed escort."
+  nf_oro_ind.7.b:0 "Leave? I need him here."
+  nf_oro_ind.8.t:0 "Adrian's Return"
+  nf_oro_ind.8.d:0 "Adrian Beyr returned from the Boulder Dome, his scholarly thirst quenched and his mind brimming with newfound insights. His excitement was barely contained as he stood before Hecate, eager to share what he had uncovered. Behind him, a caravan of hired traders guided Brahmin-pulled wagons laden with carefully crated books and documents. Each crate held the promise of forgotten pre-war knowledge, painstakingly salvaged from the depths of the Dome."
+  nf_oro_ind.8.a:0 "Glad to have you back."
+  oro_rio_grande_arms_trade_tt:0 "Unlocks Decisions to trade weapons for tribute with select Rio Grande river nations."
+  oro_pecos_arms_trade_tt:0 "Unlocks Decisions to trade weapons for tribute with select Pecos river nations."
+  oro_colorado_arms_trade_tt:0 "Unlocks Decisions to trade weapons for tribute with select Colorado river nations."
+  oro_arms_trade:0 "Trading Partner"
+  fake_research_slots:0 "Research Slots"
+
+  nf_oro_yvana.1.t:0 "Overlooking Yvana's Lesson"
+  nf_oro_yvana.1.d:0 "Hecate wandered through the corridors of the Dark Pyramid, her footsteps echoing softly against the pristine obsidian flooring. As she ascended to a high overlook, she paused, drawn to the scene below. The moonlight filtered through the intricate skylights, casting a soft, ethereal glow across the temple's interior. The natural illumination bathed the study area, highlighting the tall scripture rolls that hung from the ceiling like silent sentinels.\n\nCandles flickered gently, their warm light blending with the moon's silver rays, creating a serene ambiance. Below, an eager class was gathered, animated discussions filling the air. Sisters of Ouroboros leaned forward, hanging onto every word of their instructor, Yvana. She stood at the center, her presence commanding yet nurturing, guiding the lesson with a practiced ease.\n\nIt had been some time since Hecate had listened to one of her sisters giving a lecture. She watched as Yvana's voice carried through the hall, blending the teachings of Hecate with the passion of a true believer. The atmosphere was electric, charged with the thirst for knowledge and the reverence for the Dark Mother's teachings.\n\nHecate felt a pull, a desire to connect with her followers in this moment of shared enlightenment. Should she choose to listen in?"
+  nf_oro_yvana.1.a:0 "It won't hurt to listen in."
+  nf_oro_yvana.1.b:0 "I don't have time for this."
+
+  nf_oro_ttm.1.t:0 "Acknowledging Diana's Divinity"
+  nf_oro_ttm.1.d:0 "The Twin Mothers tribe, devoted followers of the goddess Diana, have recently moved north, seeking refuge after being beaten back by Caesar's Legion. Their arrival has stirred unease within Ouroboros. Some fear that their presence might be seen as heresy, prompting calls to convert them to the worship of Hecate.\nHowever, Hecate herself feels a deep respect for the Twin Mothers. Though she is worshipped as a god, her divinity was granted by Diana herself. To attempt to convert the Twin Mothers would be a betrayal of the one who elevated her."
+  nf_oro_ttm.1.a:0 "Two Gods, Two Roles"
+  nf_oro_ttm.1.a.tt:0 "§gThe Daughters of Hecate attempt to spread the idea that DIana, and Ouroboros, serve dual roles. They encourage those of the Twin Mothers tribe who move into Ouroboros to learn of the Dark Mother, just as they do Diana.§!"
+  nf_oro_ttm.1.b:0 "Two Sides of Diana"
+  nf_oro_ttm.1.b.tt:0 "§gThe Daughters of Hecate attempt to spread the idea that Diana and Hecate are connected. That Hecate is, in practice, Diana's Shadow. A necessary opposite, but not an evil.§!"
+  nf_oro_ttm.1.c:0 "One. God."
+  nf_oro_ttm.1.c.tt:0 "§gThe Daughters of Hecate attempt to spread the idea of the absolute power of the Dark Mother, they work to spread fear that only Hecate can stand up to the threats that the Twin Mothers face. Hecate has to be firm with the Twin Mothers, if she wants to hold the respect of her people.§!"
+
+  nf_oro_ttm.2.t:0 "Returning to Paradise"
+  nf_oro_ttm.2.d:0 "Hecate returned to the Nursery, the place where she first encountered Diana. The serene lake and lush greenery stood unchanged, a stark contrast to the turmoil in her heart. As she walked through the tranquil sanctuary, Diana's divine voice emanated from nowhere in particular, filling the air with a calm presence.\n\nObserving Hecate's hardened demeanor and the fire of vengeance still burning in her eyes, Diana felt a deep sense of pity. She offered Hecate a place in the Nursery, a sanctuary where she could find rest and peace, away from the endless battles and darkness that consumed her.\n\nHecate, with the weight of her unfinished battles still pressing upon her, declined the offer. She knew that her path was not yet complete, and that she still had many battles to face before she could consider such peace.\n\nWith a heavy heart, Hecate left the Nursery, carrying Diana's words with her, even as she walked back into the shadows."
+  nf_oro_ttm.2.a:0 "I still have battles to win."
+
+  nf_oro_ttm.3.t:0 "Returning to Paradise"
+  nf_oro_ttm.3.d:0 "Hecate returned to the Nursery, the place where she first encountered Diana. The serene lake and lush greenery stood unchanged, a testament to the tranquility that the sanctuary offered. As she walked through the peaceful haven, Diana's divine voice filled the air, emanating from nowhere in particular.\n\nObserving Hecate's composed demeanor and the clarity in her eyes, Diana felt a deep sense of pride. She reminisced over the night they first met, recalling the lost and vengeful woman who had stumbled into her paradise. Hecate had grown since then, her spirit tempered by wisdom and experience.\n\nDiana, pleased with Hecate's transformation, offered her a tome of her choice from her ancient libraries, a gift of knowledge and history. Along with this, Diana extended the same offer she had once made; a place in the Nursery, a sanctuary where Hecate could find rest and peace whenever she grew weary of her battles.\n\nThis time, Hecate considered the offer more thoughtfully. She acknowledged that one day, when her people no longer needed her guidance and their future was secure, she might seek the tranquility of the Nursery. With gratitude, she accepted the tome, knowing that her journey was not yet complete, but that peace awaited her when the time was right."
+  nf_oro_ttm.3.a:0 "Someday, I will have earned Paradise."
+
+  nf_oro_ttm.4.t:0 "Building an Uplink"
+  nf_oro_ttm.4.d:0 "With meticulous planning and the combined efforts of the Daughters and Hounds of Hecate, an uplink was established between the power grids of Ouroboros and the Nursery. The Nursery, with its near-unlimited energy reserves required to create a G.E.C.K., could afford to siphon a small amount to aid the people of Ouroboros without much issue.\n\nAs the first wave of energy surged through the newly laid cables, small lanterns throughout Ouroboros flickered to life. Ouroboros was built from the ground up as a city that could maximize natural lighting - reflective lenses in most homes amplifying the light of the moon to allow the people to work when others would sleep. This, however, didn't work when the moon was cloaked by clouds. For the first time, the city's streets were bathed in a continuous, gentle glow from these 'Godlights.' The artificial amber light - seen by the people of Ouroboros as a gift from Diana - brought a sense of security and progress, transforming the way the people of Ouroboros lived and thought.\n\nThe Godlights provided comfort during the darkest nights, their warm glow symbolizing hope and unity. Children played under their soft radiance, traders extended their hours, and families gathered in the evening, sharing stories and strengthening their bonds. This divine illumination changed the physical and spiritual landscape of Ouroboros, filling its people with a renewed sense of optimism and resilience."
+  nf_oro_ttm.4.a:0 "Light.."
+
+  nf_oro_ttm.5.t:0 "Twin Moons Temple"
+  nf_oro_ttm.5.d:0 "In an act of unity and mutual respect, Diana and Hecate came together to build a grand temple dedicated to their shared faith. Constructed from slick, gleaming ivory, the temple stands tall and majestic, reminiscent of the Parthenon from a distant, ancient world. Its towering columns and intricately carved friezes tell tales of divine power and shared wisdom. Inside, the temple is adorned with artful tapestries and murals that depict the histories and philosophies of both the Twin Mothers and the Daughters of Hecate. The air is always fragrant with the scent of fresh pre-war fruits from the Nursery, a rare and cherished delicacy.\nThe temple serves as a vibrant center for intellectual and spiritual exchange, where members of the Twin Mothers and the Daughters of Hecate gather regularly for debates and discussions. The furniture within the temple is crafted from fine, polished wood from the Nychthemeron grove, with each piece reflecting the artistry and craftsmanship of both tribes. Elegant chairs and tables, adorned with delicate carvings of ancient symbols, provide a comfortable setting for these lively exchanges.\nTraining new members is a crucial function of the temple, and it is here that the future Daughters of Hecate and Priestesses of the Twin Mothers receive their education. In the temple's spacious courtyards and serene gardens, novices practice their rituals and hone their skills under the watchful eyes of their mentors. They learn the sacred texts, the art of debate, and the practical skills needed to serve their people.\n\nIn time, the Two Moons Temple would be one of the great wonders of the Wasteland. A center of research, study, and one of the hopes for the new world."
+  nf_oro_ttm.5.a:0 "Glory under the Twin Moons!"
+
+  nf_oro_lab.1.t:0 "A Meeting of Minds"
+  nf_oro_lab.1.d:0 "In the quiet sanctity of a secluded chamber within the Dark Pyramid, Hecate and Dr. Adrian Beyr sat across from one another, engaged in one of their frequent exchanges. The room, adorned with finely carved wood from the Nychthemeron grove, radiated an air of calm refinement, a stark contrast to the heavy subjects often broached within its walls. They sipped freshly grown wine, its warm notes softening the edges of their guarded but familiar rapport. Adrian, as always, wore his tattered Followers of the Apocalypse jacket, a constant reminder of the ideals he had never entirely abandoned.\n\nTheir conversations were an intellectual dance—sharp, probing, and layered with unspoken trust and tension. Hecate leaned forward as Adrian mused on philosophical ideas and observations of the wasteland, her golden eyes intent, her presence commanding yet oddly human in these moments. But as their dialogue shifted, Adrian skillfully steered it toward a subject she rarely addressed; the old lab. Hecate's posture stiffened slightly, a subtle sign of her reluctance. She waved the topic aside with practiced indifference, dismissing it as a failed venture. Adrian, however, recognized the avoidance for what it was and pressed forward."
+  nf_oro_lab.1.a:0 "..."
+
+  nf_oro_lab.2.t:0 "The Weight of the Past"
+  nf_oro_lab.2.d:0 "The light of the chamber lamp flickered unevenly as Adrian spoke, his voice steady but insistent. He began recounting the grim details of Hecate's experiments at the old lab—a chapter of her past steeped in a pursuit of 'perfection.' He described the invasive trials, the manipulation of genetics, and the pain endured by those subjected to her quest to create a people capable of defying Caesar's might.\n\nAs Adrian delved deeper, Hecate's initial dismissiveness began to harden into silence. He explained the devastating effects of eugenics: how it undermined adaptability and strength rather than fostering them, how it was rooted in flawed ideals of control, and how it left nothing but scars and suffering in its wake. The lab, Adrian insisted, was more than a misstep—it was a stain on everything she claimed to stand for now.\n\nHecate leaned back, her expression unreadable, though the slight tension in her hand betrayed her inner conflict. Adrian leaned forward, unwavering, and spoke with uncharacteristic fervor. 'If you truly want to lead these people to something greater, you must let this go. Destroy the lab, abandon this madness, and never return to it.' His words hung in the air like a challenge, daring her to reconcile her vision of the future with the shadows of her past."
+  nf_oro_lab.2.a:0 "..."
+
+
+  nf_oro_lab.3.t:0 "Reflections in the Forgotten Lab"
+  nf_oro_lab.3.d:0 "Some time later, Hecate found herself wandering the dusty, abandoned lab where her past experiments had taken place. The air was thick with memories, each piece of equipment a reminder of her relentless pursuit of an impossible ideal. She ran her hand over a particular vial, the glass cool and smooth under her fingertips. Adrian's words echoed in her mind, a somber reminder of the harm her actions had caused. She wondered if, perhaps, she had been missing something crucial all along—if her experiments had failed not because of flawed technique, but because of a flawed outlook. Standing in the dim light of the lab, Hecate felt a rare moment of vulnerability. Adrian was asking that Hecate tear down the old lab - it wouldn't be difficult to do so. She had long ago let the lab languish into obscurity given her growing frustration with the lack of clear results from all of her hard work.\n\nA part of her, the part of her that hated admitting being wrong, was tempted to restart the lab, to take her research in a new direction with a revised understanding. Yet, Adrian's advice lingered; dismantle the lab, abandon the pursuit of perfection, and instead trust her people to carry their strength forward on their own, to let go. The choice was hers to make, and for the first time, Hecate felt the heavy burden of her decisions not just as a leader, but as the cultivator of her people's future."
+  nf_oro_lab.3.a:0 "§RThis time will be different.§!"
+  nf_oro_lab.3.a.tt:0 "§gHecate stands before the ruin of her past and does not turn away—she sees now that her pursuit of perfection was folly, not because she sought to reshape humanity, but because she sought to deny the truths the wasteland had already written. Evolution did not fail; it simply took a different path, one she must embrace rather than resist.\n\nShe decrees that Ouroboros will no longer shun mutation, but accept it as the future, welcoming the downtrodden into her fold. Those twisted by radiation and time shall no longer be cast aside but shall rise as her chosen, reforged not by eugenics, but by the wasteland itself. If she wills it, their strength need not be freely given—if they will not offer it, she may take it, carving the truth of mutation from their very flesh.§!"
+  nf_oro_lab.3.b:0 "§MIt's time to let go.§!"
+  nf_oro_lab.3.b.tt:0 "§gHecate looks upon her works and knows that perfection was never in the blood, but in the will—the traditions, the culture, the faith of her people. The lab was not merely a mistake; it was a rejection of the very strength she sought to cultivate. She steps beyond its ruins and into the arms of the unclaimed, casting aside the illusion of control to embrace the power of devotion.\n\nThe scattered tribes, long wary of her hand, are offered a place within Ouroboros, their customs and wisdom woven into the Dark Mother's design. But if she so chooses, she may reach out not in mercy, but in conquest—tearing their secrets from them, ensuring that even in defiance, they serve her will.§!"
+
+  #Writers notes; The Abbey of the Road here are in-universe conspiracy theorists.
+  #Authorial intent and death of the author and what not, but do not take this as literal 'wiki-lore' - Zusk
+  nf_oro_abbey_of_the_road.1.chain.tt:0 "A Curious Letter"
+  nf_oro_abbey_of_the_road.1.t:0 "$nf_oro_abbey_of_the_road.1.chain.tt$"
+  nf_oro_abbey_of_the_road.1.d:0  "As Hecate rested within the Umbral Adytum, Dae approached with an air of bemusement, holding a folded, weathered piece of parchment in his hand. 'You're not going to believe this,' he said, passing it to Hecate with a smirk. 'An actual letter.'\n\nHecate blinked, surprised. 'A letter? On paper?' She took it from him, feeling the rough, vintage texture of the parchment between her fingers. In a world of holotapes and terminals, a handwritten letter was a relic, something almost unheard of."
+  nf_oro_abbey_of_the_road.1.a:0  "Who still writes with ink?"
+
+  nf_oro_abbey_of_the_road.2.t:0 "$nf_oro_abbey_of_the_road.1.chain.tt$"
+  nf_oro_abbey_of_the_road.2.d: "TO HEKATE, THE FALSE GODDESS OF OUROBOROS,\n\nYOU MAY HAVE FOOLED THE MASSES WITH YOUR SO-CALLED 'DIVINITY,' BUT I SEE THROUGH YOUR LIES. YOU BUILT OUROBOROS ON THE FOUNDATION OF DECEIT, A CITY THAT STANDS AS A BLASPHEMOUS MONUMENT TO YOUR ARROGANCE. YOU THINK YOUR FOLLOWERS BUILDING YOU A CITY MAKES YOU A GODDESS? HARDLY. YOU'RE LEADING THEM STRAIGHT TO RUIN, AND THE REST OF THE WORLD ALONG WITH THEM.\n\nYOU'VE BEEN TAMPERING WITH DARK FORCES, CALLING TO THE BURROWING GODS—THOSE THAT LIE BEYOND THE VEIL, WAITING FOR FOOLS LIKE YOU TO TEAR IT OPEN. I KNOW WHAT YOU'RE UP TO. YOU'RE POKING AT THINGS THAT SHOULD STAY BURIED, TEMPTING FORCES THAT WILL SHRED THIS WORLD APART IF GIVEN HALF A CHANCE. UG-QUALTOTH WILL BE THE FIRST, AND WHEN HE COMES THROUGH, HE WON'T JUST DESTROY OUROBOROS—HE'LL TURN IT INTO A GATEWAY FOR EVEN GREATER EVIL.\n\nAND DON'T THINK I HAVEN'T SEEN YOUR CONNECTION TO DIANA. OH YES, I KNOW THE TRUTH. YOU'RE NOT JUST A 'GODDESS.' DIANA IS YOUR SPIRITKIND, AND YOU HER PUPPET, NOTHING MORE THAN A VESSEL FOR HER DARK DESIRES."
+  nf_oro_abbey_of_the_road.2.a: "Its still going on?"
+  nf_oro_abbey_of_the_road.skip.d: "This is a waste of time."
+
+  nf_oro_abbey_of_the_road.3.t:0 "$nf_oro_abbey_of_the_road.1.chain.tt$"
+  nf_oro_abbey_of_the_road.3.d: "YOU THINK YOU'RE SPECIAL? THINK AGAIN. DIANA IS PULLING YOUR STRINGS, AND YOU'RE TOO BLIND TO SEE IT. SHE'S BEEN PLOTTING THIS SINCE THE DAYS OF RICHARD THE LIONHEART! THAT'S RIGHT, YOU THINK THIS IS SOME NEW SCHEME? NO! THIS GOES ALL THE WAY BACK TO THE THIRD CRUSADE.\n\nWHEN RICHARD THE LIONHEART MASSACRED THE PRISONERS AT ACRE, HE WASN'T JUST COMMITTING AN ATROCITY—HE WAS UNLEASHING THE DEMONS YOU'RE NOW TRYING TO BRING BACK! YES, THOSE DEMONS! THE VERY ONES THAT SLIPPED THROUGH THE VEIL WHEN THE BLOOD WAS SPILLED AT ACRE. RICHARD LET THEM IN, AND NOW YOU, HEKATE, ARE TRYING TO FINISH WHAT HE STARTED!\n\nDO YOU THINK YOU CAN CONTROL WHAT'S COMING? YOU CAN'T. UG-QUALTOTH AND HIS KIND WILL NOT BE TAMED. THEY WILL RIP THROUGH THE VEIL AND TEAR OPEN THE DIMENSIONAL RIFT YOU'VE BEEN WORKING SO HARD TO CREATE. AND WHEN THAT HAPPENS, OUROBOROS WILL FALL, AND YOU, VESSEL OF DIANA, WILL BE NOTHING BUT A MEMORY OF FAILURE AND EVIL, YOUR SOUL CAST AWAY TO THE DEEPEST PITS OF HELL!"
+  nf_oro_abbey_of_the_road.3.a: "This just goes on and on, doesn't it.."
+
+  nf_oro_abbey_of_the_road.4.t:0 "$nf_oro_abbey_of_the_road.1.chain.tt$"
+  nf_oro_abbey_of_the_road.4.d: "BUT YOU HAVE A CHOICE. YOU CAN REPENT. YOU CAN TURN AWAY FROM THIS PATH OF DAMNATION AND SEEK THE TRUE LIGHT, THE LOVE OF CHRIST THE REDEEMER. IT IS NOT TOO LATE TO SAVE YOUR SOUL—BUT THE TIME IS SHORT. IF YOU DO NOT, I WILL BE THERE WHEN YOUR DEMONS COME, AND I WILL WATCH AS YOU FALL, KNOWING THAT THE ABBEY OF THE ROAD STOOD AGAINST YOU AND YOUR BLASPHEMOUS WAYS.\n\nTHE BURROWING GODS WILL NOT WIN. CHRIST WILL PREVAIL.\n\nCONFESSOR JEBEDIAH; ABBEY OF THE ROAD - KEEPERS OF THE TRUTH"
+  nf_oro_abbey_of_the_road.4.a: "And they call me crazy!"
+
+  oro_abbey_of_the_road_raiders:0 "§YThe Abbey of the Road§! have established a mission in Ouroboros."
+
+  #Purposefully super long. Done to give the abbey of the road a bit of personality and to play into the bit of the event itself.
+  oro_modify_idea:0 "$MODIFY$ §Y$IDEA$§!$MODIFIER$"
+  oro_abbey_of_the_road_modify_tt:0 ":\n  Factory Output: §G-5.0%§!\n  Caps Income: §G-5.0%§!"
+  oro_abbey_of_the_road_incursions_short:0 "THE RIGHTEOUS CRUSADE OF THE ABBEY OF THE ROAD"
+  oro_abbey_of_the_road_incursions_long:0 "THE RIGHTEOUS CRUSADE OF THE ABBEY OF THE ROAD, A STRUGGLE AGAINST THE GREAT DECEIVER, A WAR FOR THE SOUL OF HUMANITY, A LAST STAND AGAINST THE SHADOWS THAT WRITHE BENEATH THE SURFACE OF THE EARTH, WAITING, WATCHING, HUNGERING FOR THE MOMENT TO STRIKE! THEY CALL HER A GODDESS, BUT WE KNOW THE TRUTH—A FALSE PROPHET, A SERPENT IN THE GARDEN, A PUPPET OF DARKER FORCES THAT LURK JUST BEYOND THE VEIL OF THIS WORLD! HER CITY, HER PYRAMID, HER FAITH—ALL BUILT ON LIES, ALL BUILT TO USHER IN A NEW AGE OF HERESY, OF ABOMINATIONS THAT WILL TEAR APART THE VERY FABRIC OF REALITY ITSELF! BUT WE WILL NOT STAND IDLE! NO! WE WILL BRING THE LIGHT OF RIGHTEOUSNESS TO THIS BLIGHT UPON THE LAND! THE TIME OF JUDGMENT DRAWS NEAR, AND THE ABBEY OF THE ROAD SHALL BE THE INSTRUMENT OF HIS DIVINE WILL!"
+  oro_abbey_of_the_road_incursions_desc:0 "A peculiar sect of Christian zealots, linked to the enigmatic Abbey of the Road, has recently established itself near Ouroboros. Their beliefs, dismissed by most as sheer lunacy, encompass conspiracy theories such as the Zetan Cover-Up, the Null-World Hypothesis and the "Lionheart Postulate"-a bizarre theory that the world underwent a fundamental paradigm shift on August 20, 1191, when King Richard the Lionheart sacrificed over a thousand Muslim prisoners from Saladin's army at Acre. The Abbey of the Road claims to stand against the strangest and most insidious forces of the wasteland, insisting they alone possess the psychic and spiritual insight to combat unseen evils. Whispers persist that the Abbey itself may even predate the Great War, its roots tangled in forgotten centuries.\nIf Hecate wishes to secure her dominion, she must act swiftly to stifle their attempts to undermine her rule."
+  ORO_abbey_of_the_road_incursions_3:0 "$oro_abbey_of_the_road_incursions_long$"
+  ORO_abbey_of_the_road_incursions_3_desc:0 "$oro_abbey_of_the_road_incursions_desc$"
+  ORO_abbey_of_the_road_incursions_2:0 "$oro_abbey_of_the_road_incursions_long$"
+  ORO_abbey_of_the_road_incursions_2_desc:0 "$oro_abbey_of_the_road_incursions_desc$"
+  ORO_abbey_of_the_road_incursions_1:0 "$oro_abbey_of_the_road_incursions_long$"
+  ORO_abbey_of_the_road_incursions_1_desc:0 "$oro_abbey_of_the_road_incursions_desc$"
+  ORO_destroy_abbey_compound_flavor_tt:0 "§gThe Hounds of Hecate descended upon the Abbey of the Road under the shroud of night, their war paint dark as the storm-churned sky. Gunfire and flame shattered the compound's silence, the faithful screaming prayers and curses as they fell beneath the relentless advance of Ouroboros's chosen. By dawn, the abbey lay in ruin—its walls blackened, its altars toppled, and its last defenders reduced to nothing more than echoes beneath the dust.§!"
+
+  #Decisions
+  oro_trade_with_country_desc:0 ""
+  oro_gnr:0 "Dial In: Galaxy News Radio"
+  oro_gnr_desc:0 ""
+  oro_gnr_trigger_tt:0 "A brave wastelander in the Capital Wasteland has helped Three-Dog improve GNR's radio signal."
+  oro_mr_new_vegas:0 "Dial In: Radio New Vegas"
+  oro_mr_new_vegas_desc:0 ""
+  oro_mr_new_vegas_is_alive:0 "Mr. New Vegas is still running Radio New Vegas"
+  oro_diamond_city_radio:0 "Dial In: Diamond City Radio"
+  oro_diamond_city_radio_desc:0 ""
+  oro_travis_is_ok_tt:0 "Travis Miles is still running Diamond City Radio"
+  oro_radio_freedom:0 "Dial In: Radio Freedom"
+  oro_radio_freedom_desc:0 ""
+  oro_general_freedom_ok:0 "General Freedom still runs Radio Freedom"
+  oro_ruminator_radio:0 "Dial In: Ruminator Radio"
+  oro_ruminator_radio_desc:0 ""
+  oro_ruminators_radio_tt:0 "Saul set up a new radio station for the Ruminators"
+  oro_saints_radio:0 "Dial In: Saints Radio"
+  oro_saints_radio_desc:0 ""
+  oro_archie_is_ok:0 "Alumnus Archie is still running Saints Radio"
+  oro_tubeheads_nightly:0 "Dial In: Tubeheads Nightly"
+  oro_tubeheads_nightly_desc:0 ""
+  oro_mr_entertainment_okay:0 "Mr. Entertainment is still running Tubeheads Nightly"
+  oro_black_mountain_radio:0 "Dial In: Black Mountain Radio"
+  oro_black_mountain_radio_desc:0 ""
+  oro_star_radio:0 "Dial In: Star Radio"
+  oro_star_radio_desc:0 ""
+  oro_enclave_radio:0 "Dial In: Enclave Radio"
+  oro_enclave_radio_desc:0 ""
+  oro_northwest_public_broadcasting:0 "Dial In: Northwest Public Broadcasting"
+  oro_northwest_public_broadcasting_desc:0 ""
+
+  #BOP
+  ORO_min_clarity:0 "§RMinimal Clarity§!"
+  ORO_low_clarity:0 "§RLow Clarity§!"
+  ORO_lower_mid_clarity:0 "§RWorsening Clarity§!"
+  ORO_neutral_clarity:0 "Middling Clarity"
+  ORO_higher_mid_clarity:0 "§MGrowing Clarity§!"
+  ORO_high_clarity:0 "§MHigh Clarity§!"
+  ORO_max_clarity:0 "§MPerfect Clarity§!"
+  ORO_clarity_balance:0 "§PState of Mind of Hecate§!"
+  ORO_vengeful_mind:0 "§RWrath§!"
+  ORO_clear_mind:0 "§MGrace§!"
+
+  # Ideas
+  crz_fire_warriors: "Warrior of the Scorchsong"
+  crz_fire_warriors_desc: "Fireteam Infantry & Demolition Infantry:\n     Organization: §G+10§!\n     HP: §G+5§!\n     Hard Attack: §G+40%§!\n     Soft Attack: §G+40%§!\n     Breakthrough: §G+40%§!\n     Combat Width: §R+3§!"
+  ORO_STINGER_NAME:0 "Stinger"
+  ORO_THUNDER_NAME:0 "Thunder"
+  ORO_RED_BANDANA_NAME:0 "Red Bandana"
+  ORO_adrian_beyr:0 "Dr. Adrian Beyr"
+  oro_captive_genius:0 "Captive Genius"
+  oro_captive_genius_2:0 "Captive Genius"
+  oro_captive_genius_2_tt:0 "Upgrade §Y$ORO_adrian_beyr$§!:\n$fake_research_slots$: §G+1§!"
+  ORO_adrian_beyr_research_advisor_desc:0 "Dr. Adrian Beyr, a learned man and former member of the Followers of the Apocalypse, has spent his life traversing the wasteland, amassing a vast collection of books and holo-disks, and devouring their contents with insatiable curiosity.\nHis travels led him to Ouroboros, where an unfortunate misstep in quoting Greek mythology to Hecate, resulted in his imprisonment.\n\nHowever, Adrian's natural ingenuity and passion for knowledge soon overshadowed any fear of confinement. Embracing his new circumstances, he became a cornerstone of Ouroboros's rise to power, contributing his expertise and insights. Eventually being granted a lab and the freedom to wander the Dark Pyramid, Adrian now works closely with Hecate, his intellectual pursuits fueling the advancement of their shared vision."
+  ORO_seraphina_nyx:0 "Seraphina Nyx"
+  ORO_seraphina_nyx_trait:0 "High Admiral of the Obsidian Fleet"
+  ORO_seraphina_nyx_research_advisor_desc:0 "As a revered Daughter of Hecate and a figure of wisdom, Seraphina embodies the Wise Old Woman archetype, steering the Obsidian Fleet with profound insight and spiritual connection. She values precision and power, advocating for a fleet that's small but unmatched in quality. Her presence is almost mythical, and her ships, whispered to be enchanted with protective spells, glide like shadows across the Colorado, ready to deliver decisive strikes."
+
+  ORO_orion_blackwater:0 "Admiral Orion Blackwater"
+  ORO_orion_blackwater_trait:0 "Commander of the Tideborn Armada"
+  ORO_orion_blackwater_research_advisor_desc:0 "A seasoned warrior among the Hounds, Orion represents the Warrior archetype with a tactical yet fierce approach. He champions the philosophy of numbers, pushing for mass-produced vessels that overwhelm enemies through relentless assaults. His command, the Tideborn Armada, is a terrifying sight—a mass of ships navigating the Colorado river with swift, brutal efficiency."
+
+  ORO_cassandra_thorn:0 "Cassandra Thorn"
+  ORO_cassandra_thorn_trait:0 "Shadow Pathfinder"
+  ORO_cassandra_thorn_research_advisor_desc:0 "As a pragmatic Daughter, Cassandra embodies the Strategist archetype. She sees naval power as a potential drain on resources, instead advocating for mastery over land routes through the Rockies. Her tactics revolve around outmaneuvering the Legion by using the treacherous terrain as a natural defense, creating hidden paths for safe passage and ambushes."
+
+  ORO_lucius_skyshadow:0 "Lucius Skyshadow"
+  ORO_lucius_skyshadow_trait:0 "Master of the Aether Wings"
+  ORO_lucius_skyshadow_research_advisor_desc:0 "A visionary among the Hounds, Lucius represents the Inventor archetype, harboring a passion for pre-war aircraft restoration. His 'Aether Wings' operate as an elite aerial fleet, honed by his meticulous care and strategic innovations. Lucius has cultivated new aerial tactics and imbued his aircraft with an almost otherworldly aura, inspiring pilots to fight for Hecate's cause."
+
+  ORO_helena_voidweaver:0 "Helena Voidweaver"
+  ORO_helena_voidweaver_trait:0 "Architect of the Abyssal Bastions"
+  ORO_helena_voidweaver_research_advisor_desc:0 "Representing the Guardian archetype, Helena is a Daughter who devotes herself to Ouroboros's defense. Preferring a grounded approach, she constructs fortified defenses using salvaged anti-air weapons, enhanced with dark enchantments. Her bastions protect the city from aerial threats, creating a formidable shield around Ouroboros."
+
+  ORO_marcus_vex:0 "General Marcus Vex"
+  ORO_marcus_vex_trait:0 "Battleguard of the Hounds"
+  ORO_marcus_vex_research_advisor_desc:0 "Marcus embodies the Hero archetype, inspiring his troops with honor and valor. He leads from the front, his bravery and strength rallying soldiers to push past their limits in battle. His emphasis on infantry tactics and close-quarters combat has molded the Hounds into a fearsome ground force."
+
+  ORO_selene_blackheart:0 "Mistress Selene Blackheart"
+  ORO_selene_blackheart_trait:0 "Shadow Mistress of Whispers"
+  ORO_selene_blackheart_research_advisor_desc:0 "The embodiment of the Shadow archetype, Selene is a master manipulator who orchestrates Ouroboros's intelligence network. Through a web of spies and informants, she gains and distributes critical information, turning her influence into a powerful tool for espionage and sabotage."
+
+  ORO_aurora_storm:0 "Captain Aurora Storm"
+  ORO_aurora_storm_trait:0 "Keeper of the Lifeline"
+  ORO_aurora_storm_research_advisor_desc:0 "Representing the Caregiver archetype, Aurora is dedicated to ensuring the army is always supplied and sustained. Her careful planning minimizes resource waste, ensuring that soldiers can operate at full strength without suffering from lack or deprivation."
+
+  ORO_damian_crowe:0 "Warlock Damian Crowe"
+  ORO_damian_crowe_trait:0 "High Artillery Warlock"
+  ORO_damian_crowe_research_advisor_desc:0 "As a Magician archetype, Damian integrates arcane rituals with artillery warfare, adding a mystical edge to Ouroboros's firepower. His rituals heighten artillery accuracy and power, turning bombardments into displays of both raw strength and dark energy."
+
+  ORO_lydia_nightshade:0 "Professor Lydia Nightshade"
+  ORO_lydia_nightshade_trait:0 "Doctrine Weaver"
+  ORO_lydia_nightshade_research_advisor_desc:0 "A wise Daughter symbolizing the Sage archetype, Lydia's advanced military doctrines merge esoteric knowledge with battle strategy. She refines tactics, exploring the metaphysical forces at play in warfare, bringing a new dimension to Ouroboros's military strategies."
+
+  ORO_isolde_ironweaver:0 "Matron Isolde Ironweaver"
+  ORO_isolde_ironweaver_trait:0 "Mistress of Forges"
+  ORO_isolde_ironweaver_research_advisor_desc:0 "Representing the Creator archetype, Isolde is a formidable Daughter who oversees Ouroboros's industrial arm. Her forges are renowned for their quality and efficiency, producing weapons and equipment that embody her high standards."
+
+  #Ran out of time to give these descriptions - Zusk
+  ORO_nysira_vaelthorn:0 "Nysira Vaelthorn"
+  ORO_kyron_duskbinder:0 "Kyron Duskbinder"
+  ORO_vaelis_ironvox:0 "Vaelis Ironvox"
+  ORO_zyphos_blackspanner:0 "Zyphos Blackspanner"
+  ORO_sorynth_tideforger:0 "Sorynth Tideforger"
+  ORO_lyssira_umbrawail:0 "Lyssira Umbrawail"
+  ORO_tarsys_goldflare:0 "Tarsys Goldflare"
+  ORO_xerathis_obsidianhand:0 "Xerathis Obsidianhand"
+  ORO_draelis_forgeborn:0 "Draelis Forgeborn"
+  ORO_sylwen_dreambloom:0 "Sylwen Dreambloom"
+  ORO_elyndra_mistrider:0 "Elyndra Mistrider"
+  ORO_vaerion_silkenbough:0 "Vaerion Silkenbough"
+  ORO_lythara_dawnpetal:0 "Lythara Dawnpetal"
+  ORO_zephion_leafcaller:0 "Zephion Leafcaller"
+  ORO_sareth_windbloom:0 "Sareth Windbloom"
+
+  nf_oro_utah_tribals.4.a.tt:0 "Every §Y[CES.GetName]§! Core State:\n  The §YInfrastructure§! receives [?temp_damage|.2R] level of damage.\n  Add [?temp_resistance|R] Resistance"
+  nf_oro_utah_tribals.5.a.tt:0 "Every §Y[CES.GetName]§! Core State:\n  The §YCivilian Factories§! in the state receive [?temp_damage|.2R] level of damage.\n  Add [?temp_resistance|R] Resistance"
+  nf_oro_utah_tribals.6.a.tt:0 "Every §Y[CES.GetName]§! Core State:\n  The §YArms Factories§! in the state receive [?temp_damage|.2R] level of damage.\n  Add [?temp_resistance|R] Resistance"
+  oro_twin_moons_temple:0 "Twin Moons Temple"
+  oro_twin_moons_temple_desc:0 "Diana and Hecate have united to build a grand temple dedicated to their peoples faiths. Constructed from gleaming ivory, the temple stands tall and majestic, reminiscent of the Parthenon from an ancient world. Inside, it features polished wood furniture adorned with intricate carvings, elegant tapestries, and murals depicting the histories and philosophies of the Twin Mothers and the Daughters of Hecate."
+  oro_planning_naval_operations:0 "Planning Naval Operations"
+  ORO_people_of_the_night:0 "People of the Night"
+  ORO_people_of_the_night_desc:0 "The people of Ouroboros are used to the night. They thrive in it."
+  ORO_raids_from_old_bones_oro:0 "The Old Bones Raids"
+  ORO_raids_from_old_bones_oro_desc:0 "The Old Bones have been raiding into Ouroboros land for years, stealing the prized obsidian that makes up most of the city."
+  ORO_raids_from_old_bones_oro_2:0 "$ORO_raids_from_old_bones_oro$"
+  ORO_raids_from_old_bones_oro_2_desc:0 "$ORO_raids_from_old_bones_oro_desc$"
+  ORO_raids_from_old_bones_oro_3:0 "$ORO_raids_from_old_bones_oro$"
+  ORO_raids_from_old_bones_oro_3_desc:0 "$ORO_raids_from_old_bones_oro_desc$"
+  ORO_raids_from_old_bones_tob:0 "$ORO_raids_from_old_bones_oro$"
+  ORO_raids_from_old_bones_tob_desc:0 "$ORO_raids_from_old_bones_oro_desc$"
+  ORO_raids_from_old_bones_tob_2:0 "$ORO_raids_from_old_bones_oro$"
+  ORO_raids_from_old_bones_tob_2_desc:0 "$ORO_raids_from_old_bones_oro_desc$"
+  ORO_raids_from_old_bones_tob_3:0 "$ORO_raids_from_old_bones_oro$"
+  ORO_raids_from_old_bones_tob_3_desc:0 "$ORO_raids_from_old_bones_oro_desc$"
+  oro_spec_ops_idea:0 "Embrace of the Nightswan"
+  oro_spec_ops_idea_desc:0 "The Nightswans are the ultimate daughters of Hecate, her most trusted and ethereal creations. Cloaked in shadow and starlight, they move with a grace that echoes their goddess's divine will. As Hecate's personal bodyguard, they are her silent watchers and unyielding protectors, their loyalty as unshakable as the night itself. Each is a living embodiment of her power, a fierce and elegant reminder of her dominion over the unseen and the unknown."
+  oro_spec_ops_1:0 "$oro_spec_ops_idea$"
+  oro_spec_ops_1_dec:0 "$oro_spec_ops_idea_desc$"
+  oro_spec_ops_2:0 "$oro_spec_ops_idea$"
+  oro_spec_ops_2_dec:0 "$oro_spec_ops_idea_desc$"
+  oro_spec_ops_3:0 "$oro_spec_ops_idea$"
+  oro_spec_ops_3_dec:0 "$oro_spec_ops_idea_desc$"
+
+  oro_enforcer_shields_1:0 "Hound Shields"
+  oro_enforcer_armor_1:0 "Hound Armour"
+  oro_enforcer_shields_2:0 "Hardened Hound Shields"
+  oro_enforcer_armor_2:0 "Hardened Hound Armour"
+  oro_tribal_pride_1:0 "Tribal Heritage"
+  oro_tribal_pride_2:0 "Tribal Heritage"
+  oro_tribal_pride_3:0 "Tribal Heritage"
+  oro_mutant_pride_1:0 "Mutant Pride"
+  oro_mutant_pride_2:0 "Mutant Pride"
+  oro_mutant_pride_3:0 "Mutant Pride"
+
+  oro_tailored_force_1:0 "Followers of Darkness"
+  oro_tailored_force_2:0 "$oro_tailored_force_1$"
+  oro_tailored_force_3:0 "$oro_tailored_force_1$"
+  oro_tailored_force_4:0 "$oro_tailored_force_1$"
+  oro_tailored_force_1_desc:0 "We understand the importance of balancing opposing forces within ourselves. By harmonizing light and dark, conscious and unconscious, we achieve a state of inner equilibrium. This balance enhances our mental clarity, emotional stability, and overall resilience, fostering a community that thrives on wisdom and unity."
+  oro_tailored_force_2_desc:0 "$oro_tailored_force_1_desc$"
+  oro_tailored_force_3_desc:0 "$oro_tailored_force_1_desc$"
+  oro_tailored_force_4_desc:0 "$oro_tailored_force_1_desc$"
+
+  ORO_quality_manufacturing_1:0 "Eternal Seekers"
+  ORO_quality_manufacturing_2:0 "$ORO_quality_manufacturing_1$"
+  ORO_quality_manufacturing_3:0 "$ORO_quality_manufacturing_1$"
+  ORO_quality_manufacturing_1_desc:0 "We embody the endless journey of growth and enlightenment. Recognizing that each life is a step in a greater cycle of learning and transformation, we embrace the Hero's Journey across lifetimes. By doing so, we contribute to the collective wisdom of Ouroboros, ensuring continuous advancement towards ultimate enlightenment."
+  ORO_quality_manufacturing_2_desc:0 "$ORO_quality_manufacturing_1_desc$"
+  ORO_quality_manufacturing_3_desc:0 "$ORO_quality_manufacturing_1_desc$"
+
+  oro_bright_scholars_1:0 "Balanced Minds"
+  oro_bright_scholars_2:0 "$oro_bright_scholars_1$"
+  oro_bright_scholars_3:0 "$oro_bright_scholars_1$"
+  oro_bright_scholars_4:0 "$oro_bright_scholars_1$"
+  oro_bright_scholars_1_desc:0 "We have confronted our deepest fears and integrated our shadows. This acceptance of our repressed aspects grants us profound self-awareness and strength. By harnessing the power of our inner darkness, we stand resilient against external threats and inspire others to find strength in their own shadows."
+  oro_bright_scholars_2_desc:0 "$oro_bright_scholars_1_desc$"
+  oro_bright_scholars_3_desc:0 "$oro_bright_scholars_1_desc$"
+  oro_bright_scholars_4_desc:0 "$oro_bright_scholars_1_desc$"
+
+  ORO_bounty_of_colorado:0 "Bounty of Colorado"
+  ORO_bounty_of_colorado_2:0 "The Better Bounty of Colorado"
+  ORO_bounty_of_colorado_3:0 "The Biggest Little River"
+  ORO_foritification_effort:0 "Fortification Effort"
+  ORO_fledgeling_industry:0 "Proto-Feudalism"
+  ORO_thriving_industry:0 "Serfdom in the Umbral Age"
+
+  #oro_combine_idea_tt:0 "Remove §Y$oro_tailored_force_1$§!.\nRemove §Y$ORO_quality_manufacturing_1$§!.\nRemove §Y$oro_bright_scholars_1$§!.\nAdd §Y$oro_best_and_brightest_idea$§!."
+
+  #oro_best_and_brightest_idea:0 "An Enlightened People"
+  #oro_best_and_brightest_idea_desc:0 "We have embraced the teachings of Hecate, integrating the self, transcending dualities, and completing the Hero's Journey. By living according to these tenets, we have become an enlightened people. Our society thrives in wisdom, strength, and harmony, standing as a beacon of hope and resilience in the wasteland."
+
+  #oro_dark_moon_spying:0 "Dark Moon Spying"
+  #oro_dark_moon_spying_desc:0 "I see a §Rbad moon rising!§! Oh, wait, that's just Caesar's head."
+
+  #oro_twin_moons_pantheon:0 "Twin Moons Pantheon"
+  #oro_twin_moons_pantheon_desc:0 "I see a §Rbad moon rising!§! Oh, wait, that's just Caesar's head."
+
+  oro_metternich_notes:0 "§OJournal of Heinrich Metternich§!"
+  oro_metternich_notes_desc:0 "The journal of Heinrich Metternich, famous archeologist and explorer of the 19th century.\nAn entry dated Friday, 6th April, 1894, finds Heinrich Metternich amidst the ruins of Ubar in the Empty Quarter of Arabia. Metternich reflects on his journey, noting the relentless determination of his colleague, Lorenzo Cabot. Metternich's contributions, particularly his electrical sensing apparatus, proved crucial in Cabot's discoveries.\n\nIn another entry from Saturday, 13th April, 1897, Metternich recalls the Greco-Turkish War, a time marked by danger and opportunity. He recounts his expedition to the island of Crete, where he aimed to save priceless relics from destruction. Among these, Metternich took the Knossos Sarcophagus, a significant Greek artifact, with the intention of preserving it. Eventually, the sarcophagus was sold to an American collector."
+  oro_dianas_journal:0 "§MA Study of Exotic Matter§!"
+  oro_dianas_journal_desc:0 "A scientific journal, dated before the great war, features a peer-reviewed paper by Diana Stone, a recent MIT graduate. In her study, Stone explores the concept of matter transmutation, proposing that subjecting matter to extreme energy levels, such as through the detonation of high-yield nuclear weapons, can hyper-energize that matters constituent particles, causing them to lose interactions with ordinary matter. This phenomenon could create a state akin to a highly advanced form of Quark-Gluon Plasma, a state of matter that theoretically existed only in the conditions shortly after the Big Bang.\n\nIn this state, dubbed "Hyper-Matter," the particles exhibit properties that render them almost completely inert to the fundamental forces and interactions governing ordinary matter. Consequently, matter in this state would effectively bypass many of the conventional laws of thermodynamics, potentially leading to novel applications and insights into fundamental physics. Stone's hypothesis opens new avenues for exploring the boundary between known matter and the exotic states that might exist under extreme conditions."
+  oro_missionary_notes:0 "§RMissionary Notes§!"
+  oro_missionary_notes_desc:0 "A series of notes, maps, and papers, stolen from members of the Abbey of the Road—a devoted group of Christians pledged to fight against cults in the wasteland—reveal a wealth of intriguing information.\nOne excerpt details a correspondence between an inland missionary base and an outfield agent named Marcella. Marcella was investigating a cursed object known as the Krivbeknih, a twisted and malevolent book written by followers of something unknowable. For a long time, the book was in the possession of the Blackhall family near Point Lookout.\nAnother excerpt delves into the research conducted by another agent operating in the American Southwest. This agent believed they had found a lead suggesting that an old member of the Blackhall family, before the Great War, had attempted to create an incomplete transcription of the Krivbeknih. The trail, unfortunately, went cold near the Colorado River, leaving the transcription's fate shrouded in mystery."
+  oro_post_war_city:0 "Ouroboros; Post-War Wonder"
+  oro_post_war_city_desc:0 "Founded by Hecate upon the hallowed ground of Old Umbral Hill—a place she first saw in a vision—the city of Ouroboros rises like a shadow stitched into the fabric of the wasteland. Built predominantly from synthetic obsidian, its jagged skyline absorbs the day's harsh light and transforms under the moon's glow into a glittering nocturnal citadel. The city's rooftops are adorned with reflective panels, ingeniously amplifying moonlight to bathe the streets in an ethereal shimmer, rendering artificial lights unnecessary and keeping the city concealed from the prying eyes of the Legion. At its core stands the Pyramid of the Dark Moon, a monolithic structure embodying both divine purpose and industrial might, its gold-and-uranium apex glimmering ominously in the night sky. Ouroboros thrives as both sanctuary and fortress, a testament to Hecate's vision, where devotion, ingenuity, and shadow converge into an enduring legacy."
+  oro_blood_hounds_defense:0 "Blood Hounds' Den"
+  oro_blood_hounds_defense_desc:0 "The Blood Hounds are warriors first, marauders second, and something in between when the drinks start flowing. Born from the brutal traditions of the western Vipers, they fight not for faith, but for the only bonds they've ever trusted—blood, steel, and loyalty to Jordan Dae. Wherever they plant their banner, it becomes a battlefield in waiting, a place where discipline and debauchery go hand in hand. Their camp here is no exception, a rough-hewn fortress of salvaged metal and firelit revelry, where the night is filled with the roar of drunken warriors, the clash of friendly blades, and the ever-present hum of a fight about to begin. It is a place of killers, hardened and ready, waiting only for war to call them forward."
+  oro_blood_hounds_offence:0 "$oro_blood_hounds_defense$"
+  oro_blood_hounds_offence_desc:0 "$oro_blood_hounds_defense_desc$"
+  oro_temple:0 "Obsidian Shrine"
+
+  # Tooltips
+  ces_no_longer_exists:0 "§g[CES.GetNameWithFlag] no longer exists.§!"
+  ces_has_war_with_a_major_faction:0 "§g[CES.GetNameWithFlag] is at war with a major faction.§!"
+  oro_has_completed_all_major_projects:0 "§g[ORO.GetNameWithFlag] has prepared as much as it can.§!"
+  oro_our_army_is_stronger_than_ces:0 "§gThe army of [ORO.GetNameWithFlag] is stronger than that of [CES.GetNameWithFlag]§!"
+  oro_name_with_flag: "(§Y[ORO.GetNameWithFlag]§!):\n"
+  oro_has_more_army_manpower_than_all_of_ces_faction_members:0 "Our deployed army manpower (£GFX_manpower_icon [?ORO.deployed_army_manpower_k]k) exceeds that of [CES.GetNameWithFlag] and all their allies. (£GFX_manpower_icon [?oro_big_army_check]k)."
+  oro_has_more_navy_manpower_than_all_of_ces_faction_members:0 "Our deployed navy manpower (£GFX_manpower_icon [?ORO.deployed_navy_manpower_k]k) exceeds that of [CES.GetNameWithFlag] and all their allies. (£GFX_manpower_icon [?oro_big_navy_check]k)."
+  oro_has_more_navy_manpower_than_gdh:0 "Our deployed navy manpower (£GFX_manpower_icon [?ORO.deployed_navy_manpower_k]k) exceeds that of [GDH.GetNameWithFlag] (£GFX_manpower_icon [?LAC.deployed_navy_manpower_k]k)."
+  oro_has_more_navy_manpower_than_lac:0 "Our deployed navy manpower (£GFX_manpower_icon [?ORO.deployed_navy_manpower_k]k) exceeds that of [LAC.GetNameWithFlag] (£GFX_manpower_icon [?LAC.deployed_navy_manpower_k]k)."
+  oro_has_more_navy_manpower_than_ces:0 "Our deployed navy manpower (£GFX_manpower_icon [?ORO.deployed_navy_manpower_k]k) exceeds that of [CES.GetNameWithFlag] (£GFX_manpower_icon [?CES.deployed_navy_manpower_k]k)."
+  oro_strategic_interests:0 "Strategic Interests"
+  oro_eagle_rock_deal:0 "Diplomatic Deal"
+  oro_they_want_to_attack_us:0 "Wants to Kill Us"
+  oro_hecate_spared_us:0 "Hecate Spared Us"
+  oro_hecate_protecting_us:0 "Hecate Protects Us"
+  oro_lunar_sisters:0 "Lunar Sisters"
+  oro_profligates:0 "Profligates"
+  oro_boost_clarity:0 "\n\n£oro_hecate_texticon     §YHecate§!:\n              §PState of Mind§! moves [?oro_update_state_of_mind_t|%+] towards $ORO_clear_mind$.\n\n"
+  oro_boost_wrath:0 "\n\n£oro_hecate_texticon     §YHecate§!:\n              §PState of Mind§! moves [?oro_update_state_of_mind_t|%+] towards $ORO_vengeful_mind$.\n\n"
+  oro_request_deadhorse_point_tt:0 "§gWe commandeer Dead Hose Point from the states current owner, reimbursing them with a hefty payment of caps.§!"
+  oro_our_future_3_tt:0 "\nWe offer the leader of the §YMidnight Union§! a formal petition to have the followers of Hecate join the Union.\n§gIf they accept:§!\nEvery §YDaughters of Hecate§! Member:\n   Joins the §YMidnight Union§!."
+  oro_found_book_oro_metternich_notes:0 "Has the book $oro_metternich_notes$."
+  oro_found_book_oro_dianas_journal:0 "Has the book $oro_dianas_journal$."
+  oro_found_book_oro_missionary_notes:0 "Has the book $oro_missionary_notes$."
+  oro_future_lose_mind_of_hecate:0 "\n§gThe State of Mind of Hecate settles, as Hecate has found her purpose.§!"
+  oro_future_1_tt:0 "§PHecate is the Goddess of the Dark Moon. To insist otherwise is but heresy. She sets out to prove this truth to the world.§!"
+  #oro_future_2_tt:0 "Scrambling this for 5.1"
+  oro_future_3_tt:0 "§PHecate knows, in her heart, that her days on earth are fleeting. She vows to safeguard Ouroboros against the fate that once befell the Twisted Hairs, ensuring her peoples future.§!"
+  #oro_our_future_2_decision_tt:0 "Scrambling this for 5.1 release"
+  10_percent_core_cost_reduction_tt:0 "Gain a permanent §G10%§! reduction in coring costs.\n"
+  #oro_robots_if_allied_to_rob:0 "\nIf we are allied to §Y[ROB.GetNameWithFlag]§!:"
+  #oro_robots_if_allied_to_chc:0 "\nIf we are allied to §Y[CHC.GetNameWithFlag]§!:"
+  oro_ttm_4_tt:0 "§PThe Daughters of Hecate treat Diana as an equivelant goddess to Hecate.§!"
+  nf_oro_ttm.5_fire_tt:0 "§Y[ORO.GetNameWithFlag]§! and §Y[TTM.GetNameWithFlag]§!:\nGets event §Y'$nf_oro_ttm.5.t$'§!."
+	nf_oro_utah_tribals.8.a.tt:0 "Over time, §YOuroboros§! has converted enough of our people to follow the §PDark Mother§! that §Y[ROOT.GetLeader]§! no longer has sway over them, effectively making us a §Rpuppet§! of §YOuroboros§!.\n§gWe could have prevented this by investing into counter-espionage through an intelligence agency.§!"
+  oro_forcefully_puppeted_us:0 "Forcefully Puppeted Us"
+  oro_accepted_petition_opinion:0 "Has Accepted Hecate's Petition"
+  oro_request_deadhorse_point_opinion:0 "Commandeering Dead Horse Point"
+  oro_mischief:0 "Causing Mischief"
+  operation_spread_belief_in_the_dark_mother:0 "Spread belief in the Dark Mother"
+  oro_invite_neighbors_tt:0 "§gBy establishing the Dark Moon Pact, we ally with our rivals to help defend against the Legion. However, failing to make them our puppets through the \"$operation_spread_belief_in_the_dark_mother$\" espionage operation by the time we conquer the Legion could lead to dire consequences if those tribes were to wander the Arizona countryside as conquerors.\nBring them to heel!§!"
+  oro_unifying_the_wayward_tribes_helper:0 "§Y[UIN.GetName]§!, §Y[CRZ.GetName]§! or §Y[DEA.GetName]§!:\n      $oro_unifying_the_wayward_tribes_tt$"
+  oro_invite_neighbors_helper:0 "§Y[UIN.GetName]§!, §Y[CRZ.GetName]§! and §Y[DEA.GetName]§!:\n   $oro_accepted_petition$\n   $at_peace_with_daughters_of_hecate_tt$"
+  oro_unifying_the_wayward_tribes_explainer_tt:0 "§MIf we complete $oro_reaching_out$. We cannot take this unless we can no longer pursue alliances with [UIN.GetName], [CRZ.GetName] or [DEA.GetName]§!"
+  oro_rejected_petition:0 "Rejected Hecate's Petition"
+  oro_unifying_the_wayward_tribes_tt:0 "§P$oro_rejected_petition$§!, is a §Ysubject§! to another nation, is in a §Yfaction§! with another nation, or no longer exists"
+  oro_accepted_petition:0 "§PHas Accepted Hecate's Petition§!"
+	oro_clarity_determines_event:0 "Hecate's §PState of Mind§! will influence the outcome of this event."
+	oro_two_gods_two_roles:0 "$nf_oro_ttm.1.a$"
+	oro_two_sides_of_diana:0 "$nf_oro_ttm.1.b$"
+	oro_one_god:0 "$nf_oro_ttm.1.c$"
+  ORO_religion_eff_tt:0 "Every §Y$oro_the_teachings_of_hecate$§! focus will cost us §Y25§! §YPolitical Power§!, but increase our §MClarity§! slightly."
+  ORO_is_in_faction_with_sie_tt:0 "Is in Faction with §Y[SIE.GetNameWithFlag]§!. §MThe Midnight Union will never listen to us without their help!§!"
+  gehenna_molech_tech:0 "Colorado Mutant Support"
+  gehenna_molech_tech_reminder_text:0 "§gThis will unlock a powerful new support battalion we can add to our frontline units. To add this support, open your division designer and add them to your best templates.§!"
+  oro_gehenna_siege_beasts_tt:0 "§gOur 'Hound' warriors gain experience fighting the mutant Gehenna in the pits of Burham Springs, small commanders training a few of them to help on the offensive!§!\n"
+  oro_molech_shock_troops_tt:0 "§gOur 'Hound' warriors gain experience fighting the mutant Molechs in the pits of Burham Springs, small commanders training a few of them to serve as loyal beasts and shock troops!§!\n"
+  oro_best_brightest:0 "§GThis will merge your previous national ideas into one stronger idea!§!"
+  oro_mastery_of_war_trait:0 "Master of War"
+  oro_goddess_of_the_dark_moon:0 "Goddess of the Dark Moon"
+  oro_goddess_of_the_dark_moon_2:0 "Goddess of the Dark Moon"
+  oro_the_dark_mother_1:0 "The Dark Mother"
+  oro_the_dark_mother_2:0 "$oro_the_dark_mother_1$"
+  oro_the_dark_mother_3:0 "$oro_the_dark_mother_1$"
+  oro_the_dark_mother_4:0 "$oro_the_dark_mother_1$"
+  oro_the_dark_mother_5a:0 "$oro_the_dark_mother_1$"
+  oro_the_dark_mother_5b:0 "$oro_the_dark_mother_1$"
+  oro_architect_of_legionfall:0 "Architect of Legionfall"
+  oro_secrets_of_the_nursery:0 "Secrets of the Nursery"
+  oro_secrets_of_the_nursery_2:0 "$oro_secrets_of_the_nursery$"
+  oro_secrets_of_the_nursery_3:0 "$oro_secrets_of_the_nursery$"
+  oro_secrets_of_the_nursery_4:0 "$oro_secrets_of_the_nursery$"
+  oro_secrets_of_the_nursery_5:0 "$oro_secrets_of_the_nursery$"
+  oro_gene_warriors_idea:0 "\"The Perfect Tribe\""
+  oro_gene_warriors_idea_desc:0 "In the past, in the hidden chambers of the Dark Pyramid, Hecate is said to have conducted truly heinous experiments on tribals in the pursuit of creating a \"§RPerfect Tribe§!\" that could never be struck down by the Legion. These pursuits, of which involved kidnapping children from the wasteland and cruel experimentation, have led to \"great strides\" for Ouroboros. §g(In truth, it was just a massive waste of time for Hecate. A dream that cost her years of her life to no real benefit.)§!"
+  oro_gene_warriors_idea_modifier_tooltip:0 "Division Attack: §GImproved?§!"
+
+  oro_declares_war:0 "§YOuroboros§! declares war on them."
+  is_western_legion_civil_war_country:0 "Is §YCaesar's Legion§!, or a revolter from §YCaesar's Legion§!."
+  ces_civil_war:0 "§YInfighting§! has started within the Legion's ranks."

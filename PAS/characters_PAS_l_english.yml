@@ -1,0 +1,437 @@
+﻿l_english:
+	PAS_CHIEF_WARDEN_SYLVIA_NAME:0 "Chief Warden Sylvia"
+	PAS_CHIEF_WARDEN_SYLVIA_DESC:0 "Born to Warden parents, Sylvia has spent her entire life fighting slavers and cannibals in a desperate bid to keep the few settlers in Portland safe. Sylvia became 'Chief' Warden following the loss of Downtown Seattle to the Immortal's advancing forces: a bloody battle that cost the Wardens many of their best soldiers. After the downfall of Seattle, she and Julius got into a heated argument over what the Wardens were meant to do-- the last of a series of similar conversations-- and so she and her Wardens loyal to her eloped north into the Rockies. They have found company in good people in the mountains, who needed protection from numerous dangerous foes, even from other Wardens, most of which who have now turned into mercenary work in Spokane. Despite the general feelings about the Wardens of the White, Sylvia and her 'Foxtrot Uniform' continue to lend a helping hand both in and out of the Rocky Mountains.\n\nOne day, maybe, she will descend from the mountains and interrogate Julius Brandt about what he was thinking."
+
+	PAS_HARLOWE_NAME:0 "William Harlowe"
+	PAS_HARLOWE_DESC:0 "William Harlowe was once a pirate from Port Maw, then a Warden, then husband to the woman in charge of the Foxtrot Uniform and an unenthused supporter of the Wardens of the White's doctrines. "
+
+	PAS_lara_name:0 "Colonel Lara"
+	PAS_lara_desc:0 ""
+
+	#opinion modifiers
+
+	pas_foxtrot_uniform:0 "Foxtrot Uniform"
+	pas_wardens_alive:0 "Wardens"
+	pas_niitsitapi_friends:0 "Oldgun's Deeds"
+	pas_yellowstone_friends:0 "Friends in the Mountains"
+
+	#ideas & traits
+
+	pas_trail_mix:0 "Good Old Fashioned Trail Mix"
+	pas_trail_mix_2:0 "Good Old Fashioned Trail Mix"
+	pas_trail_mix_3:0 "Good Old Fashioned Trail Mix"
+	pas_we_know_these_crags:0 "Mountaineer Pathfinding"
+	pas_we_know_these_crags_2:0 "Mountaineer Pathfinding"
+	pas_this_is_our_new_home:0 "Defend Your Home, Foxtrot!"
+	pas_fear_immortal:0 "The Immortal was Terrifying"
+	pas_hate_immortal:0 "The Immortal was Damned"
+	pas_toll_roads:0 "Warden Racketeering"
+	pas_sylvias_conviction:0 "Sylvia's Conviction"
+	pas_yellowstone_trade:0 "Yellowstone-Foxtrot Trade Network"
+	pas_yellowstone_trade_desc:0 "The Wardens of Foxtrot Uniform and the people of [ROS.GetNameWithFlag] enjoy a healthy trade relationship."
+    PAS_food_shortage:0 "Dwindling Food Supplies"
+    pas_warden_raiders:0 "Our Raider Problem"
+    pas_ice_picks:0 "Picked At By The Ice Picks"
+    pas_sylix_volunteers:0 "Cascadian Peacekeepers"
+    PAS_building_slots:0 "Mountainside Masonry"
+    PAS_mot_buff:0 "Wardens Riding Shotgun"
+    PAS_spec_ops_buff:0 "Snowblind Scopes"
+    pas_food_crisis_william:0 "Caravan Tithes"
+    pas_food_crisis_sylvia:0 "Diplomatic Bargaining"
+    pas_warden_denied:0 "We Don't Need Murderers"
+    pas_warden_accepted:0 "Our Warden Brothers"
+    pas_ice_picks_accepted:0 "Picking Together"
+    pas_ice_picks_denied:0 "Kicking The Picks"
+
+	PAS_legacy_of_foxtrot:0 "Legacy of the Foxtrot Uniform"
+
+    #decisions
+    cascadian_rumble_category:0 "Eastern Cascadia Rumble"
+    cascadian_rumble_category_desc:0 ""
+    kam_fights_syn_mission:0 "The Untenable Situation In Nintle Moos Chin"
+    kam_fights_syn_mission_desc:0 "The Kamlo Survivalists and the Syilx Nation have had disagreements for decades now. The borders up north are loosely defined, and the outcasts out of Kamlo have been setting claims to land and resources from the settlements around the town of Nintle Moos Chin. One of these days, the Syilx are gonna get fed up with it, and the Survivalists aren't gonna like the push back...."
+
+    pas_cascadian_authority_decision_cat:0 "Restoring The Warden Name"
+    pas_washington_reconstruction_authority:0 "Found The Washington Reconstruction Authority"
+    pas_washington_controlling_water:0 "Total Control Of Water Sources"
+    pas_washington_contact_victoria:0 "Reaching Out To The Island Monarchy"
+    pas_washington_recruit_new_blood:0 "Inducting Flesh Blood"
+
+	#flags/tooltips
+
+	PAS_helped_ice_picks:0 "We chose to §Ghelp§! the §YIce Picks§!!"
+	PAS_tooltip_flag:0 "§gWe will §Gabandon the flag§! of the §YFoxtrot Uniform§!, integrating with the Mountaineers and settlers. The Wardens imagery will be left in our past.§!"
+	PAS_yellowstone_tt:0 "§gWe will send a detachment to reach back out to §Y[ROS.GetNameWithFlag]§! and §Grekindle old friendships§!."
+	PAS_yellowstone_clear:0 "The situation in Yellowstone has resolved!"
+
+	PAS_ice_pick_decision_tt:0 "If we §GAccepted The Ice Picks§! earlier:\n   -We will unlock a set of §Ydecisions§! to §Mbuy unique and rare weapons§!, §Gboost our own production§!, or §yhire new units§!!\n\n   -§YGunther Morris§! of the Ice Picks becomes available as an §Yeconomic advisor§! and as a §Gunit leader§!!\n\n§YOtherwise§!, gain §G100§! Political Power and §G5%§! Stability."
+	PAS_helped_ice_picks_and_recruited:0 "Accepted And Recruited The Ice Picks"
+
+	PAS_spawn_enforcers_tt:0 "Spawns 3 Divisions of §MEnforcers§! in our capital!"
+	PAS_spawn_spec_ops_tt:0 "Spawns 3 Divisions of §OSpec Ops§! in our capital!"
+    PAS_end_of_wardens_tt:0 "Going forward we will §Rdrop§! the warden imagery and start fresh with a new flag."
+
+	#events
+
+	nf_pas.1.t:0 "The Wardens Escape"
+	nf_pas.1.d:0 "§OFROM THE DESK OF SYLVIA HARLOWE.§! \n\nI knew what I was in for when I was officially put on duty. People don't like the Wardens— they never have, not even when they were busy fighting Miscounts in Seattle and cleaning the streets. Guess they just never had a reason to— it's not like we ever dressed to impress. \n\nIt was always about control, even when it didn't matter. Julius didn't give two shits about if people were starving or even if they had a place to sleep... Only if they sat down and stayed quiet. \n\nI tried to talk sense into him for years. I really did. I don't think he'll ever see things the way we do— he'll never care about people. Just about feeling important. \n\nThe more and more outspoken I was, the more he and the other old guardsmen scoffed at me. He and his loyals ended up calling me and the ones who agreed with me 'Foxtrot Uniform,' because we wouldn't "stop bitching" all the time. When we lost Seattle and split from Julius' Wardens, we took the name and whatever we could carry."
+	nf_pas.1.a:0 "We brought guns with us."
+	nf_pas.1.b:0 "We brought as much materials as we could."
+	nf_pas.1.c:0 "We saved as many people as possible."
+
+	nf_pas.2.t:0 "What Mattered Was People... Right?"
+	nf_pas.2.d:0 "§OFROM THE DESK OF SYLVIA HARLOWE.§! \n\nThat was the general gist of the arguments, over and over again. The Wardens just weren't interested in playing nice with much of anybody, even their own. Guess the pay off for two hundred years of not giving a shit was losing so bad we all scattered into the wind. \n\nStill, it feels like the more people we help, the more we drag ourselves through the mud. The Mountaineers here are kind, and willing to share whatever they have, but are we in the right to take it? We help out as best as we can, but at the end of the day, what does it say about us if we can't survive without them? I love William, but he's saying we need to put our boot down and make sure we're covered instead of just helping everyone we see. I only eat every other day nowadays-- it'd be nice to get a meal a day, at least."
+	nf_pas.2.a:0 "§8Sylvia knew she was making the right call.§!"
+	nf_pas.2.b:0 "§3Well, maybe he had a point...§!"
+
+	nf_pas.3.t:0 "Black & White"
+	nf_pas.3.d:0 "§OFROM THE DESK OF SYLVIA HARLOWE.§! \n\nWilliam's got a plan. I'm not a fan of it, but I'd be lying if I didn't think it wouldn't be helpful. He's wanting to take all the various passages around the Rockies and block them off, turning them into toll roads for anyone crossing-- we could make a lot of caps this way, but it'd go against everything I stand for. I don't want to just slip into being the Wardens all over again. I just need to think about it..."
+	nf_pas.3.a:0 "§3Maybe we could restrict access...§!"
+	nf_pas.3.b:0 "§8No. We will protect the passes.§!"
+
+	nf_pas.4.t:0 "More Survivors"
+	nf_pas.4.d:0 "§BWILLIAM HARLOWE'S REPORT.§! \n\nSylvie, got some news for you: \n\nWe've been getting an influx of reports about raids out by Saskatchewan Crossing-- folks in the old resort are bugging out and blaming us over it, saying the ones doing it had 'blue eyes and gear black as death.' Sounds familiar, doesn't it? \n\nWell, it's an easy guess that these guys are just more survivors from Seattle, probably scared as shit and just trying to survive. I say we make a move and pull them into the fold."
+	nf_pas.4.a:0 "§8William, they're killing people.§!"
+	nf_pas.4.b:0 "§3We could use more hands...§!"
+
+	nf_pas.5.t:0 "Friends in Montana"
+	nf_pas.5.d:0 "To: Chief Old Gun\n\nHello Chief Old Gun,\n\nI hope this letter finds you and your loved ones well. This is Chief Warden Sylvia writing to you from the north passage. Making a living off of the land here has been an arduous process, but over time we have turned a ragtag group of survivors into a growing and respectable community, and we have begun communicating with other groups residing in the mountains around us. It is in that spirit of exploring the world around us that I am writing to you now in the hopes of formally opening relations and trade between our two peoples.\n\nGiven our newfound security in this region of the Rockies, we now ensure safe trade and transit between the Cascades and settlements south of us. As we are now able to expand upon our position in the mountains, our people and I wanted to invite you to join us in securing the safety of our passage. In return, the Niitsitapi will gain trade access to the Cascade’s resources and water that will help alleviate material concerns with your people, as well as gain our connections to other settlements who, like us, look to cooperate with others on many matters pertaining to the wellbeing of ourselves and our loved ones.\n\nThere have been many nights when I think about the kindness and charity that you had shown after our people fled Spokane, and just as many days thinking about how I can best repay that kindness to you, and to others who travel through our lands. If it aids you in making a decision regarding our invitation, please do not see this as a formal request from one leader to another. I am simply someone who has always tried to do right by those around her and will continue to do so. To that end, this letter is simply me thanking a friend of a like nature, as well as an opportunity for both of us to effectively care for those under our wings, like you had done for me.\n\nFeel free to contact us at your discretion. Simply send a courier with your flag to the mountain passage to your northwest and we will be sure to receive him.\n\nSincerely,\nChief Warden Sylvia"
+	nf_pas.5.a:0 "§8Friends are hard to come by.§!"
+
+	nf_pas.6.t:0 "The Old Familiar Sting"
+	nf_pas.6.d:0 "The radio crackled something fierce in front of Sylvia. As she listened, she dropped her pen, pushing her diary away as she put her ear closer to the speaker. Sure enough, it was him... Julius. \n\nThe Wardens were back, and not far at all. Somehow, he had survived and now they were 'supposedly' ready to get back to work. Sylvia's heart sank the more she pondered the reality of the situation: another carnage was coming, and this time the dead might just stay dead."
+	nf_pas.6.a:0 "§8This isn't good...§!"
+
+	nf_pas.7.t:0 "So You Want to Win"
+	nf_pas.7.d:0 "Conflict has finally broken out in British Columbia! Kamlo had been encroaching on the Syilx lands for years, and only now have the natives been brave enough to fight back against their damned oppressors. \n\nSylvia was resolute. "We need to help them. Kamlo needs to be put in the ground sooner rather than later," she said, glancing to her husband. \n\nWilliam wasn't as convinced. "What, you'd want to help those fuckers who let those bastards in Koover hang our guys from trees? You've gotta be kidding me-- we'd be better off putting them down and weakening the Winterborn!" \n\nSylvia was shocked, disgusted even, but she did have an inkling of doubt. Would she be no different after the fact? Would the Syilx turn on her in the name of the Winterborn?..."
+	nf_pas.7.a:0 "The Syilx were friends of the Winterborn."
+	nf_pas.7.b:0 "The Survivalists are raiders and murderers."
+
+	nf_pas.8.t:0 "Immortal Stories"
+	nf_pas.8.d:0 "Everyone's got one that they've heard second-hand or one they experienced themselves. He moved like a monster and spoke little, preferring to let his plasma caster liquidize Warden foes from existence. His armor was jet black, his breath was ragged and croaked, and he had a stare that could make anyone wet their pants if they were caught by him or his men. \n\nThis wasn't the 'Brotherhood' anybody heard about from Californians. This was something else, like a nightmare sent specifically to destroy everything the Wardens of the White had built over two centuries. Now, they were glorified mercenaries, and it was all his fault. \n\nIn Foxtrot Uniform, the general opinion of the Immortal had been set:"
+	nf_pas.8.a:0 "People feared him, and all he stood for."
+	nf_pas.8.b:0 "People hated him, and let their rage guide their trigger-finger."
+
+	nf_pas.9.t:0 "Much Ado About Ice Picks"
+	nf_pas.9.d:0 "The Ice Picks are a band of raiders originating from Kamlo, sorts half-under Kenneth and his gang of Holdouts. Neither us nor the Mountaineers are sure what they're up to, but it's likely no good-- given that, well, they seem to be hanging around Farquiet towards the border with the Syilx. We need to push them out before things blow back up in our face, or worse."
+	nf_pas.9.a:0 "Maybe we can bring them into the fold, put them to work instead"
+	nf_pas.9.b:0 "We need to push them out immediately, raiders are raiders"
+	#Silverfisv9 was here
+
+	nf_pas.10.t:0 "Refugees from Alberta"
+	nf_pas.10.d:0 "§BWILLIAM HARLOWE'S REPORT.§! \n\nLooks like more and more people are coming into the mountains fleeing shit going on around Calgary. You know, again. \n\nThe good news is that some of them are ready to fight, but it's gonna be rough to situate the ones who aren't. Nothing we can't handle, though."
+	nf_pas.10.a:0 "Good to know."
+
+	nf_pas.11.t:0 "They Came From Greener Pastures"
+	nf_pas.11.d:0 "§OFROM THE DESK OF SYLVIA HARLOWE.§! \n\nIn the mountains long ago, we ran into a group of travelers unlike any others we had seen. They were organized-- calculated, even-- but they weren't hostile. For once, we had met kinder people. Caring sorts. \n\nIt stuck with me like nothing else. For years, I kept thinking back to those folks, dressed up like Kamlo but without any of the 'bad egg' in them. Ran into them a couple more times runnings ops over towards where the 'Purgers are now, and learned they came from Yellowstone. \n\nNow that we're down on our luck, I'm thinking we try and reconnect. Friends are one of the best things anybody can have."
+	nf_pas.11.a:0 "A detachment was sent south..."
+
+	nf_pas.12.t:0 "Familiar Faces"
+	nf_pas.12.d:0 "From the north today came a small band of familiar-looking soldiers: Wardens of the White, though they looked far worse for wear than any of us remember. They shared stories of an 'Immortal' who ravaged Washington and of the downfall of their nation, and came with express sympathies and wishes to reconnect with us. Who are we to refuse good trade in the wastes?"
+	nf_pas.12.a:0 "Not too shabby."
+
+	nf_pas.13.t:0 "War in Yellowstone!"
+	nf_pas.13.d:0 "Word from one of our traders came in today-- supposedly, the people of MacArthur have begun an all-out military strike on the Park. Without help, they'll most likely be overrun by the Enclave's superior technology and strategems. With our help, we may be able to tilt the odds in their favor-- we must do something!"
+	nf_pas.13.a:0 "We will send our best men."
+
+	nf_pas.14.t:0 "Some Say She Could Do Better"
+	nf_pas.14.d:0 "§OFROM THE DESK OF SYLVIA HARLOWE.§! \n\nPeople always wonder how me and William ended up together. It's the strangest thing, haha-- like, I guess I can't pin it fully myself. I love him with all my heart even if we disagree on so much. I guess the best way I can describe it is that no matter what happens neither of us want to sleep alone? We enjoy each others company, and that's what matters. \n\nHe was a Port Maw raider who wanted a better life. I was a Warden born into all of this. I helped him off his feet and gave him a spot in our ranks, and it blossomed from there. \n\nLove's a really hard thing to explain, I guess. I've always hated when people tell me "Sylvie, you could do so much better," but... I don't want to? I'm happy with how things are. He respects me and listens when I need him to."
+	nf_pas.14.a:0 "How sweet."
+
+	nf_pas.15.t:0 "Not Without My Gun"
+	nf_pas.15.d:0 "The Foxtrot Uniformers to the north have heard of the Enclaves assault, and have radioed ahead to ask us what would best help our cause-- unfortunately, they can't give us everything, so we'll need to choose wisely!"
+	nf_pas.15.a:0 "Men to match these mountains!"
+	nf_pas.15.b:0 "Enough firepower to blow these bastards away!"
+	nf_pas.15.c:0 "Kits that'll help control the situation!"
+
+    nf_pas.16.t:0 "Casting Lines… And Radio Waves"
+    nf_pas.16.d:0 "“Sierra Golf, this is Baseline, over.” No response. Sighing, he tries again. “Sierra Gold, this is Baseline, come in, over.”\n\nAs the ham radio operator released the speak button on his microphone, the ham radio only gives back static. He looks behind him to William with a sheepish look on his face. “No dice so far on this frequency either sir.”\n\nWilliam sighs and nods, sharing in the operator’s frustration. Pulling out his pocket journal, he scratches off another callsign and frequency on a list of them. Maybe their ham radios were down, or the receiving parties were on the move? Regardless, he looks at the next callsign and frequency. He’d been given a task, and he’d carry it out in the hopes that it bore fruit. He sets down the journal next to the ham radio and points at the next frequency. “Try these next few ones, and raise them on the horn every few minutes. Even one returned connection is a win.” He places his hand on the operator’s shoulder and nods. “Keep at it son. We’ll find these bastards just yet.” The operator nods and begins adjusting the frequency."
+    nf_pas.16.a:0 "Cont."
+
+    nf_pas.161.t:0 "Casting Lines… And Radio Waves, Cont."
+    nf_pas.161.d:0 "As he steps outside into the cold world of the Rocky mountains, he takes a deep breath and closes his eyes. Sylvia would chew him out to the end of time if she knew that he was reaching out to veteran Warden remnants after what remained of their forces pulled out of Seattle and scattered east. By re-establishing contact, he hoped, they could potentially bolster their numbers and ultimately strengthen their position in the mountains.\n\nOn one hand, he was finally glad that he had an unimpeded chance to do things his way. His time off the Oregonian coast and as a Warden showed him that war never changes and those who wage war better beat out over those who don’t. For all of their sakes, they needed to be the former. On the other hand, finding and enlisting the aid of old comrades in this manner was a crapshoot. Working ham radios were notoriously rare in the wasteland, and there was no way of knowing whether or not these handfuls of Warden troops were still alive out there.\n\nWilliam sighs. He’d rather be training new recruits right now, or even gang pressing people into joining up. Getting other people on board with him was important but was all this trouble really worth it?\n\n“Sir! Sir!” He perks up as the operator’s voice rang from within the building, full of excitement. “We just got a callback! Sierra Golf 5 in Safehaven, they picked up the horn!”\n\n‘Well, I’ll be damned,’ he thought, as he rushes back into the building."
+    nf_pas.161.a:0 "Even one returned connection is a win."
+
+    nf_pas.17.t:0 "Casting Lines… And Sending Letters"
+    nf_pas.17.d:0 "Flicking his safety off and shouldering his rifle in one smooth motion, William aims at the hooded figure that suddenly appeared before him. “Identify yourself,” he snarls, his finger slowly applying pressure on the trigger.\n\nThe figure turns around, startled, and puts up their hands. “S-Sir! It’s me, Dobson! Private Dobson, the courier!” The figure pulls his hood back to reveal a young man, his fearful eyes darting between William’s imposing figure, as well as the muzzle pointed squarely at him.\n\nWilliam sighs and lowers his rifle, thumbing his safety back on and thanking God that it was just some greenhorn private. “You need to sign and countersign, private. I was about to shoot you.”\n\nNow that domestic matters had become more manageable, it was time to begin looking outwards. Although he and Sylvia had managed to lead their people through many a difficult time, it became clear to him that their newfound stability was threatened, both by old foes to the west, and emerging threats from all around them. In the interest of their peace, William endeavored to take defense-related matters into his own hands, and that started with reaching out to Julius Brandt and the many Warden troops-made-mercs in the Spokane area. He would’ve preferred to do it himself, but with his leadership duties at home, William resorted to recruiting a young soldier who was intimately familiar with traveling around Spokane.\n\n“I-I’m sorry sir, I remembered you said you wanted to meet here and not in the main camp, but that’s about it.”"
+    nf_pas.17.a:0 "Cont."
+
+    nf_pas.171.t:0 "Casting Lines… And Sending Letters, Cont."
+    nf_pas.171.d:0 "“Forget it. What do you have for me?”\n\nThe private reaches into his sack, pulling out a folded piece of paper. “I managed to find Commander Julius and pass along your message. Here’s his response.”\n\nWilliam takes the paper and opens it. As he reads, a smile emerges on his lips. That SOB Brandt was still alive and kicking after all. Better yet, he was receptive to William’s plans and proposed an in-person meeting north of Spokane to talk things over. Brandt stated he’d bring his best men along, some of whom William remember from his days on the sea.\n\nHe folds the paper and stuffs it into his pocket. Very few things gave him joy these days, but the thought of linking up with his old comrades did brighten his day. “Commander Brandt wants to meet me in a few days time. Good job private. You’ve done a great job.”\n\nDobson snapped to almost immediate salute. “Thank you sir. What’s my next mission?”\n\n“Coming with me. You might know the lay of the land, but there are still some things you can learn from us old guard joes.”\n\n“Sir?”\n\nWilliam smiled."
+    nf_pas.171.a:0 "“We’ll teach you signing and countersigning, for one.”"
+
+    nf_pas.18.t:0 "TODO - 18"
+    nf_pas.18.d:0 "TODO - Williams solution to the food crisis- perhaps forcing people to work, or hiring raiders or wardens to work"
+    nf_pas.18.a:0 "TODO - 18"
+
+    nf_pas.19.t:0 "TODO - 19"
+    nf_pas.19.d:0 "TODO - Sylvias Solution to the food crisis, perhaps hiring the people of the pass to work"
+    nf_pas.19.a:0 "TODO - 19"
+
+    nf_pas.20.t:0 "It’s Always Something"
+    nf_pas.20.d:0 "Within the snow-covered mountains east of [PAS.capital.GetName], a small fireplace illuminated the inside of a cabin. A fireteam of men inside the cabin took firewatch, scanning the dark environment outside for any unwelcome guests, while the remainder of their squad was either sleeping or eating at a table located in the middle of the room. Although they only really paid attention to the noises of cans being cleaned of the remainder of their food or utensils scraping plates, the relatively serene atmosphere that these men found themselves in belied the situation that was unfolding before them.\n\n“Can’t we just fucking go?! We’re gonna freeze to death here!”\n\n“No! No one’s ready to leave! Where would we even go?!”\n\nSylvia sighed and rubbed her eyes, hoping to rub the sleep out of her eyes and the frustration off her face. “We can’t force all of them to just... up and move. Some of them have settled down, and you know how hard they’re all trying to make this work for them, for all of us.” She put her finger down on the table, a habit picked up from years of debating her superiors, her colleagues, her subordinates, and now William, co-leader of their people and, to her chagrin, her husband.\n\n“There are other settlements nearby and they’ve been able to survive here for decades. We can work with them and figure out how to feed-”\n\nWilliam scoffed. “And put ourselves at the mercy of others? Are you seriously suggesting that we give our community and livelihoods, including those that have settled down, to the first person that says they’ll help? That’s a surefire way of getting all of us killed, and you know it.” He leaned forward, meeting Sylvia eye-to-eye."
+    nf_pas.20.a:0 "They Continue"
+
+    nf_pas.21.t:0 "It’s Always Something, Cont."
+    nf_pas.21.d:0 "“Look, how about this. We’re literally living on one of the most important northwestern trade routes. We can buy ourselves a bit of time by ‘taxing’ supplies from the caravans using the pass, and that should be enough for us to survive and figure out future plans. It worked for my crew back in Oregon, and know it’ll work here for us.”\n\nSylvia balked. “You want us to rob people? Do you have any idea how much damage that will do to us? Caravans will stop going through the pass, and those that get hit will gun after you, and everyone else that we are trying to protect here! The last thing we need now is more trouble!”\n\n“Better we control our own supply of goods as opposed to relying on someone else. Besides, my guys know how to handle themselves, and they can teach the others how to work like us.” William signaled to the men around the room, then unsheathed his knife. \n\n“The choice here is simple Sylvie. We can keep groveling to others and living off the good will of others, or…” He slammed his knife into the table, slicing through the tension in the room and laying his resolve for her and the rest of them to see. “We can take matters into our own hands and get the food we need, on our terms.”\n\nSylvia stared at the knife, scowling. As much as she hated to admit it, William had a point. Life in this world abided by the will of the strong. Seattle had shown her that such a lack of strength could ruin communities and people, either quickly like back in Washington, or slowly like it was doing so now. She had to make a choice, lest the path of decay run its course on her and the people she held dear.\n\nThe uncomfortable silence for the rest of that night felt like it would last an eternity, but by morning the decision was clear:"
+    nf_pas.21.a:0 "The Passkeepers would begin demanding tithes from caravans traveling through the area."
+    nf_pas.21.b:0 "The Passkeepers would send envoys to their eastern neighbors."
+
+    nf_pas.22.t:0 "The Greater Good Pt. 1"
+    nf_pas.22.d:0 "The scratch of a pen leaves a signature on another sheet of paper, and with a motion that became all too familiar to her now, Sylvia adds it to the ever growing pile of documented requests that required her approval. Although life in the pass had exceeded what many of them had initially expected, the need for a larger administration to help facilitate trade and communication unfortunately accompanied that boom. Her position as Chief Warden made her the primary point of contact for many requests from the pass’ settlers as well as her own burgeoning administration, and soon enough she found herself trading her outdoor patrols for more time in her office.\n\nSylvia sighs. In her absence, William had effectively taken over her role regarding internal security and defense matters. Although he insisted that there was nothing noteworthy about his work there, she had heard that he had built up an impressive force for a group of their size. The next time she saw him, though, she’d have to ask about all the ammo requisitions he was putting in. It was perhaps the most common item that he had been requesting, perhaps outside of infantry equipment and other assorted military-spec goods.\n\nA quick knock at the door, and Sylvia’s eyes dart up from her paperwork. “Come in.” As it slowly opens, Will walks into the room, his demeanor unreadable.\n\nSylvia perks up, finally having the opportunity to ask. “Finally, there you are. I’ve been meaning to ask you about all these ammo reqs you’ve been putting in.” William stands across from her, stonefaced. In all the years that they’ve known each other, she can’t recall him being this unresponsive. Something in the back of her mind screams out that something is wrong, but she wants to at least try and get his attention again.\n\nShe stands up. “Hello? Earth to Will? I’m asking you about your requisitions.” As she finishes her sentence, Sylvia notices four armed men file into the room and line up behind William. She recognizes them as men from back during his time in Seattle. Men who he joined the Wardens with from his pirating days. She feels her stomach drop, and she begins sweating.\n\n“Will? What is this?”\n\nThe five of them continue to stare her down for what feels like an eternity. Finally, William opens his mouth, small traces of conflict beginning to work its way onto his face and betraying his stone-cold facade."
+    nf_pas.22.a:0 "§3“We’re taking over the pass, and we’re putting you in exile. Please don’t make this hard.”§!"
+
+    nf_pas.24.t:0 "To: First Ecologist Sea-Bastion"
+    nf_pas.24.d:0 "To: First Ecologist Sea-Bastion\n\nAlthough I hope that you forgive the sudden and unexpected nature of this letter, I do also hope that it has not arrived too late for you. My name is Chief Warden Sylvia, and I write on behalf of a growing collection of communities northwest of Yellowstone that currently resides in the Cascades. We help facilitate trade and communications between the various settlements living in the mountains, and it is in light of this fact that I write to you with a proposal.\n\nI am hoping to establish relations with your people and settlements to collaborate on shared interests. Trading and communicating with the nations that use our mountain pass will undoubtedly bolster your local economies and knowledge of the outside world. However, more pertinent to you may be the prospect of alliances. Although our understanding of your part of the world is limited, I understand that Yellowstone is surrounded by unpredictable and potentially dangerous parties, including a specter from the Old World.\n\nMy people and I are survivors of the wrath of such parties, and part of why we are reaching out is to not only start a beautiful partnership, but to build a bulwark against these malicious actors. It would be a great shame if this world’s last natural wonders were snuffed out by the follies of war. Together, we can help preserve this virgin land for future generations, while also protecting them from those who would wish harm upon them.\n\nGiven our lack of a shared border, please feel free to contact us at any time via ham radio. We can be reached at the enclosed frequency every other night at 3 AM. I look forward to hearing from you, and perhaps one day we can both show each other the beauty of our respective lands. After all, I’ve heard the Park is quite a sight to behold.\n\nSincerely,\n\nChief Warden Sylvia"
+    nf_pas.24.a:0 "§8Nature cannot fight against mankind’s aggression, but we can.§!"
+
+    nf_pas.25.t:0 "The Greater Good Pt. 3"
+    nf_pas.25.d:0 "Sylvia stands before her husband, her betrayer, stunned. She wants this to be a nightmare so she can wake up and grill William about it, but her feelings and sensations right now are real. She wants him to say that it was all an elaborate prank, but nothing about his demeanor says he’s kidding.\n\nThe reality of the situation finally dawns on her, and the tears begin to freely run down her face. William has usurped everything they have worked together to build, and there is nothing she can do to stop it.\n\nInstinctively, he brings her in for a hug. Uttering profanities through her sobs and weakly beating her fist against his chest, she lets loose a torrent of emotions. He uses the last of his strength to signal to his posse to leave the room, and when they are alone he hugs her tight the emotions that he had been holding back throughout this encounter streaming down his face.\n\nHe holds onto her as if she would disappear if he let go, just as he had done during all those nights fighting in Seattle, when they ran east from Yakima, and when they fled from Spokane. He tightens his embrace, hoping that it can hold together everything he has broken here tonight. Maybe in time, Sylvia will understand.\n\nWilliam closes his eyes tightly, trying to shut out the freely flowing tears."
+    nf_pas.25.a:0 "§3The greater good doesn’t feel like it.§!"
+
+    nf_pas.23.t:0 "The Greater Good Pt. 2"
+    nf_pas.23.d:0 "“You can’t be serious. I have no time for this crap Will, there’s-” Sylvia stammered out.\n\n“There’s nothing else for you to do now. You’re no longer Chief. I am.” William’s words are final and unwavering. He had played out this exact scenario in his mind hundreds of times before, but his usual bravado and fire that he imagined he’d have was nowhere to be found.\n\n“Fuck you, and fuck this sick joke. Guards-!” As if on cue, two figures, her security detail, collapse at the door frame, and Sylvia gasps.\n\n“Don’t worry, we only knocked them out. But this whole building is under our control, and the troops we have stationed around the pass answer directly to me now.” Will walks around Sylvia’s desk, maintaining eye contact the entire time. “All the guns, ammo, personnel, all of it are people that directly answer to me and my staff. You no longer control them.”\n\nHe is now face to face with her, his stoic appearance becoming harder and harder to maintain. He takes a breath to steel himself for the hardest part, and meets Sylvia’s frantic gaze with his own.\n\n“This is what’s going to happen. We’re exiling you to Yellowstone for an indefinite period of time. I’ve made arrangements with old contacts there, and they’ve given me word that they’ll keep you safe. I will make sure nobody harms you.” Each word he speaks cuts through her like butter, and the pain etched on her face only drives home the fact that he is stabbing her in the back.\n\n“This is for the greater good, Sylvie. For the best for all of us.” He wanted to tell his truth with that same finality that he started with, but a slight waver creeps into his voice in the last sentence. Telling the truth was never his forte, and the pain from the two of them is a stark reminder why."
+    nf_pas.23.a:0 "§3Duty above family.§!"
+
+    nf_pas.26.t:0 "Changing Of The Guard"
+    nf_pas.26.d:0 "Keegan taps his foot impatiently. The next caravan he was originally scheduled to escort leaves in 15 minutes, yet he and the other personnel were ordered to pull security to handle a growing crowd. Apparently the Chief Warden was supposed to make an appearance, and with that came the need to ensure a ruly crowd.\n\nHe frowns. Whatever the Chief Warden had to say, it had better be important for him to get his pay docked.\n\n“Yo, Keegan. Look alive.” His buddy nudges him and motions to Sylvia coming onto a small stage, followed closely by William. As they wave to the crowd and smile, Keegan can’t help but notice something off about their mannerisms.\n\n“For many years, I have had the privilege of having you all as the people that I would call family.” A brief pause, followed by a small round of applause. “To me, that family was, and will always be, the Wardens. We fled Seattle as the remnants of the Wardens there, and as we settled down here I always thought of us as Wardens.” Another pause, and Keegan can discern her features softening, while William’s remain as imposing as ever.\n\n“But something amazing happened. As we settled down here and planted roots, we began to create communities not defined by our past, not by the title of Warden, but by the world here and the world around us. I have had the privilege to watch these communities and you all grow, not as a Warden but as a steward. We never expected to survive the first few winters here, but looking at where you all are now, the people in the pass stand ready to take on anything and everything.” Another pause, and more applause. Sylvia purses her lips and closes her eyes, doing everything in her power to hold herself together. She exhales, opens her eyes, and continues.\n\n“It is with this reality that I have come to a very difficult conclusion. In a world and community that has outgrown the Wardens and their past, it is only fitting that there be no more Wardens to hold us back. Therefore, I come before you today to announce the official end of Foxtrot Uniform as an organization, We must leave our old symbols and banners behind, as we must not be beholden by our bloody past. We are something new and must move on from the old”"
+    nf_pas.26.a:0 "§8So we offer more then just security?§!"
+
+	#focus
+
+	PAS_opener_1:0 "From Seattle, Stranded"
+	PAS_opener_1_desc:0 "Pushed out and without an ideal worth a damn, we had to find our own way."
+
+	PAS_opener_2:0 "They Called Her Chief"
+	PAS_opener_2_desc:0 "They called the ones who followed her 'Foxtrot Uniform.' What once was a joke became a signature."
+
+	PAS_opener_3:0 "What Makes a Hero"
+	PAS_opener_3_desc:0 "Ever since she was young, Sylvia wanted to make a difference."
+
+	PAS_weapons_of_a_higher_caliber:0 "Old Morton's Cache"
+	PAS_weapons_of_a_higher_caliber_desc:0 "§OFROM THE DESK OF SYLVIA HARLOWE.§! \n\nThe mountaineers have tipped us off to a cache of weapons left behind by some old coot named 'Old Morton.' He's long since past, but if we can find those weapons, we're gonna be much better off."
+
+	PAS_trail_mix:0 "Trail Mixing"
+	PAS_trail_mix_desc:0 "§OFROM THE DESK OF SYLVIA HARLOWE.§! \n\nThe Mountaineers have endeavored to show us how to best survive off the land, and the Uniform's favorite is by far trail mix. It beats the MREs and rations we had back in Seattle by a mile, and hey, you can do anything with it and nobody'll judge you. Except if you try putting something like hot dogs in it, for the few bastards out here who are still making those, anyway."
+
+	PAS_full_bellies:0 "Full Bellies"
+	PAS_full_bellies_desc:0 "With food in our stomachs, we can focus less on tummy rumblings and more on making sure nobody has to die."
+
+	PAS_helping_mountain_men:0 "Friendly Contests"
+	PAS_helping_mountain_men_desc:0 "Some of the folks around here keep challenging random Foxtrot Uniformers to feats of strength, like who can hammer nails into something faster and better than the other-- we could lean into this and encourage folks to socialize and to help out around the place."
+
+	PAS_cleaning_house:0 "Cleaning House"
+	PAS_cleaning_house_desc:0 "Plenty of old clutter and debris is under all the snow. Not to mention weird raider residuals. Let's clean up all the shit in the way and make way for safer passages."
+
+	PAS_great_value_bran_flakes_from_walmart:0 "Cereal in my Pantry? More Likely Than You Think"
+	PAS_great_value_bran_flakes_from_walmart_desc:0 "You really CAN put anything in this stuff!"
+
+	PAS_dealing_with_ice_picks:0 "Dealing with the Ice Picks"
+	PAS_dealing_with_ice_picks_desc:0 "§OFROM THE DESK OF SYLVIA HARLOWE.§! \n\nFreeloaders from Kamlo are scouting out the Mountaineer's settlements for salvage-- and trust me, these guys are bad news. We need to figure out an approach and get them out of here if we can."
+
+	PAS_trade_with_blackfoot:0 "Our Saviors"
+	PAS_trade_with_blackfoot_desc:0 "The Niitsitapi Blackfoot saved us when anyone else would have killed us. We'll never forget that."
+
+	PAS_yellowstone_communique:0 "Good Hearts, Better People"
+	PAS_yellowstone_communique_desc:0 "Yellowstone's always been a great place. We should reach back out and see how things are doing."
+
+	PAS_taking_care_of_our_own:0 "Taking Care of Our Own"
+	PAS_taking_care_of_our_own_desc:0 "The Mountaineers may not be interested in doing much but keeping things safe, but we've always had bigger eyes. We need to learn from them and learn how to survive without the old Warden command."
+
+	PAS_learning_from_mountaineers:0 "Learning from Mountaineers"
+	PAS_learning_from_mountaineers_desc:0 "The people up here in the Rockies have a lot to show, and they're more than happy enough to help us as long as we stay accommodating."
+
+	PAS_the_signal:0 "Catching Signals"
+	PAS_the_signal_desc:0 "If we want to be ready to help, we need to be able to catch distress signals even in bad storms. We'll need to repair an old antenna up in the mountains... Let's just hope we don't draw the short straw here."
+
+	PAS_warden_remnants:0 "Lost Wardens"
+	PAS_warden_remnants_desc:0 "No matter where you go, people's answers always come down to the same general idea when they see a Warden: there's trouble afoot."
+
+	PAS_conflict_in_cascadia:0 "Conflict in Cascadia"
+	PAS_conflict_in_cascadia_desc:0 "The Syilx and the Kamlo Survivalists are battling! If we act now, we can intervene."
+
+	PAS_dont_fear_the_reaper:0 "Don't Fear the Reaper"
+	PAS_dont_fear_the_reaper_desc:0 "§OFROM THE DESK OF SYLVIA HARLOWE.§! \n\nThey called him 'The Immortal.' He killed a dozen men in the blink of an eye and laughed. He stormed Seattle and his men only took what, eight hours to do it? We're all failures, caught trying to upstage a fantasy we lived for years."
+
+	PAS_how_we_met:0 "How We Met"
+	PAS_how_we_met_desc:0 "Harlowe and Sylvia have a... Well, it's a history together, that's for sure."
+
+	PAS_warden_reporting:0 "Operation: Back in Black"
+	PAS_warden_reporting_desc:0 "§MFROM THE DESK OF WILLIAM HARLOWE.§! \n\nJesus, that was fast-- well, I ought to make a statement. Effective immediately, I am taking charge of the Rocky Mountain Wardens of the White. Now that Julius' back up and in action, we'll be joining the fold once again soon enough. Stay tuned for details."
+
+	PAS_prison_labor:0 "Operation: GTFO"
+	PAS_prison_labor_desc:0 "The Cooler is a nicely-retrofitted cavern that we can use to put trespassers and other malcontents out of harm's way. Or, you know. Just getting rid of them works too."
+
+	PAS_seattle_armaments:0 "Operation: FFS"
+	PAS_seattle_armaments_desc:0 "Never got why we even had so many G11s, for fucks sake... But man, we sure did have a lot of them. A lot."
+
+	PAS_friends_in_kamlo:0 "Operation: Buddy-Buddy"
+	PAS_friends_in_kamlo_desc:0 "With our aid, the Ice Picks are willing to let us preview their entire selection!"
+
+	PAS_moving_on:0 "Moving On"
+	PAS_moving_on_desc:0 "The legacy of Foxtrot Uniform is secure, one way, or the other. It's time to start thinking about what comes after."
+
+	PAS_stand_for_what_is_right:0 "Stand For What is Right"
+	PAS_stand_for_what_is_right_desc:0 "Not everyone can protect themselves. It's important for people like us to be looking out for them."
+
+	PAS_no_more_uniforms:0 "No More Uniforms"
+	PAS_no_more_uniforms_desc:0 "We shouldn't be tied to the Wardens anymore. They're history. Let's make a new image to hold ourselves to. We'll talk with the Mountaineers and figure something out."
+
+	PAS_the_people_stand_together:0 "We, the People"
+	PAS_the_people_stand_together_desc:0 "We have the support of the Mountaineers! They will continue helping us develop the mountains into a place of safety for travelers and wayfarers alike."
+
+	PAS_we_are_supposed_to_be_the_good_guys:0 "We Are Supposed To Be The Good Guys"
+	PAS_we_are_supposed_to_be_the_good_guys_desc:0 "§OFROM THE DESK OF SYLVIA HARLOWE.§! \n\nWe don't waver even in the face of darkness. I might have read it in an old comic, but it stands true even now. We aren't going anywhere. Foxtrot and the Wardens are not the same."
+
+	PAS_fate_of_the_mountains:0 "Foxtrot Uniform Charlie Kilo"
+	PAS_fate_of_the_mountains_desc:0 "The Foxtrot logo has flown high for years now. With the matter of leadership decided, we gotta decide what it means to us."
+
+	PAS_warden_reorganize:0 "Operation: Daydreaming"
+	PAS_warden_reorganize_desc:0 "These people are beyond reintegration into society. It’s too late. The damage is done. They are beyond the point of no return."
+
+	PAS_warden_officers:0 "Operation: Pyramid Strings"
+	PAS_warden_officers_desc:0 "We can still use these creatures to help other more sane individuals survive out here. Yes I know you don’t like this Sylvia, but we need to use every resource we have to help others right?"
+
+	PAS_warden_test_of_faith:0 "Operation: Broken Boy"
+	PAS_warden_test_of_faith_desc:0 "We need more workshops to produce weapons if we are going to forge the keys to an empire that was promised to the Wardens."
+
+	PAS_warden_purge:0 "Operation: Burn The Witch"
+	PAS_warden_purge_desc:0 "Vengence is a dish best served ice, ice cold. Thankfully we're in the right place for that."
+
+	PAS_warden_keep_the_loyal_ones:0 "Operation: Karma Police"
+	PAS_warden_keep_the_loyal_ones_desc:0 "The nation of Koover weakened the Wardens with a war that left hundreds of our brothers on spikes along the border. It’s time that Karma had it’s due."
+
+	PAS_warden_new_standards:0 "Operation: Glass Eyes"
+	PAS_warden_new_standards_desc:0 "The land of the Sylix is beautiful. The path we take trails off down the mountains, through the dry brush, and at this point I don’t really care where it leads. We will help these people protect their land-- our land now."
+
+	PAS_warden_tactics:0 "Operation: Life In a Glass House"
+	PAS_warden_tactics_desc:0 "We need a larger army to restore the Wardens to their former glory. Perhaps some of our people would be willing to join up if we promised extra food rations…"
+
+	PAS_warden_civilian:0 "Operation: Follow Me Around"
+	PAS_warden_civilian_desc:0 "We need to develop our industrial capabilities even further if we want to have any hope of further success."
+
+	PAS_warden_internal_matters_sorted:0 "Operation: Full Stop"
+	PAS_warden_internal_matters_sorted_desc:0 "Something has to be done with the old Kamlo crews. If we have an in with them, they might prove useful to us. Otherwise, maybe it's best to finish the job."
+
+	PAS_warden_military:0 "Operation: Man of War"
+	PAS_warden_military_desc:0 "We have perfected the protective equipment that will win us back Seattle. The worms will come for them as we march over their graves to our rightful home."
+
+	PAS_warden_toc_alive:0 "Operation: True Love Waits"
+	PAS_warden_toc_alive_desc:0 "The Wardens weren’t really living after the Immortal broke us, we were just killing time. No longer. The time is now to be reborn."
+
+	PAS_warden_toc_dead:0 "Operation: Stop The Music"
+	PAS_warden_toc_dead_desc:0 "We are the only remaining Wardens chapter. Therefore it falls to us to destroy the ones who killed us. The Washington Brotherhood must fall."
+
+	PAS_warden_the_end_of_the_immortal:0 "Operation: Hell's Bells"
+	PAS_warden_the_end_of_the_immortal_desc:0 "Seattle was once our home, and it will be once again. Once we kick out the riff raff."
+
+	PAS_warden_we_remember_brandt:0 "Operation: Shoot to Thrill"
+	PAS_warden_we_remember_brandt_desc:0 "Spokane is a very valuable territory that should be a part of our nation. Of course those who drove our fellow Wardens away should be dealt with first."
+
+	PAS_warden_seattle_reclaimed:0 "Operation: Exit Music"
+	PAS_warden_seattle_reclaimed_desc:0 "We have destroyed the unlawful occupiers of Seattle and have returned home. We have gone from the outcasts mocked for being too naive to the restorers of the legacy of the Wardens in White."
+
+	PAS_william_solution:0 "William's "Solution""
+	PAS_william_solution_desc:0 "So a food shortage? Easy solution, learned this back in the day and has served me well since. What is it you ask Sylvia? Simple thing really- desperate times call for desperate measures. So let's rob these traders coming through the pass, hell they owe use for keeping the place safe anyways."
+
+	PAS_sylvia_solution:0 "Sylvia's Plan"
+	PAS_sylvia_solution_desc:0 "William, honey, that is NOT a solution. We need to establish something long term... like trade with other nations- or some kinda sweet deal."
+
+	PAS_food_crisis_resolution:0 "It's Always Something"
+	PAS_food_crisis_resolution_desc:0 "We’ve been putting off this crisis for long enough. We need to do something about our food situation."
+
+	PAS_operation_mulligan:0 "§COperation: No Rest For The Wicked§!"
+	PAS_operation_mulligan_desc:0 "The Wardens of Safehaven may be miles away, but perhaps they can aid us with our food situation. We have bills to pay and mouths to feed, but there is nothing in this world for free…"
+
+	PAS_operation_brandt:0 "Operation: House of Glass"
+	PAS_operation_brandt_desc:0 "The largest contingent of remaining Wardens are in the Old Country. They have a solid chance to take control of Spokane. We should make diplomatic contact so that we can aid one another in our endeavors."
+
+	PAS_warden_buff:0 "Operation: Shiver"
+	PAS_warden_buff_desc:0 "I remember the day that the Washington Brotherhood invaded. Right before my eyes I saw the whole world lose control. We need to make improvements to the Warden armor so that the Immortal won’t be able to get the jump on us again."
+
+	PAS_militia_buff:0 "Learning From Ol' Heads"
+	PAS_militia_buff_desc:0 "I’ve been talking with some of the pre-war ghouls fleeing the Rotpurgers, and they like talking about their pre-war stories. They also know a lot about building techniques from before the war I’ve never heard of! Perhaps I can use them to try and improve our army and our building?"
+
+	PAS_divorce:0 "Love's The Only Way"
+	PAS_divorce_desc:0 "Unimplemented"
+
+	PAS_operation_natural_selection:0 "Operation: Cold Cold Cold"
+	PAS_operation_natural_selection_desc:0 "We need to make this war quick because there isn’t much time. It is sometimes darker in the day than in the dead of night. If we can use our knowledge of our home territory to our advantage we can destroy our enemies more quickly."
+
+	PAS_raider_recruits:0 "Operation: Punching Bag"
+	PAS_raider_recruits_desc:0 "We found a stash of weapons. With these, we can send a message to the world. We won’t take any more. If they take a swing, we’re going to swing back."
+
+	PAS_training_before_war:0 "Operation: Trouble"
+	PAS_training_before_war_desc:0 "Some veteran Wardens from other corners of Cascadia have flocked to Foxtrot Uniform’s banner. They have arrived to see Trouble to the left of us and trouble to the right. Luckily for us, they’ve been dealing with Trouble all their lives. "
+
+	PAS_operation_direct_intervention:0 "Operation: Skin and Bones"
+	PAS_operation_direct_intervention_desc:0 "We need to step up and do something to increase our power. We’ve been running for so long that most of us are just skin and bones. We need to gather what strength we have, close our eyes, and fight our way through to carry on."
+
+	PAS_frontier_justice:0 "Cry, Baby"
+	PAS_frontier_justice_desc:0 "We need to figure out how best to keep the peace in the world. Especially with Kamlo attacking the Sylix so suddenly. We are limited with how many men we have too, unfortunately. Maybe we need to figure out the best way to make every single man count in the battles to come."
+
+	PAS_arms_shipments:0 "Keep on Keepin' The Peace"
+	PAS_arms_shipments_desc:0 "The new battalions of Foxtrot Uniform are specially trained to kick ass up and down Cascadia. Wherever there is a disturbance to people living their lives in peace, we are going to give them a big ol’ FU."
+
+	PAS_economic_stimulus:0 "Drummin' Up Volunteers"
+	PAS_economic_stimulus_desc:0 "Turns out blind idealism does get you places in this wasteland, William. A lot of people want to fight for something they believe in. And I want to put those people to work! "
+
+	PAS_righteous_war:0 "Calming Kamlo"
+	PAS_righteous_war_desc:0 "The Kamlo survivalists have destroyed the Sylix nation. This has emboldened them and they are looking for more targets. We have to stop them before they kill more innocents."
+
+    PAS_foxtrot_circuits:0 "Circuit Scraps"
+    PAS_foxtrot_circuits_desc:0 "We have found a dump of old computers and robots out here in the mountains. It would be a waste to let all this perfectly good waste go to waste."
+
+    PAS_foxtrot_left1:0 "For Our Protection…"
+    PAS_foxtrot_left1_desc:0 "We have to allocate more resources to our military if we want to have any hope of defending our place in this world."
+
+    PAS_foxtrot_left2:0 "Modern Farming Techniques"
+    PAS_foxtrot_left2_desc:0 "We need to have any advantage we can if we want to grow anything worth eating up here in these frozen mountains."
+
+    PAS_foxtrot_left3:0 "Modern Production Techniques"
+    PAS_foxtrot_left3_desc:0 "The more goods we can produce, the more surplus we will have for food. Maybe one day we’ll be able to trade enough so we can eat more than once a day."
+
+    PAS_foxtrot_building_slots:0 "Cave Facilities"
+    PAS_foxtrot_building_slots_desc:0 "Up in the mountains there are caves where we can put more workshops-- naturally defended from the wind and snow. Isn’t that handy?"
+
+    PAS_foxtrot_right1:0 "Art Of War"
+    PAS_foxtrot_right1_desc:0 "§d"When fighting is sure to result in victory, you must fight."§!"
+
+    PAS_foxtrot_right2:0 "Snowmobiles, Fun And Functional"
+    PAS_foxtrot_right2_desc:0 "The mountain paths are too rocky for traditional vehicles to pass through, but perhaps we can get an alternative way to respond to threats more quickly…"
+
+    PAS_foxtrot_right3:0 "Winterized Gear"
+    PAS_foxtrot_right3_desc:0 "We have found a way to produce better gear for our special operations division. We should begin producing this as soon as possible and distributing it so we can help more people."
+
+    PAS_passkeeper_mot:0 "Wardenmobiles"
+    PAS_passkeeper_mot_desc:0 "Part of the issue with the Warden battle doctrine is that they could never move quickly enough to deal with everything they needed to. We may have a few ideas on how to change that."
+
+    PAS_passkeeper_spec_ops:0 "Winter Weather Scopes"
+    PAS_passkeeper_spec_ops_desc:0 "In the mountains having the ability to shoot someone from a peak away before they see you is an invaluable asset. And hopefully, we will always see them before they see us."
+
+    PAS_passkeeper_tech_bonus:0 "Rigorous Mountaineer Training"
+    PAS_passkeeper_tech_bonus_desc:0 "The mountains are the largest natural fortress a gal could ask for. If we can make sure our troops are at home defending it, then we can make anyone attacking us go through Hel."
+
+    PAS_foxtrot_mid1:0 "Clear Snow Off The Roads"
+    PAS_foxtrot_mid1_desc:0 "If we want to facilitate trade we should make an effort to clear snow off of some of these pre-war roads. I am sure merchants would flock to us once we do that!"
+
+    PAS_foxtrot_mid2:0 "Intellectual Refugees"
+    PAS_foxtrot_mid2_desc:0 "We have some pretty smart people coming to us to try to find a new home away from raiders. Surely they won't mind helping us develop technology to save others."
+
+    PAS_foxtrot_mid3:0 "A Gift From Friends"
+    PAS_foxtrot_mid3_desc:0 "The people we protect have donated to us for all the hard work we do protecting them! I tried to return it but they insisted. Maybe we can turn this around and use it to help them anyway somehow…"
+
+    PAS_foxtrot_mid4:0 "Goodwill To Men"
+    PAS_foxtrot_mid4_desc:0 "Our reputation for doing good deeds precedes us now. It feels good to do the right thing, and it makes others inclined to do the right thing for us in turn."
+
+    PAS_foxtrot_mid6:0 "The Anti-Crusade Crusade"
+    PAS_foxtrot_mid6_desc:0 "We have neighbors to the south that just seem hell-bent on killing people around them for no good reason. Is there a good reason to kill someone? Oh yeah! To prevent them from killing others."
+
+    PAS_foxtrot_mid7:0 "A Little Slice Of Heaven"
+    PAS_foxtrot_mid7_desc:0 "Grozdan Haykov is creating a place where anyone can be accepted, and is trying to create a little slice of peace in Cascadia. I don’t know about you, but I am all about preserving peace."
+
+    PAS_foxtrot_mid8:0 "Commitment To Cooperation"
+    PAS_foxtrot_mid8_desc:0 "We should join together with other peace-minded states in the area to help make sure another Immortal doesn’t come to destroy us."
+
+    PAS_foxtrot_mid9:0 "Friends In The Foothills"
+    PAS_foxtrot_mid9_desc:0 "Sylix and Koover are both like-minded groups committed to defending what is theirs and peace. Perhaps they would like help in their endeavors?"

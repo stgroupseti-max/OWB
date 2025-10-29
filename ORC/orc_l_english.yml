@@ -1,0 +1,176 @@
+﻿l_english:
+   #Merge Requests Are A Bitch - Skellie
+
+   orc_1:0 "Thrall's Vision"
+   orc_1_desc:0 "Across the Pacific Ocean, in the great land of Lordaeron, Warchief Thrall has a vision..."
+   orc_2:0 "Exodus of the Horde"
+   orc_2_desc:0 "The Horde set out east, for the fabled lands of America. It would be there they would find a new home for their people."
+   orc_3:0 "For Doomhammer!"
+   orc_3_desc:0 "The legacy of Draenor runs deep in our blood! Let us not forget the clans of old."
+   orc_durotar:0 "The Founding of Durotar"
+   orc_durotar_desc:0 ""
+   orc_the_warsong:0 "Grom Hellscream"
+   orc_the_warsong_desc:0 "Grom has always been like family to the Warchief. A brave, courageous warrior-- if a little hot-headed. Of course, in this dangerous land, it seems that is more a boon than anything else..."
+
+   nf_orc.0.t:0 "The Palashamage's Plea"
+   nf_orc.0.d:0 "A dream, a thought, a place, a plea-- a strange wizard by the name of Med'an has pleaded with us, telling us that Lordaeron is to fall soon. He tells tales of the sky burning and says that we must take a portal of his making, one at sea, and venture unto this place called 'America.' \n\nWe know not what awaits us, but the Horde must move, or be consumed by the fires that nearly destroyed us before."
+   nf_orc.0.a:0 "Uh... I'm a pirate."
+   nf_orc.0.b:0 "LOK'TAR OGAR!"
+
+   nf_orc.1.t:0 "What in the Goddamn?"
+   nf_orc.1.d:0 "Our grunts reported that most of our ships were destroyed in the initial crash. It seems this land is fraught with dwarvish technology-- rifles, explosives, and with ceaseless amounts of brigands to wield them. A green haze settles over the farthest that can be seen, and the air itself almost seems poisonous. Our farseers are doing their best to mend the elements, but they are not yet confident that they will be able to salvage it. \n\nStill, the spirit of Draenor rides high in our bones, and they were no match for the Horde's strength."
+   nf_orc.1.a:0 "For the Horde!"
+
+   nf_orc.2.t:0 "The Horde in America"
+   nf_orc.2.d:0 "This land-- 'America'-- has been a harsh host indeed. Our first week has been nothing more than cold and dining on sickly fish. The amount of burrows that need building-- and believe me, there were a lot of burrows that needed building-- were astronomical. We've even started using them to block portions of the forest from invading forces. Fire after fire after fire burns within our camps... Enough that we must ask if we need to deploy more peons for firewood, or if we need more efforts to construct pyres."
+   nf_orc.2.a:0 "Firewood collecting!"
+   nf_orc.2.b:0 "Pyre-building!"
+
+   nf_orc.3.t:0 "Thrall's Quest"
+   nf_orc.3.d:0 "Med'an visited again today. He told us that we were not alone... That the Legion has also found this world, and that they will do anything to secure it. We must stop them!"
+   nf_orc.3.a:0 "For Doomhammer!"
+   orc_rexxar_tt:0 "§YRexxar§! will become a §Gunit leader§!!"
+
+   ORC_grom_name:0 "Grom Hellscream"
+   ORC_thrall_name:0 "Thrall"
+   ORC_rexxar_name:0 "Rexxar"
+   ORC_rexxar_desc:0 "Me go face!"
+
+   orc_warsong_clan:0 "The Warsong"
+   orc_gold_mine:0 "Gold Mine Established"
+
+   orc_peons:0 "Waking Peons Up"
+   orc_peons_desc:0 "Our peons are too easily swayed by the sweet and succulent promise of sleep. There is much lumber to be had here in Kalim-- Cascadia, and we must have it!"
+
+   orc_establish_a_gold_mine:0 "Establish a Gold Mine"
+   orc_establish_a_gold_mine_desc:0 "Gold is critical to producing more Outriders! We must put the Peons to task. Hellscream, you get in there and you mine! Or don't, big brother. It doesn't matter. For the Horde!"
+   orc_harvest_lumber:0 "Chopping Trees... Without Demigod Intervention"
+   orc_harvest_lumber_desc:0 "Surprisingly, there actually isn't much opposition to us conducting lumber operations here. Fantastic! We'll be settled in in no time."
+
+   orc_we_need_moar_gold:0 "WE NEED MOAR GOLD!"
+   orc_we_need_moar_gold_desc:0 "We must up our production-- more peons! More mining! What do you mean 'build more burrows'?!"
+
+   orc_upgrade_to_stronghold:0 "Upgrade to a Stronghold"
+   orc_upgrade_to_stronghold_desc:0 "Portgrimmar demands more resources. If we are to continue our dominance of this land, we must grow its defenses!"
+
+   orc_upgrade_to_fortress:0 "Upgrade to a Fortress"
+   orc_upgrade_to_fortress_desc:0 "The might of the Horde on Earth is unquestionable. The Warchief and his Kor'kron (who will never become problematic) require a truly boastful place to host them!"
+
+   orc_founding_of_orgrimmar:0 "The Founding of Portgrimmar"
+   orc_founding_of_orgrimmar_desc:0 "This 'Port Maw' made quite a suitable location for our men to settle, despite the harsh weather conditions. In fact, it may even be a place so harsh as to be a place to atone for our past sins... This could never go wrong, of course."
+
+   orc_rexxar:0 "A Hunter Named Rexxar"
+   orc_rexxar_desc:0 "The Mok'nathal-- a fierce people. Half-Ogre, Half-Orc. Among them is Rexxar, one of the greatest hunters the Horde has ever seen. Though he is not directly affiliated, he is a friend to us, and with our request, he may just give his aid in navigating this strange, strange land..."
+
+   orc_theramore:0 "We Are Not Alone"
+   orc_theramore_desc:0 "Med'an has revealed to us something sinister: we were not the only strangers to come from across the sea. Survivors of Lordaeron following a wizardess have landed just south of us. Though the humans have never been allies to us, this land is beyond traditional reason. Perhaps we could work with her?..."
+
+   orc_the_first:0 "Orcs of a Different Breed"
+   orc_the_first_desc:0 "Grom has discovered another batch of greenskins local to this land that call themselves 'Super Mutants.' It seems they too once served a world-domination seeking Master, and have-- despite initial tensions-- extended a hand to us. Though our cultures are not entirely similar, we are both scorned, here, and perhaps could find kinship, given time. \n\nAlthough, Grom does seem particularly interested in this 'F.E.V.,' but it seems awfully close to the Fel..."
+
+   orc_into_the_barrens_of_oregon:0 "Into the Barrens... Of Oregon"
+   orc_into_the_barrens_of_oregon_desc:0 "With Lady Proudmoore at our side, we can focus instead on our eastern flanks. Strange mutants-- greenskins, but not like us-- are threatening Kalimcascadiawhatsit. They must be stopped! For Doomhammer!"
+
+   orc_reign_of_chaos:0 "Reign of Chaos"
+   orc_reign_of_chaos_desc:0 "This world is not Azeroth. The locals call it 'the Wasteland,' but some others call it 'Earth.' Whatever it is, this land is fraught with chaos: dare we say, reigned by it. We must secure it for the Horde!"
+
+   orc_mutants_and_orcs:0 "Mutants and Orcs"
+   orc_mutants_and_orcs_desc:0 "The Super Mutant and the Orc: both mighty green-skinned beings considered monsters by humans. Perhaps there is all too much in common, here... Although, gore bags? Really? And without Fel?"
+
+   orc_warsong_lumber_camp_1:0 "Warsong Lumber Camp Spot no. 1"
+   orc_warsong_lumber_camp_1_desc:0 "We will tell the Warsong to go establish peace talks and pull this 'Timberline' into our Horde."
+
+   orc_warsong_lumber_camp_2:0 "Even More Lumber... Lumberier"
+   orc_warsong_lumber_camp_2_desc:0 "Hm. The Warsong, perhaps predictably, did the opposite of what we asked. \n\n...Is Grom a bad influence?"
+
+   orc_the_warren:0 "Into The Warren"
+   orc_the_warren_desc:0 "With the mighty caverns of the Warren under our command, we will be able to strengthen Portgrimmar. For the Horde!"
+
+   orc_troll_warren:0 "Orcish Rogues"
+   orc_troll_warren_desc:0 "These strange objects-- 'stealth boys,' they call them-- greatly resemble the shadow magic... Or is it void magic? Whatever. The shadow magic of Azeroth."
+
+   orc_troll_warren_2:0 "We Will All Be Conquerors"
+   orc_troll_warren_2_desc:0 "The gifts of the F.E.V. are... Undeniable. Perhaps we should drink... And see what happens."
+
+   orc_the_frozen_throne:0 "The Frozen Throne"
+   orc_the_frozen_throne_desc:0 "A sort of Frozen Throne is presided over by an Immortal-- one who the locals claim is unable to die. Almost like they are... Undead, in some way. This 'King' of the north, however lich-like they may be, must fall!"
+
+   orc_times_change:0 "Times Change"
+
+   orc_warchief_of_the_horde:0 "Warchief of the Horde"
+
+   blg_the_defiler:0 "The Defiler"
+
+   blg_a_strange_portal:0 "The Strange Portal"
+   blg_a_strange_portal_desc:0 "A strange sorceror opened an anomalous portal on Azeroth, and brought us here. Whatever this world is, whoever this wizard is... We will find him, and conquer this world in the name of the Legion."
+
+   blg_the_enclave:0 "What the Fel is an 'Enclave'?"
+   blg_the_enclave_desc:0 "The so-called 'Americans' local to this place have begun to rise up against us. They are squished easily under Infernal rockfalls, but still... They are quite insistent on surviving. We must keep an eye on them."
+
+   blg_contact_tichondrius:0 "Contact Tichondrius"
+   blg_contact_tichondrius_desc:0 "When we left through the portal, we left behind a fair few of our high command. Among them, however, was Tichondrius... Who has been really, really trying to get a hold of us."
+
+   blg_where_are_the_elves:0 "Where are the Elves?"
+   blg_where_are_the_elves_desc:0 "At first, we suspected the Night Elves were behind this. Though they'd long since left behind the Arcane in favor of their 'druidism,' it was still a theory we had to entertain... But now, seriously. Where are the Elves?"
+
+   blg_open_portals:0 "Open Portals"
+   blg_open_portals_desc:0 "The greater Legion is aware of our presence on this world, and with our Keystones, we've been able to open more and more portals. A Reign of Chaos is coming!"
+
+   blg_fate_of_lordaeron:0 "Oh, Right... Lordaeron"
+   blg_fate_of_lordaeron_desc:0 "Wasn't Mal'ganis supposed to be dealing with that?"
+
+   blg_buff_1:0 "Kazzak"
+   blg_buff_1_desc:0 ""
+
+   blg_buff_1_tt:0 "We will gain §YLord Kazzak§! as a §Gunit leader§!!\n\n"
+
+   blg_buff_2:0 "Jaraxxus"
+   blg_buff_2_desc:0 ""
+
+   blg_buff_2_tt:0 "We will gain §YLord Jaraxxus§! as a §Gunit leader§!!\n\n"
+
+   blg_kalimdor:0 "The Conquest of... Kalim-- Cascadia?"
+
+   blg_the_legion_invasion_of_earth_i_guess:0 "The Legion Invasion of Earth"
+   blg_the_legion_invasion_of_earth_i_guess_desc:0 ""
+
+   BLG_DARK_PORTAL:0 "The Dark Portal"
+
+   nf_blg.0.t:0 "Rad Storms? ...Demons?"
+   nf_blg.0.d:0 "The people of Missoula weren't actually all that bothered when the sky turned green. In fact, it was actually quite normal here on Earth for that, now-- but when rock monsters started raining from the sky, and they started decimating everything in their path? \n\nPeople didn't last. Not even Enclave personnel could withstand the onslaught."
+   nf_blg.0.a:0 "Uncle Sam's got a whooping coming..."
+   nf_blg.0.b:0 "Lord Archimonde's calling!"
+
+   nf_blg.1.t:0 "Communique from Tichondrius"
+   nf_blg.1.d:0 "§RSo. \n\nGuess what? I tried to go to Northrend to intercept and taunt the Prince some more, but I guess I didn't do whatever it was Mal'ganis was planning, because he DIDN'T TAKE THE SWORD. So I asked Ner'zhul, and he told me to-- since you're gone, I presume, 'suck it.' How does that make you feel?"
+   nf_blg.1.a:0 "Ha ha! What a loser."
+   nf_blg_loser_tt:0 "§R"Fuck you, Archimonde. I hope Sargeras gelds you."§! \n\n§gHang up on Tichondrius. He's got this. Earth shall be ours!§!"
+   nf_blg.1.b:0 "Oh well. I guess Earth it is, then."
+   nf_blg_earth_tt:0 "§R"Wait, what? What about Hyjal? Have you located the Elves yet?"§! \n\n§gHang up on Tichondrius. He's got this. Earth shall be ours!§!"
+   nf_blg.1.c:0 "Your loyalty to the Legion is appreciated."
+   nf_blg_loyalty_tt:0 "§R"My loyalty? Oh, whatever. I've had it. Us dreadlords actually work for the Jai--"§!\n\n§gHang up on Tichondrius. He's got this. Earth shall be ours!§!"
+
+   nf_blg.2.t:0 "Communique from Tichondrius"
+   nf_blg.2.d:0 "§RI went to Stormwind as you asked-- for some reason-- and in attempting to infiltrate their reconstruction efforts, I was set upon by a voluptuous dame who sai dI was 'stepping on her territory,' and that I was 'out of her league.' Anyway, she was a dragon, and how I found that out is neither here nor there, but Stormwind isn't going to work. I tried to unleash a horde of Imps in the sewers and they were eaten by a Sewer Beast of some sort. Please come back. I'm begging you.§!"
+   nf_blg.2.a:0 "Ha ha! What a loser."
+   nf_blg_loser_tt:0 "§R"Fuck you, Archimonde. I hope Sargeras gelds you."§! \n\n§gHang up on Tichondrius. He's got this. Earth shall be ours!§!"
+   nf_blg.2.b:0 "Oh well. I guess Earth it is, then."
+   nf_blg_earth_tt:0 "§R"Wait, what? What about Hyjal? Have you located the Elves yet?"§! \n\n§gHang up on Tichondrius. He's got this. Earth shall be ours!§!"
+   nf_blg.2.c:0 "Your loyalty to the Legion is appreciated."
+   nf_blg_loyalty_tt:0 "§R"My loyalty? Oh, whatever. I've had it. Us dreadlords actually work for the Jai--"§!\n\n§gHang up on Tichondrius. He's got this. Earth shall be ours!§!"
+
+   nf_blg_wait_tt:0 "§gWe must give Tichondrius§! §Ysome sort of direction§!§g, first. Not that it matters. He so has this! Let's go Ticho!§!"
+   nf_blg.3.t:0 "Communique from Tichondrius"
+   nf_blg.3.d:0 "§RHey. So. \n\nYou guys just sort of left me behind, here. I don't know where you went or what you're doing, but Mal'Ganis was supposed to deal with this whole 'Fall of Lordaeron' thing and fuck with the Prince. So now I'm just trying to figure out what you want me to do, because you all just sort of left me and Kil'Jaeden to pick things up.§!"
+   nf_blg.3.a:0 "Do what Mal'ganis was doing."
+   nf_blg_malganis_tt:0 "§R"So I have to talk to Ner'zhul? I don't really WANT to do that. Zova-- I mean, Sargeras be praised, but..."§! \n\n§gIn some time, we will hear back from Tichondrius.§!"
+   nf_blg.3.b:0 "Go to Stormwind. I hear they're rebuilding."
+   nf_blg_stormwind_tt:0 "§R"Okay, whatever. I don't see how that helps us. But sure."§! \n\n§gIn some time, we will hear back from Tichondrius.§!"
+   burning_legion_earth_invasion_tt:0 "§gContinue§! §G[BLG.GetNameWithFlag]§! §ginvasion of Earth, and§! §Rgain claims on the entire world!§!"
+   BLG_the_search_for_elves:0 "The Search for Elves"
+   BLG_opening_more_portals:0 "Legion Portals"
+   BLG_archimonde_name:0 "Archimonde"
+   BLG_malganis_name:0 "Mal'Ganis"
+   BLG_mannoroth_name:0 "Mannoroth"
+   BLG_jaraxxus_name:0 "Jaraxxus"
+   BLG_kazzak:0 "Kazzak"

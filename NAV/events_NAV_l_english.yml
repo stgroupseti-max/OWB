@@ -1,0 +1,112 @@
+﻿l_english:
+ #Decisions
+
+
+ nf_navajo.1.t:0 "The Hero Twins"
+ nf_navajo.1.d:0 "The Hero Twins, Born of Water and Monster Slayer, were born to rid the earth of the monsters who killed the People. Every Navajo knows the tale of the two.  They were empowered by the sacred elements of the fourth World:  turquoise, obsidian, white shell, abalone, salt and wind; and they used these to the alien gods and save the world. But while some honour Monster Slayer for his great deeds, other remember that Born of Water tended the prayer sticks and kept a firm watch.  Who does [NAV.GetLeader] honour most?"
+ nf_navajo.1.a:0 "The Monster Slayer"
+ nf_navajo.1.b:0 "Born of Water"
+
+
+#####
+ nf_navajo.2.t:0 "The People's Riches"
+ nf_navajo.2.d:0 "American corporations pressured the Navajo to open their land up for exploitation before the Great War.  The Navajo reservation contained stockpiles of uranium, coal, natural gas, and oil. But the Navajo saw the writing on the wall and sought to develop their own commercial wind farm."
+ nf_navajo.2.a:0 "At least the mines were useful after the War."
+ nf_navajo.2.b:0 "The wind farms formed the basis of the recovery."
+
+#####
+ nf_navajo.3.t:0 "The Friend of Rome"
+ nf_navajo.3.d:0 "Caesar initially sought to conquer the Navajo like he had Flagstaff, Phoenix, and Two Sun.  Two years of bloody war convinced him this would not succeed. The Navajo Skinwalkers struck at camps under cover of night, causing chaos and slowing the Legion to a crawl. But the Legion ground forward, as relentless as the Arizona sun. \n\n After two years of war, [NAV.GetLeader], leader of the Navajo Scouts, snuck into Caesar's tent, alone and unarmed. None know what he and Caesar spoke of that night, but when the sun rose, Caesar agreed to visit [NAV.Capital.GetName]. \n\nSome criticized [NAV.GetLeader] for his peace with the Legion, and his pledge to serve in the Legion's wars.  But the Navajo Council saw the benefits the treaty would bring. The Legion promised to protect the People from raiders, and open the Legion's markets to them. And most importantly, Caesar promised the Navajo access to the Colorado's water supply. In exchange for tribute to Caesar, the Navajo's lands would become a garden."
+ nf_navajo.3.a:0 "Caesar kept his pledge."
+ nf_navajo.3.b:0 "They say the Skinwalkers scared even Lucius."
+#####################
+ nf_navajo.4.t:0 "The Ghouls"
+ nf_navajo.4.d:0 "Los Alamos should have been destroyed in the Great War, but a population of ghouls have survived there since the Great War. They control the surrounding landscape using the Nuclear Nellie, an artillery device that can fire up to 30 miles away, and demand... human resources from the surrounding humans in exchange for protection.  They are also trading partners of the People, offering weapons and armour in exchange for jewelry, clothing, and raw materials they cannot find. [NAV.GetLeader] has generally tolerated this trade, since it reduces reliance on the Legion. But there are those who advocate trying to forge closer ties, and those who question why the People support a slave trade to begin with."
+ nf_navajo.4.a:0 "Honestly we've dealt with worse in our history."
+#################
+ nf_navajo.5.t:0 "The Other Reservation"
+ nf_navajo.5.d:0 "We have traded with the Navajo for decades, selling weapons and armour in exchange for slaves and other supplies. But perhaps things are changing! We will need to keep an eye on [NAV.GetLeader]."
+ nf_navajo.5.a:0 "Okay."
+ #################
+ nf_navajo.6.t:0 "Another Shipment from the Navajo"
+ nf_navajo.6.d:0 "The Navajo have sent us another shipment of slaves. Hooray!"
+ nf_navajo.6.a:0 "Okay."
+
+ #################
+ nf_navajo.7.t:0 "The Chosen Ones"
+ nf_navajo.7.d:0 "It seems that the ghouls used slaves for more than just mining and industry.  Our scout found an underground bunker, and screams from a lab where the ghouls are trying to make 'natural' ghouls. We have been selling humans as cattle to create a master race of ghouls!"
+ nf_navajo.7.a:0 "Mad science from the prewar US government? I'm shocked."
+
+  #################
+ nf_navajo.8.t:0 "A New Clan?"
+ nf_navajo.8.d:0 "The subjugation of the Ciphers has left the Navajo with a decision. They could simply crush resistance and subjugate the tribe, bringing them under Navajo City's rule. But some within the Tribal Council urge compassion, and point out that Water's Edge, Red Running into Water, and other clans were adopted into the tribe.  The Ciphers have a sacred religion, and the walls of the pueblos are adorned with holy numbers and formulas.  They chant the songs of the heavens, just as we do.  We would do well to welcome them into our tribe."
+ nf_navajo.8.a:0 "We will not truck with savages."
+ nf_navajo.8.b:0 "Let us sing the star chants together."
+
+ #################
+ nf_navajo.9.t:0 "The Drums of War"
+ nf_navajo.9.d:0 "It appears that the Navajo are unhappy with our just rule and are plotting a revolt! We wlil have to deal with them ourselves."
+ nf_navajo.9.a:0 "Do they not know the fate of the Blackfoot?"
+
+ NAV_request_1:0 "Request [498.GetName] and [482.GetName]"
+ NAV_request_2:0 "Request [439.GetName] and [244.GetName]"
+ NAV_request_3:0 "Request [124.GetName], [144.GetName] and [608.GetName]"
+ NAV_request_1_desc:0 "The Diné have served the Legion faithfully, and now they seek recognition in the form of land. They formally request control over [498.GetName] and [482.GetName], hoping to reclaim a piece of their ancestral territory."
+ NAV_request_2_desc:0 "With years of loyal service behind them, the Diné petition for governance over [439.GetName] and [244.GetName]. Granting them this land would strengthen their position within the Legion while fulfilling a long-standing promise."
+ NAV_request_3_desc:0 "The waters of the Colorado River have nourished the land for generations, and the Diné now seek a rightful claim to its banks. They ask for [124.GetName], [144.GetName], and [608.GetName], believing that control of these lands will secure their future."
+
+ #####
+ nf_navajo_land_request.1.t:0 "A Little Help for our Friends"
+ nf_navajo_land_request.1.d:0 "[164.GetName] contains a large Navajo population who [Nav.GetLeader] believes should be under the Tribe's rule. In honour of their support in the Mojave, perhaps we should grnat their request."
+ nf_navajo_land_request.1.a:0 "This could be a useful bargaining chip.."
+ nf_navajo_land_request.1.b:0 "Absolutely not!"
+
+ #####
+ nf_navajo_land_request.2.t:0 "The Return of Red Mesa"
+ nf_navajo_land_request.2.d:0 "Red Mesa was historically a part of the Navajo nation. In exchange to for [NAV.GetLeader]'s support, we will give it back."
+ nf_navajo_land_request.2.a:0 "Let us reward our loyal tribe."
+ nf_navajo_land_request.2.b:0 "Be thankful for what you have!"
+
+ #####
+ nf_navajo_land_request.3.t:0 "The Wild Colorado"
+ nf_navajo_land_request.3.d:0 "Red Mesa was historically a part of the Navajo nation. In exchange to for [NAV.GetLeader]'s support, we will give it back."
+ nf_navajo_land_request.3.a:0 "This land is meaningless, let them have it."
+ nf_navajo_land_request.3.b:0 "That land is ours by right of conquest!"
+ NAV_good_friends_tt:0 "\nThe Navajo will appreciate this!"
+ NAV_plotting_tt:0 "§RThe Navajo will know we cannot be trusted.§!"
+
+ #####
+ nf_navajo_land_request.4.t:0 "Caesar's Denial"
+ nf_navajo_land_request.4.d:0 "Caesar has dismissed our request without consideration, declaring that we are out of line to suggest such a thing."
+ nf_navajo_land_request.4.a:0 "We will remember this!"
+
+ #####
+ nf_navajo.13.t:0 "Fidelis"
+ nf_navajo.13.d:0 "[NAV.GetLeader] has served us faithfully, and we have rewarded them as well.  As the focus of the Legion shifts westward, perhaps it is time for us to recognize they will serve us better as a friend, rather than a subject? In return this will tie the Navajo firmly to our banner."
+ nf_navajo.13.a:0 "[CES.GetLeader] is a generous lord."
+ nf_navajo.13.b:0 "You are a pet, nothing more."
+ NAV_become_ally_not_puppet:0 "[NAV.GetNameWithFlag] becomes a loyal ally, but stops being our puppet."
+
+
+ ### Ideas
+
+ ### Ideas
+
+ navajoilandgas:0 "Navajo Coal and Gas Company"
+ navajo_wind_farm:0 "The Navajo Wind Farms"
+ three_sisters:0 "The Three Sisters"
+ medicine_men:0 "Medicine Men"
+ NAV_insurgencies_idea:0 "This Land is Our Land"
+ yak_refugees:0 "Yakama Refugees"
+ NAV_cipher_clan:0 "The Cipher Clan"
+ NAV_medicine_man:0 "Medicine Men"
+ NAV_skinwalkers_idea:0 "The Skinwalkers"
+ NAV_textile_industry:0 "Navajo Textiles"
+ NAV_wanamingo_idea:0 "Wanamingo"
+ NAV_slave_payments_RES:0 "Navajo Payment"
+ CES_nav_loyalty:0 "Navajo Loyalty"
+
+
+
+ ## Flags
+ NAV_ghouls_up_to_something:0 "The Ghouls Have Gone Too Far"

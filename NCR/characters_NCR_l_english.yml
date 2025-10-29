@@ -1,0 +1,115 @@
+﻿l_english:
+  NCR_grant_c_hayes_cultural_advisor:0 "Grant C. Hayes"
+  NCR_grant_c_hayes_cultural_advisor_desc:0 "Hayes is a disruptive politician obsessed with the old world, with his help we can better reacquire its secrets, but he will be pushing his own agenda the entire time, and it will be a costly endeavour."
+
+  NCR_allgood_murphy_economic_advisor:0 "Allgood Murphy"
+  NCR_allgood_murphy_economic_advisor_desc:0 "Allgood wants peace and prosperity, for the NCR at whole, but mostly the boneyard; with his help our manufacturing will benefit, but our jingoism and war enthusiasm will suffer."
+
+  NCR_anton_flynn_cultural_advisor:0 "Anton Flynn"
+  NCR_anton_flynn_cultural_advisor_desc:0 "Anton Flynn is a dealmaker, and has come to control much of the moving and shaking in the NCR; however, the legitimacy of the republic will be in question if we hire him, as the population fear oligarchy has taken root."
+
+  NCR_ranger_commander_martin:0 "Martin Addie"
+  NCR_ranger_commander_martin_desc:0 ""
+
+  NCR_brigadier_general_thompson:0 "Raheed Thompson"
+  NCR_brigadier_general_thompson_desc:0 ""
+
+  NCR_general_oliver_name:0 "Lee Oliver"
+  NCR_general_oliver_high_command:0 "Lee Oliver"
+  NCR_general_oliver_high_command_desc:0 "As the protege of the Hero of the Mojave, Oliver has a great amount of political clout and prestige behind him; but his cautious tactics and reliance on heavy troopers leave something to be desired, in the eyes of many company men."
+
+  NCR_colonel_royez_name:0 "Colonel Royez"
+  NCR_colonel_royez_high_command:0 "Colonel Royez"
+  NCR_colonel_royez_high_command_desc:0 "Colonel Royez earned his rank during the acquisition of the Long 15, through his great feats of bravery and strength; he is the pinnacle of what an NCR soldier can become. However, he is just one man, and cannot be everywhere at once."
+
+  NCR_big_jim:0 "James 'Big Jim' Marshal"
+  NCR_big_jim_army_chief_desc:0 "Big Jim knows how to succeed at war, and succeed quick; overwhelming displays of force! As such his appointment as chief of army will result in an increase in conscription and mobilization efficiency."
+
+  NCR_mossman_character_name:0 "Laurence Mossman"
+  NCR_mossman_character_army_chief_desc:0 "Mossman believes totally in the power of the Rangers; as such, his appointment as chief of army will result in the expansion of the NCR rangers and more rigorous training for all."
+  NCR_mossman_character_name_DESC:0 "§4"Let us fight, and be right."§!"
+
+  NCR_major_lawrence:0 "Major Lawrence"
+  NCR_major_lawrence_desc:0 "§4"Do YOU know what makes a good soldier, private? The ability to hit a target in any weather and keep your rifle clean. No more, no less."§! \n\nFor too many, Richard Lawrence was the last thing they never saw. His skills saw him rise from a gutter-born bastard to leader of the 1st Recon Battalion and beyond."
+
+  NCR_zachariah_rigby_name:0 "Zacariah Rigby"
+  NCR_zachariah_rigby_economic_advisor:0 "Zachariah Rigby"
+  NCR_zachariah_rigby_economic_advisor_desc:0 "As head of the Gunrunners, Rigby can make our arms manufacturing far more efficient; but the Gunrunners are mercenary, and Rigby demands high pay."
+
+  NCR_innovator:0 "Sky Fletcher"
+  NCR_innovator_desc:0 "§4"I'm telling you, the Divide's highway system would ease transportation into the Mojave much better than the Long 15."§! \n\nHailing from the community of Welding Ranch, Fletcher did not follow in his family's footsteps of car refurbishment and manufacture. Instead, he joined the millitary to support his child and (later) wife. Putting someone who understands the use and limits of vehicles has done wonders for our response times."
+
+  NCR_warhero:0 "Fleur Elise"
+  NCR_warhero_desc:0 "§4"If I were back there, I would have taken the tin cans all with me so she could live. But I didn't, I'm here, and she isn't."§! \n\nLike Cassandra Moore, Fleur Elise distinguished herself in the war against the Brotherhood. While Moore became a Colonel, Elise instead opted to work in rear support afterwards. Her statements sometimes worry our troops when they're broadcasted to the public."
+
+  NCR_tactitian:0 "Major Abbott"
+  NCR_tactitian_desc:0 "§4"No, I don't believe "let me see your war face" is the right term. And you don't need rifles for that part of the regimen...."§! \n\nCalled a 'REMF' by those under him, Jorge Abbott has great skill in logistics, travelling around to ensure supplies get where they're needed to and not just sitting in storage. More famously, he also is one of the architects of the army's boot camp."
+
+  NCR_bastion:0 "Reuben Burton"
+  NCR_bastion_desc:0 "§4"This year's vintage has been great. If we apply an extra shipping tax to Dayglow, we'll be able to take on more of a deficit."§! \n\nSome credit Burton with Sac-Town evolving to Sac-City, but he maintains that he was just in the right place at the right time, with the right connections to make it work. His transfer from trading cattle to economic policy has gone swimmingly for those tied to him."
+
+  NCR_imperialist:0 "Senator McCoy"
+
+  NCR_HME:0 "Oscar Stone"
+  NCR_HME_desc:0 "§4"Growing up, I saw all sorts of tales on my family projector. Every man, woman, and child deserves that experience."§! \n\nA critically acclaimed filmmaker with over 30 years of experience, Stone has a proposal to freely offer his films to newly joined territories of the Republic. It's his belief that entertainment can bind a people together better than a millitary."
+
+  NCR_ranger_jackson:0 "Ranger Jackson"
+  NCR_ranger_jackson_desc:0 "§4"Well, look what the old Brahmin pen dragged in."§! \n\nA veteran Ranger who recognizes his days in combat are long over, we could pull him from his administrative position in the Mojave Territories to assist in the training of our troops."
+  NCR_navy_chief_name:0 "Admiral Doherty"
+  NCR_navy_chief_desc:0 "§4"What can you see on the horizon? Can you hear the white gull's call?"§! \n\nHailing from the coast of the Boneyard, Grissom Doherty has a history of piloting ships- first for the family business, then heading out on expeditions for the Republic. He wishes to lead a successful expedition to Hawaii, despite the dangers."
+  NCR_mr_fantastic_name:0 "Mr. Fantastic"
+  NCR_mr_fantastic_theorist:0 "Mr. Fantastic"
+  NCR_mr_fantastic_theorist_desc:0 "Having earned a theoretical degree in physics there are few people in the Wasteland more qualified for management of Helios One than Mr. Fantastic."
+  mr_fantastic_tt:0 "Theoretical Physics Research Speed: §G+10%§!"
+
+  NCR_alice_mclafferty_name:0 "Alice McLafferty"
+  NCR_alice_mclafferty_economic_advisor:0 "Alice McLafferty"
+  NCR_alice_mclafferty_economic_advisor_desc:0 "Alice knows how to do business and do it well; she can satisfy the popular demand for consumerism, so long as she is given lucrative government contracts."
+
+  NCR_daniel_maxwell_name:0 "Daniel Maxwell"
+  NCR_daniel_maxwell_desc0: "§4"What do I have to do for cattle owners to not act like they want us in chains?"§! \n\nHead of the union known as the Redding Miner's Association, Maxwell has been doing his best to improve the lot in life for the workers in and around Redding. Unfortunately, Redding's economic elite gives him plenty of trouble."
+
+  NCR_mama_van_graff_name: "Tiaret \"Mama\" van Graff"
+  NCR_mama_van_graff_advisor_desc: "Once nigh-outlaws of California, the Van Graffs are now model citizens. Although they may be a little rough around the edges, they understand that their best, perhaps only, market is the Republic. To Victory!"
+
+  ENC_generic_advisor_4_name:0 "George Jefferson"
+  ENC_generic_advisor_4_desc:0 "§4"I was just following orders."§! \n\nResponsible for the murder of many homesteads and tribes that got too close to Navarro, Jefferson found his knowledge of caches of T-51b an excellent bargaining chip for a lighter sentence. He now happily spends his days on a Power Armor program, watched by armed guards."
+
+  NCR_follower_advisor_name:0 "Ignacio Rivas"
+  NCR_follower_advisor_name_desc:0 "§4"Are you a maker of war, or peace?"§! \n\nOnce a doctor of the Followers of the Apocalypse, Rivas also has intimate knowledge of NCR bureaucracy and procedures. His entrance into government is two great tastes that taste great together."
+
+  NCR_air_chief_name:0 "Captain Maria"
+  NCR_air_chief_desc:0 "§4"Want to know the bright side of being able to take flight any time I need to? It's a tie between the view and all the parts working together beautifully to defy gravity."§! \n\nOriginally having lived near the ruins of a prewar millitary base, Maria Perez was selected to train the Republic's newly born air corp. Over time, this has become a very useful air force, if never as large as she would like."
+
+  NCR_joseph_dodge:0 "Joseph Dodge"
+  NCR_joseph_dodge_desc:0 "§4"Things are only dangerous and scary when you don't know them. I was scared of losing my company. Now? Not so much."§! \n\nThe Hub may be a major economic artery, but it's also beginning to grow in industrial capacity. Dodge was a business owner who's company was bankrupted by gangs of the Hub. However, his experience saved other manufacturers, which brought him to our attention."
+
+  NCR_drummond_army_chief_desc:0 "Drummond has years of experience with which to back up his appointment, and it shows in his capacity for planning, both in speed and brilliance. However, he is unpopular among the people, and his appointment will weaken the republic's standing."
+  NCR_ranger_elise: "Ranger Elise"
+  NCR_ranger_elise_desc:0 ""I'm getting up in the years, but if this old bat is going to go out, may as well go out with a bang!"\n\nIn the years since First Ranger Seth, the New California Republic Rangers have only had two Ranger Chiefs that have made themselves stand out in the annals of history. Elise is the female half of that. Before passing the torch of Ranger leadership onto Josh Hanlon, Elise was taught in the ways of Desert Ranger ideologies, tactics, and expertise in all things survivalist-related by a masked man in riot gear, claiming to have paid a visit to the area once, a long time ago. When prodded by Elise about his relation to a Desert Ranger that Tandi claimed the Vault Dweller met and travelled with, the stranger denied relation to him, instead saying he simply had history with the Californian area.\n\nSince their meeting, Elise went on to train many of her recruited soldiers in the arts of espionage, going undercover, and making do with little resources and even fewer friends. This culminated in her meeting with the Chosen One in 2242, with the Chosen One assisting Elise and the Rangers in dealing with the Slaver's Guild outside the NCR gates. While Elise never saw the Chosen One after that, they sought to honor their memory by enhancing all anti-slaver related activities, not only in California, but throughout most of the Southwest US. With the rise of the Legion, however, the mission became more and more impossible to do. As Elise's hair turned grey, she decided to finish off her service to the NCR and the Rangers by meeting up with the Nevada Desert Rangers to discuss the formation of a treaty between them and the NCR.\n\nNow, only a scant few years after that pivotal meeting, believing her days as a Ranger to be over, Elise now may find herself called back into the warfront once more, as the Legion encroaches on the Mojave Territories. Chief Hanlon may be a good man, as may the President of the NCR, but as the saying goes: Behind every good man, is a great woman."
+
+  NCR_BAR_NAGA:0 "Naga"
+  NCR_BAR_NAGA_desc:0 ""You talkin' to me? You lookin' at me? You existin' with me? ...WHABAM! YOUR HEAD'S GONE! WHAT DO YOU HAVE TO SAY TO THAT NOW? NOTHIN'!"\n\nNaga and his gang, the Bad Dragons, were inspired by the various endeavors of Pre-War Asian-American media, the contents of the ones they viewed prominently featuring dragons of all shapes and sizes typically engaging on quests of vengeance, or otherwise assisting plucky protagonists against monsters and villains of the week. However, unlike said protagonists and dragons, the Bad Dragons, and Naga especially, focused on a single aspect that the dragons were most fond of within the media - Gold.\n\nUsing the ruin of a Pre-War zoo as a form of dragon den, Naga and his raiders typically raid outsiders and other wannabes in the Yakuza Territories, though they won't turn down earning more gold, even if it means being in the service of someone else..."
+  NCR_BAR_CHAVO_GUERRERO:0 "Chavo Guerrero"
+  NCR_BAR_CHAVO_GUERRERO_desc:0 ""A veces la derrota es solo un paso hacia el éxito, así que nunca desistas. With that out of the way, let the match begin!"\n\nThe most recent middle child of a long legacy of Guerreros, Chavo Guerrero styles himself after his great-great-grandfather of the same name. With his immense strength, dazzling speed, and fortitudinous personality, many saw his rise to fame as unstoppable. His most recent fight in Los Mochis brought an end to that, though Guerrero has utilized the experience as an opportunity to be humbled and better himself, rather than let the fame and glory of Lucha Libre drive him to the same status of corruption and stagnation that many wrestlers have come and gone through. This has brought him to the newly independent nation of Redding, in order to bloody his fists and hone his fighting skills for a potential rematch should he return to Los Mochis.\n\nWhile not in the ring, Guerrero familiarizes himself with the practice of warfare and militaries, especially with the relationships between the Free Fighters and its neighbors having only grown in tensions since the Great War. But his expertise is not without assistance, with his family, both biological and metaphorical, supporting him all the way. His large stature will batter down any enemy, and his imposing physique makes him a venerable morale booster to any group serving under him."
+
+  NCR_LLOYD_GROVES_NAME:0 "Lloyd §G"Gamma"§! Groves"
+  NCR_LLOYD_GROVES_NAME_desc:0 ""When you've been around the block as long as I have, you come to see the best and worst people are capable of. NCR ain't the best, but it's far from the worst. And I'll take that over anywhere else anyday."\n\nAn avid connoisseur of Gamma Gulp, it was no wonder that Lloyd Groves came to garner the name of 'Gamma' before the War, residing in San Diego. When the Great War came, like much of the city's population, Groves found himself becoming a ghoul, although rather than having any serious reaction to it, he simply attributed it as a side effect, if not a potential benefit, of having drunk so many bottles of the radioactive beer.\n\nWhen Tandi came to give her speech at Dayglow, Groves was optimistic about the future of California, and hoped to see a day when ghouls and humans alike could be treated equally. His optimism would not last. Once Dayglow became safe enough to be visited without copious doses of Rad-X and RadAway, Groves found that he was nothing more than the minority in his own home. Politicians made him and his friends to be ticking time bombs, about to turn into monsters at any moment. Average citizens kept away from him. The more violent ones constantly beat and cursed him. It was only when the Desert Rangers came to Dayglow, looking for new recruits, that Groves volunteered, though mostly for the free liquor offered to enlisted men.\n\nNow, with Allgood in charge, Groves was vetted by his friends in Dayglow, both human and ghoul, to be a reliable soldier, at least when he's sober. When inebriated, he makes an excellent rabble-rouser and distraction for the enemy. But most of all, under Allgood, Groves near-constant inebriation may finally sober up, as the NCR becomes a much more whole and kind place."
+
+  NCR_kimball_character_name:0 "Aaron Kimball"
+  NCR_kimball_character_name_desc:0 "§4"I swear, you are all fucking ridiculous. What do you mean, you ran out of supplies again?"§! \n\nA military man to the bone, the Hero of the Mojave who brought Hoover Dam to the Republic has grasped the reins of the Presidency. Whether he deserves the reins is another matter for debate entirely, as women, ghouls, and mutants can all attest to discrimination, and everyone can point to him for the rising Brahmin Barons."
+
+  NCR_VERONICA_NAME:0 "Veronica Santangelo"
+  NCR_VERONICA_NAME_desc:0 ""Punching only solves so many problems. My time in the Brotherhood may be over, but it doesn't mean my role in helping people should be over."\n\nWith the formation of the Treaty of The Mojave Chapter, Veronica was left without her home, her adoptive family, and a true place in the world. She had simply left for the Old Mormon Fort without a second thought, believing her new calling in this changing world was to work as a Follower of the Apocalypse. She was partly right.\n\nDespite her attempted secrecy, her work was traced back to her through the efforts of Julie Farkas. Farkas understood Veronica's reasoning for her silence, but at the same time, her potential was vastly underutilized for the good she could be doing, as opposed to the minor things she was doing now. With that, a compromise was made between the two women. Veronica could serve in an advisory position for the nation, but would not have her work publicized her name spoken aloud, or her efforts credited as anything but a collective project, as opposed to an individual. Truly, Veronica had earned her reputation as a silent scribe."
+  promising_follower:0 "Promising Follower"
+
+  ncr_hardened_mercenary:0 "Hardened Mercenary"
+
+  NCR_ARCH_DORNAN_NAME:0 "Arch Dornan"
+  NCR_ARCH_DORNAN_NAME_desc:0 ""LISTEN UP, MAGGOTS, YOU ARE NO LONGER IN THE SERVICE OF THE CANDY-ASS NCR AND THEIR SOFT BEAR BELLIES, YOU ARE NOW IN THE SERVICE OF PRESIDENT GRANT COLUMBUS HAYES AND THE NEW AMERICAN REPUBLIC. NOW DROP AND GIVE ME 200! LAST TO FINISH HAS THEIR ASS WHOOPED!"\n\nFor 30 years, under the false name of 'Chad Rannor', Arch Dornan hid, albeit with some chance near-reveals of his previous history, within the comforts of Vault City. Having never truly taken the loss of Navarro well, the years have only made him stronger and meaner. Mostly meaner.\n\nBut Vault City did anything but soften him up. On the contrary, with access to a robust city guard, near-unlimited access to state-of-the-art equipment, and grunts to mold and shape in the same way he did as an Enclave drill sergeant, Dornan has only honed his skills, becoming just as tough with his Vault City-made gear as he was with Enclave Mark I Advanced Power Armor. Now, under the speckled watch of President Hayes, Dornan keeps his voice high, his gun cocked, and his men sharp. The Enclave may be nothing but a memory, but America is a burning bonfire, growing with each new territory annexed into the NAR."
+
+  NCR_ROGER_RATBOY_NAME:0 "Roger Ratboy"
+  NCR_ROGER_RATBOY_NAME_desc:0 ""It's easy to see why I was a success on the battlefield. I could see the blood and violence of war and not flinch, while others would buckle and fall away."\n\nRoger, better known as 'Ratboy', was an infamous figure in the Mojave Campaign. He was praised by both Brahmin Barons and Gun Runners for his exceptional performance and quick action in eliminating raiders and violent tribals. His battalion, the 'NCR Exiles' operated shortly after the Peterson administration declared retaliation for the Mojave murders.\n\nRoger's 15 years of extermination took its toll on him when General Aaron Kimball completed the 'Pacification of the Mojave' in Bullhead City. Enraged that his position was taken, Roger staged a confrontation with the President-elect in his office, jumping and almost assaulting the man. As a result, he was placed in the Junktown Detention Center in 2273 and was initially set to serve for life.\n\nAt the age of 47, his military service earned him a dishonorable discharge and he was set to be reformed within the JDC, though with orders to transfer him to Max-Sec if he got too rowdy. His attempted rehabilitation was mostly person-to-person, with a designated therapist meeting with him. However, due to his stories of war and his taste for violence, he was unable to be transferred before the NCR electoral deadlock. Now, as a free man, he serves the glory of the Third California Republic and President-General Moore."
+
+
+

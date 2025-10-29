@@ -1,0 +1,48 @@
+﻿l_english:
+ # Focus
+  mxt_moore_administration:0 "Moore Administration"
+  mxt_moore_administration_desc:0 "President Hayes has entrusted me with the important task of pacifying a new territory, and I am grateful to the president for the honor; he can be assured that I will accomplish this task."
+
+  mxt_red_rose_of_mexico:0 "§tRed Rose of Mexico§!"
+  mxt_red_rose_of_mexico_desc:0 ""
+
+  mxt_steel_hand_of_colonel:0 "§gSteel Hand of the Colonel§!"
+  mxt_steel_hand_of_colonel_desc:0 ""
+
+  mxt_the_dealmaker:0 "§YThe Dealmaker§!"
+  mxt_the_dealmaker_desc:0 ""
+
+  mxt_robotic_policemen:0 "§2Robotic Suppressors§!"
+  mxt_robotic_policemen_desc:0 ""
+
+  mxt_kickstart_the_industry:0 "Kickstart the Industry"
+  mxt_kickstart_the_industry_desc:0 ""
+
+  mxt_stabilisation:0 "Peace in the Territories"
+  mxt_stabilisation_desc:0 ""
+
+  mxt_leader_of_the_territories:0 "§GRuler of Mexico§!"
+  mxt_leader_of_the_territories_desc:0 ""
+
+  mxt_lady_of_the_bells:0 "§tLady of the Bells§!"
+  mxt_lady_of_the_bells_desc:0 ""
+
+  mxt_iron_grip:0 "§gIron Grip§!"
+  mxt_iron_grip_desc:0 ""
+
+  mxt_whos_laughing_now:0 "§YWho's Laughing Now?§!"
+  mxt_whos_laughing_now_desc:0 ""
+
+
+
+
+  #toolips
+  mxt_rosado_bots_tt:0 "§GRosado will provide us with 10 protectron divisions.§!"
+  mxt_leader_tt:0 "§GMexico awaits the one who will lead it into the future...§!"
+
+  #ideas
+  MXT_mexico_administration:0 "§GMexico Administration§!"
+  MXT_mexico_administration_3:0 "§GMexico Administration§!"
+
+
+
