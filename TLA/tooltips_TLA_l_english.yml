@@ -1,0 +1,23 @@
+﻿l_english:
+  honor_tlaloc_guarantee_tt:0 "Joins §Y[From.GetNameDef]§! in their defensive wars!"
+  tlaloc_play_as_max_tt:0 "Choosing this will make you play as Maximilian"
+  tlaloc_play_as_moc_tt:0 "Choosing this will make you play as Moctezuma"
+  tlaloc_play_as_zap_tt:0 "Choosing this will make you play as Zapata"
+
+  TLALOC_MEMORY_CAPACITY_TT:0 "§YAvailable Memory§!"
+  TLALOC_MEMORY_CAPACITY_TT_DELAYED:0 "§YTlaloc§! currently has [?current_databanks|0] of [?max_databanks|0] databanks available, but is losing [?databank_loss_rate] databanks to his children every day. Tlaloc will cease functioning when he no longer has any databanks left. At his current ratio, he is suffering from §R[?memory_stability_bonus|%]§! stability."
+  tla_memory_leaks_malus:0 "Decaying Memory"
+
+  # Opinion modifier
+  fatherandson:0 "Father and Son"
+  southern_menace:0 "Southern Menace"
+  monster_of_mexico:0 "Monster of Mexico"
+  ward_of_tlaloc:0 "Ward of Tlaloc"
+  protector_of_mexico:0 "Guardian of Mexico"
+  sins_of_mexico:0 "Sin of Mexico"
+  chiconet_invader:0 "ChicoNet Invader"
+  zap_cartels_plague:0 "Plague Upon the Working Class"
+  max_republicanists:0 "Republicanists"
+
+  TLA_guarantees_no_revoke_tt:0 "§GTlaloc cannot revoke his guarantees without provocation§!"
+  TLA_pact_no_revoke_tt:0 "§GTlaloc cannot revoke his pacts of non-aggression without provocation§!"

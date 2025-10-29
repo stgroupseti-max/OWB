@@ -1,0 +1,213 @@
+﻿l_english:
+  # Focuses
+  tob_a_heroes_culture:0 "Echoes of the Giant-Blooded"
+  tob_a_heroes_culture_desc:0 "The Old Bones do not forget. Their strength flows from the marrow of legends—those who stood tall in the age of giants, and those who defied death itself. Tales of the Nameless Warrior are spoken by firelight, carved into stone, passed down in bone and ash. His story is not the first, and will not be the last. We are bound by memory. And memory makes us strong."
+
+  tob_research:0 "Shape the Obsidian Fang"
+  tob_research_desc:0 "Obsidian—glass forged by the earth's fury—is sacred to the Old Bones. It cuts with unnatural sharpness, said to draw blood that the ancestors can see. Through forgotten rites and old-world salvage, our smiths hone weapons that are more than tools—they are judgment, carried in hand."
+
+  tob_tribal_strength:0 "Blood and Bone"
+  tob_tribal_strength_desc:0 "We are what remains. Flesh bound by purpose, tribes bound by grief. The Old Bones do not scatter. In hardship, we tighten. In silence, we endure. In war, we become one. Let the world break around us—it will not break *us*."
+
+  tob_preparing_hunting_tools:0 "Reclaim the Hunt"
+  tob_preparing_hunting_tools_desc:0 "The beasts of this land no longer fear man. That changes now. We walk with the old ways—obsidian barbs, sinew lines, bone-hafted spears. But we shape them anew. Hunting is not survival—it is a rite, a proof that we still remember how to *take* from the wild what is owed."
+
+  tob_tonics:0 "Bonebrew and Spiritflame"
+  tob_tonics_desc:0 "The Old Bones do not beg the wasteland for its gifts—we command it. Brewed by ashwives in silence, our tonics bind us to the giants beneath the earth. With each sip, we remember. With each swallow, we grow stronger. The world has forgotten how to heal itself. We have not."
+
+  tob_throne_of_bones:0 "The Throne of the Nameless"
+  tob_throne_of_bones_desc:0 "It stands beneath the ivory ribs of giants long dead. The Nameless Warrior does not sit upon it, for it is not his throne—it is the memory of all we lost, and the promise that we will rise again. Warriors gather not for conquest, but for reckoning. Beneath fossil gods, we sharpen our spears."
+  tob_throne_of_bones_tt:0 "Summon the Tribes\n§gUnder the watch of ancient bones, warriors pledge themselves to vengeance.§!"
+
+  #spellcheck_ignore: tob_oro_wg, tob_pnt_wg, tob_confront_the_nightmares_desc
+  tob_oro_wg:0 "The Sund'ring of Ouroboros"
+  tob_oro_wg_desc:0 "The goddess in black has ruled long enough. Her voice twists the wind, her shadow chokes the land. But shadows can be pierced. The Nameless Warrior marches, and with him comes reckoning. The bones remember. So shall she."
+
+  tob_consolidate_oro_1:0 "Unmake Her Sanctuary"
+  tob_consolidate_oro_1_desc:0 "Ouroboros no longer sings her name. The Daughters scatter. The fires dim. Now we walk her halls with purpose—not as thieves, but as judges. Let the city be cleansed, rebuilt in flesh and stone. The dead do not rule the living."
+
+  tob_consolidate_oro_2:0 "To Sit Where a Goddess Fell"
+  tob_consolidate_oro_2_desc:0 "The Dark Pyramid rises still, its bones untouched, its heart still humming with forgotten rites. Some say no mortal should claim it. Others whisper that the Nameless Warrior already has. The question is not if he will ascend—but what it will cost to sit where a goddess once knelt."
+
+  tob_confront_the_nightmares:0 "§RThe Inferno§!"
+  tob_confront_the_nightmares_desc:0 "§R"But fix thine eyes below; for draweth near\nThe river of blood, within which boiling is\nWhoe'er by violence doth injure others.\nO blind cupidity, O wrath insane,\nThat spurs us onward so in our short life,\nAnd in the eternal then so badly steeps us!"§!"
+
+  tob_reject_hubris:0 "Reject Hubris"
+  tob_reject_hubris_desc:0 "§O"I am the master of my fate, I am the captain of my soul."§!" #Invictus
+  tob_reject_hubris_tt:0 "§gIn the absence of answers, the Nameless turned to the stories of the living—survivors who spoke of Tyrantus, the last Tyrant Chief of the Young Bloods. When he learned that Tyrantus had been exiled to Burham Springs, he followed, not to rewrite history, but to retrieve its weight. What he found were bones, blackened but unbroken—strong enough to bear a name forward. He returned not as a legend, but as a vow, and the Old Bones knelt before Tyrantus, reborn.§!"
+
+
+  tob_honor_the_past:0 "Revenge for the Fallen"
+  tob_honor_the_past_desc:0 "Farson burned, and we buried our dead in silence. But the silence is over. The Mole Miners will learn that the bones they shattered still carry weight—and we are coming north to remind them."
+
+  tob_survivors_of_farson:0 "The Survivors of Farson"
+  tob_survivors_of_farson_desc:0 "They fled the screaming earth, the fire, the devils from below. But they did not scatter. They followed the Nameless One—not for vengeance, but because he stood when all others fell.\nNow, they walk behind a new name: Tyrantus—not born, but chosen. In memory of the fallen."
+
+  tob_a_ready_people:0 "Ready for Peace"
+  tob_a_ready_people_desc:0 "[TOB_Leader.GetName] has heard of the Midnight Union—those who chose to rebuild rather than burn. He wonders, if his people were ever to touch a group so far north, if such a peace could bloom in the shadow of giants. [THIS.GetNameDef] have endured much, and perhaps, at last, they have earned the right to rest without fear."
+
+  tob_caravans_north:0 "Caravans to the North"
+  tob_caravans_north_desc:0 "The land remembers our tread.\nOld routes are opened. Distant kin are called. Our stories move with the wind, reaching ears once closed by fear. The caravans do not just carry goods—they carry our truth, our name, and our return."
+
+  tob_suits_of_love_and_iron:0 "Suits of Love and Iron"
+  tob_suits_of_love_and_iron_desc:0 "We wear our grief like armor. Each plate forged from memory, each seal etched with the names we will not forget.\nThese are not suits of war—they are promises. That we will protect what remains. That we will never again let the fire take everything."
+
+  tob_embrace_hubris:0 "Embrace Hubris"
+  tob_embrace_hubris_desc:0 "§R"What can change the nature of a man?"§!" #Planescape torment
+  tob_embrace_hubris_tt:0 "§gThe Nameless found a comic in the dust, and from it, he built a shrine of stories and silence. As dreams bled into memory, he began to believe that the world of Grognak was not fiction, but buried truth—waiting to be danced back into being. He faced the smoke in Burham Springs not as a man, but as a myth made manifest, and returned changed. The Old Bones shed their name and rose as the Grogs—creatures of dream, ink, and firelight.§!"
+
+
+  tob_embrace_hubris_1:0 "Whispers of the Gorgon Queen"
+  tob_embrace_hubris_1_desc:0 "West of the Winding Rocks lies Mesmeralda, the Gorgon Queen.\nThey say she sees into the mind's soft places—warping memory, rewriting grief. Her power is no myth: a chorus of lost souls who believe only what she bids. She, too, has embraced the §MHubris§!. Perhaps there is something to learn... or something to fear."
+
+  tob_embrace_hubris_2:0 "The Throne of Grognak"
+  tob_embrace_hubris_2_desc:0 "He no longer dreams of Farson. He dreams of a throne carved from dragonbone, of a thousand battles fought, of victory with every swing. He is not a mourning man. He is a warrior. Grog lives in him now.\nAnd the people chant his name."
+
+  tob_embrace_hubris_3:0 "Martian Dreams"
+  tob_embrace_hubris_3_desc:0 "To the east dwell the Spacers—strange, starminded folk who believe this world is not Earth, but Mars.\nTheir legends speak of a red sky, of rayguns and the War Maiden Maula, whose coming will bring order to the void.\nMadness? Perhaps. But if the Grogs are to bring Hubris to life... then even the mad may hold a map."
+
+  tob_embrace_hubris_4:0 "Stitch the Story Anew"
+  tob_embrace_hubris_4_desc:0 "The past has no hold here We spin our new tale in broad strokes—monsters, maidens, titanic duels. We carve truth from pulp and speak it until it becomes real. Our seamstresses become scribes. Our warriors become myths. And when the world resists, we will shout it down with glory."
+
+  tob_embrace_hubris_5:0 "Dance the Legend True"
+  tob_embrace_hubris_5_desc:0 "This is not madness. This is ritual.\nWe stomp the earth until the sky bends. We chant until the stars blink in recognition. We dress as Grogs, speak as Grogs, fight as Grogs. Until the world itself becomes our story. Until the lie becomes the last truth left standing."
+
+  tob_continue_the_conquest:0 "Continue the Warpath"
+  tob_continue_the_conquest_desc:0 "Our conquests have brought us power and glory. With renewed strength, the warpath must continue. No enemy shall stand in our way. Onward to victory!"
+
+  tob_dry_wg:0 "Put the Sleepers to.. Sleep?"
+  tob_dry_wg_desc:0 "The Sleepers, a strange, sickly, and esoteric tribe of science-men and eggheads, pose little threat. With Ouroboros's lands under our control, they will fall easily. Conquest will be swift. Their lands will be ours."
+
+  tob_pnt_wg:0 "Bring Pain(t) to the Painted Men"
+  tob_pnt_wg_desc:0 "The Painted Men are a nuisance we cannot stand! Such a weak, pitiful tribe! We will rule, and they will be forced to clean our boots!"
+
+  tob_blc_wg:0 "Breach the Big Top"
+  tob_blc_wg_desc:0 "The Big Top, nestled to our east, houses a wealthy trove. Their riches and resources will be ours!!"
+
+  tob_uin_wg:0 "Drive Back Uintah"
+  tob_uin_wg_desc:0 "The Uintah tribe must be pushed back to the mountains. Their resistance is a minor hindrance. With force and determination, we will prevail. They will learn to fear the Old Bones."
+
+  tob_crz_wg:0 "End Crazy Horns"
+  tob_crz_wg_desc:0 "The fire-worshipping Crazy Horns threaten our domain. Their god, Phoenix, will fall before us. We will extinguish their flames. Victory is inevitable."
+
+  tob_dea_wg:0 "Subjugate Dead Horses"
+  tob_dea_wg_desc:0 "The Dead Horses tribe must bend the knee. Our power will crush their resistance. They will submit to our rule. [ROOT.GetName]' dominance is absolute."
+
+  tob_a_new_day:0 "A New Dawn"
+  tob_a_new_day_desc:0 "With all enemies vanquished, the Old Bones stand triumphant. Our strength is known far and wide. A new era of power begins. The wasteland is ours."
+
+  tob_return_north:0 "Return Home"
+  tob_return_north_desc:0 "Having gathered immense strength, it's time to return north. Our homeland awaits our rule once more. Never again will we be driven out. [ROOT.GetName] reclaim their birthright."
+
+  tob_conquer_utah:0 "Follow the Tracks"
+  tob_conquer_utah_desc:0 "New tracks in the sand lead westward to Utah. We shall follow and conquer all in our path. [ROOT.GetName] will expand our domain. Glory awaits in the west."
+
+  tob_ally_legion:0 "Ally with Caesar"
+  tob_ally_legion_desc:0 "The southern king, Caesar, sees value in our strength. An alliance could prove formidable. Together, we will dominate. A partnership of power."
+
+  tob_an_earned_name:0 "Nothing is Real, Yet He Remains"
+  tob_an_earned_name_desc:0 "The world doubted him, so he rewrote it. What was once fiction now marches, chants, and remembers. Grognak is real—because [ROOT.GetNameDef] believe, and belief outlives everything."
+
+  tob_memories_of_family:0 "Putting the Past to Rest"
+  tob_memories_of_family_desc:0 "[TOB_Leader.GetName] led not for glory, but to carry what others could not. He buried what could be buried, and carried the rest in silence. The tribe does not cheer—they remember."
+  # Ideas
+
+  #Events
+  nf_tob.1.t:0 "The Nameless"
+  nf_tob.1.d:0 "He remembers the pine first—sharp and sweet, drifting on the morning breeze. The rush of the creek below their camp, cold and fast, echoing through the stones. His daughter's shout of triumph one dawn, beaming as she lifted a great salmon half her size, water streaming from her arms, laughter in her throat. She begged him to smoke it whole, to share it with the Fireflies when next they came down from Rosebud.\n\nHe remembers the songs shared by firelight, rough-voiced and low. His wife would sing first, always something old, something soft. He would join on the second verse. The bones they wore were not metaphor—they were real, scavenged from the earth, shaped into tools and armor. Great beasts, long dead, whose spirits the tribe honored. They believed the bones remembered. He believed the same.\nThey lived quietly. Strongly. As they had for generations.\n\nThen the ground split.\nThe Mole Miners came like a sickness—clawed devils wrapped in metal and gas, burrowing up from the deep to burn Far Son to the roots. He remembers the sound of it: thunder that never stopped. His kin fell like dry leaves. The beasts' breath scorched the air. He screamed their names—his daughter's, his wife's—but the fire answered instead.\n\nHe fought as many of them as he could, and searched for as long as he could bear. Eventually, his body gave out beneath the scorching sun."
+  nf_tob.1.a:0 "His eyes looked up.."
+  nf_tob.1.a.tt:0 "The dust caked his lungs. His limbs ached with the weight of grief. The sun beat down like judgment.\n\nThen, he saw it.\n\nA figure crouched before him. Wreathed in smoke. Antlers of black bone curled from its skull, its limbs long and burning at the edges. It opened a charred tome, pages curling like dried skin. The voice that came was hollow, impossibly old.\n\n§R\"The darkness of the afterlife is all that awaits you now. May you find more peace in that world than you found in this one.\"§!\n\nIt reached for him. Long fingers, sharp as broken teeth. The devil smelled like Far Son. Like ash. Like loss.\n\nBut the warrior did not yield.\nWith a roar born of pain, he pushed himself upright. His muscles screamed. His blood burned. But he rose.\n\nThe devil stopped. It laughed—a dry, rasping thing.\nAs he began to force his body to walk, to move from this awful place, he turned his head to look to the devil again. The specter remained where it was, unmoving. Watching. It did not follow. It did not fight.\n\nIt had his face.\n\nHis own eyes stared back at him from the void, empty and knowing.\n\nHe had chosen.\n\nHe did not belong to Death anymore."
+
+  nf_tob.2.t:0 "The Pilgrimage South"
+  nf_tob.2.d:0 "He could not save his wife. Nor his daughter. But he had survived.\nThat alone was enough for others to follow.\n\nWhen the dust settled over Far Son and the screams faded into silence, the Nameless rose from the ashes—and behind him, the shattered remains of the Old Bones, and other refugees from the slaughter, began to gather. Scattered settlers, lone hunters, and kinless tribals spoke his name in whispers—though none dared to utter the true one, stolen by fire. They saw in him something sacred. Something impossible.\nA man who had defied death.\n\nSo they followed. Not out of command, but out of hope. Southward, across cracked stone and forgotten trails, until they reached a place from old stories: one of the ancestral waystations the Old Bones had once honored in their seasonal wanderings.\n\nIt was a place the ancients had named long ago, though that name was gone now. What remained was the Monument—it housed ribcages taller than trees and skulls broad enough to house a campfire within. It was built not by hands, but unearthed by time.\nThe bones of the giants still lay undisturbed.\nHere, the tribe made camp. They buried their dead—those carried from Far Son, those found along the road—and offered songs of mourning beneath the gaze of fossil gods. Some believed they had come to the end of their journey. Others, that it had only just begun.\nBut all of them knew one thing:\nThey still lived.\nBecause he still walked."
+  nf_tob.2.a:0 "The Monument will be our new home."
+  nf_tob.2.b:0 "We follow the path of giants."
+
+  nf_tob.3.t:0 "The Lost Blood"
+  nf_tob.3.d:0 "Long before fire took Far Son, before the Nameless rose from ash, the Old Bones shared their lives with a sister tribe: the Young Bloods. Each season, they would trade lands and traditions—migrating north and south in a sacred rhythm older than memory. It was balance. It was kinship. The young would learn from the old, and the old would remember their youth.\nSo when the Old Bones made their long, grieving journey south, many believed they would find their kin waiting. That the Young Bloods had endured, as they had. That together, they might rebuild what was lost.\n\nBut the lands were silent.\nWhat they found instead was ash and idols. The camps once filled with laughter and song were buried in shrines of blackened stone. The sacred trails were overgrown, marked by foreign glyphs and bone charms not their own. \nWord came slowly, from cowed traders and haunted scouts: the Young Bloods had been taken. Not by war, nor plague, but by a woman with smoke in her breath and stars in her eyes. A witch, they said. A queen. A goddess. The Dark Mother.\nShe had come from the south, they whispered, from the pyramid that cuts the sky. Her Daughters—robed in twilight and thorns—had woven themselves into the Young Bloods until the tribe no longer remembered its own gods, its own names. The sacred migration had ended. The stories had been rewritten. The Young now marched in step to foreign drums, faces painted not in joy but obedience. “Who could stand against her?” the broken murmured.\n\nAnd then he returned.\nThe Nameless. Scarred by flame, crowned by memory, walking proof that even Death could be denied.\nAmong the fractured tribes—those who fled the Dark Mother's reach, who remembered a time before the Pyramid—hope rekindled. If a man could rise from fire and shadow, could he not also stand before a goddess?\nIf he could live... perhaps they could be free."
+  nf_tob.3.a:0 "We will remind the them who they are."
+
+  nf_tob.4.t:0 "The City Without a Queen"
+  nf_tob.4.d:0 "Ouroboros did not fall with fire or fury—but with silence. The Nameless entered the city expecting resistance, vengeance, some final sermon from the Dark Mother. But she was not there. He and his warband wandered the broken streets for days, searching temples, pyramids, crypts, and shadowed halls for a trace of Hecate.\n\nThey found nothing.\n\nNo body. No proclamation. No shrine left in ruin. Only murals too fresh to flake and air too still to trust. Some said the city itself was hiding her. Others whispered that she had fled into smoke and metaphor—unmaking herself to deny them the satisfaction of conquest.\n\nThe shamans tried what they could. They lit sacred flames in the alleys, burned ashgrass in the pyramid’s heart, and carved sigils along the stone ribs of the city. It was not enough to cleanse her—but perhaps enough to keep her sleeping.\n\nOuroboros did not feel like a prize. It felt like something watching."
+  nf_tob.4.a:0 "She is gone—but not undone."
+
+  nf_tob.5.t:0 "A New Throne?"
+  nf_tob.5.d:0 "The Dark Pyramid, an intricate wonder of engineering, stood as a testament to the ingenuity of the past. Made out of strange obsidian and resistant to the radiation of the wasteland, it was the perfect home for a new empire. As [TOB_Leader.GetName]'s forces secured the city, the question arose - should we claim the pyramid as our capital? Establishing a new throne here would solidify our rule and deter any challengers.\n\nThe pyramid's dark history, however, could not be ignored. It was a relic of the Dark Mother, a symbol of her tyranny. Some argued that we should dismantle it, to erase her legacy and build something new in its place. This debate sparked heated discussions among the tribe's leaders, each side presenting compelling arguments.\n\nUltimately, the decision rested with [TOB_Leader.GetName]. He weighed the strategic advantages of the pyramid against the symbolic victory of tearing it down. Whatever the choice, it would shape the future of our new tribe. The Dark Pyramid stood as both a challenge and an opportunity, a crossroads for the path we would take in our quest for dominance."
+  nf_tob.5.a:0 "Embrace the Dark Pyramid"
+  nf_tob.5.b:0 "Leave it be! It's taboo!"
+
+  nf_tob.6.t:0 "The Name He Took Was Older Than the Story That Invented It"
+  nf_tob.6.d:0 "Grog's conquests were never about land—they were about proving a point: that the world is wrong. His tribe now walks without radiation, without guns, without fear, for they have rejected the great lie. §RNOTHING IS REAL.§! Not the walls of cities, not the blood on steel, not even the sun that watches above.\n\nInstead, they chase the truths buried beneath the world: the wisdom of the ancients, the truth of the Disjunction, the heresies of the Interlopers, the hidden grammar of stories left in gutters and gas stations. Through these, they find clarity—not through memory, but through myth.\n\nIn time, this world—the rusted fiction—will be the dream.\nAnd his world, the world of §RGrognak§!, will be the truth that wakes."
+  nf_tob.6.a:0 "Grognak lives, because we believe."
+
+  nf_tob.7.t:0 "The Burial That Could Be"
+  nf_tob.7.d:0 "There were no bodies to bury—no bones, no ash, no keepsakes salvaged from the ruin of Farson. But Tyrantus buried them all the same.\n\nHe dug the graves himself, hands wrapped in cloth, smoke curling in the cold air. Into the earth he placed what he could: a bundle of tattered comics, stories she would have loved; and beside them, a whole smoked salmon, wrapped in bark and cord—her favorite, made the way she liked it. He did not speak during the ceremony. No one joined him.\n\nWhen it was done, he stood there for a long while, watching the wind scatter pine needles across the fresh-turned soil. And behind him—maybe in memory, maybe in truth—he thought he heard her laugh again.\n\nHe hoped they would be proud."
+  nf_tob.7.a:0 "They are with me now."
+
+  nf_tob_mdt.1.t:0 "The Gorgon Queen"
+  nf_tob_mdt.1.d:0 "The scarlet woods of the northwest whisper with old thoughts, red leaves twitching as if listening. It is said no map leads to the temple of the Gorgons—only visions. But Grog needed no guidance. He walked through shadow and silence until he stood before a structure of ivory pillars and coiled stone, half-swallowed by time.\n\nInside, he met her. Mesmeralda, the Gorgon Queen. She sat upon a throne of vines and vertebrae, her eyes unfocused yet all-seeing. No crown. No guards. Just that gaze. She did not speak at first—only stared, her expression unreadable.\n\nThen, she smiled.\n\n'You found the path without my touch,' she said, voice like silk wrapped in thorns. 'Most need help to see what you have seen.' She offered no riddles, no challenge. Only an outstretched hand. 'If you wish to shape the world in the image of your story, then let our stories entwine.'"
+  nf_tob_mdt.1.a:0 "The Gorgon walks beside us now."
+
+  nf_tob_mdt.2.t:0 "Pilgrims of the Myth"
+  nf_tob_mdt.2.d:0 "They came from the north, veiled in serpentine silk and bone-pinned masks, eyes rimmed in greenstone pigment. They called themselves the Last Masked, and they bore the spiral sigils of the Gorgon Queen across their cloaks. Though scattered and soft-spoken, there was a rhythm to their arrival—a procession, not a migration.\n\nMesmeralda, they whispered, had not died. In the wake of her fall, her mind had shattered—not into madness, but into pieces. Dreams, memories, commandments—scattered across bark and blood and wind. Each of them claimed to carry a shard of her. And yet, they had come not to command, but to serve.\n\n'We see her spirit in you,' they told Grog. 'The one who walked into the ivory coil and left with both eyes open. If you would call yourself her blade, we will be your shadow.'\n\nNow they move among the Grogs like smoke—offering rituals, dances, parables, and war hymns meant to reweave the myth and awaken what sleeps beneath. Not as conquerors, but as keepers of the spiral.\n\n'We are hers. And now—we are yours.'"
+  nf_tob_mdt.2.a:0 "Let the serpent coil around the spear."
+
+  nf_tob_dream.1.t:0 "The Dust and the Page"
+  nf_tob_dream.1.d:0 "The wind howls low across the road, like a wounded dog stalking the edge of the world. The Monument is quiet behind him now—its bones picked clean by time and memory. The Nameless walks alone.\n\nThen he sees it: half-buried in the dust, clinging to a gnarled bush like it was waiting. A comic book. The colors are sun-washed, the cover nearly gone, but the title is still legible beneath the grime: Grognak the Barbarian in the the Jungle of the Bat-Babies.\n\nHe kneels. His fingers brush the edge of the page.\n\nAnd then—\n\nA firelit tent. A small voice beside him. The crackle of flame. His daughter, curled up against his arm, eyes wide as he reads aloud the story of Grognak's battle against the Bat-Babies. She had asked him, then:\n\n'§RDid he really exist?§!'\n\nHe cannot remember what he told her."
+  nf_tob_dream.1.a:0 "Pick up the comic."
+  nf_tob_dream.1.a.tt:0 "§RThis begins the Path of Myth.§!\n§gYou will follow the dreams of the Nameless as he seeks to become more than man—fashioning the world from memory and fiction, until story becomes reality. Truth will not be inherited, but imagined, and the Grogs will rise from the ashes of belief.§!"
+  nf_tob_dream.1.b:0 "Leave it where the wind left it."
+  nf_tob_dream.1.b.tt:0 "§OThis begins the Path of Heritage.§!\n§gYou will walk with the Nameless as he reclaims what was lost, honoring the memory of kin and name. Through sorrow, duty, and silence, the Old Bones will find new strength—and a leader worthy of the title Tyrantus§!."
+
+  nf_tob_dream.2.t:0 "The Library of Dust"
+  nf_tob_dream.2.d:0 "They bring them to him now—folded, frayed, sunburned comics, pulled from gas station shelves and buried trunks, traded for bullets and bread. The Old Bones don't ask why. They see it in his eyes.\n\nGrognak. The War Maiden of Mars. The Unstoppables. Page after page of ink-drawn dreams, of champions and tyrants, of snakes and skulls and stars.\n\nThe Nameless reads them all.\n\nHe builds a small shrine in the back of the Monument—stacked covers in uneven piles, paper wrapped in cloth, a makeshift lectern where he sits, long after others have gone to sleep.\n\nHe's still looking for something.\n\nA line. A panel. A phrase that will crack open memory like a fossil split under pressure. He wants to remember what he told her—that night, long ago, when she asked if Grognak was real.\n\nHe still cannot remember.\nBut he believes that the answer is in here, somewhere."
+  nf_tob_dream.2.a:0 "Maybe the next one will have it."
+
+  nf_tob_dream.3.t:0 "Chasing the Dragon"
+  nf_tob_dream.3.d:0 "He hadn't eaten in days. Not out of devotion, but necessity—his hunger had narrowed into something sharper. He had begun to feel the edges between things. Between pulp and truth. Between ink and blood.\n\nThe comics lay open around him like scattered scripture. His shrine was quiet, candlelit, wrapped in dust and paper. The old stories flickered across his mind—Grognak's axe splitting the sky, the War Maiden leaping from a burning star, the Unstoppables defying all ends.\n\nThen he looked up.\n\nAbove him, embedded in the Monument's stone wall, was a skull. The bones of some vast creature, long buried and half-forgotten. The Old Bones had always said they belonged to giants. That was their truth.\n\nBut the pages had taught him another.\n\n§RIt was a Dragon.§!\n\nNot a symbol. Not a metaphor. A dragon, real as the breath in his lungs. And if that was true, then all of it was. Grognak's world wasn't a lie. It was simply deeper—buried beneath this false skin of rust and sorrow.\n\nHe understood then.\nHe had never been trying to tell his daughter anything.\nIt was §Rshe§! who had been trying to tell §Rhim§!.\n\nAnd for the first time in many, many years... he almost swore he could hear her laugh again."
+  nf_tob_dream.3.a:0 "The world is only waiting to wake."
+
+  nf_tob_dream.4.t:0 "The Shape of a New Tribe"
+  nf_tob_dream.4.d:0 "They gathered around the fire because they trusted him. They had followed him from the ashes of Farson, across cracked stone and into the shadow of bones. He had led them through grief and silence. And now, he was trying to give them a story.\n\nHe spoke of the old world—not the one that burned, but the one beneath it. He laid out the comics like maps, tracing paths through pulp-colored battles and cosmic trials. He showed them where Grognak had earned his name—deep in the bowels of hell, facing a beast that wore the faces of men he'd failed.\n\nThe tribe listened, uncertain. Some furrowed brows. Some exchanged glances. Some smiled, not with disbelief, but with the kindness reserved for a madman you still love.\n\nBut the Nameless did not waver.\n\nHe rolled up the comic. He pointed westward.\nTo Burham Springs.\n\nIf Grognak found truth in hell, then so would he. And when he returned, they would no longer be survivors.\n\nThey would be Grogs."
+  nf_tob_dream.4.a:0 "Into the fire, to become the myth."
+
+  nf_tob_dream.5.t:0 "Issue #5: The Smoke Wears Antlers"
+  nf_tob_dream.5.d:0 "None know what the Nameless saw in Burham Springs.\nOnly that he returned walking sideways through mirrors,\ndragging a silence behind him that made the Grogs weep.\n\nThey say he fought the Atlas of Smoke,\nantlers scathing the stars,\nand every time he struck,\nit struck him with an older name.\n\nHe wielded the myth like a blade,\na memory wrapped in a lie,\nand found, in the hollow of that battle, his Spiritkind.\n\nHe tore the Disjunction open and let the spirits flow through,\nbanishing the Djinn of the Depths by unmaking its metaphor."
+  nf_tob_dream.5.a:0 "And with that, the Grogs were born."
+
+  nf_tob_dream.6.t:0 "The Tyrant Chief"
+  nf_tob_dream.6.d:0 "The Monument was quieter than usual—wind slinking between the ribs of the stone beast overhead, fires dimmed low. The Nameless sat alone until a voice called out through the dust.\n\nShe was wrapped in old leather, eyes sun-scorched and heavy with distance. One of the Young Bloods. A survivor. She had wandered far, chasing old signals, older stories. And now, she spoke of what remained.\n\nThe Daughters of Hecate had come not as invaders, but as omens. They left nothing. Among those who stood in their path was the Tyrant Chief—Tyrantus—the last of their line. Not a tyrant by cruelty, she explained, but by ceremony. It was an old title, passed down from the tribe's founders. The one who took the burden of all decisions, all sacrifices.\n\nThe Nameless said nothing at first. But he remembered.\n\nHe remembered the games of dust-footed sport, the brash laughter echoing through the canyons. He remembered running side by side, fighting side by side. He remembered that they once vied for the same woman—his wife, long gone now—and that it was never bitterness, only ritual. He had not known Tyrantus had carried the name to the end.\n\nNow he did.\nAnd it sat in his chest like a stone."
+  nf_tob_dream.6.a:0 "He carried it well. Until the end."
+
+  nf_tob_dream.7.t:0 "The Fate of the Tyrant"
+  nf_tob_dream.7.d:0 "It came not in dream or fire, but interrogation.\n\nA Daughter of Hecate, captured after a border skirmish—painted lips cracked, defiant even in chains—spoke the words with contempt, perhaps even glee. But they still landed like a blade drawn slow.\n\n§RTyrantus§!, the last of the Young Bloods, had not simply died in battle.\n\nHe had been sent to Burham Springs.\nA punishment for refusing the Dark Mother's demands. An exile to the cursed fissure. A fate worse than death—one meant to erase the man from myth entirely. No soul could survive Burham.\n\nThe fire dimmed around the Monument that night.\nBut in the Nameless, something sparked.\n\nHe had walked the smoke before. He had heard his name come back to him through the voice of the myth. If the memory of Tyrantus could be recovered—if even §Rone§! relic, one truth could be found in that place—then hope might return to the Young Blood survivors.\n\nNot just as grief. But as §Rinheritance§!."
+  nf_tob_dream.7.a:0 "Then we will go to Burham. One more time."
+
+  nf_tob_dream.8.t:0 "The Second Passage"
+  nf_tob_dream.8.d:0 "The wind carried songs that night.\nNot songs of battle, but of preparation—low, mournful tones drawn out across the valley, as if sung to something sleeping beneath the rock. The Grogs gathered quietly, standing beside their kin from the Old Bones and the last of the Young Bloods. They did not speak his name, only watched as he readied himself.\n\nThe ashwives anointed him with smoke and soil. The children pressed beads into his palms, and the elders whispered prayers to the giant-gods, asking they watch over him if the myths refused. There was no ceremony, only silence. And then, he went alone.\n\nInto §RBurham Springs.§!\n\nThe tribe waited.\n\nThey waited through one sun, and then another.\nAnd then, from the ridge, he returned.\n\nNot as he had left. He wore bone armor scorched black by time—ridges of white exposed beneath the soot, each plate shaped by fire and resolve. The bones, it turned out, had survived where the man had not. Hardened by the trial, they had protected what remained.\n\nIn them, he found a piece of Tyrantus.\nAnd so, he carried him forward.\n\nThat night, the tribe knelt.\nAnd the Nameless rose, reborn as the Tyrant Chief."
+  nf_tob_dream.8.a:0 "He took the name Tyrantus—not as glory, but as vow."
+
+  # Tooltips
+  tob_grog_flag:0 "Chose the Path of §RMyth§!."
+  TOB_ready_for_burham:0 "We are ready to venture to Burham Springs."
+  TOB_release_mesmeralda:0 "Mercy for the Gorgon Queen"
+  TOB_release_mesmeralda_desc:0 "Word is, someone out west fell into Hubris just like we did—only louder. Let's go dig them up, dust them off, and if they're dead... well, we'll just dream them back into the story."
+  TOB_invite_mesmeralda:0 "Ally with the Gorgon Queen"
+  TOB_invite_mesmeralda_desc:0 "They say the world is not ending, only rearranging. That beneath the concrete and smoke, beneath the rusted pylons and sun-bleached signs, lies a hidden latticework—a pattern older than cities, before the Disjunction, woven into the dust. To see it clearly, one must dance.\nMesmeralda arrived not alone, but in a procession that moved like a thought across the desert. Masked Gorgons, painted and singing, carved spirals in the sand with each step. When she stood before Grog, she did not speak. She only smiled—as if recognizing a chapter she'd read long ago.\nThis is not conquest. This is concord.\nA shared vision to overwrite the world, not with war—but with a better story."
+  tob_the_barbarian:0 "Last of Farson"
+  tob_nightmares:0 "The Bone-Sick Curse of Hubris Dreamt"
+  tob_the_barbarian_2:0 "The Barbarian"
+  tob_the_barbarian_3:0 "Hero of Farson"
+  tob_the_barbarian_tt:0 "§gDestroying nations more advanced than you will give you a variety of bonuses. Loot and pillage!§!"
+  TOB_grog_elites_ADJ:0 "Grogs"
+  TOB_grog_elites_DEF:0 "The Grogs"
+  TOB_grog_elites:0 "Grogs"
+  TOB_grog_intellectuals_ADJ:0 "Grogs"
+  TOB_grog_intellectuals_DEF:0 "The Grogs"
+  TOB_grog_intellectuals:0 "Grogs"
+  TOB_grog_people_ADJ:0 "Grogs"
+  TOB_grog_people_DEF:0 "The Grogs"
+  TOB_grog_people:0 "Grogs"
+  TOB_grog_ruler_ADJ:0 "Grogs"
+  TOB_grog_ruler_DEF:0 "The Grogs"
+  TOB_grog_ruler:0 "Grogs"
