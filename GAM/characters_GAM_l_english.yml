@@ -1,0 +1,24 @@
+﻿l_english:
+    GAM_avenged:0 "Avenged."
+
+    GAM_MARSHALL_name:0 "Patrol Lead Marshall"
+    GAM_MARSHALL_DESC:0 "Patrol Lead Connor Marshall was born in the anarchic streets of Alexandria back in '49. He saw it all in his time with the Gator Maws—the savagery, the barbarism, and the untalked about degeneracies of the night are all familiar to Marshall. With Sobek's recent fall from power made permanent, Marshall was tasked with managing the future of the savage city. And of everyone who could've been picked for the job, Marshall was a smart choice. He left Alexandria when he was 17 to sign on with the Lafayette Patrolmen specifically because he was tired of living a life constantly in a state of flux, and now he intends to bring some of the stability of Lafayette to Alexandria while still keeping in touch with the wild childhoods that make the people of Alexandria so free in their upbringings. Strangely, his hybrid strategy seems to be working, and every day he makes new friends out of old enemies."
+
+    GAM_CLAW_NAME:0 "Theodore Claw"
+    CLAW_DESC:0 "Theodore Claw, son of former Gator Maws leader Reanolds Claw, has been plotting his family's return to power for a long time. But plotting is pretty much all he ever did. He was always more of a doer than a thinker, after all. I mean, come on. Thinkin's for the fancy pants fools down in Lafayette and stuff. Fighting? Now that's where the Claw family was always at their best. Fortunately, all that planning about nothing seems to have worked out for Theodore, and now he's been thrust up to the head of the Gator Maws like he always hoped would happen. He's not exactly sure what he's gonna do with his old man's throne under his fat buttocks, but he'll be damned if he's gonna let a good fight get away from him while he's got the Gators to command."
+
+    GAM_EVERYOUNG_NAME:0 "Grant Everyoung"
+    EVERYOUNG_DESC:0 "Grant "Goldtooth" Everyoung is a former gang leader from New Orleans. Emphasis on "former"—his old gang sold out to the mob a few decades back and he's been a down-on-his-luck wanderer ever since. Even he's not quite sure why he wandered into Alexandria to sign on with the Gator Maws, just that he needed work and they were hiring anyone who could hold a gun thanks to the Texan threat. But despite everything, he seems to have done something right, as he's now sitting exactly where he started with an entire gang kissing his feet and the world at his fingertips. Sure, he's probably gotta report to the bigger guys above him at some point to figure something out, but that can wait. There's a lot of weird tribal aspects to this gang, he's realized, and he knows he can make good use of that to motivate them to ever greater deeds of criminality."
+
+    GAM_SOBEK_NAME:0 "Sobek the Powerful"
+    GAM_SOBEK_NAME_ALT:0 "Gator Queen Sobek"
+    SOBEK_DESC:0 "The very definition of a cruel tyrant, Sobek rules the Gator Maws of Alexandria with an iron fist. Having wandered north in her childhood as a bitter and angry orphan of Lafayette, Sobek won her place on top of the Gator Gang through a leadership challenge after wrestling and killing a horrifically mutated 'gator when she was 14. Though the coincidence of her given name mirroring the Egyptian crocodile-god of the Nile isn't a widely-known fact, Sobek the Powerful takes great pleasure in knowing just how far she's come from the runt of a pathetic and cruel orphanage, and the hybrid culture of gangs and tribes that now follows her does so with a feverish loyalty. She might not have been born in the anarchy of Alexandria's muddy streets, but she sought it out of her own accord, and she is surely the wasteland's gift to the Gator Maws for their loyalty to the cunning ways of their fathers. With the roughest roughnecks in Louisiana at her back, the young Sobek stalks the Mississippi marshes with her people seeking any travelers who stray too far from the roads."
+
+    GAM_TEDDY_NAME:0 "Theodore 'Teddy' Claw"
+    GAM_DAREN_NAME:0 "Daren Carter"
+    GAM_CLARENCE_NAME:0 "Clarence Reinhardt"
+
+    GAM_marshall:0 "Of the Feral Children"
+    GAM_teddy:0 "Loyal Rat"
+    GAM_clarence:0 "Professional Sucker"
+    GAM_daren:0 "Happy Bootlicker"

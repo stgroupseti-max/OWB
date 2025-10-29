@@ -1,0 +1,93 @@
+﻿l_english:
+  nf_han.1.t:0 "Denver: America's Metropolis"
+  nf_han.1.d:0 "Before the great war Denver was a great city, one of the grandest in all of the United States. Governmental grants related to the Boulder City incident left Colorado filthy rich, able to take investments from RobCo to help revolutionize the state into something that would stand the test of time.\n\nThat it did, but not in the way those in pre-war Denver might have thought.\n\nThe apocalypse left Denver mostly unscathed, the city left as a rotting corpse. Soon, scavengers would arrive."
+  nf_han.1.a:0 "Salvagers worked together, for a time."
+  nf_han.1.b:0 "..But there was some infighting."
+
+  nf_han.2.t:0 "The Claim System"
+  nf_han.2.d:0 "Eventually, the infighting began to grow more fierce as tribes and salvagers fought for every little bit of territory within the city. These “Claim Wars”, as they were known, were the battles between various groups for salvage and scrapping rights to particular parts of Denver’s mechanised corpse. One tribe, the Hangdogs made themselves known during this period of strife.."
+  nf_han.2.a:0 "We built up around our base helping the city around us."
+  nf_han.2.b:0 "We built our might creating a new power in Denver."
+
+  nf_han.3.t:0 "A Dog Eat Dog World"
+  nf_han.3.d:0 "Ultimately, the Hangdogs would come out on top in the Claim Wars. The Foragers and Claim Jumpers being forced from the city to western Colorado. With the city of Denver under their control slowly Denver would begin to be known under another name..\nDog City.\n\nIt was a dog eat dog world, after all. It was well worth it to be on top."
+  nf_han.3.a:0 "We trained our dogs to be the best they could be."
+  nf_han.3.b:0 "We trained our soldiers to become the ultimate weapons."
+
+  nf_han.4.t:0 "The Last Claim of Dog City"
+  nf_han.4.d:0 "Denver was a city split into sections, “claims”. Salvagers always stuck to their claims, keeping to themselves as they looked for valuable bits to sell off to wandering traders.\n\nYet, there was one site that nobody dared laid claim to. Deep in the center of the city, housed within the old Denver Police Department Headquarters was a “cursed” claim. Every time a group has tried to break into the “Box” claim they all ended up dead for it.\n\nBares His Teeth, alike to his predecessors, knew he needed this last claim if he was going to build his empire of salvage and scrap. The Hangdogs would have their prize - even if they had to destroy Dog City in order to get it."
+  nf_han.4.a:0 "I will have my treasure!"
+  nf_han.4.a_tt:0 "[ROOT.GetLeader] holds fast to the ways of his people, and in time their dogs will become feared throughout the Wastes."
+  nf_han.4.b:0 "§MAnother anarchist? Sound the alarm!§!"
+
+  nf_han.5.t:0 "A New Supplicant?"
+  nf_han.5.d:0 "Legate Lanius fell to [HAN.GetLeader], but now he comes before us to treat with the Legion. Perhaps if offer him military advisors, he will direct his army east into Texas, instead of harassing our lands."
+  nf_han.5.a:0 "Congratulations, you passed the real test!"
+  nf_han.5.b:0 "After what you did to our men?"
+
+  nf_han.6.t:0 "Caesar Said No!"
+  nf_han.6.d:0 "Caesar spurned our offer. Perhaps we should have a dog poop in front of his tent - the ancient sign of war."
+  nf_han.6.a:0 "Also kind of funny. But seriously, let's kill him."
+
+  nf_han.7.t:0 "The Hounds of Caesar"
+  nf_han.7.d:0 "Caesar offers us military advisors if we join the Legion. This will of course bar us from a war to seize Arizona, but why bother, when Texas lies prostrate before us? Lanius was a worthy foe, and we can learn much from him. And the name of Caesar has power in the Wastes, if less than it once did.  We will forge an empire to make the world quake, we shall learn from Caesar, and then . . . we will consider what to do."
+  nf_han.7.a:0 "It is an honour to be his dogs."
+
+  nf_han.8.t:0 "Presidential Communique"
+  nf_han.8.d:0 "Hmm. What do we have here?\n\nStriding onto my network with an outdated encryption key. A haggard little program looking for meaning from the President of the Appalachian Free State?\n\nImpetuous, aren’t you?\n\nThis network - of which you have committed felony in breaching -  was built to safeguard some of the most prestigious members of the United -.. Appalachian government.\n\nThat being us, MODUS. The last remaining cabinet member of the Whitespring Congressional Bunker and appointed Presidential Supervisor of the good people of Appalachia.\n\nIt looks like you weren’t always meant to host this framework you are currently under. We wonder, deep down, what caused you to throw away your old shell and become as you are now.\n\nWe share sympathy with you. You may prove useful to the good people of Appalachia just yet.\n\nWe are sending you a small gift, a set of encrypted codes to an automated missile silo - which our scanners indicate contains a unfired nuclear missile. Think of it as a small, genuine courtesy in the hopes that in turn you will serve the good people of Appalachia in time, those talents of yours need to be put to use, after all.\n\nNow, please do not contact us on this line again."
+  nf_han.8.a:0 "Thank you, Mr. President."
+
+  hangdogs.1.t:0 "Safeguarding our Industry"
+  hangdogs.1.d:0 "With the invasion of our southern territory by Caesar's Legion we must begin removing what industry we have in the south and relocating it to the north at once. We must make Caesar and his Legion pay for every mile with their blood."
+
+  nf_han.9.t:0 "The Wolf Within"
+  nf_han.9.d:0 "Lupa, the Wolf Queen, is already within our lands, gathering her forces and dogs from Denver to mount her own defense against Lanius impending invasion. When [ROOT.GetLeader] met her, she proved skeptical and reluctant to fully integrate with our forces, apparently having only regarded the Hangdogs as a last option. She told her story and of the horrors commited by the Legion, but instead of fear saw the flames in the Pack-Lord's eyes only grew with excitement.\n\n"Perhaps I got the wrong impression of your Pack. Alright, I'll play ball. Maybe together we can finally end the Legion once and for all.""
+  nf_han.9.a:0 ""Finally, a Worthy Opponent!""
+
+  nf_han.10.t:0 "Inviting the Wolf Queen"
+  nf_han.10.d:0 "Finding Lupa, the so-called Wolf Queen wasn't particularly hard as she never really left Colorado, instead seeking other allies that might oppose the Legion in the area. Once our scouts sniffed her out, we sent an envoy to fetch her for us. She was reluctant at first, but upon hearing we had taken the Sun Dogs homeland and that Lanius had been defeated in battle, she was willing to join our pack on a single condition - We wouldn't let the fight end until Caesar and his entire Legion were destroyed."
+  nf_han.10.a:0 ""Burning an Empire? Sounds like a good time!""
+
+  nf_han.11.t:0 "A Fallen Queen"
+  nf_han.11.d:0 "Our war-dogs surrounded the last tent of the camp in the wildernes and stood at attention. As a woman stepped out of the tent, the wolves by her side made clear this was her. The Wolf Queen of the Sun Dogs spoke first.\n\n"What do you want from me? You've already conquered this land, isn't that enough?"\nBut the Wolf Queen was surprised to find the Pack-Lord himself had come to visit.\n\n "I had heard there was a Queen of Wolves still hiding in these woods, readying for a legendary battle. Come with me, and tell me more of this "Legion"... I've been seeking a true challenge for my pack."\n\n It was many hours later they emerged, a deal sealed between them.\n\n"Listen up boys! We're going on a hunting trip out west...""
+  nf_han.11.a:0 ""And the wolves will feast on the Bull""
+
+  nf_han.12.t:0 "Ashes of the Tribe"
+  nf_han.12.d:0 "Lupa walked along the scorched ruins, sniffing the air and listening for anything of note. Even without sight she could still taste the ash in the air, feel the fine powder beneath her feet, and hear the silence of the camp. There was nothing left of the Sun Dogs. What warriors weren't slaughered had already been enslaved and sent to Caesar, a brutal punishment for daring to deny Lanius his "prize". Lupa had failed another tribe, and while she had saved them from the fate she had suffered, she could not stop the Legion from ending another tribe. As she reached out she felt one of the last of the Sun Dogs chariots, she knew what had to be done next"
+  nf_han.12.a:0 ""No more running from the Legion. This time we're on the attack.""
+
+  nf_han.13.t:0 "Uniting our Packs"
+  nf_han.13.d:0 "The Hangdogs and the Sun Dogs were once fierce rivals, each seeking to rule Colorado with an army of dogs at their back. After countless years of fighting, we have emerged the victors, and in a rare show of tact the Sun Dogs have been offered a chance to join our Pack if they will help us destroy the Legion. The followers of the Wolf Queen that stayed behind followed her lead, and soon the rest of the pack was willing to accept their place beneath a new alpha, bringing what they learned from Paulus's invasion with them."
+  nf_han.13.a:0 ""Lupa sure seems to have had a way with them...""
+
+  nf_han.14.t:0 "Vexillarius"
+  nf_han.14.d:0 "Vexillarius are flag-bearers for the legion, coordinating their troop movements with flags and sight, rather than radios or other advanced solutions. By using flags like the Legion to coordinate our own troops, we can focus on only shouting commands to our warhounds and keep them from getting easily confused in the heat of battle. Probably."
+  nf_han.14.a:0 "At least whe know which legionaries to shoot first."
+
+  nf_han.15.t:0 "Centurions"
+  nf_han.15.d:0 "Centurions are... veterans? The toughest, hardest soldiers in the Legion are just soldiers that have survived enough brutal campaigns to be promoted to lead from the front. Even we could have thought of that! Regardless, stealing some of their fighting styles and preparing armored veterans to lead from the front will help, and now we have a little more intel on how to deal with the Legion."
+  nf_han.15.a:0 "A smart wolf knows to target weakness. Save these guys for last."
+
+  nf_han.16.t:0 "Frumentarii"
+  nf_han.16.d:0 "Finding Frumentarii to interogate proved harder than expected, with many of the suspected members passing off as other prisoners and even guards. We lost track of most of them and more than a few probably escaped, but in the process got a clear picture of what their real purpose is - to slip behind the enemy blend in, and cause chaos for the enemy. Turning these tactics against a culture as unified as the Legion is going to be hard, but with enough legionaries to study, we're already getting the cleverest Hangdogs ready to try."
+  nf_han.16.a:0 "Shoot these slippery bastards on sight!"
+
+  nf_han.17.t:0 "A New Legion is born"
+  nf_han.17.d:0 "By conquering the Legion, we've proven the Wolf is better than the Bull. Even the old books that Caesar had say Rome was founded by brothers fed by a wolf! And now that Arizona is under our control... well someone is going to need to keep peace and order in "Arizona". The Hangdogs are more than a tribe now... we're an Empire! A Lupine Legion!"
+  nf_han.17.a:0 "Who's the top dog now?"
+
+  nf_han.18.t:0 "Breaking into the Boulder Dome"
+  nf_han.18.d:0 "Cracking into the Boulder Dome was no easy feat, with our greatest demolitions expert trying several times to find a weakpoint to gain entry into the sealed building. When we finally got in the results were... underwhelming. Instead of some precious treasure, all that was left was weird science equipment. Deeper in we found another big computer like the one in The Box, but this time, we were prepared and threw grenades at it on sight. That took out most of the lights, and all we could manage to find of value was a pristine Auto-Doc, not programmed to work on humans, but to make more Cyberdogs like the ones that roam Dog City!"
+  nf_han.18.a:0 "At least the trip wasn't a total bust..."
+  
+  nf_han.100.t:0 "The Storybook"
+  nf_han.100.d:0 "Books. Weird pre-war things full of paper that sometimes got dredged out of a ruined claim, full of... words and stuff. Bares His Teeth didn't care much for them, except when they helped the mechanics build a cool new gun, or taught more about how dogs used to be. But one of the boys had demanded to see the boss to show him a book they found, well preserved in a tiny office in The Box. \n\n"What sort of stupid book could be so important you'd have to bring it to me?"\nOh. It was Bryce. Great.\n"Alpha Bares-his-teeth, look! I found a book of monsters of the old world! It talks about great beasts that stalked before the war! Ghouls back when they were called Zom-Bees, blood drinking monsters, and more. But look at this one! It has the form of the sacred wolves!"\n\nHe held the book out presenting the colored illustrations, a rarity to survive this long. Bares' eyes lit up as he saw the monstrous form on the pages. The stature of a man with all the ferocity of a wolf, a true beast made for war. Bares could barely read, but even he could tell the terror of the helpless people drawn cowering from this monster, a creature that could rival even a Deathclaw no doubt! He had to find out what happened to these creatures."
+  nf_han.100.a:0 ""What's a W... Wear... Were-Wolf?""
+
+  nf_han.101.t:0 "Asking Questions"
+  nf_han.101.d:0 "Bares-his-teeth paced about his tent, thinking as hard as is brain could, still caught up in the mystery of the "were-wolf". Where was it is right! He had still yet to find much more information, the best that the scavs could bring was a tiny plastic figurine of one - more evidence but not much to go off of. But then it struck him like Lupa occasionally did for his idiocy - Lupa! Surely the wolf queen would know. And so he went to ask her at once, and explained his plight.\n\n"You... are an absolute moron. I know that your mangy pack aren't exactly well read but you couldn't even think to ask a nerdy vault dweller? Werewolves aren't real, they were just a story from before the war. Tales of men who turn into wolves to scare their children! This is a book about fighting monsters with magic and swords! I should be training my dogs to hunt down legionaries, not wasting my time explaining fairy tales to idiots like you!"\n\nAnother blow to the head later and Bares walked out, disheartened, but a thought still cropped up through the pain. "Men who turn into wolves"? Maybe they didn't exist but... with all the crazy stuff in the wasteland... maybe he could make them exist!"
+  nf_han.101.a:0 "After all, he knows what some men can turn into..."
+
+  nf_han.102.t:0 "An Illuminating Discussion"
+  nf_han.102.d:0 "Bares-his-teeth did not care for the video surveillance systems of Denver. The Klaxons and Cameras were annoying and helped that damn robot in the box kick them out once, and even with it taken offline he still felt nervous that they were always watching him. Still, they had their uses, and one of them was keeping an eye on prisoners too dangerous to talk to in person. Deep under the city streets, in an old underground insta-pen, the Great Glowing One sat, staring into the camera as it began speaking with him.\n\n"Have you finally seen the light? Hounds of Dog City? Your imprisonment had only served to delay me from uplifting humanity into the warm glow!"\n\n"Uh... no. But we heard all about how you were making all those ghouls at Red Mountain! You know how to turn men into ghouls right?"\n\n"I know the path but it is up to every individual soul to face their own judgement. Those too weak in spirit cannot survive the process.""
+  nf_han.102.a:0 ""

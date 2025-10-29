@@ -1,0 +1,171 @@
+﻿l_english:
+  #Focuses
+  EDN_the_battle_of_corpus_christi:0 "The Battle of Corpus Christi"
+  EDN_the_battle_of_corpus_christi_desc:0 "The Battle of Corpus Christi happened over a decade ago, but it maintains a lasting impact on our nation."
+
+  EDN_starting_from_scratch:0 "Starting From Scratch"
+  EDN_starting_from_scratch_desc:0 "When we arrived here, we brought very little with us, nothing that couldn't be carried. The first few years were tight, but we managed to scrape by enough to lay the foundations for the future of our people."
+
+  EDN_those_we_protect:0 "Those We Protect"
+  EDN_those_we_protect_desc:0 "At first, we were few, but since we arrived here at the Vault of Eden, we have gradually accepted more and more into our ranks and undertaken greater responsibilities. Many small communities throughout Central Texas now depend on us for their protection."
+
+  EDN_emergency_government_spending:0 "Emergency Government Spending"
+  EDN_emergency_government_spending_desc:0 "While we typically don't demand much from the people we protect, every now and again, there results in some extraordinary circumstances which necessitate asking for just a little bit more to keep us going. Now is one of those times."
+
+  EDN_emergency_draft:0 "Emergency Draft"
+  EDN_emergency_draft_desc:0 "Our front lines are wearing thin; we cannot afford to wait for the next Wastelander who wants to die for their country to join the army. We need men and equipment now; it's time for every able-bodied man and woman to do their duty, whether they want to or not."
+
+  EDN_scavenging_for_tools:0 "Scavenging for Tools"
+  EDN_scavenging_for_tools_desc:0 "Procuring tools in Eden has never been an easy task. The land, even pre-war, was primarily used for ranching and agriculture. This lack of easily accessible pre-war sources, and our small capacity to produce them, means we must rely heavily upon scavenging to acquire our tools."
+
+  EDN_working_with_what_we_have:0 "Working With What We Have"
+  EDN_working_with_what_we_have_desc:0 "We have received reports of all kinds of old work tech and salvage in our territories; we should make the most of these scarce resources and put them to good use."
+
+  EDN_internal_development:0 "Internal Development"
+  EDN_internal_development_desc:0 "To improve the lives of our people, it is necessary, every now and again, to invest some resources back into the communities we draw from. We should encourage members of these communities to start small businesses and trade with each other."
+
+  EDN_hire_construction_experts:0 "Hire Construction Experts"
+  EDN_hire_construction_experts_desc:0 "When we arrived here, the majority of the people of Eden were living in Shacks made of scrap and in the remains of the old bombed-out pre-war buildings. While this may no longer be the case, we should still hire construction experts to assist our struggling infant construction sector."
+
+  EDN_ensuring_our_protection:0 "§REnsuring Our Protection§!"
+  EDN_ensuring_our_protection_desc:0 "What's the use of planning for our future if we can't guarantee we'll have one? We should prioritize increasing our arms production to ensure that we have the means to defend the G.E.C.K. and our people."
+
+  EDN_investing_in_our_future:0 "§5Investing in Our Future§!"
+  EDN_investing_in_our_future_desc:0 "How do guns improve our people's quality of life? Protecting and maintaining the status quo will not cut it if we want our people to thrive. We should focus on improving the lives of our people and planting seeds for the future expansion of industry and agriculture."
+
+  EDN_refining_our_tactics:0 "Refining Our Tactics"
+  EDN_refining_our_tactics_desc:0 "The last time we fought a serious battle was over a decade ago, and while we've retained our fighting prowess, we have depended too heavily on our outdated tactics. We can remedy this by forcing our troops to train for different scenarios and promoting bright new officers with innovative ideas."
+
+  EDN_we_need_more_guns:0 "We Need More Guns"
+  EDN_we_need_more_guns_desc:0 "We'll need more guns, more boots, more helmets, and more power armor if we want to stand any chance of surviving the conflicts just over the horizon. The G.E.C.K. and our people must be protected at all costs."
+
+  EDN_improving_old_designs:0 "Improving Old Designs"
+  EDN_improving_old_designs_desc:0 "While we've contented ourselves over the past decade with using what worked in the past, there's always room for improvement. We will have our best heads and "ballistics experts" (people who know how to shoot good) to work on improving our equipment, so we don't fall behind."
+
+  EDN_purchase_anti_material_rifles:0 "Purchase Anti-Material Rifles"
+  EDN_purchase_anti_material_rifles_desc:0 "Sometimes a 5.56 bullet just doesn't cut it; some enemies are more heavily armored than others. To solve this dilemma, we'll purchase anti-material rifles from the Texan Arms Association and train our soldiers on how to use them effectively."
+
+  EDN_expand_power_armor_training:0 "§PExpand Power Armor Training§!"
+  EDN_expand_power_armor_training_desc:0 "While no army can function without infantry, power armor is the true core of our military. We should focus on giving more troops better training in power armor."
+
+  EDN_expand_specialist_training:0 "§OExpand Specialist Training§!"
+  EDN_expand_specialist_training_desc:0 "We cannot leave our infantry without support on the battlefield. We must prioritize creating specialist brigades and procuring better equipment to support our infantry."
+
+  EDN_bolster_morale:0 "Bolster Morale"
+  EDN_bolster_morale_desc:0 "Our troops are as disorganized and discouraged as our officers are drunk, saddled by the guilt of their failures. The current state of affairs cannot and will not continue. It's time for Scarlet to give a speech to address the military and the nation."
+
+  EDN_mopping_up_the_remnants:0 "Mopping Up the Remnants"
+  EDN_mopping_up_the_remnants_desc:0 "While we have successfully beaten back Shale in the North, another threat awaits us in the South. The Southern remnants of Attis' Army wait patiently for our next moment of weakness."
+
+  EDN_the_unrealized_threat:0 "The Unrealized Threat"
+  EDN_the_unrealized_threat_desc:0 "While many see Keats and the Unity of Austin as admirable in creating a society for both humans and mutants, they nonetheless pose a threat to the security of the G.E.C.K. and must be dealt with accordingly."
+
+  EDN_old_allies_new_enemies:0 "Old Allies, New Enemies..."
+  EDN_old_allies_new_enemies_desc:0 "While Scarlet got her start in the Brotherhood of Steel as an assassin of the Circle of Steel, her loyalties lie elsewhere. The Alamo Chapter and their obsession with technology remain a threat to Eden and the G.E.C.K. we protect. They must be eliminated."
+
+  EDN_calix:0 "Calix's Resourcefulness"
+  EDN_calix_desc:0 "We have discovered yet another of Vault-Tec's pre-war relics in the former territory of Shale's Army; an AI "vending machine" called Calix. Calix's purpose is to fulfill any request given to it by the customer; perhaps this sophisticated pre-war supercomputer may be able to help us repair the corrupted G.E.C.K."
+
+  EDN_ironmongers_ingenuity:0 "Ironmongers' Ingenuity"
+  EDN_ironmongers_ingenuity_desc:0 "Although the intelligence of most of those in the Ironmongers may be... below average, one cannot deny their aptitude for all things engineering. With their tools and machinery and perhaps a few less-than-willing volunteers, we might just be able to repair the G.E.C.K."
+
+  EDN_austins_knowledge:0 "Austin's Knowledge"
+  EDN_austins_knowledge_desc:0 "Austin is a place of many great minds, their scientists being some of the foremost in all of Texas. If we can only convince these scientists to put their combined knowledge and intelligence towards purifying the G.E.C.K., we may find ourselves one step closer to our goal."
+
+  EDN_geck_restored:0 "§YG.E.C.K. Restored§!"
+  EDN_geck_restored_desc:0 "At long last, we have finally restored the G.E.C.K. to working order. All that's left now is to use it."
+
+  EDN_naval_buildup:0 "Naval Buildup"
+  EDN_naval_buildup_desc:0 "The protection of our coasts can not be ignored. We must jumpstart our naval industry to ensure the ability to match our enemies both on land and at sea."
+
+  EDN_increased_research_funding:0 "Increased Research Funding"
+  EDN_increased_research_funding_desc:0 "Now that we're no longer focused solely on the protection, containment, and purification of The Corpse, we can allocate more resources to the research and development of new technology."
+
+  EDN_naval_buildup:0 "Water Ward"
+  EDN_naval_buildup_desc:0 "The waters we now border offer yet new ways to invade our home. Protecting them will take investment into a new type of warrior: one which wards the rivers and even the oceans if need be."
+
+  EDN_industrial_revolution:0 "An Industrial Revolution"
+  EDN_industrial_revolution_desc:0 "Due to our acquisition of new lands, the number of skilled industrial workers and scientists in our nation has skyrocketed. Along with more advanced factories, tools, and machinery we inherited, our industry has reached unprecedented heights not thought achievable before."
+
+  EDN_looking_west:0 "§GLooking West§!"
+  EDN_looking_west_desc:0 "The Republic of the Rio Grande is the country we have the most in common within our vicinity. While we may be Texans and they Mexicans, we share the same fundamental goal; to defend and improve the lives of our people. We should offer an alliance to Rio so we can work towards this goal together."
+
+  EDN_research_with_rio:0 "Research With Rio"
+  EDN_research_with_rio_desc:0 "Since joining the Rio Pact, our researchers have worked much more closely with Rio's scientists. It's time we join El Instituto Politénico Mexicano to collaborate further and share our findings."
+
+  EDN_learning_from_the_best:0 "Learning From the Best"
+  EDN_learning_from_the_best_desc:0 "There's no doubt that the Texas Arms Association are the best gunsmiths in Texas, perhaps throughout the entire Wasteland. With their help, our weapons industry could become one of the most advanced in all of the Wasteland. Perhaps one day we could even rival the Arms Association themself."
+
+  EDN_the_matter_of_texas:0 "The Matter of Southern Texas"
+  EDN_the_matter_of_texas_desc:0 "While we may control much of Southern Texas, there is still the matter of the lands that sit on the bank of the Rio Grande, some of which are controlled by the Rio Grande Republic. It is best to address this issue before a conflict arises."
+
+  EDN_cultural_exchange:0 "Cultural Exchange"
+  EDN_cultural_exchange_desc:0 "Our increased cooperation with Rio has had some unintended consequences. However, not all of them are negative; quite the opposite. The warming of relations has allowed the spread of ideas and cultures to move freely between our lands; consequently, the best parts of both our cultures have inevitably found their way into our societies."
+
+  EDN_the_benefits_of_trade:0 "The Benefits of Trade"
+  EDN_the_benefits_of_trade_desc:0 "While there's still a significant amount of trade conducted throughout the Wasteland, rarely are there official trade agreements signed between countries. This is a huge missed opportunity! The benefits of trade go both directions and allow the people of Rio Grande and Eden to enjoy better living standards and higher quality products!"
+
+  EDN_the_houston_conference:0 "The Houston Conference"
+  EDN_the_houston_conference_desc:0 "While relations with the Texan Brotherhood have been relatively warm up until this point, our recent annexation of the Unity of Austin has become a point of contention. We should arrange a conference in the neutral city of Houston where we can lay out our terms and hopefully come to a peaceful agreement."
+
+  EDN_looking_inwards:0 "§tLooking Inwards§!"
+  EDN_looking_inwards_desc:0 "We cannot depend on any foreign power to protect our people. We must declare our independence from the regional powers and forge our own path as a sovereign nation of Texas."
+
+  EDN_the_south_texas_development_plan:0 "The South Texas Development Plan"
+  EDN_the_south_texas_development_plan_desc:0 "The South Texas Development Plan is a proposal to improve the infrastructure of Southern Texas to pave the way for further industrial expansion and economic development. Now that we have the resources to carry out this plan, we should enact it immediately."
+
+  EDN_advanced_technical_armor_development:0 "Advanced Technical Armor Development"
+  EDN_advanced_technical_armor_development_desc:0 "It has been difficult for our scientists, brilliant though they may be, to work without access to a broader community. Thankfully, they now have the facilities and funding to perform more experiments. And, luckily for us, the scribes of the former Alamo Chapter have agreed to share their information and expertise on power armor."
+
+  EDN_the_matter_of_texas_mex:0 "The Matter of Southern Texas"
+  EDN_the_matter_of_texas_mex_desc:0 "While we may control much of Southern Texas, there is still the matter of the lands that sit on the bank of the Rio Grande, some of which are controlled by the Rio Grande Republic. It is best to address this issue before a conflict arises."
+
+  EDN_protecting_those_in_need:0 "Protecting Those in Need"
+  EDN_protecting_those_in_need_desc:0 "Though the people in our borders may be safe from the grasps of evil tyrants and sadistic raiders, there are still plenty of people throughout the Wasteland at risk of being harmed, enslaved, or exploited that need protecting. §RWe will be their defenders.§!"
+
+  EDN_the_mechanical_tyrants:0 "The Mechanical Tyrants"
+  EDN_the_mechanical_tyrants_desc:0 "We have heard many tales of the evil mechanical tyrants south of the Rio Grande, who have no regard for their people and only care for their own goals. These malfunctioning, Machiavellian A.I. must be stopped before they conquer all of Mexico."
+
+  EDN_the_liberators_of_mexico:0 "The Liberators of Mexico"
+  EDN_the_liberators_of_mexico_desc:0 "No more will the evil A.I. tyrants oppress the people of Mexico; we have vanquished them once and for all. The people of Mexico will know freedom and prosperity under Eden and her soldiers, the liberators of Mexico."
+
+  EDN_the_matter_of_texas_tex:0 "The Matter of Southern Texas"
+  EDN_the_matter_of_texas_tex_desc:0 "While we may control much of Southern Texas, there is still the matter of the lands that sit on the bank of the Rio Grande, some of which are controlled by the Rio Grande Republic. It is best to address this issue before a conflict arises."
+
+  EDN_defending_those_in_need:0 "Defending Those in Need"
+  EDN_defending_those_in_need_desc:0 "Though the people in our borders may be safe from the grasps of evil tyrants and sadistic raiders, there are still plenty of people throughout the Wasteland at risk of being harmed, enslaved, or exploited that need protecting. §RWe will be their defenders.§!"
+
+  EDN_taking_out_the_trash:0 "Taking Out the Trash"
+  EDN_taking_out_the_trash_desc:0 "To make Texas truly safe for everyone, we need to destroy the groups of raiders and brigands that continue to prey on her people. These hopped-up junkies and murdering lowlifes will stand no chance against our battle-tested army."
+
+  EDN_the_guardians_of_texas:0 "The Guardians of Texas"
+  EDN_the_guardians_of_texas_desc:0 "With the Brotherhood and raiders defeated, we stand victorious as the undisputed rulers of Texas. The people of Texas have scarcely been so secure and free from fear since before the Great War. We have truly become the Guardians of Texas."
+
+  EDN_looking_east:0 "§3Looking East§!"
+  EDN_looking_east_desc:0 "While we may have had our differences in the past, the Brotherhood is the best chance for a prosperous, safe, and free Texas. It is in our best interests to work more closely with them and see closer integration. We will send a delegation to Texas to negotiate the terms of joining the Texan Economic Union."
+
+  EDN_the_census:0 "The Census"
+  EDN_the_census_desc:0 "As a part of the greater Texas Economic Union, we must conduct a census to determine the actual population of our nation. This will hopefully lead to a better understanding of the conditions under which our people live."
+
+  EDN_land_evaluation:0 "Land Evaluation"
+  EDN_land_evaluation_desc:0 "Conducting a land evaluation will allow us to determine the places with the most fertile soil, the best grass for ranching, and the best land for commercial development. We expect this will greatly expand our industrial capacities and allow us to improve infrastructure throughout the nation with funding from the Brotherhood."
+
+  EDN_the_texan_integration_act:0 "The Texan Integration Act"
+  EDN_the_texan_integration_act_desc:0 "The time has come! Scarlet and the leaders of many communities throughout Eden have agreed to join the Provisional Republic. In a few short days, our nations will be united once more for the good of all of Texas. Well, besides the raiders, of course."
+
+  EDN_looking_west_bookmark:0 "§GLooking West§!"
+  EDN_looking_west_bookmark_desc:0 "The Republic of the Rio Grande is the country we have the most in common within our vicinity. While we may be Texans and they Mexicans, we share the same fundamental goal; to defend and improve the lives of our people. We should offer an alliance to Rio so we can work towards this goal together."
+
+  EDN_looking_inwards_bookmark:0 "§tLooking Inwards§!"
+  EDN_looking_inwards_bookmark_desc:0 "We cannot depend on any foreign power to protect our people. We must declare our independence from the regional powers and forge our own path as a sovereign nation of Texas."
+
+  EDN_looking_east_bookmark:0 "§3Looking East§!"
+  EDN_looking_east_bookmark_desc:0 "While we may have had our differences in the past, the Brotherhood is the best chance for a prosperous, safe, and free Texas. It is in our best interests to work more closely with them and see closer integration. We will send a delegation to Texas to negotiate the terms of joining the Texan Economic Union."
+
+  #Leader Traits
+  EDN_keeper_of_the_jungle:0 "Keeper of the Jungle"
+  EDN_guardian_of_texas:0 "Guardian of Texas"
+  EDN_brotherhood_assassin:0 "Brotherhood Assassin"
+  EDN_liberator_of_mexico:0 "Liberator of Mexico"
+
+  EDN_guardians_of_eden:0 "Guardians of Eden"

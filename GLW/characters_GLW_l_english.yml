@@ -1,0 +1,77 @@
+﻿l_english:
+  #Leaders
+  GLW_PATCHES_NAME:0 "Patches"
+  GLW_PATCHES_DESC:0 "Patches was always a ghoul who fancied themselves as a comedian. After leaving the Midwestern Brotherhood when they stopped laughing at his stand up, Patches sought to find a new audience. Eventually, he came upon the Glowbugs living near the irradiated ruins of Boulder. Patches hosts his stand up comedy routine every night after leading succesful scavenging runs of Boulder for food and supplies."
+  GLW_PATCHES_CULTURAL_ADVISOR:0 "Patches"
+
+  GLW_STITCHES_NAME:0 "Stitches"
+  GLW_STITCHES_DESC:0 "Stitches, originally known as Bradley back in Quincy, has come a long way from his humble beginnings. A pragmatic "normie-ghoul" with a talent for survival, Bradley earned his nickname during his time with the Midwest Brotherhood of Steel. It was Patches who started calling him "Stitches"—a nod to their close partnership and Bradley's knack for holding things together, whether it was patching up gear, organizing defenses, or mending strained alliances.\n\nNow in Boulder, Stitches takes his role as the Glowbugs' chief tactician and gunsmith seriously. He's a no-nonsense leader who believes in hard work and preparation, often seen outfitting scavengers or drilling militia squads. While his blunt manner and disdain for unnecessary diplomacy can be grating, his results speak for themselves."
+
+  GLW_COUPLE_NAME:0 "The Rotten Duo" #The Ghoul Couple
+  GLW_COUPLE_DESC:0 "Patches and Stitches—known in Boulder as "The Rotten Duo"—are an unlikely pair whose chemistry has become the heart of the Glowbugs' leadership. Their bond began back in Quincy, where Bradley (now Stitches) grudgingly attended Patches' awkward standup routines, claiming it was out of ghoul solidarity—though he secretly found them mildly amusing. Over time, their shared survival instincts and complementary skills grew into a partnership that neither could imagine living without.\n\nNow in Boulder, their dynamic has only gotten stronger. While Patches rallies the people, smooths over disputes, and handles alliances like their deal with the Black Canyon Federation, Stitches ensures the Glowbugs are ready for anything. He organizes militias, fortifies defenses, and, much to his own amusement, teaches Patches how to handle a rifle without looking like a clown. In return, Patches has convinced Stitches to join him in hosting a joint standup routine—a mix of bad jokes, dry sarcasm, and war stories that somehow keeps the community entertained after long days of scavenging and fighting.\n\nDespite their differences, Patches and Stitches are inseparable. Their playful rivalry pushes them to keep improving, whether it's leadership skills or comedic timing. Together, they've made Boulder not just a safe haven but a place where people can laugh again—sometimes at the world, sometimes at themselves, and often at "The Rotten Duo.""
+
+  #Unit Leaders (Corporals and Admirals)
+  GLW_FRECKLES_NAME:0 "Freckles"
+  GLW_JOB_NAME:0 "Job"
+  GLW_JACKSON_NAME:0 "Gamma Jack, the Maniac, Warrior of the Holy Blast, Lord of the Crater, Duke of Detonation, Sultan of Supercriticality, Master of Mayhem, Slayer of Sanity, Bringer of Radiant Wrath, Breaker of Stable Isotopes, Herald of Glowing Chaos"
+  GLW_JACKSON_CHARACTER_TT:0 "§LLevel§!: §Y4§!\n§RAttack Skill§!: §Y5§!\n§YDefense Skill§!: §Y2§!\n§GPlanning Skill§!: §Y2§!\n§CLogistics Skill§!: §Y3§!\n§gTraits:§! §tStrong§!, §tIntelligent§!, and §tPain Train§!"
+  GLW_DIRTMAN_NAME:0 "The Dirtman"
+
+  #Ministers.
+  #Zusk - Swapping these out for new ones because they reference old devs removed from the project.
+  GLW_BRIGHT_NAME:0 "The Traveler of Colorado"
+  GLW_BRIGHT_ARMY_CHIEF_desc:0 "The Traveler of Colorado is a mysterious fellow, he keeps to himself most of the time, but in rare displays of outgoingness he can rally a room of ghouls to just about any cause. The Traveler has stories upon stories of escapades across the wasteland, from ambushing an NCR convoy to working with the Followers to bring electricity to a ghoul settlement, if you can think of an occupation, he's more than likely dipped his irradiated toes in it."
+  GLW_HERTZ_NAME:0 "The Rad-Mother"
+  GLW_HERTZ_ARMY_CHIEF_desc:0 "Verity was at one point a nurse in Denver, when the bombs fell she attempted to rescue as many patients as possible, putting them in a safe room in the hospital basement. She ended up not making it in as she pushed the last hospital bed into the saferoom, before the radioactive blast took her. Her body was reforged into that of a glowing one, but she found her mind still remarkably intact, although it appeared the safe room survivors had already left by the time she awoke. She found her home with the Glowbugs, and has built a particularly strong bond with Patches, a fellow glowing Ghoul. Together they frequently discuss ways to heal the wasteland and its denizens both physically and emotionally."
+  GLW_DIRTY_HARRY_NAME:0 "Aisling O'Rourke"
+  GLW_DIRTY_HARRY_NAVY_CHIEF_desc:0 "This bombastic Irish ghoul was on a luxury cruise from Ireland to Boston, which ended up a one-way trip as the bombs fell. The ghoul woke up on the Massachusetts shoreline and took many years to adjust to wasteland life, her charisma and uncanny luck got her through several bad situations, and as she made her way across the Midwest she gathered a gang of Irish-accented ruffians who stuck it to anybody that dared oppose them. They landed in Colorado, meeting Patches, who offered the Irish gang of ghouls a new home, one that they took up. Since then, Aisling has been an influential and uniting figure in the nation."
+  GLW_WHITE_BARON_NAME:0 "Jebediah Barnes"
+  GLW_WHITE_BARON_AIR_CHIEF_desc:0 "Jebediah Barnes was a Colorado cattle rancher before the bombs fell. He awoke to his new ghoulish condition intent on using his knowledge of agriculture and husbandry to aid fellow survivors, only to find himself ostracized by many communities of humans for being a ghoul. Jebediah eventually found his home in the Glowbugs, a group of ghouls that isn't a radical religious cult or a group of Chinese communists, and in exchange for their acceptance, he offers his services as a rancher."
+  GLW_SHEPARD_NAME:0 "Jules Richie"
+  GLW_SHEPARD_HIGH_COMMAND_desc:0 "They say there ain't a better handyman this side of the Mississippi. Jules rode in on a steel horse he built from his days back in Chattanooga and he ain't left since. He's a modest fellow, barely charges a dime to fix up cars, machinery, buildings, roads, you name it. If it's broken, he can fix it, or at least throw together the right combination of WD40, Duct Tape, and some prayers to make it work."
+  GLW_CAPTAIN_COLLINS_NAME:0 "Gunbarrel"
+  GLW_CAPTAIN_COLLINS_HIGH_COMMAND_desc:0 "Gunbarrel grew up a slave for the Hangdogs, he helped make their guns for them. This skill he developed for decades of enslavement is the same skill that got him out of it, he armed a group of prisoners and together they all broke out of captivity and parted ways. Gunbarrel made his way to the Glowbugs, where he now offers his services in weaponsmithing to help the Glowbugs defend themselves from tyrannical threats such as what he experienced in the Hangdogs."
+  GLW_MORGEN_NAME:0 "Mogui"
+  GLW_MORGEN_HIGH_COMMAND_desc:0 "Mogui is one tough bastard. She broke away from the colony of Chinese ghouls with the Withered Dogs to join the Glowbugs, bringing with her personal retinue of soldiers and a stockpile of military equipment. She quickly earned the favor of Stitches, who since then has closely collaborated with her in planning the defense of the Glowbugs from all outside threats."
+  GLW_BELGIAN_NAME:0 "Markus Cross"
+  GLW_BELGIAN_HIGH_COMMAND_desc:0 "Markus was a mercenary for the Happy Trails Caravan Company before it was ambushed by a certain group of lightly-painted tribals in Southern Utah. Barely escaping with his life, he made his way East, where he fought off several Legionary patrols on a march to what he only hoped was a brighter future. Fortunately for Markus Cross, fortune favors the bold. He was on death's door when he arrived at Patches' front door, who took him in and nursed him back to health with Verity 'The Rad-Mother'. He feels an eternal debt to the Glowbugs and to Patches for helping him, and now he dedicates his life to protecting the Glowbugs and all of its ghoulish residents. Even if it costs him his life."
+  GLW_NILEAF_NAME:0 "The Old Man of the Sea"
+  GLW_NILEAF_HIGH_COMMAND_desc:0 "The Old Man of the Sea is an apparently ancient ghoul, his bones are visible where his skin peels, revealing a body that has gone through as much turmoil as our nation in the past two hundred years. He tells everybody to call him 'Old Man', and nobody knows why. But he is an experienced sailor and has a photographic memory of the Colorado waterways."
+  GLW_PROFESSOR_CROSS:0 "Albert Zimmermann"
+  GLW_PROFESSOR_CROSS_RESEARCH_ADVISOR_desc:0 "Many call Albert Zimmermann the 'Da Vinci of the Sky'. He is known for his flying contraptions made of pre-war junk and parts which all come together into an amalgamation that is capable of taking to the skies."
+  GLW_STINNES_NAME:0 "Mr. Buttons and Dr. Flapjack"
+  GLW_STINNES_ECONOMIC_ADVISOR_desc:0 "Mr. Buttons is a ghoul, but he insists his right hand—adorned with a charred, tattered sock—is his co-advisor, Dr. Flapjack. Together, they are a 'duo of economic brilliance,' arguing and debating the merits of trade routes, bottlecap taxation, and sock puppet theater as viable entertainment exports. The Glowbugs tolerate his antics because, somehow, he's always right about the numbers."
+  GLW_SCHMIDT_NAME:0 "The Grease Merchant"
+  GLW_SCHMIDT_ECONOMIC_ADVISOR_desc:0 "Rolling into Glowbug territory on a rusted, oil-dripping motorbike, The Grease Merchant is a ghoul obsessed with one thing: barter. He carries vats of pre-war grease in scavenged paint buckets, claiming it's the secret to running everything from guns to hearts. His 'miracle grease economy' proposal has actually helped repair Glowbug machinery, so no one argues with him."
+  GLW_WAGNER_NAME:0 "Charcoal Charlie"
+  GLW_WAGNER_ECONOMIC_ADVISOR_desc:0 "Charcoal Charlie is covered head to toe in black soot, thanks to decades spent forging weapons and fixing anything made of metal. He only speaks in riddles, often leaving others scratching their heads, but his strange insights always lead to increased productivity. His most infamous quote: 'The nail doesn't drive itself, but the hammer needs purpose.'"
+  GLW_STEED_NAME:0 "Marjorie Glowfingers"
+  GLW_STEED_ECONOMIC_ADVISOR_desc:0 "Marjorie Glowfingers built her fortune one capsized caravan at a time, using her glowing fingers to scavenge under cover of darkness. Rumor has it she was once a raider accountant, but now she manages Glowbug resource inventories with uncanny precision, her fingers glowing ominously over ledgers that never lie."
+  GLW_RUSSIAN_NAME:0 "Sasha 'Big Hat' Ivankov"
+  GLW_RUSSIAN_ECONOMIC_ADVISOR_desc:0 "Sasha stumbled into the Glowbugs wearing an enormous Soviet officer's hat that he refuses to explain. He claims to have come from a 'land of ice and broken dreams,' and his advice is full of nonsensical wisdom like 'The mushroom is the king of barter!' Oddly enough, his tips always lead to profitable trade deals."
+  GLW_SMILEY_NAME:0 "Handsome Harry"
+  GLW_SMILEY_CULTURAL_ADVISOR_desc:0 "Handsome Harry isn't handsome—his skin hangs in loose folds like melted wax—but he'll swear up and down that he's the prettiest ghoul in the wasteland. With a passion for organizing grand balls and ghoul fashion shows, Harry's flamboyant flair brings a strange but welcome sense of culture to the Glowbugs."
+  GLW_NIX_NAME:0 "Chalky"
+  GLW_NIX_CULTURAL_ADVISOR_desc:0 "Chalky spends most of his time scribbling conspiracy diagrams on the walls of Glowbug settlements using old sticks of chalk he scavenged from a school. He insists that understanding wasteland culture means deciphering 'the Great Chalkboard in the Sky.' People put up with him because his insane ramblings often inspire practical solutions."
+  GLW_XUE_WEI_NAME:0 "The Porcelain Duchess"
+  GLW_XUE_WEI_CULTURAL_ADVISOR_desc:0 "A ghoul who arrived dragging a cracked, oversized teapot and a collection of mismatched china, she hosts elaborate, apocalyptic tea parties for Glowbug leaders. She insists the ritual of tea is vital to 'maintaining ghoul dignity in a world gone mad.' No one knows her real name, but her tea parties are strangely unifying."
+
+
+  ###Traits
+
+  col_defender_of_faith:0 "Defender of the Glow"
+  col_violent_converter:0 "Violent Converter"
+  ghoul_shepard:0 "Shepard of this Flock"
+  col_drill_sergeant:0 "Pre-War Drill Sergeant"
+  col_chalkboard_trait:0 "Chalkboard Expert"
+  col_wonderful_tea_trait:0 "Flawless Tea Host"
+
+  ###Character Flags
+
+  unlock_character_wagner:0 "[TODO] has Arrived"
+  unlock_character_steed:0 "[TODO] has Arrived"
+  unlock_character_belgian:0 "[TODO] has Arrived"
+  unlock_character_nileaf:0 "[TODO] has Arrived"
+  unlock_character_nix:0 "[TODO] has Arrived"
+  unlock_character_russian:0 "[TODO] has Arrived"
+  unlock_character_xue:0 "[TODO] has Arrived"

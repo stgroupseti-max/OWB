@@ -1,0 +1,87 @@
+﻿l_english:
+
+  nf_EDN.1.t:0 "The Battle of Corpus Christi"
+  nf_EDN.1.d:0 "Shortly before our nation's founding, a man named Reese once threatened the entire Wasteland. However, thanks to the timely intervention of a few brave individuals, he was defeated in a battle at the former city of Corpus Christi (now known simply as "The Corpse"). Among these individuals were Scarlet and her followers, our people, who still protect Eden and Reese's corrupted G.E.C.K. today. What was most paramount to our victory?"
+  nf_EDN.1.a:0 "Our flamers"
+  nf_EDN.1.b:0 "Our mighty power armor"
+  nf_EDN.1.c:0 "Our overwhelming numbers"
+  nf_EDN.1.e:0 "Our use of superior tactics"
+
+  nf_EDN.2.t:0 "The Beginnings of Something Great."
+  nf_EDN.2.d:0 "After Reese's defeat, we realized that the  G.E.C.K. must be contained. But when we burned the red jungles, they grew back, more robust and thicker. With no way for us to deactivate the G.E.C.K., we realized we had to become the guardians of such a dangerous weapon to prevent it from falling into the wrong hands for a second time. And so we also became protectors of the people here. The people, independent though they were, lacked basic infrastructure, industry, and, generally, any of the things needed for an organized society. We pooled what little resources we had to invest in..."
+  nf_EDN.2.a:0 "Civilian Goods"
+  nf_EDN.2.b:0 "Arms Production"
+  nf_EDN.2.c:0 "Infrastructure"
+
+  nf_EDN.3.t:0 "The People Of Eden."
+  nf_EDN.3.d:0 "The people of Eden transformed, just as the land. Just as it had become a mutated hellscape of nature, the farmers, ranchers, and scavengers adjusted too. They became hunters, soldiers, and scientists. But above all, those we protected became our people. They could only be described as..."
+  nf_EDN.3.a:0 "Resourceful"
+  nf_EDN.3.b:0 "Productive"
+  nf_EDN.3.c:0 "Industrious"
+  nf_EDN.3.e:0 "Skilled"
+
+    nf_EDN.4.t:0 "Scarlet's Speech"
+  nf_EDN.4.d:0 "As she stood up to address the soldiers at the front, Scarlet chose her words carefully. One wrong word in this critical time could mean the loss of their confidence.\n\n "Though we may have been pushed back, the fighting has only just begun. Already you have shown inspiring grit and cold resolve. I will make no false claims about our enemies, nor will I mention the countless atrocities they have committed. All that needs to be said is that you are what stands between them and what we protect. The evil corrupted G.E.C.K., your livelihoods, and your loved ones. As a wise man once said, a real soldier fights not because he hates what is in front of him but because he loves what is behind him."\n\n After this brief but powerful speech, she stepped away from the makeshift podium."
+  nf_EDN.4.a:0 "The men returned to the front, reinvigorated."
+
+  nf_EDN.5.t:0 "Our Own Little Slice of Paradise"
+  nf_EDN.5.d:0 "Rivers flowed, plants grew, and flowers bloomed. However, this was not like before. Before everything was distorted, crimson red rivers, man-eating plants, the foliage so dense that it produced darkness as black as night at all times, no longer. The rivers now flow clean, and there is no more dense foliage; it is instead replaced by lush grass and fertile soil. The G.E.C.K. has produced a miracle, and people from all over flock to Eden to take advantage of this otherworldy place. Which can only be described as the Garden of Eden."
+  nf_EDN.5.a:0 "Best get started on your homesteads."
+
+  nf_EDN.6.t:0 "The Texan Integration Act"
+  nf_EDN.6.d:0 "At long last, Texas will be united. After much controversy and debate over the exact terms and details of the agreement, Eden has formally been annexed by the Provisional Republic of Texas. This will be a boon to both nations; with our combined resources and strength, we can ensure a safe and free Texas for all."
+  nf_EDN.6.a:0 "Three hurrahs for the Provisional Republic!"
+
+  nf_EDN.7.t:0 "The Eden Declaration"
+  nf_EDN.7.d:0 "Today, it has been announced that Eden will not give in to pressures from either the Republic of the Rio Grande or the [892.owner.GetName]. We will forge our own path; these foreign powers with grandiose designs on Texas do not know what's best for our people. We're the only ones capable of protecting our people and their interests. Thus, we must walk alone."
+  nf_EDN.7.a:0 "Eden will always be free!"
+
+  nf_EDN.8.t:0 "The Houston Conference"
+  nf_EDN.8.d:0 "It has been decided that to prevent future conflict, a conference will be held between delegates of the [892.owner.GetName] and Eden in the neutral city of Houston. The primary concern of the conference is to settle the claims of both parties over the hotly contested border region where the Unity of Austin once was. With the fate of the two nations in their hands, the delegates from Eden decided to..."
+  nf_EDN.8.a:0 "Offer them all of the Unity's former territory."
+  nf_EDN.8.b:0 "Offer them the city of Austin."
+  nf_EDN.8.c:0 "Offer them no concessions."
+
+  nf_EDN.9.t:0 "Eden's Proposal"
+  nf_EDN.9.d:0 "The delegates representing Eden have given us their terms. They are willing to cede to us all of the former territories of the Unity of Austin. This is a very generous offer, and we do not expect to receive any better terms. It would, however, mean giving up any future aims on Eden. What is our response?"
+  nf_EDN.9.a:0 "We accept."
+  nf_EDN.9.b:0 "We will show these upstarts who really rules Texas!"
+
+  nf_EDN.10.t:0 "Eden's Proposal"
+  nf_EDN.10.d:0 "The delegates representing Eden have given us their terms. They will cede to us the city of Austin. Only, however, if we renounce our claims of all territories south of the West Brazos Tributary. What is our response?"
+  nf_EDN.10.a:0 "We accept."
+  nf_EDN.10.b:0 "We will show these upstarts who really rules Texas!"
+
+  nf_EDN.11.t:0 "Eden's Proposal"
+  nf_EDN.11.d:0 "The delegates representing Eden have given us their terms. Perceiving themselves as the stronger party, they have demanded that we renounce all claims on their territory. This offer is almost laughable, and unless we truly are in no position to fight a war with Eden, we should reject this offer. What is our response?"
+  nf_EDN.11.a:0 "We have no other choice."
+  nf_EDN.11.b:0 "We will show these upstarts who really rules Texas!"
+
+  nf_EDN.12.t:0 "The [892.owner.GetName] Accepts Our Offer"
+  nf_EDN.12.d:0 "The [892.owner.GetName] has accepted our offer! War has been successfully avoided. With a mutual understanding between both of the major powers in Texas, it is clear to all that peace reigns supreme in Texas once more."
+  nf_EDN.12.a:0 "Peace in our time!"
+
+  nf_EDN.13.t:0 "The [892.owner.GetName] Rejects Our Offer"
+  nf_EDN.13.d:0 "The [892.owner.GetName] has rejected our offer! With the failure of the Houston Conference, it seems war is inevitable. We now seem to be on an unavoidable collision course and must prepare ourselves for the inevitable conflict."
+  nf_EDN.13.a:0 "Texas ain't big enough for the two of us!"
+
+  nf_EDN.14.t:0 "The Matter of Texas"
+  nf_EDN.14.d:0 "While we now control much of Southern Texas, the regions along the Rio Grande remain separate. The people of the TAA suffer under the elitist ruling class, while the ranchers of the Pecos are frequently targets of raids. Not to mention the fear created by the recent expansion of Caesar's Legion into the region. Not only would their annexation mean an end to these issues, but the lands would certainly be a boon to our own economy and offer a much more defensible border. However, as these regions are under the influence of the Republic of the Rio Grande, we cannot outright annex them without permission. The last thing we want is to start a conflict with our powerful Southern neighbor."
+  nf_EDN.14.a:0 "We should communicate this proposition."
+
+  nf_EDN.15.t:0 "The Matter of Texas"
+  nf_EDN.15.d:0 "We have observed as the mysterious hermit Texan nation of Eden has grown swiftly throughout the past few years. Today, we received a request that they wish to annex the border regions of Texas along the Rio Grande. They have made sure to convey that they do not intend to do so without our government's consent and wish to maintain amicable relations, whichever decision we choose. That being said, this region has traditionally been in our sphere of influence and holds many resources and people, some of which consider themselves our people. What decision will we make?"
+  nf_EDN.15.a:0 "We need a strong ally across the Rio Grande"
+  nf_EDN.15.b:0 "The land is more valuable in our hands."
+
+  nf_EDN.16.t:0 "Rio Accepts"
+  nf_EDN.16.d:0 "Rio has accepted our proposition to annex the border regions! The people and government alike are ecstatic, hopes remain high for the future, and our relations with the Republic have greatly improved due to this development."
+  nf_EDN.16.a:0 "Fantastic!"
+
+  nf_EDN.17.t:0 "Rio Refuses"
+  nf_EDN.17.d:0 "Rio has refused our request to annex the border regions of Texas. However, as we do not want to sour relations, as an act of good faith, it has been decided that we will help to organize and fund the expansion of industry and infrastructure within the lands of South-East Texas. Under this agreement, Rio has also communicated the desire for further cooperation with us for the good of people in both nations."
+  nf_EDN.17.a:0 "Disappointing, but understandable."
+
+  #nf_EDN.18.t:0 "Scarlet Becomes President"
+  #nf_EDN.18.d:0 "As Scarlet was in the capital of the Provisional Republic finalizing the integration of Eden, she was suddenly summoned into the halls of the Congress. Upon entering, she was rather unceremoniously offered the position of the Republic's first president. The people of Texas had watched as Scarlet bravely defended her lands against Shale's Army, moved on to defeat the last remnants of Attis's Army, and put an end to the secessionist state of the Alamo Chapter. They also commended her on her remarkable progress in modernizing both the military and industry of Eden, greatly improving the standards of living for the people living there, as well as organizing the Herculean task of repairing the corrupt G.E.C.K. Scarlet, though slightly embarrassed, graciously accepted the position.'"
+  #nf_EDN.18.a:0 "No one was more qualified for the job"

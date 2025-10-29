@@ -1,0 +1,15 @@
+﻿l_english:
+
+  EDN_mutual_respect:0 "Mutual Respect"
+
+  EDN_coring_tt1:0 "§YIt will be 50% easier to core all lands in Texas.§!"
+  EDN_coring_tt2:0 "§YIt will be 50% easier to core all lands in North-East Mexico.§!"
+  EDN_flamer_company_tt:0 "§YWe will receive a veteran 20-width infantry division with flamer support.§!"
+  EDN_pa_companies_tt:0 "§YWe will receive two veteran 15-width power armor divisions with recon support.§!"
+  EDN_conscripts_tt:0 "§YWe will receive six veteran 10 width infantry divisions.§!"
+  EDN_rios_response_yes_tt:0 "§YEden will receive all of our and our puppet's land, should we have any, north of the Rio Grande, and wargoals on what we do not own.§!"
+  EDN_rios_response_no_tt:0 "§YEden will develop our lands and the land of our puppets, should we have any, north of the Rio Grande.§!"
+  EDN_warning_tt:0 "§RThis may lead to war with the [892.owner.GetName].§!"
+  EDN_everything_tt:0 "§GThis will likely result in peace with the [892.owner.GetName].§!"
+  EDN_something_tt:0 "§2This may lead to war with the [892.owner.GetName].§!"
+  EDN_nothing_tt:0 "§RThis will almost certainly lead to war with the [892.owner.GetName].§!"
