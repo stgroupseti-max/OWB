@@ -1,0 +1,41 @@
+﻿l_english:
+  legion_owns_cores_all_vegas_states_tt:0 "§Y[CES.GetNameDef]§! owns, controls, and has Cores on all §Y[VEG.GetNameDef]§! core states."
+  legion_owns_all_mojave_bos_core_states_tt:0 "§Y[CES.GetNameDef]§! owns, and controls all §Y[MOJ.GetNameDef]§! core states."
+
+  ces_add_two_vulpes_opinion:0 "§YVulpes'§!§L opinion about §!§Y[TWO.GetName]§!§L will be increased§!"
+  ces_add_two_lucius_opinion:0 "§YLucius'§!§L opinion about §!§Y[TWO.GetName]§!§L will be increased§!"
+  ces_add_two_aurelius_opinion:0 "§YAurelius'§!§L opinion about §!§Y[TWO.GetName]§!§L will be increased§!"
+  ces_add_gdh_vulpes_opinion:0 "§YVulpes'§!§L opinion about §!§Y[GDH.GetName]§!§L will be increased§!"
+  ces_add_ghd_lucius_opinion:0 "§YLucius'§!§L opinion about §!§Y[GDH.GetName]§!§L will be increased§!"
+  ces_add_gdh_aurelius_opinion:0 "§YAurelius'§!§L opinion about §!§Y[GDH.GetName]§!§L will be increased§!"
+
+  self_add_vulpes_opinion:0 "§YVulpes'§!§L opinion about us will be increased§!"
+  self_add_lucius_opinion:0 "§YLucius'§!§L opinion about us will be increased§!"
+  self_add_aurelius_opinion:0 "§YAurelius'§!§L opinion about us will be increased§!"
+
+  ces_ultima_decided_trigger:0 "§LThe advisors have made up their minds or Caesar grew tired of this debate§!"
+  ces_ultima_friendship:0 "Caesar has spoken: \"§OFors Iuvat Audentes§!\""
+  ces_ultima_to_two:0 "Caesar has allowed Two Sun to govern all of the Cowboy Country"
+  ces_ultima_to_gdh:0 "Caesar has gifted §MUltimo§! to §YGente Del Sol§!."
+
+  NAV_heal_caesar_trigger_tt:0 "Caesar's health has worsened."
+  caesar_was_healed_tt:0 "§YCaesar's pains have eased.§!"
+
+  ces_davison_and_antler_tt: "\n§YDavison... and Antler?§! become a Unit Leader\n§LLevel§!: §Y4§!\n§RAttack Skill§!: §Y5§!\n§GDefense Skill§!: §Y3§!\n§PPlanning Skill§!: §Y1§!\n§MLogistics Skill§!: §Y1§!\n\n"
+  ces_keen_tt: "§LLevel§!: §Y4§!\n§RAttack Skill§!: §Y4§!\n§GDefense Skill§!: §Y2§!\n§PPlanning Skill§!: §Y1§!\n§MLogistics Skill§!: §Y3§!\n\n"
+  ces_shale_tt: "§LLevel§!: §Y5§!\n§RAttack Skill§!: §Y4§!\n§GDefense Skill§!: §Y2§!\n§PPlanning Skill§!: §Y3§!\n§MLogistics Skill§!: §Y3§!\n\n"
+  ces_giants_tt: "§YWhat the §Ggiants§! could worry about?§!"
+  ces_nightkins_migration_tt: "\n§Y§2Nightkins§! have learned that a cure has been found, and now seek to enter the lands of the Legion in the hope of being cured.§!"
+  ces_shizo_davison:0 "Antler and Davison"
+  ces_cured_davison:0 "Davison"
+
+  ces_measles_tt: "§LLevel§!: §Y3§!\n§RAttack Skill§!: §Y3§!\n§GDefense Skill§!: §Y2§!\n§PPlanning Skill§!: §Y2§!\n§MLogistics Skill§!: §Y1§!\n§gTraits§!: §tStrong§!, §tEnduring§!, §tBuilt to Destroy§!\n\n"
+  ces_green_tt: "§LLevel§!: §Y4§!\n§RAttack Skill§!: §Y3§!\n§GDefense Skill§!: §Y2§!\n§PPlanning Skill§!: §Y3§!\n§MLogistics Skill§!: §Y2§!\n§gTraits§!: §tPerceptive§!, §tIntelligent§!, §tSkilled§!\n\n"
+
+  ces_vlp_fantasticus_tt:0 "§O'Picus' will become a cultural advisor§!"
+  ces_vlp_fantasticus_puppet_tt:0 "§O'Picus' will lead our forces in Mojave as a puppet§!"
+
+  ces_tribal_tech_visibility_tt:0 "\n§OThe Legion cannot research tribal technologies directly, but some may be acquired via focus.§!\n"
+  ces_tt_event_effect:0 "\n§gThe aforementioned event will have the following effects:§!\n\n"
+
+  CES_searchlight_raided_flag:0 "Camp Searchlight has already been raided"

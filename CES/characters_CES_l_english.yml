@@ -1,0 +1,108 @@
+﻿l_english:
+  CES_CAESAR_NAME:0 "Caesar"
+  CES_CAESAR_DESC:0 "Once a Follower of the Apocalypse named Edward Sallow, Sallow was captured by a primitive tribe on an expedition. For his release, he taught them the doctrine of total war, and lead them to utterly destroy their enemies. They crowned him Caesar, and he began his lifelong conquest as the unchallenged ruler of the Legion."
+
+  CES_LUCIUS_NAME:0 "Praetorian Lucius"
+  CES_LUCIUS_DESC:0 ""
+
+  CES_MALPAIS_NAME:0 "Malpais Legate"
+  CES_MALPAIS_DESC:0 "Over the years working with Caesar, he has learned to give orders and lead in battle.  Training, punishing, and terrorizing; a series of small mistakes that accumulated.  Malpais Legate now takes up Caesar's mantle, and will bring the light of the Lord to the Wastes, if perhaps more literally than his brethren envisaged."
+
+  CES_AURELIUS_NAME:0 "Aurelius of Phoenix"
+  CES_AURELIUS_DESC:0 "Although some wonder how Aurelius rose so highly in the rank, none can deny that he towers above his peers."
+
+  CES_CAIUS_DRUSUS_NAME:0 "Caius Drusus"
+  CES_CAIUS_DRUSUS_DESC:0 "Carrying himself with the pomp and dignity one would expect from a centurion, while also maintaining the air of a seasoned warrior, Caius is called the prophet of Hades among the Legion. Caius is the only ghoul to ever ascend to the rank of Legate before Caesar's death. Caius began his 'career' as a soldier under Colonel Green on the Reservation, but he soon saw a need to protect ghouls across the Wasteland. And who better to do so than the Legion? The tribes whisper that Caius is already dead; but if that is so, who better to lead after Caesar's ascension?"
+
+  CES_CAESAR_COUNCIL_NAME:0 "Regency Council"
+
+  CES_VULPES_NAME:0 "Vulpes Inculta"
+  CES_VULPES_DESC:0 ""
+  CES_vulpes_cultural_advisor:0 "The Vulpes Inculta"
+  CES_vulpes_cultural_advisor_desc:0 "The Vulpes Inculta is a brutal and covert agent of Caesar; he shall infiltrate frumentarii in every nation, unseen."
+  CES_vulpes_high_command:0 "The Vulpes Inculta"
+  CES_vulpes_high_command_desc:0 "The Vulpes Inculta is a brutal and covert agent of Caesar; if our enemies take our land, he shall pile body upon body."
+  CES_vulpes_operative:0 "Vulpes Inculta"
+
+  CES_malpais_army_chief:0 "The Malpais Legate"
+  CES_malpais_army_chief_desc:0 "Joshua Graham is the greatest tactician and friend Caesar has; so much so that some whisper that Caesar fears him."
+
+  CES_gaius_duilius_name:0 "Gaius Duilius"
+  CES_gaius_duilius_navy_chief_desc:0 ""
+
+  CES_hashkeh_naabaah_name:0 "Hashkeh Naabaah"
+  CES_hashkeh_naabaah_army_chief_desc:0 ""
+
+  CES_priest_david_name:0 "The Priests of Two Sun"
+  CES_priest_david_high_command_desc:0 ""
+
+  CES_priest_selene_name:0 "The Priests of Two Sun"
+  CES_priest_selene_cultural_advisor_desc:0 "The Women of Two Sun, keep the sacred engine purring. Perhaps we can listen to them."
+
+  CES_lanius_legate_army_chief:0 "Legate Lanius"
+  CES_lanius_legate_army_chief_desc:0 "Champion of his tribe, and slayer of it, Caesar gave him a new face, and made him the champion of the legion: legionnaires would rather face death, than Lanius' wroth."
+
+  CES_bares_his_teeth_name:0 "Bares-His-Teeth"
+  CES_bares_his_teeth_high_command:0 "Houndmaster Barbarus"
+  CES_bares_his_teeth_high_command_desc:0 "By making him take a Legion name, he has been assimilated, and so can be put to work making our dogs fiercer."
+
+  CES_bares_his_teeth_economic_advisor:0 "Hides-His-Teeth"
+  CES_bares_his_teeth_economic_advisor_desc:0 "Though we have broken his will to fight, he still has skills of use; the Hangdogs were notorious scavengers, after all."
+
+  CES_carmine_name:0 "Carmine"
+  CES_carmine_cultural_advisor:0 "Sheriff Carmine"
+  CES_carmine_cultural_advisor_desc:0 "Carmine and his kin worship lawmen as well as outlaws; by making Carmine an enforcer of our will, we can bring our tribes to heel."
+
+  CES_carmine_high_command:0 "'Mad Dog' Carmine"
+  CES_carmine_high_command_desc:0 "Carmine knows how to live off the land, and he can teach this to our soldiers."
+
+  CES_earnhardt_name:0 "Earnhardt"
+  CES_earnhardt_high_command:0 "Pit Lord Earnhardt"
+  CES_earnhardt_high_command_desc:0 "Earnhardt is a gifted mechanic; let him control the pit crews and he will fine tune our chariots for speed."
+
+  CES_earnhardt_economic_advisor:0 "Tabellarius Earnhardt"
+  CES_earnhardt_economic_advisor_desc:0 "Earnhardt loves to race and is a natural leader of men; let him courier resources and build our roads."
+
+  CES_lilly_blair_name:0 "Lilly Blair"
+  CES_lilly_blair_economic_advisor_desc:0 "Lilly was the Caravan Queen, shepherding convoys as far afield as Chicago or the courts of the Aztlán speakers. Never a fan of soft men, she's fallen for Lucius. "
+
+  CES_dale_barton_name:0 "Dale Barton"
+  CES_dale_barton_economic_advisor_desc:0 "One of Arizona's more prosperous traders, Barton recognizes the benefits of the order the Legion brings."
+  dale_barton_trait:0 "Connections"
+
+  CES_frank_ghoul_name:0 "Frank"
+  CES_frank_ghoul_economic_advisor_desc:0 ""
+
+  CES_guillermo_rossi_name:0 "Guillermo Rossi"
+  CES_guillermo_rossi_economic_advisor_desc:0 "Decked in elaborate turquoise and silver jewellery, Guillermo's fat fingers are in every pie in the Southwest. But he'll play along with the Legion. If he knows what's good for him. Just don't ask who works in the mines."
+
+  CES_angry_warrior_name:0 "The Angry Warrior"
+
+  CES_davison_and_antler_name:0 "Davison and Antler"
+  CES_davison_and_antler_desc:0 ""
+
+  CES_keen_name:0 "Keen"
+  CES_keen_desc:0 ""
+
+  CES_measles_name:0 "Measles"
+  CES_green_name:0 "Green"
+  CES_horatio_name:0 "Horatio"
+  CES_airforce_name:0 "Centurion Germanicus"
+
+
+  CES_FANTASTICUS_NAME:0 "Fantasticus"
+  CES_fantasticus_minister_desc:0 "§O"How did I get this job?"\n\n“Well after those Legion ears took over the NCR asked me if I had any experience with espionage, I said about as much as anybody else.”\n\n“So I put on some hockey pads and soaked it in blood and went to talk them Legion ears. They asked me why I just came from the NCR lines. I said I had been under cover with them for about a year. They asked if I was Picus? I said sure dude. They said their commander had recently died and I was the highest ranking legion ear there and asked if I had any leadership experience. I told them I had experienced leadership. They said welcome aboard.”§!"
+  spy_on_masters:0 "Spy On Masters"
+
+  CES_debug_centurion_name:0 "Centurion Testacles"
+
+  CES_HADRIAN_NAME:0 "Hadrian"
+  CES_HADRIAN_DESC:0 "§R"For Progress, For Vulcan."§!\n\nOne of the highest ranking members within the secretive Cult of Vulcan, although due to the groups infamy within the Legion was unable to gather any major holding behind him while Caesar was still alive. Following the death of Caesar, he was approached by one of the most unlikely sources, the leader of the Praetorian Guard. Lucius, in an attempt to try and find answers has Hadrian asked to teach him in the sacred teachings of Vulcan. Hadrian has been a proponent of adopting power armour in the Legion for as long as he can without fearing punishment, he now has an opportunity to adapt these designs on the battlefield with the Cult's new leader himself adopting these new tactics."
+
+  CES_MAGNUS_NAME:0 "Forgemaster Magnus"
+  CES_MAGNUS_DESC:0 "The Forgemaster of Vulcan is a prestigious title, being the position which oversees their new creations and manages the organization of craftsmen within the Cult and beyond. Following the rise of the Cult of Vulcan to the forefront of the Legion, now Magnus works to mold the Legion into a war machine unmatched by any other. In his eyes, slaves and civilians within the Legion represent an inefficiency, an imperfect tool which was poorly used by the Legion beforehand. Now the Forgemaster intends to rectify this inefficiency no matter how brutal the means, turning the slaves and craftsmen of the Legion into a forge that would rival even the industrial capabilities of pre-war America. He hopes one day that his efforts will potentially be something even the gods would be envious of."
+
+  CES_TRAJAN_NAME:0 "Primus Trajan"
+  CES_TRAJAN_DESC:0 "One of the newest and vocal recruits within the Cult of Vulcan, but not lacking in the experience or zealotry of its older members. Trajan and his contubernium once had to face a squad of Brotherhood Paladins, and was one of the few lucky survivors from the conflict. Noting that it was Power Armour that helped provide such an edge over his men many in the Legion would've seen it as a weakness to shed, but Trajan saw it as a strength to be assimilated. Now Trajan acts as a self appointed Hand of Vulcan following the Cult's rise to prominance and wishes to bring out this dream of his by making others see that the Cult is the path to a better Legion, a stronger Legion."
+
+  CES_Polyphemus_name:0 "Polyphemus"

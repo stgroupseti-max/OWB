@@ -1,0 +1,355 @@
+﻿l_english:
+  CHC_history_1:0 "The Birth of V"
+  CHC_history_1_desc:0 "§4"If I’m going to tell you about the adventure of my life -- explain how I got to this place with these people, and why I did what I’m going to do next -- I should probably start by explaining a little bit about Pskyers."§!"
+
+  CHC_history_2:0 "The Bombs"
+  CHC_history_2_desc:0 "Our torturous existense was seemingly endless; psychic labrat freaks doomed to an eternity of suffering. Things may never have changed, if not for the bomb..."
+
+  CHC_history_3:0 "The Possessed"
+  CHC_history_3_desc:0 "The vast majority of our clan aren't psykers at all, they're a sub-class of people known as The Possesed."
+
+  CHC_history_4:0 "The Putrescent Mother"
+  CHC_history_4_desc:0 "Our mother, our guiding voice and the soul of our people. Her matronly calls bore deep into our souls, demanding more from us every day."
+
+  CHC_equip_the_thralls:0 "Equip the Possessed"
+  CHC_equip_the_thralls_desc:0 "Our warband suffers from no lack of §Rbodies§!, but with such numerosity comes the issue of equipment. The coming §0subsumption§! of the Guard will require we arm as many of our Thralls as possible."
+
+  CHC_rally_the_thralls:0 "Rally the Possessed"
+  CHC_rally_the_thralls_desc:0 "Our §0Thralls§!, when not cared for, conduct their grim duties dispassionately, robotically. This disposition can be augmented by imparting upon them emotions from the songstress. Rage, hatred, contempt, even ambition can flow into the minds of our soldiers as they mindlessly march down the path of §Rdestruction.§!"
+
+  CHC_attack_the_guard:0 "Attack the Guard!"
+  CHC_attack_the_guard_desc:0 "§0Mother§! grows §Rrestless!§! We cannot delay any longer, the aching division between our §Rflesh§! and that of the putrid guardsman is almost too much to bear! We will lay waste to their settlements, break their will, claim their very souls!"
+
+  CHC_everything_for_the_spirit:0 "Everything for the Mother"
+  CHC_everything_for_the_spirit_desc:0 "There shall be no quarter for the defeated patrolmen, and every last one of them will be sacrificed to create §0The Mother's vessel.§!"
+
+  CHC_undying_slaves:0 "Unending Servitude"
+  CHC_undying_slaves_desc:0 "The greatest limitation of our human thralls is their eventual aging and §Rexperation.§! The ghouls, however, fear only the decay of their mental faculties; this matters not, as our §0song§! will be firmly rooted in their minds far before age has a chance of stealing away their sentience. The ghouls of the guard will serve us, forevermore."
+
+  CHC_spread_our_taint:0 "Spread our Taint"
+  CHC_spread_our_taint_desc:0 "Victory! It tastes sickly sweet, a sugary bile that heralds what's to come. It is not just the armies of the guardsmen that have been §Rdominated§!, but their §0MINDS§! aswell. Without death, these horrid souls will find no peace."
+
+  CHC_the_bounty_of_the_guard:0 "The Bounty of the Guard"
+  CHC_the_bounty_of_the_guard_desc:0 "Much of the Last Patrol's defenses were predicated on advanced, pre-war machines. Turrets, security bots, terminal operated defenses; it's all very impressive, but not of much use to us now. However, such rare components are valuable, and we should extract every microchip, ciruitboard, and processing unit we can get our hands on."
+
+  CHC_the_psychic_council:0 "Psychic Council Meeting CXCVIII"
+  CHC_the_psychic_council_desc:0 "The yearly meeting of the Psychic Council is the singlemost important meeting in the §0Choir§!. Dozens of the most powerful psykers convening in one shared, mental space to decide our future. It is expected that there will be great joy at the defeat of the guard, and an affirmation to our purpose of rebuilding §0The Putrescent Mother.§! But, sometimes, things are more than meets the all-seeing eye."
+  CHC_the_psychic_council_focus_tt:0 "§gPeople popularity influences this meetings outcome§!"
+  CHC_evil_path:0 "§PA New Path§!"
+  CHC_evil_path_desc:0 ""The strong do what they can, and the weak suffer what they must." §g-Thucydides, History of the Peloponnesian War.§!"
+  CHC_good_path:0 "§YA New Path§!"
+  CHC_good_path_desc:0 ""Do not act as if you were going to live ten thousand years. Death hangs over you. While you live, while it is in your power, be good." §g-Marcus Aurelius, Meditations.§!"
+  CHC_good_prevails:0 "§YPsychic Council Meeting CXCVIII was opposed to Mother's supporters§!"
+  CHC_evil_wins:0 "§PPsychic Council Meeting CXCVIII was in favour of Mother's supporters§!"
+
+  CHC_catch_the_guardsmen:0 "Catch the Guardsmen"
+  CHC_catch_the_guardsmen_desc:0 "After seizing the guard encampment proper, we caught wind of two groups of refugees trying to escape our newest territories. One of them is a contingent of guardsmen fleeing south, the other a caravan of civilians trying to flee east. We can only catch one before the other makes it into indian territory."
+
+  CHC_catch_the_civilians:0 "Catch the Civilians"
+  CHC_catch_the_civilians_desc:0 "After seizing the guard encampment proper, we caught wind of two groups of refugees trying to escape our newest territories. One of them is a contingent of guardsmen fleeing south, the other a caravan of civilians trying to flee east. We can only catch one before the other makes it into indian territory."
+
+  CHC_thralls_into_the_mines:0 "Thralls Into the Mines"
+  CHC_thralls_into_the_mines_desc:0 "Our territory enjoys a certain richness of metal to it, but the struggle calls for more than what the land naturally provides; like in war, we must §Rseize§! what is not yielded to us willingly. Many of §0The Possessed§! will perish down in those black pits, but many more will return with what remains of the dead world's bounty."
+
+  CHC_rage_for_the_machine:0 "Rage for the Mother!"
+  CHC_rage_for_the_machine_desc:0 "§RHatred, Malice, Ill-will!§! All must be levied against our enemies, and it is not enough to be driven and cling to this hate. You must teach it, export it, share it with your fellow §Rkillers!§!"
+
+  CHC_battle_psykers_focus:0 "Battle Psykers"
+  CHC_battle_psykers_focus_desc:0 "Some of our Psyker's powers could be better used on the frontlines. Psychic fighters sneaking behind enemy lines, or cleaving through rows of enemies, cutting the wheat from chaff! It will be §0beautiful, glorious!§!"
+
+  CHC_levy_the_masses_focus:0 "Levy the Masses!"
+  CHC_levy_the_masses_focus_desc:0 "There is only so much need for laborers, craftsman, and psychic slaves. What we really need are warriors, fighters, and killers! Labor will be moved from the backlines to the front, and they will §Rfight!§!"
+
+  CHC_thralldom_for_guards:0 "Thralldom for Guardsmen"
+  CHC_thralldom_for_guards_desc:0 "A platoon of trained guardsman was discovered hiding amongst the ruins of the Enid Defense Zone. They were disarmed almost immediately after the siren song was put over the intercoms in nearby buildings. They will be returned to the field, but this time fighting §0for§! us, not against."
+  CHC_thralldom_for_guards_tt:0 "Three units of fully equipped Guardsmen will join you!"
+
+  CHC_mastering_special_forces:0 "Expanding the Psyker Corps"
+  CHC_mastering_special_forces_desc:0 "§0More, more, more!§! Psykers have proven themselves in combat well over a dozen times now, and it only makes sense to move more of them into combat!"
+
+  CHC_mastering_special_forces_2:0 "Mastering Special Forces"
+  CHC_mastering_special_forces_2_desc:0 "Psykers are our finest warriors, and they must have the finest equipment to boot aswell. Well built armor, artificer weapons, the whole nine yards. They'll be the bane of our enemies, and the bringers of our destiny!"
+
+  CHC_fortify_scrappers_pass:0 "Fortify Scrappers Pass"
+  CHC_fortify_scrappers_pass_desc:0 "Our southern neighbors are a loosely confederated group of scrappers inhabiting a wide strech of territory across the Oklahoma river. They are a weak people, and potentially a rich source of §Rflesh.§! Unfortuately, we must bide our time. The threat of the Guard makes starting another war untenable. §0Mother§! aches for the Scrapper's viscera, but she will have to wait."
+
+  CHC_will_to_power:0 "Will to Power"
+  CHC_will_to_power_desc:0 "Ripping loot from the wasteland's carcass will not provide forever. Sooner or later, we will have to construct our own foul forges; places where rich hellfire and cold steel meet to create knives, swords, spears and all other manner of instruments fit to §Rrip flesh from bone.§!"
+
+  CHC_salvage_irradiated_equipment:0 "Salvage Irradiated Equipment"
+  CHC_salvage_irradiated_equipment_desc:0 "There are a few places in our territory so tainted by §7radiation§! that regular salvagers would never set foot within them. The most prominent of which is an old metalworking factory, the equipment inside could be recovered and studied to give us an §Redge§! in the field of industry."
+
+  CHC_double_arms_production:0 "Double Arms Production"
+  CHC_double_arms_production_desc:0 "Guns in hands, that's all that matters! An arm §Rripped§! from the body by a lathe, an eye §Rgouged§! while handling faulty ammo, hands §Rshredded§! by an exploding receiver. It's all flesh for the §0Mother§!, at the end of the day."
+
+  CHC_rally_the_dowagers:0 "Rally the Dowagers"
+  CHC_rally_the_dowagers_desc:0 "The §0Dowagers§! are what we call the rest of the psykers that don't hold a prominent position of power in the council. Most of them are driven along factional lines, supporting and groveling to all the who's who in a bid to gain more power for themselves. Their support is instrumental if we want to get anything done."
+
+  CHC_industry_knowledge:0 "We Need A Good Mind for It"
+  CHC_industry_knowledge_desc:0 "Among our §0thralls§!, there must be some with the knowledge to direct. With the power of the mind in the palm of our hands, who are to not bring about a new golden age by force?"
+
+  CHC_power_plant:0 "The Watonga Generators"
+  CHC_power_plant_desc:0 "Once, these generators powered machines that §Rheld us as slaves.§! Now, they are under our control, and the lights no longer blind us."
+
+  CHC_utilizing_townsfolk:0 "Utilizing Townsfolk"
+  CHC_utilizing_townsfolk_desc:0 "When you can §0dominate all that you see,§! what stops your fellow man from becoming but another §Rpawn for your own amusements§!? Why, pure morality of course; but we all know that has no place in these times, don't we?"
+
+  CHC_insert_four_hundredth_focus_in_the_game_named_weird_science_here:0 "Weird Science"
+  CHC_insert_four_hundredth_focus_in_the_game_named_weird_science_here_desc:0 "§ROur bounds know no limits§!. There is no frontier that which we cannot brave through our own flesh and mind. A force as §0indomitable§! as us must broaden our horizons, even when it seems impossible to do so."
+
+  CHC_bruisers_army:0 "Bruiser's Army"
+  CHC_bruisers_army_desc:0 "Mutants from another land have staked a claim nearby; their strength is §0second to none,§! but their intelligence is as dim as a pre-war bulb. §RThey will serve the Mother's army, one way or another.§!"
+  CHC_bruisers_army_tt:0 "§YBruiser§! will be available as an §Madvisor§! for your §GHigh Command§! slot!"
+
+  CHC_the_scream_ability:0 "Mother's Gift to All the World"
+  CHC_the_scream_ability_desc:0 "Mother looked to us in our dreams, and promised us something beautiful: §0a song, perfect in its harmony, that could shatter the Heavens themselves.§! When we awoke, we knew not how we had grown, §Ronly that the world would fear us more for it.§!"
+  CHC_scream_tt:0 "Unlocks the §0Psychic Scream§! ability!"
+
+  CHC_attack_painted_rock:0 "Storm Painted Rock!"
+  CHC_attack_painted_rock_desc:0 "To our west lies a tribe of warriors. §RBloodthristy savages§! that very nearly surpass our own appetite for §Rviolence!§! It'll be a tough fight, but worth it in the end. Well built tribals means high quality §Rmeat§! for the §0effigy.§!"
+
+  CHC_core_sperman:0 "Secure Spearman"
+  CHC_core_sperman_desc:0 "The tribe of painted rock inhabits two areas of interest; Guymon Junction to the north, and spearman to the south. Due to the abrasive nature of the locals, we can only hope to secure one of these areas completely. We should secure Spearman, for its civilian industry and metal."
+
+  CHC_core_guymon_junction:0 "Secure Guymon Junction"
+  CHC_core_guymon_junction_desc:0 "The tribe of painted rock inhabits two areas of interest; Guymon Junction to the north, and spearman to the south. Due to the abrasive nature of the locals, we can only hope to secure one of these areas completely. We should secure Guymon Junction, for its military industry and water."
+
+  CHC_sperman_resources:0 "Spearman's Bounty"
+  CHC_sperman_resources_desc:0 "Spearman enjoys very rich veins of metal in its mines, though the tribals at first were reluctant to dig deeper and risk the danger, §0thralls§! have no such nervousness!"
+
+  CHC_guymon_resources:0 "Power from the Cimarron"
+  CHC_guymon_resources_desc:0 "The town of Painted Rock is not far from the origin of the Cimarron river. With the water being at its strongest here, we can set up a few water mills to collect electricity from this natural source."
+
+  CHC_melody_idea:0 "The Warrior's Melody"
+  CHC_melody_idea_desc:0 "The effects of our §0songs§! depend on many things. Tone, lyrics, §Ranger§!, §0devotion...§! There are other factors, and sometimes entirely new songs are written! A newly penned piece, aptly named "Beautiful Ballad of Battle" by Morgana is especially useful in offensive combat."
+
+  CHC_seize_the_stretch:0 "Seize the Stretch!"
+  CHC_seize_the_stretch_desc:0 "The Scrapper's Compact to our south is ruled by a many headed and highly ineffectual council. While complete §Rsubjugation§! will require war, we can circumvent their natural defenses by seizing territory across the river before their petty council can organize a response."
+
+  CHC_attack_scrappers_compact:0 "Attack the Compact!"
+  CHC_attack_scrappers_compact_desc:0 "All together, the core territories of the Scrapper's guild house thirty thousand §0souls§!. Mother, §Rhungry§! as ever, calls out to us, demanding we topple their petty little shitheap of a capital, and seize as many of them as we can for the §0effigy§!"
+
+  CHC_core_the_stretch:0 "Secure the Stretch"
+  CHC_core_the_stretch_desc:0 "The Compact took up a very wide territory, and locking down every mile of it is an impossible task, our best options are the Stretch, or the Corroded fields. Chickasha is too far to leave cut off from out core territory. We should focus on the Stretch, for its industrial potential."
+
+  CHC_core_corroded_fields:0 "Secure the Corroded Fields"
+  CHC_core_corroded_fields_desc:0 "The Compact took up a very wide territory, and locking down every mile of it is an impossible task, our best options are the Stretch, or the Corroded fields. Chickasha is too far to leave cut off from out core territory. We should focus on the Corrded Fields, for its large amount of resources."
+
+  CHC_stretch_resources:0 "Stretch Our Resources"
+  CHC_stretch_resources_desc:0 "Easy access to the river and lots of space makes the Stretch a prime place to construct a series of new workshops."
+
+  CHC_corroded_fields_resources:0 "Corroded Treasures"
+  CHC_corroded_fields_resources_desc:0 "The Corroded fields are incredibly rich with the leftover stockpile of resources accumulated by the scrappers, now all we need is a facility that can use them."
+
+  CHC_reorganizing_the_possessed:0 "Train Psyker's on Tactics"
+  CHC_reorganizing_the_possessed_desc:0 "Though our means of giving orders are §0different§!, the importance of tactics has not diminished in any way. Every one of our psykers should not just be able to exert perfect control over §0thralls§!, but the battlefield aswell."
+
+  CHC_gather_what_they_must:0 "To Labor Without Rest"
+  CHC_gather_what_they_must_desc:0 "The §0Possessed§! are a unique group amongst workers. They worry not for breaks, or rest, or personal fulfillment. They need not be paid, nor respected, nor kept safe. They know no fear, no apprehension, no laziness. For rending the Earth and §Rripping§! the bounty from the soil? Accept no substitute."
+
+  CHC_the_old_facility:0 "The Old Facility"
+  CHC_the_old_facility_desc:0 "The correctional compound that sits above our original home had many assembly lines within, usually for prisoners to labor on and make little knick knacks. With a bit of work, these lines can be converted to make weaponry!"
+
+  CHC_open_your_minds_eye:0 "A Drop to Drink"
+  CHC_open_your_minds_eye_desc:0 "Water is important, especially when it comes to making ice! Without such materials, how else would be able to preserve all the §Rmeat§! being sent back to the Chapel?"
+
+  CHC_we_need_MONEY_to_buy_DRUGS:0 "The Fruits of Our Conquest"
+  CHC_we_need_MONEY_to_buy_DRUGS_desc:0 "Of the various people kidnapped, enslaved, and otherwise §0subsumed§!, there are many valuable personal affects left behind. Live savings in caps, golden heirlooms, valuable guns and trinkets, pre-war oddities...Most of these aren't useful, but they can be §Rliquidated§! into funds, which are!"
+
+  CHC_the_possessed_rally:0 "Rally the Thralls"
+  CHC_the_possessed_rally_desc:0 "The final conflict will be on us soon. Our conquest of the indian federation will spell the complete domination of the state, and provide us with more than enough bodies to complete §0the ritual.§! For now, we will call back all the Possessed not doing important work and draft them into the army. This process will take a while, and will be noticed by our neighbors..."
+  CHC_the_possessed_rally_tt:0 "The Great Federation will prepare for what is to pass...and we will gather strength. After that, we will strike!"
+
+  CHC_preparing_for_mother_1:0 "Study the Music"
+  CHC_preparing_for_mother_1_desc:0 "The most important part of the §0incantation§! is the music. A beautifully horrific §Rballad§! that will force §0Mother's§! very spirit into her new §0form.§! Our performance must be perfected beforehand. In our finest hour, there is no room for error."
+  chcspreadthemusic:0 "§GThis will spread the effects of Project ACAPELLA to the Lodge's territory!§!"
+
+  CHC_preparing_for_mother_2:0 "Finish the Effigy"
+  CHC_preparing_for_mother_2_desc:0 "§0Mother's§! body. The great genesis of our efforts. A perfect means by which she can exert her will upon this horrid world. It's the culmination of many thousands of offerings of both §Rflesh§! and gold. She will love it, of this we are certain."
+
+  CHC_preparing_for_mother_3:0 "Calling all Psykers"
+  CHC_preparing_for_mother_3_desc:0 "The ritual will be no mean feat. This will require not just the voices of a powerful few, but every psyker in the tribe. A call will go out that their voices are needed at the chapel, that the time for our finest hour is now."
+
+  CHC_summon_mother:0 "§0The Ritual§!"
+  CHC_summon_mother_desc:0 "§0One need not be a Chamber—\nto be Haunted—One need not be a House—\nThe Brain has Corridors—surpassing\nMaterial Place§!"
+  CHC_summon_mother_tt:0 "This will unlock the final act of the tree!"
+
+  CHC_attack_the_lodge:0 "Attack the Lodge!"
+  CHC_attack_the_lodge_desc:0 "To our south lie §0cultists§!, much like ourselves in that they understand there is more to this world that meets the eye. But unlike us, they refuse to §Rbow§! to the §0Mother's§! magnificence! No matter; what they do not already know, we will teach them."
+
+  CHC_secrets_of_the_lodge:0 "Secrets of the Lodge"
+  CHC_secrets_of_the_lodge_desc:0 "The Last Lodge had many secrets. Rituals, texts, and communion with spirits long lost to time. Much of this we know already, but some of this §0forbidden knowledge§! has opened our eyes to things we did not see before."
+
+  CHC_invade_tubeheads:0 "Invade Tubeheads"
+  CHC_invade_tubeheads_desc:0 "Across the river from The Big Spend is one of the largest surviving pre-war radio stations. For now, it mostly broadcasts meaningless entertainment to the wastes. But were we to §Rseize§! it, we could use such a thing for our own devices!"
+
+  CHC_dead_air_focus:0 "Dead Air"
+  CHC_dead_air_focus_desc:0 "The Tubeheads have been routed from their electronic den, and the station is ours! Already we are using the onsite studio to record new §0chants§! to be broadcast all across the wasteland. Any soul unlucky enough to tune in to the wrong station will be lead right back to us for §Rprocessing.§!"
+
+  CHC_march_on_dallas:0 "March on Dallas"
+  CHC_march_on_dallas_desc:0 "The Chapel is...satisfactory to house Mother and her many servants. But, it could be better, bigger, closer to growing list of conquests. Dallas, though not the largest city in Texas, is only a few miles south of our current border. The only issue is those that inhabit it...Soldiers draped in Power Armor, mad cowboys, driven folk who want to rebuild the state itself...it won't be easy to seize. No matter, we are destined to rule these wastes, and rule them we will."
+
+  CHC_the_palace:0 "§0The Palace§!"
+  CHC_the_palace_desc:0 "Dallas lies firmly within our grasp, and the forces that once held it have been scattered to the wind. Mother now sits upon a gilded throne of §Rviscera§!, and her ambition knows no bounds. A palace will be built in the ruins of the old Commercia Tower. A building of sixty stories, it is the largest left standing after the bombs fell. Ruling from this height of heights, who could ever seek to oppose our scarlet matron?"
+
+  #### Good Path Focuses
+  CHC_our_friends_in_maxson:0 "A Duet of Steel"
+  CHC_our_friends_in_maxson_desc:0 "The §gMaxson Chapter.§! An order of noble warriors wearing armor from a world long destroyed. Without the strength of the §4Possessed§! we are barely capable of defending ourselves, our §Hhopes,§! and our §Hdreams.§! We will make every effort to befriend this chapter, offering up our sovereignty and secrets for their protection."
+
+  CHC_alone_in_the_world:0 "A Solo Act"
+  CHC_alone_in_the_world_desc:0 "There is no tribe alive today that will openly trust us, after all the strife we've caused. We must reap what we've sown, and walk these wastelands alone."
+
+  CHC_exchange_technical_information:0 "An Exchange of Information"
+  CHC_exchange_technical_information_desc:0 "To know is to be §Hliberated§! from strife. To enjoy mastery over fate and the world, you must first know the nature of these things. Our friends at §gMaxson§! know a lot more than we do."
+
+  CHC_cooperate_on_defense:0 "The Art of Mutual Defense"
+  CHC_cooperate_on_defense_desc:0 "Our homes, our people, our §Hdreams.§! These things must be cherished, loved, and enjoyed to the fullest. But to do that, and to ensure our young can do that, we must firstly defend these things. The hands of a loving father may have to hold his babe one day, and a rifle the next. The least we can do, is give him that rifle."
+
+  CHC_ties_with_maxson:0 "Ties With Maxson"
+  CHC_ties_with_maxson_desc:0 "Our neighbors are naturally...suspicious of us. Few tribes in the wasteland truly believe in our §Hrebirth§!, and fewer still would be seen openly helping us. The §gChapter§! is different. Whether that difference is due to desperation or a genuine capacity for forgiveness has yet to be seen. Still, we must §Hnuture§! this bond between our people lest it, too, breaks."
+
+  CHC_cooperate_on_civilian_manufacturing:0 "To Build the Future"
+  CHC_cooperate_on_civilian_manufacturing_desc:0 "It is not enough to sit idly by and wait for the wounds of the world to §Hrecover.§! We must take an active hand in §Hhealing§! the communities of the wasteland. Sure, on our own we can achieve great works and prosperous cities...but with the help of our friends clad in §gSteel,§! we can build taller, reach higher, and prosper more."
+
+  CHC_brotherhood_weaponry:0 "Weaponry of the Brotherhood"
+  CHC_brotherhood_weaponry_desc:0 "The §gMaxson Chapter§! has offered us a good deal. The chance at one of their pre-war databanks in exchange for much of the advanced components stockpiled in the old National Guard HQ. Our choices are between advanced weaponry to protect the seeds we sow, or advanced industry to spread the light of progress. We chose the weaponry, for wrenches and plows do not a safe future make."
+
+  CHC_brotherhood_industry:0 "Industry of the Brotherhood"
+  CHC_brotherhood_industry_desc:0 "The §gMaxson Chapter§! has offered us a good deal. The chance at one of their pre-war databanks in exchange for much of the advanced components stockpiled in the old National Guard HQ. Our choices are between advanced weaponry to protect the seeds we sow, or advanced industry to spread the light of progress. We chose the industry, for what world is worth defending, that is not wholly prosperous?"
+
+  CHC_musical_harmony:0 "Musical Harmony"
+  CHC_musical_harmony_desc:0 "Our §4powers§! have, in the past, been used for great §Revil.§! Mindbending psychic slavery, wars of conquest, and pacification of wastelanders to name a few. This, however, does not mean our §Hgift§! cannot be used for good! Our Siren's song can imbue workers with feelings of §Hdetermination§! and §Hpurpose!§! It can ease the §Hpain§! of wounded soldiers and soothe the §Hsouls§! of anguished wastelanders. There is little to be done about the §Revil§! of the past, but much that can be done to bring §Hgood§! into the future."
+  chcgoodpowerunlocked_tt:0 "Unlocks the §HPsychic Harmony§! ability!"
+
+  CHC_to_kill_a_god:0 "To Kill a God"
+  CHC_to_kill_a_god_desc:0 "§4Mother§! cannot be left alive. Her influence has already driven our tribe to do horrid, monstrous things to pursue her twisted and unclear goal of §4rebirth.§! For us to fully change our song, we must destroy her in her entirety."
+
+  CHC_remove_the_supporters:0 "Exile Mother's Supporters"
+  CHC_remove_the_supporters_desc:0 "Those who still support the notion of rebuilding §4Mother§! are few amongst the §HReborn Choir§!. Though they cannot be convinced to see the err of their ways, it would be wrong to slaughter them simply for the crime of being misguided as we were. They will be exiled, forced to find fate amongst the wastelanders they had a hand in mistreating."
+
+  CHC_water_from_the_arkansas:0 "Quench the World's Thirst"
+  CHC_water_from_the_arkansas_desc:0 "The Arkansas River is fairly heavily polluted from both radiation and debris, but the guard had a working solution to that. Being ghoul, they had little use for the many water purification machines left around the guard encampment for disasters...but we can find a use for them. Water is §Hlife,§! ergo, to bring water to the wasteland is to bring §Hlife§! to it. It's also a nice way to make a few caps off the neighboring tribes who also find little use in the mucky river."
+
+  CHC_have_power_will_share:0 "Have Power, Will Share"
+  CHC_have_power_will_share_desc:0 "We don't have enough equipment to §Hpurify§! the entire stretch of rivers that run through our territory, but we can still find §Hbounty§! in these ancient streams. Electricity, produced through water mills and stored in resevoirs, will bring light, warm, and comfort to many hundreds of homes in not just our territory, but our neighbor's aswell. Of course, if the effort falls to us, the payment falls to them."
+
+  CHC_return_the_people:0 "Return the People"
+  CHC_return_the_people_desc:0 "Regrettably, many of the civilians living under the guard were displaced after we took over the headquarters. Many of them live destitute lives with §4dark futures§! as refugees in tribes across the border. It is time to invite them back, into new homes, on the very same land we drove them from."
+
+  CHC_defensive_works:0 "Defensive Works"
+  CHC_defensive_works_desc:0 "There remains a high degree of animosity between us and many of our neighbors, notably the Scrappers to the south and Painted Rock to the west. Many of these wounds run so deep that words will never §Hheal§! them, so it is better that we dig our heels in, and await their eventual retribution."
+
+  CHC_protect_whats_ours:0 "Stand and Deliver"
+  CHC_protect_whats_ours_desc:0 "We've come too far to be undone by vicious outsiders and warring tribes. We must arm ourselves, lest we end up §Rsubjugated§! by devious forces outside of our borders."
+
+  CHC_return_the_guardsmen:0 "Return the Guardsmen"
+  CHC_return_the_guardsmen_desc:0 "Most of the §LGuard§! was destroyed during and after the war, now there remains so few of them that they could never properly lead this territory again. It may not undo the past, but we can invite them back, offer them positions as §Hpeacekeepers§! of this fine land."
+  CHC_return_the_guardsmen_tt:0 "Three units of fully equipped Guardsmen will join you!"
+
+  CHC_respect_for_nature:0 "Respect for Nature"
+  CHC_respect_for_nature_desc:0 "§HPeace§! and §HProsperity§! are not things that can be seized from the earth with force. Only through a measured, §Hharmonic§! co-existence with the wasteland can we ever hope to build an §Hidyllic paradise.§!"
+
+  CHC_study_project_acapella:0 "Study §HProject ACAPELLA§!"
+  CHC_study_project_acapella_desc:0 "§HLike the sun\nWho wakes the dawn\nReflecting all the promises\nOf rebirth and rekindling\nRevival of grace and hope.§!"
+
+  CHC_draft_acapella_plans:0 "Draft Plans for §HProject ACAPELLA§!"
+  CHC_draft_acapella_plans_desc:0 "§HNot every morning\nBrings blue skies and sunlit praises\nSometimes I am awakened to despair\nGrief that stings me to my core\nSometimes I arise to calamity, misfortune\nFeelings of anguish and misery\nA darkness that shadows all of my dreams§!"
+
+  CHC_renovate_fort_supply:0 "Renovate Fort Supply"
+  CHC_renovate_fort_supply_desc:0 "The best candidate for a location to build §HProject ACAPELLA's§! working components is Fort Supply. Large, open courtyards and massive warehouses can be converted to equipment areas and generator arrays."
+
+  CHC_buy_parts_from_scrappers:0 "Buy Parts From the Scrappers"
+  CHC_buy_parts_from_scrappers_desc:0 "Some of the components needed to finish the §HProject§! can be find to the south, in the domain of the scrappers. It would be §4wrong,§! and troublesome, to just take these parts. So, we'll try to hash out a deal with the scrappers; something simple, caps for parts."
+
+  CHC_a_fine_deal:0 "A Fine Deal"
+  CHC_a_fine_deal_desc:0 "The Scrappers have held up their end of the deal, and now we have the parts we need to build §HProject ACAPELLA!§!"
+  CHC_parts_acquired_tt:0 "§GWe have most of the parts needed for Project ACAPELLA!§!"
+  goodscrappersflag:0 "The Scrappers have agreed to sell us the §HProject ACAPELLA§! parts."
+
+  CHC_healthy_trading:0 "Healthy Trading"
+  CHC_healthy_trading_desc:0 "Now that the Scrappers have shown they're willing to deal with us, we can now open up regular trading with them. Commerce is the lifeblood of civilization."
+  CHC_trading_starts_tt:0 "§GTrading will begin with the Scrapper's Compact!§!"
+
+  CHC_cheated_scammed_and_robbed:0 "Cheated, Scammed, and Robbed"
+  CHC_cheated_scammed_and_robbed_desc:0 "Those §RBastards!§! They amubushed the caravan we sent with the caps and butchered everyone there! Now they've got our money and refuse to give over the scrap."
+  badscrappersflag:0 "The Scrappers have refused our deal!"
+
+  CHC_scour_corroded_fields:0 "Scour Corroded Fields"
+  CHC_scour_corroded_fields_desc:0 "The Compact is...gone. Without the parts, we could never complete §HProject ACAPELLA§! without their scrap, and with our offer so rudely...§Rdeclined§!...we had little choice but to take what we needed. Now, we simply need to sort the parts."
+
+  CHC_settle_the_stretch:0 "Settle the Stretch"
+  CHC_settle_the_stretch_desc:0 "The Compact took up a very wide territory, and locking down every mile of it is an impossible task, our best options are the Stretch, or Chickasha. We should focus on the Stretch, for its industrial potential."
+
+  CHC_settle_chickasha:0 "Settle Chickasha"
+  CHC_settle_chickasha_desc:0 "The Compact took up a very wide territory, and locking down every mile of it is an impossible task, our best options are the Stretch, or Chickasha. We should focus on Chickasha, for its ample amounts of electronic scrap."
+
+  CHC_the_issue_of_painted_rock:0 "The Issue of Painted Rock"
+  CHC_the_issue_of_painted_rock_desc:0 "Our early progress on §HThe Project§! has been stymied by our neighbors, Painted Rock. Now that we no longer have legions of §4Possessed§! watching the borders, they've incresed the frequency of raids into our territory! They steal parts, supplies, and even sometimes people. We'll have to do something about this."
+
+  CHC_secure_guymon_junction:0 "Secure Guymon Junction"
+  CHC_secure_guymon_junction_desc:0 "The tribe of painted rock inhabits two areas of interest; Guymon Junction to the north, and Spearman to the south. Due to the abrasive nature of the locals, we can only hope to secure one of these areas completely. We should secure Guymon Junction, for its military industry and water."
+
+  CHC_secure_spearman:0 "Secure Spearman"
+  CHC_secure_spearman_desc:0 "The tribe of painted rock inhabits two areas of interest; Guymon Junction to the north, and Spearman to the south. Due to the abrasive nature of the locals, we can only hope to secure one of these areas completely. We should secure Spearman, for its civilian industry and metal."
+
+  CHC_hire_weaponsmiths:0 "Hire Local Artisans"
+  CHC_hire_weaponsmiths_desc:0 "Many of the militaristic Painted Rock tribe were artisan weaponmakers before we took over. With a little instruction (and a lot of pay) these folk can be convinced to ply their trade for us, instead of against us."
+
+  CHC_build_local_industry:0 "Build Local Industry"
+  CHC_build_local_industry_desc:0 "Spearman, being rich in deposits of natural metal, would make an excellent candidate for industries related to construction and consumer goods."
+
+  CHC_build_the_amplifier:0 "Build the Amplifier!"
+  CHC_build_the_amplifier_desc:0 "The parts for §HProject ACAPELLA§! have been secured, and the station at Fort Hope is ready for habitation. We are approaching §Hredemption,§! but, yet, in the eleventh hour, there still exists a roadblock. The Cypher Warband lies to our southwest; their chronic luddism means that the moment they catch word of us building this Pre-War project, they'll come knocking to destroy us. The §HProject§! will never be safe, so long as they exist."
+  cypherwarning:0 "The §GAmplifier§! will be complete, but the §RCypher Warband§! will take issue with our use of technology!"
+
+  CHC_support_the_brotherhood:0 "Support the Brotherhood!"
+  CHC_support_the_brotherhood_desc:0 "Never, since our §HShift in Tone,§! have we wanted to take the primary role of warmonger. Our greatest allies, however, are all too familiar with the tragedy of warfare. We should do all we can to support them, and allow §gMaxson§! to be the senior military partner between us."
+
+  CHC_fight_for_ourselves:0 "Fight for the Self"
+  CHC_fight_for_ourselves_desc:0 "Ideas, people, homes, and country all must be defended. Even as conflict averse as we are, there's no excuse to letting our homefront fall to the wayside in the face of raiders, criminals, and other misguided elements. We must protect our people."
+
+  CHC_all_for_guns:0 "All For Guns"
+  CHC_all_for_guns_desc:0 "In lieu of a proper military heritage, we must rely firstly on well meaning volunteer militias to protect our borders. These folk will be compensated well, and will enjoy all the adoration and support that befits a soldier."
+  chcnewmilitia:0 "§GYou will get three new units of Militia!§!"
+
+  CHC_and_guns_for_all:0 "And Guns for All!"
+  CHC_and_guns_for_all_desc:0 "We know little of modern manufacturing technique, and anybody that would be willing to teach us has perished. In light of this, our weapons will have to be produced to...slightly lowered standards. Some may complain, but it is better to be fighting with a pipegun than bare fists."
+
+  CHC_peacekeeper_tactics:0 "Peacekeeper Tactics"
+  CHC_peacekeeper_tactics_desc:0 "Our military should, first and foremost, be dedicated to maintaining §4harmony§! and §4peace.§! How could the soldiery be expected to export §4compassion§! if our own territory is in constant turmoil? A trio of peacekeeper battalions will be formed with heavy armor and clubs."
+  chcnewforcers:0 "§GYou will get three new units of experienced Peacekeepers!§!"
+
+  CHC_recruits_for_maxson:0 "Recruits for Maxson"
+  CHC_recruits_for_maxson_desc:0 "Veterans, ex-raiders, tribals, and young men seeking adventure often find themselves at odds with our preference for peace. §gMaxson,§! however, is constantly wrapped in the ever dangerous task of pacifying Colorado. With a little direction these dissatisfied individuals could become functioning initiates, paladins, and knights!"
+
+  CHC_maxson_army_drills:0 "Maxson Army Drills"
+  CHC_maxson_army_drills_desc:0 "Coordination between us and the §gChapter§! is of utmost importance. Goodwill cannot direct complex army manuevers, and friendship will not magically win battles. Starting now, regular mixed-unit excersizes will begin with §gMaxson.§!"
+
+  CHC_to_see_the_world:0 "To See the World"
+  CHC_to_see_the_world_desc:0 "We've developed an absolute §4adoration§! and §4respect§! for nature, so it's not surprising that many of us are interested in seeing as much of it as possible. As nice as idle sightseeing can be, insisting upon travellers mapping territory and acquiring a feel for the local terrain will do wonders for our reconissaince abilities."
+
+  CHC_an_army_of_healers:0 "An Army of Healers"
+  CHC_an_army_of_healers_desc:0 "Nurses, Combat Medics, Doctors, and Lifesavers are all the most noble of roles on the battlefield. The notion of thrusting oneself into danger purely to preserve human life is both a §Hromantic§! and §Hinspiring§! idea. Already, tales are forming about heroes like Army Medic Casper §B"Voodoo"§! Rogers, who sacrificially threw himself on a grenade to protect a convoy of wounded militiamen."
+
+  CHC_in_defense_of_humanity:0 "§4In the Defense of Humanity§!"
+  CHC_in_defense_of_humanity_desc:0 "§4The dove is the peacekeeper\nBetween the owl and the hawk\nWho have different war paths\nAnd ominous thoughts§!"
+
+  CHC_enlighten_the_cyphers:0 "Enlighten the Cyphers"
+  CHC_enlighten_the_cyphers_desc:0 "The Cyphers are a people naturally suspicious of us after both our use of technology, and the war. The process to break this luddism will take time, but already the more forward thinking of the tribe are seeing the benefits of our rule."
+
+  CHC_activate_project_acapella:0 "§HActivate Project ACAPELLA§!"
+  CHC_activate_project_acapella_desc:0 "§HWould ye build that generations\nYet to be may call you great?\nWould ye have your lives' creations\nO'er the ages tower elate?\n\nHearken then a world-old moral,—\nAbnegation, meek and pure.\nBuild as doth the lowly coral,—\nGive yourselves. That shall endure.§!"
+
+  CHC_an_end_to_cults:0 "An End to Cults"
+  CHC_an_end_to_cults_desc:0 "Cult belief and worship of ancient power is the exact thing that lead us down our dark path...the Lodge refuses to let go of the occult, and so we must strike them down, and cleanse the world of this evil."
+
+  CHC_spread_the_music:0 "Spread the Music"
+  CHC_spread_the_music_desc:0 "We are reaching the limits of the territroy ACAPELLA can influence. We'll have to set up signal extenders to spread the effects towards Vernon and Wichita Falls"
+
+  CHC_the_eagles_nest:0 "The Eagle's Nest"
+  CHC_the_eagles_nest_desc:0 "Cannon AFB was in disrepair under the control of the Cyphers. Now that we control it, we can properly exploit and restore the old airstrip and facilities, aswell as study the remaining aircraft."
+
+  CHC_the_elysian_plains:0 "The Elysian Plains"
+  CHC_the_elysian_plains_desc:0 "Our domain stretches from the Cimarron to the Brazos and all the land throughout is an abundance of love, bounty, and prosperity! No longer are we merely timid hummingbirds, we have finally built a home worthy of mankind!"
+
+  scrapperparts:0 "Has gotten the Project ACAPELLA Parts."
