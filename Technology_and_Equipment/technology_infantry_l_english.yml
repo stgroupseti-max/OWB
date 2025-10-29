@@ -1,0 +1,226 @@
+﻿l_english:
+ # Equipment naming is inherited from the equipment name when displayed in the techtree
+
+ #----------------------------
+ # Header
+ #----------------------------
+  HEADER_INFANTRY_TRAINING:0 "Infantry Training"
+  HEADER_HEAVY_INFANTRY_EQUIPMENT:0 "Riot Control"
+  HEADER_BALLISTIC_EQUIPMENT:0 "Ballistic Equipment"
+  HEADER_ENERGY_EQUIPMENT:0 "Energy Equipment"
+  HEADER_MELEE_WEAPONS:0 "Melee Weapons"
+  HEADER_POWER_ARMOUR:0 "Power Armour"
+  HEADER_SPECIAL_FORCES_ARMOUR:0 "Special Forces Equipment"
+  HEADER_SPECIAL_FORCES_EQUIPMENT:0 "Special Forces"
+
+ #----------------------------
+ # Infantry Training
+ #----------------------------
+  unit_training_tech_1:0 "Warrior Training"
+  unit_training_tech_1_desc:0 "A basic restructuring of our training program to focus on stress resistance courses, and continuous squad bonding drills. This allows us to root out undisciplined soldiers early, along with those too frail mentally to withstand the rigour of combat, decreasing training time."
+  unit_training_tech_2:0 "Militia Training"
+  unit_training_tech_2_desc:0 "Military drills aimed at basic defensive operations are carried out across our army. The cornerstone of it is teaching our troops basic guerilla tactics, proper skirmishing procedures as well as field fortification building."
+  unit_training_tech_3:0 "Guerilla Tactics"
+  unit_training_tech_3_desc:0 "A deeper understanding of guerrilla tactics, and wasteland operation training given by experienced survivalists, let our army strike in unexpected places, as well as take advantage of the rocky terrain or sandstorms."
+  unit_training_tech_4:0 "Platoon Training"
+  unit_training_tech_4_desc:0 "Officer training and platoon organization allows our command structures to be simplified when compared to loose militia units. Lieutenants trained in field operation and battlefield thinking will also increase our tactical readiness."
+  unit_training_tech_5:0 "Basic Drill"
+  unit_training_tech_5_desc:0 "Standardized physical drills, and intense training programs, increases the endurance and resilience of our troops. Pairing this with tactical retreat exercises let our soldiers regroup and reorganize much faster from a failed assault or strategical movement."
+  unit_training_tech_6:0 "Mechanized Training"
+  unit_training_tech_6_desc:0 "Mechanized combined operations along with general motorization can be used to our advantage. Skirmishing troops in light motorized vehicles can quickly engage and tie-up enemy assets, allowing our forces to reinforce ongoing assaults faster."
+  unit_training_tech_7:0 "Objective Security Tactics"
+  unit_training_tech_7_desc:0 "Massive distribution of entrenching spades is carried out to all soldiers in our army. Combined with specialist shock training dealing with rapid area securing, and squad-level sweep tactics, this allows our troops to quickly secure and reinforce positions."
+  unit_training_tech_8:0 "Virtual Reality Training"
+  unit_training_tech_8_desc:0 "Pre-war training pods, loaded with all previous improvements to our army drills, let our troops become experienced soldiers much quicker with less ressources directed toward boot camps."
+
+ #----------------------------
+ # Heavy Inf Gear
+ #----------------------------
+  heavy_infantry_tech_1:0 "Enforcers"
+  heavy_infantry_tech_1_desc:0 "While not nearly as sophisticated as special forces equipment, or as advanced as power armour, these pieces of metal and padding strapped to one's body do still help in some situations. Especially useful in its intended role to suppress resistance."
+  heavy_infantry_tech_2:0 "Additional Plating"
+  heavy_infantry_tech_2_desc:0 "Reinforcing the natural weak spots discovered in our Enforcer's armor with additional armor plating, as well as providing them with purpose-built military helmets instead of their scavenged equipment, should make them much more resistant to small-arms fire. While it will slow them down further, few of them would turn down the opportunity to resist a rifle cartridge to the skull."
+  heavy_infantry_tech_3:0 "CqC Training"
+  heavy_infantry_tech_3_desc:0 "Now that we have acquired experience in the use of our Enforcers, we can begin developping a uniform, specialized operational doctrine which would vastly increase their effectiveness in close-quarter combat. Better hand-to-hand training alongside squad suppression techniques go a long way in making them more effective on the field."
+  heavy_infantry_tech_4:0 "Riot Control Gear"
+  heavy_infantry_tech_4_desc:0 "While not nearly as sophisticated as special forces equipment, or as advanced as power armour, these pieces of metal pre-war riot equipment allow our troops to effectively deal with hostile insurgencies."
+  heavy_infantry_tech_5:0 "Smoke Grenades"
+  heavy_infantry_tech_5_desc:0 "With our Enforcers now seasoned in both civilian and military duties, it is clear that a robust equipment offering ought to follow. The addition of carefully designed pairs of smoke canisters, one tailored to crowd control and the other to acting as a screening device, would do wonders for their capacity to handle insurrectionists and ranged opponents alike."
+
+ #----------------------------
+ # Ranged Weaponry
+ #----------------------------
+  standard_weaponry_tech:0 "Standard Weaponry"
+  standard_weaponry_tech_desc:0 "Pipe pistols are easy to manufacture, easy to maintain due to their simplicity, require no blueprint, no specialised materials and no special machining due to being smoothbore. All of these factors also render them objectively the least effective ballistic weapons in the wasteland. A choice must be made between specialising in ballistics or doing so in melee weapons."
+  melee_weaponry_tech_1:0 "Basic Melee Weaponry"
+  melee_weaponry_tech_2:0 "Slashing Melee Weaponry"
+  melee_weaponry_tech_3:0 "Heavy Melee Weaponry"
+  melee_weaponry_tech_4:0 "Powered Melee Weaponry"
+  energy_weaponry_tech_1:0 "Basic Energy Weaponry"
+  energy_weaponry_tech_2:0 "Common Energy Weaponry"
+  energy_weaponry_tech_3:0 "Advanced Energy Weaponry"
+  energy_weaponry_tech_4:0 "Elite Energy Weaponry"
+  ballistic_weaponry_tech_1:0 "Basic Ballistic Weaponry"
+  ballistic_weaponry_tech_2:0 "Common Ballistic Weaponry"
+  ballistic_weaponry_tech_3:0 "Advanced Ballistic Weaponry"
+  ballistic_weaponry_tech_4:0 "Elite Ballistic Weaponry"
+  energy_weapon_emitter_tech:0 "Focusing Arrays"
+  energy_weapon_emitter_tech_desc:0 "The Focus Optics attached on many of our new Energy Weapons mean that they will not only be more precise but they will also penetrate and deal more damage to hard targets."
+  warrior_equipment:0 "Warrior Equipment"
+  warrior_equipment_desc:0 "Providing things such as bags, bedrolls, mess kits, and maintenance tools improves morale and combat effectiveness."
+  warrior_melee_tech:0 "Simplified Designs"
+  warrior_melee_tech_desc:0 "The simplified designs of many melee weapons means that many of our soldiers will have an easier time operating without a direct supply line as their gear is light and they don't require as much ammunition and equipment as the average soldier would."
+  overcharged_ammunition:0 "Overcharged Ammunition"
+  overcharged_ammunition_desc:0 "By having our manufacturers supercharge our MFCs, ECPs and ECs before shipping them our to our troops we can ensure that our energy weapons pack a greater punch without needing to directly modify the weapon at all."
+  custom_built_capacitors:0 "Custom Built Capacitors"
+  custom_built_capacitors_desc:0 "By custom building our capacitors we can regulate the energy throughput of our weapons and ensure that the blasts are as powerful as we desire, undaunted by the factory limitations of the original manufacturer's blueprints. "
+  basic_infantry_equipment:0 "Basic Infantry Equipment"
+  basic_infantry_equipment_desc:0 "By giving each infantryman a standardised set of equipment we can improve individual unit effectiveness across all fronts and give our soldiers a sense of uniformity and unity."
+  prewar_infantry_kit:0 "Prewar Infantry Kit"
+  prewar_infantry_kit_desc:0 "By reinstating the infantry kit provided by the US military before the war we can achieve an army that rivals those of pre-war superpowers; truly an awe-inspiring thought."
+
+ #----------------------------
+ # Power Armour
+ #----------------------------
+  stripped_pa_tech:0 "Stripped Power Armor"
+  stripped_pa_tech_desc:0 ""
+
+  weight_support_frame_pa_tech_1:0 "Power Armour Support Frame"
+  weight_support_frame_pa_tech_1_desc:0 "Many jury-rigged enhancements to the electronics of the suit provide a slight edge in combat. Included is a helmet that shows some professional craftmanship in its attachments - such as what appears to be a transceiver on the back - alongside reinforcement on the face plate protecting the wearer's eyes, a respirator on the front of the helmet and a security flashlight on the side of the helmet."
+
+  weight_support_frame_pa_tech_2:0 "Power Armour Frame Hardening"
+  weight_support_frame_pa_tech_2_desc:0 "Various scrap has been repurposed to serve as makeshift armor plating for the suit. While it may not stop everything, it will lighten the blow to the wearer."
+
+  wasteland_pa_tech:0 "Scavenged Power Armor"
+  wasteland_pa_tech_desc:0 ""
+
+  scav_pa_tech:0 "Wasteland Power Armor"
+  scav_pa_tech_desc:0 "" #This doesn't actually show up because Equipment techs use the tech's description.
+
+  t45d_pa_tech:0 "T-45d Power Armour"
+  t45d_pa_tech_desc:0 "T-45d was initially deployed in 2067, being used to great effect in Alaska during the Anchorage Reclamation, but over the course of the operation it began to show its flaws. While not perfect, the T-45d has its place as a relatively cheap and effective heavy weapons platform."
+
+  c_t45d_pa_tech:0 "T-45d Composite"
+  c_t45d_pa_tech_desc:0 "An experimental design that trades armour and overall quality in return for lightweight construction and faster production. Although not as reliable as regular T-45d in the field, the composite construction makes it much faster and easier to move in."
+
+  t60_pa_tech:0 "T-51b Power Armour"
+  t51b_pa_tech_desc:0 "The king of pre-war  . Improvements in its design and materiels meant that, in 2076 when the armour was first deployed in battle, it served admirably in the fight against Chinese aggression. Even after the war, suits of T-51b armour continue to function brilliantly, only outclassed by postwar designs."
+
+  #c_t51b_pa_tech:0 "Mobile T-51C Composite Power Armour" #This tech was removed
+  #c_t51b_pa_tech_desc:0 ""
+
+  jetpacks_pa_tech:0 "Jetpacks"
+  jetpacks_pa_tech_desc:0 "Recent advancements in the field of Power Armour modification have made it possible for our Power Armoured forces to use Jetpacks mounted to the back of their suits. This greatly increases their offensive capabilities."
+
+  t51b_pa_tech:0 "T-51b Hardened Power Armour"
+  t51b_pa_tech_desc:0 "The king of pre-war  . Improvements in its design and materiels meant that, in 2076 when the armour was first deployed in battle, it served admirably in the fight against Chinese aggression. Even after the war, suits of T-51b armour continue to function brilliantly, only outclassed by postwar designs."
+
+  midwest_pa_tech:0 "Advanced Technical Armour"
+  midwest_pa_tech_desc:0 "A self-contained suit of Advanced Technical Armor. Powered by a micro-fusion reactor with enough fuel to last a hundred years, the Midwestern Brotherhood modifies and maintains this armor using technology local to their region."
+
+  power_armour_enclave_1:0 "Advanced Power Armour"
+  power_armour_enclave_1_desc:0 "Designed after the bombs fell by the survivors of the American Government—the Enclave—it entered service in 2220 and proved itself to be vastly superiour to any previously developed  ."
+
+  power_armour_enclave_2:0 "Advanced Power Armour MKII"
+  power_armour_enclave_2_desc:0 "Developed decades after its predecessor, Advanced Power Armour MKII improves on the daunting military prowess of the armour before it. Numerous minor improvements, along with stronger ceramics and a complete composite build, allowed this design to achieve better results despite its lighter build."
+
+  power_armour_bos:0 "Washington Advanced Armor"
+  power_armour_bos_desc:0 ""
+
+  power_armour_legion:0 "Segmentata"
+  power_armour_legion_desc:0 ""
+
+  power_armour_raider:0 "Raider Power Armour"
+  power_armour_raider_desc:0 ""
+
+  texas_brotherhood_pa_tech:0 "Vault-Tec Power Armour"
+  texas_brotherhood_pa_tech_desc:0 "A vault-tec attempt at creating functional power armour."
+  BAG_texas_brotherhood_pa_tech:0 "Boulder Power-Armour Prototype"
+  BAG_texas_brotherhood_pa_tech_desc:0 "Boulder Dome's attempt at creating a functional power-armour."
+
+  spec_ops_equipment_tech_1:0 "Special Forces Gear Tier 1"
+  spec_ops_equipment_tech_1_desc:0 ""
+  spec_ops_equipment_tech_2:0 "Special Forces Gear Tier 2"
+  spec_ops_equipment_tech_2_desc:0 ""
+  spec_ops_equipment_tech_3:0 "Special Forces Gear Tier 3"
+  spec_ops_equipment_tech_3_desc:0 ""
+  spec_ops_equipment_tech_4:0 "Special Forces Gear Tier 4"
+  spec_ops_equipment_tech_4_desc:0 ""
+  spec_ops_equipment_tech_5:0 "Special Forces Gear Tier 5"
+  spec_ops_equipment_tech_5_desc:0 ""
+  spec_ops_enclave_1:0 "Special Forces HERMES Armour"
+  spec_ops_enclave_1_desc:0 "Developed by a division of Poseidon Energy working with with the Defense Department, HERMES was intended to be a bridge between Power Armor and Combat Armor, offering Special Operations squads an advanced suit with far greater flexibility (and cost efficiency). The Enclave labored to keep their prewar plans a secret, but despite their best efforts threads remained available on PoseidonNet...."
+  hardening_armour_tech:0 "Armour Hardening"
+  hardening_armour_tech_desc:0 "Special spray coating, advanced metallurgy, or intuitive design and construction. No matter the implementation, sturdier armour makes for hardier soldiers."
+  simple_servo_tech:0 "Simple Servos"
+  simple_servo_tech_desc:0 "Basic hydraulic servos with supplementary motors help augment our troopers in stripped armour to be a little more dexterous, and opens up the possibility for restoration of damaged pre-war equipment."
+  advanced_servo_tech:0 "Advanced Servos"
+  advanced_servo_tech_desc:0 "Internal mechanisms with near parity to pre-war designs will not only improve the mobility of our troops in the field, but they will also open the door to a new world of Power Armour development. With this, our understanding of pre-war technology inches ever closer to the dawn of the Great War."
+  high_pressure_hydraulics_tech:0 "High Pressure Hydraulics"
+  high_pressure_hydraulics_tech_desc:0 "The development of further augmented hydraulic systems results in the ability to not only increase the speed of our Power Armoured forces, but also the possibility of mounting heavier armour plating to our frames."
+  ballistic_fibre_tech:0 "Ballistic Fibres"
+  ballistic_fibre_tech_desc:0 "The development of ballistically resistant materials such as kevlar or teflon, and their use in load bearing equipment and armour variants, mean increased survivability for our special forces."
+  stealth_boy_tech:0 "Stealth Boys"
+  stealth_boy_tech_desc:0 "Personal modulated refraction technology, called by their pre-war name Stealth Boys, can be implemented to great affect in surprise ambushes, information gathering, and other clandestine missions."
+  night_vision_tech:0 "Night Vision Devices"
+  night_vision_tech_desc:0 "Infrared based imaging technology, when implemented into spotter's scopes and specialized combat goggles, dramatically increases night time effectiveness."
+  thermal_vision_tech:0 "Thermal Vision Devices"
+  thermal_vision_tech_desc:0 "Thermally based imaging technology works without an infrared transmitter or ambient light, further increasing the nighttime effectiveness of our forces."
+
+ #----------------------------
+ # Special
+ #----------------------------
+  military_heritage_tech_1:0 "Past Victories"
+  military_heritage_tech_1_desc:0 "Our soldiers march into battle with high expectations, they have a past to live up to. The grounds we fight on are coloured with victories and losses through the years that motivate our troops and serve as a reminder to our heritage."
+  military_heritage_tech_2:0 "The Long March"
+  military_heritage_tech_2_desc:0 "The path to war is a long and arduous one, but we can always prepare. If we keep our military drills constant and our traditions tried and true then our warriors will be prepared to face the horrors of war. The enemy will never expect divisions filled with wrathful soldiers."
+  military_heritage_tech_3:0 "Historical Firearms"
+  military_heritage_tech_3_desc:0 "The weapons our soldiers wield aren’t just run of the mill shotguns and rifles, they have a storied past. Every man and woman carries a piece of their past, whether it be an engraved cowboy repeater or a manky old heirloom in the form of a single shotgun."
+
+  gauss_weaponry_1:0 "Gauss Weaponry"
+  gauss_weaponry_2:0 "Gauss Weaponry 2"
+  plasma_weaponry_1:0 "Plasma Weaponry"
+  plasma_weaponry_2:0 "Plasma Weaponry 2"
+
+	#--------
+	# Skates
+	#--------
+	skate_infantry:0 "Skate Infantry"
+	skater_tech:0 "Roller Skates"
+	rocket_skater_tech:0 "Rocket Skates"
+	skate_equipment:0 "Skate Equipment"
+	skate_equipment_desc:0 "While not considered a traditional means of moving troops around the battlefield, it's difficult to argue with the sheer terror caused by nimble troopers plowing into enemy lines at high speed. Reduced precision and accuracy is an unfortunate downside, however."
+	skate_equipment_1:0 "Roller Skates"
+	skate_equipment_1_desc:0 "While not considered a traditional means of moving troops around the battlefield, it's difficult to argue with the sheer terror caused by nimble troopers plowing into enemy lines at high speed. Reduced precision and accuracy is an unfortunate downside, however."
+	skate_equipment_2:0 "Rocket Skates"
+	skate_equipment_2_desc:0 "While conventional skates can significantly improve the speed of a typical soldier, rocket skates allow them to translate even more momentum directly into brutal frontal charges. Unsurprisingly, however, they are significantly more difficult to manufacture and maintain - and make tasks requiring precision aim or stationary defense much harder."
+
+ #----------------------------
+ # Nation Specific Localisation
+ #----------------------------
+
+ # RDS (Baron's Republic)
+  RDS_warrior_equipment:0 "Weapon Modifications"
+  RDS_warrior_equipment_desc:0 "By allowing for soldiers to customize their issued weaponry to their liking, the strengths and weaknesses of the individual soldier can be used to the advantage."
+
+ # BJS (Baja State)
+  BJS_warrior_equipment:0 "Weapon Modifications"
+  BJS_warrior_equipment_desc:0 "By allowing for soldiers to customize their issued weaponry to their liking, the strengths and weaknesses of the individual soldier can be used to the advantage."
+
+ # BON (Boneyard State)
+  BON_warrior_equipment:0 "Weapon Modifications"
+  BON_warrior_equipment_desc:0 "By allowing for soldiers to customize their issued weaponry to their liking, the strengths and weaknesses of the individual soldier can be used to the advantage."
+
+ # DAY (Dayglow)
+  DAY_warrior_equipment:0 "Weapon Modifications"
+  DAY_warrior_equipment_desc:0 "By allowing for soldiers to customize their issued weaponry to their liking, the strengths and weaknesses of the individual soldier can be used to the advantage."
+
+ #----------------------------
+ # NCR
+ #----------------------------
+  NCR_warrior_equipment:0 "Weapon Modifications"
+  NCR_warrior_equipment_desc:0 "By allowing for soldiers to customize their issued weaponry to their liking, the strengths and weaknesses of the individual soldier can be used to the advantage."
+  NCR_basic_infantry_equipment:0 "12.7mm Conversion Kits"
+  NCR_basic_infantry_equipment_desc:0 "Based on pre-war modifications done by soldiers to privately owned rifles, barrel and action conversion kits improve the range and firepower of the standard Service Rifle."
+  NCR_prewar_infantry_kit:0 "Repaired Sensor Suites"
+  NCR_prewar_infantry_kit_desc:0 "Through reverse engineering of working examples, NCRA technicians have managed to somewhat replicate the electrical systems for the infrared and night vision systems of the Riot Suppression Armour."

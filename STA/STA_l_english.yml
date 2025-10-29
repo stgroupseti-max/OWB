@@ -1,0 +1,531 @@
+﻿l_english:
+
+  #stampede opinion modifiers
+  sta_friends_of_manitoba:0 "Friends of Manitoba"
+  sta_friends_of_yorkton:0 "Friends of Yorkton"
+  sta_positive_relations:0 "Positive Relations"
+  sta_enemies_of_the_cpf:0 "Commie Bastards"
+  sta_enemies_of_the_com:0 "American Bastards"
+  sta_insulted:0 "Insulted Honor"
+  sta_child_kidnapped:0 "Kidnapped Our Child!"
+
+  ##tooltips//flags
+  sta_pierres_last_gambit:0 "Pierre's last gambit has been made."
+  sta_baby_stolen_by_bandits:0 "§RThe people of Safehaven have struck at us.§!"
+  sta_building_project_tt:0 "We will spend an §Yindeterminate amount of time§! on §Grestoring several wind turbines.§! With any luck, this'll go well...\n\nUnlocks §GOld Zed§! as an §YEconomic Advisor§!."
+  sta_freedom_tt_1:0 "§GGeneral Freedom, thanks to the Great Stampede's aides, will be able to depose Pierre Solomon and ascend to power in Stoon.§!"
+  sta_freedom_tt_2:0 "§RGeneral Freedom will continue striving to make a difference in the lives of mutants and men alike to no avail...§!"
+  sta_freedom_tt_3:0 "We will send a party out to meet and speak with General Freedom. Though they may §Ytake time to find him§!, no doubt they'll succeed... §GWith any luck, he'll be a useful asset.§!"
+  sta_bat_compliance_bonus_tt:0 "We will gain a §Gbonus to compliance§! on all of §Y[BAT.GetNameWithFlag]§!'s states!"
+  sta_death_to_stoon_flag:0 "§RThe warning to Stoon was issued. The time has come.§!"
+  stn_freedom_on_board_flag:0 "§GGeneral Freedom is on board with our plan!§!"
+  sta_nordikon_claims_tt:0 "We will gain claims on §R[MDM.GetNameWithFlag]§!'s territory."
+  sta_baby_is_born_flag:0 "§GJoy§! has come to §YAlberta§!!"
+  sta_mary_mulligan_prisoner_flag:0 "Mary Mulligan is in our custody."
+  sta_play_as_stampede_tt:0 "§RContinue playing as [STA.GetNameWithFlag] and put a final nail in the Cab Vulture's coffin once and for all!§!\n\nThe Cab Vultures will attack us in 3 weeks!"
+  sta_play_as_vultures_tt:0 "§PSwitch to the [BAD.GetNameWithFlag], and aid Madvillain in his quest to destroy everything The Couple has built.§!\n\nWe'll attack the Stampede after our third focus."
+  sta_peace_with_electorate_tt:0 "We'll send a letter to our friend in the Electorate, offering them the choice of a §YNon-Aggression Pact§!, a §GMutual Guarantee§!, or §RRejecting§! our offer entirely."
+  sta_joy_returned_flag:0 "Joy was safely returned to the Couple."
+
+  ### Characters
+  STA_DUALITY_NAME: "The Couple"
+  STA_DUALITY_DESC: "The Stampede is led by their two great families, Lockhearts and the Sundells. \n\nJohn Lockheart was a frontiersman, an unruly citizen of the Canadian People's Front who turned freedom fighter and now figurehead. He and the rest of the Lockhearts rule with doctrines of 'older law,' and frontier justice. \n\nAmy-Lee Sundell was of the tribes near Stoon, pushed out by the growing influence of the Dandelion party and disease. Thusly, it was she who led her tribesfolk into Alberta, where they aided the Lockhearts in vanquishing bandits and fake republics. \n\nNow, both lead the Great Stampede together-- as husband and wife."
+
+  STA_sundell_name:0 "Amy-Lee Sundell"
+  STA_army_sundell_chief_desc:0 "The Sundells have never been ones to give up easily, though they have endured long hardship across the years. Their roads led out of Stoon, through shadowed and dark woods and even darker deeds that left them red of hand and tooth. Now however things are much brighter, as they stand hand in hand with the Lockheart family.\n\nAmy has done what she must to bring her tribe to these lands and better times, having used her wits, charm and strength alike to see them through trouble and keep them fed. She hopes that never more will she have to resort to the flesh of thinking men to survive however, and that together the Sundells and Lockhearts will build a lasting future. If nothing else, she finds solace in the love of her husband John."
+  STA_lockheart_name:0 "John Lockheart"
+  STA_army_lockheart_chief_desc:0 "The Lockheart's resounding resilience has always been the trait that the clan has taken the most pride in– their ability to ‘weather the storm’, as they themselves have put it, has allowed them to survive the CPF, eventually taking hold of the steppes and strike out the Cab Vultures, hand in hand with the Sundell tribe.\n\nBut John has learned something special, as his clan clashed against the raider gang, the tribes bolstering them through and through during the war. This resilence stems not from ‘toughness’, ‘grit’, or even prime Lockheart specialty– but their love for one another. Love that he now finds in his wife, Amy."
+
+  STA_mickey_name:0 "Mickey Thompson"
+  STA_mickey_high_command_desc:0 "If many of the Lockharts have a penchant for dueling, few have proven better suited to it than Mickey. Not with a sword, like their Patriarch or his copycats, but with the ancient art of the revolver.\n\nSome claim he was raised with a gun in his hand, practicing his shots on zig-zagging bloatflies since he could walk. Some say he found his calling after stumbling upon a cursed six shooter in an abandoned supermarket while searching for food. Others say he read about dueling cowboys from an old comic book and started challenging the other kids with rubber band guns and never quite grew out of it. Either way, folks travel from around the north to see his trick shooting, or sometimes to foolishly test his skills beneath a high noon."
+  STA_sara_name:0 "Sara"
+  STA_sara_high_command_desc:0 ""
+  STA_liam_name:0 "Liam Gabriel"
+  STA_liam_economic_desc:0 "The children of the Canadian People's Front are brought up on the victories of Communism, past, present, future. When reality doesn't match the stories, well, some don't take it too well.\n\nLiam was once a driver in the CPF's Spear, their armored division. First behind the wheel of a truck, before being given control of the armored bulk of one of their functional Soviet tanks. As the CPF continued to crumble beneath the weight of its flaws, so too did Liam's once unshakable belief in the cause slowly wear away. The great battle against the assembled forces of the Lockharts and Sundells proved to be his final time fighting for the Front. Even if their terrible loss there hadn't proven how weak they had become, his tank was shattered in the fighting and Liam was the only survivor captured from the wreckage.\n\nWhy the Stampede kept him alive, he didn't know, but it was some time before he convinced his captors to give him a chance to prove he would leave his old life behind to join their new society. Now he shares his knowledge of vehicles with the Lockhart craftsmen, raising a new generation of mechanics that can more than match with the skills of the CPF, the Cab Vultures, and any other would be black thumb in Canada."
+  STA_valerie_name:0 "Valerie Omaima"
+  STA_valerie_cultural_desc:0 "Valerie was young when Amy-Lee put an end to the Sundell's consumption of corpses. But not so young as to have avoided the act, nor too young to have savored it. All the years of abstinence while growing into a warrior of the tribe, of putting on a front for their new allies in the Lockharts, hearing all the speeches coming down from their Matriarch, and still the craving never left. \n\nWhile many others have followed their leaders in putting that piece of the past behind them, there are still those who gather in the woods on a dark night and drag out the bodies of the fallen for a midnight sacrament."
+  STA_old_zed_name:0 "Old Zed"
+  STA_old_zed_economic_desc:0 "Some of the Cab Vulture families were more mechanically inclined than others, focusing on creating and repairing the motors and machines than running them. Old Zed, as he’s affectionately known, is the crotchety and pragmatic head of one such family. He and his kin are experts at repurposing old tech and bringing it back to life, thanks to a knack for engineering and modest library of collected old world manuals. Zed doesn’t much care for who’s running Alberta as long as he’s got space to work and roam."
+
+  STA_JASPER_CLARK_NAME: "Jasper Clark"
+
+  ##traits & ideas
+
+  sta_true_love:0 "True Love Knows No Bounds"
+  sta_two_families_alike_in_infamy:0 "Two Families, Alike in Infamy"
+  sta_heart_of_the_stampede:0 "The Founders of the Great Stampede"
+  sta_proud_parents:0 "Proud Parents"
+
+  sta_patriarch_trait:0 "Lockheart Patriarch"
+  sta_matriarch_trait:0 "Sundell Matriarch"
+  sta_sara_trait:0 "Sunny Days Ahead"
+  sta_former_tanker:0 "Former CPF Tanker"
+  sta_reluctant_uncannibal:0 "Longpork Enthusiast"
+  sta_old_power:0 "Old Motor-Family Head"
+
+  sta_industrial_push:0 "The Stampede's Industry"
+  sta_fires_of_alberta:0 "The Fires of Alberta"
+  sta_frontier_justice:0 "Frontier Justice Systems"
+  sta_idea_civilian_powerhouse:0 "No More Great Leap Forwards-- Only Reasonable Leap Forwards!"
+  sta_guns_of_vermilion_idea:0 "The Guns of Vermilion"
+  sta_lockhearts_ingenuity_1:0 "Lockhearts Ingenuity"
+  sta_sundell_resourcefulness_1:0 "Sundells Resourcefulness"
+  sta_outriders_bonus:0 "Outriders"
+  sta_debuff_rebuilding_rebuilding_rebuilding:0 "Rebuilding, Rebuilding, Rebuilding"
+  sta_debuff_rebuilding_rebuilding_rebuilding_desc:0 "For years, the Kingsley Republic and the Cab Vultures held dominion over Alberta. Though their tyranny has ended, the time for rebuilding is still well-on, and so we must look to our own in efforts to clean up the messes they left for us."
+  sta_debuff_recovering_from_kingsley:0 "Recovering from Kingsley"
+  sta_debuff_recovering_from_kingsley_desc:0 "Of all the foes the infant Stampede had faced, it was the men and women of Kingsley who posed the greatest threat. Fools misled by merchants into supporting a supposed 'Three Rivers' form of government, though it was in truth a cloaked aristocracy. Now, though the merchants are gone, peace rules over the frontier once again-- but the ashes of the Republic still linger on the tip of our tongues."
+  sta_lockheart_legacy:0 "Lochart Legacy"
+  sta_sundell_legacy:0 "Sundell Legacy"
+  sta_power_in_the_plains:0 "Power In The Plains"
+  sta_the_ire_of_the_stampede:0 "Ire Of The Stampede"
+  sta_prodigal_daughters_return:0 "Prodigal Daughter's Return"
+
+  ##tooltips//flags
+
+
+  ##traits & ideas
+  sta_debuff_biggar_gang:0 "The Biggar Gang!"
+  sta_debuff_biggar_gang_desc:0 "Bandits around Biggar seem to be poking at our defenses deliberately. Is there foul play, or just mere highwayman nonsense?"
+
+  ##events
+
+  nf_sta.1.t:0 "The Canadian People's Front"
+  nf_sta.1.d:0 "The Canadian People's Front-- a disaster of a state that has long since been fragmenting. Seven years ago, eastern Alberta broke free of its grasp-- and from it spawned several nation-states, all vying for a piece of the puzzle left behind. From them all, however, two did stand at the end, and from two came one: The Great Stampede. A conglomeration of frontiersfolk, tribals, and other individuals who were tired of living under the thumb of their scarlet overlords. People who wanted MORE out of life than just following Crown or Council. To many, they could find easy harborage in either Lockheart of Sundell lifestyles; living off the land in both flavors of rodeo-riding and tribal agriculture. For once, life became simple. For once, life became quiet. For once, life was about your neighbor and not about the world."
+  nf_sta.1.a:0 "People rejoiced, working in tandem to create things."
+  nf_sta.1.b:0 "People wanted to help out however they could."
+  nf_sta.1.c:0 "People shared by choice."
+
+  nf_sta.2.t:0 "In Every Heart a Dream"
+  nf_sta.2.d:0 "In the heart of every man or woman across the Albertan Steppes is a dream. Thrice now has it been shattered: once by the world before by American boots and Canadian failures, twice by the nuclear armageddon and the nuclear fallout that ensued, thrice by the Canadian People's Front which flew too close to the sun one too many times. \n\nIn these hearts, these frontiersmen crave one thing: peace. The Stampede is bold; brave. It is ruled by no singular governing entity but by the love of the people, love derived from John Lockheart and Amy-Lee Sundell. This passion, though guided by it, is not fueled by the hum of cicadas in the dead of night, nor inspired by the beautifully sweet scents on the wind, but by ambition and gumption. Those who left the CPF for the Stampede did so because they believed in both themselves and that there could be something greater than themselves. A shared purpose, a free protector by which all that is evil could be banished."
+  nf_sta.2.a:0 "The Lockhearts were a guiding hand."
+  nf_sta.2.b:0 "Who could forget the legacy of the Sundells?"
+
+  nf_sta.3.t:0 "In Two, There is One"
+  nf_sta.3.d:0 "Through the dreams of the land and its people, the Lockhearts and the Sundells were united. Two wayward families, one from the west, and another from the east, had been united by hands in marriage. A celebration was to be held at the frontier's finest hosting-- Greystables, the scrapper's city, a home for the wayward and lost in the north. Those rejected from the Safehaven yet with a desire to live free. \n\nThe Lockhearts were nobility to those on the frontier. It was their family that once drove the CPF back northwest, and whose results now led to the Iron Lines along our western borders. \n\nThe Sundells were from shadowed woods, and lived a troubled past. Through the frontier they aspired to overcome it, becoming paragons to the unfortunate and downtrodden. \n\nThrough these two families, rural Alberta and Saskatchewan found providence. Through them, they would secure a future."
+  nf_sta.3.a:0 "Beauty on the open field."
+
+  nf_sta.4.t:0 "The Lights Came on In Greystables!"
+  nf_sta.4.d:0 "Today is a historic day for the people of the Albertan Steppes. Today, in the scrap host of Greystables, power ran a full mile through the electrical lines-- all of it provided by the wonderful new wind turbines outside of the city!"
+  nf_sta.4.a:0 "Cooperation brings progression!"
+
+  nf_sta.5.t:0 "Trespassers in Our Borders"
+  nf_sta.5.d:0 "Men and women from the Stampede were found in our borders, though they were unable to be caught. It seems they were dealing with some of the old folks from Vermilion..."
+  nf_sta.5.a:0 "Rebels will continue to plot."
+
+  nf_sta.6.t:0 "To the Men in Stoon, a Duel"
+
+  nf_sta.7.t:0 "Rapid Settlement to the North?"
+  nf_sta.7.d:0 "Movements detected north-- town designation: external slum. No known worldly references point to it. What are they doing? Why are they gathering on my-- our-- borders? This activity feels old but this activity is new. Who are these people? What are they doing? What are they doing? What are they doing?"
+  nf_sta.7.a:0 "STAY AWAY FROM ME!"
+
+  nf_sta.8.t:0 "Attacks in the Northeast!"
+  nf_sta.8.d:0 "Bandits in and around the city of Biggar are attacking frontiersfolk-- but more importantly, where did they all come from? \n\nSome of the locals have already taken to dishing out 'frontier justice,' but we've put a pin it for now. We need them alive. This activity is far too organized to be mere coincidence. No doubt at least one of them will talk..."
+  nf_sta.8.a:0 "May stars have mercy on the one behind this."
+
+  nf_sta.9.t:0 "Revelations"
+  nf_sta.9.d:0 "After days of interrogation, we've found one common thread amongst the raiders harassing travelers in Biggar: men from Stoon with Dandelion pins paid them to do it. Outrage is rapidly growing among Sundells and Lockhearts alike— something must be done!"
+  nf_sta.9.a:0 "John Lockheart shall send the letter."
+  nf_sta.9.b:0 "Amy-Lee Sundell shall send the letter."
+
+  nf_sta.10.t:0 "News from the Stampede!"
+  nf_sta.10.d:0 "TO THE ESTEEMED GENTLEMAN OF THE DANDELION PARTY IN STOON, PIERRE SOLOMON: \n\nIt is with unfortunate tidings that bring my first greetings to you and your fine associates, Mr. Solomon. The unfortunate matters by which my writing refers to of course would be the numerous bandits and highwaymen in and around Biggar which claim to be paid in your coin. \n\nNormally, I like to throw my weight around in more than word, but as I've a wife to keep and a people to leave impressions on, I would like to dignify your sordid actions with the pretense you will more than understand what I mean when I say there will be consequences if this behavior continues. \n\nPlease, take this note with great consideration. If you be an intelligent soul, I expect a letter in return acknowledging my concerns. \n\nWith love, \n\nJohn H. Lockheart"
+  nf_sta.10.a:0 "Haha, wow! What a fucking dickhead. Sure, whatever."
+  nf_sta.10.b:0 "Bite my ass, curly fries."
+
+  nf_sta.11.t:0 "News from the Stampede!"
+  nf_sta.11.d:0 "Mr. Solomon: \n\nWhile I don't imagine you remember me, I have remembered you for a very, very long time. Do you still remember when the moon set over Stoon and the howls of the tribesmen set over the horizon? When men and women with gun and club stormed the streets, letting blood run richly through the drains? \n\nYou took a step too far in sending brigands into our lands. To this, my response is simple: rivers of red are what I offer you. Turn back to your wretched city and forget our people. Utter our name again, invoke our wrath, and you will count yourself lucky if there is even a paste of you left. After all, being a Stooner, you should know that my tribe was taught not to waste a single part. \n\nIf you follow my meaning, send us your left canine so that I may wear it as a trophy, or perhaps a toast, to your failures. If I do not see it soon, then consider us your enemies. You will be dealt exactly what you deserve. \n\nAmy-Lee Sundell"
+  nf_sta.11.a:0 "Cute. Here, I got a canine for you..."
+  nf_sta.11.b:0 "Yawn. Come and take it, or something."
+
+  nf_sta.12.t:0 "Word from Stoon!"
+  nf_sta.12.d:0 "With regards to JOHN LOCKHEART of the THE GREAT STAMPEDE... \n\nI am so sorry about the BANDITS IN BIGGAR. These sorts of issues were promised to be resolved after I took power. It is truly unacceptable that such a thing happened! \n\nI will promise to do better in the future. However, it is only with your support and conviction that I can truly deal with the BANDITS IN BIGGAR. \n\nThank you for writing me. \n\nYours always, \n\nPierre Solomon"
+  nf_sta.12.a:0 "Did he really just create a generic form!?"
+
+  nf_sta.13.t:0 "Word from Stoon!"
+  nf_sta.13.d:0 "With regards to AMELIA SUNDELL of the THE GREAT STAMPEDE... \n\nI am so sorry about the BANDITS IN BIGGAR. These sorts of issues were promised to be resolved after I took power. It is truly unacceptable that such a thing happened! \n\nI will promise to do better in the future. However, it is only with your support and conviction that I can truly deal with the BANDITS IN BIGGAR. \n\nThank you for writing me. \n\nYours always, \n\nPierre Solomon \n\nP.S. I made your tribe into my bitch."
+  nf_sta.13.a:0 "That fake son of a bitch..."
+
+  nf_sta.14.t:0 "The Broadcast..."
+  nf_sta.14.d:0 "Today, whilst out on the frontier, some of the men heard of a signal out near the Electorals. Something about a 'General Freedom...' Provided with the report was a recording of his broadcast. \n\n"--mutants like you and me are being EXPERIMENTED ON by CRAZY DOCTORS who are using DOCTOR TOBOGGAN to turn Nightkin like us into livestock. It's INHUMANE! It's downright UNAMERICAN, Jack-- and I won't stand for it. Pierre, you bastard, your entire operation is gonna go down, one way or another!" \n\nThe convenience of such a character was not lost on The Couple..."
+  nf_sta.14.a:0 "What if we reached out to this 'General Freedom'?"
+
+  nf_sta.15.t:0 "A Meeting at Night"
+  nf_sta.15.d:0 "As Pierre Solomon slept soundly in his high tower, General Freedom's bunker was set upon by men with rodeo get-ups and weary frontier smiles on their faces. They came with an offer he couldn't refuse."
+  nf_sta.15.a:0 "He took it. Pierre had to go down."
+  nf_sta.15.b:0 "Freedom knew he had to stand alone."
+
+  nf_sta.16.t:0 "General Freedom accepts our aid!"
+  nf_sta.16.d:0 "General Freedom has accepted our aid! With luck, Pierre Solomon's reign ends on his command."
+  nf_sta.16.a:0 "Dead men tell no tales."
+
+  nf_sta.17.t:0 "General Freedom denies our aid!"
+  nf_sta.17.d:0 "Unfortunately, General Freedom has decided that his war is one he must fight alone."
+  nf_sta.17.a:0 "Honorable, but disappointing."
+
+  nf_sta.18.t:0 "Silence from Stoon"
+  nf_sta.18.d:0 "A month without word from Stoon. Our couriers assured us that our message was received, and that Pierre gave his own acknowledgments. They aren't the sort to lie, either. \n\nPierre has just made a terrible, terrible enemy..."
+  nf_sta.18.a:0 "So he deserves to suffer."
+
+  nf_sta.19.t:0 "Just yesterday, an explosion rattled across the sky above Kindersley-- slamming down something fierce down on the ground and devastating a Lockheart farm. Then another. Then another... \n\nThey came from across the Saskatchewan... In Safehaven. Someone's not playing nice."
+  nf_sta.19.a:0 "We can take a hint."
+
+  nf_sta.20.t:0 "They Called Him O'Mulligan"
+
+  nf_sta.21.t:0 "The Men From Out West Come Marching Home"
+  nf_sta.21.d:0 "With warm tidings from John Lockheart and Amy-Lee Sundell of the Great Stampede, those men and women who once sailed with the royal navy and defended our great waters from foes abound, once thought lost beyond the Electorate, have finally come marching home with the help of the Stampede's men."
+  nf_sta.21.a:0 "We will send our regards."
+
+  nf_sta.22.t:0 "The Kingsley Republic, and What Remains"
+  nf_sta.22.d:0 "From the ever-glowing ashes of the CPF came the Kingsley Republic, a covenant forged by merchants under a false 'Queen' that spat in the face of the Manitoban hierachy. Still, the merchants retained the true heart of this 'republic,' and while it started with some degree of honesty, so too did it fall into the darkened vices of greed and pride. With the CPF pushed back, they took to centralizing a people who could not be centralized, and so came the Cab Vultures. Truck-obsessed tribal raiders who craved not for order but a toxic sort of freedom, the sort that allowed them to do whatever they wanted whenever. \n\nThrough two families, this all changed. The Lockhearts were to the west and were, in spirit and in name, the heart of the Steppes, and their word was more than enough to challenge the law. From the east, travelers and wayward souls from Stoon, were the Sundells-- tribesfolk that could no longer tolerate the growing presence of the Dandelion Society. \n\nCaught between the Lockhearts, Sundells, and the Cab Vultures, the city of Kingsley could not stand. As it fell, so too did the ashes of its Republic-- and while the Vultures were pushed back north to crumble under their own weight, the families found immediate comfort in one another."
+  nf_sta.22.a:0 "The power of true love could never be understated."
+  nf_sta.22.b:0 "The Cab Vulture motor-shamans left a great amount of chems behind."
+  nf_sta.22.c:0 "The men in Kingsley knew a winning side when they saw it."
+
+  nf_sta.23.t:0 "The Lockhearts"
+  nf_sta.23.d:0 "The Lockhearts have always been a loose collection of nomads and farmers, all united into one greater 'family.' It used to be one of the quickest ways to tell if someone was out to get you or not was to check and see if they responded to the name, and if they did, you became friends in an instant. It was synonymous with ally to those with good intentions, and frontier justice for those without. \n\nJohn Lockheart himself became the figurehead through a series of trials against various foes: The Byemoor Bandits, the Cab Vultures, the Kingsley Republic-- all the same to him, and all fell by his hand equal in fair combat. The art of the duel had been repopularized in the wastes by him, thanks in no short to that sort of romantic rapier-wielding swagger that only a man with the right sort of smirk could carry. In the end, it was this swagger that led him to Amy-Lee Sundell, and it was that same swagger once again that led her to swoon in his arms."
+  nf_sta.23.a:0 "He had a lock on her heart."
+
+  nf_sta.24.t:0 "The Sundells"
+  nf_sta.24.d:0 "The Sundells history began in Saskatoon-- where they once feasted on the flesh of their fellow men. Whilst they had been pushed out into the countryside, Amy-Lee and many of her family members felt that her tribesfolk had lost much in favor of nothing. They ate other humans, and while it was out of sheer necessity, it beleaguered her to no end. For if something could think, if something could talk and be loved, then what good was there to be found in ending its life for food? Though they were few and far between in the wasteland, she always believed in agriculture-- fruits, vegetables, all could be nurtured into food free of pain. Still, her tribe was nothing if not warriors, and when they marched outward into the fall of the Kingsley Republic, they quickly fell into meeting the Lockhearts, and the rest was history. \n\nIn the end, she craved more than the flesh of her fellow man-- she craved their warmth."
+  nf_sta.24.a:0 "Makes you want to eat your heart out..."
+
+  nf_sta.25.t:0 "The Duel"
+  nf_sta.25.d:0 "To the states who hold allegiance to the Electorate: \n\nWe are men and women of wisened tongue, but we hold no words left for you and your kind. To this end, we issue the duel: if you so desire to bring pain, then we shall issue you some greater. You have one month, and then we march upon your den of inequity. Your people would do well to flee, and we will not fight a people unreadied. \n\nMay the best of us win."
+  nf_sta.25.a:0 "The giant turns its face..."
+
+  nf_sta.26.t:0 "War Comes On Swiftly"
+  nf_sta.26.d:0 "The time has come. The Electorate has prepared their defenses. We in turn have prepared our attack. \n\nMay the best men win."
+  nf_sta.26.a:0 "Rumble, rumble, rumble..."
+
+  nf_sta.27.t:0 "A Congratulations to General Freedom"
+  nf_sta.27.d:0 "To the man/mutant known as General Freedom, with special regards from JOHN LOCKHEART AND AMY-LEE Sundell: \n\nIt is good to see our friend in Stoon doing so well for himself! While we cannot say we that share the same philosophies as you, we have nothing but endless respect for you and the neverending quest for freedom. To this end, we would like to offer some of our own manufactories to help secure you and your newly-freed peoples some extra assistance in the midst of this chaos. \n\nIn the meantime, we offer you a simple hearty "thank you" and a salute of the mind. \n\nFare thee well!"
+  nf_sta.27.a:0 "Freedom, Generally!"
+
+  nf_sta.271.t:0 "A Congratulations to Frankie Chase"
+  nf_sta.271.d:0 "To Frankie Chase, with special regards from JOHN LOCKHEART AND AMY-LEE Sundell:\n\nLike your father before you, you are a soul too good for the company you were forced to keep. We have the upmost respect for your successes on the battlefield against both the Dandies and Dundurn. In congratulations of your efforts in throwing down the cannibals and tyrants of the old Electorate, we would like to offer some of our own manufactories to help secure you and your newly-freed peoples some extra assistance in the midst of this chaos. \n\nIn the meantime, we offer you a simple hearty "thank you" and a salute of the mind. \n\nFare thee well!"
+  nf_sta.271.a:0 "Kind Pleasantries"
+
+  nf_sta.272.t:0 "An Offer Of Peace"
+  nf_sta.272.d:0 "To our Friend in the Electorate, with special regards from JOHN LOCKHEART AND AMY-LEE Sundell:\n\nThough both our fortunes grow, the wasteland remains a hostile place. There are many who would seek to take from us both our hard earned prosperity. With this being the case, we would like to extend a further hand of friendship.\n\nIf you would but send a letter in return acknowledging our mutual borders in posterity, we can ensure that our two peoples never need face each other in the field of battle. This is no threat; a refusal from you need only mean that you can make no guarantees to the future, for the sake of your people. We sincerely hope, however, that you see the benefit of cooperation in the face of a world plagued with war.\n\nWe await your kind reply!"
+  nf_sta.272.a:0 "We'll swear off aggression"
+  nf_sta.272.b:0 "We'll even watch each other's backs"
+  nf_sta.272.c:0 "We don't need agreements"
+
+  nf_sta.273.t:0 "Savoring Peace"
+  nf_sta.273.d:0 "A return letter has come in this morning, detailing an acceptance of our offer. So long as we both should lead our respective lands, we will not raise up an attack against them, nor them against us. This is, perhaps, the best we could have hoped for given the circumstances."
+  nf_sta.273.a:0 "With Honest Hearts"
+  sta_non_aggression_tt:0 "They have agreed to a shared §YNon-Aggression Pact§!."
+
+  nf_sta.274.t:0 "A Sweet Proposal"
+  nf_sta.274.d:0 "A return letter has come in this afternoon, detailing a greater acceptance of our offer than we could have hoped for! From here forward we are agreed to defend each other's borders in the case of an assault from another force. Be it machine, mutant or man, we are sworn to this."
+  nf_sta.274.a:0 "So Shall It be"
+  sta_guarantee_tt:0 "They have agreed to a mutual §GGuarantee§!."
+
+  nf_sta.275.t:0 "A Sour Rejection"
+  nf_sta.275.d:0 "A return letter has come in this evening, detailing an rejection of our offer. This is an unfortunate outcome, although perhaps one we should have accepted from the beginning. At the least we don't read any greater ill intent from their response."
+  nf_sta.275.a:0 "Not Peace, But Not War Either"
+
+  nf_sta.28.t:0 "An Offer to Elbo"
+  nf_sta.28.d:0 "TO THE MAN KNOWN AS FATHER SCRAPHEAP: \n\nIt is with great pleasure that we write you today. The Electorate was hardly a union that stood for good or valor, but even in the middle of their madness you still persevered in the search for sanity. To this end, we would like to peacefully invite you into our government-- we will manage your lands, and allow you to practice your philanthropy without issue."
+  nf_sta.28.a:0 "God praise the Stampede!"
+  nf_sta.28.b:0 "We prefer to go it alone."
+
+  nf_sta.29.t:0 "Elbo accepts!"
+  nf_sta.29.d:0 "Elbo has accepted our offer, annexing themselves into our lands! Father Scrapheap gleefully practices and spreads his faith."
+  nf_sta.29.a:0 "God bless Elbo!"
+
+  nf_sta.30.t:0 "Elbo refuses!"
+  nf_sta.30.d:0 "Elbo has refused our offer, preferring to go alone."
+  nf_sta.30.a:0 "We could duel..."
+  nf_sta.30.b:0 "...But, c'est la vie."
+
+  nf_sta.31.t:0 "To Leif Yorkton, With Love"
+  nf_sta.31.d:0 "Leif, \n\nWe are familiar with the tales from out east. Migrants and pilgrims alike have told us a great many tales of your legend and the trials you have faced. Our lives have not been so easy to us, have they? The Wasteland can be such a cruel place. \n\nWhile we place our faith in the Kingdom's peoples to resolve its issues, that does also include your appeal-- and so we have sent you a shipment of infrantry equipment. May your Knights return soon and within strength, friend. \n\nWith love, John Lockheart and Amy-Lee Sundell"
+  nf_sta.31.a:0 "For once, something right."
+
+  nf_sta.32.t:0 "Well-Met by Moonlight"
+  nf_sta.32.d:0 "A doctor came in to visit today. Amy-Lee had suspicions she kept to herself, which left John's heartstrings shaking as it settled over him what was happening. \n\nT'was not long before news hit the public. Celebrations throughout Greystables and out in the countryside rejoiced out of love for the Couple-- squaredances and festivals celebrating the beginning of life. \n\nTo John Lockheart and Amy-Lee, this was just another signature that they were destined for one another. In the end, John couldn't stop smiling, for he was to be a father to a beautiful daughter and he was married to the perfect woman."
+  nf_sta.32.a:0 "The wonders of family are many."
+
+  nf_sta.33.t:0 "A Baby is Born in Greystables!"
+  nf_sta.33.d:0 "At long last, the baby is born in Greystables. After months of talking about a name, the two settled on one, a delightfully cheesy mix between their own two names: Joy. \n\nAnother celebration is held-- a grand feast for Lockheart and Sundell alike. No doubt today would be a day to remember."
+  nf_sta.33.a:0 "Joy wins!"
+
+  nf_sta.34.t:0 "Something Wicked"
+  nf_sta.34.d:0 "One thing both John and Amy never expected after having their child, was how much they'd consider sleep a luxury. Joy demanded more attention than every collective within the Great Stampede combined but the two wouldn’t have it any other way. It was extremely late into the night when Joy had been put to sleep, sleeping peacefully after her meal and a cuddle session with her parents. John and Amy both let out a huge sigh as they entered their bedroom, collapsing on their bed without even removing their clothes. That could come tomorrow, for now, they desired the comfort of each other and their bedding. John slept soundly, snoring softly, one of his hands laying across Amy's stomach protectively. Amy, however, couldn’t sleep a wink. Anxiety gnawed at her stomach and she could not figure out why. Tossing and turning or punching the pillow, try as she might, she could not fall asleep. After two and a half hours of attempts, she rose. A glass of water would fix this perhaps. Creeping out of the bed quietly so as to not wake up her love, she made her way towards the kitchen. Passing Joy’s room, she stopped and stood just outside her door. The room was quiet, almost eerily so. She worried for her child, it was her job as a mother. But this felt different like her gut knew something she didn’t. She slowly opened the door, peeking inside to check on her infant daughter. ‘“Joy” She mumbled. \n\nHer blood went cold. Standing on the windowsill, perched to leap out was a figure covered in all black, softly holding Joy within their arms. They looked towards Amy before quickly leaping out, the darkness covering their escape."
+  nf_sta.34.a:0 "Our baby!"
+
+  nf_sta.35.t:0 "Mulligan's Gambit"
+  nf_sta.35.d:0 "To the bastards up on high-hill: \n\nName's Mulligan. I'm the gal who's got your brat, and I represent some of the, let's say, unkindly sorts in Safehaven. Want her back? Let's talk land, and set some new boundaries. I'm thinking we can afford to shake you up a little... Unless you aren't feelin' up to it?"
+  nf_sta.35.a:0 "The fragility of life..."
+  nf_sta.35.b:0 "...The ego of a moron."
+
+  nf_sta.36.t:0 "Joy Returns to Greystables"
+  nf_sta.36.d:0 "At long last, Joy has been returned safe and sound to her family in Greystables. Though the odds in the wasteland never so often go in ones favor, everyone was thankful to hear the good news. With people throwing themselves forward to offer protection, John Lockheart and Amy-Lee Sundell could at last rest easy knowing that no one could ever hurt Joy ever again."
+  nf_sta.36.a:0 "There is kinship in hardship."
+
+  nf_sta.37.t:0 "You'll Wish It Came Easy"
+  nf_sta.37.d:0 "When Mary Mulligan was surrendered to the Stampede, the choice of her fate was given to Amy-Lee Sundell-- but she refused. She would not punish a woman, no matter how evil, without the judgment of her spouse reinforcing her. Thus the two came to a conclusion: Mary Mulligan would be sealed away, her casket placed into the Saskatchewan, and left to sink to the bottom. Brutal a fate as it may be, the Couple found themselves still hoping her air was sweet in those final moments. To wish suffering onto someone never came so simply, even in the wastes."
+  nf_sta.37.a:0 "May she rest in pieces."
+
+  nf_sta.38.t:0 "Old Foes, New Once Again"
+  nf_sta.38.d:0 "As our frontiersmen began the reconstruction near Battleford, we opened garages to find something truly frightening-- Cab Vulture workshops, new and improved. Like the cowards they are, they fled shortly after-- the insignia of the Greyhounds burning bright on their cabins."
+  nf_sta.38.a:0 "Could Madvillain be alive?"
+
+  nf_sta.39.t:0 "Whispers from the Frontier"
+  nf_sta.39.d:0 "They say the sounds of truck horns blared along the northern countryside like thunder-- large rigs not seen in almost a decade tearing through the reconstruction efforts and killing dozens of our own. On their sides, they were adorned with the symbology of a Greyhound.\n\nMadvillain lives. And he was ready for a second shot."
+  nf_sta.39.a:0 "The Stampede will never relent!"
+  nf_sta.39.b:0 "Madvillain's crusade would succeed!"
+
+  nf_sta.40.t:0 "Grievances"
+  nf_sta.40.d:0 "Amy never knew a human could physically cry as much as she had lately. Everywhere she went, everything she did, and everyone she saw, she cried. It was her prime emotion and when she tired of crying, she opted to get mad instead. Anger and sadness were all she knew. Sadness for her child, and anger towards the sick person who took them away. John cried too, though he kept it secret, Only crying when the two of them were alone and could take comfort in each other's arms. They kept each other strong, their love being the only thing that kept them going, giving them hope that one day they would see their baby again. Another sleepless night had occurred, with Amy getting up at the crack of dawn. She looked at herself in the mirror, dark bags underneath her eyes. Her expression was dark, she couldn't remember the last time she had smiled. She looked down at the sink and began to splash some water onto her face. When she looked back up, a large figure stood before her. So numb from depression, she didn't even do anything for the first second, simply staring at the figure in the mirror until her self-preservation kicked in and she moved to scream. Before any sound could escape her mouth, the figure grabbed her head, their gloved hand covering her mouth. Amy reacted quickly, kicking their knee, causing them to release their grip on Amy. She then rushed towards the person, ready to tackle them to the ground. The sight of their gun brought Amy to a standstill, freezing up. \n\n”You wanna see your kid? Stop squirming around” They said quietly. Amy froze, her eyes widening in shock. “Good. Listen here. If you want to see your kid, you come to this area marked on this letter. You get here at 22:00 and bring nobody but you and your husband. I’ll bring the kid. If not, you’re never seeing them again. I’m going to leave now, if you scream I'll kill you, your husband, and your kid. Got that?” They said. Amy nodded, tears streaming out of her face. \n\n”Good. See you then Miss Sundell”."
+  nf_sta.40.a:0 "Our baby..."
+
+  nf_sta.41.t:0 "Following The Kidnappers"
+  nf_sta.41.d:0 "It had been extremely difficult convincing their guards to let Amy and John go out to the letter's location, with the guards nearly begging to come along, but eventually, Amy and John convinced them, assuring them that they could handle anything they came across. The two of them were extremely nervous, caught between the desperation of wanting to see their child again and the expectations of a trap, it had been exhausting debating whether the two should go along with the Warden’s game. The night before, the two of them had not slept a wink. Their anxiety ate into them until the sun began to softly rise. They embraced each other once before setting out, praying that they may see their baby girl. \n\nAmy and John slowly trekked through the wasteland early in the morning. They both carried weapons and had ditched their royal clothing for light leather armor. They were both on edge, constantly surveying the area for any clues that would display a trap being set for them. That was until they heard the distant cries of a baby. As if a switch was flipped for both of them, caution went out the window as they both charged forward as fast as they could towards the source of the cries. The cries were originating from a small baby pram that lay still within the rocky canyon they moved through. Nothing surrounded it, no notes or signs. \n\nElation surged within the two as they reached the pram, tucked neatly and comfortably was Joy, crying loudly. Amy and John soon followed, tears streaming down their faces as they picked up their child and embraced them. What struck them both as odd, was the fact that Joy was well-groomed. Her face had been washed, and the sheets she was kept in were quite well-kept. Had the Safehaven crooks taken good care of Joy? It didn’t matter to them, they had her back and they would never be taken apart again."
+  nf_sta.41.a:0 "Our Sweet Joy!"
+
+  nf_sta.42.t:0 "A Celebration?"
+  nf_sta.42.d:0 "The couple in charge of the Stampede have announced the birth of their child, and the nation has been celebrating. Their parties can be heard across the prairies, and their citizens joyfully give the news to anyone passing through, that Joy, daughter of John of the Lockheart Clan and Amy-Lee of the Sundell Clan has come into the world, and most importantly, the most loving family of all-- The Stampede!"
+  nf_sta.42.a:0 "Congrats..."
+
+  nf_sta.43.t:0 "Stampede's Joy: Stolen!"
+  nf_sta.43.d:0 "Today our citizens have informed us of the couple of the Stampede's baby, Joy, having been stolen, much to their despair. The clans of Stampede are now in mourning, searching for the culprits. Rumors of a blue glowing visor being seen have led many to point fingers at Safehaven's Wardens..."
+  nf_sta.43.a:0 "A shame..."
+
+  nf_sta.44.t:0 "A Horse With No Name"
+  nf_sta.44.d:0 "Can a nation be built solely upon the love of two people? Ask an average wastelander and they’d say no. Ask Amy and John and they’d show you proof that it can. Together, the two of them had ushered in a true golden era of peace and prosperity for the people of their nation—hand in hand, heart, and heart. The Lockhearts and Sundell’s support them no matter the situation. Love had won out over the evils of the wasteland. United until the very end."
+  nf_sta.44.a:0 "Time to settle down..."
+
+  ######
+  ### focus
+  ######
+
+  sta_the_cpf_fell:0 "No More Fronts"
+  sta_the_cpf_fell_desc:0 "The Canadian People's Front stretched far west and far east. Look how far they've fallen."
+
+  sta_families_and_tribes:0 "Families and Tribes"
+  sta_families_and_tribes_desc:0 "On the frontier, on these Steppes, there has never been a government worth any of their supposed merit. It's always been people that made it special."
+
+  sta_the_couple:0 "The Couple"
+  sta_the_couple_desc:0 "Lockhearts and Sundells, bound together in holy matrimony..."
+
+  ######
+  ### focus - left
+  ######
+
+  sta_the_albertan_steppe:0 "The Albertan Steppe"
+  sta_the_albertan_steppe_desc:0 "Wide open fields that stretch as far as the eye can see. Home, safe and sound."
+
+  sta_on_horses_back:0 "On Horse's Back"
+  sta_on_horses_back_desc:0 "The horse has been friend to man for centuries. Even now, our four legged companions assist us in moving supplies across the Albertan Steppe."
+
+  sta_trading_with_neighbors:0 "Trading with Neighbors"
+  sta_trading_with_neighbors_desc:0 "Just because we are mighty does not mean we cannot respect the trade of our neighbors. If the key to a better world is commerce, then so be it."
+
+  sta_tension_on_the_six_fronts:0 "Tension on the Northern Border"
+  sta_tension_on_the_six_fronts_desc:0 "The remnants of the CPF are plenty, and while we look with steady fear to the northwest, we mustn't waver. Many of the old Loidminster machines still clutter up the plains. Let's scrap them and put them to use."
+
+  sta_push_for_innovators:0 "Push for Innovators"
+  sta_push_for_innovators_desc:0 "To encourage someone to do well is the most important thing one can do. If our people believe they can do anything, then they will set out with intentions to do so."
+
+  sta_the_power_of_wind:0 "The Power of Wind"
+  sta_the_power_of_wind_desc:0 "Power does not come easy in the wasteland, but some of our brightest have come to us with intentions to build their own wind turbines! Let's start clearing out space for them."
+
+  sta_i_crave_a_man_with_power:0 "I Crave A Man With Power"
+  sta_i_crave_a_man_with_power_desc:0 "With the space cleared from before, we are able to begin construction on the wind turbines. One of the old Cab Vultures motor-family heads, Zed, has offered to help get them set up for us-- so long as we provide him with a workshop."
+
+  sta_and_the_world_saw_lights:0 "And The World Saw Lights"
+  sta_and_the_world_saw_lights_desc:0 "Power arrives in Greystables! Light courses through our house and hearthly home like water in a riverbed. This also extends to the outlying farms, letting them support new equipment as well as improving their standards of living."
+
+  sta_munitions_from_vermilion:0 "Munitions from Vermillion"
+  sta_munitions_from_vermilion_desc:0 "Of all of those in CPF territory, the town of Vermillion has been the most open to our envoys. We've even managed to work out a trade deal for some arms, all right under the noses of Loid and Redmond!"
+
+  sta_lines_of_our_own:0 "Lines of Our Own"
+  sta_lines_of_our_own_desc:0 "Without the spine of the CPF to stand on, we're going to need our own factories to supply ourselves."
+
+  sta_the_fineries_of_civilized_industry:0 "The Fineries of Civilized Industry"
+  sta_the_fineries_of_civilized_industry_desc:0 "With the Fires of Alberta growing, a beautiful warmth builds in all our hearts."
+
+  ######
+  ### focus - middle
+  ######
+
+  sta_they_call_us_great:0 "They Call Us Great"
+  sta_they_call_us_great_desc:0 "They called us a 'Great Stampede' when we stormed Kingsley, and we wear that title even now. We may not be aggressors, but fear is a powerful tool in the right hands."
+
+  sta_they_called_it_kingsley:0 "Kingsley, Now Greystables"
+  sta_they_called_it_kingsley_desc:0 "Kingsley was once the capital of a failed republic, a new 'Three Rivers' that promised the world. In the end, all they gave us was ashes."
+
+  sta_the_upstarts_up_north:0 "The Upstarts Up North"
+  sta_the_upstarts_up_north_desc:0 "The Privateers to the north in Battleford and Prince Albert came from Manitoba, displaced soldiers and Manitobans who now answer to 'Prince Albert' himself. This disrespect towards the Kingdom is an affront to us all."
+
+  sta_no_more_exiles:0 "No More Exiles"
+  sta_no_more_exiles_desc:0 "Plenty of people came here because they sought out new opportunities, or hospice away from Calgary or the People's Front. We welcome them with open arms."
+
+  sta_kingsley_mercantile_flats:0 "Kingsley Mercantile Flats"
+  sta_kingsley_mercantile_flats_desc:0 "The old merchants of Kingsley left many of their assets in their wake. Seizing them properly will allow us to make due with them accordingly."
+
+  sta_batford_and_roll:0 "Battleford & Roll"
+  sta_batford_and_roll_desc:0 "Whilst not all of the people of Battleford are loyal to Prince Albert, some remain as advocates of the Cab Vultures-- and so they plot against us. In the honor of our people, in the honor of the Good Kingdom, we will stomp out these fools!"
+
+  sta_a_false_prince:0 "A False Prince"
+  sta_a_false_prince_desc:0 "Prince Albert is a pretender to a throne he has likely never seen. He and his loyalists will be put to task!"
+
+  sta_ready_for_work:0 "Ready for Work"
+  sta_ready_for_work_desc:0 "Plenty of people on the frontier are ready for work. Let's give them a purpose, should they wish to take it."
+
+  sta_batford_medicines:0 "Vulture Medicines"
+  sta_batford_medicines_desc:0 "The Old Cab Vulture motor-shamans had plenty of old medicinal tactics in their arsenal. Let's take them and figure out what we can."
+
+  sta_promise_batford_relocation:0 "Promise Battleford Relocation"
+  sta_promise_batford_relocation_desc:0 "Many of the men in Battleford wanted to go home but never could. Today, we're changing that."
+
+  sta_no_more_safehavens:0 "No More Safehavens"
+  sta_no_more_safehavens_desc:0 "They have done the unthinkable, and so we must act with full force."
+
+  sta_safehaven_scouring:0 "Scouring Safehaven"
+  sta_safehaven_scouring_desc:0 "We will find her! No matter what we need to do. Mary Mulligan will pay for her insolence."
+  sta_safehaven_scouring_tt:0 "We will scour the city in search of those responsible for the kidnapping of joy."
+
+  sta_vault_security_fit:0 "The Vault Security Fit"
+  sta_vault_security_fit_desc:0 "The Vault Security armor can be replicated with enough discipline. Perhaps we can fit this under our flannels and jeans?"
+
+  sta_vault_generator:0 "The Vault's Generator"
+  sta_vault_generator_desc:0 "The generator in Vault 107 can be repaired to serve the people once again, and perhaps suit our own needs, too."
+
+  sta_vault_production_lines:0 "The Vault Production Lines"
+  sta_vault_production_lines_desc:0 "Vault 107 has plenty of production lines that we can turn back on and use for our own benefit. Let's press some buttons!"
+
+  sta_uranium_city_break_in:0 "The Rad Hazard Round-Up"
+  sta_uranium_city_break_in_desc:0 "The Rad Hazards have always been a nightmare to children all around Alberta and the Katch. With these hazard suits, we may be able to finally put it to rest at long last."
+
+  sta_all_quiet_on_the_homefront:0 "All Quiet on the Homefront"
+  sta_all_quiet_on_the_homefront_desc:0 "A quiet wind blows peacefully across Alberta. A lone ranger stands on a hill, lever-action rifle in hand, himself staring out at the setting sun. The corner of his lip curls into a smile, and he knows that he has reached his peace."
+
+  sta_the_geck:0 "The G.E.C.K."
+  sta_the_geck_desc:0 "Somehow, an unused G.E.C.K. remains in Vault 107. Let's use it for good!"
+
+  sta_prince_albert_dockyards:0 "Redwing Dockyards"
+  sta_prince_albert_dockyards_desc:0 "The old navy dockyards in Battleford remain even now. With some clean-up, we can use them for our benefit."
+
+  sta_learn_from_retirees:0 "Learn From Retirees"
+  sta_learn_from_retirees_desc:0 "Not everyone raised up arms against us in Prince Albert. We can listen to the old seamen and hear their tales of travel and reference them in our own."
+
+  sta_no_more_interruptions:0 "No More Interruptions"
+  sta_no_more_interruptions_desc:0 "The Canadian People's Front has been growing back into the tumor it once was. We must stop it before it's too late!"
+
+  sta_fourth_tech_slot:0 "Mercenary Scientists"
+  sta_fourth_tech_slot_desc:0 "If they were willing to work for the "Prince of Saskatchewan", surely they'll work for us as well."
+
+  sta_battleford_railway:0 "Walking A New Trail North"
+  sta_battleford_railway_desc:0 "While decidedly smaller than Greystable, the old world bones of Battleford still stand strong. The former capital of Prince Albert is an excellent place from which to support links to the northern communities out in the Katch snowfields. Carving a fresh trail through the Albertan dirt will shorten the time it takes to move gunmen and caravans both ways."
+
+  ######
+  ### focus - middle down
+  ######
+
+  sta_bringing_the_hammer_down:0 "Bringing the Hammer Down"
+  sta_bringing_the_hammer_down_desc:0 "No more waiting around. We're making moves to take down the CPF once and for all."
+
+  sta_ending_an_age:0 "Ending an Age"
+  sta_ending_an_age_desc:0 "No more Canadian Fronts. No more Commies. Just people."
+
+  sta_the_guns_of_vermilion:0 "The Guns of Vermilion"
+  sta_the_guns_of_vermilion_desc:0 "Now we can afford to take the munitions stored here for ourselves. May they serve us well."
+
+  sta_no_more_red:0 "No More Red"
+  sta_no_more_red_desc:0 "'Redmond' shall be returned to its true name of Edmonton. Such is the way of conquest."
+
+  sta_claims_on_nordikon:0 "The Terror of Calgary"
+  sta_claims_on_nordikon_desc:0 "What was once a harmless, if odd, building has become a threat to all of Alberta. When the Miscounts moved into the old Middlemark building, the locals should have listened to the warnings from Seattle and crushed them. Now it's fallen to us to do the good deed and put the raiders (and the talking store) down."
+
+  sta_stampedes_future:0 "The Future of the Stampede"
+  sta_stampedes_future_desc:0 "Peace is the noblest virtue anyone can strive for. The battles one must wage to achieve such a thing will shape you in ways you could never imagine-- but you must stand strong, if not for yourself, then for the people."
+
+  ######
+  ### focus - right
+  ######
+
+  sta_the_growing_power:0 "The Growing Power"
+  sta_the_growing_power_desc:0 "Seven years strong, and we grow ever-on."
+
+  sta_lockheart_ingenuity:0 "Lockheart Family Ingenuity"
+  sta_lockheart_ingenuity_desc:0 "The Lockhearts have been famous for their ingenuity for years-- Hell, even old Harris Lockheart himself learned how to shave using just a bolt of twine!"
+
+  sta_clean_up_roads:0 "Cleaning Up Roads"
+  sta_clean_up_roads_desc:0 "Our horses and carriages need cleaned roads to better traverse them. Let's take measures to get rid of the old cars and debris."
+
+  sta_sundell_resourcefulness:0 "Sundell Scavenging Traditions"
+  sta_sundell_resourcefulness_desc:0 "The Sundells had to learn how to make do, especially in the Katch. In the wake of the Dandies rising, they came south in search of new opportunities."
+
+  sta_love_of_the_lockhearts:0 "Love of the Lockhearts"
+  sta_love_of_the_lockhearts_desc:0 "When you needed something done, the Lockhearts were there for you, time after time again. Brotherly love defined the name of the game."
+
+  sta_the_old_stash:0 "The Old Stashes"
+  sta_the_old_stash_desc:0 "Plenty of old dynamite stashes litter Alberta from generations past. Taking them and puting them to use would be a great idea-- you know, with how horrible things can be sometimes."
+
+  sta_amy_lees_charms:0 "Amy-Lee's Charms"
+  sta_amy_lees_charms_desc:0 "Amy-Lee Sundell has always been a charmer. They say her eyes led many a man into places where they should not have gone-- and so they became dinner for her family."
+
+  sta_love_of_the_sundells:0 "Love of the Sundells"
+  sta_love_of_the_sundells_desc:0 "The Sundells may have been cannibals in the past, but they've done everything in their power to move past that unsightly part of their legacy."
+
+  sta_lockhearts_tech:0 "Lockhearts Know-How"
+  sta_lockhearts_tech_desc:0 "If you want it done right, you get a Lockheart to do it."
+
+  sta_lockhearts_bonus:0 "Lockheart Family Brainthink"
+  sta_lockhearts_bonus_desc:0 "The Lockhearts always knew how to get it done."
+
+  sta_cavalry_outriders:0 "Cavalry Outriders"
+  sta_cavalry_outriders_desc:0 "The Cavalry is the most important part of our nation, the sort of men who are available on a minute's notice that are always out and about to help you."
+
+  sta_sundells_bonus:0 "The Sundell Survivalism"
+  sta_sundells_bonus_desc:0 "The Sundells always knew how to survive in the worst of conditions-- suppose eating your fellow men and women might spur one to develop such skills."
+
+  sta_sundells_tech:0 "The Old Ways, the Sundell Way"
+  sta_sundells_tech_desc:0 "The old ways can be celebrated amongst the new, and so Lockheart ways and Sundell ways collide beautifully."
+
+  sta_lockhearts_bonus_2:0 "Lockhearts and Sundells"
+  sta_lockhearts_bonus_2_desc:0 "The Lockhearts fell in with the Sundells, and so a peaceful future came to pass."
+
+  sta_sundells_bonus_2:0 "Sundells and Lockhearts"
+  sta_sundells_bonus_2_desc:0 "The Sundells fell in with the Lockhearts, and so a beautiful future came to pass."
+
+  sta_families_united:0 "Families United"
+  sta_families_united_desc:0 "Two families forever united in holy matrimony."
+
+  ######
+  ### Diplomacy
+  ######
+
+  sta_diplomacy:0 "Frontier to Frontier"
+  sta_diplomacy_desc:0 "Frontier to frontier, we must be willing to work with and deal with our neighbors as necessary."
+
+  sta_stoon_fell_on_deaf_ears:0 "They Dine In Pearly Halls"
+  sta_stoon_fell_on_deaf_ears_desc:0 "Cannibals, transhumanists, and mad scientists. They have offended us greatly and so we issue a duel."
+
+  sta_rumble:0 "Like Dominoes"
+  sta_rumble_desc:0 "No man should worry about being eaten by his fellows. No more monsters shall be allowed."
+
+  sta_congratulate_freedom:0 "Congratulate General Freedom"
+  sta_congratulate_freedom_desc:0 "General Freedom won out! Let us congratulate our friend."
+
+  sta_congratulate_frankie:0 "Send A Letter To Frankie Chase"
+  sta_congratulate_frankie_desc:0 "It's no easy thing to lose a parent while you're still growing up. This Frankie seems like a good kid; maybe they'd be open to some negotiation?"
+
+  sta_electoral_peace:0 "Peace In The Katch"
+  sta_electoral_peace_desc:0 "While we have many unpleasant memories associated with the east, these days the lands of the Electorate have become something properly civil. It'd be to our benefit to offer a more permanent olive branch."
+
+  sta_address_elbo:0 "Addressing Elbo"
+  sta_address_elbo_desc:0 "Elbo is full of good men. Good men that are harmed by being so close to their unruly neighbors."
+
+  sta_execute_mary_mulligan:0 "Executing Mary Mulligan"
+  sta_execute_mary_mulligan_desc:0 "Mary Mulligan is a monster-- a so-called "Warden of the White" who claims to have stood for peace and safety no matter the cost. She dragged us across Alberta in search of our own daughter and so she must be put to the sword."
+
+  sta_yorktons_ascenscion:0 "Yorkton's Ascension"
+  sta_yorktons_ascenscion_desc:0 "God bless Leif Yorkton! He has ascended to the throne, and so we must remind him of our mutual friendship."
+
+  sta_spectral_cabal:0 "The Spectral Cabal"
+  sta_spectral_cabal_desc:0 "The Spectral Cabal is a strange cult originating from the Electorate that has ties to a supposed 'wolf god.' Whether or not that's true is to be uncertain, but the strange healing potency of their pools is not to be balked at. We will welcome them... For now."

@@ -1,0 +1,340 @@
+﻿l_english:
+  # Equipment naming is inherited from the equipment name when displayed in the techtree
+  # For if we actually decide to localise the hidden techs
+  #Headers
+  fallout_focus_tree_folder:0 "Reward Technologies"
+  fallout_focus_tree_folder_desc:0 "Technologies only accessible through focuses and other non-researchable actions."
+
+  HEADER_EQUIPMENT:0 "Equipment"
+  HEADER_TECH_LEVEL:0 "Technology"
+  HEADER_UNIT:0 "Units"
+  HEADER_UNLOCK:0 "Schematics"
+  HEADER_DOCTRINE_TECHS:0 "Doctrines"
+  HEADER_UNLOCK2:0 "Origins"
+  HEADER_BUFFS:0 "Buffs"
+  HEADER_TRIBAL_BUFFS:0 "Tribal Buffs"
+  HEADER_CALI_BUFFS:0 "Californian Buffs"
+  HEADER_ARIZONA_BUFFS:0 "Legion Buffs"
+  HEADER_OREGON_BUFFS:0 "Oregon Buffs"
+  HEADER_TEXAS_BUFFS:0 "Texan Buffs"
+  HEADER_MEXICO_BUFFS:0 "Mexican Buffs"
+  HEADER_OTHER_BUFFS:0 "Miscellaneous Buffs"
+
+  #Unlocks
+  gauss_unlock_tech:0 "Gauss Weaponry Schematics"
+  gauss_unlock_tech_desc:0 "Gauss Weaponry was a pre-war innovation that used magnetic acceleration instead of gunpowder to fire slugs that could pierce even power armor."
+  plasma_unlock_tech:0 "Plasma Weaponry Schematics"
+  plasma_unlock_tech_desc:0 "Plasma was the cutting edge of pre-war energy weapon development, based on mysterious technology of unclear origins."
+  enclave_pa_unlock_tech:0 "Advanced Power Armour Schematics"
+  enclave_pa_unlock_tech_desc:0 "Advanced Power Armour was originally developed on the Enclave oil rig as an evolution of the pre-war X-01 prototypes."
+  midwest_pa_unlock_tech:0 "Advanced Technical Armour Schematics"
+  midwest_pa_unlock_tech_desc:0 "Advanced Technical Armour was developed by the Midwestern Brotherhood using technology local to their region."
+  high_fighter_unlock_tech:0 "Xian Schematics"
+  high_fighter_unlock_tech_desc:0 "The Xian-85 fighter was an advanced Chinese fighter jet superior to even the most advanced American fighters, used in the final hours of the Great War."
+  vertibird_unlock_tech:0 "Vertibird Schematics"
+  vertibird_unlock_tech_desc:0 "Vertibirds are a class of tilt-wing rotorcraft that can fill a variety of rolls on the battlefield, including transport, close air support, and troop extraction."
+  grunt_level_radio_unlock_tech:0 "Portable Radios"
+  forward_fire_base_unlock_tech:0 "Mobile Fortifications"
+
+  scav_unlock_weapon_tt:0 "Unlocks the corresponding weapon technology for research."
+  scav_unlock_business_tt:0 "Unlocks the corresponding pre-war business."
+
+  #----------------------------
+  # Civilizations
+  #----------------------------
+  super_mutant_civilization:0 "Super Mutant Civilization"
+  super_mutant_civilization_desc:0 "Our nation is one lead by Super Mutants, embracing their strengths as soldiers superior to human beings. The tactics and equipment we develop are best suited to robust mutants, so any humans we conscript will struggle to keep."
+
+  military_heritage_unlock_tech:0 "Military Heritage"
+  military_heritage_unlock_tech_desc:0 "Our nation has a long history of military traditions, descending from soldiers that survived the Great War."
+  military_heritage_unlock_tech_tt:0 "Unlocks access to the §YMilitary Heritage§! technologies located in the top-right of the §GInfantry§! technology window."
+
+  # Units
+  police_infantry_tech:0 "Lawkeeper Infantry"
+  police_infantry_tech_desc:0 "Lawkeepers are a hybrid between militia and law enforcement that keep order in times of peace, and help fight in times of war. Although they're not as effective in a straight fight as normal infantry, they tend to be more familiar with the land and locals, providing their own recon and taking the initiative when more disciplined soldiers won't."
+  sentinel_unit_tech:0 "Sentinel Combat System"
+  sentinel_unit_tech_desc:0 "The Sentinel Combat System was a pre-war project to slave several Power Armour suits to a human controller, allowing them to operate autonomously regardless of if they are occupied or not. The automated systems allow us to field our armours with a fraction of the specialized manpower we would otherwise."
+  dog_infantry_tech:0 "Warhound Platoon"
+  dog_infantry_tech_desc:0 "Most nations in the wasteland recognize the use of dogs in a supporting role, but we have truly embraced them as an essential part of our army. Training warhounds might take more time and resources than normal soldiers, but will make them much more effective on the offensive."
+  super_mutant_aux_infantry_tech:0 "Super Mutant Auxilaries"
+  super_mutant_aux_infantry_tech_desc:0 "Super Mutants are stronger and more durable than normal human beings, with an immunity to disease and radiation. Allowing them to join our army as auxiliaries could give us an edge on the battlefields of the wasteland."
+  ghoul_paratrooper_tech:0 "Ghoul Paratroopers"
+  ghoul_paratrooper_tech_desc:0 "The radiation resistance of ghouls provides unique opportunities for stealth infiltration and insertion into places too radioactive for human soldiers."
+  super_mutant_nightkin_tech:0 "Nightkin"
+  super_mutant_nightkin_tech_desc:0 "Nightkin were the Master's special operatives, using stealth boys to hide from sight and slip behind enemy lines despite their large stature. Surviving Nightkin are prone to psychosis and memory issues, but they're still willing to fight alongside other super mutants."
+  plant_support_tech:0 "Monstrous Plants"
+  plant_support_tech_desc:0 "Giant mutant plants that are hostile to human life have evolved indpendently multiple times in the wasteland. Despite their danger to our own troops, we could find use for them by planting them around our camps or in chokepoints to deny access to our enemies."
+  knights_unlock_tech:0 "Brotherhood Knights"
+  knights_unlock_tech_desc:0 "Knights are the intermediate rank of the Brotherhood of Steel, above initiates and below paladins. Knights have combat training and experience beyond that of initiates and are authorized to use old power armor in the field, conducting operations under the command of Paladins."
+  scribes_unlock_tech:0 "Field Scribes"
+  scribes_unlock_tech_desc:0 "Scribe are scientists and engineers for the Brotherhood of Steel, conducting research on pre-war technologies and threats of the wasteland. While most scribes are content to work in brotherhood bunkers, there are certain operations that require the help of scribes in the field, from research to weapon maintenance to emergency repairs."
+  faerie_unlock_tech:0 "Faeries"
+  faerie_unlock_tech_desc:0 ""
+  leshy_unlock_tech:0 "Offerings For The Leshy"
+  leshy_unlock_tech_desc:0 ""
+  gloria_robot_unlock_tech:0 "Steel Dame Upkeep"
+  gloria_robot_unlock_tech_desc:0 ""
+  leshy_baby_support_unlock_tech:0 "Spawn Of Leshy"
+  leshy_baby_support_unlock_tech_desc:0 ""
+
+  # Faction Units
+  BAG_ghoul_paratrooper_tech:0 "Ghoul Rangers"
+  BAG_ghoul_paratrooper_tech_desc:0 "The radiation resistance of ghouls provides unique opportunities for stealth infiltration and insertion into places too radioactive for human soldiers."
+
+ #Tribal
+  pathfinders:0 "Pathfinders"
+  pathfinders_desc:0 "Pathfinders are dedicated scouts and explorers sent to map the land and prepare paths for the rest of our warriors."
+
+  clanfightingstyles:0 "Clan Fighting Style"
+  clanfightingstyles_desc:0 "Our warriors have adopted a unique fighting style to distinguish themselves from other tribes of the wasteland."
+
+  warriorcult:0 "Warrior Cult"
+  warriorcult_desc:0 "War is a way of life in our tribe, with our warriors trained to prepare for battle from birth."
+
+  nomadsoul:0 "Nomad Warriors"
+  nomadsoul_desc:0 "A nomadic lifestyle has left our warriors adapted to life constantly on the move, making constant advancement in war second nature to them."
+
+  mansbestfriend:0 "Man's Best Friend"
+  mansbestfriend_desc:0 "War Dogs are not simply tools to our people, but companions that live beside us. Familiarity and a strong bond makes our dogs more loyal and driven than those of other peoples."
+
+  noctwarriors:0 "Nocturnal Warriors"
+  noctwarriors_desc:0 "Night raids are a common practice for our tribe, disrupting our enemies rest and hitting them when they are most vulnerable."
+
+  tribalholyorg:0 "The God In The Cave"
+  tribalholyorg_desc:0 "Our warriors are zealously loyal to the spirits of the sacred caves, willing to follow their commands without question."
+
+  sacredgifts:0 "Gifts Of The Land"
+  sacredgifts_desc:0 "While developed peoples may exploit the land, we have learned to cultivate the land and increase its productivity over generations."
+
+  outsiderways:0 "Lessons Of The Outsiders"
+  outsiderways_desc:0 "Adopting limited concepts from the outside like trenches and outposts will enable our troops to defend our borders more effectively."
+
+  tribalimmortals:0 "Immortal Warriors"
+  tribalimmortals_desc:0 "An old book we found tells of the ancient "Immortals", an army where for every soldier that fell two more would take his place. We could learn from this ancient wisdom to cultivate the myth that our soldiers are truly immortal!"
+
+  tribalwarpaint:0 "Tribal War Paint"
+  tribalwarpaint_desc:0 "War Paint will both intimidate our foes and inspire bravery in our warriors."
+
+  tribalnumbers:0 "Strength In Numbers"
+  tribalnumbers_desc:0 "What we lack in advanced weapons we can make up for in overwhelming numbers, sending more men into battle than our enemies would dare."
+
+  tribalsungods:0 "Sun Gods"
+  tribalsungods_desc:0 "Our tribe's dedication to the Sun Gods pushes us to thrive in searing deserts where other tribes would suffer."
+
+  tribalmountaingods:0 "Mountain Gods"
+  tribalmountaingods_desc:0 "Devotion to the Mountain Gods keeps our warriors warm even on snow capped peaks, where they train to fight for glory and honour."
+
+  #NCR
+  oldworldarmour:0 "Old World Armour"
+  oldworldarmour_desc:0 "The NCR bases the armour of their soldiers on old world designs, using uniforms layered with a predecessor to ballistic weave that's easier to produce."
+  ncr_railway_construction:0 "Railway Construction"
+  ncr_railway_construction_desc:0 "The NCR is probably the only place where the necessary know-how and industrial support are present to revitalise the old-world's railway lines."
+  EHT_ncr_railway_construction:0 "Road Builders"
+  EHT_ncr_railway_construction_desc:0 "While the Eighties are mostly known as Road Warriors, their conquest would be impossible without the Road Builders. These people who abandoned glory in order to pave the way for it to others are highly revered. They're rare and extraordinary craftsmen whose work is simply irreplaceable."
+
+  #Vault City
+  mutant_supremacy:0 "The Mole-Men Shall Rule The Earth!"
+  mutant_supremacy_desc:0 ""
+
+  #Itza
+  itz_rough_terrian_training:0 "Rough Terrain Training"
+  itz_rough_terrian_training_desc:0 "Training our Special Forces in advanced survival techniques with grueling excursions to the wilderness will help prepare them for any challenge the wasteland can put in their way."
+
+  #Army of Mexico
+  jungle_spirits:0 "Jungle Machine Spirit"
+  jungle_spirits_desc:0 "By waterproofing and reprogramming our robots we have managed to overcome many of the limitations that prevented them from functioning at their best in humid jungles and swamps."
+
+  jungle_tribal_integration_tech:0 "Jungle Tribal integration"
+  jungle_tribal_integration_tech_desc:0 "The jungles of Central America are home to many small tribal groups, and by attempting to integrate some of them into our culture we have learned some of their traditions of mastercraft weapons and jungle warfare."
+
+  ghoul_civilization:0 "Ghoul Civilization"
+  ghoul_civilization_desc:0 "Our people are mostly ghouls, pre or post war, and our society is built around a populace that doesn't age or suffer the effects of radiation."
+
+  #NCR
+  ncr_reorgranger_tech:0 "Reorganization of the Rangers"
+  ncr_reorgranger_tech_desc:0 "The Ranger Treaty of 2271 caused some chaos in the ranks of the rangers, and its taken time to fully integrate them into our military."
+
+  ncr_rangercore_tech:0 "Ranger Corps"
+  ncr_rangercore_tech_desc:0 "The Rangers have integrated themselves into our army, bringing decades of experience and techniques to our special forces."
+
+  ncr_jim_drills:0 "Jim Drills"
+  ncr_jim_drills_desc:0 "Incorporating squad tactics, urban assault tactics, and marksmanship training into our army drills will improve our soldiers combat readiness."
+
+  BAG_ncr_jim_drills:0 "Californian Trooper Warfare"
+  BAG_ncr_jim_drills_desc:0 "Incorporating squad tactics, urban assault tactics, and marksmanship training into our army drills will improve our soldiers combat readiness."
+
+  ncr_rangerlead_tech:0 "Ranger Leads"
+  ncr_rangerlead_tech_desc:0 "The original rangers were trained to perform raids ahead of a main force's advance, gathering intel and disrupting the enemy. We should do the same."
+
+  ncr_rangercanopeners_tech:0 "Ranger Can Openers"
+  ncr_rangercanopeners_tech_desc:0 "Power armour can present a serious issue for conventional special forces, but we have developed countermeasures to help our rangers tear open any tin cans that stand in their way."
+
+  ncr_seth:0 "Seth's Rangers"
+  ncr_seth_desc:0 "The Desert Rangers were founded upon idealistic principles of Liberty, Equality, and Prosperity. Belief in these principles drives our rangers to never give in on the battlefield."
+
+  ncr_privatepolice:0 "Citizen Militias"
+  ncr_privatepolice_desc:0 "In times of great struggle every citizen must be prepared to fight for their home, and we must arm our citizens to prepare them for this eventuality."
+
+  bag_steelrangers:0 "Steel Rangers"
+  bag_steelrangers_desc:0 "Combining two very different specialized training, the "Steel Rangers" are former rangers with powered-armour equipment. While the Rangers always preferred long-distance warfare and precision, and the Brotherhood units' close-distance and heavy firepower, we are confident this experiment will yield fruits."
+  bag_steelrangers_tt:0 "§OUnlocking this tech will force your Spec Ops units to use Power-Armour equipment. They will use half the amount of gear compared to traditional Power-Armour units, but they will be more expensive and durable than their regular counterparts.§!"
+
+  ncr_shocktroopers_tech:0 "Shock Troopers"
+  ncr_shocktroopers_tech_desc:0 "With the data seized from the Brotherhood of Steel following the NCR-Brotherhood War, the first of the Republic's Heavy Troopers have begun deployment."
+
+  #Legion
+  legion_centurions_tech:0 "Centurions"
+  legion_centurions_tech_desc:0 "Centurions are high ranking soldiers in the Legion's hierarchy that have proven themselves in many battles. They lead other soldiers not by command, but by example."
+  legion_warriors_of_mars_tech:0 "Warriors of Mars"
+  legion_warriors_of_mars_tech_desc:0 "The Cult of Mars revels in the destruction of battle, encouraging our armored forces to leverage the full power of their armor in brutal melee combat."
+  legion_vexillarius_tech:0 "Vexillarius"
+  legion_vexillarius_tech_desc:0 "Vexillarius are standard bearers of the legion, helping coordinate forces with flags as they did in the ancient roman empire."
+  ces_at_tech:0 "AT Rifle Mastery"
+  ces_at_tech_desc:0 "Not all the Legion's warroirs fight with melee weapons. Many veterans are the some of the sharpest shooters the Mojave has ever seen."
+  legion_frumentarii_officers_tech:0 "Frumentarii Officers"
+  legion_frumentarii_officers_tech_desc:0 "Frumentarii are usually reserved for subtle missions away from a battlefield, but granting them the authority to command troops could help with subversive operations that require more manpower."
+  legion_frumentarii_commandoes_tech:0 "Frumentarii Commandos"
+  legion_frumentarii_commandoes_tech_desc:0 "Training our Frumentarii in combat will ensure they can defend themselves if compromised, and when the time comes for battle they can use their intel to coordinate our forces in the field, or slip behind enemy lines to wreak havoc."
+  ces_aurelius_mercenaries_tech:0 "Mercenary Advisors"
+  ces_aurelius_mercenaries_tech_desc:0 "Any good leader recognizes the use of Mercenaries, knowing that their ability to fight using technologies and tactics that a professional army cannot will help on the battlefield."
+  CES_horns_moroni_tech:0 "Horns of Moroni"
+  CES_horns_moroni_tech_desc:0 "The Malpais Legate has mixed the traditions of his faith with those of the legion, including the idea of a foretold era of all men united under God."
+  BAG_CES_horns_moroni_tech:0 "The Medics of the Apocalypse"
+  BAG_CES_horns_moroni_tech_desc:0 "The Followers of the Apocalypse are one of the best surgeons in the wasteland. Utilizing their methods and employing some in their field hospitals could save countless lives on the battlefield."
+  armored_chariots_tech:0 "Armoured Chariots"
+  armored_chariots_tech_desc:0 "Improving the armor of our new Chariots will allow us to push our tactics of unstoppable advance even harder without fear of them being destroyed."
+  CES_mercenary_training_tech:0 "Mercenary Training Tech"
+  CES_mercenary_training_tech_desc:0 "While our army is well renowned in the ways of war, there is always more to learn, and paying mercenaries that have travled far to learn the secrets and techniques of distant lands will prepare us to one day face them."
+  ces_navajo_scouts_tech:0 "Navajo Scouts"
+  ces_navajo_scouts_tech_desc:0 "Scouts from Navajo nation can teach our Frumentarii a lot of valuable skills"
+  ces_navajo_skin_walkers_tech:0 "Navajo's Skin Walkers"
+  ces_navajo_skin_walkers_tech_desc:0 "Navajo myth speaks of skinwalkers, evil shapeshifters that take on the form of animals, regarded as the opposite of the Navajo way of life. The term has found new use to refer to those warriors who try to emulate these Skinwalkers, fighting like wild beasts and monsters."
+  ces_two_tech:0 "Legion's Chariots"
+  ces_two_tech_desc:0 "The greatest vehicles Two Sun has to offer now will serve the Legion's glory."
+  phoenix_tech_desc:0 "The Phoenix rebellion has taught the legion the dangers of treason and betrayal, and we will make sure every legionary knows in his heart what will happen to him should he dare act against the Legion's will."
+  legion_training_tech:0 "Legion Wave Tactics"
+  legion_training_tech_desc:0 "The Legion has truly earned its name, fielding armies on scales larger than even the NCR. With so many soldiers its become possible to creat a never-ending stream of soldiers into battle, allowing more of our soldiers to engate an enemy at once."
+
+  #Reno
+  reno_mastersnewarmy:0 "Master's New Army"
+  reno_mastersnewarmy_desc:0 "Following in the footsteps of the Master, we will build the greatest army of super mutants the wasteland has ever seen!"
+
+  #Oregon
+  oregon_mesmetronfieldequipment:0 "Mesmetron Sidearms"
+  oregon_mesmetronfieldequipment_desc:0 "“SEE THE WORLD YOUR WAY—with the MESMETRON!”\nDeveloped by Implied Hypnotics, Inc. and the UNITED STATES MILITARY, this marvel of NEURAL REALIGNMENT doesn’t just subdue—it clarifies.\nBy flooding the brain with psycho-resonant harmonic pulses, it silences chaos and opens the mind to a BETTER perspective: YOURS.\nSome side effects—like cranial fireworks or temporary belligerence—were noted during trials, but most subjects experienced immediate attitude adjustment."
+  oregon_psyker_mental_stimulants:0 "Mental Stimulants"
+  oregon_psyker_mental_stimulants_desc:0 "We've started giving specialized chems to our special forces to boost their psychic powers in the field."
+  oregon_psyker_nullification_training:0 "Nullification Training"
+  oregon_psyker_nullification_training_desc:0 "Psykers are still poorly understood, and some of them have difficulty regulating their powers. Giving our psykers nullification devices will allow them to selectively suppress their powers, to train better control and combat negative side-effects."
+  oregon_psyker_ancient_traditions:0 "Ancient Traditions"
+  oregon_psyker_ancient_traditions_desc:0 "Controlling the mind is difficult, so some of our psykers have started using ritual and personal objects to create talismans that focus their powers."
+
+  #Settler
+  settler_caravanmilitia:0 "Caravan Militias"
+  settler_caravanmilitia_desc:0 "Sending our Militia out to regularly escort caravans will help them build experience in times of peace, and ensure our supply lines are secure."
+
+  #Raider
+  raider_reckless_aggression:0 "Reckless Aggression"
+  raider_reckless_aggression_desc:0 "Raiders live life always on the edge of death, constantly fighting for their next fix or the loot they need to stay alive. Self preservation takes a backseat to getting in and getting what's theirs."
+
+  #Lawkeepers
+  tbh_lawkeepers_tech_1:0 "Deputy Training"
+  tbh_lawkeepers_tech_1_desc:0 "Deputies are lawmen that have been appointed the position by their superiors, given authority by the sheriffs they work under. In times of need, a sheriff can deputize almost anyone to help enforce the law."
+  tbh_lawkeepers_tech_2:0 "Sheriff Training"
+  tbh_lawkeepers_tech_2_desc:0 "Sheriffs are a form of lawkeeper chosen by the community they serve, usually by an informal election. Sheriffs have broad authority and questionable accountability, but their frontier justice keeps rural communities safe from raiders and criminals."
+  tbh_lawkeepers_tech_3:0 "Marshall Training"
+  tbh_lawkeepers_tech_3_desc:0 "A marshall is the highest rank of lawkeeper, holding authority over large swathes of territory, elected like sheriffs by the people. Marshalls tend to solve crimes and issues too big for any one town, and an experienced marshall can rival even a desert ranger in a fight."
+
+  #Colorado
+  ttm_healthy_warriors:0 "Healthy Warriors"
+  ttm_healthy_warriors_desc:0 "It's no secret that the people of the wasteland struggle to maintain their health, be it malnutrition, disease, or mutation. Having a truly healthy populace will give our warriors just the edge they need over the sickly masses of the wastes."
+  ttm_call_of_the_wild:0 "Call of the Wild"
+  ttm_call_of_the_wild_desc:0 "Dogs are loyal and useful allies to humans, but they are far from the most powerful animals in the wasteland. With a little genetic engineering we've made our dogs stronger and more resilient to ensure they stay relevant on the modern battlefield."
+  ttm_jurassic_strength:0 "Jurassic Strength"
+  ttm_jurassic_strength_desc:0 "DNA is full of many mysteries, and splicing ancient samples into modern humans was dangerous, but has created otherwise normal humans with the strength to rival super mutants."
+  warden_doggos_tech:0 "Total K-9 Integration"
+  warden_doggos_tech_desc:0 "Denver is so overflowing with Dogs that every single man, woman, child, and robot can have one of their very own! Just imagine the possibilities of a world where everyone has their very own cyberdog, following them all the time..."
+  warden_doggos_tech_tt:0 "\n§OUnlocking this tech will cause all Support Robot, Combat Robot, Enforcer, Motorized Enforcer, Spec Ops and Power Armour units you control to require additional armor and Dog Equipment, making your units more expensive in exchange for improved stats.§!"
+  warden_doggos_cost_idea:0 "Canine Academy"
+  warden_doggos_cost_idea_desc:0 "The integration of a Mass number of dogs into our forces has certainly improved how effective they are in the field, but demands an even greater level of training and coordination between our units and dogs, making filtering out only the smartest and most loyal dogs paramount to avoiding chaos on the battlefield."
+  whd_dragoon_tech:0 "Crimson Dragoons"
+  whd_dragoon_tech_desc:0 "Training our Special Forces to work with Autonomous Power Armor suits will allow our soldiers to shift between armored cavalry and light stealth forces at a moment's notice."
+  whd_combined_arms_tech:0 "Combined Arms Tank Doctrine"
+  whd_combined_arms_tech_desc:0 "Power Armor is nice and all, but even conventional tanks can provide armor to our troops when trained to stick with their armor in the field!"
+  whd_ghoul_synergy_tech:0 "Ghoulish Synergies"
+  whd_ghoul_synergy_tech_desc:0 "Feral Ghouls have a tendency to react violently to any smoothskin that gets too close, but have a certain level of tolerance for their fellow Ghouls. It might be a bit "Unethical" but mixing our units can ensure that our Ghoulish troopers have ample bodies ready to sacrifice themselves in the way, protecting the lives that matter with those that don't."
+  special_vintage:0 "Special Vintage"
+  special_vintage_desc:0 ""
+
+  #Utah
+  all_terrain_vehicles_tech:0 "All-Terrain Vehicle Application"
+  all_terrain_vehicles_tech_desc:0 "The Old World is not all about abandoned roadways through the desert - there are steep and unpaved pathways and dirt paths that lead upon mountains and hills that we will need to conquer. Having the proper tools, such as studded wheels, and teaching off-road techniques to all of our drivers will do the trick."
+
+  #Khans Medical Techs
+  HEADER_KHANS_BUFFS:0 "Medicine Buffs"
+  khan_field_medics_tech:0 "Field Medics"
+  khan_field_medics_tech_desc:0 "Nowhere does quick access to medical treatment make a bigger difference than on the battlefield. Training some of our people in field medicine and kitting them out for the job should ensure as many soldiers as possible come home from the battles to come."
+  khan_antivenom:0 "Antivenom"
+  khan_antivenom_desc:0 "The wasteland is full of venomous creatures and raiders willing to exploit their toxins. Creating generalized antidotes by collecting the most common venoms will give our people the security that one stray arrow or scorpion sting doesn't spell certain death."
+  khan_radaway:0 "RadAway"
+  khan_radaway_desc:0 "Radiation is the invisible killer in the wasteland, and even places that don't seem contaminated at first can quickly kill a party that isn't aware of the danger. RadAway is a miracle medicine for our people, a way to flush out rads quickly enough to treat radiation poisoning that would otherwise spell certain death."
+  khan_fixer:0 "Fixer"
+  khan_fixer_desc:0 "For all their benefits, most chems can come with hidden drawbacks in the form of debilitating addiction and withdrawal. Fixer is a life-saver in an emergency, tricking the body into halting withdrawal symptoms and making it easier to quit a chem, or at least survive running out in the field."
+  khan_cateye:0 "Cateye"
+  khan_cateye_desc:0 "The dark of night can hide all sorts of dangers and traps, escpecially on the field of war. While fancy optics can give a soldier a hazy sense of what's around them, Cateye boosts their natural night vision for an even cleaerer picture of the battlefield - like a nocturnal predator."
+  khan_mentats:0 "Mentats"
+  khan_mentats_desc:0 "Knowledge is power, and nothing showcases that like Mentats! These chalky tablets can give our people an extra boost to brainpower and creativity that helps them solve any problems they encounter, from the lab to the frontlines."
+  khan_daddy_o:0 "Daddy-O"
+  khan_daddy_o_desc:0 "Daddy-O is a rarer chem that boosts the user's focus to extreme levels, usually at the cost of hyperfixating on only one thing at a time. It won't make our specialists more popular at parties, but it works wonders if you need to tune out all that noisy gunfire and focus on hacking a terminal or disarming a bomb."
+  khan_buffout:0 "Buffout"
+  khan_buffout-desc:0 "Buffout is a powerful steroid that encourages muscle development and loosens the limiters on the users strength, useful if we need an extra bit of oopmh in an unarmed struggle or lifting something to clear the way. If properly moderated it can even help build permanent muscle mass!"
+
+  #Block Tech Tech
+  blocked_tech:0 "Not Researchable"
+
+  #Defunct
+  tribal_civilization:0 "Tribal Civilization"
+  tribal_civilization_desc:0 ""
+  settled_civilization:0 "Settler Civilization"
+  settled_civilization_desc:0 ""
+  scientific_civilization:0 "Scientific Civilization"
+  scientific_civilization_desc:0 ""
+
+  general_atomics_unlock_tech:0 "General Atomics Schematics"
+  general_atomics_unlock_tech_desc:0 "General Atomics was broadly invested in many fields of technology before the war, including robotics, energy, and home appliances."
+  stent_security_solutions_unlock_tech:0 "Stent Security Solution Schematics"
+  stent_security_solutions_unlock_tech_desc:0 "Stent Security Solutions was a defense contractor that specialized in ballistics and automatic weaponry, designing assault rifles for the United States."
+  wattz_company_unlock_tech:0 "Wattzs Consumer Electronics Schematics"
+  wattz_company_unlock_tech_desc:0 "Wattz Consumer Electronics manufactured just about anything electric you could imagine before the war, from holotapes to laser guns to power cells."
+  handhtools_unlock_tech:0 "H & H Tools Schematics"
+  handhtools_unlock_tech_desc:0 "H&H Tools were of the highest quality money could buy before the bombs dropped, designed to help human workers keep up with automation in factories."
+  poseidon_unlock_tech:0 "Poseidon Energy Schematics"
+  poseidon_unlock_tech_desc:0 "Poseidon Energy was a pre-war power company that researched energy systems and advanced weaponry, as well as the groundbreaking PoseidoNet data system."
+  lockreed_unlock_tech:0 "Lockreed Schematics"
+  lockreed_unlock_tech_desc:0 "Lockreed was an aerospace company that developed massive jetliners for civilian air travel across the pre-war world."
+  arcjetsystems_unlock_tech:0 "ArcJet Systems Schematics"
+  arcjetsystems_unlock_tech_desc:0 "ArcJet Systems was a military and civilian aerospace company that specialized in spaceflight and long-range communication technologies."
+  westtek_unlock_tech:0 "West-Tek Schematics"
+  westtek_unlock_tech_desc:0 "West Tek was the largest military contractor in the pre-war world, developing the original power armour and the FEV that lead to the creation of super mutants."
+  robco_unlock_tech:0 "RobCo Industries"
+  robco_unlock_tech_desc:0 "RobCo Industries was a massive company that specialized in robots, civilian and military computers, and spaceflight via its REPCONN subsidiary."
+
+  mininuke_unlock_tech:0 "Mini-nuke"
+  mininuke_unlock_tech_desc:0 "Handle Carefully"
+  artillery_ammo_unlock_tech:0 "Artillery Ammunition"
+  artillery_ammo_unlock_tech_desc:0 "Artillery Ammunition"
+  railways_construction:0 "Road Construction"
+  railways_construction_desc:0 "The American Highway system once connected the old world. Now we trend only on the rubble."
+  interwoven_support_tech:0 "Interwoven Support"
+  interwoven_support_tech_desc:0 ""
+  mountaineer_training_tech:0 "Mountaineer Training"
+  mountaineer_training_tech_desc:0 "Our troops have years of practice handling the highest peaks."
+  skilled_medics_tech:0 "Talented Doctors"
+  skilled_medics_tech_desc:0 ""
+  skilled_medic_tt:0 "Gain the §HTalented Doctors§! tech, which grants:\n   £GFX_unit_category_medical_support_icon_small §HMedical Support Units:§!\n      £GFX_trickleback_texticon Trickleback: §G+15%§!."
+  robco_security_protectrons_tech:0 "RobCo. Security Protectrons"
+  robco_security_protectrons_tech_desc:0 ""
+  ballistic_missile_unlock_tech:0 "Pre-War Ballistic Missile Launching"
+  ballistic_missile_unlock_tech_desc:0 ""
+  nuclear_missile_unlock_tech:0 "Pre-War Nuclear Missile Launching"
+  nuclear_missile_unlock_tech_desc:0 ""

@@ -1,0 +1,47 @@
+﻿l_english:
+  lanius_research_pact:0 "Friends of Lanius"
+  lanius_research_pact_desc:0 "Lanius, in many ways, is more lenient than Caesar when it comes to working with outsiders."
+
+  legion_research_pact:0 "Friends of Caesar"
+  legion_research_pact_desc:0 "The Legion's reliance upon slave soldiers from the tribes of the Wastes means much of its development comes from the tributary states. But they, in turn, prosper from the Legion's protection. One reason for Caesar to tolerate the independence of neighbouring peoples is because the §YReservation§!, the §YNavajo§!, and §YTwo Suns§! can develop technologies the Legion should, in theory, refrain from using."
+
+  invite_to_rio_research_pact:0 "Invite [FROM.GetName] to El Instituto Politécnico Mexicano"
+  rio_research_pact:0 "El Instituto Politécnico Mexicano"
+  rio_research_pact_desc:0 "El Instituto Politécnico Mexicano is designed to spread learning and technology to all of Mexico's citizens."
+
+  timberline_research_pact:0 "Timberline Caravan Trails"
+  timberline_research_pact_desc:0 "A network of caravan trails handled by the Timberline to help spread supplies across Oregon to those in need."
+
+  rosado_research_pact:0 "El Instituto Politécnico de Laredo"
+  rosado_research_pact_desc:0 "President Rosado has commissioned an institute to share research and discoveries with the Brotherhood."
+
+  vault_city_research_pact:0 "Wasteland Resources Forum"
+  vault_city_research_pact_desc:0 "Vault City wishes to inspire the peoples of Nevada to a better dream. That will not happen unless they work together."
+
+  aradesh_project: "The Aradesh Program"
+  aradesh_project_desc: "The NCR is the greatest force for good in the Wasteland, a sign of what we can achieve, if only we work together. Let us pool resources to face all who stand for tyranny and oppression."
+
+  technology_sharing_group: "The Institute of Science and Industry"
+  vault_city_research_pact: "Wasteland Resources Forum"
+  vault_city_research_pact_desc: "Vault City wishes to inspire the peoples of Nevada to a better dream. That will not happen unless they work together."
+  
+  followers_university:0 "The Followers University"
+  followers_university_desc:0 "Although the physical university is in the Boneyard, the true university is in the hearts and minds of all Followers. Wherever stands a person who wishes to bring knowledge to the people, there stands the University."
+
+  osi_research_pact:0 "The Office of Science and Industry"
+  osi_research_pact_desc:0 "The cutting edge of the NCR, their work focuses on practical matters - medicine, engineering, biology."
+
+  cosi_research_pact:0 "The Coloradan Office of Science and Industry"
+  cosi_research_pact_desc:0 "The Baggers' Expedition is inherently scientific in nature, which led to a concentration of knowledge in one place. Their understanding of medicine, biology, agriculture or engineering and resource procurement is without pair."
+
+  wpg_research_pact:0 "The Northern Lights"
+  wpg_research_pact_desc:0 "What can the Kingdom do against such hope?"
+
+  MTC_gabriel_institute:0 "The Gabriel Institute of Learning"
+  MTC_gabriel_institute_desc:0 "The Gabriel Institute of Learning is a basis of native history and culture. It also serves as a beacon to the smartest minds to gather and promote shared technological advancement."
+
+  last_redoubt_research_pact:0 "IntraWall Apprenticeship Exchange Program"
+  last_redoubt_research_pact_desc:0 "Annabella's new project, the IAEP. By sending skilled labor between our nations to share their learning, we can improve our common knowledge."
+
+  amgalan_research_pact:0 "The Followers Exchange"
+  amgalan_research_pact_desc:0 "One of the foremost principles of the Followers of the Apocalypse is the so-called \"free exchange of ideas.\" The Followers are dedicated to the accumulation and spread of knowledge, a process which their integration with our country allows us to reap the benefits of."

@@ -1,0 +1,28 @@
+﻿l_english:
+  STC_elites_party:0 "The Traditional Wing"
+  STC_elites_party_long:0 "The Wing For Traditional Socialist Thought"
+
+  STC_intellectuals_party:0 "The Farmer Collective Wing"
+  STC_intellectuals_party_long:0 "The Wing For Ruralization"
+
+  STC_ruler_party:0 "The Party Politburo"
+  STC_ruler_party_long:0 "Strathcommune Political Bureau"
+
+  STC_people_party:0 "The Worker Democratic Wing"
+  STC_people_party_long:0 "The Wing For Collective Worker Democracy"
+
+  STC_blossom_short:0 "Blossom Vanguard Party"
+  STC_blossom_long:0 "Blossom Vanguard Party"
+
+  STC_popular_party_short:0 "The Popular Party"
+  STC_popular_party_long:0 "Canadian Popular Union Party"
+
+  # Duplicate loc keys from fallout_government_l_english.yml
+  #STC_people_party:0 "Social Democratic Wing"
+  #STC_people_party_long:0 "Social Democratic Wing of the Collective Commonwealth Party"
+  #STC_elites_party:0 "Cheng Thought Wing"
+  #STC_elites_party_long:0 "Cheng Thought Wing of the Collective Commonwealth Party"
+  #STC_ruler_party:0 "Big Sister"
+  #STC_ruler_party_long:0 "Big Sister"
+  #STC_intellectuals_party:0 "Justice For Life Wing"
+  #STC_intellectuals_party_long:0 "Justice For Life Wing of the Collective Commonwealth Party"
